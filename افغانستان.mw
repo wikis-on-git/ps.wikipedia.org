@@ -7,7 +7,7 @@ image_coat = Afghanistan COA.png |
 image_map = LocationAfghanistan.png |
 national_motto = None |
 ملي سرود = [[ملي سرود]] |
-رسمي ژبه= [[پښتو]], [[Persian language|Persian]] ([[Dari (Afghanistan)|دري]]) |
+رسمي ژبه= [[پښتو]], [[دري]] ([[دري|دري]]) |
 پلازمېنه = [[کابل]] |
 latd=34|latm=30|latNS=N|longd=69|longm=10|longEW=E|
 لوی ښار= [[کندهار]] |
@@ -36,10 +36,10 @@ HDI_category = <font color=gray>NA</font> |
 sovereignty_type = [[خپلواکي]] |
 established_events = |
 established_dates = (from [[United Kingdom|UK]] control over Afghan affairs)<br />1919 |
-currency = [[Afghani (currency)|Afghani <small>(Af)</small>]] |
+پيسه = [[افغانۍ (پيسه)|افغانۍ <small>(Af)</small>]] |
 د پېسو کوډ= AFN |
 د هېواد کوډ= AFG |
-د وخت سيمه = |
+سيمه ايز وخت = |
 utc_offset = +4:30 | 
 time_zone_DST = |
 utc_offset_DST = +4:30 |
