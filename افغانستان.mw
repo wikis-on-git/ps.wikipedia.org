@@ -1,23 +1,24 @@
 {{Infobox_Country|
-native_name = د افغانستان اسلامي دولت<br />دولت اسلامی افغانستان<br> Da Afghanistan Islami Dawlat <br />Islamic Republic of Afghanistan |
-common_name = Afghanistan |
+native_name = د افغانستان اسلامي دولت<br />
+<br> Da Afghanistan Islami Dawlat <br />Islamic Republic of Afghanistan |
+common_name = افغانستان |
 image_flag = Flag of Afghanistan.svg |
 image_coat = Afghanistan COA.png |
 image_map = LocationAfghanistan.png |
 national_motto = None |
-national_anthem = [[Soroud-e-Melli]] |
-official_languages = [[Pashto]], [[Persian language|Persian]] ([[Dari (Afghanistan)|Dari]]) |
-capital = [[Kabul]] |
+ملي سرود = [[ملي سرود]] |
+رسمي ژبه= [[پښتو]], [[Persian language|Persian]] ([[Dari (Afghanistan)|دري]]) |
+پلازمېنه = [[کابل]] |
 latd=34|latm=30|latNS=N|longd=69|longm=10|longEW=E|
-largest_city = [[Kabul]] |
-government_type = [[Islamic Republic]] |
-leader_titles = [[President of Afghanistan|President]] |
-leader_names = [[Hamid Karzai]] |
+لوی ښار= [[کندهار]] |
+د حکومت بڼه= [[اسلامي جمهوريت]] |
+د لارښود لقب = [[د افغانستان ولسمشر|ولسمشر]] |
+د ولسمشر نوم= [[حامد کرزی]] |
 area_rank = 40th |
 area_magnitude = 1_E11 |
 area = 647,500 |percent_water = 0% |
-population_estimate = 29,928,987 |
-population_estimate_year = 2005 |
+د وګړو اټکل شوی شمېر = 29,928,987 |
+د اټکل شوي وګړو د شمېر کال = 2005 |
 population_estimate_rank = 38th |
 population_census =|
 population_census_year =|
@@ -32,18 +33,18 @@ HDI_year = 2003 |
 HDI = NA |
 HDI_rank = unranked |
 HDI_category = <font color=gray>NA</font> | 
-sovereignty_type = [[Independence]] |
+sovereignty_type = [[خپلواکي]] |
 established_events = |
 established_dates = (from [[United Kingdom|UK]] control over Afghan affairs)<br />1919 |
 currency = [[Afghani (currency)|Afghani <small>(Af)</small>]] |
-currency_code = AFN |
-country_code = AFG |
-time_zone = |
+د پېسو کوډ= AFN |
+د هېواد کوډ= AFG |
+د وخت سيمه = |
 utc_offset = +4:30 | 
 time_zone_DST = |
 utc_offset_DST = +4:30 |
 cctld = [[.af]] |
-calling_code = 93 |
+ټيليفوني کوډ= 93 |
 footnotes =
 }}
 
