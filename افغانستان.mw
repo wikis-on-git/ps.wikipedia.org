@@ -1,6 +1,7 @@
 {{Infobox_Country|
 د هېواد نوم په اصلي بڼه = د افغانستان اسلامي دولت<br /><br> Da Afghanistan Islami Dawlat <br />Islamic Republic of Afghanistan |
-هېواد = افغانستان |
+<font face="Pashto Kror Asiatype">
+هېواد = افغانستان
 image_flag = Flag of Afghanistan.svg |
 image_coat = Afghanistan COA.png |
 image_map = LocationAfghanistan.png |
@@ -44,9 +45,9 @@ time_zone_DST = |
 utc_offset_DST = +4:30 |
 cctld = [[.af]] |
 ټيليفوني کوډ= 93 |
-footnotes =
-}}
+footnotes = }}
 
+<font face="Pashto Kror Asiatype">
 '''أفغانستان''' د منڅنۍ اسيا يو هېواد دی چې  په ختيڅ او سوېل کې يې پاکستان، سهېل ختيڅ کې چين، سهېل کې يې د تاجکستان، ازبکستان او ترکمنستان هېوادونه دي. په لويديڅه خوا کې يې ايران پروت دی.
 
 
