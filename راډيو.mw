@@ -1,1 +1,293 @@
 <font face="Pashto Kror Asiatype"> ايټالوي مارکوني په 1895م کال کښې اختراع کړه٠
+
+{{otheruses}}
+
+'''Radio''' is the [[wireless|wireless transmission of signals]], by [[modulation]] of [[electromagnetic radiation|electromagnetic waves]] with [[frequency|frequencies]] below those of [[light]]. 
+
+==Radio waves==
+''Radio waves'' are a form of electromagnetic radiation, created whenever a [[electric charge|charged]] object (in normal radio transmission, an [[electron]]) [[accelerate]]s with a frequency that lies in the [[radio frequency]] (RF) portion of the [[electromagnetic spectrum]]. In radio, this acceleration is caused by an [[alternating current]] in an [[antenna (radio)|antenna]]. Radio frequencies occupy the range from a few tens of [[hertz]] to a few hundred gigahertz. 
+{| cellpadding="3" cellspacing="0" width="100%" style="border: 0px silver solid; padding: 4px"
+|- style="text-align: center; margin-top: 4px"
+| [[extremely low frequency|ELF]] -  [[super low frequency|SLF]] - [[ultra low frequency|ULF]]/[[voice frequency|VF]] - [[very low frequency|VLF]] - [[low frequency|LF]]/[[longwave|LW]] -  [[mediumwave|MW]] - [[high frequency|HF]]/[[shortwave|SW]] - [[very high frequency|VHF]] -  [[ultra high frequency|UHF]] -  [[Microwave|SHF]] -  [[extremely high frequency|EHF]]<br>'''Electromagnetic radio spectrum'''
+|}
+Other types of electromagnetic radiation, with frequencies above the RF range are [[infrared]], visible [[light]], [[ultraviolet]], [[X-ray]]s and [[gamma ray]]s. Since the energy of an individual [[photon]] of radio frequency is too low to remove an [[electron]] from an [[atom]], radio waves are classified as [[non-ionizing radiation]]. 
+<div style="float: center; text-align: center; margin: 1em 1em 1em 1em;">[[Image:Radio transmition diagram en.png|none|432px| ]]<br>Electromagnetic spectrum and diagram of radio transmission of an audio signal.</div>
+
+Electromagnetic radiation travels (propagates) by means of oscillating electromagnetic fields that pass through the air and the vacuum of space equally well, and does not require a medium of transport (such as the [[aether]]). When radio waves pass an electrical conductor, the oscillating electric or magnetic field (depending on the shape of the conductor) induces an alternating current and voltage in the conductor. This can be [[demodulation| transformed]] into audio or other signals that carry information. Although the word 'radio' is used to describe this phenomenon, the transmissions which we know as [[television]], radio, [[radar]], and cell phone are all classed as radio frequency emissions.
+
+==History and invention ==
+{{main|History of radio}}
+
+=== Origin of the word ===
+Originally, radio technology was called 'wireless telegraphy', which was shortened to 'wireless'. The prefix ''radio-'' in the sense of wireless transmission is first recorded in the word ''radioconductor'', coined by the French physicist [[Edouard Branly]] in 1897 and based on the verb ''to radiate''.  'Radio' as a noun is said to have been coined by advertising expert [[Waldo Warren]] (White 1944).  The word appears in a 1907 article by [[Lee de Forest]], was adopted by the [[United States Navy]] in 1912 and became common by the time of the first commercial broadcasts in the United States in the 1920s. (The noun 'broadcasting' itself came from an agricultural term, meaning 'scattering seeds'.) The American term was then adopted by other languages in Europe and Asia, although Britain retained the term 'wireless' until the mid-[[20th century]].
+
+=== Invention ===
+The identity of the original inventor of radio, at the time called [[wireless telegraphy]], is contentious. The controversy over who invented the radio, with the benefit of hindsight, can be broken down as follows: 
+
+:Q1: Who invented 'wireless transmission of data' ([[spark-gap radio]])?
+:A1: [[Nikola Tesla]] holds the US patent for the invention of the radio.
+
+:Q2: Who invented [[amplitude modulation|amplitude-modulated]] ([[AM radio|AM]]) radio, so that more than one station can send signals (as opposed to spark-gap radio, where one transmitter covers the entire bandwidth of the spectrum)?
+:A2: [[Reginald Fessenden]] <small><sub>[http://www.invent.org/hall_of_fame/59.html]</sub></small> and [[Lee de Forest]].
+
+:Q3: Who invented [[frequency modulation|frequency-modulated]] ([[FM radio|FM]]) radio, so that an audio signal can avoid "static," that is, interference from electrical equipment and atmospherics?
+:A3: [[Edwin Armstrong|Edwin H. Armstrong]] and Lee de Forest.
+
+Early radios ran the entire power of the transmitter through a carbon microphone. While some early radios used some type of amplification through electric current or battery, through the mid [[1920s]] the most common type of receiver was the [[crystal radio receiver|crystal set]].  In the 1920s, amplifying [[vacuum tube]]s revolutionized both [[radio receiver]]s and [[transmitter]]s.
+
+===Discovery and development===
+
+The theoretical basis of the propagation of electromagnetic waves was first described in [[1873]] by [[James Clerk Maxwell]] in his paper to the [[Royal Society]] ''A dynamical theory of the electromagnetic field'', which followed his work between [[1861]] and [[1865]]. In 1878 [[David E. Hughes]] was the first to transmit and receive radio waves when he noticed that his [[metal detector|induction balance]] caused noise in the receiver of his homemade [[telephone]]. He demonstrated his discovery to the Royal Society in 1880 but was told it was merely [[Electromagnetic induction|induction]]. It was [[Heinrich Rudolf Hertz]] who, between [[1886]] and [[1888]], first validated Maxwell's theory through experiment, demonstrating that radio radiation had all the properties of waves (now called [[Transverse wave|Hertzian wave]]s), and discovering that the electromagnetic equations could be reformulated into a partial differential equation called the [[wave equation]].
+
+[[Mahlon Loomis]] was issued {{US patent|129971}} on [[July 30]], 1872. [[Roberto Landell de Moura]], a Brazilian priest and scientist, conducted experiments after 1893 (but at least by 1894). He did not publicize his achievement until 1900. Claims have been made that [[Nathan Stubblefield]] invented radio before either Tesla or Marconi, but his device seems to have worked by [[Electromagnetic induction|induction]] transmission rather than [[Radio propagation|radio transmission]].
+
+===Wireless age===
+
+In [[1893]] in [[St. Louis]], [[Missouri]], Tesla made devices for his experiments with the [[electricity]]. Addressing the ''[[Franklin Institute]]'' in [[Philadelphia]] and the ''[[National Electric Light Association]]'', he described and demonstrated in detail the principles of their work. [http://www.ieee-virtual-museum.org/collection/people.php?taid=&id=1234597&lid=1] They contained all the elements that were later incorporated into radio systems before the development of the [[vacuum tube]]. He initially experimented with magnetic receivers, unlike the coherers used by Marconi and other early experimenters. [http://www.teslasociety.com/teslarec.pdf].  Tesla is usually considered the first to apply the [[Mechanism (science)|mechanism]] of [[electrical conduction]] to wireless practices.
+
+On [[19 August]] [[1894]], British physicist Sir [[Oliver Lodge]] demonstrated the reception of Morse code signalling using radio waves using a detecting device called a ''coherer'', a tube filled with [[iron]] filings which had been invented by [[Temistocle Calzecchi-Onesti]] at Fermo in Italy in [[1884]].  [[Edouard Branly]] of France and Popov of Russia later produced improved versions of the coherer.  
+
+[[Alexander Popov (physicist)|Alexander Popov]], who was the first to develop a practical communication system based on the coherer, is sometimes considered to have been the inventor of radio. In [[1894]] he built a coherer and  presented it to the Russian Physical and Chemical Society on [[May 7]] [[1895]] [http://www.ieee.org/organizations/history_center/milestones_photos/popov.html]. In March 1896, he transmitted radio waves between different campus buildings in [[Saint Petersburg]], but did not bother to apply for a patent.
+
+Between 1894 and 1900 the Indian physicist [[Jagdish Chandra Bose]] performed pioneering research on radio waves and created waves as short as 5 mm. [http://www.ieee-virtual-museum.org/collection/people.php?taid=&id=1234735&lid=1] In November 1894, Bose ignited gunpowder and rang a bell at a distance using electromagnetic waves, confirming that communication signals could be sent without using wires, but he too was not interested in patenting his work. 
+
+The New Zealander [[Ernest Rutherford, 1st Baron Rutherford of Nelson]] was instrumental in the development of radio. In 1895 he was awarded an [[1851 Exhibition|Exhibition of 1851]] Science Research Scholarship to Cambridge. He arrived in England with a reputation as an innovator and inventor, and distinguished himself in several fields, initially by divining the electrical properties of solids and then using wireless waves as a method of signalling. Rutherford was encouraged in his work by [[Sir Robert Ball]], who had been scientific adviser to the body maintaining lighthouses on the Irish coastline; he wished to solve the difficult problem of a ship’s inability to detect a lighthouse in fog. Sensing fame and fortune, Rutherford increased the sensitivity of his apparatus until he could detect electromagnetic waves over a distance of several hundred metres. Thomson quickly realised that Rutherford was a researcher of exceptional ability and invited him to join in a study of the electrical conduction of gases. The commercial development of wireless technology was thus left for [[Guglielmo Marconi]].
+
+In [[1896]] Marconi was awarded what is sometimes recognised as the world's first patent for radio with [[United Kingdom|British]] [[Patent]] 12039, ''Improvements in transmitting electrical impulses and signals and in apparatus there-for''. In [[1897]] he established the world's first radio station on the [[Isle of Wight]], [[England]].  The same year in the U.S., some key developments in radio's early history were created and patented by Tesla. The [[United States Patent and Trademark Office|U.S. Patent Office]] reversed its decision in [[1904]], awarding Marconi a patent for the invention of radio, possibly influenced by Marconi's financial backers in the States, who included [[Thomas Edison]] and [[Andrew Carnegie]]. Some believe this was  made for financial reasons, allowing the U.S. government to avoid having to pay the royalties that were being claimed by Tesla for use of his patents. 
+
+In [[1909]], Marconi, with [[Karl Ferdinand Braun]], was also awarded the [[Nobel Prize in Physics]] for "contributions to the development of wireless telegraphy".  However, [[Tesla patents|Tesla's patent]] (number ''645576'') was reinstated in [[1943]] by the [[Supreme Court of the United States|U.S. Supreme Court]], shortly after his death. This decision was based on the fact that prior art existed before the establishment of Marconi's patent. Some believe the decision was also made for financial reasons, to allow the U.S. government to avoid having to pay damages that were being claimed by the Marconi Company for use of its patents during [[World War I]].
+
+==="Wireless" factories and vacuum tubes===
+
+Marconi opened the world's first "wireless" factory in Hall Street, [[Chelmsford, England]] in [[1898]], employing around 50 people. Around [[1900]], Tesla opened the [[Wardenclyffe Tower]] facility and advertised services. By [[1903]], the tower structure neared completion. Various theories exist on how Tesla intended to achieve the goals of this wireless system (reportedly, a 200 kW system). Tesla claimed that Wardenclyffe, as part of a World System of transmitters, would have allowed secure multichannel transceiving of information, universal navigation, time synchronization, and a global location system.
+
+The next great invention was the [[vacuum tube]] detector, invented by a team of [[Westinghouse Electric Corporation|Westinghouse]] engineers. On [[Christmas Eve]], [[1906]], [[Reginald Fessenden]] (using his [[regenerative circuit|heterodyne principle]]) transmitted the first radio audio broadcast in history from [[Ocean Bluff-Brant Rock, Massachusetts|Brant Rock, Massachusetts]]. Ships at sea heard a broadcast that included Fessenden playing ''[[O Holy Night]]'' on the [[violin]] and reading a passage from the [[Bible]].  The world's first radio news program was broadcast [[August 31]], [[1920]] by station 8MK in [[Detroit, Michigan]]. The world's first regular wireless broadcasts for entertainment commenced in [[1922]] from the [[Guglielmo Marconi|Marconi]] Research Centre at [[Writtle]] near [[Chelmsford, England]].
+
+===20th century===
+
+Developments in the early [[20th century]] (1900-1959):
+
+*[[Aircraft]] used commercial AM radio stations for navigation.  This continued through the early [[1960s]] when [[VHF omnidirectional range|VOR]] systems finally became widespread (though AM stations are still marked on U.S. [[aviation]] charts).
+*In the early [[1930s]], [[single sideband]] and [[frequency modulation]] were invented by amateur radio operators.  By the end of the decade, they were established commercial modes.
+* Radio was used to transmit pictures visible as [[television]] as early as the [[1920s]].  Standard analog transmissions started in North America and Europe in the 1940s.
+*In [[1954]], [[Regency]] introduced a pocket [[transistor]] radio, the TR-1, powered by a "standard 22.5V Battery".
+
+Developments in the latter half of the 20th century  (1960-1999):
+
+*In [[1960]], [[Sony]] introduced their first transistorized radio, small enough to fit in a vest pocket, and able to be powered by a small battery.  It was durable, because there were no tubes to burn out.  Over the next twenty years, transistors replaced tubes almost completely except for very high power uses.
+*In [[1963]] color television was commercially transmitted, and the first (radio) [[communication satellite]], TELSTAR, was launched.
+*In the late [[1960s]], the U.S. long-distance telephone network began to convert to a digital network, employing [[digital radio]]s for many of its links.
+*In the [[1970s]], [[LORAN]] became the premier radio navigation system.  Soon, the U.S. Navy experimented with [[satellite navigation]], culminating in the invention and launch of the [[GPS]] constellation in [[1987]].
+*In the early [[1990s]], [[amateur radio]] experimenters began to use personal computers with audio cards to process radio signals.  In [[1994]], the U.S. Army and [[DARPA]] launched an aggressive, successful project to construct a [[software radio]] that could become a different radio on the fly by changing software.
+*Digital transmissions began to be applied to broadcasting in the late 1990s.
+
+==Uses of radio==
+
+[[Image:Truetone-Radio.jpg|thumbnail|200px|right|A Truetone brand radio]]
+[[Image:Old radio.jpg|thumb|250px|right|An old Bush brand radio]]
+
+Many of radio's early uses were maritime, for sending telegraphic messages using [[Morse code]] between ships and land.  One of the earliest users included the Japanese Navy scouting the Russian fleet during the [[Battle of Tsushima]] in 1905. One of the most memorable uses of marine telegraphy was during the sinking of the [[RMS Titanic|RMS ''Titanic'']] in [[1912]], including communications between operators on the sinking ship and nearby vessels, and communications to shore stations listing the survivors.  
+
+Radio was used to pass on orders and communications between armies and navies on both sides in [[World War I]]; Germany used radio communications for diplomatic messages once its submarine cables were cut by the British.  The United States passed on President [[Woodrow Wilson|Woodrow Wilson's]] [[Fourteen Points]] to Germany via radio during the war.  
+
+Broadcasting began to become feasible in the 1920s, with the widespread introduction of radio receivers, particularly in Europe and the United States. Besides broadcasting, point-to-point broadcasting, including telephone messages and relays of radio programs, became widespread in the 1920s and 1930s.  
+
+Another use of radio in the pre-war years was the development of detecting and locating aircraft and ships by the use of [[radar]] (''RA''dio ''D''etection ''A''nd ''R''anging).
+
+Today, radio takes many forms, including [[wireless network]]s, [[mobile communication]]s of all types, as well as radio [[broadcasting]]. Read more about radio's [[History of radio|history]].
+
+Before the advent of [[television]], commercial radio broadcasts included not only news and music, but dramas, comedies, variety shows, and many other forms of entertainment. Radio was unique among dramatic presentation that it used only sound.  For more, see [[radio programming]].
+
+There are a number of uses of radio:
+
+===Audio===
+* [[AM broadcast radio]] sends music and voice in the Medium Frequency (MF—0.300 MHz to 3 MHz) radio spectrum.  AM radio uses [[amplitude modulation]], in which louder sounds at the microphone causes wider fluctuations in the transmitter power while the transmitter frequency remains unchanged.  Transmissions are affected by static because lightning and other sources of radio add their radio waves to the ones from the transmitter.
+* [[FM broadcast radio]] sends music and voice, with higher fidelity than AM radio.  In [[frequency modulation]], louder sounds at the microphone cause the transmitter frequency to fluctuate farther, the transmitter power stays constant.  FM is transmitted in the Very High Frequency (VHF—30 MHz to 300 MHz) radio spectrum. FM requires more radio frequency space than AM and there are more frequencies available at higher frequencies, so there can be more stations, each sending more information. Another effect is that shorter VHF radio waves act more like light, travelling in straight lines, hence the reception range is generally limited to about 50-100 miles. During unusual upper atmospheric conditions, FM signals are occasionally reflected back towards the Earth by the [[ionosphere]], resulting in [[TV/FM DX|Long distance FM reception]]. FM receivers are subject to the [[capture effect]], which causes the radio to only receive the strongest signal when multiple signals appear on the same frequency. FM receivers are relatively immune to lightning and spark interference.
+* FM Subcarrier services are secondary signals transmitted "piggyback" along with the main program. Special receivers are required to utilize these services. Analog channels may contain alternative programming, such as reading services for the blind, background music or stereo sound signals. In some extremely crowded metropolitan areas, the subchannel program might be an alternate foreign language radio program for various ethnic groups. Subcarriers can also transmit digital data, such as station identification, the current song's name, web addresses, or stock quotes. In some countries, FM radios automatically retune themselves to the same channel in a different district by using sub-bands.
+* Aviation voice radios use [[VHF radio|VHF]] AM. AM is used so that multiple stations on the same channel can be received. (Use of FM would result in stronger stations blocking out reception of weaker stations due to FM's [[capture effect]]). Aircraft fly high enough that their transmitters can be received hundreds of miles (kilometres) away, even though they are using VHF.
+* Marine voice radios can use AM in the shortwave High Frequency (HF—3 MHz to 30 MHz) radio spectrum for very long ranges or [[Marine VHF radio|narrowband FM in the VHF spectrum]] for much shorter ranges. 
+* Government, police, fire and commercial voice services use narrowband FM on special frequencies.  Fidelity is sacrificed to use a smaller range of radio frequencies, usually five kilohertz of deviation (5 thousand cycles per second), rather than the 75 used by FM broadcasts and 25 used by TV sound.
+* Civil and military HF (high frequency) voice services use [[shortwave]] radio to contact ships at sea, aircraft and isolated settlements.  Most use [[single sideband]] voice (SSB), which uses less bandwidth than AM.  SSB sounds like ducks quacking on an AM radio.  Viewed as a graph of frequency versus power, an AM signal shows power where the frequencies of the voice add and subtract with the main radio frequency.  SSB cuts the bandwidth in half by suppressing the carrier and (usually) lower sideband.  This also makes the transmitter about three times more powerful, because it doesn't need to transmit the unused carrier and sideband. 
+* TETRA, [[Terrestrial Trunked Radio]] is a digital cell phone system for military, police and ambulances. 
+* Commercial services such as [[XM Radio|XM]] and [[Sirius Satellite Radio|Sirius]] offer encrypted digital [[Satellite radio]].
+
+===Telephony===
+
+*[[Cell phone]]s transmit to a local cell transmitter/receiver site, which connects to the public service telephone network through an optic fiber or microwave radio.  When the phone leaves the cell radio's area, the central computer switches the phone to a new cell. Cell phones originally used FM, but now most use various digital encodings.
+* Satellite phones come in two types: [[Inmarsat|INMARSAT]] and [[Iridium (satellite)|Iridium]].  Both types provide world-wide coverage.  INMARSAT uses geosynchronous satellites, with aimed high-gain antennas on the vehicles.  Iridium provides cell phones, except the cells are satellites in orbit.
+
+===Video===
+
+* [[Television]] sends the picture as AM, and the sound as FM, on the same radio signal.
+* Digital television encodes three bits as eight strengths of AM signal.  The bits are sent out-of-order to reduce the effect of bursts of radio noise.  A [[Reed-Solomon error correction]] code lets the receiver detect and correct errors in the data.  Although any data could be sent, the standard is to use [[MPEG-2]] for video, and five CD-quality (44.1 kHz) audio channels (center, left, right, left-back and right back).  With all this, it takes only half the bandwidth of an analog TV signal because the video data is compressed.
+
+===Navigation===
+
+* All [[satellite navigation]] systems use satellites with precision clocks.  The satellite transmits its position, and the time of the transmission.  The receiver listens to four satellites, and can figure its position as being on a line that is tangent to a spherical shell around each satellite, determined by the time-of-flight of the radio signals from the satellite.  A computer in the receiver does the math.
+* [[Loran]] systems also used time-of-flight radio signals, but from radio stations on the ground.
+* [[VHF omnidirectional range|VOR]] systems (used by aircraft), have an antenna array that transmits two signals simultaneously.  A directional signal rotates like a lighthouse at a fixed rate.  When the directional signal is facing north, an omnidirectional signal pulses. By measuring the difference in phase of these two signals, an aircraft can determine its bearing from the station. An aircraft can get readings from two VORs, and locate its position at the intersection of the two beams.
+* Radio direction-finding is the oldest form of radio navigation.  Before 1960 navigators used movable loop antennas to locate commercial AM stations near cities.  In some cases they used marine radiolocation beacons, which share a range of frequencies just above AM radio with amateur radio operators.
+
+===[[Radar]]===
+
+* Radar detects things at a distance by bouncing radio waves off them.  The delay caused by the echo measures the distance.  The direction of the beam determines the direction of the reflection.  The polarization and frequency of the return can sense the type of surface.
+* Navigational radars scan a wide area two to four times per minute.  They use very short waves that reflect from earth and stone.  They are common on commercial ships and long-distance commercial aircraft
+* General purpose radars generally use navigational radar frequencies, but modulate and polarize the pulse so the receiver can determine the type of surface of the reflector.  The best general-purpose radars distinguish the rain of heavy storms, as well as land and vehicles.  Some can superimpose sonar data and map data from [[GPS]] position.
+* Search radars scan a wide area with pulses of short radio waves.  They usually scan the area two to four times a minute.  Sometimes search radars use the [[doppler effect]] to separate moving vehicles from clutter.
+* Targeting radars use the same principle as search radar but scan a much smaller area far more often, usually several times a second or more.
+* Weather radars resemble search radars, but use radio waves with circular polarization and a wavelength to reflect from water droplets. Some weather radar use the [[Doppler effect|doppler]] to measure wind speeds.
+
+===Emergency services===
+
+* [[Emergency position-indicating rescue beacon]]s (EPIRBs), [[emergency locating transmitter]]s or [[personal locator beacon]]s are small radio transmitters that satellites can use to locate a person or vehicle needing rescue.  Their purpose is to help rescue people in the first day, when survival is most likely.  There are several types, with widely-varying performance.
+
+===Data (digital radio)=== 
+
+* The oldest form of digital broadcast was spark gap [[Telegraphy|telegraph]]y, used by pioneers such as Marconi.  By pressing the key, the operator could send messages in [[Morse code]] by energizing a rotating commutating spark gap.  The rotating commutator produced a tone in the receiver, where a simple spark gap would produce a hiss, indistinguishable from static.  Spark gap transmitters are now illegal, because their transmissions span several hundred megahertz.  This is very wasteful of both radio frequencies and power.
+* The next advance was continuous wave [[Telegraphy|telegraph]]y, or CW, in which a pure radio frequency, produced by a [[vacuum tube]] [[electronic oscillator]] was switched on and off by a key.  A receiver with a local oscillator would "[[heterodyne]]" with the pure radio frequency, creating a whistle-like audio tone.  CW uses less than 100Hz of bandwidth. CW is still used, these days primarily by [[amateur radio]] operators (hams). Strictly, on-off keying of a carrier should be known as "Interrupted Continuous Wave" or ICW.
+* [[radio teletype|Radio teletype]]s usually operate on short-wave (HF) and are much loved by the military because they create written information without a skilled operator.  They send a bit as one of two tones.  Groups of five or seven bits become a character printed by a teletype.  From about 1925 to 1975, radio teletype was how most commercial messages were sent to less developed countries.  These are still used by the military and weather services. 
+* Aircraft use a 1200 Baud radioteletype service over VHF to send their ID, altitude and position, and get gate and connecting-flight data.
+* Microwave dishes on satellites, telephone exchanges and TV stations usually use [[quadrature amplitude modulation]] (QAM).  QAM sends data by changing both the phase and the amplitude of the radio signal.  Engineers like QAM because it packs the most bits into a radio signal.  Usually the bits are sent in "frames" that repeat.  A special bit pattern is used to locate the beginning of a frame.
+* Systems that need reliability, or that share their frequency with other services, may use "corrected orthogonal frequency-division multiplexing" or [[COFDM]].  COFDM breaks a digital signal into as many as several hundred slower subchannels.  The digital signal is often sent as QAM on the subchannels.  Modern COFDM systems use a small computer to make and decode the signal with [[digital signal processing]], which is more flexible and far less expensive than older systems that implemented separate electronic channels.  COFDM resists fading and ghosting because the narrow-channel QAM signals can be sent slowly.  An adaptive system, or one that sends error-correction codes can also resist interference, because most interference can affect only a few of the QAM channels.  COFDM is used for [[WiFi]], some [[cell phone]]s, [[Digital Radio Mondiale]], [[Eureka 147]], and many other local area network, digital TV and radio standards.
+*Most new radio systems are digital, see also:[[Digital TV]], [[Satellite Radio]], [[Digital Audio Broadcasting]].
+
+===Heating===
+
+Radio-frequency energy generated for heating of objects is generally not intended to radiate outside of the generating equipment, to prevent interferance with other radio signals. 
+* [[Microwave oven]]s use intense radio waves to heat food. (Note: It is a common misconception that the radio waves are tuned to the resonant frequency of water molecules. The microwave frequencies used are actually about a factor of 10 below the resonant frequency.)
+* [[Diathermy]] equipment is used in surgery for sealing of blood vessels.
+* Induction [[furnace]]s are used for melting metal for [[casting]].
+
+===Mechanical force===
+
+* Tractor beams: Radio waves exert small electrostatic and magnetic forces.  These are enough to perform station-keeping in microgravity environments.
+* Conceptually, [[spacecraft propulsion]]: Radiation pressure from intense radio waves has been proposed as a propulsion method for an interstellar probe called [[Starwisp]].  Since the waves are long, the probe could be a very light metal mesh, and thus achieve higher accelerations than if it were a [[solar sail]].
+
+===Other===
+
+[[Image:HamRadioGirl.jpg|thumb|An amateur radio operator]]
+
+* [[Amateur radio]] is a hobby where enthusiasts who purchase or build their own equipment and use radio for their own enjoyment. They may also provide an emergency and public-service radio service. This has been of great use, saving lives in many instances. Radio amateurs are able to use frequencies in a large number of narrow bands throughout the radio spectrum.  Radio amateurs use all forms of encoding, including obsolete and experimental ones.  Several forms of radio were pioneered by radio amateurs and later became commercially important, including FM, single-sideband AM, digital packet radio and satellite repeaters.
+* Personal radio services such as [[Citizens' Band Radio]], [[Family Radio Service]], [[Multi-Use Radio Service]] and others exist in  North America to provide simple, (usually) short range communication for individuals and small groups, without the overhead of licensing. Similar services exist in other parts of the world.
+* [[Wireless energy transfer]]: A number of schemes have been proposed that transmit power using [[microwave]]s, and the technique has been demonstrated.  (See [[Microwave power transmission]]).  These schemes include, for example, [[solar power]] [[Solar power satellite|stations]] in orbit beaming energy down to terrestrial users.
+* [[Radio control|Radio remote control]]: Use of radio waves to transmit control data to a remote object as in some early forms of [[guided missile]], some early TV remotes and a range of model boats, [[Radio-controlled car|cars]] and aeroplanes. Large industrial remote-controlled equipment such as [[crane (machine)|crane]]s and switching [[locomotive]]s now usually use digital radio techniques to ensure safety and reliability.
+* [[EnOcean|Energy autarkic radio technology]] consists of a small radio transmitter powered by environmental energy (push of a button, temperature differences, light, vibrations, etc.).
+
+==See also==
+* [[Satellite radio]]
+* [[Invention of Radio]]
+* [[Radio propagation]] and [[ionosphere]]
+* [[Radio programming]]
+* [[Old-time radio]]
+* [[Music radio]]
+* [[Pirate Radio]]
+* [[Radio commercial]]
+* [[International broadcasting]]
+* [[Amateur radio]]
+* [[Hospital radio]]
+* [[Army No. 11 Wireless Set]]
+* [[Shortwave]]
+* [[Mediumwave]]
+* [[Longwave]]
+* [[Near Vertical Incidence Skywave]]
+* [[Transistor radio]]
+* [[Crystal radio receiver]]
+* [[Software radio]]
+* [[Internet radio]]
+* [[Types of radio emissions]]
+* [[Dead air]]
+* [[Radio astronomy]]
+* [[Tuner (radio)]]
+* [[TV/FM DX|Long-distance FM reception (FM DX)]]
+* [[VFO]]
+*'''Lists'''
+** [[Radio network]]
+** [[List of radio stations]]
+** [[List of Internet stations]]
+
+==References==
+* [http://pagina.vizzavi.pt/~nc22723a/radio.htm ''A História da Rádio em Datas (1819-1997)'' (in Portuguese) - notes on etymology]
+* Leigh White, ''Buck Fuller and the Dymaxion World'' (refers to Waldo Warren as the inventor of the word ''radio''), in: The Saturday Evening Post, 14 October 1944, cited in: Joachim Krausse and Claude Lichtenstein (eds.), ''Your Private Sky'', Lars Müller Publishers, Baden/Switzerland, 1999, page 132. ISBN 3-907044-88-6
+* L. de Forest, article in Electrical World 22 June 1270/1 (1907), early use of word "radio".
+==Further Reading==
+* Aitkin Hugh G. J. ''The Continuous Wave: Technology and the American Radio, 1900-1932'' (Princeton University Press, 1985). 
+* Briggs Asa. ''The History of Broadcasting in the United Kingdom'' (Oxford University Press, 1961). 
+* Ewbank Henry and Lawton Sherman P. ''Broadcasting: Radio and Television'' (Harper & Brothers, 1952). 
+* Maclaurin W. Rupert. ''Invention and Innovation in the Radio Industry'' (The Macmillan Company, 1949). 
+* Ray William B. ''FCC: The Ups and Downs of Radio-TV Regulation'' (Iowa State University Press, 1990). 
+* Scannell, Paddy, and Cardiff, David. ''A Social History of British Broadcasting, Volume One, 1922-1939'' (Basil Blackwell, 1991). 
+* Schwoch James. ''The American Radio Industry and Its Latin American Activities, 1900-1939'' (University of Illinois Press, 1990). 
+* Sterling Christopher H. ''Electronic Media, A Guide to Trends in Broadcasting and Newer Technologies 1920-1983'' (Praeger, 1984). 
+* White Llewellyn. ''The American Radio'' (University of Chicago Press, 1947). 
+
+===Primary Sources===
+* De Lee Forest. ''Father of Radio: The Autobiography of Lee de Forest'' (1950).
+
+==External links==
+{{Commons|Category:Radio}}
+<!-- Please don't put links to your radio station, your radio blog or your radio sales site here.  They will just be removed.  If your station is notable enough to be included, it will be added by someone else. -->
+* [http://www.satelliteradionews.net/ Satellite Radio News.Net] Everything you need to know about Satellite Radio.
+* [http://www.Listen2myRadio.com/ Listen2myradio.com] Open Your Radio Station for free!
+* Horzepa, Stan, "''[http://www.arrl.org/news/features/2003/10/10/1/ Surfin': Who Invented Radio]?''". Arrl.org. [[10 October]] [[2003]].
+* IAteacher: [http://www.iateacher.com/Lesson%206/L6P1-Title.htm Interactive Explanation of Radio Receiver Construction]
+* U.S. Supreme Court, "''[http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=320&invol=1 Marconi Wireless Telegraph co. of America v. United States]''". 320 U.S. 1. Nos. 369, 373. Argued [[9 April]]-12, 1943. Decided [[21 June]] [[1943]].
+* Radio Locator: [http://www.radio-locator.com/ Find a radio station in your area]
+* On The Radio.Net: [http://www.ontheradio.net/ Find phone numbers and websites for commercials you heard on the radio!]
+* [http://www.ovrc.org/ Ottawa Vintage Radio Club of Canada]
+* [http://www.xmradio.com XM Satellite Radio]
+* [http://www.oldradio.com The Broadcast Archive - Radio History on the Web!]
+* [http://invention.smithsonian.org/resources/fa_clark_index.aspx George H. Clark Radioana Collection, ca. 1880 - 1950] -  Archives Center, National Museum of American History, Smithsonian Institution
+* [http://members.aol.com/djadamson/arp.html A gallery of Antiques from the 20's to the 60's]
+* [http://www.pophistorynow.com The 1950's-2000's Week-By-Week] - Includes detailed information on pop radio through the decades. Follows the AM top-40 wars, FM stereo Rock, syndication, FM top-40, DJ's and trends.
+* Brief biography of Lord Ernest Rutherford at: [http://www.nzedge.com/heroes/rutherford.html]
+* [http://www.tvradioworld.com TVRadioWorld]
+* [http://earlyradiohistory.us United States Early Radio History]
+* [http://fmscan.de FMSCAN Transmitter Maps and Frequency Lists for Europe]
+
+*Directories
+**[http://www.looksmart.com/eus1/eus317828/eus317855/eus52445/ LookSmart - Radio]
+**[http://dmoz.org/Arts/Radio/ Open Directory Project - Radio]
+**[http://dir.yahoo.com/News_and_Media/Radio/ Yahoo! - Radio]
+[[Category:Radio]]
+[[Category:Sound]]
+
+
+<!-- Insert interwikis here -->
+[[id:Radio]]
+[[be:Радыё]]
+[[bn:বেতার]]
+[[br:Skingomz]]
+[[bg:Радио]]
+[[ca:Ràdio]]
+[[cy:Radio]]
+[[da:Radiofoni]]
+[[de:Rundfunk]]
+[[et:Raadio]]
+[[es:Radio (medio de comunicación)]]
+[[eo:Radio]]
+[[fr:Radio]]
+[[ga:Raidió]]
+[[he:רדיו]]
+[[id:Radio]]
+[[io:Radio]]
+[[it:Radio (elettronica)]]
+[[jv:Radhio]]
+[[lt:Radijas]]
+[[nl:Radio]]
+[[ja:無線]]
+[[no:Radio]]{{Link FA|no}}
+[[pl:Radio]]
+[[pt:Rádio (comunicação)]]
+[[ro:Radio]]
+[[ru:Радио]]
+[[simple:Radio]]
+[[sl:Radio]]
+[[sr:Радио]]
+[[fi:Radio]]
+[[sv:Radio]]
+[[tl:Radyo]]
+[[ta:வானொலி]]
+[[th:วิทยุ]]
+[[vi:Radio]]
+[[tr:Radyo]]
+[[zh:无线电]]
