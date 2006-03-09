@@ -24,7 +24,7 @@ population_estimate_rank = 38th |
 د وګړو سرشمېرنه=|
 د وګړو د سرشمېرنې کال=|
 د وګړو ګڼه ګونه= 43 |
-population_densitymi² = 111 |<!-- Do not remove per [[WP:MOSNUM]] -->
+د وګړو ګڼه ګونهmi² = 111 |<!-- Do not remove per [[WP:MOSNUM]] -->
 population_density_rank= n/a |
 GDP_PPP_year= 2004 |
 GDP_PPP = $21.5 billion |
@@ -38,15 +38,15 @@ HDI_category = <font color=gray>NA</font> |
 زمکنۍ بشپړتيا= [[خپلواکي]] |
 established_events = |
 established_dates = (په 1919 کال کې افغانستان د انګلستان نه د خپل دولت د باندنيو چارو په باب د خپلې پرېکړې خپلواکي ترلاسه کړه |
-currency = [[Afghani (currency)|Afghani <small>(Af)</small>]] |
-currency_code = AFN |
+پېسه = [[Afghani (currency)|Afghani <small>(Af)</small>]] |
+د پېسو نښه = AFN |
 country_code = AFG |
-time_zone = |
+وخت= |
 utc_offset = +4:30 | 
 time_zone_DST = |
 utc_offset_DST = +4:30 |
 cctld = [[.af]] |
-calling_code = 93 |
+پېل ګڼ= 93 |
 footnotes =
 }}
 
