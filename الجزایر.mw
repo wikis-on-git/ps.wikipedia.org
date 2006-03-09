@@ -1,10 +1,10 @@
 {{protected}}
 {{Infobox_Country|
-د هېواد نوم په اصلي بڼه = الجمهورية الجزائرية الديمقراطية الشعبية<br>Al-Jumhūrīyah al-Jazā’irīyah<br>ad-Dīmuqrāţīyah ash-Sha’bīyah|
-هېواد = Algeria |
-image_flag = Flag of Algeria.svg |
-image_coat = Algeria coa.png |
-image_map = LocationAlgeria.png |
+اصلي نوم = الجمهورية الجزائرية الديمقراطية الشعبية<br>Al-Jumhūrīyah al-Jazā’irīyah<br>ad-Dīmuqrāţīyah ash-Sha’bīyah|
+عام نوم = Algeria |
+بېرغ= Flag of Algeria.svg |
+نښان= Algeria coa.png |
+نخشه= LocationAlgeria.png |
 national_motto = (translation): The Revolution by the people and for the people |
 national_anthem = ''[[Kassaman|Kassaman <small>(Qasaman Bin-Nāzilāt Il-Māḥiqāt)]]''<br>(<small>[[Arabic language|Arabic]]: ''[[Kassaman|We Swear By The Lightning That Destroys]]'') |
 رسمي ژبه = [[عربي ژبه|عربي]] |
@@ -15,15 +15,15 @@ government_type= Democratic [[Republic]] |
 leader_titles = [[President of Algeria|President]]<br>[[Prime Minister of Algeria|Prime Minister]] |
 leader_names = [[Abdelaziz Bouteflika]]<br>[[Ahmed Ouyahia]] |
 area_rank = 11th |
-area_magnitude = 1 E12 |
+د مساحت ارتوالی= 1 E12 |
 مساحت = 2,381,740 |
-percent_water = negligible |
+د اوبو سلنه= negligible |
 population_estimate = 32,531,853 |
 population_estimate_year = 2005 |
 population_estimate_rank = 36th |
 population_census= |
 population_census_year= |
-population_density = 13 |
+د وګړو ګڼه ګونه= 13 |
 population_density_rank= 168th|
 GDP_PPP_year= 2004 |
 GDP_PPP = $217,224,000,000 |
@@ -34,7 +34,7 @@ HDI_year = 2003 |
 HDI = 0.722 |
 HDI_rank = 103rd |
 HDI_category = <font color="#FFCC00">medium</font> |
-sovereignty_type = [[Independence]]|
+زمکنۍ بشپړتيا= [[Independence]]|
 established_events = Declared |
 established_dates = From [[France]]<br>[[July 5]], [[1962]] |
 currency = [[Algerian dinar]] |
