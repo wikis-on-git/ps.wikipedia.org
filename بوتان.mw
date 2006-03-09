@@ -1,30 +1,30 @@
 {{featured article}}
 {{Infobox Country|
-native_name              = Kingdom of Bhutan<br />འབྲུག་ཡུལ<br />Druk Yul |
-common_name              = Bhutan |the=|
-image_flag               = Flag of Bhutan.svg |
-image_coat               = Bhutan emblem.png |
+اصلي نوم    = Kingdom of Bhutan<br />འབྲུག་ཡུལ<br />Druk Yul |
+عام نوم     = Bhutan |the=|
+بېرغ        = Flag of Bhutan.svg |
+نښان        = Bhutan emblem.png |
 national_motto           = One Nation One People |
-image_map                = LocationBhutan.png |
-national_anthem          = [[Druk tsendhen]] |
-official_languages       = [[Dzongkha]], [[English language|English]] |
-capital                  = [[Thimphu]] |
+نخشه         = LocationBhutan.png |
+ملي سرود    = [[Druk tsendhen]] |
+رسمي ژبه     = [[Dzongkha]], [[English language|English]] |
+پلازمېنه     = [[Thimphu]] |
 latd                     = 28|latm=28|latNS=N|longd=89|longm=35|longEW=E  |
-government_type          = [[Monarchy]] |
-leader_titles            = [[Kings of Bhutan|King]]<br />[[List of Prime Ministers of Bhutan|Prime Minister]] |
-leader_names             = [[Jigme Singye Wangchuck]]<br />[[Lyonpo Sangay Ngedup]] |
-largest_city             = [[Thimphu]] |
-area                     = 47,500 |
+د حکومت بڼه = [[پاچايي]] |
+د لارښود لقب = [[Kings of Bhutan|King]]<br />[[List of Prime Ministers of Bhutan|Prime Minister]] |
+د لارښود نوم = [[Jigme Singye Wangchuck]]<br />[[Lyonpo Sangay Ngedup]] |
+لوی ښار     = [[Thimphu]] |
+مساحت       = 47,500 |
 areami²                  = 18,340 | <!-- Do not remove per [[WP:MOSNUM]] -->
 area_rank                = 130th |
-area_magnitude           = 1 E10 |
-percent_water            = negligible | 
+د مساحت ارتوالی   = 1 E10 |
+د اوبو سلنه            = negligible | 
 population_estimate      = 2,232,291 (disputed){{ref|population}} |
 population_estimate_year = 2005 |
 population_estimate_rank = 139th |
 population_census        = 734,340|
 population_census_year   = 2003 |
-population_density       = 45 |
+د وګړو ګڼه ګونه       = 45 |
 population_densitymi²    = 117 | <!-- Do not remove per [[WP:MOSNUM]] -->
 population_density_rank  = 123rd |
 GDP_PPP_year             = 2005 |
@@ -37,7 +37,7 @@ HDI_year = 2003 |
 HDI = 0.536 |
 HDI_rank = 134th |
 HDI_category = <font color="#FFCC00">medium</font> |
-sovereignty_type         = [[Independence of Bhutan|Independence]] |
+زمکنۍ بشپړتيا         = [[د بهوټان خپلواکي|خپلواکي]] |
 established_events       = &nbsp; |
 established_dates        = recognized by [[India]]<br />[[1949-08-08]] |
 currency                 = [[Ngultrum]] |
