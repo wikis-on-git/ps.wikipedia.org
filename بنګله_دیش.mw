@@ -1,23 +1,23 @@
 {{Infobox Country|
-native_name              = People's Republic of Bangladesh<br />গনপ্রজাতন্ত্রী বাংলাদেশ<br />Gôno Projatontri Bangladesh |
-common_name              = Bangladesh |
-image_flag               = Flag of Bangladesh.svg |
-image_coat               = Bangladesh coa.png |
+اصلي نوم      = People's Republic of Bangladesh<br />গনপ্রজাতন্ত্রী বাংলাদেশ<br />Gôno Projatontri Bangladesh |
+عام نوم       = Bangladesh |
+بېرغ          = Flag of Bangladesh.svg |
+نښان          = Bangladesh coa.png |
 national_motto           = none |
-national_anthem          = [[Amar Shonar Bangla]]<br />(My Golden Bengal) |
-image_map                = LocationBangladesh.png |
-official_languages       = [[Bengali language|Bengali]] |
-capital                  = [[Dhaka]] |
+ملي سرود      = [[Amar Shonar Bangla]]<br />(My Golden Bengal) |
+نخشه           = LocationBangladesh.png |
+رسميه ژبه      = [[Bengali language|Bengali]] |
+پلازمېنه       = [[ډهاکه]] |
 latd                     = 23|latm=42|latNS=N|longd=90|longm=22|longEW=E  |
-government_type          = [[Parliamentary system|Parliamentary Republic]] |
-leader_titles            = [[President of Bangladesh|President]]<br />[[Prime Minister of Bangladesh|Prime Minister]] |
-leader_names             = [[Iajuddin Ahmed]]<br />[[Khaleda Zia]] |
-largest_city             = [[Dhaka]] |
-area                     = 144,000 |
+د حکومت بڼه   = [[Parliamentary system|Parliamentary Republic]] |
+د لارښود لقب   = [[President of Bangladesh|President]]<br />[[Prime Minister of Bangladesh|Prime Minister]] |
+د لارښود نوم   = [[Iajuddin Ahmed]]<br />[[Khaleda Zia]] |
+لوی ښار       = [[ډهاکه]] |
+مساحت         = 144,000 |
 areami²                  = 55,598 | <!-- Do not remove [[WP:MOSNUM]]-->
 area_rank                = 91st |
-area_magnitude           =  |
-percent_water            = 7.0 |
+د مساحت ارتوالی     =  |
+د اوبو سلنه   = 7.0 |
 population_estimate      = 144,319,628 |
 population_estimate_year = 2005 |
 population_estimate_rank = 7th |
@@ -35,7 +35,7 @@ HDI_year                 = 2003 |
 HDI                      = 0.520 |
 HDI_rank                 = 139th |
 HDI_category             = <font color="#FFCC00">medium</font> |
-sovereignty_type         = [[Independence of Bangladesh|Independence]] |
+زمکنۍ بشپړتيا         = [[د بنګله دېش خپلواکي|خپلواکي]] |
 established_events       = &nbsp;- Declared<br />&nbsp;- [[Victory Day (Bangladesh)|Victory Day]] |
 established_dates        = From [[Pakistan]]<br />[[March 26]], [[1971]]<br />[[December 16]], [[1971]] |
 currency                 = [[Taka]] |
