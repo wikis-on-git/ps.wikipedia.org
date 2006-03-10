@@ -1,27 +1,27 @@
 {{Infobox Country|
-native_name = Republic of India <br />भारत गणराज्य<br /> Bh{{Unicode|ā}}rat Ga{{Unicode|ṇ}}ar{{Unicode|ā}}jya<!-- IF YOU CANNOT SEE THE 'N' UPGRADE YOUR BROWSER -->|
-common_name = India|the=|
-image_flag = Flag of India.svg |
-image_coat = EmblemofIndia-small.png |
+اصلي نوم = Republic of India <br />भारत गणराज्य<br /> Bh{{Unicode|ā}}rat Ga{{Unicode|ṇ}}ar{{Unicode|ā}}jya<!-- IF YOU CANNOT SEE THE 'N' UPGRADE YOUR BROWSER -->|
+عام نوم= India|the=|
+بېرغ= Flag of India.svg |
+نښان= EmblemofIndia-small.png |
 national_motto = [[Satyameva Jayate]]<br /> [[Sanskrit]]: सत्यमेव जयते <br>{{IPA|/sətyəmeːvə ɟəjəteː/}}<br /> (Truth Alone Triumphs) |
-image_map = IndiaLocation.png |
-national_anthem = [[Jana Gana Mana]]<br /> [[Sanskrit]]: जन गण मन <br>{{IPA|/ɟənə gəɳə mənə/}}|
-official_languages = [[Hindi]], [[English language|English]], and [[List of national languages of India|21 other languages]] |
-capital = [[New Delhi]] |
+نخشه = IndiaLocation.png |
+ملي سرود = [[Jana Gana Mana]]<br /> [[Sanskrit]]: जन गण मन <br>{{IPA|/ɟənə gəɳə mənə/}}|
+رسمي ژبه= [[Hindi]], [[English language|English]], and [[List of national languages of India|21 other languages]] |
+پلازمېنه = [[New Delhi]] |
 latd = 28|latm=34|latNS=N|longd=77|longm=12|longEW=E |
-government_type = [[Federal republic]] |
-leader_titles = [[President of India|President]]<br />[[Prime Minister of India|Prime Minister]] |
-leader_names = [[APJ Abdul Kalam]]<br />[[Manmohan Singh]] | largest_city = [[Mumbai]] (Bombay) |
-area = 3,287,590 |
-area_rank = 7th |
-area_magnitude = 1 E12 |
-percent_water = 9.56 |
+د حکومت بڼه = [[Federal republic]] |
+د لارښود لقب = [[President of India|President]]<br />[[Prime Minister of India|Prime Minister]] |
+د لارښود نوم = [[APJ Abdul Kalam]]<br />[[Manmohan Singh]] | largest_city = [[Mumbai]] (Bombay) |
+مساحت = 3,287,590 |
+د مساحت وېش = 7th |
+د مساحت ارتوالی = 1 E12 |
+د اوبو سلنه = 9.56 |
 population_estimate = 1,112,225,812|
 population_estimate_year = 2006 |
 population_estimate_rank = 2nd |
 population_census = 1,027,000,000 |
 population_census_year = 2001 |
-population_density = 329 |
+د وګړو ګڼه ګونه = 329 |
 population_density_rank = 19th |
 GDP_PPP_year = 2005 |
 GDP_PPP = $3.678 trillion |
@@ -32,10 +32,10 @@ HDI_year = 2003 |
 HDI = 0.602 |
 HDI_rank = 127th |
 HDI_category = <font color="#FFCC00">medium</font> |
-sovereignty_type = [[Independence of India|Independence]] |
+زمکنۍ بشپړتيا = [[د هندوستان خپلواکي|خپلواکي]] |
 established_events = &nbsp;- Declared<br />&nbsp;- Republic |
 established_dates = From the [[United Kingdom]]<br />[[1947-08-15]]<br />[[1950-01-26]] |
-currency = [[Indian Rupee|Rupee]] (Rs.)<sup>1</sup> |
+پېسه = [[Indian Rupee|Rupee]] (Rs.)<sup>1</sup> |
 currency_code = INR |
 time_zone = [[Indian Standard Time|IST]] |
 utc_offset = +5:30 |
