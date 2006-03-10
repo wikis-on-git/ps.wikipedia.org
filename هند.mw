@@ -17,10 +17,10 @@ latd = 28|latm=34|latNS=N|longd=77|longm=12|longEW=E |
 د مساحت ارتوالی = 1 E12 |
 د اوبو سلنه = 9.56 |
 population_estimate = 1,112,225,812|
-population_estimate_year = 2006 |
+د وګړو د شمېر د اټکل کال = 2006 |
 population_estimate_rank = 2nd |
-population_census = 1,027,000,000 |
-population_census_year = 2001 |
+د وګړو سرشمېرنه = 1,027,000,000 |
+د وګړو د سرشمېرنې کال = 2001 |
 د وګړو ګڼه ګونه = 329 |
 population_density_rank = 19th |
 GDP_PPP_year = 2005 |
@@ -36,8 +36,8 @@ HDI_category = <font color="#FFCC00">medium</font> |
 established_events = &nbsp;- Declared<br />&nbsp;- Republic |
 established_dates = From the [[United Kingdom]]<br />[[1947-08-15]]<br />[[1950-01-26]] |
 پېسه = [[Indian Rupee|Rupee]] (Rs.)<sup>1</sup> |
-currency_code = INR |
-time_zone = [[Indian Standard Time|IST]] |
+د پېسو نښه = INR |
+وخت = [[Indian Standard Time|IST]] |
 utc_offset = +5:30 |
 time_zone_DST = not observed |
 utc_offset_DST = +5:30|
