@@ -7,20 +7,20 @@
 national_motto 		= none|
 ملي سرود	= [[Land der Berge, Land am Strome]]|
 رسمي ژبه	= [[German language|German]]<br>[[Slovenian language|Slovenian]]&nbsp;([[regional language|reg.]]) [[Croatian language|Croatian]]&nbsp;(reg.) [[Hungarian language|Hungarian]]&nbsp;(reg.)|
-capital 		= [[Vienna]] 
+پلازمېنه 		= [[Vienna]] 
 
 
 |latd=48|latm=12|latNS=N|longd=16|longm=21|longEW=E|
 لوی ښار 		= Vienna |
 د حکومت بڼه	= [[Republic]] |
-د لارښود لقب 		= [[Federal President of Austria|President]]<br>[[Chancellor of Austria|Chancellor]]|
+د لارښود لقب 		= [[Federal President of Austria|ولسمشر]]<br>[[Chancellor of Austria|Chancellor]]|
 د لارښود نوم	= [[Heinz Fischer]]<br>[[Wolfgang Schüssel]]|
 مساحت 			= 83,871|area_rank=113th|د مساحت ارتوالی=1 E10|د اوبو سلنه=1.3|
 areami²                 = 32,383 | <!-- Do not remove [[WP:MOSNUM]] -->
-population_estimate 	= 8,206,524|population_estimate_year=2005|population_estimate_rank=86th|
-population_density 	= 97|population_density_rank=78th |
+population_estimate 	= 8,206,524|د وګړو د شمېر د اټکل کال=2005|population_estimate_rank=86th|
+د وګړو ګڼه ګونه 	= 97|population_density_rank=78th |
 population_densitymi²   = 251 | <!-- Do not remove [[WP:MOSNUM]] -->
-population_census 	= 8,032,926|population_census_year=2001|
+د وګړو سرشمېرنه	= 8,032,926|د وګړو د سرشمېرنې کال=2001|
 GDP_PPP 		= $267 billion|GDP_PPP_year=2005|GDP_PPP_rank=35th|
 GDP_nominal		= $318 billion|GDP_nominal_year=2005|GDP_nominal_rank=22nd|
 GDP_PPP_per_capita 	= $32,962|GDP_PPP_per_capita_rank=9th|
@@ -31,11 +31,11 @@ HDI_rank                = 17th|
 HDI_category            = <font color="#009900">high</font>|
 زمکنۍ بشپړتيا	= [[خپلواکي]]|
 established_events 	= From [[Austria-Hungary]]|established_dates=<br>1919|
-currency 	 	= [[Austrian euro coins|Euro]]&sup1;|currency_code=EUR|
+پېسه	 	= [[Austrian euro coins|Euro]]&sup1;|currency_code=EUR|
 time_zone 	 	= [[Central European Time|CET]] |utc_offset=+1 |
 time_zone_DST	 	= [[Central European Summer Time|CEST]] |utc_offset_DST=+2 |
 cctld		 	= [[.at]] |
-calling_code	 	= 43|
+پېل ګڼ	 	= 43|
 footnotes 	 	= &sup1; Prior to 2002: Austrian [[Schilling]]|
 }}
 
