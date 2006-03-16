@@ -20,10 +20,10 @@ area_rank = 93rd |
 د مساحت ارتوالی= 1 E11 |
 د اوبو سلنه= negligible (183 sq. km)¹ |
 population_estimate = 10,300,483 |
-population_estimate_year = 2005 |
+د وګړو د شمېر د اټکل کال = 2005 |
 population_estimate_rank = 65th |
-population_census = 10,045,200 |
-population_census_year = 1999 |
+د وګړو سرشمېرنه = 10,045,200 |
+د وګړو د سرشمېرنې کال = 1999 |
 د وګړو ګڼه ګونه= 49 |
 population_densitymi² = 127 | <!-- Do not remove [[WP:MOSNUM]]-->
 population_density_rank = 142nd |
@@ -39,14 +39,14 @@ HDI_category = <font color="#FFCC00">medium</font> |
 زمکنۍ بشپړتيا= [[خپلواکي]] |
 established_events = &nbsp;-&nbsp;Declared<br /> &nbsp;-&nbsp;Established |
 established_dates = From the [[Soviet Union]]<br/ > [[July 27]] [[1990]]<br/ > [[August 25]] [[1991]] |
-currency = [[Belarusian rouble|rouble]] |
-currency_code = BYR |
+پېسه= [[Belarusian rouble|rouble]] |
+د پېسو نښه = BYR |
 time_zone = [[EET]] |
 utc_offset = +2 |
 time_zone_DST = [[EEST]] |
 utc_offset_DST = +3 |
 cctld = [[.by]] |
-calling_code = 375 |
+پېل ګڼ = 375 |
 footnotes = <small>1: [http://www.cci.by/En/Belarus/Tourism.html http://www.cci.by/En/Belarus/Tourism.html]</small>|
 }}
 <!-- END INFOBOX -->
