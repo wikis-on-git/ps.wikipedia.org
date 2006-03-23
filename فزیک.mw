@@ -1,0 +1,347 @@
+[[Image:Meissner_Crop.jpg|thumb|150px|right|A [[Superconductivity|Superconductor]] demonstrating the [[Meissner Effect]].]]
+{{portal}}
+'''Physics''' (from the [[Greek language|Greek]], &#966;&#965;&#963;&#953;&#954;&#972;&#962; (''physikos''), "natural", and &#966;&#973;&#963;&#953;&#962; (''physis''), "nature") is the [[science]] of the [[Nature|natural world]] dealing with the fundamental constituents of the [[universe]], the [[fundamental interaction|forces]] they exert on one another, and the results produced by these forces. Sometimes, in modern physics, a more sophisticated approach is taken that incorporates elements of the three areas listed above; it relates to the laws of [[Symmetry in physics|symmetry]] and [[Conservation law|conservation]], such as those pertaining to [[energy]], [[momentum]], [[charge]], and [[parity (physics)|parity]]. [http://encarta.msn.com/encyclopedia_761553206/Physics.html] [[Physicists]] study a wide range of physical phenomena spanning all [[length scale]]s: from the [[subatomic particle]]s from which all ordinary (i.e., [[baryon|baryonic]]) [[matter]] is made ([[particle physics]]) to the behavior of the material [[Universe]] as a whole ([[Physical cosmology|cosmology]]).
+
+Physics discoveries find applications throughout the other [[natural science]]s as it studies the basic constituents of the natural world. Some of the phenomena studied in physics, such as the [[conservation of energy]], are common to ''all'' material systems. These are often referred to as [[law of physics|laws of physics]]. Others, such as [[superconductivity]], stem from these laws, but are not laws themselves, because they only appear in some systems. Physics is sometimes said to be the "fundamental science", because each of the other natural sciences ([[biology]], [[chemistry]], [[geology]], etc.) deals with particular types of material systems that obey the laws of physics. For example, chemistry is the science of [[molecule]]s and the [[chemical compound|chemical]]s that they form in the bulk. The properties of a chemical are determined by the properties of the underlying molecules, which can be described by areas of physics such as [[quantum mechanics]] (called in this case [[quantum chemistry]]), [[thermodynamics]], and [[electromagnetism]].
+
+Physics is closely related to [[mathematics]], which provides the logical framework in which physical laws can be precisely formulated and their predictions quantified. Physical [[theory|theories]] are almost invariably expressed using mathematical relations. The difference between physics and mathematics is that physics is ultimately concerned with descriptions of the material world, whereas mathematics is concerned with abstract patterns that need not have any bearing on it. The distinction, however, is not always clear-cut. There is a large area of research intermediate between physics and mathematics, known as [[mathematical physics]], devoted to developing the mathematical structure of physical theories.
+
+Physics attempts to describe the world by the application of the [[scientific method]].
+
+== Overview of physics research ==
+=== Central theories ===
+While physics deals with a wide variety of systems, there are certain theories that are used by all physicists. Each of these theories is believed to be basically correct, within a certain domain of validity. For instance, the theory of [[classical mechanics]] accurately describes the motion of objects, provided they are much larger than [[atom]]s and moving at much less than the [[speed of light]]. These theories continue to be areas of active research; for instance, a remarkable aspect of classical mechanics known as [[chaos theory|chaos]] was discovered in the 20th century, three centuries after the original formulation of classical mechanics by [[Isaac Newton]] ([[1642]]&mdash;[[1727]]). These "central theories" are important tools for research into more specialized topics, and any physicist, regardless of his or her specialization, is expected to be well-versed in them.
+
+{| class="wikitable"
+!Theory || Major subtopics || Concepts
+|-
+| [[Classical mechanics]]
+| [[Newton's laws of motion]], [[Lagrangian mechanics]], [[Hamiltonian mechanics]], [[Kinematics]], [[Statics]], [[Dynamics (mechanics)|Dynamics]], [[Chaos theory]], [[Acoustics]], [[Fluid dynamics]], [[Continuum mechanics]]
+| [[Density]], [[Dimension]], [[Law of universal gravitation|Gravity]], [[Space]], [[Time]], [[Motion]], [[Length]], [[Position]], [[Velocity]], [[Acceleration]], [[Mass]], [[Momentum]], [[Force (physics)|Force]], [[Energy]], [[Angular momentum]], [[Torque]], [[Conservation law]], [[Harmonic oscillator]], [[Wave]], [[Mechanical work|Work]], [[Power (physics)|Power]]
+|-
+| [[Electromagnetism]]
+| [[Electrostatics]], [[Electrodynamics]], [[Electricity]], [[Magnetism]], [[Maxwell's equations]], [[Optics]]
+| [[Capacitance]], [[Electric charge]], [[Current (electricity)|Current]], [[Electrical conductivity]], [[Electric field]], [[Permittivity|Electric permittivity]], [[Electrical resistance]], [[Electromagnetic field]], [[Electromagnetic induction]], [[Electromagnetic radiation]], [[Gaussian surface]], [[Magnetic field]], [[Magnetic flux]], [[Magnetic monopole]], [[Magnetic permeability]]
+|-
+| [[Thermodynamics]] and [[Statistical mechanics]]
+| [[Heat engine]], [[Kinetic theory]]
+| [[Boltzmann's constant]], [[Conjugate variables (thermodynamics)|Conjugate variables]], [[Enthalpy]], [[Entropy]], [[Equation of state]], [[Equipartition theorem]], [[First Law of Thermodynamics]], [[Free energy]], [[Heat]], [[Ideal gas law]], [[Internal energy]], [[Non-equilibrium thermodynamics|Irreversible process]], [[Partition function (statistical mechanics)|Partition function]], [[Pressure]], [[Reversible process (thermodynamics)|Reversible process]], [[Second Law of Thermodynamics]], [[Spontaneous process]], [[State function]], [[Statistical ensemble (mathematical physics)|Statistical ensemble]], [[Temperature]], [[Thermodynamic equilibrium]], [[Thermodynamic potential]], [[Thermodynamic processes]], [[Thermodynamic state]], [[System (thermodynamics)|Thermodynamic system]], [[Third Law of Thermodynamics]], [[Viscosity]], [[Zeroth Law of Thermodynamics]]
+|-
+| [[Quantum mechanics]]
+| [[Path integral formulation]], [[Scattering theory]], [[Schrödinger equation]], [[Quantum field theory]], [[Quantum statistical mechanics]]
+| [[Born-Oppenheimer Approximation|Adiabatic approximation]], [[Correspondence principle]], [[Free particle]], [[Hamiltonian (quantum mechanics)|Hamiltonian]], [[Hilbert space]], [[Identical particles]], [[Matrix Mechanics]], [[Planck's constant]], [[Operators]], [[Quantum|Quanta]], [[Quantization (physics)|Quantization]], [[Quantum entanglement]], [[Quantum harmonic oscillator]], [[Quantum number]] [[Quantum tunneling]], [[Schrödinger's cat]], [[Spin (physics)|Spin]], [[Wavefunction]], [[Wave mechanics]], [[Wave-particle duality]], [[Zero-point energy]], [[Pauli Exclusion Principle]], [[Heisenberg Uncertainty Principle]]
+|-
+| [[Theory of relativity]]
+| [[Special relativity]], [[General relativity]], [[Einstein field equations]]
+| [[Covariant|Covariance]], [[Einstein manifold]], [[Equivalence principle]], [[Four-momentum]], [[Four-vector]], [[General principle of relativity]], [[Geodesic (general relativity)|Geodesic motion]], [[Gravity]], [[Gravitoelectromagnetism]], [[Inertial frame of reference]], [[Invariant (physics)|Invariance]], [[Length contraction]], [[Pseudo-Riemannian manifold|Lorentzian manifold]], [[Lorentz transformation]], [[Metric (mathematics)|Metric]], [[Minkowski diagram]], [[Minkowski space]], [[Principle of Relativity]], [[Proper length]], [[Proper time]], [[Reference frame]], [[Rest energy]], [[Rest mass]], [[Relativity of simultaneity]], [[Spacetime]], [[Special principle of relativity]], [[Speed of light]], [[Stress-energy tensor]], [[Time dilation]], [[Twin paradox]], [[World line]] 
+|}
+
+=== Major fields of physics ===
+[[Image:Physics_Venn_diagram.PNG|thumb|Classification of physics fields by the types of effects that need to be accounted for]]
+
+Contemporary research in physics is divided into several distinct fields that study different aspects of the material world. [[Condensed matter physics]], by most estimates the largest single field of physics, is concerned with how the properties of bulk matter, such as the ordinary [[solid]]s and [[liquid]]s we encounter in everyday life, arise from the properties and mutual interactions of the constituent [[atom]]s. The field of [[atomic, molecular, and optical physics]] deals with the behavior of individual atoms and molecules, and in particular the ways in which they absorb and emit [[light]]. The field of [[particle physics]], also known as "high-energy physics", is concerned with the properties of submicroscopic particles much smaller than atoms, including the [[elementary particle]]s from which all other units of matter are constructed. Finally, the field of [[astrophysics]] applies the laws of physics to explain [[astronomy|astronomical]] phenomena, ranging from the [[Sun]] and the other objects in the [[solar system]] to the universe as a whole.
+
+Since the [[20th century]], the individual fields of physics have become increasingly [[specialization|specialized]], and nowadays it is not uncommon for physicists to work in a single field for their entire careers. "Universalists" like [[Albert Einstein]] ([[1879]]&mdash;[[1955]]) and [[Lev Landau]] ([[1908]]&mdash;[[1968]]), who were comfortable working in multiple fields of physics, are now very rare.
+
+{| class="wikitable"
+!Field ||Subfields || Major theories || Concepts
+|-
+| [[Astrophysics]]
+| [[Physical cosmology|Cosmology]], [[Planetary science]], [[Plasma (physics)|plasma physics]]
+| [[Big Bang]], [[Lambda-CDM model]], [[Cosmic inflation]], [[General relativity]], [[Law of universal gravitation]]
+| [[Black hole]], [[Cosmic background radiation]], [[Galaxy]], [[Gravity]], [[Gravitational radiation]], [[Planet]], [[Solar system]], [[Star]]
+|-
+| [[Atomic, molecular, and optical physics]]
+| [[Atomic physics]], [[Molecular physics]], [[Chemical physics]], [[Optics]], [[Photonics]]
+| [[Quantum optics]], [[Quantum chemistry]]
+| [[Atom]], [[Molecule]], [[Diffraction]], [[Electromagnetic radiation]], [[Laser]], [[Polarization]], [[Spectral line]]
+|-
+| [[Particle physics]]
+| [[Accelerator physics]], [[Nuclear physics]], [[Particle physics phenomenology]]
+| [[Standard Model]], [[Supersymmetry]], [[Grand unification theory]], [[M-theory]]
+| [[Fundamental force]] ([[gravity|gravitational]], [[electromagnetism|electromagnetic]], [[weak interaction|weak]], [[strong interaction|strong]]), [[Elementary particle]], [[Antimatter]], [[Spin (physics)|Spin]], [[Spontaneous symmetry breaking]], [[Theory of everything]], [[Vacuum energy]]
+|-
+| [[Condensed matter physics]]
+| [[Solid state physics]], [[Materials physics]], [[Polymer physics]]
+| [[BCS theory]], [[Bloch wave]], [[Fermi gas]], [[Fermi liquid]], [[Many-body theory]]
+| [[Phase (matter)|Phases]] ([[gas]], [[liquid]], [[solid]], [[Bose-Einstein condensate]], [[superconductivity|superconductor]], [[superfluid]]), [[Electrical conduction]], [[Magnetism]], [[Self-organization]], [[Spin (physics)|Spin]], [[Spontaneous symmetry breaking]]
+|}
+
+=== Related fields ===
+There are many areas of research that mix physics with other disciplines. For example, the wide-ranging field of [[biophysics]] is devoted to the role that physical principles play in biological systems and the field of [[quantum chemistry]] studies how the theory of quantum mechanics gives rise to the chemical behavior of atoms and molecules. Some of these fields are listed below.
+
+[[Acoustics]] - [[Astronomy]] - [[Agrophysics]] - [[Biophysics]] - [[Chemical physics]] - [[Computational physics]] - [[Econophysics]] - [[Electronics]] - [[Engineering]] - [[Geophysics]] - [[Materials science]] - [[Mathematical physics]] - [[Medical physics]] - [[Physical chemistry]] - [[Physics of computation]] - [[Quantum chemistry]] - [[Quantum information science]] - [[Vehicle dynamics]]
+
+=== Theoretical and experimental physics ===
+The culture of physics research differs from the other sciences in the separation of [[theory]] and [[experiment]]. Since the [[20th century]], most individual physicists have specialized in either [[theoretical physics]] or [[experimental physics]]. The great [[Italy|Italian]] physicist [[Enrico Fermi]] ([[1901]]&mdash;[[1954]]), who made fundamental contributions to both theory and experiments in [[nuclear physics]], was a notable exception. In contrast, almost all the successful theorists in [[biology]] and [[chemistry]] have also been experimentalists. However, in the last decades, [[quantum chemistry|quantum]] and [[computational chemistry]] became autonomous disciplines straddling the border between [[theoretical chemistry]] and theoretical physics. Many quantum chemists or theoretical molecular physicists are therefore often considered as pure theorists.
+
+Roughly speaking, theorists seek to develop theories that can describe and interpret existing experimental results and successfully predict future results through [[Model (abstract)|abstractions]] and [[mathematical model]]s, while experimentalists devise and perform experiments to explore new phenomena and test theoretical predictions. Although theory and experiment are developed separately, they are strongly dependent on each other. Progress in physics frequently comes about when experimentalists make a discovery that existing theories cannot account for, necessitating the formulation of new theories. Likewise, ideas arising from theory often inspire new experiments. In the absence of experiment, theoretical research can go in the wrong direction; this is one of the criticisms that has been leveled against [[M-theory]], a popular theory in high-energy physics for which no practical experimental test has ever been devised.
+
+=== Fringe theories ===
+* [[Cold fusion]]
+* [[Dynamic theory of gravity]] 
+* [[Luminiferous aether]]
+* [[Steady state theory]]
+
+==History==
+{{main|History of physics}}
+{{further|[[Famous physicists]], [[Nobel Prize in physics]]}}
+
+[[Image:GodfreyKneller-IsaacNewton-1689.jpg|thumb|150px|left|[[Sir Isaac Newton]]]]
+Since antiquity, people have tried to understand the behavior of [[matter]]: why unsupported objects drop to the ground, why different [[materials science|materials]] have different properties, and so forth. Also a mystery was the character of the [[universe]], such as the form of the [[Earth]] and the behavior of celestial objects such as the [[Sun]] and the [[Moon]]. Several theories were proposed, most of which were wrong. These theories were largely couched in [[philosophy|philosophical]] terms, and never verified by systematic experimental testing as is popular today. There were exceptions and there are [[anachronism]]s: for example, the [[Hellenic civilization|Greek]] thinker [[Archimedes]] derived many correct quantitative descriptions of [[mechanics]] and [[hydrostatics]].
+
+The works of [[Ptolemy]] (Astronomy) and [[Physics (Aristotle)|Aristotle]] were also found to not always match everyday observations. 
+
+The willingness to question previously held truths and search for new answers resulted in a period of major scientific advancements, now known as the [[Scientific Revolution]]. Its origins can be found in the European re-discovery of Aristotle in the twelfth and thirteenth centuries. This period culminated with the publication of the ''[[Philosophiae Naturalis Principia Mathematica]]'' in [[1687]] by [[Isaac Newton]] ([[1643]]-[[1727]]).
+
+The Scientific Revolution is held by most historians (e.g., Howard Margolis) to have begun in [[1543]], when the first printed copy of his book ''[[De Revolutionibus Orbium Coelestium|De Revolutionibus]]'' was brought from [[Nuremberg]] to the astronomer [[Nicolaus Copernicus]], who had written most parts of it years earlier but hesitated to publish.
+
+Further significant advances were made over the following century by [[Galileo Galilei]], [[Christiaan Huygens]], [[Johannes Kepler]], and [[Blaise Pascal]]. During the early [[17th century]], [[Galileo Galilei|Galileo]] pioneered the use of experimentation to validate physical theories, which is the key idea in modern [[scientific method]]. Galileo formulated and successfully tested several results in [[dynamics (mechanics)|dynamics]], in particular the Law of [[Inertia]]. In [[1687]], [[Isaac Newton|Newton]] published the ''[[Philosophiae Naturalis Principia Mathematica|Principia]]'', detailing two comprehensive and successful physical theories: [[Newton's laws of motion]], from which arise [[classical mechanics]]; and [[gravity|Newton's Law of Gravitation]], which describes the [[fundamental force]] of [[gravity]]. Both theories agreed well with experiment. The Principia also included several theories in [[fluid dynamics]]. Classical mechanics was re-formulated and extended by [[Leonhard Euler]], [[Joseph-Louis de Lagrange]], [[William Rowan Hamilton]], and others, who produced new results in mathematical physics. The law of universal gravitation initiated the field of [[astrophysics]], which describes [[astronomy|astronomical]] phenomena using physical theories.
+[[Image:James Clerk Maxwell.jpg|thumb|right|150px|[[James Clerk Maxwell]]]]
+
+After Newton defined [[classical mechanics]], the next great field of inquiry within physics was the nature of [[electricity]]. Observations in the [[17th century|17th]] and [[18th century]] by scientists such as [[Robert Boyle]], [[Stephen Gray (scientist)|Stephen Gray]], and [[Benjamin Franklin]] created a foundation for later work. These observations also established our basic understanding of electrical charge and [[electric current|current]].
+
+In [[1821]], [[Michael Faraday]] integrated the study of [[magnetism]] with the study of electricity. This was done by demonstrating that a moving [[magnet]] induced an [[electric current]] in a [[conductor (material)|conductor]]. Faraday also formulated a physical conception of [[electromagnetic field]]s. [[James Clerk Maxwell]] built upon this conception, in [[1864]], with an interlinked set of 20 equations that explained the interactions between [[electric field|electric]] and [[magnetic field]]. These 20 equations were later reduced, using [[vector calculus]], to a set of [[Maxwell's equations|four equations]] by [[Oliver Heaviside]].
+[[Image:Einstein patentoffice.jpg|thumb|left|150px|[[Albert Einstein]] in [[1905]]]] 
+
+In addition to other electromagnetic phenomena, Maxwell's equations also can be used to describe [[light]]. Confirmation of this observation was made with the [[1888]] discovery of [[radio]] by [[Heinrich Hertz]] and in [[1895]] when [[Wilhelm Roentgen]] detected [[X rays]]. The ability to describe light in electromagnetic terms helped serve as a springboard for [[Albert Einstein]]'s publication of the theory of [[special relativity]]. This theory combined classical mechanics with Maxwell's equations. 
+The theory of [[special relativity]] unifies space and time into a single entity, [[spacetime]]. Relativity prescribes a different transformation between [[inertial frame of reference|reference frames]] than classical mechanics; this necessitated the development of relativistic mechanics as a replacement for classical mechanics. In the regime of low (relative) velocities, the two theories agree. Einstein built further on the special theory by including gravity into his calculations, and published his theory of [[general relativity]] in [[1915]].
+
+One part of the theory of general relativity is [[Einstein's field equation]]. This describes how the ''stress-energy tensor'' creates curvature of [[spacetime]] and forms the basis of general relativity. Further work on Einstein's field equation produced results which predicted the [[Big Bang]], [[black hole]]s, and the [[expanding universe]]. Einstein believed in a static universe and tried (and failed) to fix his equation to allow for this. However, by [[1929]] [[Edwin Hubble]]'s astronomical observations suggested that the universe is expanding.
+
+From the late [[17th century]] onwards, [[thermodynamics]] was developed by [[Robert Boyle|Boyle]], [[Thomas Young (scientist)|Young]], and many others. In [[1733]], [[Daniel Bernoulli|Bernoulli]] used statistical arguments with classical mechanics to derive thermodynamic results, initiating the field of [[statistical mechanics]]. In [[1798]], [[Benjamin Thompson|Thompson]] demonstrated the conversion of mechanical work into heat, and in [[1847]] [[James Joule|Joule]] stated the law of conservation of [[energy]], in the form of heat as well as mechanical energy. [[Ludwig Boltzmann]], in the 19th century, is responsible for the modern form of statistical mechanics.
+
+In [[1895]], [[Wilhelm Röntgen|Röntgen]] discovered [[X-ray]]s, which turned out to be high-frequency electromagnetic radiation. [[Radioactivity]] was discovered in [[1896]] by [[Henri Becquerel]], and further studied by [[Maria Sklodowska-Curie|Marie Curie]], [[Pierre Curie]], and others. This initiated the field of [[nuclear physics]].
+
+In [[1897]], [[J.J. Thomson|Joseph J. Thomson]] discovered the [[electron]], the elementary particle which carries electrical current in [[electrical circuit|circuits]]. In [[1904]], he proposed the first model of the [[atom]], known as the [[atom/plum pudding|plum pudding model]]. (The existence of the atom had been proposed in [[1808]] by [[John Dalton]].)
+
+These discoveries revealed that the assumption of many physicists that atoms were the basic unit of [[matter]] was flawed, and prompted further study into the structure of [[atom]]s. 
+[[Image:Ernest Rutherford.jpg|thumb|right|150px|[[Ernest Rutherford]]]] 
+
+In [[1911]], [[Ernest Rutherford]] deduced from [[rutherford scattering|scattering experiments]] the existence of a compact atomic nucleus, with positively charged constituents dubbed [[proton]]s. [[neutron|Neutrons]], the neutral nuclear constituents, were discovered in [[1932]] by [[James Chadwick|Chadwick]]. The equivalence of mass and energy (Einstein, 1905) was spectacularly demonstrated during [[World War II]], as research was conducted by each side into [[nuclear physics]], for the purpose of creating a [[nuclear weapon|nuclear bomb]]. The German effort, led by Heisenberg, did not succeed, but the Allied [[Manhattan Project]] reached its goal. In America, a team led by [[Enrico Fermi|Fermi]] achieved the first man-made [[nuclear chain reaction]] in [[1942]], and in [[1945]] the world's first [[nuclear weapon|nuclear explosive]] was detonated at [[Trinity site]], near [[Alamogordo]], [[New Mexico]].
+
+In [[1900]], [[Max Planck]] published his explanation of [[blackbody radiation]]. This equation assumed that radiators are [[quantum|quantized]] in nature, which proved to be the opening argument in the edifice that would become [[quantum mechanics]].
+Beginning in [[1900]], [[Max Planck|Planck]], Einstein, [[Niels Bohr]], and others developed [[quantum]] theories to explain various anomalous experimental results by introducing discrete energy levels. In [[1925]], [[Werner Heisenberg|Heisenberg]] and [[1926]], [[Erwin Schrödinger|Schrödinger]] and [[Paul Dirac]] formulated [[quantum mechanics]], which explained the preceding heuristic quantum theories. In quantum mechanics, the outcomes of physical measurements are inherently [[probability|probabilistic]]; the theory describes the calculation of these probabilities. It successfully describes the behavior of matter at small distance scales. During the [[1920s]] [[Erwin Schrödinger]], [[Werner Heisenberg]], and [[Max Born]] were able to formulate a consistent picture of the chemical behavior of matter, a complete theory of the electronic structure of the atom, as a byproduct of the quantum theory. 
+[[Image:Richard feynman.jpg|thumb|left|150px|[[Richard Feynman]]]] 
+[[Quantum field theory]] was formulated in order to extend quantum mechanics to be consistent with special relativity. It was devised in the late [[1940s]] with work by [[Richard Feynman]], [[Julian Schwinger]], [[Sin-Itiro Tomonaga]], and [[Freeman Dyson]]. They formulated the theory of [[quantum electrodynamics]], which describes the electromagnetic interaction, and successfully explained the [[Lamb shift]]. Quantum field theory provided the framework for modern [[particle physics]], which studies [[fundamental force]]s and elementary particles. 
+
+[[Chen Ning Yang]] and [[Tsung-Dao Lee]], in the [[1950s]], discovered an unexpected [[asymmetry]] in the decay of a [[subatomic particle]]. In [[1954]], Yang and [[Robert Mills (physicist)|Robert Mills]] then developed a class of [[gauge theory|gauge theories]] which provided the framework for understanding the nuclear forces. The theory for the [[strong nuclear force]] was first proposed by [[Murray Gell-Mann]]. The [[electroweak force]], the unification of the [[weak nuclear force]] with electromagnetism, was proposed by [[Sheldon Lee Glashow]], [[Abdus Salam]] and [[Steven Weinberg]] and confirmed in [[1964]] by [[James Watson Cronin]] and [[Val Fitch]]. This led to the so-called [[Standard Model]] of particle physics in the [[1970s]], which successfully describes all the elementary particles observed to date.
+
+Quantum mechanics also provided the theoretical tools for [[condensed matter physics]], whose largest branch is [[solid state physics]]. It studies the physical behavior of solids and liquids, including phenomena such as [[crystal structure]]s, [[semiconductor|semiconductivity]], and [[superconductor|superconductivity]]. The pioneers of condensed matter physics include [[Felix Bloch|Bloch]], who created a quantum mechanical description of the behavior of electrons in crystal structures in [[1928]]. The transistor was developed by physicists [[John Bardeen]], [[Walter Houser Brattain]] and [[William Bradford Shockley]] in [[1947]] at [[Bell Labs|Bell Telephone Laboratories]]. 
+
+The two themes of the [[20th century]], general relativity and quantum mechanics, appear inconsistent with each other. General relativity describes the [[universe]] on the scale of [[planet]]s and [[solar system]]s while quantum mechanics operates on sub-atomic scales. This challenge is being attacked by [[string theory]], which treats [[spacetime]] as composed, not of points, but of one-dimensional objects, [[string theory|strings]]. Strings have properties like a common string (e.g., [[Tension (mechanics)|tension]] and [[vibration]]). The theories yield promising, but not yet testable results. The search for experimental verification of string theory is in progress.
+
+The United Nations have declared the year [[2005]], the centenary of Einstein's [[annus mirabilis]], as the [[World Year of Physics]].
+
+== Future directions ==
+{{main|Unsolved problems in physics}}
+
+Research in physics is progressing constantly on a large number of fronts, and is likely to do so for the foreseeable future.
+
+In condensed matter physics, the biggest unsolved theoretical problem is the explanation for [[high-temperature superconductivity]]. Strong efforts, largely experimental, are being put into making workable [[spintronics]] and [[quantum computer]]s.
+
+In particle physics, the first pieces of experimental evidence for physics beyond the [[Standard Model]] have begun to appear. Foremost amongst these are indications that [[neutrino]]s have non-zero [[mass]]. These experimental results appear to have solved the long-standing [[solar neutrino problem]] in solar physics. The physics of massive neutrinos is currently an area of active theoretical and experimental research. In the next several years, [[particle accelerator]]s will begin probing energy scales in the [[TeV]] range, in which experimentalists are hoping to find evidence for the [[Higgs boson]] and [[supersymmetry|supersymmetric particles]].
+
+Theoretical attempts to unify [[quantum mechanics]] and [[general relativity]] into a single theory of [[quantum gravity]], a program ongoing for over half a century, have not yet borne fruit. The current leading candidates are [[M-theory]], [[superstring theory]] and [[loop quantum gravity]].
+
+Many [[astronomy|astronomical]] and [[cosmology|cosmological]] phenomena have yet to be satisfactorily explained, including the existence of [[GZK paradox|ultra-high energy cosmic rays]], the [[baryon asymmetry]], the [[accelerating universe|acceleration of the universe]] and the [[galaxy rotation problem|anomalous rotation rates of galaxies]].
+
+Although much progress has been made in high-energy, quantum, and astronomical physics, many everyday phenomena, involving [[complex systems|complexity]], [[chaos]], or [[turbulence]] are still poorly understood. Complex problems that seem like they could be solved by a clever application of dynamics and mechanics, such as the formation of sandpiles, nodes in trickling [[water]], the shape of water [[droplet]]s, mechanisms of [[surface tension]] [[catastrophe theory|catastrophes]], or self-sorting in shaken heterogeneous collections are unsolved. These complex phenomena have received growing attention since the 1970s for several reasons, not least of which has been the availability of modern [[mathematics|mathematical]] methods and [[computers]] which enabled [[complex systems]] to be modeled in new ways. The [[interdisciplinary]] [[relevance]] of complex physics has also increased, as exemplified by the study of [[turbulence]] in [[aerodynamics]] or the [[observation]] of [[pattern]] [[formation]] in [[biology|biological]] systems. In 1932, [[Horace Lamb]] correctly prophesized:
+<blockquote>
+''I am an old man now, and when I die and go to heaven there are two matters on which I hope for enlightenment. One is quantum electrodynamics, and the other is the turbulent motion of fluids. And about the former I am rather optimistic.'' 
+</blockquote>
+
+== Notes ==
+#{{note|big bang}}Alpher, Herman, and Gamow. ''Nature'' '''162''',774 (1948). [http://nobelprize.org/physics/laureates/1978/wilson-lecture.pdf Wilson's [[1978]] Nobel lecture]
+#{{note|parity}}See also: [http://cwp.library.ucla.edu/Phase2/Wu,_Chien_Shiung@841234567.html C.S. Wu's contribution to the overthrow of the conservation of parity]
+#{{note|gauge theories}}Yang, Mills [[1954]] ''[[Physical Review]]'' '''95''', 631; Yang, Mills 1954 ''Physical Review'' '''96''', 191.
+
+== Further reading ==
+=== Popular Reading ===
+*{{cite book | author=[[Stephen Hawking|Hawking, Stephen]] | title=[[A Brief History of Time]] | publisher=Bantam | year=1988 | id=ISBN 0553109537}}
+*{{cite book | author=[[Richard Feynman|Feynman, Richard]] | title=Character of Physical Law | publisher=Random House | year=1994 | id=ISBN 0679601279}}
+*{{cite book | author=[[Roger Penrose|Penrose, Roger]] | title=Road to Reality: A Complete Guide to the Laws of the Universe | publisher=Knopf | year=2004 | id=ISBN 0-679-45443-8}}
+*{{cite book | author=[[Brian Greene|Greene, Brian]] | title=[[The Elegant Universe|The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory]] | publisher=Vintage | year=2000 | id=ISBN 0375708111}}
+*{{cite book | author=[[Michio Kaku|Kaku, Michio]] | title=[[Hyperspace (book)|Hyperspace : A Scientific Odyssey Through Parallel Universes, Time Warps, and the 10th Dimension]] | publisher=Anchor | year=1995 | id=ISBN 0385477058}}
+*{{cite book | author=Walker, Jearl | title=The Flying Circus of Physics | publisher=Wiley | year=1977 | id=ISBN 047102984X}}
+*{{cite book | author=Leggett, Anthony | title=The Problems of Physics | publisher=Oxford University Press | year=1988 | id=ISBN 0192891863}}
+
+=== University Level Textbooks ===
+==== Introductory ====
+*{{cite book | author=Feynman, Richard | title=[[The Feynman Lectures on Physics|Feynman Lectures on Physics]] | publisher=Addison-Wesley | year=1989 | id=ISBN 0201510030}}
+*{{cite book | author=Hewitt, Paul | title=Conceptual Physics with Practicing Physics Workbook (9th ed.) | publisher=Addison Wesley | year=2001 | id=ISBN 0321052021}}
+*{{cite book | author=Giancoli, Douglas | title=Physics: Principles with Applications (6th ed.) | publisher=Prentice Hall | year=2005 | id=ISBN 0130606200}}
+*{{cite book | author=Serway, Raymond A.; Jewett, John W. | title=Physics for Scientists and Engineers (6th ed.) | publisher=Brooks/Cole | year=2004 | id=ISBN 0534408427}}
+*{{cite book | author=Tipler, Paul | title=Physics for Scientists and Engineers: Mechanics, Oscillations and Waves, Thermodynamics (5th ed.) | publisher=W. H. Freeman | year=2004 | id=ISBN 0716708094}}
+*{{cite book | author=Tipler, Paul | title=Physics for Scientists and Engineers: Electricity, Magnetism, Light, and Elementary Modern Physics (5th ed.) | publisher=W. H. Freeman | year=2004 | id=ISBN 0716708108}}
+*{{cite book | author=Wilson, Jerry; Buffa, Anthony | title=College Physics (5th ed.) | publisher=Prentice Hall | year=2002 | id=ISBN 0130676446}}
+*{{cite book |author=Resnick, Halliday, Walker| title=Fundamentals of Physics}}
+
+==== Undergraduate ====
+*{{cite book | author=Thornton, Stephen T.; Marion, Jerry B. | title=Classical Dynamics of Particles and Systems (5th ed.) | publisher=Brooks Cole | year=2003 | id=ISBN 0534408966}}
+*{{cite book | author=Hecht, Eugene | title=Optics (4th ed.) | publisher=Pearson Education | year=2001 | id=ISBN 0805385665}}
+*{{cite book | author=Griffiths, David J.|title=Introduction to Electrodynamics (3rd ed.)| publisher=Prentice Hall |year=1998 |id=ISBN 013805326X}}
+*{{cite book | author=Griffiths, David J. | title=Introduction to Elementary Particles | publisher=Wiley, John & Sons, Inc | year=1987 | id=ISBN 0471603864}}
+*{{cite book | author=Griffiths, David J.|title=Introduction to Quantum Mechanics (2nd ed.) | publisher=Prentice Hall |year=2004 |id=ISBN 013805326X}}
+*{{cite book | author=Kroemer, Herbert; Kittel, Charles | title=Thermal Physics (2nd ed.) | publisher=W. H. Freeman Company | year=1980 | id=ISBN 0716710889}}
+*{{cite book | author=Liboff, Richard L. | title=Introductory Quantum Mechanics | publisher=Addison-Wesley | year=2002 | id=ISBN 0805387145}}
+*{{cite book | author=Perkins, Donald H. | title=Introduction to High Energy Physics | publisher=Cambridge University Press | year=1999 | id=ISBN 0521621968}}
+*{{cite book | author=Schutz, Bernard F. | title=A First Course in General Relativity | publisher=Cambridge University Press | year=1984 | id=ISBN 0521277035}}
+*{{cite book | author=Taylor, Edwin F.; [[John Archibald Wheeler|Wheeler, John Archibald]] | title=Spacetime Physics: Introduction to Special Relativity (2nd ed.) | publisher=W.H. Freeman | year=1992 | id=ISBN 0716723271}}
+*{{cite book | author=Taylor, Edwin F.; Wheeler, John Archibald | title=Exploring Black Holes: Introduction to General Relativity | publisher=Addison Wesley | year=2000 | id=ISBN 020138423X}}
+*{{cite book | author=Bergmann, Peter G.| title=Introduction to the Theory of Relativity| publisher=Dover Publications | year=1976 | id=ISBN 0486632822}}
+*{{cite book | author=[[David Bohm|Bohm, David]] | title=Quantum Theory | publisher=Dover Publications | year=1989 | id=ISBN 0486659690}}
+*{{cite book | author=Eisberg, Robert; Resnick, Robert | title=Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles (2nd ed.) | publisher=Wiley | year=1985 | id=ISBN 047187373X}}
+*{{cite book | author=Tipler, Paul; Llewellyn, Ralph | title=Modern Physics (4th ed.) | publisher=W. H. Freeman | year=2002 | id=ISBN 0716743450}}
+
+==== Graduate ====
+*{{cite book | author=Goldstein, Herbert | title=Classical Mechanics | publisher=Addison Wesley | year=2002 | id=ISBN 0201657023}}
+*{{cite book | author=Huang, Kerson | title=Statistical Mechanics | publisher=Wiley, John & Sons, Inc | year=1990 | id=ISBN 0471815187}}
+*{{cite book | author=Jackson, John D. | title=Classical Electrodynamics (3rd ed.) | publisher=Wiley | year=1998 | id=ISBN 047130932X}}
+*{{cite book | author=[[Lev Landau|Landau, L. D.]]; Lifshitz, E. M. | title=Mechanics and Electrodynamics, Vol. 1 | publisher=Franklin Book Company, Inc | year=1972 | id=ISBN 008016739X}}
+*{{cite book | author=Landau, L. D.; Lifshitz, E. M. | title=Course of Theoretical Physics | publisher=Butterworth-Heinemann | year=1976 | id=ISBN 0750628960}}
+*{{cite book | author=Joos, Georg; Freeman, Ira M. | title=Theoretical Physics | publisher=Dover Publications | year=1987 | id=ISBN 0486652270}}
+*{{cite book | author=Arfken, George B.; Weber, Hans J. | title=Mathematical Methods for Physicists (5th ed.) | publisher=Academic Press | year=2000 | id=ISBN 0120598256}}
+*{{cite book | author=Merzbacher, Eugen | title=Quantum Mechanics | publisher=Wiley, John & Sons, Inc | year=1998 | id=ISBN 0471887021}}
+*{{cite book | author=Peskin, Michael E.; Schroeder, Daniel V. | title=Introduction to Quantum Field Theory | publisher=Perseus Publishing | year=1994 | id=ISBN 0201503972}}
+*{{cite book | author=Wald, Robert M. | title=General Relativity | publisher=University of Chicago Press | year=1984 | id=ISBN 0226870332}}
+*{{cite book | author=[[Kip Thorne|Thorne, Kip S.]]; Misner, Charles W.; Wheeler, John Archibald | title=Gravitation | publisher=W.H. Freeman | year=1973 | id=ISBN 0716703440}}
+*{{cite book | author=[[Steven Weinberg|Weinberg, Stephen]] | title=Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity | publisher=Wiley, John & Sons, Incorporated | year=1972 | id=ISBN 0471925675}}
+
+==== History ====
+*{{cite book | author=Cropper, William H. | title=Great Physicists : The Life and Times of Leading Physicists from Galileo to Hawking | publisher=Oxford University Press | year=2004 | id=ISBN 0195173244}}
+*{{cite book | author=[[George Gamow|Gamow, George]] | title=The Great Physicists from Galileo to Einstein | publisher=Dover Publications | year=1988 | id=ISBN 0486257673}}
+*{{cite book | author=Heilbron, John L. | title=The Oxford Guide to the History of Physics and Astronomy | publisher=Oxford University Press | year=2005 | id=ISBN 0195171985}}
+
+== See also ==
+* [[Glossary of classical physics]]
+* [[List of basic physics topics]]
+* [[List of physics topics]]
+* [[Unsolved problems in physics]]
+* [[Philosophy of physics]]
+* [[Physics symbols]]
+
+== External links ==
+{{Wikibooks}}
+{{Wikibookspar|Wikiversity|School of Physics}}
+{{Wiktionary}}
+{{Commonscat}}
+
+=== General ===
+* [http://us.geocities.com/alex_stef/mylist.html Physics and Math Textbooks] Numerous online textbooks on Physics and Mathematics
+* [http://math.ucr.edu/home/baez/physics/ Usenet Physics FAQ]. A [[FAQ]] compiled by sci.physics and other physics newsgroups.
+* [http://www.physics.org/ Physics.org] - Web portal run by the [http://www.iop.org/ Institute of Physics].
+* [http://scienceworld.wolfram.com/physics/ World of Physics]. An online encyclopedic dictionary of physics.
+* [http://www.nobel.se/physics Website of the Nobel Prize in Physics].
+* [http://www.physicstoday.org Physics Today] - Your daily physics news and research source
+* [http://musr.physics.ubc.ca/~jess/hr/skept/ The Skeptic's Guide to Physics]
+* [http://www.planetphysics.org PlanetPhysics] Online Physics
+* [http://www.physics2005.org Physics 2005]: Website of the [[World Year of Physics 2005]]
+
+=== Organizations ===
+* [http://www.aip.org/index.html AIP.org] Website of the [[American Institute of Physics]]
+* [http://www.aps.org APS.org] Website of the [[American Physical Society]]
+* [http://www.spsnational.org SPS National] Website of the [[Society of Physics Students]]
+
+=== Forums ===
+* [http://www.advancedphysics.org Advanced Physics Forums] Physics Forum for Physics Majors
+* [http://www.physicsforums.com Physics Forums] Physics Forum 
+* [news://sci.physics sci.physics] The [[Usenet]] general physics [[newsgroup]].
+* [http://www.physicsmathforums.com Physics Math Forums] Physics, Math, and Philosophy Forums
+
+{{Physics-footer}}
+{{Natural sciences-footer}}
+
+<!-- The parental lineage categories are incomplete without physics listed in them. Physics was a blatant ommission, and makes those lists look rather unprofessional, considering the other fields are listed.-->
+
+[[Category:Natural sciences]]
+[[Category:Physical sciences]]
+[[Category:Physics| ]]
+[[Category:School subjects]]
+
+[[af:Fisika]]
+[[als:Physik]]
+[[ar:فيزياء]]
+[[an:Fesica]]
+[[ast:Física]]
+[[bn:পদার্থবিদ্যা]]
+[[zh-min-nan:Bu̍t-lí-ha̍k]]
+[[be:Фізыка]]
+[[bs:Fizika]]
+[[br:Fizik]]
+[[bg:Физика]]
+[[ca:Física]]
+[[cv:Физика]]
+[[cs:Fyzika]]
+[[co:Fisica]]
+[[cy:Ffiseg]]
+[[da:Fysik]]
+[[de:Physik]]
+[[et:Füüsika]]
+[[el:Φυσική]]
+[[es:Física]]
+[[eo:Fiziko]]
+[[eu:Fisika]]
+[[fa:فیزیک]]
+[[fo:Alisfrøði]]
+[[fr:Physique]]
+[[fy:Natuerkunde]]
+[[ga:Fisic]]
+[[gl:Física]]
+[[gu:ભૌતિક શાસ્ત્ર]]
+[[ko:물리학]]
+[[hi:भौतिकी]]
+[[hr:Fizika]]
+[[io:Fiziko]]
+[[id:Fisika]]
+[[ia:Physica]]
+[[ie:Fisica]]
+[[iu:ᐆᒫᑦᓱᓕᕆᓂᖅ]]
+[[xh:IFiziki]]
+[[is:Eðlisfræði]]
+[[it:Fisica]]
+[[he:פיזיקה]]
+[[ka:ფიზიკა]]
+[[csb:Fizyka]]
+[[sw:Fizikia]]
+[[lad:Fisika]]
+[[la:Physica]]
+[[lv:Fizika]]
+[[lb:Physik]]
+[[lt:Fizika]]
+[[li:Natuurkónde]]
+[[hu:Fizika]]
+[[mk:Физика]]
+[[ms:Fizik]]
+[[nl:Natuurkunde]]
+[[ja:物理学]]
+[[no:Fysikk]]
+[[nn:Fysikk]]
+[[oc:Fisica]]
+[[nds:Physik]]
+[[pl:Fizyka]]
+[[pt:Física]]
+[[ro:Fizică]]
+[[ru:Физика]]
+[[sa:भौतिकी]]
+[[sc:Fìsica]]
+[[sco:Naitural philosophy]]
+[[sq:Fizika]]
+[[scn:Fìsica]]
+[[simple:Physics]]
+[[sk:Fyzika]]
+[[sl:Fizika]]
+[[sr:Физика]]
+[[su:Fisika]]
+[[fi:Fysiikka]]
+[[sv:Fysik]]
+[[tl:Pisika]]
+[[ta:இயற்பியல்]]
+[[tt:Fizik]]
+[[th:ฟิสิกส์]]
+[[vi:Vật lý]]
+[[tr:Fizik]]
+[[bug:Fisika]]
+[[uk:Фізика]]
+[[vo:Füsüd]]
+[[zh:物理学]]
