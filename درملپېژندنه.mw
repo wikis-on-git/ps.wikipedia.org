@@ -1,0 +1,144 @@
+'''Pharmacology''' (in [[Greek language|Greek]]: ''pharmacon (&#966;&#940;&#961;&#956;&#945;&#954;&#959;&#957;)'' meaning drug, and ''logos (&#955;&#972;&#947;&#959;&#962;)'' meaning science) is the study of how chemical substances interact with living systems. If substances have [[medication|medicinal]] properties, they are considered '''pharmaceuticals'''. The field encompasses drug composition and properties, [[interaction]]s, [[toxicology]], [[therapy]], and medical applications and antipathogenic capabilities.  The science is considered to have been invented by Arabic physicians in Baghdad during the [[Islamic Golden Age|Golden Age of Islam]]; pharmacopoeias were penned in Arabic as early as the 7th century (Amin A. Khairallah: ''Outline of Arabic Contributions to Medicine'': ''Chapter X, Chemistry and Pharmacy''. 1946, ).
+
+[[Drug development|Development of medication]] is a vital concern to [[medicine]], but also has strong economical and political implications. To protect the consumer and prevent abuse, many governments regulate the manufacture, sale, and administration of medication. In the [[United States]], the main regulatory body is the [[Food and Drug Administration]] through its publication of the [[United States Pharmacopoeia|USP]].
+
+Pharmacology as a science is practiced by pharmacologists. Subdisciplines are ''clinical pharmacology'' (the medical field of medication effects on humans), ''neuro-'' and ''psychopharmacology'' (effects of medication on behavior and nervous system functioning), and ''theoretical pharmacology''.
+
+==Scientific background==
+The study of medicinal chemicals requires intimate knowledge of the biological system affected. With the knowledge of [[cell biology]] and [[biochemistry]] increasing, the field of pharmacology has also changed substantially. It has become possible, through molecular analysis of [[receptor (biochemistry)|receptor]]s, to design chemicals that act on specific cellular signalling or [[metabolic pathway]]s by affecting sites directly on cell-surface receptors (which modulate and mediate cellular signalling pathways controlling cellular function).
+
+A chemical has, from the pharmacological point-of-view, various properties. [[Pharmacokinetics]] describes its behaviour in the body - particularly in the blood (e.g. its [[half-life]] and [[volume of distribution]]), and [[pharmacodynamics]] relates its behaviour in the blood to its effects (desired effects or [[toxic]] side-effects).
+
+When describing the pharmacokinetic properties of a chemical, pharmacologists are often interested in ''[[ADME]]'':
+* [[Absorption]] - How is the medication absorbed (through the skin, the intestine, the oral mucosa)?
+* [[Distribution (pharmacology)|Distribution]] - How does it spread through the organism?
+* [[Drug metabolism|Metabolism]] - Is the medication converted chemically inside the body, and into which substances. Are these active? Could they be toxic?
+* [[Excretion]] - How is the medication eliminated (through the bile, urine, breath, skin)?
+
+Medication is said to have a narrow or wide ''[[therapeutic index]]'' or ''therapeutic window''. This describes the ratio of desired effect to toxic effect. A compound with a narrow therapeutic index (close to 1) exerts its desired effect at a dose close to its toxic dose. A compound with a wide therapeutic index (greater than 5) exerts its desired effect at a dose substantially below its toxic dose. Those with a narrow window are more difficult to dose and administer, and may require [[therapeutic drug monitoring]] (examples are [[warfarin]], some [[antiepileptic]]s, [[aminoglycoside]] antibiotics). Most anti-cancer drugs have a narrow therapeutic margin: toxic side-effects are almost always encountered at doses used to kill tumours.
+
+==Classification==
+Medication can be usually classified in various ways, e.g. by its chemical properties, mode of administration, or biological system affected. An elaborate and widely used classification system is the [[Anatomical Therapeutic Chemical Classification System]].
+
+==Types of medication==
+===For the [[gastrointestinal tract]] or [[digestive system]]===
+* Upper digestive tract: [[antacid]]s, [[reflux suppressant]]s, [[antiflatulent]]s, [[antidopaminergic]]s, [[proton pump inhibitor]]s, [[H2-receptor antagonist]]s, [[cytoprotectant]]s, [[prostaglandin analogue]]s
+* Lower digestive tract: [[laxative]]s, [[antispasmodic]]s, [[antidiarrhoeal]]s, [[bile acid sequestrant]]s, [[opioid]]s
+
+===For the [[cardiovascular system]]===
+* General: [[beta-receptor blocker]], [[calcium channel blocker]]s, [[diuretic]]s, [[cardiac glycoside]]s, [[antiarrhythmic]]s, [[nitrate]], [[antianginal]]s, [[vasoconstrictor]], [[vasodilator]], [[peripheral activator]]
+* Affecting [[Antihypertensive|Blood pressure]]: [[ACE inhibitor]]s, [[Angiotensin II receptor antagonist|angiotensin receptor blockers]], [[alpha blocker]]
+* Coagulation: [[anticoagulant]], [[heparin]], [[antiplatelet drug]], [[fibrinolytic]], [[Factor VIII|anti-hemophilic factor]], [[haemostatic drug]]s
+* Atherosclerosis/cholesterol agents: [[hypolipidaemic agent]]s, [[statin]]s.
+
+===For the [[central nervous system]]===
+[[hypnotic]], [[anaesthetics]], [[antipsychotic]], [[antidepressant]] (including [[tricyclics|tricyclic antidepressants]], [[monoamine oxidase inhibitor]], [[lithium salt]], [[selective serotonin reuptake inhibitor]]), [[anti-emetic]], [[anticonvulsant]] and [[antiepileptic]], [[anxiolytic]], [[barbiturate]], [[movement disorder drug]], [[stimulant]] (including [[amphetamine|amphetamines]]), [[benzodiazepine]], [[cyclopyrrolone]], [[dopamine antagonist]], [[antihistamine]], [[cholinergic]], [[anticholinergic]], [[emetic]], [[cannabinoids]], [[5-HT antagonist]]
+
+===For pain & consciousness ([[Analgesic drugs]])===
+{{see|Analgesic}}
+
+The main classes of painkillers are [[NSAIDs]], [[opioid]]s and various orphans such as [[paracetamol]], [[tricyclic antidepressant]]s and [[anticonvulsant]]s.
+
+===For [[Muscular system|musculo]]-[[Skeleton|skeletal]] disorders===
+[[NSAID]]s (including [[COX-2 selective inhibitor]]s), [[muscle relaxant]], [[neuromuscular drug]]<br> [[anticholinesterase]]
+
+===For the [[eye]]===
+*General: [[adrenergic neurone blocker]], [[astringent]], [[ocular lubricant]]
+*Diagnostic:  [[topical eye anesthetic]]s, [[sympathomimetic]]s, [[parasympatholytic]]s, [[mydriatic]]s, [[cycloplegic]]s
+*Anti-bacterial:  [[antibiotic]]s, [[topical antibiotic]]s, [[sulfa drugs]], [[aminoglycosides]], [[fluoroquinolones]]
+*Anti-viral:
+*Anti-fungal: [[imidazole]]s, [[polyene]]s
+*Anti-inflammatory:  [[NSAID]]s, [[corticosteroids]]
+*Anti-allergy:  [[mast cell|mast cell inhibitors]]
+*Anti-glaucoma:  [[adrenergic agonist]]s, [[beta-blocker]]s, [[carbonic anhydrase inhibitor]]s/[[hyperosmotic]]s, [[cholinergic]]s, [[miotic]]s, [[parasympathomimetic]]s, [[prostaglandin agonists]]/[[prostaglandin inhibitors]].  [[nitroglycerin]]
+
+===For the ear, nose and [[oropharynx]]===
+[[sympathomimetic]], [[antihistamine]], [[anticholinergic]], [[NSAID]]s, [[steroid]], [[antiseptic]], [[local anesthetic]], [[antifungal]], [[cerumenolytic]]
+
+===For the [[respiratory system]]===
+[[bronchodilator]], [[NSAID]]s, [[anti-allergic]], [[antitussive]], [[mucolytic]], [[decongestant]]<br>[[corticosteroid]], [[beta-receptor antagonist]], [[anticholinergic]], [[steroid]]
+
+===For [[endocrine]] problems===
+[[androgen]], [[antiandrogen]], [[gonadotropin]], [[corticosteroid]], [[growth hormone]], [[insulin]], [[antidiabetic]] ([[sulfonylurea]], [[biguanide]]/[[metformin]], [[thiazolidinedione]], [[insulin]]), [[thyroid hormone]]s, [[antithyroid drug]]s, [[calcitonin]], [[diphosponate]], [[vasopressin analogue]]s
+
+===For the [[reproductive system]] or [[urinary system]]===
+[[antifungal]], [[alkalising agent]], [[quinolones]], [[antibiotic]], [[cholinergic]], [[anticholinergic]], [[anticholinesterase]], [[antispasmodic]], [[5-alpha reductase inhibitor]], [[selective alpha-1 blocker]], [[sildenafil]]
+
+===For [[contraception]]===
+[[contraceptive]], [[oral contraceptives]], [[spermicide]], [[depot contraceptives]]
+
+===For [[obstetrics and gynaecology]]===
+[[NSAID]]s, [[anticholinergic]], [[haemostatic drug]], [[antifibrinolytic]], [[Hormone Replacement Therapy]], [[bone regulator]], [[beta-receptor agonist]], [[follicle stimulating hormone]], [[luteinising hormone]], [[LHRH]]<br> [[gamolenic acid]], [[gonadotropin release inhibitor]], [[progestogen]], [[dopamine agonist]], [[estrogen|oestrogen]], [[prostaglandin]], [[gonadorelin]], [[clomiphene]], [[tamoxifen]], [[Diethylstilbestrol]]
+
+===For the [[skin]]===
+[[emollient]], [[antipruritic|anti-pruritic]], [[antifungal]], [[disinfectant]], [[scabicide]], [[pediculicide]], [[tar products]], [[vitamin A derivatives]], [[vitamin D analogue]], [[keratolytic]], [[abrasive]], [[systemic antibiotic]], [[topical antibiotic]], [[hormone|hormones]], [[desloughing agent]], [[exudate absorbent]], [[fibrinolytic]], [[proteolytic]], [[sunscreen]], [[antiperspirant]], [[corticosteroid]]
+
+===For infections and infestations===
+[[antibiotic]], [[antifungal]], [[antileprotic]], [[antituberculous drug]], [[antimalarial]], [[anthelmintic]], [[amoebicide]], [[antiviral]], [[antiprotozoal]], [[antiserum]]
+
+===For [[immunology]]===
+[[vaccine]], [[immunoglobulin]], [[immunosuppressant]], [[interferon]], [[monoclonal antibody]]
+
+===For [[Allergy|allergic]] disorders===
+[[anti-allergic]], [[antihistamine]], [[NSAID]]s
+
+===For nutrition===
+[[tonic (medicine)|tonic]], [[iron preparation]], [[electrolyte]], [[parenteral nutritional supplement]], [[vitamin]]s, [[anti-obesity drug]], [[anabolic drug]], [[haematopoietic drug]], [[food product drug]]
+
+===For [[Neoplasia|neoplastic]] disorders===
+[[cytotoxic drug]], [[sex hormone]]s, [[aromatase inhibitor]], [[somatostatin inhibitor]], recombinant [[interleukin]]s,  [[Granulocyte-colony stimulating factor|G-CSF]], [[erythropoietin]]
+
+===For diagnostics===
+[[contrast media]]
+
+===For euthanasia===
+A euthanaticum is used for [[euthanasia|euthanasia and physician-assisted suicide]], see also [[Barbiturate#Other_non-therapeutical_use|barbiturates]].
+
+===Other===
+[[Zoopharmacognosy]]: Animal usage of drugs and non-foods.
+
+==External links==
+* [http://www.pharmaceutical-business-review.com Pharmaceutical Business Review]
+* [http://www.ich.org/ International Conference on Harmonisation]
+* [http://www.usp.org US Pharmocopea]
+
+== See also ==
+
+* [[Cosmeceuticals]]
+* [[Drug design]]
+* [[List of withdrawn drugs]]
+* [[Medicare Part D]] - the new prescription drug plan in the U.S.
+* [[Medicinal chemistry]]
+* [[Neuropharmacology]] - The Molecular and Behavior study of Disease and Drugs in the Nervous System
+* [[Pharmaceutical company]]
+* [[Pharmacotherapy]]
+* [[Pharmakos]]
+* [[Psychopharmacology]] - medication for mental conditions
+
+{{BranchesofChemistry}}
+{{Technology-footer}}
+
+[[Category:Pharmacology| ]]
+[[Category:Biochemistry]]
+
+[[ar:علم الأدوية]]
+[[ca:Farmacologia]]
+[[da:Farmakologi]]
+[[de:Pharmakologie]]
+[[es:Farmacología]]
+[[eo:Farmakologio]]
+[[fr:Pharmacologie]]
+[[he:פרמקולוגיה]]
+[[hu:Gyógyszerhatástan]]
+[[nl:Farmacie]]
+[[ja:薬理学]]
+[[no:Farmakologi]]
+[[pl:Farmakologia]]
+[[pt:Farmacologia]]
+[[sk:Farmakológia]]
+[[sv:Farmakologi]]
+[[th:เภสัชวิทยา]]
+[[tr:Farmakoloji]]
+[[uk:Фармакологія]]
+[[vi:Dược lý học]]
+[[zh:药理学]]
