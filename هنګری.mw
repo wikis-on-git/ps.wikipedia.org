@@ -1,30 +1,30 @@
 {{Infobox_Country|
-|native_name = ''Magyar Köztársaság''
+|اصلي نوم = ''Magyar Köztársaság''
 |conventional_long_name = د هنګري جمهوريت
-|common_name = هنګري
-|image_flag = Flag of Hungary.svg
-|image_coat = Hungary COA.jpg
-|image_map = LocationHungary.png
+|عام نوم = هنګري
+|بېرغ = Flag of Hungary.svg
+|نښان = Hungary COA.jpg
+|نخشه = LocationHungary.png
 |national_motto = none<br>Historical: [[Latin]]: ''Regnum Mariae Patrona Hungariae'' <br>([[English language|English]]: "Kingdom of Mary the Patron of Hungary")
-|national_anthem = ''[[Himnusz|Himnusz (Isten, áldd meg a magyart)]]''<br> "Hymn (God, bless Hungarian people)"
-|official_languages = [[Hungarian language|Hungarian]] (''Magyar'')
-|capital = [[Budapest]]
+|ملي سرود = ''[[Himnusz|Himnusz (Isten, áldd meg a magyart)]]''<br> "Hymn (God, bless Hungarian people)"
+|رسمي ژبه = [[Hungarian language|Hungarian]] (''Magyar'')
+|پلازمېنه = [[Budapest]]
 |latd=47 |latm=26 |latNS=N |longd=19 |longm=15 |longEW=E |
-|largest_city = [[Budapest]]
-|government_type = Democratic [[republic]]
+|لوی ښار = [[Budapest]]
+|د حکومت بڼه = Democratic [[republic]]
 |leader_titles = [[President of Hungary|President]]<br>[[Prime minister of Hungary|Prime minister]]
 |leader_names = [[László Sólyom]]<br>[[Ferenc Gyurcsány]]
 |area_rank = 108th
-|area_magnitude = 1 E10
-|area = 93,030
+|د مساحت ارتوالی = 1 E10
+|مساحت = 93,030
 |areami²= 35,919<!-- Do not remove per [[WP:MOSNUM]] -->
-|percent_water = 0.74%
+|د اوبو سلنه = 0.74%
 |population_estimate = 10,077,000
 |population_estimate_year = December 2005
 |population_estimate_rank = 80th
 |population_census = 10,198,315
 |population_census_year = 2001
-|population_density = 108
+|د وګړو ګڼه ګونه = 108
 |population_densitymi² =280 <!-- Do not remove per [[WP:MOSNUM]] -->
 |population_density_rank = 69th
 |GDP_PPP_year = 2005
@@ -39,7 +39,7 @@
 |HDI = 0.862
 |HDI_rank = 35th
 |HDI_category = <font color="#009900">high</font>
-|currency = [[Hungarian forint|Forint]]
+|پېسه = [[Hungarian forint|Forint]]
 |currency_code = HUF
 |country_code = hu
 |time_zone = [[Central European Time|CET]]
@@ -47,7 +47,7 @@
 |time_zone_DST = [[Central European Summer Time|CEST]]
 |utc_offset_DST = +2
 |cctld = [[.hu]]
-|calling_code = 36
+|پېل ګڼ = 36
 |footnotes = 
 }}
 
