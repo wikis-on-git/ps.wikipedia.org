@@ -1,26 +1,26 @@
 {{Infobox Country |
-native_name              = Кыргыз Республикасы<br>''Kyrgyz Respublikasy''<br>Кыргызская республика<br>''Kyrgyzskaya respublika'' |
+اصلي نوم              = Кыргыз Республикасы<br>''Kyrgyz Respublikasy''<br>Кыргызская республика<br>''Kyrgyzskaya respublika'' |
 conventional_long_name   = Kyrgyz Republic |
-common_name              = Kyrgyzstan |
-image_flag               = Flag of Kyrgyzstan.svg |
-image_coat               = Kyrgystan coa.gif |
+عام نوم              = Kyrgyzstan |
+بېرغ               = Flag of Kyrgyzstan.svg |
+نښان               = Kyrgystan coa.gif |
 national_motto           = ''none'' |
-image_map                = LocationKyrgyzstan.png |
-national_anthem          = [[National Anthem of the Kyrgyz Republic|National Anthem of the <br> Kyrgyz Republic]] |
-official_languages       = [[Kyrgyz language|Kyrgyz]], [[Russian language|Russian]] |
-capital                  = [[Bishkek]] |
+نخشه                = LocationKyrgyzstan.png |
+ملي سرود         = [[National Anthem of the Kyrgyz Republic|National Anthem of the <br> Kyrgyz Republic]] |
+رسمي ژبه       = [[Kyrgyz language|Kyrgyz]], [[Russian language|Russian]] |
+پلازمېه                  = [[بشکېک]] |
 latd=42 |latm=52 |latNS=N |longd=74 |longm=36 |longEW=E |
-government_type          = [[Republic]] |
+د حکومت بڼه          = [[جمهوريت]] |
 leader_title1            = [[President of Kyrgyzstan|President]] |
 leader_title2            = [[Prime Minister of Kyrgyzstan|Prime Minister]] |
 leader_name1             = [[Kurmanbek Bakiyev]] |
 leader_name2             = [[Feliks Kulov]] |
-largest_city             = [[Bishkek]] |
-area                     = 198,500 |
+لوی ښار             = [[بشکېک]] |
+مساحت                     = 198,500 |
 areami²               =    76,621 <!-- Do not remove per [[WP:MOSNUM]] -->|
 area_magnitude=1 E11|
 area_rank                = 85th |
-percent_water            = 3.6% |
+د اوبو سلنه            = 3.6% |
 population_estimate      = 5,264,000 |<!--UN WPP-->
 population_estimate_year = July 2005 |
 population_estimate_rank = 111th |
@@ -38,7 +38,7 @@ HDI_year = 2003 |
 HDI = 0.702 |
 HDI_rank = 109th |
 HDI_category = <font color="#FFCC00">medium</font> |
-sovereignty_type         = [[History of the Soviet Union (1985-1991)|Independence]] |
+زمکنۍ بشپړتيا         = [[History of the Soviet Union (1985-1991)|خپلواکي]] |
 sovereignty_note         = From the [[Soviet Union]] |
 established_event1       = Declared |
 established_event2       = Recognized |
@@ -46,15 +46,15 @@ established_event3       = Formerly |
 established_date1        = [[31 August]] [[1991]] |
 established_date2        = December 1991 |
 established_date3        = [[Kyrgyz SSR]] |
-currency                 = [[Kyrgyzstani Som|Som]] |
-currency_code            = KGS |
+پېسه                 = [[Kyrgyzstani Som|Som]] |
+د پېسو نښه            = KGS |
 time_zone                = [[Kyrgyzstan Time|KGT]] |
 utc_offset               = +6 |
 time_zone_DST            = No daylight savings time|
 utc_offset_DST           =  |
 DST_note                 = Not in use |
 cctld                    = [[.kg]] |
-calling_code             = 996 |
+پيل ګڼ            = 996 |
 footnotes                = 
 }}
 
