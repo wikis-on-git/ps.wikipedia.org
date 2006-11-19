@@ -1,25 +1,25 @@
 {{Infobox_Country
-|native_name = ''Repiblik Sesel<br>République des Seychelles''
+|اصلي نوم = ''Repiblik Sesel<br>République des Seychelles''
 |conventional_long_name = Republic of Seychelles
-|common_name = Seychelles
-|image_flag = Flag of the Seychelles.svg
-|image_coat = Seychelles coa.png
+|عام نوم = Seychelles
+|بېرغ = Flag of the Seychelles.svg
+|نښان = Seychelles coa.png
 |symbol_type = Coat of arms
-|image_map = LocationSeychelles.png
+|نخشه = LocationSeychelles.png
 |national_motto = ''Finis Coronat Opus''<br>([[Latin language|Latin]]: The End Crowns the Work)
-|national_anthem = ''[[Koste Seselwa]]''
-|official_languages = [[English language|English]], [[French language|French]], and [[Seychellois Creole]]
-|capital = [[Victoria, Seychelles|Victoria]]
+|ملي سرود = ''[[Koste Seselwa]]''
+|رسمي ژبه = [[English language|English]], [[French language|French]], and [[Seychellois Creole]]
+|پلازمېنه = [[Victoria, Seychelles|Victoria]]
 |latd=4|latm=35|latNS=S|longd=55|longm=40|longEW=E
-|largest_city = [[Victoria, Seychelles|Victoria]]
-|government_type = [[Republic]]
+|لوی ښار = [[Victoria, Seychelles|Victoria]]
+|د حکومت بڼه  = [[جمهوريت]]
 |leader_title1 = [[President of Seychelles|President]]
 |leader_name1 = [[James Michel]]
 |area_rank = 197th
 |area_magnitude = 
-|area = 455
+|مساحت = 455
 |areami² = 176
-|percent_water = Negligible
+|د اوبو سلنه = Negligible
 |population_estimate = 80,654
 |population_estimate_rank = 199th
 |population_estimate_year = [[2005]]
@@ -33,7 +33,7 @@
 |GDP_PPP_year = [[2005]]
 |GDP_PPP_per_capita = $11,818
 |GDP_PPP_per_capita_rank = 57th
-|sovereignty_type = [[Independence]]
+|زمکنۍ بشپړتيا = [[خپلواکي]]
 |sovereignty_note = From the [[United Kingdom]]
 |established_event1 = Date
 |established_date1 = [[29 June]] [[1976]]
@@ -41,16 +41,16 @@
 |HDI_rank = 51st
 |HDI_year = [[2003]]
 |HDI_category = <font color="green">high</font>
-|currency = [[Seychelles rupee]] 
-|currency_code = SCR
-|country_code = 
+|پېسه= [[Seychelles rupee]] 
+|د پېسو نښه = SCR
+|هېوادنی کوډ = 
 |time_zone = 
 |utc_offset = +4
 |time_zone_DST = 
 |DST_note =
 |utc_offset_DST = 
 |cctld = [[.sc]]
-|calling_code = 248
+|پېل ګڼ = 248
 |footnotes = 
 }}
 
