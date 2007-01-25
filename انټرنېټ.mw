@@ -1,10 +1,10 @@
+{{portal}}
 {{dablink|For the more general networking concept, see [[computer network]], [[computer networking]], and [[internetworking]].}}
 <!-- The Internet and the World Wide Web are different concepts - please do not muddle them in this article -->
 
 The '''Internet''' is the worldwide, publicly accessible [[network]] of interconnected [[computer network]]s that transmit [[Data (computing)|data]] by [[packet switching]] using the standard [[Internet Protocol]] (IP). It is a "network of networks" that consists of millions of smaller domestic, academic, business, and government networks, which together carry various [[information]] and services, such as [[electronic mail]], [[online chat]], [[Computer file|file]] transfer, and the interlinked [[Web page]]s and other documents of the [[World Wide Web]].
 
 [[Image:Internet map 1024.jpg|thumb|Visualization of the various routes through a portion of the Internet.]]
-{{portal}}
 
 ==Terminology: Internet vs. Web==
 The Internet and the [[World Wide Web]] are not synonymous: the Internet is a collection of interconnected ''computer networks'', linked by [[copper]] wires, [[optical fiber|fiber-optic]] cables, [[wireless]] connections, etc.; the Web is a collection of interconnected documents and other ''resources'', linked by [[hyperlink]]s and [[URL]]s.  The World Wide Web is accessible via the Internet, as are many other services including [[e-mail]], [[file sharing]], and others described below.
