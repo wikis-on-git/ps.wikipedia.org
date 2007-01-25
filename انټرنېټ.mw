@@ -11,7 +11,7 @@ The Internet and the [[World Wide Web]] are not synonymous: the Internet is a co
 
 The best way to define and distinguish between these terms is with reference to the [[Internet protocol suite]].  This collection of standards and protocols is organized into layers such that each layer provides the foundation and the services required by the layer above.  In this conception, the term Internet refers to computers and networks that communicate using [[Internet Protocol|IP]] (Internet protocol) and [[Transmission control protocol|TCP]] (transfer control protocol).  Once this networking structure is established, then other protocols can run “on top.”  These other protocols are sometimes called services or applications.  Hypertext transfer protocol, or [[Hypertext Transfer Protocol|HTTP]], is the application layer protocol that links and provides access to the files, documents and other resources of the World Wide Web.
 
-==Creation of the Internet==
+==د انټرنټ جوړېدنه==
 {{details|History of the Internet}}<!-- The Internet is the worldwide, publicly accessible network of interconnected computer networks that transmit data by packet switching using the standard Internet Protocol (IP). It is a "network of networks" that consists of millions of smaller domestic, academic, business, and government networks, which together carry various information and services, such as electronic mail, online chat, file transfer, and the interlinked Web pages and other documents of the World Wide Web.
  -->
 The [[USSR]]'s launch of [[Sputnik]] spurred the [[United States]] to create the Advanced Research Projects Agency (ARPA, later known as the [[DARPA|Defense Advanced Research Projects Agency]], or DARPA) in February 1958 to regain a technological lead.  ARPA created the [[Information Processing Technology Office]] (IPTO) to further the research of the [[Semi Automatic Ground Environment]] (SAGE) program, which had networked country-wide radar systems together for the first time.  [[J. C. R. Licklider]] was selected to head the IPTO, and saw universal networking as a potential unifying human revolution.  
@@ -28,20 +28,20 @@ An early popular Web browser was ''[[ViolaWWW]]'' based upon [[HyperCard]]. It w
 
 Meanwhile, over the course of the decade, the Internet successfully accommodated the majority of previously existing public computer networks (although some networks such as [[FidoNet]] have remained separate). This growth is often attributed to the lack of central administration, which allows organic growth of the network, as well as the non-proprietary open nature of the Internet protocols, which encourages vendor interoperability and prevents any one company from exerting too much control over the network.
 
-==Today's Internet==
+==د نن ورځې انټرنټ==
 [[Image:My Opera Server.jpg|thumb|Server Hosting the [[My Opera Community]] on the Internet]]
 Aside from the complex physical connections that make up its infrastructure, the Internet is facilitated by bi- or multi-lateral commercial contracts (e.g., [[peering agreement]]s), and by technical specifications or [[Communications protocol|protocol]]s that describe how to exchange [[data]] over the network. Indeed, the Internet is essentially defined by its interconnections and routing policies. 
 
 As of [[September 18]], [[2006]], 1.09 billion people use the Internet according to [http://www.internetworldstats.com/stats.htm Internet World Stats].
 
-===Internet protocols===
+===د انټرنټ پروټوکولونه===
 {{details|Internet Protocols}}
 In this context, there are three layers of protocols:
 * At the lowest level is '''[[Internet Protocol|IP]]''' (Internet Protocol), which defines the datagrams or [[packet]]s that carry blocks of data from one node to another. The vast majority of today's Internet uses version four of the IP protocol (i.e. [[IPv4]]), and although [[IPv6]] is standardised, it exists only as "islands" of connectivity, and there are many ISPs who don't have any IPv6 connectivity at all. [http://www.livinginternet.com]
 * Next come '''[[Transmission Control Protocol|TCP]]''' (Transmission Control Protocol) and '''[[User Datagram Protocol|UDP]]''' (User Datagram Protocol) - the protocols by which one host sends data to another. The former makes a virtual 'connection', which gives some level of guarantee of reliability. The latter is a best-effort, connectionless transport, in which data packets that are lost in transit will not be re-sent.
 * On top comes the '''[[Application layer|application protocol]]'''. This defines the specific messages and data formats sent and understood by the applications running at each end of the communication.
 
-=== Internet structure ===
+=== د انټرنټ جوړښت===
 
 There have been many analyses of the Internet and its structure. For example, it has been determined that the Internet IP routing structure and hypertext links of the World Wide Web are examples of [[scale-free network]]s.
 
@@ -62,7 +62,7 @@ In network [[schematic]] diagrams, the Internet is often represented by a [[clou
 
 On Nov. 16, 2005, the World Summit on the Information Society, held in Tunis, established the Internet Governance Forum (IGF) to discuss Internet-related issues.
 
-===Language===
+===ژبه===
 {{details|English on the Internet}}
 The most prevalent language for communication on the Internet is [[English language|English]].  This may be a result of the Internet's origins, as well as English's role as the [[lingua franca]].  It may also be related to the poor capability of early computers to handle characters other than those in the basic [[Latin alphabet]]. {{further|[[Unicode]]}}
 
@@ -74,21 +74,21 @@ By continent, 37% of the world's Internet users are based in [[Asia]], 28% in [[
 
 The Internet's technologies have developed enough in recent years that good facilities are available for development and communication in most widely used languages. However, some glitches such as ''[[mojibake]]'' (incorrect display of foreign language characters, also known as ''krakozyabry'') still remain.
 
-===Internet and the workplace===
+===انټرنټ او د کار ځای===
 The Internet is allowing greater flexibility in working hours and location, especially with the spread of unmetered high-speed connections and [[Web applications]].
 
-===The Mobile Internet===
+===د لاسي ټيليفونونو يا موبايل انټرنټ===
 The Internet can now be accessed virtually anywhere by numerous means.  [[Mobile phone]]s, [[datacard]]s, and [[cellular router]]s allow users to  connect to the Internet from anywhere there is a cellular network supporting that device's technology.
 
-==Common uses of the Internet==
+==د انټرنټ ټولګړې کارونې==
 
-===E-mail===
+===برېښناليک===
 {{details|E-mail}}
 The concept of sending electronic text messages between parties in a way analogous to mailing letters or memos predates the creation of the Internet.  Even today it can be important to distinguish between Internet and internal e-mail systems.  Internet e-mail may travel and be stored unencrypted on many other machines and networks out of both the sender's and the recipient's control. During this time it is quite possible for the content to be read and even tampered with by third parties, if anyone considers it important enough. Purely internal or intranet mail systems, where the information never leaves the corporate or organisation's network and servers, is much more secure, although in any organisation there will be IT and other personnel whose job may involve monitoring, or at least occasionally accessing, the email of other employees not addressed to them.  [[Web-based email]] (webmail) between parties on the same webmail system may not actually 'go' anywhere&mdash;it merely sits on the one server and is tagged in various ways so as to appear in one person's 'sent items' list and in one or more others' 'in boxes' or other 'folders' when viewed.
 
 E-mail attachments have greatly increased the usefulness of e-mail in many ways.  When a file is attached to an email, a text representation of the attached data (which may itself be binary data) is actually appended to the e-mail text, later to be reconstituted into a 'file' on the recipient's machine for their use.  See [[MIME]] (Multipurpose Internet Mail Extensions) for details of how the problems involved in doing this have been overcome.
 
-===The World Wide Web===
+===د نړۍ ارت جال يا world wide web===
 {{details|World Wide Web}}[[Image:WorldWideWebAroundWikipedia.png|thumb|300px|Graphic representation of a very small part of the [[World Wide Web|WWW]], representing some of the [[hyperlink]]s]]
 
 Through [[keyword (Internet search)|keyword]]-driven [[Internet research]] using [[search engine]]s, like [[Google (search engine)|Google]], millions worldwide have easy, instant access to a vast and diverse amount of online information. Compared to [[encyclopedia]]s and traditional [[library|libraries]], the World Wide Web has enabled a sudden and extreme decentralization of information and data.
@@ -97,7 +97,7 @@ Many individuals and some companies and groups have adopted the use of "Web logs
 
 For more information on the distinction between the World Wide Web and the Internet itself — as in everyday use the two are sometimes confused — see [[Dark internet]] where this is discussed in more detail.
 
-===Remote access===
+===لاس رسي د لېري ځای نه===
 The Internet allows computer users to connect to other computers and information stores easily, wherever they may be across the world.
 They may do this with or without the use of security, authentication and encryption technologies, depending on the requirements.
 
@@ -116,7 +116,7 @@ Internet 'chat', whether in the form of [[IRC]] 'chat rooms' or channels, or via
 
 [[Version control]] systems allow collaborating teams to work on shared sets of documents without either accidentally overwriting each other's work or having members wait until they get 'sent' documents to be able to add their thoughts and changes.
 
-===File sharing===
+===لمېسې يو د بل سره ګډول===
 {{details|File sharing}}
 
 A [[computer file]] can be [[Electronic mail|e-mailed]] to customers, colleagues and friends as an [[E-mail attachment|attachment]]. It can be uploaded to a [[Web site]] or [[File Transfer Protocol|FTP]] server for easy download by others. It can be put into a "shared location" or onto a [[file server]] for instant use by colleagues. The load of bulk downloads to many users can be eased by the use of "[[mirror (computing)|mirror]]" servers or [[peer-to-peer]] networks.
@@ -129,7 +129,7 @@ Many existing radio and television broadcasters provide Internet 'feeds' of thei
 
 [[Webcam]]s can be seen as an even lower-budget extension of this phenomenon. While some webcams can give full frame rate video, the picture is usually either small or updates slowly. Internet users can watch animals around an African waterhole, ships in the [[Panama Canal]], the traffic at a local roundabout or their own premises, live and in real time. Video [[chat rooms]], [[video conferencing]], and remote controllable webcams are also popular. Many uses can be found for personal webcams in and around the home, with and without two-way sound.
 
-=== Voice Telephony (VoIP) ===
+=== غږيزه ټيليفون يا(VoIP) ===
 {{details|VoIP}}
 VoIP stands for Voice over IP, where [[Internet Protocol|IP]] refers to the Internet Protocol that underlies all Internet communication.  This phenomenon began as an optional two-way voice extension to some of the [[Instant Messaging]] systems that took off around the year 2000.  In recent years many VoIP systems have become as easy to use and as convenient as a normal telephone.  The benefit is that, as the Internet carries the actual voice traffic, VoIP can be free or cost much less than a normal telephone call, especially over long distances and especially for those with always-on [[ADSL]] or [[Digital Subscriber Line|DSL]] Internet connections.
 
@@ -143,7 +143,7 @@ Most VoIP providers offer unlimited national calling but the direction in VoIP i
 
 VoIP has also become increasingly popular within the gaming world, as a form of communication between players. Popular gaming VoIP clients include [[Ventrilo]] and [[Teamspeak]], and there are others available also.
 
-==Censorship==
+==سانسورېدنه==
 [[Image:Zensur.JPG|thumb|300px|right|A [[World Wide Web|WWW]] site being blocked in the United Arab Emirates]]
 {{details|Internet censorship}}
 
@@ -155,7 +155,7 @@ Many countries have enacted laws making the possession or distribution of certai
 
 There are many free and commercially available software programs with which a user can choose to block offensive Web sites on individual computers or networks, such as to limit a child's access to pornography or violence. See ''[[Content-control software]]''.
 
-==Internet access==
+==انټرنټ ته لاس رسی==
 {{details|Internet access}}
 {{wikibookspar||Online linux connect}}
 Common methods of home access include [[Dial-up access|dial-up]], landline [[Broadband Internet access|broadband]] (over coaxial cable, fibre optic or copper wires), [[Wi-Fi]], [[Satellite Internet|satellite]] and [[mobile phone|cell phones]].
@@ -185,12 +185,12 @@ People use [[Internet Relay Chat|chat]], [[Instant messaging|messaging]] and ema
 
 [[Cyberslacking]] has become a serious drain on corporate resources; the average UK employee spends 57 minutes a day surfing the Web at work, according to a study by [[Peninsula Business Services]][http://news.scotsman.com/topics.cfm?tid=914&id=1001802003].
 
-==Complex architecture ==
+==پېچلی بنسټ ==
 Many computer scientists see the Internet as a "prime example of a large-scale, highly engineered, yet highly [[complex system]]".<ref>Walter Willinger, Ramesh Govindan, Sugih Jamin, Vern Paxson, and Scott Shenker. (2002). [http://www.pnas.org/cgi/content/full/99/suppl_1/2573 Scaling phenomena in the Internet]. In ''Proceedings of the National Academy of Sciences, 99'', suppl. 1, 2573 – 2580.</ref> The Internet is extremely heterogeneous. (For instance, data transfer rates and physical characteristics of connections vary widely.) The Internet exhibits [[Emergence|"emergent phenomena"]] that depend on its large-scale organization. For example, data transfer rates exhibit temporal self-similarity.
 
 {{section-stub}}
 
-==Marketing==
+==سوداګري==
 
 The Internet has also become a large market for companies; some of the biggest companies today have grown by taking advantage of the efficient nature of low-cost [[advertising]] and [[commerce]] through the Internet; also known as [[e-commerce]]. It is the fastest way to spread information to a vast amount of people simultaneously. The Internet has also subsequently revolutionized [[shopping]]—for example; a person can order a [[Compact disc|CD]] online and receive it in the [[mail]] within a couple of days, or [[download]] it directly in some cases.  The Internet has also greatly facilitated [[personalized marketing]] which allows a company to market a product to a specific person or a specific group of people more so than any other advertising medium.
 
@@ -202,7 +202,7 @@ Adware is another ineffective way of advertising because most people simply clos
 
 {{further|[[Disintermediation#Impact of Internet-related disintermediation upon various industries]] and [[Travel agency#The Internet threat]]}}
 
-==The name Internet==
+==د انټرنټ نوم==
 {{details|Internet capitalization conventions}}
 {{Wiktionarypar2|Internet|internet}}
 ''Internet'' is traditionally written with a [[majuscule|capital]] first letter, as it is a [[proper noun]]. The [[Internet Society]], the [[Internet Engineering Task Force]], the [[ICANN|Internet Corporation for Assigned Names and Numbers]], the [[World Wide Web Consortium]], and several other Internet-related organizations use this convention in their publications.
@@ -213,12 +213,12 @@ Others assert that the first letter should be written in [[minuscule|lower case]
 
 Historically, ''Internet'' and ''internet'' have had different meanings, with ''internet'' being a contraction of ''internetwork'' or ''internetworking'' and ''Internet'' referring to the International Network. Under this distinction, the Internet is a particular internet, but the reverse does not apply. The distinction was evident in many RFCs, books, and articles from the 1980s and early 1990s (some of which, such as RFC 1918, refer to "internets" in the plural), but has recently fallen into disuse{{fact}}. Instead, the term [[intranet]] is generally used for private networks.
 
-== UNDP-APDIP Books ==
+== UNDP-APDIP کتابونه ==
 {{wikibooks|The Information Age}}
 
 This e-primer provides a comprehensive review of the digital and information and communications technology revolutions and how they are changing the economy and society. The primer also addresses the challenges arising from the widening digital divide.
 
-==Significant Internet events==
+==د انټرنټ اهمې پېښې==
 ===Malfunctions and attacks===
 *[[SQL slammer (computer worm)|SQL Slammer worm]] — [[January 24]], [[2003]]
 *[[2002 DNS Backbone DDoS]] — [[October 22]], [[2002]]
@@ -226,17 +226,17 @@ This e-primer provides a comprehensive review of the digital and information and
 *Predicted [[Y2K Bug]] - [[January 1]], [[2000]]
 *[[Morris worm]] — [[November 2]], [[1988]]
 
-==See also==
+==دا هم وګورۍ==
 {{sisterlinks|Internet}}
 * [[List of Internet topics]]
 
-===Major aspects and issues===
+===لويې کتنې او چارې===
 * [[Internet democracy]]
 * [[History of the Internet]]
 * [[Net neutrality]]
 * [[Internet privacy|Privacy on the Internet]]
 
-===Functions===
+===کارونه===
 * [[E-mail]]
 * [[File-sharing]]
 * [[Instant messaging]]
@@ -254,23 +254,23 @@ This e-primer provides a comprehensive review of the digital and information and
 * [[Internet Assigned Numbers Authority]] (IANA)
 * [[Internet Corporation for Assigned Names and Numbers]] ([[ICANN]])
 
-==References==
+==سرچينې==
 ===Citations and notes===
 <!--This article uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php --> 
 {{reflist}}
 
-===General===
+===ټولګړي===
 *[http://www.livinginternet.com  Living Internet] — Internet history and related information, including information from many creators of the Internet.
 *[http://www.firstmonday.org/ First Monday] peer-reviewed journal on the Internet.
 
-==External links==
-===General===
+==باندنۍ تړنې==
+===ټولګړي===
 *[http://digital.library.unt.edu/govdocs/crs/search.tkl?q=internet&search_crit=subject&search=Search&date1=Anytime&date2=Anytime&type=form Read Congressional Research Service (CRS) Reports regarding the Internet]
 *[http://www.sharpened.net/glossary/ Glossary of Computer and Internet Terms]
 *[http://scoreboard.keynote.com/scoreboard/Main.aspx?Login=Y&Username=public&Password=public Internet Health Report] from Keynote
 *[http://www.internetworldstats.com/stats.htm Internet World Stats]
 
-===Articles===
+===ليکنې===
 *[http://edition.cnn.com/2006/TECH/internet/11/01/100millionwebsites/ CNN:  Web reaches new milestone: 100 million sites] 
 *[http://www.iht.com/articles/2005/09/29/business/net.php "EU and U.S. clash over control of the Net" - International Herald Tribune article by Tom Wright]
 *[http://www.wired.com/wired/archive/13.08/intro.html "10 Years that changed the world" - WiReD looks back at the evolution of the Internet over last 10 years]
@@ -279,7 +279,7 @@ This e-primer provides a comprehensive review of the digital and information and
 *[http://computer.howstuffworks.com/internet-infrastructure.htm How Stuff Works explanation of the Infrastructure of the Internet]
 *[http://ocportal.com/site/pg/how_internet_works/index.php&wide_high=1 How the Internet actually works] An article summarising the core Internet technologies, written for non-experts
 
-===History===
+===تاريخ===
 *The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal    M. Mitchell Waldrop 
 *[http://www.isoc.org/internet/history/brief.shtml The Internet Society History Page]
 *[http://www.internetvalley.com/archives/mirrors/cerf-how-inet.txt How the Internet Came to Be]
