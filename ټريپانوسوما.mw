@@ -1,0 +1,73 @@
+{{Taxobox
+| color = khaki
+| name = ''Trypanosoma''
+| image = Trypanosoma cruzi crithidia.jpeg
+| image_caption = ''[[Trypanosoma cruzi]]'', crithidia.
+| domain = [[Eukaryote|Eukaryota]]
+| unranked_phylum = [[Excavata]]
+| phylum = [[Euglenozoa]]
+| classis = [[Kinetoplastid|Kinetoplastea]]
+| ordo = [[Trypanosome|Trypanosomatida]]
+| genus = '''''Trypanosoma'''''
+}}
+'''''Trypanosoma''''' is a notable genus of [[trypanosome]]s, a [[monophyletic]]<ref name="Hamilton04">{{cite journal
+ | author = Hamilton, PB 
+ | year = 2004
+ | title = Trypanosomes are monophyletic: evidence from genes for glyceraldehyde phosphate dehydrogenase and small subunit ribosomal RNA.
+ | journal = Int J Parasitol 
+ | volume = 34
+ | issue = 12
+ | pages = 1393&ndash;1404
+ | id = PMID 15542100
+ }}</ref> group of unicellular [[parasite|parasitic]] protozoa.  The name is derived from the [[Greek language|Greek]] ''trypa&ocirc;'' (boring) and ''soma'' (body) because of the way the organisms move.  Different species infect a variety of different vertebrates, including humans, causing the [[trypanosomiasis]] diseases, e.g. [[sleeping sickness]].  Most species are transmitted by invertebrates such as biting [[insect]]s and [[leech]]es.  
+
+Trypanosoma undergo a complex lifecycle which may include several different morphological forms especially in the species which are transmitted by invertebrates. They may go through a variety of different forms in the invertebrate host, but in the vertebrate host the cells take a characteristic form called a trypomastigote, where the flagellum runs from the posterior to the anterior of the cell and is connected by an undulating membrane.
+
+Species of ''Trypanosoma'' include the following:
+* ''[[Trypanosoma avium|T. avium]]'', which causes trypanosomiasis in birds
+* ''[[Trypanosoma boissoni|T. boissoni]]'', in [[elasmobranch]]
+* ''[[Trypanosoma brucei|T. brucei]]'', which causes [[sleeping sickness]] in humans and [[nagana]] in cattle
+* ''[[Trypanosoma carassii|T. carassii]]'', in freshwater [[teleost]]s
+* ''[[Trypanosoma cruzi|T. cruzi]]'', which causes [[Chagas disease]] in humans
+* ''[[Trypanosoma congolese|T. congolense]]'', which causes [[nagana]] in cattle, horses, and camels
+* ''[[Trypanosoma equinum]]'' Voges 1901, Horses infected by [[Tabanidae]], [[South America]]
+* ''[[Trypanosoma equiperdum|T. equiperdum]]'', which causes [[dourine]] or [[Covering sickness]] in [[horse]]s and other [[Equidae]]
+* ''[[Trypanosoma evansi|T. evansi]]'', which causes one form of the disease [[surra]] in certain animals (single case report of human infection in [[2005]] in India<ref>{{cite journal | 
+ journal=Wkly Epidemiol Rec | year=2005 | volume=80 | issue=7 | pages=62&ndash;3 | title=A new form of human trypanosomiasis in India. Description of the first human case in the world caused by ''Trypanosoma evansi'' | author=World Health Organization. | id=PMID 15771199 |
+url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15771199&query_hl=2 }}
+</ref> and was successfully treated with [[suramin]].<ref>{{cite journal | author=Joshi PP, Chaudhari A, Shegokar VR, ''et al.'' | title=Treatment and follow-up of the first case of human trypanosomiasis caused by ''Trypanosoma evansi'' in India | journal=Trans R Soc Trop Med Hyg | year=2006 | volume=100 | issue=10 | pages=989&ndash;91 | doi=10.1016/j.trstmh.2005.11.003 }}</ref>)
+*''[[Trypanosoma lewisi]]'', in rats
+* ''[[Trypanosoma melophagium]]'' Sheep infected by ''[[Melophagus ovinus]]''
+*''[[Trypanosoma percae]]'' in fish: ''[[Perca fluviatilis]]''
+*''[[Trypanosoma rangeli]]'', believed to be nonpathogenic to humans 
+* ''[[Trypanosoma rotatorium|T. rotatorium]]'' in [[amphibian]], 
+* ''[[Trypanosoma simiae|T. simiae]]'', which causes [[nagana]] in animals
+* ''[[Trypanosoma suis|T. suis]]'',  which causes a different form of [[surra]]
+* ''[[Trypanosoma theileri|T. theileri]]'', a large trypanosome infecting ruminants
+* ''[[Trypanosoma trigalae|T. triglae]]'' in marine [[teleost]]s
+* ''[[Trypanosoma vivax|T. vivax]]'',  which causes the disease [[nagana]]
+
+
+
+==References==  
+<references/>
+:''Report on Trypanosomes'', Thomas, (London, 1905)  
+:''Tropical diseases'', Sir Patrick Manson, (fifth edition, London, 1914)  
+:''Tropical Medicine and Hygiene'', C. W. Daniels, (New York, 1914)
+:''The Trypanosomiases'', Edited by Ian Maudlin, Peter H Holmes, Michael A Miles (CAB International, 2004, ISBN 0-85199-475-X)
+
+[[Category:Euglenozoa]]
+[[Category:Fish diseases]]
+
+{{protist-stub}}
+{{med-stub}}
+
+[[de:Trypanosomen]]
+[[fr:Trypanosoma]]
+[[it:Trypanosoma]]
+[[lt:Tripanosomos]]
+[[oc:Tripanosoma]]
+[[pl:Świdrowce]]
+[[pt:Tripanossoma]]
+[[sl:Tripanosoma]]
+[[zh:锥虫]]
