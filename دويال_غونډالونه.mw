@@ -61,24 +61,22 @@ an . rn + an-1 . rn-1+ … + a2 . r2 + a1 . r1 + a0 + a-1 . r-1 + a-2 . r-2 + �
 <font face="Pashto Kror Asiatype">له r-بنسټ سره د شمېرو حسابي چلښتونه (operations) د لسيالو شمېرو همغه قانون اخلي. كله چې له اشنا 10 بنسټي پرته بل يو وكارول شي، د سړي بايد پام وي، چې يواځې د r اجازه وړې (allowable) ګڼې وكاروي. د دوو دويالو شمېرو د جمعې، تفريق او ضرب بېلګې لاندې ښودل شويدي: 
 
 
+<font face="Pashto Kror Asiatype">ورغونډ (augend):  101101                                ترې وتلى (minuend): 101101 
 
+<font face="Pashto Kror Asiatype">غونډ (addend):  +100111                             وتلى  (subtrahend): -100111 
 
-
-
-    ورغونډ (augend):  101101                                ترې وتلى (minuend): 101101 
-      غونډ (addend):  +100111                             وتلى  (subtrahend): -100111 
-     ټول (sum):         1010100                             توپير (difference):     000110 	                               
+<font face="Pashto Kror Asiatype">ټول (sum):         1010100                             توپير (difference):     000110 	                               
 
 								
-ورډېروونى (multiplicand): 1011
-ډېروونى (multiplier):       X101
+<font face="Pashto Kror Asiatype">ورډېروونى (multiplicand): 1011
+<font face="Pashto Kror Asiatype">ډېروونى (multiplier):       X101
                                 1011
                               0000
                             1011
 ابره (product):         110111
 
 
-جدول. له بېلابېلو بنسټونو سره، شمېرې
+<font face="Pashto Kror Asiatype">جدول. له بېلابېلو بنسټونو سره، شمېرې
 
 
 
