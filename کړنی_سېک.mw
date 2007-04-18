@@ -49,7 +49,7 @@ As voltage-gated potassium channels open, there is a large outward movement of p
 ====Undershoot====
 Closing of voltage-gated potassium channels is both voltage- and time-dependent. As potassium exits the cell, the resulting membrane repolarization initiates the closing of voltage-gated potassium channels. These channels do not close immediately in response to a change in membrane potential; rather, voltage-gated potassium channels (also called ''delayed rectifier potassium channels'') have a delayed response, such that potassium continues to flow out of the cell even after the membrane has fully repolarized. Thus the membrane potential dips below the normal resting membrane potential of the cell for a brief moment; this dip of hyperpolarization is known as the ''undershoot''.
 
-==Threshold and initiation==
+==درشل او پېل==
 [[Image:Whole cell IV showing rest and AP thresh.jpg|thumb|300px|A [[I/V curve|plot]] of [[electrical current|current]] (ion flux) against [[voltage]] (transmembrane potential) illustrates the action potential threshold (red arrow) of an idealized cell.]]
 
 Action potentials are triggered when an initial depolarization reaches the ''threshold''. This threshold potential varies, but generally is about 15 millivolts more positive than the cell's resting membrane potential, occurring when the inward sodium current exceeds the outward potassium current. The net influx of positive charges carried by sodium ions depolarizes the membrane potential, leading to the further opening of [[Sodium ion channel|voltage-gated sodium channels]]. These channels support greater inward current causing further depolarization, creating a positive-feedback cycle that drives the membrane potential to a very depolarized level.
