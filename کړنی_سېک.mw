@@ -74,12 +74,12 @@ Biologically in neurons, depolarization typically originates in the dendrites at
 
 Cell membranes that contain [[ion channel]]s can be modeled as [[RC circuit]]s to better understand the propagation of action potentials in biological membranes. In such a circuit, the [[resistor]] represents the membrane's ion channels, while the [[capacitor]] models the insulating lipid membrane. [[Potentiometer|Variable resistors]] are used for voltage-gated ion channels, as their resistance changes with voltage. A fixed resistor represents the potassium leak channels that maintain the membrane's resting potential. The sodium and potassium gradients across the membrane are modeled as voltage sources ([[battery (electricity)|batteries]]).
 
-==Propagation==
+==خپرېدنه==
 [[Image:AP propagation membrane model view.jpg|right|thumbnail|300px|Propagating action potentials can be modeled by joining several RC circuits, each one representing a patch of membrane.]]
 
 In unmyelinated axons, action potentials propagate as an interaction between passively spreading membrane depolarization and voltage-gated sodium channels. When one patch of cell membrane is depolarized enough to open its voltage-gated sodium channels, sodium ions enter the cell by [[facilitated diffusion]]. Once inside, positively-charged sodium ions "nudge" adjacent ions down the axon by [[electrostatic repulsion]] (analogous to the principle behind [[Newton's cradle]]) and attract negative ions away from the adjacent membrane. As a result, a wave of positivity moves down the axon without any individual ion moving very far. Once the adjacent patch of membrane is depolarized, the voltage-gated sodium channels in that patch open, regenerating the cycle. The process repeats itself down the length of the axon, with an action potential regenerated at each segment of membrane.
 
-===Speed of propagation===
+===د خپرېدنې چټکتيا===
 :''See also: [[Time constant#Time constants in neurobiology|Time constant]] and [[Length constant]]''
 Action potentials propagate faster in axons of larger diameter, other things being equal. They typically travel from 10-100 m/s. The main reason is that the axial resistance of the axon lumen is lower with larger diameters, because of an increase in the ratio of cross-sectional area to membrane surface area. As the membrane surface area is the chief factor impeding action potential propagation in an unmyelinated axon, increasing this ratio is a particularly effective way of increasing conduction speed.
 
