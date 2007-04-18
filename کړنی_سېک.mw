@@ -28,22 +28,22 @@ Sodium and potassium ions [[diffusion|diffuse]] through open ion channels under 
 
 Like the resting potential, action potentials depend upon the permeability of the cell membrane to sodium and potassium ions. Transient changes in conductance for different ions cause the changes in membrane potential necessary to initiate, sustain, and terminate action potentials.
 
-==Phases==
+==پړاونه==
 The sequence of events that underlie the action potential are outlined below:
 
-====Resting potential====
+====ولاړ سېک====
 At [[resting potential]] some [[Resting ion channel|potassium leak channels]] are open but the [[Sodium ion channel#Voltage gated sodium channels|voltage-gated sodium channels]] are closed. Even though no ''net'' current flows, potassium, the major ion species, moves across the membrane, thus pulling the resting potential close to the K<sup>+</sup> [[equilibrium potential]].
 
 ====Stimulation====
 A local membrane depolarization caused by an excitatory stimulus causes some voltage-gated sodium channels in the neuron cell surface membrane to open and sodium ions diffuse in through the channels along their electrochemical gradient. Being positively charged, they begin a reversal in the potential difference across the membrane from negative-inside to positive-inside. Initially, the inward movement of sodium ions is also favored by the negative-inside membrane potential. Overall the ions are under the influence of the ''driving force'', the difference between the membrane potential and the equilibrium potential of sodium.
 
-====Rising phase====
+====د جګېدو پړاو====
 As sodium ions enter and the membrane potential becomes less negative, more sodium channels open, causing an even greater influx of sodium ions. This is an example of [[positive feedback]]. As more sodium channels open, the sodium current dominates over the potassium leak current and the [[membrane potential]] becomes positive inside.
 
-====Peak====
+====څوکه====
 By the time the membrane potential has reached a peak value of around +30 mV voltage-sensitive inactivation gates on the sodium channels have already started to close, reducing and finally preventing further influx of sodium ions. While this occurs, the voltage-sensitive activation gates on the [[Potassium channel#Voltage sensitive channels|voltage-gated potassium channels]] begin to open.
 
-====Falling phase====
+====د راولېدو پړاو====
 As voltage-gated potassium channels open, there is a large outward movement of potassium ions driven by the potassium concentration gradient and initially favored by the positive-inside electrical gradient. As potassium ions diffuse out, this movement of positive charge causes a reversal of the membrane potential to negative-inside and repolarization of the neuron back towards the large negative-inside resting potential.
 
 ====Undershoot====
