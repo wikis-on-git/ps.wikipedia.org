@@ -1,4 +1,4 @@
-[[Image:CRT oscilloscope.png|right|thumb|300px|Illustration showing the interior of a cathode-ray tube for use in an oscilloscope. Numbers in the picture indicate:<br />
+[[Image:CRT oscilloscope.png|left|thumb|300px|Illustration showing the interior of a cathode-ray tube for use in an oscilloscope. Numbers in the picture indicate:<br />
 <ol>
 <li>Deflection voltage electrodes</li>
 <li>Electron gun</li>
@@ -7,7 +7,7 @@
 <li>Phosphor-coated inner side of the screen</li>
 </ol>
 ]]
-[[image:Oscilloscope.jpg|right|thumb|300px|A [[Tektronix]] model 475A portable analogue oscilloscope, a very typical instrument of the late [[1970s]].
+[[image:Oscilloscope.jpg|left|thumb|300px|A [[Tektronix]] model 475A portable analogue oscilloscope, a very typical instrument of the late [[1970s]].
 This dual-trace, dual-sweep instrument had a horizontal bandwidth of 250 [[Megahertz|MHz]], a maximum vertical sensitivity of 5 [[Volt|mV]] per division, and maximum (unmagnified) horizontal sweep speed of 10 [[nanosecond|ns]] per division. The vertical controls are on the left with Channel 1 above and Channel 2 below. The horizontal sweep controls are on the right with the Main Trigger above and the Delayed Trigger below. The [[Cathode ray tube|CRT]] controls are below the screen. The metal loop to the lower right of the screen provided a calibration signal for voltage and current [[Test probe|probes]].]]
 
 An '''oscilloscope''' (sometimes abbreviated '''CRO''', for [[cathode-ray]] oscilloscope, or commonly just '''scope''' or '''O-scope''') is a piece of [[electronic test equipment]] that allows signal voltages to be viewed, usually as a two-dimensional graph of one or more electrical [[potential difference]]s (vertical axis) plotted as a function of time or of some other voltage (horizontal axis).
