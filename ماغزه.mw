@@ -124,14 +124,14 @@ Some brain disorders are [[congenital disorder|congenital]]. [[Tay-Sachs disease
 
 Certain brain disorders are treated by brain surgeons (neurosurgeons) while others are treated by neurologists and psychiatrists.
 
-==Study of the brain==
-===Fields of study===
+==د ماغزو په هکله زده کړه==
+===د دې زده کړې ډګرونه===
 [[Neuroscience]] seeks to understand the nervous system, including the brain, from a biological and [[computational neuroscience|computational]] perspective. [[Psychology]] seeks to understand behavior and the brain. The terms [[neurology]] and psychiatry usually refer to [[medicine|medical]] applications of neuroscience and psychology respectively. [[Cognitive science]] seeks to unify neuroscience and psychology with other fields that concern themselves with the brain, such as [[computer science]] ([[artificial intelligence]] and similar fields) and [[philosophy]].
 
 ===Methods of observation===
 {{main|neuroimaging}}
 
-====Electrophysiology====
+====اېلېکټروفيزيالوژي====
 Each method for observing activity in the brain has its advantages and drawbacks. Electrophysiology allows scientists to record the electrical activity of individual neurons or groups of neurons.  
 
 ====EEG====
@@ -153,7 +153,7 @@ Behavioral tests can measure symptoms of disease and mental performance, but can
 ====Anatomical====
 [[post-mortem|Autopsy]] analysis of the brain allows for the study of anatomy and [[protein]] expression patterns, but is only possible after the human or animal is dead. [[Magnetic resonance imaging]] (MRI) can be used to study the anatomy of a living creature and is widely used in both research and medicine.
 
-===Other matters===
+===نورې څېړنې===
 [[computer science|Computer scientists]] have produced simulated neural networks loosely based on the structure of neuron connections in the brain. [[Artificial intelligence]] seeks to replicate brain function—although not necessarily brain mechanisms—but as yet has been met with limited success.
 
 Creating [[algorithm]]s to mimic a biological brain is very difficult because the brain is not a static arrangement of circuits, but a network of vastly interconnected neurons that are constantly changing their connectivity and sensitivity. More recent work in both neuroscience and artificial intelligence models the brain using the [[mathematics|mathematical]] tools of [[chaos theory]] and [[dynamical system]]s. Current research has also focused on recreating the neural structure of the brain with the aim of producing human-like cognition and artificial intelligence.
