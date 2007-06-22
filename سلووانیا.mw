@@ -1,33 +1,33 @@
 {{Infobox Country| <!-- begin infobox -->
-native_name = ''Republika Slovenija'' |
+اصلي نوم= ''Republika Slovenija'' |
 conventional_long_name = Republic of Slovenia |
-common_name = Slovenia |
-image_flag = Flag of Slovenia.svg |
-image_coat = Coat of Arms of Slovenia.svg |
-image_map = SVN_highlighted_map.png |
+عام نوم= سلووېنيا |
+بېرغ= Flag of Slovenia.svg |
+نښان = Coat of Arms of Slovenia.svg |
+نخشه = SVN_highlighted_map.png |
 national_motto (unofficial) = Žive naj vsi narodi (God's blessing on all nations)|
-national_anthem = [[Zdravljica]] |
-official_languages = [[Slovenian language|Slovenian]], [[Italian language|Italian]]<sup>1</sup>, [[Hungarian language|Hungarian]]<sup>1</sup> |
-capital = [[Ljubljana]] |
+ملي سرود = [[Zdravljica]] |
+رسمي ژبه= [[Slovenian language|Slovenian]], [[Italian language|Italian]]<sup>1</sup>, [[Hungarian language|Hungarian]]<sup>1</sup> |
+پلازمېنه = [[Ljubljana]] |
 latd=46|latm=03|latNS=N|longd=14|longm=30|longEW=E|
-largest_city = [[Ljubljana]] |
-government_type = [[Parliamentary system|Parliamentary]]  [[republic]] |
+لوی ښار = [[Ljubljana]] |
+د حکومت بڼه = [[Parliamentary system|Parliamentary]]  [[republic]] |
 leader_title1 = [[President of Slovenia|President]] |
 leader_title2 = [[Prime Minister of Slovenia|Prime Minister]] |
 leader_name1 = [[Janez Drnovšek]] |
 leader_name2 = [[Janez Janša]] |
 accessionEUdate = [[May 1]], [[2004]] |
 area_rank = 153rd |
-area_magnitude = 1_E10 |
-area=20,273 |
+د مساحت ارتوالی = 1_E10 |
+مساحت=20,273 |
 areami²= 7,827<!-- Do not remove per [[WP:MOSNUM]] -->|
-percent_water = 0.6% |
-population_estimate = 2,004,394<sup>2</sup> |
-population_estimate_year = March 2006 |
+د اوبو سلنه = 0.6% |
+د وګړو اټکل = 2,004,394<sup>2</sup> |
+د وګړو د شمېر د اټکل کال = March 2006 |
 population_estimate_rank = 145th |
-population_census = 1,964,036 |
-population_census_year = 2002|
-population_density = 97 |
+د وګړو سرشمېرنه = 1,964,036 |
+د وګړو د سرشمېرنې کال = 2002|
+د وګړو ګڼه ګونه = 97 |
 population_densitymi² = 251<!-- Do not remove per [[WP:MOSNUM]] -->|
 population_density_rank = 101st |
 GDP_PPP_year=2005 |
@@ -45,14 +45,14 @@ established_event1 = Declared |
 established_event2 = Recognized |
 established_date1 = [[June 25]], [[1991]] |
 established_date2 = 1992 |
-currency = [[Slovenian tolar|Tolar]]<sup>3</sup> |
-currency_code = SIT |
-time_zone= [[Central European Time|CET]] |
+پېسه = [[Slovenian tolar|Tolar]]<sup>3</sup> |
+د پېسو نښه = SIT |
+وخت= [[Central European Time|CET]] |
 utc_offset= +1 |
 time_zone_DST= [[Central European Summer Time|CEST]] |
 utc_offset_DST= +2 |
 cctld= [[.si]] |
-calling_code = 386 |
+پېل ګڼ = 386 |
 ISBN_code = 961, 86 |
 motor_code = SLO |
 footnotes=<sup>1</sup> In the residential municipalities of Italian or Hungarian national community.<br>
@@ -63,7 +63,7 @@ footnotes=<sup>1</sup> In the residential municipalities of Italian or Hungarian
 
 Throughout Slovenia's history, the country has been part of the [[Roman Empire]], the Duchy of [[Karantania|Carantania]] (only Slovenia's modern northern part), the [[Holy Roman Empire]], [[Austria-Hungary]], the [[State of Slovenes, Croats and Serbs]], the [[Kingdom of Serbs, Croats and Slovenes]] (renamed the [[Kingdom of Yugoslavia]] in 1929) [[Interwar period|between the World Wars]], and the [[Socialist Federal Republic of Yugoslavia|SFR of Yugoslavia]] from 1945 until gaining independence in 1991. Slovenia became a member of the [[European Union]] on [[1 May]] [[2004]]. Slovenia is also a member of the [[Council of Europe]], [[NATO]], and has observer status in [[La Francophonie]].
 
-== History ==
+== تاريخ==
 {{main|History of Slovenia}}
 [[Slavic peoples|Slavic]] ancestors of the present-day [[Slovenians]] settled in the area in the [[6th century]]. The Slavic Duchy of [[Karantania|Carantania]] was formed in the [[7th century]]. In [[745]], Carantania lost its independence, being largely subsumed into the [[Franks|Frankish]] [[empire]]. Many [[Slavs]] [[christianization|converted to Christianity]].
 
@@ -75,7 +75,7 @@ With the collapse of the [[Austro-Hungarian]] monarchy in [[1918]], Slovenians i
 
 {{seealso|Timeline of Slovenian history}}
 
-== Politics ==
+== سياست==
 <!--Please add new information into relevant articles of the series-->
 {{morepolitics|country=Slovenia}}
 
@@ -84,7 +84,7 @@ The Slovenian [[head of state]] is the [[president of Slovenia|president]], who 
 
 The [[bicameral]] Slovenian [[parliament]] consists of the National Assembly or [[Državni zbor]], and the Državni svet or National Council. The National Assembly has 90 seats, which are partially filled with directly elected representatives, and partially with proportionally elected representatives (two seats reserved for autochthonous Hungarian and Italian minorities). The National Council has 40 seats, and is made up of representatives of social, economic, professional and local interest groups. Parliamentary elections are held every four years.
 
-== Administrative divisions ==
+== اداري وېشنې==
 ===Traditional Regions===
 [[Image:Slo regions marked3.png|thumb|right|250px|Slovenia is traditionally divided into eight regions.]]
 As given by [[Enciklopedija Slovenije]] (Encyclopedia of Slovenia), traditional Slovenian [[region]]s, based on the former division of Slovenia into four [[Habsburg]] [[crown land]]s ([[Carniola]], [[Carinthia]], [[Styria (duchy)|Styria]], and the [[Slovenian Littoral|Littoral]]) and their parts, are:
@@ -100,7 +100,7 @@ As given by [[Enciklopedija Slovenije]] (Encyclopedia of Slovenia), traditional 
 
 The last two are usually considered together as the [[Slovenian Littoral|Littoral Region]] (''Primorska''). [[White Carniola]] (''Bela krajina''), otherwise part of Lower Carniola, is usually considered a separate region, as is [[Zasavje]], which is otherwise a part of Upper and Lower Carniola and Styria.
 
-===Natural Regions===
+===طبيعي سيمې===
 [[Image:Si-4geographic-regions.jpg|thumb|200px|Landscape types in Slovenia. {{legend|#F6E4B4|Alpine landscape}}
 {{legend|#A6D4CA|Panonnian landscape}} 
 {{legend|#FAC1B8|Dinaric landscape}}
@@ -146,7 +146,7 @@ The [[Government]], however, is preparing a plan for new administrative regions.
 
 Slovenia is divided into 210 municipalities (''občine'', singular - ''občina''), of which 11 have urban status.
 
-== Geography ==
+== جغرافيه==
 {{main|Geography of Slovenia}}
 [[Image:Si-map.png|thumb|right|250px|Map of Slovenia]]
 [[Image:Triglav.jpg|thumb|250px|[[Triglav]]]]
