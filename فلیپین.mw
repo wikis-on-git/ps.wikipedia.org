@@ -1,4 +1,85 @@
-
+{{Infobox Country or territory   
+|native_name                 = ''Republika ng Pilipinas''
+|conventional_long_name      = Republic of the Philippines
+|common_name                 = the Philippines
+|image_flag                  = Flag of the Philippines.svg
+|image_coat                  = Coat_of_Arms_of_the_Philippines.svg
+|national_motto              = ''Maka-Diyos, Makatao, Makakalikasan, at Makabansa''<br><small>([[English language|English]]: "For God, People, Nature, and Country")</small> 
+|image_map                   = LocationPhilippines.png
+|national_anthem             = ''[[Lupang Hinirang]]'' <br><small>"Chosen Land"</small> 
+|official_languages          = [[Filipino language|Filipino]], [[English language|English]]{{smallsup|1}}
+|regional_languages          = [[Bikol language|Bikol]], [[Cebuano language|Cebuano]], [[Hiligaynon language|Hiligaynon]], [[Ilokano language|Ilokano]], [[Kapampangan language|Kapampangan]],  [[Pangasinan language|Pangasinan]], [[Tagalog language|Tagalog]], [[Waray-Waray language|Waray-Waray]]<ref name="About">[http://www.gov.ph/aboutphil/general.asp About the Philippines] [http://www.gov.ph Gov.Ph].Accessed September 15,2006</ref>
+|capital                     = [[Manila]]
+|latd=14 |latm=35 |latNS=N |longd=121 |longm=0 |longEW=E
+|largest_city                = [[Quezon City]] <!-- Although [[Davao City]] has the largest land area, the article on [[largest city]] says we should refer to the most populous city, which as of 2006 is [[Quezon City]]. See the discussion page for more information. Changing this information without citation would be reverted.-->
+|government_type             = [[Unitary state|Unitary]] [[president]]ial [[constitution]]al [[republic]]
+|leader_title1               = [[President of the Philippines|President]]
+|leader_name1                = [[Gloria Macapagal-Arroyo]]
+|leader_title2               = [[Vice President of the Philippines|Vice President]]
+|leader_name2                = [[Noli de Castro]]
+|leader_title3               = [[President of the Senate of the Philippines|Senate President]]
+|leader_name3                = [[Manuel Villar]]
+|leader_title4               = [[Speaker of the Philippine House of Representatives|House Speaker]]
+|leader_name4                = [[Jose de Venecia, Jr.]]
+|leader_title5               = [[Chief Justice of the Philippines|Chief Justice]]
+|leader_name5                = [[Reynato Puno]]
+|area                        = 300 000
+|areami²                     = 115,831 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank                   = 72nd
+|area_magnitude              = 1 E11
+|percent_water               = 0.61
+|population_estimate         = 88,706,300{{smallsup|2}}
+|population_estimate_year    = 2007
+|population_estimate_rank    = 12th
+|population_census           = 76,504,077
+|population_census_year      = 2000
+|population_density          = 276
+|population_densitymi²       = 715 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank     = 42nd
+|GDP_PPP_year                = 2005
+|GDP_PPP                     = $451 billion <!--IMF-->
+|GDP_PPP_rank                = 25th
+|GDP_PPP_per_capita          = $4,923
+|GDP_PPP_per_capita_rank     = 112th
+|GDP_nominal                 = $98.731 [[1000000000 (number)|billion]]
+|GDP_nominal_rank            = 51st
+|GDP_nominal_year            = 2005
+|GDP_nominal_per_capita      = $1,168
+|GDP_nominal_per_capita_rank = 120th
+|HDI_year                    = 2007
+|HDI                         = {{increase}} 0.763
+|HDI_rank                    = 84th
+|HDI_category                = <font color="#ffcc00">medium</font>
+|Gini                        = 46.1
+|Gini_year                   = 2000
+|Gini_category               = <font color="#e0584e">high</font>
+|sovereignty_type            = [[Philippine Revolution|Independence]] 
+|sovereignty_note            = from [[Spain]] <br> from [[United States]]
+|established_event1          = [[Philippine Declaration of Independence|Declared]]
+|established_date1           = [[June 12]] [[1898]]
+|established_event2          = [[Tydings-McDuffie Act|Self-government]]
+|established_date2           = [[March 24]] [[1934]]
+|established_event3          = [[Filipino-American Friendship Day|Recognized]]
+|established_date3           = [[July 4]] [[1946]]
+|established_event4          = [[Constitution of the Philippines|Current constitution]]
+|established_date4           = [[February 2]] [[1987]]
+||currency                    = [[Philippine peso|Peso]] (International [[Image:PhilippinePeso.svg|12px]])
+<br />[[Philippine peso|Piso]] (Filipino [[Image:PhilippinePeso.svg|12px]])
+|currency_code               = PHP
+|time_zone                   = [[Philippine Standard Time|PST]]
+|utc_offset                  = +8
+|time_zone_DST               = 
+|utc_offset_DST              = 
+|cctld                       = [[.ph]]
+|calling_code                = 63
+|ISO_3166-1_alpha2           = PH
+|ISO_3166-1_alpha3           = PHL
+|ISO_3166-1_numeric          = 608
+|sport_code                  = PHI (IOC & FIFA), PHL (ISO 3166-1)
+|vehicle_code                = RP
+|footnote1                   = [[Spanish language|Spanish]] and [[Arabic language|Arabic]] promoted on an optional and voluntary basis.
+|footnote2                   = [http://www.census.gov.ph/data/sectordata/popproj_tab1r.html Philippine Census 2007 Population Projection] (medium assumption)
+}}
 The '''Philippines''' ([[Filipino language|Filipino]]: ''Pilipinas''), officially the '''Republic of the Philippines''' (''Republika ng Pilipinas''), is an [[island nation]] located in the [[Malay archipelago]] in [[Southeast Asia]], with [[Manila]] as its capital. It comprises 7,107 islands called the Philippine Archipelago, with a total land area of approximately 300,000 square kilometers or 116,000 square miles.
 
 The people of the Philippines are called Filipinos.  Most Filipinos are descended from the indigenous [[Austronesian languages|Austronesian-speaking peoples]], but there are also some Filipinos of mixed descent, known as mestizos, through intermarriage with the Chinese, Spanish or other nationalities.
