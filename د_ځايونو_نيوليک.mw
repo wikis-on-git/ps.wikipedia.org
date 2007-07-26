@@ -37,30 +37,30 @@
 {{د لومړي مخ سرليک}}<!--
 
 
-<!-----------------------د نن ورځې غوره ليکنه، آيا ته پدې پوهېدې؟------------------------>
+<!-----------------------د نن ورځې غوره ليکنه، آيا پدې پوهېدې؟------------------------>
 {|style="border-spacing:8px; margin:0px -8px;"
 |class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;"|
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5fffa;"
-! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Today's featured article</h2>
+! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">د نن ورځې غوره ليکنه</h2>
 |-
 |style="color:#000;"| {{ويکيپېډيا:د نن ورځې غوره ليکنه/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
 |-
-! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Did you know...</h2>
+! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">آيا پدې پوهېدې...</h2>
 |-
-|style="color:#000;"| {{Did you know}}
+|style="color:#000;"| {{آيا پدې پوهېدې}}
 |-
 |}<!--
 
 <!------------------------------په خبرونو کې، په همدې ورځ------------------------------->
 |class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top"|
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff;"
-! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">In the news</h2>
+! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">په خبرونو کې</h2>
 |-
-|style="color:#000;"| {{In the news}}
+|style="color:#000;"| {{په خبرونو کې}}
 |-
-! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">On this day...</h2>
+! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">په همدې ورځ...</h2>
 |-
-|style="color:#000;"| {{Wikipedia:Selected anniversaries/{{CURRENTMONTHNAME}} {{CURRENTDAY}}}}
+|style="color:#000;"| {{ويکيپېډيا:Selected anniversaries/{{CURRENTMONTHNAME}} {{CURRENTDAY}}}}
 |-
 |}
 |}<!--
