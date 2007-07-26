@@ -1,8 +1,9 @@
-<div id="لومړی مخ"></div><!--
-text-align:right
 
-<!------------------------------Banner across top of page------------------------------
-{| style="width:100%; background:#fcfcfc; margin-top:+.9em; border:1px solid #ccc;"
+<div id="mainpage"></div><!--
+
+
+------------------------------Banner across top of page------------------------------>
+{| style="width:100%; text-align:right; background:#fcfcfc; margin-top:+.9em; border:1px solid #ccc;"
 |style="width:56%; color:#000"| <!--
 
 <!----------"ويکيپېډيا ته ښه راغلاست" او د ليکنو شمېر---------->
