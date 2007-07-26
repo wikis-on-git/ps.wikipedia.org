@@ -34,16 +34,16 @@
 |style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
 [[Wikipedia:Contents|Contents]]&nbsp;'''·''' [[Wikipedia:Categorical index|Categories]]&nbsp;'''·''' [[Wikipedia:Featured content|Featured content]]&nbsp;'''·''' [[Wikipedia:Quick index|A–Z index]]
 |}
-{{Main Page banner}}<!--
+{{د لومړي مخ سرليک}}<!--
 
 
-<!-----------------------Today's featured article, Did you know------------------------>
+<!-----------------------د نن ورځې غوره ليکنه، آيا ته پدې پوهېدې؟------------------------>
 {|style="border-spacing:8px; margin:0px -8px;"
 |class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;"|
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5fffa;"
 ! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Today's featured article</h2>
 |-
-|style="color:#000;"| {{Wikipedia:Today's featured article/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
+|style="color:#000;"| {{ويکيپېډيا:د نن ورځې غوره ليکنه/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
 |-
 ! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Did you know...</h2>
 |-
@@ -51,7 +51,7 @@
 |-
 |}<!--
 
-<!------------------------------In the news, On this day------------------------------->
+<!------------------------------په خبرونو کې، په همدې ورځ------------------------------->
 |class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top"|
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff;"
 ! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">In the news</h2>
@@ -66,7 +66,7 @@
 |}<!--
 
 
-------------------------------Today's featured picture------------------------------->
+------------------------------د نن ورځې غوره انځور------------------------------->
 {| style="border-spacing:8px; margin:-8px -8px;"
 |class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;"|
 {| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#faf5ff; color:#000"
@@ -79,15 +79,15 @@
 
 
 -----------------------------Sections at bottom of page------------------------------>
-== Other areas of Wikipedia ==
+== د ويکيپېډيا نورې څانګې==
 {{WikipediaOther}}
-== Wikipedia's sister projects ==
+== د ويکيپېډيا نورې پروژې==
 {{WikipediaSister}}
-== Wikipedia languages ==
+== د ويکيپېډيا ژبې ==
 {{Wikipedialang}}<!--
 
 <!--which divs to these close?:--></div></div><!--
 -->__NOTOC__  __NOEDITSECTION__<!--
 
 <!----------Interwiki strapline---------->
-{{MainPageInterwikis}}
+{{د لومړي مخ منځ-ويکي}}
