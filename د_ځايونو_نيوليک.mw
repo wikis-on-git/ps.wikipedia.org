@@ -32,7 +32,7 @@
 {|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
 |style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[ويکيپېډيا:په هکله|Overview]]&nbsp;'''·''' [[ويکيپېډيا:Tutorial|سمادول]]&nbsp;'''·''' [[ويکيپېډيا:پوښتنې|پوښتنې]]&nbsp;'''·''' [[لارښود:نيوليک|لارښود]]
 |style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
-[[Wikipedia:Contents|نيوليک]]&nbsp;'''·''' [[Wikipedia:Categorical index|Categories]]&nbsp;'''·''' [[Wikipedia:Featured content|Featured content]]&nbsp;'''·''' [[Wikipedia:Quick index|A–Z index]]
+[[ويکيپېډيا:نيوليک|نيوليک]]&nbsp;'''·''' [[ويکيپېډيا:Categorical index|Categories]]&nbsp;'''·''' [[ويکيپېډيا:Featured content|Featured content]]&nbsp;'''·''' [[Wikipedia:Quick index|A–Z index]]
 |}
 {{د لومړي مخ سرليک}}<!--
 
@@ -70,7 +70,7 @@
 {| style="border-spacing:8px; margin:-8px -8px;"
 |class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;"|
 {| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#faf5ff; color:#000"
-! <h2 style="margin:0; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em;">Today's featured picture</h2>
+! <h2 style="margin:0; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em;">د نن ورځې غوره انځور</h2>
 |-
 |style="color:#000;"| {{POTD protected/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}
 |-
@@ -82,9 +82,9 @@
 == د ويکيپېډيا نورې څانګې==
 {{WikipediaOther}}
 == د ويکيپېډيا نورې پروژې==
-{{WikipediaSister}}
+{{دويکيپېډيا-نورې-ژبې}}
 == د ويکيپېډيا ژبې ==
-{{Wikipedialang}}<!--
+{{دويکيپېډيا-ژبې}}<!--
 
 <!--which divs to these close?:--></div></div><!--
 -->__NOTOC__  __NOEDITSECTION__<!--
