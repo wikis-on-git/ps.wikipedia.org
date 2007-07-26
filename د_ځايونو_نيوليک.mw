@@ -8,7 +8,7 @@
 <!----------"ويکيپېډيا ته ښه راغلاست" او د ليکنو شمېر---------->
 {| style="width:280px; border:solid 0px; background:none;"
 |style="width:280px; text-align:center; white-space:nowrap; color:#000;"|
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[ويکيپېډيا]]ته ښه راغلاست</div>
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[ويکيپېډيا]] ته ښه راغلاست</div>
 <div style="top:+0.2em; font-size:95%;">يو وړيا پوهنغونډ چې [[ويکيپېډيا:پېژندنه|هرڅوک&nbsp;يې&nbsp;سمادولای]] شي.</div>
 <div id="articlecount" style="width:100%; text-align:center; font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] ليکنې په پښتو ژبه لري</div>
 |}<!--
