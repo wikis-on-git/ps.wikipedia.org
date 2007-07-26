@@ -30,9 +30,9 @@
 
 ----------Strapline immediately below banner---------->
 {|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
-|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[ويکيپېډيا:په هکله|Overview]]&nbsp;'''·''' [[ويکيپېډيا:Tutorial|سمادول]]&nbsp;'''·''' [[ويکيپېډيا:پوښتنې|پوښتنې]]&nbsp;'''·''' [[لارښود:نيوليک|لارښود]]
+|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[ويکيپېډيا:په هکله|کتنه]]&nbsp;'''·''' [[ويکيپېډيا:لارښودليکچه|سمادول]]&nbsp;'''·''' [[ويکيپېډيا:پوښتنې|پوښتنې]]&nbsp;'''·''' [[لارښود:نيوليک|لارښود]]
 |style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
-[[ويکيپېډيا:نيوليک|نيوليک]]&nbsp;'''·''' [[ويکيپېډيا:Categorical index|Categories]]&nbsp;'''·''' [[ويکيپېډيا:Featured content|Featured content]]&nbsp;'''·''' [[Wikipedia:Quick index|A–Z index]]
+[[ويکيپېډيا:نيوليک|نيوليک]]&nbsp;'''·''' [[ويکيپېډيا:د ټولۍ ليکلړ|ټولۍ]]&nbsp;'''·''' [[ويکيپېډيا:Featured content|Featured content]]&nbsp;'''·''' [[ويکيپېډيا:چټک ليکلړ|A–Z index]]
 |}
 {{د لومړي مخ سرليک}}<!--
 
@@ -63,10 +63,10 @@
 |style="color:#000;"| {{ويکيپېډيا:Selected anniversaries/{{CURRENTMONTHNAME}} {{CURRENTDAY}}}}
 |-
 |}
-|}<!--
+|}
 
 
-------------------------------د نن ورځې غوره انځور------------------------------->
+<!--------------------------------د نن ورځې غوره انځور------------------------------->
 {| style="border-spacing:8px; margin:-8px -8px;"
 |class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;"|
 {| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#faf5ff; color:#000"
@@ -75,10 +75,10 @@
 |style="color:#000;"| {{دنن-ورځ-انځور ژغورلی/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}
 |-
 |}
-|}<!--
+|}
 
 
------------------------------Sections at bottom of page------------------------------>
+<!-------------------------------Sections at bottom of page------------------------------>
 == د ويکيپېډيا نورې څانګې==
 {{دويکيپېډيانورې-څانګې}}
 == د ويکيپېډيا نورې پروژې==
