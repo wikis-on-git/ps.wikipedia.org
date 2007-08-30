@@ -1,1 +1,21 @@
-[[Image:Aristotle2.jpg]]
+{{Infobox Philosopher
+  <!-- Philosopher Category -->
+| سيمه = غربي فلسفه
+| پېر= [[زړه فلسفه]]
+| color            = #B0C4DE
+
+  <!-- Image and Caption -->
+| image_name       = Aristotle2.jpg
+| image_caption    = سقراط
+Σωκράτης
+  <!-- Information -->
+| نوم             = Σωκράτης
+| زېږېدنه            = ca. [[470 BC]]
+| مړينه            = [[399 BC]] <!--PLEASE SEE TALK BEFORE CHANGING DATE-->
+| school_tradition = [[Greek philosophy|Classical Greek]], Socratic
+| main_interests   = [[epistemology]], [[ethics]]
+| influences       = [[Anaxagoras]], [[Parmenides]], [[Prodicus]], [[Diotima]]
+| influenced       = [[Plato]], [[Xenophon]], [[Aristotle]], Most of subsequent
+Western philosophy
+| notable_ideas    = [[Socratic method]], [[Socratic irony]]
+}}
