@@ -8,9 +8,13 @@
 <font face="Tahoma,microsoft sans serif,tahoma">
 <big>
 
+<font size="+3" face="pokhto">
+اختر مو مبارک شه
+</font>
+
 {| cellpadding="10" border="0" width="100%" cellspacing="2" style="border-width: 1.5px; border-color:#c1ccd7; border-style: solid"
 |---------------
-| width="100%" align="center" bgcolor="#E1ECF7" |  <font face="Tahoma,microsoft sans serif,pokhto">
+| width="100%" align="center" bgcolor="#E1ECF7" |  <font face="pokhto">
 <br>مبارک دې شه جانانه د [[وړوکی اختر|اختر]]
 <br>خدای دې راولي وختونه بختور
 <br>په دنيا دې خوشالي او امن راشي
