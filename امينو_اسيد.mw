@@ -80,70 +80,70 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 {{main|List of standard amino acids}}
 
 {| class="wikitable sortable"
-! Amino Acid
+! امينو اسيد
 ! 3-Letter
 ! 1-Letter
 ! Side chain polarity
 ! Side chain acidity or basicity
 ! [[Hydropathy index]]<ref>{{cite journal | author = Kyte J & RF Doolittle | title = A simple method for displaying the hydropathic character of a protein | journal = J. Mol. Biol. | issue = 157 | pages = 105-132 | year = 1982 | id=PMID 7108955 }}</ref>
 |- align="center"
-| [[Alanine]]
+| [[آلانين]]
 | Ala
 | A
 | nonpolar
 | neutral
 | 1.8
 |- align="center"
-| [[Arginine]]
+| [[آرګېنين]]
 | Arg
 | R
 | polar
 | basic (strongly)
 | -4.5
 |- align="center"
-| [[Asparagine]]
+| [[آسپراګين]]
 | Asn
 | N
 | polar
 | neutral
 | -3.5
 |- align="center"
-| [[Aspartic acid]]
+| [[آسپارټيک اسيد]]
 | Asp
 | D
 | polar
 | acidic
 | -3.5
 |- align="center"
-| [[Cysteine]]
+| [[سيسټېن]]
 | Cys
 | C
 | polar
 | neutral
 | 2.5
 |- align="center"
-| [[Glutamic acid]]
+| [[ګلوټاميک اسيد]]
 | Glu
 | E
 | polar
 | acidic
 | -3.5
 |- align="center"
-| [[Glutamine]]
+| [[ګلوټامين]]
 | Gln
 | Q
 | polar
 | neutral
 | -3.5
 |- align="center"
-| [[Glycine]]
+| [[ګلايسين]]
 | Gly
 | G
 | nonpolar
 | neutral
 | -0.4
 |- align="center"
-| [[Histidine]]
+| [[هسټيډين]]
 | His
 | H
 | polar
