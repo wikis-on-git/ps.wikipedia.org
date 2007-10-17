@@ -1,0 +1,69 @@
+{{NatOrganicBox
+| image= [[Image:Alanin - Alanine.svg|150px]] [[Image:L-alanine-3D-sticks.png|140px]]
+Chemical structure of <small>L</small>-alanine
+| name=(''S'')-2-aminopropanoic acid
+| PubChem = 5950
+| CAS = 56-41-7
+| SMILES = C[C@H](N)C(O)=O
+| C=3 | H=7 | N=1 | O=2
+| mass=89.1 g/mol
+}}
+'''Alanine''' (abbreviated as '''Ala''' or '''A''')<ref>{{cite web | author=IUPAC-IUBMB Joint Commission on Biochemical Nomenclature | title=Nomenclature and Symbolism for Amino Acids and Peptides | work=Recommendations on Organic & Biochemical Nomenclature, Symbols & Terminology etc | url=http://www.chem.qmul.ac.uk/iupac/AminoAcid/ | accessdate=2007-05-17}}</ref> is an α-[[amino acid]] with the [[chemical formula]] HO<sub>2</sub>CCH(NH<sub>2</sub>)CH<sub>3</sub>. The L-isomer is one of the 20 [[proteinogenic]] amino acids, i.e. the building blocks of [[protein]]s. Its codons are GCU, GCC, GCA, and GCG. It is classified as a nonpolar amino acid. L-alanine is second only to [[leucine]], accounting for 7.8% of the [[primary structure]] in a sample of 1,150 [[proteins]].<ref>Doolittle, R. F.; & Fasman G.D. (ed.) (1989). "Redundancies in protein sequences" in ''Prediction of Protein Structures and the Principles of Protein Conformation''. New York: Plenum Press, pp. 599-623.</ref> D-alanine occurs in bacterial cell walls and in some peptide antibiotics.
+
+==Structure==
+The [[alpha carbon|α-carbon]] atom of alanine is bound with a methyl group (-CH<sub>3</sub>), making it one of the simplest α-amino acids with respect to molecular structure and also resulting in alanine being classified as an [[aliphatic compound|aliphatic]] amino acid.  The methyl group of alanine is non-reactive and is thus almost never directly involved in protein function. 
+
+==Biosynthesis==
+Alanine is most commonly produced by [[reductive amination]] of [[pyruvate]]. Because [[transamination]] reactions are readily reversible and pyruvate pervasive, alanine can be easily formed and thus has close links to metabolic pathways such as [[glycolysis]], [[gluconeogenesis]], and the [[citric acid cycle]].  It also arises together with lactate and  generate glucose from protein via the [[alanine cycle]].
+
+==Sources==
+Any protein-containing food such as meat, poultry, fish, eggs or dairy products is rich in alanine.  [[Racemic]] alanine can be prepared via the addition of [[hydrogen cyanide]] and [[ammonia]] to [[acetaldehyde]] by the [[Strecker amino acid synthesis|Strecker reaction]].<ref> Kendall, E. C.; McKenzie, B. F. “dl-Alanine” Organic Syntheses, Collected Volume 1, p.21 (1941).http://www.orgsyn.org/orgsyn/pdfs/CV1P0021.pdf</ref>
+
+==Physiological function==
+===As a carrier of ammonia and of the carbon skeleton of pyruvate===
+Alanine plays a key role in glucose-alanine cycle between tissues and liver. In muscle and other tissues that degrade amino acids for fuel, amino groups are collected in the form of glutamate by [[transamination]]. Glutamate can then transfer its amino group through the action of [[alanine aminotransferase]] to [[pyruvate]], a product of muscle [[glycolysis]], forming alanine and [[alpha-ketoglutarate]]. The alanine formed is passed into the blood and transported to the liver. A reverse of the alanine aminotransferase reaction takes place in liver. Pyruvate regenerated forms glucose through [[gluconeogenesis]], which returns to muscle through the circulation system. Glutamate in the liver enters [[mitochondria]] and degrades into [[ammonium ion]] through the action of [[glutamate dehydrogenase]], which in turn participate in the [[urea cycle]] to form [[urea]].<ref name=Nel684>Nelson, D. L. & Cox, M. M. (2005). ''Lehninger Principles of Biochemistry'', 4th Edition. New York: W. H. Freeman and Company, pp. 684-685. ISBN 0-7167-4339-6.</ref>
+
+Glucose-alanine cycle enables pyruvate and glutamate to be removed from muscle and find their ways to liver. Glucose is able to be regenerated from pyruvate and returned muscle. The energetic burden of gluconeogenesis is thus imposed on the liver instead of the muscle. All available [[Adenosine triphosphate|ATP]] in muscle is devoted to muscle contraction.<ref name=Nel684/>
+
+==References==
+<references/>
+
+== External links ==
+*[http://www.compchemwiki.org/index.php?title=Alanine Computational Chemistry Wiki]
+
+{{AminoAcids}}
+
+[[Category:Proteinogenic amino acids]]
+[[Category:Glucogenic amino acids]]
+
+[[bn:অ্যালানিন]]
+[[ca:Alanina]]
+[[cs:Alanin]]
+[[da:Alanin]]
+[[de:Alanin]]
+[[en:Alanin]]
+[[es:Alanina]]
+[[eo:Alanino]]
+[[fr:Alanine]]
+[[hr:Alanin]]
+[[id:Alanin]]
+[[it:Alanina]]
+[[he:אלנין]]
+[[lv:Alanīns]]
+[[lb:Alanin]]
+[[lt:Alaninas]]
+[[hu:Alanin]]
+[[nl:Alanine]]
+[[ja:アラニン]]
+[[pl:Alanina]]
+[[pt:Alanina]]
+[[ro:Alanină]]
+[[ru:Аланин]]
+[[sk:Alanín]]
+[[sr:Аланин]]
+[[su:Alanin]]
+[[fi:Alaniini]]
+[[sv:Alanin]]
+[[tr:Alanin]]
+[[uk:Аланін]]
+[[zh:丙氨酸]]
