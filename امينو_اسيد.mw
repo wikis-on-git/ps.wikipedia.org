@@ -1,0 +1,420 @@
+{{otheruses4|the class of chemicals|the structures and properties of the standard proteinogenic amino acids|List of standard amino acids}}
+[[Image:Phenylalanin - Phenylalanine.svg|thumb|[[Phenylalanine]] is one of the standard amino acids.]]
+
+In [[chemistry]], an '''amino acid''' is a [[molecule]] that contains both [[amine]] and [[carboxyl]] [[functional group]]s. In [[biochemistry]], this term refers to alpha-amino acids with the general formula H<sub>2</sub>NCHRCOOH, where R is an organic substituent.<ref>  Proline is an exception to this general formula. It lacks the NH<sub>2</sub> group because of the cyclization of the side chain.</ref> In the alpha amino acids, the amino and carboxylate groups are attached to the same [[carbon]], which is called the [[alpha carbon|α–carbon]]. The various alpha amino acids differ in which [[side chain]] (R group) is attached to their alpha carbon. They can vary in size from just a hydrogen atom in [[glycine]], through a [[methyl group]] in [[alanine]], to a large [[heterocycle|heterocyclic group]] in [[tryptophan]].
+
+Beyond the amino acids that are found in all forms of [[life]], many non-natural amino acids are also important.  The [[chelating agent]]s [[EDTA]] and [[Nitrilotriacetic acid|nitriloacetic acid]] are alpha amino acids that are industrially synthesized (sometimes from naturally occurring amino acids).
+
+== Overview ==
+Alpha-amino acids are the building blocks of [[protein]]s. A protein forms via the condensation of amino acids to form a chain of amino acid "residues" linked by [[peptide bond]]s.  Proteins are defined by their unique sequence of amino acid residues; this sequence is the [[primary structure]] of the protein.  Just as the letters of the alphabet can be combined to form an almost endless variety of words, amino acids can be linked in varying sequences to form a huge variety of proteins. 
+
+Twenty [[list of standard amino acids|standard amino acids]] are used by [[cell (biology)|cells]] in [[protein biosynthesis]], and these are specified by the general [[genetic code]]. These twenty amino acids are [[biosynthesis|biosynthesized]] from other molecules, but organisms differ in which ones they can synthesize and which ones must be provided in their diet.  The ones that cannot be synthesized by an organism are called [[essential amino acid]]s.
+
+===Functions in proteins===
+{{See also|Primary structure|Posttranslational modification}}
+
+[[Image:Protein-primary-structure.png|thumb|300px|right|A [[polypeptide]] is a chain of amino acids.]]
+Amino acids are the basic structural building units of [[protein]]s. They form short [[polymer]] chains called [[peptide]]s or longer chains either called [[polypeptides]] or [[protein]]s. The process of such formation from an [[mRNA]] template is known as [[translation (biology)|translation]] which is part of [[protein biosynthesis]]. Twenty amino acids are encoded by the standard [[genetic code]] and are called [[proteinogenic]] or '''[[List of standard amino acids|standard amino acids]]'''.  Other amino acids contained in proteins are usually formed by [[post-translational modification]], which is modification after translation in protein synthesis.  These modifications are often essential for the [[function (biology)|function]] or regulation of a protein; for example, the [[carboxylation]] of [[glutamate]] allows for better binding of [[calcium]] [[cation]]s, and the [[hydroxylation]] of [[proline]] is critical for maintaining [[collagen|connective tissues]] and responding to [[hypoxia|oxygen starvation]].  Such modifications can also determine the localization of the protein, e.g., the addition of long hydrophobic groups can cause a protein to bind to a [[phospholipid]] membrane.
+
+===Non-protein functions===
+The twenty standard amino acids are either used to synthesize proteins and other biomolecules, or oxidized to [[urea]] and carbon dioxide as a source of energy.<ref>{{cite journal |author=Sakami W, Harrington H |title=Amino acid metabolism |journal=Annu Rev Biochem |volume=32 |issue= |pages=355-98 |year= |pmid=14144484}}</ref> The oxidation pathway starts with the removal of the amino group by a [[transaminase]], the amino group is then fed into the [[urea cycle]]. The other product of transamidation is a [[keto acid]] that enters the citric acid cycle.<ref>{{cite journal |author=Brosnan J |title=Glutamate, at the interface between amino acid and carbohydrate metabolism |url=http://jn.nutrition.org/cgi/content/full/130/4/988S |journal=J Nutr |volume=130 |issue=4S Suppl |pages=988S-90S |year=2000 |pmid=10736367}}</ref> [[Glucogenic amino acid]]s can also be converted into glucose, through [[gluconeogenesis]].<ref>{{cite journal |author=Young V, Ajami A |title=Glutamine: the emperor or his clothes? |url=http://jn.nutrition.org/cgi/content/full/131/9/2449S |journal=J Nutr |volume=131 |issue=9 Suppl |pages=2449S-59S; discussion 2486S-7S |year=2001 |pmid=11533293}}</ref>
+
+Hundreds of types of non-protein amino acids have been found in nature and they have multiple functions in living organisms.  [[Microorganism]]s and plants can produce uncommon amino acids. In microbes, examples include [[2-aminoisobutyric acid]] and [[lanthionine]], which is a sulfide-bridged alanine dimer. Both these amino acids are both found in peptidic [[lantibiotics]] such as [[alamethicin]].<ref>{{cite journal | author = Whitmore L, Wallace B | title = Analysis of peptaibol sequence composition: implications for ''in vivo'' synthesis and channel formation. | journal = Eur Biophys J | volume = 33 | issue = 3 | pages = 233-7 | year = 2004 | pmid =  14534753}}</ref> While in plants, [[1-Aminocyclopropane-1-carboxylic acid]] is a small disubstituted cyclic amino acid that is a key intermediate in the production of the plant [[hormone]] [[ethylene]].<ref>{{cite journal | author = Alexander L, Grierson D | title = Ethylene biosynthesis and action in tomato: a model for climacteric fruit ripening | url=http://jxb.oxfordjournals.org/cgi/content/full/53/377/2039 | journal = J Exp Bot | volume = 53 | issue = 377 | pages = 2039-55 | year = 2002 | pmid =  12324528}}</ref>
+
+In humans, non-protein amino acids also have biologically-important roles. [[Glycine]], [[gamma-aminobutyric acid]] and [[glutamate]] are [[neurotransmitter]]s and many amino acids are used to synthesize other molecules, for example:
+
+* [[Tryptophan]] is a precursor of the neurotransmitter [[serotonin]]
+* [[Glycine]] is a precursor of [[porphyrins]] such as [[heme]]
+* [[Arginine]] is a precursor of [[nitric oxide]]
+* [[Carnitine]] is used in [[lipid]] transport within a [[cell (biology)|cell]], 
+* [[Ornithine]] and [[S-Adenosyl methionine|S-adenosylmethionine]] are precursors of [[polyamine]]s, 
+* [[Homocysteine]] is an intermediate in [[S-Adenosyl methionine|S-adenosylmethionine]] recycling
+
+Also present are [[hydroxyproline]], [[hydroxylysine]], and [[sarcosine]]. The [[thyroid hormone]]s are also alpha-amino acids.
+
+Some amino acids have even been detected in [[meteorite]]s, especially in a type known as [[carbonaceous chondrite]]s.<ref>{{cite journal | author = Llorca J | title = Organic matter in meteorites. | url=http://www.im.microbios.org/0704/0704239.pdf | journal = Int Microbiol | volume = 7 | issue = 4 | pages = 239-48 | year = 2004 | pmid =  15666244}}</ref> This observation has prompted the suggestion that life may have arrived on earth from an [[Origin of life|extraterrestrial source]].
+
+== General structure ==
+{{further|[[List of standard amino acids]]}}
+[[Image:AminoAcidball.svg|thumbnail|300px|The general structure of an α-amino acid, with the [[amine|amino]] group on the left and the [[carboxyl]] group on the right.]]
+
+In the structure shown to the right, the ''R'' represents a [[side chain]] specific to each amino acid. The central carbon atom called C<sub>α</sub> is a [[chirality (chemistry)|chiral]] central [[carbon]] atom (with the exception of glycine) to which the two termini and the R-group are attached.  Amino acids are usually classified by the [[chemical property|properties]] of the side chain into four groups. The side chain can make them behave like a [[weak acid|weak]] [[acid]], a [[weak base|weak]] [[basic (chemistry)|base]], a [[hydrophile]] if they are [[polar molecule|polar]], and [[hydrophobe]] if they are [[nonpolar]]. The chemical structures of the 20 standard amino acids, along with their chemical properties, are catalogued in the [[list of standard amino acids]].
+
+The phrase "[[branched-chain amino acids]]" or BCAA is sometimes used to refer to the amino acids having [[aliphatic]] side-chains that are non-linear, these are [[leucine]], [[isoleucine]] and [[valine]]. [[Proline]] is the only [[proteinogenic]] amino acid whose side group links to the α-amino group, and thus is also the only proteinogenic amino acid containing a secondary amine at this position. Proline has sometimes been termed an [[imino acid]], but this is not correct in the current nomenclature.<ref>Claude Liebecq (Ed) ''Biochemical Nomenclature and Related Documents'', 2nd edition, Portland Press, 1992, pages 39-69 ISBN 978-1855780057</ref>
+
+[[Image:D+L-Alanine.gif|thumb|left|200px|The two optical isomers of alanine.]]
+=== Isomerism ===
+
+Most amino acids can exist in either of two [[optical isomerism|optical isomers]], called <small>D</small> and <small>L</small>.  The <small>L</small>-amino acids represent the vast majority of amino acids found in [[protein]]s.  <small>D</small>-amino acids are found in some proteins produced by exotic sea-dwelling organisms, such as [[cone snail]]s.<ref>{{cite journal | author = Pisarewicz K, Mora D, Pflueger F, Fields G, Marí F | title = Polypeptide chains containing D-gamma-hydroxyvaline. | journal = J Am Chem Soc | volume = 127 | issue = 17 | pages = 6207-15 | year = 2005 | pmid =  15853325}}</ref>  They are also abundant components of the [[peptidoglycan]] [[cell wall]]s of [[bacterium|bacteria]].<ref>{{cite journal | author = van Heijenoort  J | title = Formation of the glycan chains in the synthesis of bacterial peptidoglycan. | url=http://glycob.oxfordjournals.org/cgi/content/full/11/3/25R | journal = Glycobiology | volume = 11 | issue = 3 | pages = 25R-36R | year = 2001 | pmid =  11320055}}</ref> 
+
+The <small>L</small> and <small>D</small> conventions for amino acid configuration do not refer to the optical activity, but rather to the optical activity of the isomer of [[glyceraldehyde]] having the same stereochemistry as the amino acid.  ''S''-Glyceraldehyde is levorotary, and ''R''-glyceraldehyde is dexterorotary, and so ''S''-amino acids are called <small>L</small>- even if they are not levorotary, and ''R''-amino acids are likewise called <small>D</small>- even if they are not dexterorotary.
+
+There are two exceptions to these general rules of amino acid isomerism. Firstly, [[glycine]], where ''R'' = H, no isomerism is possible because the alpha-carbon bears two identical groups (hydrogen). Secondly, in [[cysteine]], the <small>L</small>&nbsp;=&nbsp;''S'' and <small>D</small>&nbsp;=&nbsp;''R'' assignment is reversed to <small>L</small>&nbsp;=&nbsp;''R'' and <small>D</small>&nbsp;=&nbsp;''S''.  Cysteine is structured similarly (with respect to glyceraldehyde) to the other amino acids but the [[sulfur]] atom alters the interpretation of the [[Cahn-Ingold-Prelog priority rule]].
+
+== Reactions ==
+As amino acids have both a primary [[amine]] group and a primary [[carboxyl]] group, these chemicals can undergo most of the reactions associated with these functional groups. These include [[nucleophilic addition]], [[amide|amide bond]] formation and [[Alkylimino-de-oxo-bisubstitution|imine formation]] for the amine group and [[esterification]], [[amide|amide bond]] formation and [[decarboxylation]] for the carboxylic acid group. The multiple side chains of amino acids can also undergo chemical reactions. The types of these reactions are determined by the groups on these side chains and are discussed in the articles dealing with each specific type of amino acid.
+
+===Peptide bond formation===
+[[Image:Peptidformationball.svg|right|thumbnail|400px|The condensation of two amino acids to form a [[peptide bond]].]]
+{{Details|Peptide bond}}
+
+As both the amine and carboxylic acid groups of amino acids can react to form amide bonds, one amino acid molecule can react with another and become joined through an amide linkage. This [[polymerization]] of amino acids is what creates proteins.  This [[condensation reaction]] yields the newly formed [[peptide bond]] and a molecule of water. In cells, this reaction does not occur directly, instead the amino acid is activated by attachment to a [[transfer RNA]] molecule through an [[ester]] bond. This aminoacyl-tRNA is produced in an [[Adenosine triphosphate|ATP]]-dependent reaction carried out by an [[aminoacyl tRNA synthetase]].<ref>{{cite journal | author = Ibba M, Söll D | title = The renaissance of aminoacyl-tRNA synthesis | url=http://www.molcells.org/home/journal/include/downloadPdf.asp?articleuid={A158E3B4-2423-4806-9A30-4B93CDA76DA0} | journal = EMBO Rep | volume = 2 | issue = 5 | pages = 382-7 | year = 2001 | pmid =  11375928}}</ref> This aminoacyl-tRNA is then a substrate for the [[ribosome]], which catalyzes the attack of the amino group of the elongating protein chain on the ester bond.<ref>{{cite journal | author = Lengyel P, Söll D | title = Mechanism of protein biosynthesis | url=http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=378322&blobtype=pdf | journal = Bacteriol Rev | volume = 33 | issue = 2 | pages = 264-301 | year = 1969 | pmid =  4896351}}</ref> As a result of this mechanism, all proteins are synthesized starting at their N-terminus and moving towards their C-terminus.
+
+However, not all peptide bonds are formed in this way. In a few cases peptides are synthesized by specific enzymes. For example, the tripeptide [[glutathione]] is an essential part of the defenses of cells against oxidative stress. This peptide is synthesized in two steps from free amino acids.<ref>{{cite journal | author = Wu G, Fang Y, Yang S, Lupton J, Turner N | title = Glutathione metabolism and its implications for health | url=http://jn.nutrition.org/cgi/content/full/134/3/489 | journal = J Nutr | volume = 134 | issue = 3 | pages = 489-92 | year = 2004 | pmid =  14988435}}</ref> In the first step [[gamma-glutamylcysteine synthetase]] condenses [[cysteine]] and [[glutamic acid]] through a peptide bond formed between the side-chain carboxyl of the glutamate (the gamma carbon of this side chain) and the amino group of the cysteine. This dipeptide is then condensed with [[glycine]] by [[glutathione synthetase]] to form glutathione.<ref>{{cite journal |author=Meister A |title=Glutathione metabolism and its selective modification |url=http://www.jbc.org/cgi/reprint/263/33/17205.pdf |journal=J Biol Chem |volume=263 |issue=33 |pages=17205–8 |year=1988 |pmid=3053703}}</ref>
+
+In chemistry, peptides are synthesized by a variety of reactions. One of the most used in [[peptide synthesis|solid-phase peptide synthesis]], which uses the aromatic oxime derivatives of amino acids as activated units. These are added in sequence onto the growing peptide chain, which is attached to a solid resin support.<ref>Carpino, L. A. (1992) 1-Hydroxy-7-azabenzotriazole. An efficient Peptide Coupling Additive. ''J. Am. Chem. Soc.'' 115, 4397-4398.</ref>
+
+===Zwitterions===
+[[Image:Amino acid zwitterion.png|378px|thumb|right|An amino acid, in its (1) normal (unionized) and (2) zwitterionic forms.]]
+
+As amino acids have both the active groups of an amine and a carboxylic acid they can be considered both acid and base (though their natural pH is usually influenced by the R group). At a certain pH known as the [[isoelectric point]], the amine group gains a positive charge (is [[protonation|protonated]]) and the acid group a negative charge (is [[deprotonation|deprotonated]]). The exact value is specific to each different amino acid. This ion is known as a ''[[zwitterion]],'' which comes from the German word ''Zwitter'' meaning "hybrid". A zwitterion can be extracted from the solution as a white crystalline structure with a very high melting point, due to its dipolar nature. Near-neutral physiological pH allows most free amino acids to exist as zwitterions.
+
+== Hydrophilic and hydrophobic amino acids ==
+
+Depending on the [[polar molecule|polarity]] of the side chain, amino acids vary in their [[hydrophile|hydrophilic]] or [[hydrophobe|hydrophobic]] character. These properties are important in [[protein structure]] and [[protein-protein interaction]]s. The importance of the physical properties of the side chains comes from the influence this has on the amino acid residues' interactions with other structures, both within a single protein and between proteins. The distribution of hydrophilic and hydrophobic amino acids determines the [[tertiary structure]] of the protein, and their physical location on the outside structure of the proteins influences their [[quaternary structure]]. For example, soluble proteins have surfaces rich with polar amino acids like [[serine]] and [[threonine]], while [[integral membrane protein]]s tend to have outer ring of [[hydrophobic]] amino acids that anchors them into the [[lipid bilayer]], and proteins anchored to the membrane have a hydrophobic end that locks into the membrane. Similarly, proteins that have to bind to positively-charged molecules have surfaces rich with negatively charged amino acids like glutamate and aspartate, while proteins binding to negatively-charged molecules have surfaces rich with positively charged chains like lysine and arginine. Recently a new scale of hydrophobicity based on the free energy of hydrophobic association has been proposed<ref>{{cite journal | author = Urry, D. W.| title = The change in Gibbs free energy for hydrophobic association - Derivation and evaluation by means of inverse temperature transitions | journal = Chemical Physics Letters | volume = 399| issue = 1-3 | pages = 177-183 | year = 2004}}</ref>
+
+Hydrophilic and hydrophobic interactions of the proteins do not have to rely only on the sidechains of amino acids themselves. By various [[posttranslational modification]]s other chains can be attached to the proteins, forming hydrophobic [[lipoprotein]]s or hydrophilic [[glycoprotein]]s.
+
+== Table of standard amino acid abbreviations and side chain properties ==
+
+{{main|List of standard amino acids}}
+
+{| class="wikitable sortable"
+! Amino Acid
+! 3-Letter
+! 1-Letter
+! Side chain polarity
+! Side chain acidity or basicity
+! [[Hydropathy index]]<ref>{{cite journal | author = Kyte J & RF Doolittle | title = A simple method for displaying the hydropathic character of a protein | journal = J. Mol. Biol. | issue = 157 | pages = 105-132 | year = 1982 | id=PMID 7108955 }}</ref>
+|- align="center"
+| [[Alanine]]
+| Ala
+| A
+| nonpolar
+| neutral
+| 1.8
+|- align="center"
+| [[Arginine]]
+| Arg
+| R
+| polar
+| basic (strongly)
+| -4.5
+|- align="center"
+| [[Asparagine]]
+| Asn
+| N
+| polar
+| neutral
+| -3.5
+|- align="center"
+| [[Aspartic acid]]
+| Asp
+| D
+| polar
+| acidic
+| -3.5
+|- align="center"
+| [[Cysteine]]
+| Cys
+| C
+| polar
+| neutral
+| 2.5
+|- align="center"
+| [[Glutamic acid]]
+| Glu
+| E
+| polar
+| acidic
+| -3.5
+|- align="center"
+| [[Glutamine]]
+| Gln
+| Q
+| polar
+| neutral
+| -3.5
+|- align="center"
+| [[Glycine]]
+| Gly
+| G
+| nonpolar
+| neutral
+| -0.4
+|- align="center"
+| [[Histidine]]
+| His
+| H
+| polar
+| basic (weakly)
+| -3.2
+|- align="center"
+| [[Isoleucine]]
+| Ile
+| I
+| nonpolar
+| neutral
+| 4.5
+|- align="center"
+| [[Leucine]]
+| Leu
+| L
+| nonpolar
+| neutral
+| 3.8
+|- align="center"
+| [[Lysine]]
+| Lys
+| K
+| polar
+| basic
+| -3.9
+|- align="center"
+| [[Methionine]]
+| Met
+| M
+| nonpolar
+| neutral
+| 1.9
+|- align="center"
+| [[Phenylalanine]]
+| Phe
+| F
+| nonpolar
+| neutral
+| 2.8
+|- align="center"
+| [[Proline]]
+| Pro
+| P
+| nonpolar
+| neutral
+| -1.6
+|- align="center"
+| [[Serine]]
+| Ser
+| S
+| polar
+| neutral
+| -0.8
+|- align="center"
+| [[Threonine]]
+| Thr
+| T
+| polar
+| neutral
+| -0.7
+|- align="center"
+| [[Tryptophan]]
+| Trp
+| W
+| nonpolar
+| neutral
+| -0.9
+|- align="center"
+| [[Tyrosine]]
+| Tyr
+| Y
+| polar
+| neutral
+| -1.3
+|- align="center"
+| [[Valine]]
+| Val
+| V
+| nonpolar
+| neutral
+| 4.2
+|} 
+
+In addition to the normal amino acid codes, placeholders were used historically in cases where [[Protein sequencing|chemical]] or [[X-ray crystallography|crystallographic]] analysis of a peptide or protein could not completely establish the identity of a certain residue in a structure. The ones they could not resolve between are these pairs of amino-acids:
+
+{| class="wikitable"
+! Ambiguous Amino Acids
+! 3-Letter
+! 1-Letter
+|- align="center"
+| Asparagine or aspartic acid
+| Asx
+| B
+|- align="center"
+| Glutamine or glutamic acid
+| Glx
+| Z
+|- align="center"
+| Leucine or Isoleucine
+| Xle
+| J
+|- align="center"
+| Unspecified or unknown amino acid
+| Xaa
+| X
+|}
+
+'''Unk''' is sometimes used instead of '''Xaa''', but is less standard.
+
+== Nonstandard amino acids ==
+[[Image:L-selenocysteine-2D-skeletal.png|thumb|200px|right|The amino acid [[selenocysteine]].]]
+Aside from the twenty standard amino acids, there are a vast number of "non-standard" amino acids. Two of these can be specified by the genetic code, but are rather rare in proteins. [[Selenocysteine]] is incorporated into some proteins at a UGA [[codon]], which is normally a stop codon.<ref>{{cite journal | author = Driscoll D, Copeland P | title = Mechanism and regulation of selenoprotein synthesis. | journal = Annu Rev Nutr | volume = 23 | issue = | pages = 17-40 | year = | pmid =  12524431}}</ref> [[Pyrrolysine]] is used by some [[methanogen]]ic [[archaea]] in [[enzyme]]s that they use to produce [[methane]].  It is coded for with the codon UAG.<ref>{{cite journal | author = Krzycki J | title = The direct genetic encoding of pyrrolysine. | journal = Curr Opin Microbiol | volume = 8 | issue = 6 | pages = 706-12 | year = 2005 | pmid =  16256420}}</ref>
+
+Examples of nonstandard amino acids that are not found in proteins include [[lanthionine]], [[2-aminoisobutyric acid]], [[dehydroalanine]] and the neurotransmitter [[gamma-aminobutyric acid]]. Nonstandard amino acids often occur as intermediates in the [[metabolic pathway]]s for standard amino acids - for example [[ornithine]] and [[citrulline]] occur in the [[urea cycle]], part of amino acid [[catabolism]].<ref>{{cite journal |author=Curis E, Nicolis I, Moinard C, Osowska S, Zerrouk N, Bénazeth S, Cynober L |title=Almost all about citrulline in mammals |journal=Amino Acids |volume=29 |issue=3 |pages=177-205 |year=2005 |pmid=16082501}}</ref>
+
+Nonstandard amino acids are usually formed through modifications to standard amino acids. For example, [[homocysteine]] is formed through the [[transsulfuration pathway]] or by the demethylation of methionine via the intermediate metabolite [[S-adenosyl methionine]], <ref>{{cite journal |author=Brosnan J, Brosnan M |title=The sulfur-containing amino acids: an overview |journal=J Nutr |volume=136 |issue=6 Suppl |pages=1636S-1640S |year=2006 |pmid=16702333}}</ref> while dopamine is synthesized from l-DOPA, and [[hydroxyproline]] is made by a [[posttranslational modification]] of [[proline]].<ref>{{cite journal |author=Kivirikko K, Pihlajaniemi T |title=Collagen hydroxylases and the protein disulfide isomerase subunit of prolyl 4-hydroxylases |journal=Adv Enzymol Relat Areas Mol Biol |volume=72 |issue= |pages=325-98 |year= |pmid=9559057}}</ref>
+
+== Uses in technology ==
+
+{| class="wikitable" style="margin-left: auto; margin-right: auto;"
+!Amino acid derivative
+!Use in industry
+|-
+|align="center" |[[Aspartame]] (aspartyl-phenylalanine-1-methyl ester)
+|align="center" |Low-calorie [[artificial sweetener]]
+|-
+|align="center" |[[5-HTP]] (5-hydroxytryptophan)
+|align="center" |Treatment for depression and the neurological problems of [[phenylketonuria]].
+|-
+|align="center" |[[L-DOPA]] (L-dihydroxyphenylalanine)
+|align="center" |Treatment for [[Parkinsonism]].
+|-
+|align="center" |[[Monosodium glutamate]]
+|align="center" |[[Food additive]] that enhances flavor. Confers the taste [[umami]].
+|}
+
+==Nutritional importance==
+{{further|[[Protein in nutrition]]}}
+Of the 20 standard proteinogenic amino acids, 8 are called [[essential amino acid]]s because the [[human body]] cannot [[synthesize]] them from other [[chemical compound|compounds]] at the level needed for normal growth, and they therefore must be obtained from food.<ref>{{cite journal |author=Young VR |title=Adult amino acid requirements: the case for a major revision in current recommendations |journal=J. Nutr. |volume=124 |issue=8 Suppl |pages=1517S–1523S |year=1994 |pmid=8064412 |url=http://jn.nutrition.org/cgi/reprint/124/8_Suppl/1517S.pdf}}</ref> [[Cysteine]], [[tyrosine]], [[histidine]] and [[arginine]] are considered as semiessential amino acids in children, because the metabolic pathways that synthesize these amino acids are not fully developed.<ref>{{cite journal |author=Imura K, Okada A |title=Amino acid metabolism in pediatric patients |journal=Nutrition |volume=14 |issue=1 |pages=143-8 |year=1998 |pmid=9437700 |url=http://jn.nutrition.org/cgi/content/full/130/7/1835S}}</ref>
+
+{| class="wikitable"
+! Essential
+! Nonessential
+|-
+| [[Isoleucine]]
+| [[Alanine]]
+|-
+| [[Leucine]]
+| [[Asparagine]]
+|-
+| [[Lysine]]
+| [[Aspartate]]
+|-
+| [[Methionine]]
+| [[Cysteine]]*
+|-
+| [[Phenylalanine]]
+| [[Glutamate]]
+|-
+| [[Threonine]]
+| [[Glutamine]]*
+|-
+| [[Tryptophan]]
+| [[Glycine]]*
+|-
+| [[Valine]]
+| [[Proline]]*
+|-
+| [[Arginine]]*
+| [[Serine]]*
+|-
+| [[Histidine]]*
+| [[Tyrosine]]*
+|}
+
+(*) Essential only in certain cases.<ref>{{cite journal |author=Fürst P, Stehle P |title=What are the essential elements needed for the determination of amino acid requirements in humans? |journal=J. Nutr. |volume=134 |issue=6 Suppl |pages=1558S–1565S |year=2004 |pmid=15173430 |url=http://jn.nutrition.org/cgi/content/full/134/6/1558S}}</ref><ref>{{cite journal |author=Reeds PJ |title=Dispensable and indispensable amino acids for humans |journal=J. Nutr. |volume=130 |issue=7 |pages=1835S–40S |year=2000 |pmid=10867060 |url=http://jn.nutrition.org/cgi/content/full/130/7/1835S}}</ref>
+
+Several common [[mnemonic]]s have evolved for remembering the ten amino acids often described as essential. PVT TIM HALL ("[[Private (rank)|Private]] Tim Hall") uses the first letter of each essential amino acid, excluding arginine.<ref name="timhall">{{cite web |url=http://www.faculty.une.edu/com/courses/bionut/distbio/obj-512/Chap39-pvttimhall.htm |title=Chapter 39 PVT TIM HALL |accessdate=2007-09-29 |format= |work=}}</ref> Another mnemonic that frequently occurs in student practice materials is "'''T'''hese '''t'''en '''v'''aluable '''a'''mino acids '''h'''ave '''l'''ong '''p'''reserved '''l'''ife '''i'''n '''m'''an".<ref name="valuableaminoacids">Memory aids for medical biochemistry. http://mednote.co.kr/Yellownote/BIOCHMNEMON.htm Access date [[25 February]] [[2006]]</ref>
+
+== See also ==
+
+* [[Biochemistry]]
+* [[Beta amino acid]]
+* [[Strecker amino acid synthesis]]
+* [[Glucogenic amino acid]]
+* [[Murchison meteorite]], an extraterrestrial source of amino acids.
+* [[Genetic code#RNA codon table|Table of codons]], 3-nucleotide sequences that encode each amino acid
+* [[List of standard amino acids]] (including chemical structures)
+
+==References and notes==
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+<references/>
+</div>
+
+==Further reading==
+
+* Doolittle, R.F. (1989) Redundancies in protein sequences. In ''Predictions of Protein Structure and the Principles of Protein Conformation'' (Fasman, G.D. ed) Plenum Press, New York, pp. 599-623
+* David L. Nelson and Michael M. Cox, ''Lehninger Principles of Biochemistry'', 3rd edition, 2000, Worth Publishers, ISBN 1-57259-153-6
+
+== External links ==
+
+* [http://www.chem.qmul.ac.uk/iupac/AminoAcid/ Nomenclature and Symbolism for Amino Acids and Peptides] International Union of Pure and Applied Chemistry and The International Union of Biochemistry and Molecular Biology. IUPAC-IUB Joint Commission on Biochemical Nomenclature (JCBN)
+* [http://micro.magnet.fsu.edu/aminoacids/index.html Molecular Expressions: The Amino Acid Collection] - Has detailed information and microscopy photographs of each amino acid.
+* [http://researchnews.osu.edu/archive/aminoacd.htm 22nd amino acid] - Press release from Ohio State claiming discovery of a 22nd amino acid.
+* [http://www.russell.embl.de/aas/ Amino acid properties] - Properties of the amino acids (a tool aimed mostly at molecular geneticists trying to understand the meaning of mutations)
+* [http://www.organic-chemistry.org/synthesis/C1C/nitrogen/alpha-amino-acids2.shtm Synthesis of Amino Acids and Derivatives]
+* [http://www.newscientist.com/article.ns?id=mg19025545.200&feedId=online-news_rss20 Right-handed amino acids were left behind]
+* [http://www2.iq.usp.br/docente/gutz/Curtipot_.html Amino acid solutions pH, titration curves and distribution diagrams - freeware]
+* [http://isoelectric.ovh.org Protein isoelectric point according amino acids charge]
+* [http://www.mathiasbader.de/studium/biology/index.php?lng=en Learn the 20 proteinogenic amino acids online]
+
+{{AminoAcids}}
+{{Protein primary structure}}
+
+[[Category:Amino acids| ]]
+[[Category:Nitrogen metabolism]]
+
+[[ar:حمض أميني]]
+[[bn:অ্যামিনো অ্যাসিড]]
+[[bs:Aminokiselina]]
+[[bg:Аминокиселина]]
+[[ca:Aminoàcid]]
+[[cs:Aminokyseliny]]
+[[da:Aminosyre]]
+[[de:Aminosäuren]]
+[[et:Aminohapped]]
+[[el:Αμινοξύ]]
+[[en:Amino acid]]
+[[es:Aminoácido]]
+[[eo:Aminoacido]]
+[[eu:Aminoazido]]
+[[fa:اسیدهای آمینه]]
+[[fo:Aminosýra]]
+[[fr:Acide aminé]]
+[[gl:Aminoácido]]
+[[ko:아미노산]]
+[[hr:Aminokiselina]]
+[[io:Amin-acido]]
+[[id:Asam amino]]
+[[it:Amminoacidi]]
+[[he:חומצת אמינו]]
+[[ka:ამინომჟავა]]
+[[ku:Tirşiyên emînî]]
+[[la:Acidum aminicum]]
+[[lv:Aminoskābes]]
+[[lb:Aminosaier]]
+[[lt:Aminorūgštis]]
+[[hu:Aminosav]]
+[[mk:Амино киселина]]
+[[nl:Aminozuur]]
+[[ja:アミノ酸]]
+[[no:Aminosyre]]
+[[nn:Aminosyre]]
+[[nov:Amino-aside]]
+[[oc:Aminoacid]]
+[[om:Amino Acid]]
+[[pl:Aminokwasy]]
+[[pt:Aminoácido]]
+[[ro:Aminoacizi]]
+[[ru:Аминокислоты]]
+[[simple:Amino acid]]
+[[sk:Aminokyselina]]
+[[sl:Aminokislina]]
+[[sr:Аминокиселина]]
+[[sh:Aminokiselina]]
+[[su:Asam amino]]
+[[fi:Aminohappo]]
+[[sv:Aminosyra]]
+[[th:กรดอะมิโน]]
+[[vi:Axít amin]]
+[[tr:Aminoasit]]
+[[uk:Амінокислоти]]
+[[zh:氨基酸]]
