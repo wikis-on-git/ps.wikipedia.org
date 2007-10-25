@@ -1,1 +1,44 @@
+{|{| class="infobox philosopher" border="1" cellpadding="2" style="float: left; margin: 0 0 1em 1em; border-collapse:collapse; border-color: {{{color}}}; width:35%; clear: right;" align="left"
+|-
+! bgcolor="{{{color|<noinclude>#B0C4DE</noinclude>}}}" align="center" colspan="2" style="border-bottom:1px solid {{{color|<noinclude>#B0C4DE</noinclude>}}}; font-size:125%;" | {{{سيمه<includeonly>|</includeonly>}}}<br/><small>{{{پېر<includeonly>|</includeonly>}}}</small>
+{{#if: {{{image<includeonly>|</includeonly>}}} {{{image_name|}}} |
+<tr><td colspan="2" style="text-align: center;">[[Image:{{{image_name|{{{image}}}}}}|{{{image_size|200px}}}]]
+}}
+{{#if: {{{caption<includeonly>|</includeonly>}}} {{{image_caption|}}}|
+<div style="line-height:1.25em;">{{{image_caption|{{{caption}}}}}}</div>
+}}</td></tr>
+|-
+! style="text-align: right;" |نوم:
+|<span class="fn">{{{نوم}}}</span>
+|-
+! style="text-align: right;" |زېږېدنه:
+|{{{زېږېدنه}}}
+{{#if: {{{مړينه<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">مړينه:</th>
+<td>{{{مړينه}}}</td></tr>
+}}
+|- class="note"
+! style="text-align: right;" |ښوونځی/دود:
+|{{{ښوونځی-دود}}}
+{{#if: {{{اهمې لېوالتياوې<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">اهمې لېوالتياوې:</th>
+<td>{{{اهمې لېوالتياوې}}}</td></tr>
+}}{{#if: {{{د ياد وړ کارونه<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">د ياد وړ کارونه:</th>
+<td>{{{د ياد وړ کارونه}}}</td></tr>
+}}{{#if: {{{اغېزمن شوی له<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">اغېزمن شوی له:</th>
+<td>{{{اغېزمن شوی له}}}</td></tr>
+}}{{#if: {{{اغېزمن کړي<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">اغېزمن کړي:</th>
+<td>{{{اغېزمن کړي}}}</td></tr>
+}}{{#if: {{{لاسليک<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">لاسليک:</th>
+<td>[[Image:{{{لاسليک}}}|128px]]</td></tr>
+}}
+|}<noinclude>
+{{{{FULLPAGENAME}}/doc}}
+<!-- Add categories and interwikis to the /doc subpage, not here. -->
+</noinclude>
+
 [[Image:Ibn rushd1.jpg|left|thumb|200px|ابن رشد]]
