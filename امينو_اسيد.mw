@@ -98,42 +98,42 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 | [[آرګېنين]]
 | Arg
 | R
-| polar
+| قطبي
 | basic (strongly)
 | -4.5
 |- align="center"
 | [[آسپراګين]]
 | Asn
 | N
-| polar
+| قطبي
 | neutral
 | -3.5
 |- align="center"
 | [[آسپارټيک اسيد]]
 | Asp
 | D
-| polar
+| قطبي
 | acidic
 | -3.5
 |- align="center"
 | [[سيسټېن]]
 | Cys
 | C
-| polar
+| قطبي
 | neutral
 | 2.5
 |- align="center"
 | [[ګلوټاميک اسيد]]
 | Glu
 | E
-| polar
+| قطبي
 | acidic
 | -3.5
 |- align="center"
 | [[ګلوټامين]]
 | Gln
 | Q
-| polar
+| قطبي
 | neutral
 | -3.5
 |- align="center"
@@ -147,7 +147,7 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 | [[هسټيډين]]
 | His
 | H
-| polar
+| قطبي
 | basic (weakly)
 | -3.2
 |- align="center"
@@ -168,7 +168,7 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 | [[ليسين]]
 | Lys
 | K
-| polar
+| قطبي
 | basic
 | -3.9
 |- align="center"
@@ -196,14 +196,14 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 | [[سيرين]]
 | Ser
 | S
-| polar
+| قطبي
 | neutral
 | -0.8
 |- align="center"
 | [[تريونين]]
 | Thr
 | T
-| polar
+| قطبي
 | neutral
 | -0.7
 |- align="center"
@@ -217,7 +217,7 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 | [[تيروسين]]
 | Tyr
 | Y
-| polar
+| قطبي
 | neutral
 | -1.3
 |- align="center"
