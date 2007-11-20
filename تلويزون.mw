@@ -80,16 +80,18 @@ Thanks to the advances in display technology, there are now several kinds of vid
 
 Each has its pros and cons. Flat panel LCD and plasma displays have a wide viewing angle (around 160 degrees) so they may best suited for a home theatre with a wide seating arrangement. Rear projection screens do not perform well in [[daylight]] or well-lit rooms and so are only suited to darker viewing areas. A comparison of these technologies is available [[Comparison of display technology|here]].
 
-=== Terminology for televisions ===
-Pixel [[Display resolution|resolution]] is the amount of individual points known as [[pixels]] on a given screen. Use of word pixel is fairly new as it only dates to the introduction of the [[VGA]] display standard. Before the 1980s ''lines of resoution'' was the standard resolution measurement.
+=== د ټلوېزيون ټرمينالوجي ===
 
-A typical resolution of 720×480 means that the television display has 720 pixels across and 480&nbsp;pixels on the vertical axis. The higher the resolution on a specified display the sharper the image.  Contrast [[ratio]] is a measurement of the range between the brightest and darkest points on the screen.
+پکسل [د ښوديز ريزولوشن\ريزولوشن] پر يوه پرده د څانګړيو ټکيو شمېر دی، چې [پکسل] بلل کېږي.د پکسل د کلمې استعمال خورا نوی دی، او نېټه يې هغه وخت ته رسېږي، چې د [VGA] ښوديز معيار وپېژندل شو. له ۱۹۸۰مې لسيزې مخکې "lines of resolution" د رېزولوشن د اندازه کولو معياري يوون (واحد) و. 
 
-The higher the contrast ratio, the better looking picture there is in terms of richness, deepness, and [[shadow]] detail.  The [[brightness]] of a picture measures how vibrant and impacting the colors are. Measured in <math>cd/m^2</math> equivalent to the amount of candles required to power the [[image]].
+د 720x480 يو دوديز رېزولوشن معنا داده، چې د ټلوېزيون ښوديز ۷۲۰ پکسلونه په افقي او ۴۸۰ پکسلونه په عمودي محور باندې لري. څومره، چې د يو څانګړي ښوديز رېزولوشن زیات وي، همغومره انڅور ښه وي. کانټرسټ [تناسب] پر پرده د روښانوالي او تیاره والي د ټکيو تر منڅ د فاصلې د اندازه کولو واحد دی.  
 
-On the other hand, the so-called ''brightness'' and ''contrast'' adjustment controls on televisions and monitors are traditionally used to control different aspects of the picture display.
+څومره، چې د کانټرسټ تناسب لوړ وي، همغومره انڅور بډای، ژور او سيوری لرونکی ښکاري. د انڅور روښانوالی دا اندازه کوي، چې رنګونه څومره خوڅند او اغېزمن دي. د هغو شمعو، چې د انڅور د بلولو\غښتلولو لپاره په کار دی، سره په مساوي کچه اندازه کېږي.  
+له بلې خوا، پر ټلوېزیونونو او مونيټورونو د "روښانوالی" او "کانټرسټ" برابروونکي څارونه (adjustment controls)، د انڅور د ښوديز د بېلابېلو برخو د څارنې لپاره کارېږي. 
 
-The brightness control shifts the black point, or shadow level, primarily affecting the contrast ratio or gamma of the image, while the contrast control primarily controls the image intensity or brightness.<ref>John Watkinson, ''Convergence in Broadcast and Communications Media: The Fundamentals of Audio, Video, Data'', Focal Press, 2001, ISBN 0240515099</ref>
+د روښانوالي څار تور ټکی، یا د سيوري کچه، خوڅوي، چې د کانټرسټ تناسب يا د انڅور ګاما اغېزمنوي، خو د کانټرسټ څار د انڅور قوت يا روښانوالی څاري. 
+
+اخڅ: جان واټکېنسن، " Convergence in Broadcast and Communications Media: The Fundamentals of Audio, Video, Data'', Focal Press, 2001, ISBN 0240515099"
 
 ===Transmission band===
 There are various bands on which televisions operate depending upon the country. The [[VHF]] and [[UHF]] signals in bands III to V are generally used.  Lower frequencies do not have enough [[bandwidth]] available for television. Although the [[BBC]] initially used Band I VHF at 45 MHz, this frequency is (in the UK) no longer in use for this purpose.  Band II is used for FM radio transmissions.  Higher frequencies behave more like light and do not penetrate buildings or travel around obstructions well enough to be used in a conventional broadcast TV system, so they are generally only used for [[MMDS]] and [[satellite television]], which uses frequencies from 2 to 12 GHz.   TV systems in most countries relay the video as an AM ([[amplitude-modulation]]) signal and the sound as a FM ([[frequency-modulation]]) signal.  An exception is [[France]], where the sound is AM.
