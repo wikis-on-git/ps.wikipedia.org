@@ -117,7 +117,7 @@ Because two acetyl-CoA [[molecules]] are produced from each [[glucose]] molecule
 
 Considering the future conversion of GTP to ATP and the maximum 32 ATP produced by the 10 NADH and the 2 FADH<sub>2</sub> (see the theoretical yields for [[cellular respiration]]), it follows that each glucose molecule is able to produce a maximum of 32 ATP.
 
-== Regulation ==
+== نظم او تنظيم==
 ''Although pyruvate dehydrogenase is not technically a part of the citric acid cycle, its regulation is included here.''
 
 The regulation of the TCA cycle is largely determined by substrate availability and product inhibition. NADH, a product of all dehydrogenases in the TCA cycle with the exception of succinate dehydrogenase, inhibits [[pyruvate dehydrogenase]], isocitrate dehydrogenase and α-ketoglutarate dehydrogenase, and also citrate synthase. Acetyl-CoA inhibits [[pyruvate dehydrogenase]], while succinyl-CoA inhibits succinyl-CoA synthase and citrate synthase. When tested in vitro with TCA enzymes,  ATP inhibits citrate synthase and α-ketoglutarate dehydrogenase; however, ATP levels do not change more than 10% in vivo between rest and vigorous exercise. There is no known [[allosteric]] mechanism that can account for large changes in reaction rate from an allosteric effector whose concentration changes less than 10% <ref>Voet, D. & Voet, J. G. (2004) Biochemistry 3rd Edition (John Wiley & Sons, Inc., New York) p. 615</ref>.
