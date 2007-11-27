@@ -1,0 +1,223 @@
+[[Image:Citricacidcycle.png|thumb|right|400px|Overview of the citric acid cycle]]
+
+The '''citric acid cycle''', also known as the '''tricarboxylic acid cycle''' ('''TCA cycle''')  or the '''Krebs cycle''', is a series of [[enzyme]]-catalysed [[chemical reaction]]s of central importance in all living [[cell (biology)|cell]]s that use [[oxygen]] as part of [[cellular respiration]]. In [[eukaryote]]s, the citric acid cycle is located in the matrix of the [[mitochondrion]]. The components and reactions of the citric acid cycle were established by seminal work from both [[Albert Szent-Györgyi]] and [[Hans Adolf Krebs|Hans Krebs]]. 
+
+In [[aerobic organism]]s, the citric acid cycle is part of a [[metabolic pathway]] involved in the chemical conversion of [[carbohydrate]]s, [[fat]]s and [[protein]]s into [[carbon dioxide]] and [[water]] to generate a form of usable energy. Other relevant reactions in the pathway include those in [[glycolysis]] and [[pyruvate oxidation]] before the citric acid cycle, and [[oxidative phosphorylation]] after it. In addition, it provides [[precursor]]s for many compounds including some [[amino acid]]s and is therefore functional even in cells performing [[fermentation (biochemistry)|fermentation]].
+
+==Overview==
+
+Two carbons are [[oxidation|oxidized]] to [[Carbon dioxide|CO<sub>2</sub>]], and the energy from these reactions is transferred to other metabolic processes by [[Guanosine triphosphate|GTP]] (or [[Adenosine triphosphate|ATP]]), and as electrons in [[NADH]] and [[Flavin|FADH<sub>2</sub>]]. The  NADH generated in the TCA cycle may later donate its electrons in [[oxidative phosphorylation]] to drive ATP synthesis; FADH<sub>2</sub> is covalently attached to succinate dehydrogenase, an enzyme functioning both in the TCA cycle and the mitochondrial [[electron transfer chain]] in oxidative phosphorylation. FADH<sub>2</sub> thereby facilitates transfer of electrons to [[coenzyme Q]], an intermediate in the electron transfer chain.<ref name=[[Stryer]]>{{cite book |last= Berg |first=JM |coauthors= JL Tymoczko, L Stryer |title= Biochemistry - 5th Edition |pages =465-484, 498-501|publisher= WH Freeman and Company |year=2002 |isbn= 0-7167-4684-0}}</ref>
+
+The citric acid cycle is continuously supplied new carbons in the form of acetyl-CoA, entering at step 1 below.<ref name=Biochemistryofplants>{{cite book |last= Buchanan |coauthors= Gruissem, Jones |title= Biochemistry & molecular biology of plants |edition=1st Edition |publisher= American society of plant physiology|year=2000 |isbn=0-943088-39-9}}</ref>
+{| class="wikitable"
+!S<br>t<br>e<br>p
+!Substrates
+!Products
+!Enzyme
+!Reaction type
+!Comment
+|-
+|1
+|[[Oxaloacetic acid|Oxaloacetate]] +<br />[[Acetyl CoA]] +<br />H<sub>2</sub>O
+|[[Citric acid|Citrate]] +<br />[[Coenzyme A|CoA-SH]]
+|[[Citrate synthase]]
+|[[Condensation reaction|Aldol condensation]]
+|rate limiting stage, <br />extends the 4C oxaloacetate to a 6C molecule
+|-
+|2
+|Citrate
+|''[[cis]]''-[[Aconitic acid|Aconitate]] +<br />H<sub>2</sub>O
+|rowspan=2|[[Aconitase]]
+| [[Dehydration reaction|Dehydration]]
+|rowspan=2|reversible isomerisation
+|-
+|3
+|''cis''-Aconitate +<br />H<sub>2</sub>O
+|[[Isocitric acid|Isocitrate]]
+|[[Hydration reaction|Hydration]]
+|-
+|4
+|Isocitrate +<br />[[Nicotinamide adenine dinucleotide|NAD]]<sup>+</sup>
+|[[Oxalosuccinic acid|Oxalosuccinate]] +<br />[[Nicotinamide adenine dinucleotide|NADH + H <sup>+</sup>]]
+|rowspan=2|[[Isocitrate dehydrogenase]]
+|[[Oxidation]]
+|generates NADH (equivalent of 3 ATP)
+|-
+|5
+|Oxalosuccinate
+|α-[[Ketoglutaric acid|Ketoglutarate]] +<br />CO<sub>2</sub>
+|[[Decarboxylation]]
+|irreversible stage, <br /> generates a 5C molecule
+|-
+|6
+|α-Ketoglutarate +<br />NAD<sup>+</sup> +<br />CoA-SH
+|[[Succinyl-CoA]] + <br />NADH + H<sup>+</sup> + <br />CO<sub>2</sub>
+|[[Alpha-ketoglutarate dehydrogenase|α-Ketoglutarate dehydrogenase]]
+|Oxidative<br />decarboxylation
+|generates NADH (equivalent of 3 ATP), <br /> regenerates the 4C chain (CoA excluded)
+|-
+|7
+|Succinyl-CoA + <br />[[Guanosine diphosphate|GDP]] + [[Inorganic phosphate|P<sub>i</sub>]]
+|[[Succinic acid|Succinate]]  +<br />CoA-SH +<br/>[[Guanosine triphosphate|GTP]]
+|[[Succinyl coenzyme A synthetase|Succinyl-CoA synthetase]]
+|[[substrate level phosphorylation]]
+|or [[adenosine diphosphate|ADP]]->[[adenosine triphosphate|ATP]],<ref name=[[Stryer]]>{{cite book |last= Berg |first=JM |coauthors= JL Tymoczko, L Stryer |title= Biochemistry - 5th Edition |pages =476|publisher= WH Freeman and Company |year=2002 |isbn= 0-7167-4684-0}}</ref><br />generates 1 ATP or equivalent
+|-
+|8
+|Succinate + <br />[[ubiquinone]] (Q)
+|[[Fumaric acid|Fumarate]] + <br />ubiquinol (QH<sub>2</sub>)
+|[[Succinate dehydrogenase]]
+|Oxidation
+|uses [[FAD]] as a [[prosthetic group]] (FAD->FADH<sub>2</sub> in the first step of the reaction) in the enzyme,<ref name=[[Stryer]]>Berg ''et al'' (2002), page 501</ref><br/>generates the equivalent of 2 ATP
+|-
+|9
+|Fumarate + <br />H<sub>2</sub>O
+|''L''-[[Malic acid|Malate]]
+|[[Fumarase]]
+|H<sub>2</sub>O addition<br />(''hydration'')
+|
+|-
+|10
+|''L''-Malate+ <br />NAD<sup>+</sup>
+|Oxaloacetate + <br />NADH + H<sup>+</sup>
+|[[Malate dehydrogenase]]
+|Oxidation
+|generates NADH (equivalent of 3 ATP)
+|}
+
+Mitochondria in animals including humans possess two succinyl-CoA synthetases, one that produces GTP from GDP, and another that produces ATP from ADP.<ref>{{cite journal | author=Johnson JD, Mehus JG, Tews K, Milavetz BI, Lambeth DO| title=Genetic evidence for the expression of ATP- and GTP-specific succinyl-CoA synthetases in multicellular eucaryotes| journal=J Biol Chem| year=1998 |url=http://www.jbc.org/cgi/content/full/273/42/27580| pages=27580-6 |volume=273 |issue=42}}</ref> Plants have the type that produces ATP (ADP-forming succinyl-CoA synthetase).<ref name=Biochemistryofplants>{{cite book |last= Buchanan |coauthors= Gruissem, Jones |title= Biochemistry & molecular biology of plants |edition=1st Edition |publisher= American society of plant physiology|year=2000 |isbn=0-943088-39-9}}</ref>
+
+The GTP that is formed by GDP-forming succinyl-CoA synthetase may be utilized by [[nucleoside-diphosphate kinase]] to form ATP (the catalyzed reaction is GTP + ADP -> GDP + ATP).<ref name=[[Stryer]]/>
+
+==A simplified view of the process==
+* The citric acid cycle begins with [[acetyl-CoA]] transferring its two-carbon [[acetyl]] group to the four-carbon acceptor compound (oxaloacetate) to form a six-carbon compound (citrate).
+* The citrate then goes through a series of chemical transformations, losing first one, then a second [[carboxyl]] group as CO<sub>2</sub>. The carbons lost as CO<sub>2</sub> originate from what was oxaloacetate, not directly from acetyl-CoA. The carbons donated by acetyl-CoA become part of the oxaloacetate carbon backbone after the first turn of the citric acid cycle. Loss of the acetyl-CoA-donated carbons as CO<sub>2</sub> requires several turns of the citric acid cycle. However, because of the role of the citric acid cycle in anabolism,  they may not be lost since many TCA cycle intermediates are also used as precursors for the biosynthesis of other molecules.<ref>Wolfe RR, Jahoor F.  (1990) [http://www.ajcn.org/cgi/reprint/51/2/248.pdf Recovery of labeled CO<sub>2</sub> during the infusion of C-1- vs C-2-labeled acetate: implications for tracer studies of substrate oxidation.] ''Am J Clin Nutr.'' '''51(2)''':248-52. PMID 2106256 </ref>
+* Most of the energy made available by the oxidative steps of the cycle is transferred as energy-rich [[electrons]] to NAD<sup>+</sup>, forming NADH. For each acetyl group that enters the citric acid cycle, three molecules of NADH are produced.
+* Electrons are also transferred to the electron acceptor FAD, forming FADH<sub>2</sub>.
+* At the end of each cycle, the four-carbon oxaloacetate has been regenerated, and the cycle continues.
+
+==Products==
+
+Products of the first turn of the cycle are: ''one GTP, three NADH, one FADH<sub>2</sub>, two CO<sub>2</sub>''.
+
+Because two acetyl-CoA [[molecules]] are produced from each [[glucose]] molecule, two cycles are required per glucose molecule. Therefore, at the end of all cycles, the products are: two GTP, six NADH, two FADH<sub>2</sub>, and four CO<sub>2</sub>''
+
+{| class="wikitable"
+| '''Description''' || '''Reactants''' || '''Products''' 
+ |- 
+ | The sum of all reactions in the citric acid cycle is: || Acetyl-CoA + 3 NAD<sup>+</sup> + FAD + GDP + P<sub>i</sub> + 2 H<sub>2</sub>O  || → CoA-SH + 3 NADH + 3 H<sup>+</sup> + FADH<sub>2</sub> + GTP + 2 CO<sub>2</sub>
+ |- 
+ | Combining the reactions occurring during the [[pyruvate decarboxylation|pyruvate oxidation]] with those occurring during the citric acid cycle, the following overall pyruvate oxidation reaction is obtained: || Pyruvic acid + 4 NAD<sup>+</sup> + FAD + GDP + P<sub>i</sub> + 2 H<sub>2</sub>O   || →  4 NADH + 4 H<sup>+</sup> + FADH<sub>2</sub> + GTP + 3 CO<sub>2</sub>
+ |- 
+ | Combining the above reaction with the ones occurring in the course of [[glycolysis]], the following overall glucose oxidation reaction (excluding reactions in the respiratory chain) is obtained: || Glucose + 10 NAD<sup>+</sup> + 2 FAD + 2 ADP + 2 GDP + 4 P<sub>i</sub> + 2 H<sub>2</sub>O   || → 10 NADH + 10 H<sup>+</sup> + 2 FADH<sub>2</sub> + 2 ATP + 2 GTP + 6 CO<sub>2</sub>
+|}
+
+(the above reactions are equilibrated if P<sub>i</sub> represents the H<sub>2</sub>PO<sub>4</sub><sup>-</sup> ion, ADP and GDP the ADP<sup>2-</sup> and GDP<sup>2-</sup> ions, respectively, and ATP and GTP the ATP<sup>3-</sup> and GTP<sup>3-</sup> ions, respectively).
+
+Considering the future conversion of GTP to ATP and the maximum 32 ATP produced by the 10 NADH and the 2 FADH<sub>2</sub> (see the theoretical yields for [[cellular respiration]]), it follows that each glucose molecule is able to produce a maximum of 32 ATP.
+
+== Regulation ==
+''Although pyruvate dehydrogenase is not technically a part of the citric acid cycle, its regulation is included here.''
+
+The regulation of the TCA cycle is largely determined by substrate availability and product inhibition. NADH, a product of all dehydrogenases in the TCA cycle with the exception of succinate dehydrogenase, inhibits [[pyruvate dehydrogenase]], isocitrate dehydrogenase and α-ketoglutarate dehydrogenase, and also citrate synthase. Acetyl-CoA inhibits [[pyruvate dehydrogenase]], while succinyl-CoA inhibits succinyl-CoA synthase and citrate synthase. When tested in vitro with TCA enzymes,  ATP inhibits citrate synthase and α-ketoglutarate dehydrogenase; however, ATP levels do not change more than 10% in vivo between rest and vigorous exercise. There is no known [[allosteric]] mechanism that can account for large changes in reaction rate from an allosteric effector whose concentration changes less than 10% <ref>Voet, D. & Voet, J. G. (2004) Biochemistry 3rd Edition (John Wiley & Sons, Inc., New York) p. 615</ref>.
+
+Calcium is used as a regulator. It activates pyruvate dehydrogenase, isocitrate dehydrogenase and oxoglutarate dehydrogenase.<ref>{{cite journal
+|author=Denton RM
+|coauthors=Randle PJ, Bridges BJ, Cooper RH, Kerbey AL, Pask HT, Severson DL, Stansbie D, Whitehouse S.
+|title=Regulation of mammalian pyruvate dehydrogenase
+|journal=Mol Cell Biochem
+|year=1975
+|month=Oct
+|volume=9
+|issue=1
+|pages=27-53
+}}</ref> This increases the reaction rate of many of the steps in the cycle, and therefore increases flux throughout the pathway.
+
+Citrate is used for feedback inhibition, as it inhibits [[phosphofructokinase]], an enzyme involved in [[glycolysis]] that catalyses formation of [[fructose 1,6-bisphosphate]], a precursor of pyruvate. This prevents a constant high rate of flux when there is an accumulation of citrate and a decrease in substrate for the enzyme.
+
+Recent work has demonstrated an important link between intermediates of the citric acid cycle and the regulation of [[hypoxia inducible factors]] ([[HIF1A|HIF]]). HIF plays a role in the regulation of oxygen haemostasis, and is a transcription factor which targets angiogenesis, vascular remodelling, glucose ulitisation, iron transport and apoptosis. HIF is synthesized consititutively and hydroxylation of at least one of two critical proline residues mediates their interation with the von Hippel Lindau [[E3 ubiquitin ligase]] complex which targets them for rapid degradation. This reaction is calalysed by [[prolyl hydroxylase|prolyl 4-hydroxylase]]s. Fumarate and succinate have been identified as potent inhibitors of prolyl hydroxylases thus leading to the stabilisation of HIF.<ref>{{cite journal |author=Koivunen P, Hirsilä M, Remes AM, Hassinen IE, Kivirikko KI, Myllyharju J |title=Inhibition of hypoxia-inducible factor (HIF) hydroxylases by citric acid cycle intermediates: possible links between cell metabolism and stabilization of HIF |journal=J. Biol. Chem. |volume=282 |issue=7 |pages=4524–32 |year=2007 |pmid=17182618 |url=http://www.jbc.org/cgi/content/full/282/7/4524}}</ref>
+
+== Major metabolic pathways converging on the TCA cycle ==
+Most of the body's [[catabolic]] pathways converge on the TCA cycle, as the diagram shows. Reactions that form intermediates of the TCA cycle in order to replenish them (especially during the scarcity of the intermediates) are called [[anaplerotic reactions]].
+
+The citric acid cycle is the third step in [[carbohydrate catabolism]] (the breakdown of sugars). Glycolysis breaks glucose (a six-carbon-molecule) down into [[pyruvate]] (a three-carbon molecule). In [[eukaryote]]s, pyruvate moves into the [[mitochondrion|mitochondria]]. It is converted into acetyl-CoA by [[pyruvate decarboxylation|decarboxylation]] and enters the citric acid cycle.
+
+In [[protein catabolism]], [[protein]]s are broken down by [[protease]] [[enzyme]]s into their constituent amino acids. The carbon backbone of these [[amino acid]]s can become a source of energy by being converted to Acetyl-CoA and entering into the citric acid cycle.
+
+In [[fat catabolism]], [[triglyceride]]s are [[hydrolysis|hydrolyzed]] to break them into [[fatty acid]]s and [[glycerol]]. In the liver the glycerol can be converted into glucose via dihydroxyacetone phosphate and glyceraldehyde-3-phosphate by way of [[gluconeogenesis]]. In many tissues, especially heart tissue, fatty acids are broken down through a process known as [[beta oxidation]] which results in acetyl-CoA which can be used in the citric acid cycle. Sometimes beta oxidation can yield propionyl CoA which can result in further glucose production by gluconeogenesis in the liver.
+
+The citric acid cycle is always followed by [[oxidative phosphorylation]]. This process extracts the energy (as electrons) from NADH and FADH<sub>2</sub>, oxidizing them to NAD<sup>+</sup> and FAD, respectively, so that the cycle can continue. Whereas the citric acid cycle does not use oxygen, oxidative phosphorylation does.
+
+The total energy gained from the complete breakdown of one molecule of glucose by glycolysis, the citric acid cycle and oxidative phosphorylation equals about 36 ATP molecules.
+The citric acid cycle is called an [[amphibolic]] pathway because it participates in both [[catabolism]] and [[anabolism]].
+
+==See also==
+* [[Calvin cycle]]
+* [[Oxidative decarboxylation]]
+* [[Citric acid]]
+* [[Glycolysis]]
+* [[Pyruvate decarboxylation]]
+* [[Oxidative phosphorylation]]
+* [[Reverse Krebs cycle|Reverse (Reductive) Krebs cycle]]
+* [[Glyoxylate cycle]]
+* [[Hans Adolf Krebs]]
+
+==References==
+{{reflist}}
+* {{cite book|author=Neil A. Campbell|coauthors=Jane B. Reece |title=Biology|isbn=978-0805371468|edition=7th ed.|publisher=Benjamin Cummings|month=Dec|year=2005}}
+* {{cite book|author=Solomon, E.P.|coauthors=Berg, L.R., Martin, D.W.|isbn=978-0534495480|title=Biology|publisher=Brooks Cole|year=2005|editions=7th ed.|month=Mar}}
+* Note on nomenclature: On rare occasions the citric acid cycle is known by a fourth name, the '''Szent-Györgyi-Krebs cycle''', after [[Hans Adolf Krebs]] and [[Albert Szent-Györgyi]] who first determined the chemical intermediates and reaction sequence of the cycle.
+
+==External links==
+* [http://www.science.smith.edu/departments/Biology/Bio231/krebs.html An animation of the citric acid cycle] at [[Smith College]]
+* [http://www.youtube.com/watch?v=FgXnH087JIk A video of members of The Ohio State Marching Band enacting the Krebs cycle] at [[YouTube]]
+* [http://www.rahulgladwin.com/blog/2007/01/notes-on-citric-acid-cycle-glyoxylate.html Notes on citric acid cycle] at rahulgladwin.com
+* [http://www.johnkyrk.com/krebs.html A more detailed tutorial animation] at johnkyrk.com
+* [http://www.pitt.edu/AFShome/j/b/jbrodsky/public/html/1820/tca.htm A citric-acid cycle self quiz flash applet] at [[University of Pittsburgh]]
+* [http://www2.ufp.pt/~pedros/bq/tca.htm The chemical logic behind the citric acid cycle] at ufp.pt
+
+{{biology-footer}}
+{{Cellular respiration}}
+{{citric acid cycle}}
+{{MetabolismMap}}
+{{Citric acid cycle enzymes}}
+
+[[Category:Cellular respiration]]
+[[Category:Exercise physiology]]
+[[Category:Metabolic pathways]]
+
+{{Link FA|it}}
+[[ar:دورة حمض الستريك]]
+[[bg:Цикъл на Кребс]]
+[[cs:Citrátový cyklus]]
+[[da:Citronsyrecyklus]]
+[[de:Citratzyklus]]
+[[es:Ciclo de Krebs]]
+[[eo:Ciklo de Krebs]]
+[[fr:Cycle de Krebs]]
+[[ko:TCA 회로]]
+[[hr:Krebsov ciklus]]
+[[it:Ciclo di Krebs]]
+[[he:מעגל קרבס]]
+[[lv:Trikarbonskābju cikls]]
+[[lb:Zitratzyklus]]
+[[lt:Krebso ciklas]]
+[[hu:Citromsavciklus]]
+[[mk:Кребсов циклус]]
+[[nl:Citroenzuurcyclus]]
+[[ja:クエン酸回路]]
+[[no:Sitronsyresyklus]]
+[[oc:Cicle de Krebs]]
+[[pl:Cykl kwasu cytrynowego]]
+[[pt:Ciclo de Krebs]]
+[[ru:Цикл трикарбоновых кислот]]
+[[sk:Krebsov cyklus]]
+[[sl:Krebsov cikel]]
+[[sr:Кребсов циклус]]
+[[su:Daur asam sitrat]]
+[[fi:Sitruunahappokierto]]
+[[sv:Citronsyracykeln]]
+[[tl:Pag-ikot ng asido sitriko]]
+[[vi:Chu trình Krebs]]
+[[tr:Krebs döngüsü]]
+[[zh:三羧酸循环]]
