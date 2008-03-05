@@ -1,176 +1,290 @@
-{{pp-semi-protected|small=yes}}
-
-{{selfref|For Wikipedia's non-encyclopedic visitor introduction, please see [[Wikipedia:About]].}}
-{{infobox website
-| name = [[Image:Wikipedia-favicon.png|16px|Favicon of Wikipedia]] Wikipedia
-| screenshot = [[Image:Www.wikipedia.org screenshot.png|280px|Wikipedia's multilingual portal shows the project's different language editions.]]
+{{Mergefrom|Deletionism and inclusionism in Wikipedia|date=March 2008}}
+{{otheruses4|the free encyclopedia|the different similar terms related to Wikipedia|Wikipedia (terminology)}}
+{{selfref|For Wikipedia's non-encyclopedic visitor introduction, see [[Wikipedia:About]].}}
+{{infobox Website
+| name = Wikipedia
+| screenshot = [[Image:Www.wikipedia.org screenshot.png|border|280px|Wikipedia's multilingual portal shows the project's different language editions.]]
 | caption = Screenshot of Wikipedia's multilingual portal
-| url = http://www.wikipedia.org/
-| commercial = No
+| url = http://www.wikipedia.org
+| type of organization = [[Nonprofit]]
 | location = [[Miami, Florida]]
-| type = [[Internet encyclopedia project]]
+| type = [[Internet encyclopedia project|Online encyclopedia]]
 | language = 236 active editions (253 in total)<ref name="ListOfWikipedias"/>
 | registration = Optional
 | owner = [[Wikimedia Foundation]]
-| author = [[Jimmy Wales]], [[Larry Sanger]]<ref name="foundercontroversy" />
-}}
-
-'''ويکيپېډيا''' ([[IPA chart for English|IPA]]: {{IPA|/ˌwikiˈpiːdi.ə/}}, {{IPA|/ˌwikiˈpeːdi.ə/}} يا {{IPA|/ˌwɪkiˈpiːdi.ə/}} ({{audio|en-us-Wikipedia.ogg|Audio (U.S.)}}) يو [[multilingualism|ګڼ ژبنيز]]، [[World Wide Web|انټرنټي]]، د [[وړيا مېنځپانګ]]ې [[پوهنغونډ]] project, operated by the [[ويکيمېډيا فاونډېشن]], يو [[بې ګټې تنظيم]] دی.
-
-As of [[August 1]] [[2007]], Wikipedia has approximately 7.9 million articles in 253 languages, 1.925 million <!-- Do not use {{NUMBEROFARTICLES}} here, breaks on mirrors --> of which are in the English edition.<ref name="ListOfWikipedias">{{cite web | url = http://meta.wikimedia.org/wiki/List_of_Wikipedias | title = List of Wikipedias | publisher = [[Meta-Wiki]] | accessdate = 2007-07-12 | date = [[2007-07-12]]}}</ref> This makes it the largest, most extensive, and fastest growing encyclopedia ever compiled.{{Fact|date=August 2007}} It has been written [[collaboration|collaboratively]] by [[volunteer]]s around the world and the vast majority of its articles can be edited by anyone with access to the Internet. Steadily rising in popularity since its inception,<ref name="AlexaStats">{{cite web | url = http://www.alexa.com/data/details/traffic_details?&range=5y&size=large&y=t&url=wikipedia.org | title = Five-year traffic statistics for wikipedia.org | publisher = [[Alexa Internet]] | accessdate = 2007-01-29 }}</ref> it currently ranks among the top ten most-visited websites worldwide.<ref>{{cite web | url = http://www.alexa.com/data/details/traffic_details?&range=3&nbsp;m&size=large&y=t&url=wikipedia.org | title = Three-month traffic [[statistics]] for wikipedia.org | publisher = [[Alexa Internet]] | accessdate = 2007-01-29 }}</ref>
-<!--
-needs a paragraph spacer here, due to subject change. Nothing wrong with having a 3-paragraph lead.
--->
-Wikipedia's name is a [[portmanteau]] of the words ''[[wiki]]'' (a type of collaborative website) and ''[[encyclopedia]]''. Its main [[server (computing)|servers]] are in [[Tampa, Florida]], with additional servers located in [[Amsterdam]] and [[Seoul]].
-
-Due to Wikipedia's open nature, critics have questioned its reliability and accuracy.<ref name="Who">{{cite web | url = http://www.guardian.co.uk/online/news/0,12597,1335892,00.html | title = Who knows? | accessdate = 2007-02-11 | author = Simon Waldman | publisher = The Guardian | date = [[2004-10-26]] }}
-</ref> The site has been criticized for its susceptibility to [[vandalism]] and the addition of false or unverified information,<ref name="DeathByWikipedia" /> uneven quality, [[systemic bias]] and inconsistencies,<ref name="SangerElitism" /> and for favoring [[consensus]] over [[credential]]s in its editorial process.<ref name="AcademiaAndWikipedia">{{cite web | url = http://www.corante.com/many/archives/2005/01/04/academia_and_wikipedia.php | title = Academia and Wikipedia | accessdate = 2007-02-11 | author = [[Danah Boyd]] | publisher = [[Many-to-many|Many-to-Many]] | date = [[2005-01-04]] }}</ref> Wikipedia's content policies<ref name="PoliciesAndGuidelines">{{cite web | url = http://en.wikipedia.org/wiki/Wikipedia:List_of_policies_and_guidelines | title = List of policies and guidelines | accessdate = 2007-01-31 | publisher = English Wikipedia }}</ref> and sub-projects set up by contributors seek to address these concerns.<ref>{{cite web | url = http://en.wikipedia.org/wiki/Wikipedia:WikiProject | title = Wikipedia:WikiProject | accessdate = 2007-01-29 | publisher = [[English Wikipedia]] }}</ref> Two scholarly studies have concluded that vandalism is generally short-lived<ref name="MIT_IBM_study">{{cite paper | title = Studying Cooperation and Conflict between Authors with History Flow Visualizations | format = [[PDF]] | accessdate = 2007-01-24 | url = http://alumni.media.mit.edu/~fviegas/papers/history_flow.pdf }}</ref> and that Wikipedia is generally as accurate as other encyclopedias.<ref name="Rosenzweig_2006">{{cite journal |last=Rosenzweig |first=Roy |year=2006 |title=Can History be Open Source? Wikipedia and the Future of the Past |journal=The Journal of American History |volume=93 |pages=117–146}}</ref>
-<!--
-THIS IS A PLACEHOLDER. Some prose about how Wikipedia has attracted praise, criticism and its fair share of controversy belongs here. We were missing praise and giving too much duplicated information before.
--->
-
-Wikipedia, along with other interactive websites such as [[YouTube]] and [[Facebook]], won the [[Time (magazine)|Time]] [[Person of the Year]], awarded to the most influential of that year in 2006. The award praised the accelerating success of on-line collaboration and interaction by millions of users around the world made possible through the [[World Wide Web]].<ref name="You">{{cite news | date=[[2006-12-17]] | url=http://news.bbc.co.uk/1/hi/technology/6187113.stm | title= 'You' named Time's person of 2006| publisher= [[BBC News]] | accessdate=2007-07-29}}</ref>
-
-== Founding ==
-{{main|History of Wikipedia}}
-
-Wikipedia's [[English Wikipedia|English edition]] was launched on [[January 15]] [[2001]], as a complement to [[Nupedia]], an expert-written and now defunct encyclopedia.
-
-[[Jimmy Wales]] and [[Larry Sanger]] were identified as co-founders of Wikipedia in 2001. Wikipedia's official personnel page from September 2001 states that Wales and Sanger were the two co-founders, and that there was no editor-in-chief.<ref name="foundercontroversy"/><ref>[http://web.archive.org/web/20011024225012/www.wikipedia.com/wiki/Wikipedia Web archive]</ref><ref name="Dan_Mitchell">{{
-cite news
-|first=Dan
-|last=Mitchell
-|title=Insider Editing at Wikipedia
-|url=http://www.nytimes.com/2005/12/24/technology/24online.ready.html?ex=1293080400&en=431aff478b00239e&ei=5090&partner=rssuserland&emc=rss
-|publisher=[[The New York Times]]
-|date=[[2005-12-24]]
-|accessdate=2007-04-14
-}}</ref><ref name="Brian_Bergstein">{{
-cite news
-|first=Brian
-|last=Bergstein
-|title=Sanger says he co-started Wikipedia 
-|url=http://abcnews.go.com/Technology/wireStory?id=2980046
-|work=[[ABC News]]
-|publisher=[[Associated Press]]
-|date=[[2007-03-25]]
-|accessdate=2007-04-14
-|quote=The nascent Web encyclopedia Citizendium springs from Larry Sanger, a philosophy Ph.D. who counts himself as a co-founder of Wikipedia, the site he now hopes to usurp. The claim does not seem particularly controversial - Sanger has long been cited as a co-founder. Yet the other founder, Jimmy Wales, is not happy about it.
-}}</ref><ref name="The_Hive">{{
-cite news
-|first=Marshall
-|last=Poe
-|title=The Hive
-|url=http://www.theatlantic.com/doc/200609/wikipedia/
-|publisher=[[The Atlantic Monthly|The Atlantic]]
-|date=September 2006
-|accessdate=2007-04-14
-}}</ref> Wales, creator of the [[Wikimedia Foundation]] in 2003, today claims to be the sole [[History of Wikipedia#Origin of the Wikipedia concept|founder]] of Wikipedia and has told ''[[The Boston Globe]]'' that "it's preposterous" to call Sanger the co-founder.<ref name="David_Mehegan">{{
-cite news
-|last=Mehegan
-|first=David
-|work=[[The Boston Globe]]
-|title=Bias, sabotage haunt Wikipedia's free world
-|url=http://www.boston.com/business/technology/articles/2006/02/12/bias_sabotage_haunt_wikipedias_free_world/?page=4
-|date=[[2006-02-12]]
-|accessdate=2007-04-14
-|format=free registration required
-}}</ref> However, Sanger strongly contests that description. He was identified as a co-founder of Wikipedia at least as early as September 2001 and referred to himself that way as early as January 2002.<ref name=foundercontroversy>{{
+| author = [[Jimmy Wales]], [[Larry Sanger]]<!-- Please, please, [discuss] on talk page before rewriting history. This has been in this article for years. --><ref name=foundercontroversy>{{
 cite news
 |url=http://www.signonsandiego.com/uniontrib/20041206/news_mz1b6encyclo.html
 |author=Jonathan Sidener
 |title=Everyone's Encyclopedia
 |accessdate=2006-10-15
 |publisher=San Diego Union Tribune
-}}</ref><ref>{{cite news
-|author=Peter Meyers
-|title=Fact-Driven? Collegial? This Site Wants You
-|url=http://query.nytimes.com/gst/fullpage.html?res=9800E5D6123BF933A1575AC0A9679C8B63
-|work=[[New York Times]]
-|accessdate=2006-10-15
-|date=[[2001-09-20]]
-}}</ref><ref>{{cite web
-|url = http://meta.wikimedia.org/w/index.php?title=Wikipedia_and_why_it_matters&oldid=149626
-|author = [[Larry Sanger|Sanger, Larry]]
-|title = What Wikipedia is and why it matters 
-|accessdate = 2006-04-12
 }}</ref>
+| launch date = {{birth date|2001|1|15}}
+| commercial = No
+| alexa = [[List of websites by Alexa rank|#9]]<ref name="AlexaStats" />
+| current status = perpetual work-in-progress
+| slogan = The Free Encyclopedia that anyone can edit
+}}
+'''Wikipedia''' ({{IPAEng|ˌwɪkɨˈpiːdiə}}, {{IPA|/ˌwiːkiˈpiːdiə/}}, {{IPA|/ˌwɪkiˈpiːdiə/}} or {{IPA|/ˌwiːkiˈpeɪdiə/}}) ({{audio|en-us-Wikipedia.ogg|Audio (U.S.)}}) is a [[free content|free]],<ref>Some language versions such as English one contains non-free images.</ref> [[multilingualism|multilingual]], [[open content]] [[encyclopedia]] project operated by the [[non-profit organization|non-profit]] [[Wikimedia Foundation]]. Its name is a [[portmanteau]] of the words ''[[wiki]]'' (a technology for creating collaborative websites) and ''[[encyclopedia]]''. Launched in [[2001]] by [[Jimmy Wales]] and [[Larry Sanger]],<ref name="Miliard">{{cite news
+|url=http://www.slweekly.com/index.cfm?do=article.details&id=37BD3969-14D1-13A2-9F5EEAF5A79E0898
+|title=Wikipediots: Who are these devoted, even obsessive contributors to Wikipedia?
+|accessdate=2008-02-21
+|date=2008-03-01 
+|publisher=[[Salt Lake City Weekly]]
+|first=Mike
+|last=Miliard}}</ref> it is the largest, fastest-growing and most popular general reference work currently available on the [[Internet]].<ref>{{cite news
+|url=http://www.time.com/time/business/article/0,8599,1595184,00.html
+|title=Look Who's Using Wikipedia
+|first=Bill
+|last=Tancer
+|date=2007-05-01
+|publisher=''[[Time (magazine)|Time]]''
+|accessdate=2007-12-01
+|quote=The sheer volume of content [...] is partly responsible for the site's dominance as an online reference. When compared to the top 3,200 educational reference sites in the U.S., Wikipedia is #1, capturing 24.3% of all visits to the category}}  ([http://weblogs.hitwise.com/bill-tancer/2007/03/wikipedia_search_and_school_ho.html the author's blog post on the article])</ref><ref name="go-to site">{{cite news |url=http://www.reuters.com/article/internetNews/idUSN0819429120070708 |title=Wikipedia remains go-to site for online news |date=2007-07-08 |accessdate=2007-12-16 |first=Alex |last=Woodson |publisher=''[[Reuters]]'' |quote=Online encyclopedia Wikipedia has added about 20 million unique monthly visitors in the past year, making it the top online news and information destination, according to Nielsen//NetRatings.}}</ref>
 
-== Authorship and management ==
-[[Image:Wikipedia—Old Logo—Transparent.png|left|thumb|The original Wikipedia logo]]
+As of December 2007, Wikipedia had approximately 9.25 million articles in 253 languages, comprising a combined total of over 1.74 billion words for all Wikipedias. The [[English Wikipedia]] edition passed the 2,000,000 article mark on [[September 9]], [[2007]], <!-- Do not use {{NUMBEROFARTICLES}}, breaks on mirrors --> and as of [[February 20]], [[2008]] it had over 2,240,000 articles consisting of over 974,000,000 words.<ref name="ListOfWikipedias">{{cite web | url = http://meta.wikimedia.org/wiki/List_of_Wikipedias | title = List of Wikipedias | publisher = [[Wikipedia:Meta|Meta-Wiki]] | '''accessdate = 2007-07-12 | date = [[2007-07-12]]}}</ref> Wikipedia's articles have been written [[collaboration|collaboratively]] by [[volunteer]]s around the world, and the vast majority of its articles can be edited by anyone with access to the Internet. Having steadily risen in popularity since its inception,<ref name="AlexaStats">{{cite web | url = http://www.alexa.com/data/details/traffic_details/wikipedia.org?range=5y&size=large&y=t | title = Five-year traffic statistics for wikipedia.org | publisher = [[Alexa Internet]] | accessdate = 2007-01-29 }}</ref> it currently ranks among the top ten most-visited websites worldwide.<ref name=AlexaTop500 />
 
-Maintenance tasks are performed by a group of volunteers; these include developers, who work on the [[MediaWiki]] software, and other trusted users with various permission levels including "steward", "bureaucrat" and "administrator."<ref>[http://en.wikipedia.org/w/index.php?title=Wikipedia:User_access_levels&oldid=100160162 Wikipedia:User access levels]," Wikipedia ([[January 12]] [[2007]])</ref> Administrators are the largest group of specially privileged users, and have the ability to delete (remove) pages, lock articles from being changed, and deter users from editing.<ref>"[http://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators&oldid=102666051 Wikipedia:Administrators]", Wikipedia ([[January 23]] [[2007]])</ref>
-Wikipedia is funded through the [[Wikimedia Foundation]]. Its 4th Quarter 2005 costs were $321,000 [[United States dollar|USD]], with hardware making up almost 60% of the budget.<ref>{{cite web|title=Budget/2005|publisher=[[Wikimedia Foundation]]|url=http://wikimediafoundation.org/wiki/Budget/2005|accessdate=2006-03-11}}</ref> The Wikimedia Foundation currently relies primarily on private donations, and holds regular fundraisers;<ref>[http://wikimediafoundation.org/wiki/Fundraising Fundraising], [[Wikimedia Foundation]]</ref> the January 2007 fundraiser raised just over $1 million.<ref>"[http://wikimediafoundation.org/w/index.php?title=Fundraising_report&oldid=19190 Fundraising report]", [[Wikimedia Foundation]] ([[January 21]] [[2007]])</ref>
+Critics have questioned Wikipedia's reliability and accuracy, citing its open nature.<ref name="Who">{{cite web | url = http://www.guardian.co.uk/technology/2004/oct/26/g2.onlinesupplement | title = Who knows? | accessdate = 2007-02-11 | author = Simon Waldman | publisher = ''[[The Guardian]]'' | date = [[2004-10-26]] }}</ref> The criticisms are centered on its susceptibility to [[vandalism]], such as the insertion of profanities or random letters into articles, and the addition of spurious or unverified information;<ref name="DeathByWikipedia" /> uneven quality, [[systemic bias]] and inconsistencies;<ref name="SangerElitism" /> and for favoring [[consensus]] over [[credential]]s in its editorial process.<ref name="AcademiaAndWikipedia">{{cite web | url = http://many.corante.com/archives/2005/01/04/academia_and_wikipedia.php | title = Academia and Wikipedia | accessdate = 2007-02-11 | author = [[Danah Boyd]] | publisher = Many-to-Many | date = [[2005-01-04]] }}</ref> Scholarly work suggests that vandalism is generally short-lived.<ref name="MIT_IBM_study">{{cite paper | title = Studying Cooperation and Conflict between Authors with History Flow Visualizations | format = [[Portable Document Format|PDF]] | accessdate = 2007-01-24 | url = http://alumni.media.mit.edu/~fviegas/papers/history_flow.pdf }}</ref><ref name="CreatingDestroyingAndRestoringValue">{{cite journal
+ | author =Reid Priedhorsky, Jilin Chen, Shyong (Tony) K. Lam, Katherine Panciera, Loren Terveen, John Riedl
+ | title =Creating, Destroying, and Restoring Value in Wikipedia
+ | journal =[[Association for Computing Machinery]] GROUP '07 conference proceedings
+ | location =Sanibel Island, Florida, USA.
+ |date=2007-11-04
+ | url =http://www-users.cs.umn.edu/~reid/papers/group282-priedhorsky.pdf
+ | accessdate =2007-10-13}}</ref>
 
-== Software and hardware ==
-[[Image:Floridaserversfront1.jpg|thumb|left|Wikipedia receives between 10,000 and 30,000 page requests per second, depending on time of day.<ref>"[http://hemlock.knams.wikimedia.org/~leon/stats/reqstats/reqstats-monthly.png Monthly request statistics]", Wikimedia. Retrieved on [[2007-02-03]].</ref> More than 100 servers have been set up to handle the traffic.]]
+In addition to being an encyclopedic reference, Wikipedia has received major media attention as an online source of breaking news as it is constantly updated.<ref>{{cite news
+| url = http://www10.nytimes.com/2007/07/01/magazine/01WIKIPEDIA-t.html?_r=5&pagewanted=print&oref=slogin&oref=slogin&oref=slogin&oref=slogin
+| title = All the News That’s Fit to Print Out
+| author = Jonathan Dee
+| publisher = The New York Times Magazine
+|date=2007-07-01
+|accessdate=2007-12-01}}</ref><ref>{{cite journal
+ | author = Andrew Lih
+ | title = Wikipedia as Participatory Journalism: Reliable Sources? Metrics for evaluating collaborative media as a news resource
+ | journal = 5th International Symposium on Online Journalism
+ | location = University of Texas at Austin
+ |date=04-16-2004
+ | url = http://jmsc.hku.hk/faculty/alih/publications/utaustin-2004-wikipedia-rc2.pdf
+ | accessdate =2007-10-13}}</ref>
+When ''[[Time (magazine)|Time Magazine]]'' recognized "[[You (Time Person of the Year)|You]]" as their ''[[Time Person of the Year|Person of the Year]]'' 2006, praising the accelerating success of on-line collaboration and interaction by millions of users around the world, Wikipedia was the first particular "[[Web 2.0]]" service mentioned, followed by [[YouTube]] and [[MySpace]].<ref name="You">{{cite news| date=[[2006-12-13]]| url= http://www.time.com/time/magazine/article/0,9171,1569514,00.html |title= Time's Person of the Year: You |publisher= ''[[Time (magazine)|Time]]''}}</ref>
 
-The operation of Wikipedia depends on [[MediaWiki]], a custom-made, [[free software|free]] and [[open source software|open source]] [[wiki software]] platform written in [[PHP]] and built upon the [[MySQL]] database. The software incorporates modern programming features, such as a [[macro language]], [[variables]], a [[transclusion]] system for [[Web template#Sub-template|templates]], and [[URL redirection]]. MediaWiki is licensed under the [[GNU General Public License]] and used by all Wikimedia projects, as well as many other wiki projects. Originally, Wikipedia ran on [[UseModWiki]] written in [[Perl]] by Clifford Adams (Phase I), which initially required [[CamelCase]] for article hyperlinks; the present double bracket style was incorporated later. Starting in January 2002 (Phase II), Wikipedia began running on a [[PhpWiki|PHP wiki]] engine with a MySQL database; this software was custom-made for Wikipedia by [[Magnus Manske]]. The Phase II software was repeatedly modified to accommodate the [[Exponential growth|exponentially increasing]] demand. In July 2002 (Phase III), Wikipedia shifted to the third-generation software, MediaWiki, originally written by Lee Daniel Crocker.
+==History==
+{{main|History of Wikipedia}}
+[[Image:Nupedia.jpg|thumb|250px|Wikipedia originally developed from another encyclopedia project, [[Nupedia]].]]
+Wikipedia began as a complementary project for [[Nupedia]], a free online [[English language|English-language]] encyclopedia project whose articles were written by experts and reviewed by a formal process. Nupedia was founded on [[March 9]] [[2000]], under the ownership of [[Bomis|Bomis, Inc]], a [[web portal]] company. Its main figures were [[Jimmy Wales]], Bomis [[Chief executive officer|CEO]], and [[Larry Sanger]], [[Editing|editor-in-chief]] for Nupedia and later Wikipedia. Nupedia was licensed initially under its own [[Nupedia Open Content License]], switching to the [[GNU Free Documentation License]] before Wikipedia's founding at the urging of [[Richard Stallman]].<ref name="stallman1999">{{cite web
+|url=http://www.gnu.org/encyclopedia/encyclopedia.html
+|title=The Free Encyclopedia Project
+|accessdate=2008-01-04
+|last=Stallman
+|first=Richard M.
+|authorlink=Richard Stallman
+|date=2007-06-20
+|publisher=[[Free Software Foundation]]}}</ref>
+
+[[Image:Jimmy-wales-frankfurt2005-alih01.jpg|left|100px|thumb|Jimmy Wales]]
+[[Image:L Sanger.jpg|thumb|right|100px|Larry Sanger]]
+Larry Sanger and Jimmy Wales are the founders of Wikipedia.<ref name="foundercontroversy"/><ref name="Sanger-NYTimes">
+{{cite news
+|first=Peter
+|last=Meyers
+|title=Fact-Driven? Collegial? This Site Wants You
+|url=http://query.nytimes.com/gst/fullpage.html?res=9800E5D6123BF933A1575AC0A9679C8B63&n=Top%2fReference%2fTimes%20Topics%2fSubjects%2fC%2fComputer%20Software
+|publisher=''[[The New York Times]]''
+|date=[[September 20]], [[2001]]
+|accessdate=2007-11-22}}<small>"I can start an article that will consist of one paragraph, and then a real expert will come along and add three paragraphs and clean up my one paragraph," said Larry Sanger of Las Vegas, who founded Wikipedia with Mr. Wales.</small></ref> While Wales is credited with defining the goal of making a publicly editable encyclopedia,<ref name="SangerMemoir" /> Sanger is usually credited with the [[Intuition_%28knowledge%29|counter-intuitive]] [[strategy]] of using a [[wiki]] to reach that goal.<ref>{{cite web|url=http://lists.wikimedia.org/pipermail/wikipedia-l/2001-October/000671.html|title=Wikipedia-l: LinkBacks?|accessdate=2007-02-20}}</ref> On [[January 10]] [[2001]], [[Larry Sanger]] proposed on the Nupedia [[mailing list]] to create a wiki as a "feeder" project for Nupedia.<ref>{{cite news |author=[[Larry Sanger]] |title=Let's make a wiki |date=[[January 10]] [[2001]] |publisher=Internet Archive |url=http://web.archive.org/web/20030414014355/http://www.nupedia.com/pipermail/nupedia-l/2001-January/000676.html}}</ref>
+Wikipedia was formally launched on [[January 15]] [[2001]], as a single English-language edition at www.wikipedia.com,<ref>{{cite web |url=http://web.archive.org/web/20010331173908/http://www.wikipedia.com/ |title=Wikipedia: HomePage |accessdate= 2001-03-31}}</ref> and announced by Sanger on the Nupedia mailing list.<ref>{{cite news |author=[[Larry Sanger]] |title=Wikipedia is up! |date=[[January 17]] [[2001]] |publisher=Internet Archive |url=http://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html}}</ref>
+Wikipedia's policy of "neutral point-of-view"<ref name="NPOV">"[http://en.wikipedia.org/w/index.php?title=Wikipedia:Neutral_point_of_view&oldid=102236018 Wikipedia:Neutral point of view], Wikipedia (21 January 2007)</ref> was codified in its initial months, and was similar to Nupedia's earlier "nonbiased" policy. Otherwise, there were relatively few rules initially and Wikipedia operated independently of Nupedia.<ref name="SangerMemoir">{{cite news |author=[[Larry Sanger]] |title=The Early History of Nupedia and Wikipedia: A Memoir|date=[[April 18]] [[2005]] |publisher=[[Slashdot]] |url=http://features.slashdot.org/features/05/04/18/164213.shtml}}</ref>
+
+[[Image:EnglishWikipediaArticleCountGraph linear.png‎|thumb|right|Graph of the article count for the English Wikipedia, from January 10, 2001, to September 9, 2007 (the date of the two-millionth article).]] Wikipedia gained early contributors from Nupedia, [[Slashdot]] postings, and [[Web search engine|search engine]] indexing. It grew to approximately 20,000 articles, and 18 language editions, by the end of 2001. By late 2002 it had reached 26 language editions, 46 by the end of 2003, and 161 by the closing stages 2004.<ref>"[http://en.wikipedia.org/wiki/Wikipedia:Multilingual_statistics Multilingual statistics]", Wikipedia, [[March 30]] [[2005]]</ref> Nupedia and Wikipedia coexisted until the former's servers went down permanently in 2003, and its text was incorporated into Wikipedia. As of December 2007, English Wikipedia had over 2 million articles, making it the largest encyclopedia ever assembled, eclipsing even the [[Yongle Encyclopedia]] (1407), which had held the record for nearly 600 years.<ref name="EB_encyclopedia">{{cite encyclopedia |title=Encyclopedias and Dictionaries |encyclopedia=Encyclopædia Britannica, 15th ed. |publisher= Encyclopædia Britannica |date=2007 |volume=18 |pages=257–286}}</ref>
+
+Citing fears of commercial advertising and lack of control in a perceived English-centric Wikipedia, users of the [[Spanish Wikipedia]] forked from Wikipedia to create the ''[[Enciclopedia Libre]]'' in February 2002. Later that year, Wales announced that Wikipedia would not display advertisements, and its website was moved to wikipedia.org. Various other projects have since forked from Wikipedia for editorial reasons. [[Wikinfo]] does not require neutral point of view and allows original research. New Wikipedia-inspired projects — such as [[Citizendium]], [[Scholarpedia]], [[Amapedia]] and Google's [[Knol]] — have been started to address perceived limitations of Wikipedia, such as its policies on [[peer review]], [[original research]] and commercial [[advertising]].
+
+The [[Wikimedia Foundation]] was created from Wikipedia and Nupedia on [[June 20]] [[2003]].<ref>[[Jimmy Wales]]: "[http://lists.wikimedia.org/pipermail/wikipedia-l/2003-June/010690.html Announcing Wikimedia Foundation]", [[June 20]] [[2003]], <wikipedia-l@wikipedia.org></ref> It applied to the [[United States Patent and Trademark Office]] to [[trademark]] ''Wikipedia®'' on [[September 17]] [[2004]]. The mark was granted registration status on [[January 10]] [[2006]]. Trademark protection was accorded by [[Japan]] on [[December 16]], [[2004]], and in the [[European Union]] on [[January 20]] [[2005]]. Technically a [[service mark]], the scope of the mark is for: "Provision of [[information]] in the field of general encyclopedic knowledge via the [[Internet]]". There are plans to license the usage of the Wikipedia trademark for some products, such as books or DVDs.<ref>{{cite news |first=Vipin |last=Nair|title=Growing on volunteer power |date=[[December 5]] [[2005]] |publisher=Business Line |url=http://www.thehindubusinessline.com/ew/2005/12/05/stories/2005120500070100.htm}}</ref> In October 2007 the foundation announced that it plans to move its headquarters from [[St. Petersburg, Florida]], to [[San Francisco, California|San Francisco]], [[California]], in February 2008.<ref>{{cite news
+|url=http://blog.wired.com/business/2007/10/wikimedia-found.html
+|title=Wikimedia Foundation Moving To San Francisco
+|author=Julie Sloane
+|publisher=Wired News
+|date=2007-10-10}}</ref>
+
+The Wikimedia Foundation's 4th Quarter 2005 costs were $321,000 [[United States dollar|USD]], with hardware making up almost 60% of the budget.<ref>{{cite web|title=Budget/2005|publisher=[[Wikimedia Foundation]]|url=http://wikimediafoundation.org/wiki/Budget/2005|accessdate=2006-03-11}}</ref> The Wikimedia Foundation currently relies primarily on private donations, and holds regular fundraisers;<ref>[http://wikimediafoundation.org/wiki/Fundraising Fundraising], [[Wikimedia Foundation]]</ref> the January 2007 fundraiser raised just over $1 million.<ref>"[http://wikimediafoundation.org/w/index.php?title=Fundraising_report&oldid=19190 Fundraising report]", [[Wikimedia Foundation]] ([[January 21]] [[2007]])</ref>
+
+== Content and internal structure ==
+Almost every article in Wikipedia may be edited anonymously or with a user account, while only registered users may create a new article. The "History" page attached to each article contains every single past revision of the article, though a revision with libel content or copyright infringements may be removed afterwards.<ref name="Torsten_Kleinz"/><ref>The [[Japanese Wikipedia]], for example, is known for deleting every mention of real names of victims of certain high-profile crimes, even though they may still be noted in other language editions.</ref> All text in Wikipedia is covered by [[GNU Free Documentation License]] (GFDL), a [[copyleft]] license permitting the redistribution, creation of derivative works, and commercial use of content while authors retain copyright of their work. Wikipedia has been working on the switch to [[Creative Commons licenses]] because the GFDL, initially designed for software manuals, is not suitable for online reference works and because the two licenses are currently incompatible.<ref>{{cite web
+|url=http://wikimediafoundation.org/wiki/Resolution:License_update
+|title=Resolution:License update
+|date=2007
+|accessdate=2007-12-04
+|author=Walter Vermeir
+|publisher=Wikizine}}</ref> Some language editions, such as the English Wikipedia, include non-free image files under [[fair use]] doctrine, while free media files are shared across language editions via [[Wikimedia Commons]], a project operated by the Wikimedia Foundation.
+
+[[Image:WIkimania-2006_010.jpg|thumb|[[Wikimania]], an annual conference for users of Wikipedia and other projects operated by the Wikimedia Foundation.]]
+Unlike traditional encyclopedias such as ''[[Encyclopædia Britannica]]'', no article in Wikipedia is submitted to formal peer-review process and changes to articles are made available immediately. To ensure its quality, the project relies on its community members, called ''Wikipedians'',<ref>{{cite web
+|url=http://en.wikipedia.org/wiki/Wikipedia:Wikipedians
+|title=Wikipedia:Wikipedians
+|accessdate=2007-12-08
+|publisher=Wikipedia}}</ref> to remove vandalism or identify problems such as violation of neutrality<ref name="InfoWeek0322-2007">
+{{cite news
+|first=Thomas
+|last=Claburn
+|title=Wikipedia Becomes Intelligence Tool And Target For Jihadists
+|url=http://www.informationweek.com/internet/showArticle.jhtml?articleID=198500163&cid=RSSfeed_IWK_News
+|publisher=Information Week
+|date=[[March 22]], [[2007]]
+|accessdate=2007-03-25}}</ref> and factual errors in its articles.<ref>{{cite news
+|title=Wikipedia Falsely Reports Sinbad's Death
+|url=http://wcbstv.com/entertainment/Sinbad.Wikipedia.death.2.281748.html
+|publisher=[[Associated Press]]
+|date=[[March 16]], [[2007]]
+|accessdate=2007-03-25}}</ref> Since June 2006, vandalism-repair [[Internet bot|bots]] have also been in use.<ref name="CreatingDestroyingAndRestoringValue" />
+
+Articles in Wikipedia are subject to the law in [[Florida, United States]] and several internal policies and guidelines;<ref>{{cite web |url=http://www.pcworld.idg.com.au/index.php/id;1866322157;fp;2;fpid;2 |title=Who's behind Wikipedia? |publisher=PC World |date=2008-02-06 |accessdate=2008-02-07}}</ref> they need to be on "notable" <ref>{{cite web |url=http://en.wikipedia.org/wiki/Wikipedia:Notability |title=Wikipedia:Notability |accessdate=2008-02-13 |quote=A topic is presumed to be notable if it has received significant coverage in reliable secondary sources that are independent of the subject.}}</ref> topics, contain "no original research"<ref>{{cite web |url=http://en.wikipedia.org/wiki/Wikipedia:No_original_research |title=Wikipedia:No original research |accessdate=2008-02-13 |quote=Wikipedia does not publish original thought}}</ref> and only "verifiable"<ref>{{cite web |url=http://en.wikipedia.org/wiki/Wikipedia:Verifiability |title= Wikipedia:Verifiability |accessdate=2008-02-13 |quote=Material challenged or likely to be challenged, and all quotations, must be attributed to a reliable, published source.}}</ref> facts (not truth) and must be written from a "neutral point of view."<ref>{{cite web |url=http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view |title= Wikipedia:Neutral_point_of_view |accessdate=2008-02-13 |quote=All Wikipedia articles and other encyclopedic content must be written from a neutral point of view, representing significant views fairly, proportionately and without bias.}}</ref> Articles that fail to meet those guidelines and policies are modified or deleted. [[Deletionism and inclusionism in Wikipedia|Deletionism and inclusionism]] are two editor philosophies on the extent of these modifications and deletions.
+
+The community has a power structure.<ref name="iTWireJune18-2006">
+{{cite news
+|first=Stuart
+|last=Corner
+|title=What's all the fuss about Wikipedia?
+|url=http://www.itwire.com.au/content/view/4666/127/
+|publisher=[[iT Wire]]
+|date=[[June 18]], [[2006]]
+|accessdate=2007-03-25}}</ref><ref>{{cite news |url=http://www.slate.com/id/2184487 |title=The Wisdom of the Chaperones |date=2008-02-22 |accessdate=2008-03-04 |first=Chris |last=Wilson |publisher=Slate}}</ref> While they are welcomed by the community,<ref name="TheNewYorker">
+{{cite news
+|first=Stacy
+|last=Schiff
+|title=Can Wikipedia conquer expertise?
+|work =Know It All
+|url=http://www.newyorker.com/archive/2006/07/31/060731fa_fact
+|publisher =[[The New Yorker]]
+|date =[[July 24]], [[2006]]
+|accessdate=2007-03-25}}</ref> authors new to Wikipedia are encouraged to read policies to help them learn the ways of Wikipedia.<ref name="Torsten_Kleinz">{{cite news
+|first=Torsten
+|last=Kleinz
+|title=World of Knowledge
+|work =The Wikipedia Project
+|url=http://w3.linux-magazine.com/issue/51/Wikipedia_Encyclopedia.pdf
+|publisher=[[Linux Magazine]]
+|date=February, 2005
+|accessdate=2007-03-25}}</ref> Editors in good standing in the community can run for one of many of levels of volunteer stewardship; this begins with "[[sysop|administrator]]"<ref name="David_Mehegan">{{cite news
+|first=David
+|last=Mehegan
+|title=Many contributors, common cause
+|url=http://www.boston.com/business/technology/articles/2006/02/13/many_contributors_common_cause/
+|publisher=[[The Boston Globe]]
+|date=[[February 13]], [[2006]]
+|accessdate=2007-03-25}}</ref> and goes up with "steward" and "bureaucrat".<ref> [http://en.wikipedia.org/w/index.php?title=Wikipedia:User_access_levels&oldid=100160162 Wikipedia:User access levels]," Wikipedia ([[January 12]] [[2007]])</ref> Administrators, the largest group of privileged users ({{srlink|Special:Statistics|1,503 Wikipedians}} for the English edition on [[February 23]], [[2008]]), have the ability to delete pages, lock articles from being changed in case of vandalism or editorial disputes, and deter users from editing. Much of the coordination of the editing of Wikipedia takes place on the "Talk" pages associated with each individual article.<ref>{{cite journal
+|url=http://www.research.ibm.com/visual/papers/wikipedia_coordination_final.pdf
+|author=Fernanda B. Viégas, Martin Wattenberg, Jesse Kriss, Frank van Ham
+|title=Talk Before You Type: Coordination in Wikipedia
+|publisher=Visual Communication Lab, IBM Research
+|date=2007-01-03
+|accessdate=2007-10-30}}</ref>
+
+As Wikipedia grows with an unconventional model of encyclopedia building, "Who writes Wikipedia" has become one of questions frequently asked on the project, often with a reference to other Web 2.0 projects such as [[Digg]].<ref>{{cite web |url=http://www.viktoria.se/altchi/submissions/submission_edchi_1.pdf |title=Power of the Few vs. Wisdom of the Crowd: Wikipedia and the Rise of the Bourgeoisie |first=Aniket |last=Kittur | accessdate =2008-02-23 |format=pdf}}</ref> Jimmy Wales, the founder of Wikipedia, once argued that only "a community ... a dedicated group of a few hundred volunteers" makes up a bulk of contributions to Wikipedia and that the project is therefore "much like any traditional organization". This was later disputed by Aaron Schwartz, who noted that several articles he sampled had large portion of their content contributed by a user with low edit count.<ref>{{cite web |url=http://www.aaronsw.com/weblog/whowriteswikipedia |title=Raw Thought: Who Writes Wikipedia? |first=Aaron |last=Schwartz |accessdate=2008-02-23 |date=2006-09-04}}</ref>
+
+==Software and hardware==
+The operation of Wikipedia depends on [[MediaWiki]], a custom-made, [[free software|free]] and [[open source software|open source]] [[wiki software]] platform written in [[PHP]] and built upon the [[MySQL]] database. The software incorporates programming features such as a [[Macro (computer science)|macro language]], [[Variable|variables]], a [[transclusion]] system for [[Web template#Sub-template|templates]], and [[URL redirection]]. MediaWiki is licensed under the [[GNU General Public License]] and used by all Wikimedia projects, as well as many other wiki projects. Originally, Wikipedia ran on [[UseModWiki]] written in [[Perl]] by Clifford Adams (Phase I), which initially required [[CamelCase]] for article hyperlinks; the present double bracket style was incorporated later. Starting in January 2002 (Phase II), Wikipedia began running on a [[PhpWiki|PHP wiki]] engine with a MySQL database; this software was custom-made for Wikipedia by Magnus Manske. The Phase II software was repeatedly modified to accommodate the [[Exponential growth|exponentially increasing]] demand. In July 2002 (Phase III), Wikipedia shifted to the third-generation software, MediaWiki, originally written by Lee Daniel Crocker.
 
 [[Image:Wikimedia-servers-2006-05-09.svg|thumb|right|Overview of system architecture, May 2006. See [[:meta:Server layout diagrams|server layout diagrams on Meta-Wiki]].]]
 
-Wikipedia runs on dedicated [[computer cluster|clusters]] of [[Linux]] servers in [[Florida]] and in four other locations.<ref name="servers">{{cite web|url=http://meta.wikimedia.org/wiki/Wikimedia_servers|title=Wikimedia servers at wikimedia.org|accessdate=2007-02-06}}</ref> Wikipedia employed a single server until 2004, when the server setup was expanded into a distributed [[multitier architecture]]. In January 2005, the project ran on 39 [[Dedicated hosting service|dedicated servers]] located in Florida. This configuration included a single master [[database server]] running [[MySQL]], multiple slave database servers, 21 [[web server]]s running the [[Apache HTTP Server]], and seven [[Squid cache]] servers. By September 2005, its [[computer cluster|server cluster]] had grown to around 100 servers in four locations around the world.<ref name="servers" />
+Wikipedia currently runs on dedicated [[computer cluster|clusters]] of [[Linux|GNU/Linux]] servers, 300 in [[Florida]], 26 in [[Amsterdam]] and 23 in Yahoo!'s Korean hosting facility in [[Seoul]].<ref name="servers">{{cite web|url=http://meta.wikimedia.org/wiki/Wikimedia_servers|title=Wikimedia servers at wikimedia.org|accessdate=2008-02-16}}</ref> Wikipedia employed a single server until 2004, when the server setup was expanded into a distributed [[multitier architecture]]. In January 2005, the project ran on 39 [[Dedicated hosting service|dedicated servers]] located in Florida. This configuration included a single master [[database server]] running [[MySQL]], multiple slave database servers, 21 [[web server]]s running the [[Apache HTTP Server]], and seven [[Squid cache]] servers.
 
-Page requests are first passed to a front-end layer of [[Squid cache|Squid caching]] servers. Requests that cannot be served from the Squid cache are sent to load-balancing servers running the [[Linux Virtual Server]] software, which in turn pass the request to one of the Apache web servers for page rendering from the database. The web servers deliver pages as requested, performing page rendering for all the language editions of Wikipedia. To increase speed further, rendered pages for anonymous users are cached in a filesystem until invalidated, allowing page rendering to be skipped entirely for most common page accesses. Two larger clusters in the Netherlands and Korea now handle much of Wikipedia's traffic load.
+Wikipedia receives between 20,000 and 45,000 page requests per second, depending on time of day.<ref>"[http://hemlock.knams.wikimedia.org/~leon/stats/reqstats/reqstats-monthly.png Monthly request statistics]", Wikimedia. Retrieved on [[2008-02-26]].</ref> Page requests are first passed to a front-end layer of [[Squid cache|Squid caching]] servers. Requests that cannot be served from the Squid cache are sent to load-balancing servers running the [[Linux Virtual Server]] software, which in turn pass the request to one of the Apache web servers for page rendering from the database. The web servers deliver pages as requested, performing page rendering for all the language editions of Wikipedia. To increase speed further, rendered pages for anonymous users are cached in a distributed memory cache until invalidated, allowing page rendering to be skipped entirely for most common page accesses. Two larger clusters in the Netherlands and Korea now handle much of Wikipedia's traffic load.
 
-== Language editions ==
-{{seealso|List of Wikipedias}}
-[[Image:He-Wikipedia.png|right|thumb|300px|Wikipedia in [[Hebrew language|Hebrew]].<ref>[http://he.wikipedia.org/wiki/Main_Page Main Page], [[Hebrew Wikipedia]]</ref>]]
-Wikipedia has been described as "an effort to create and distribute a free encyclopedia of the highest possible quality to every single person on the planet in their own language".<ref>[[Jimmy Wales]], "[http://lists.wikimedia.org/pipermail/wikipedia-l/2005-March/020469.html Wikipedia is an encyclopedia]", March 8 2005, <wikipedia-l@wikimedia.org></ref> There are presently 253 language editions of Wikipedia; of these, the top 14 have over 100,000 articles and the top 139 have over 1,000 articles.<ref name="ListOfWikipedias" />
+==Language editions==
+{{see also|List of Wikipedias}}
+{{Primarysources|section|date=October 2007}}
+[[Image:English Wikipedia contributors by country.svg|thumb|Contributors for English Wikipedia by country as of September 2006<ref>{{cite web
+|url=http://meta.wikimedia.org/wiki/Edits_by_project_and_country_of_origin
+|title=Edits by project and country of origin
+|date=2006-09-04
+|accessdate=2007-10-25
+}}</ref>]] There are currently 253 language editions of Wikipedia; of these, 16 have over 100,000 articles and 145 have over 1,000 articles.<ref name="ListOfWikipedias" /> According to Alexa, the English [[subdomain]] (en.wikipedia.org) receives approximately 55% of Wikipedia's cumulative traffic, with the remaining split among the other languages (Spanish: 17%, Japanese 4%, German: 4%, Polish: 3%, French: 3%, Portuguese: 2%).<ref name="AlexaStats" /> As of December 2007, the five largest language editions are (in order of article count) [[English Wikipedia|English]], [[German Wikipedia|German]], [[French Wikipedia|French]], [[Polish Wikipedia|Polish]] and [[Japanese Wikipedia]]s.<ref>{{cite web |url=http://en.wikipedia.org/wiki/Wikipedia:Multilingual_statistics |title=Wikipedia:Multilingual statistics |publisher=English Wikipedia |accessdate=2007-12-23}}</ref>
 
-Since Wikipedia is web-based and therefore worldwide, contributors of a same language edition may use different dialects or may come from different countries (this is the case for the [[English Wikipedia|English edition]]). These differences may lead to some conflicts about spelling<ref>{{cite web|url=http://en.wikipedia.org/wiki/Wikipedia:Spelling|title= spelling | work = Manual of Style | publisher = Wikipedia |accessdate=2007-05-19}}</ref> or points of view.<ref>{{cite web|url=http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias|title=Countering systemic bias|accessdate=2007-05-19}}</ref> The English [[subdomain]] (en.wikipedia.org) receives approximately 51% of Wikipedia's cumulative traffic, with the remaining 49% split among the other languages (Spanish: 15%, Japanese 5%, German: 5%, French: 4%, Polish: 3%, Portuguese: 2%, Arabic: 2%).<ref name="AlexaStats" />
-
-Though the various language editions are held to global policies such as "neutral point of view," they diverge on some points of policy and practice—most notably in their use of non-free images.<ref>{{cite web
+Since Wikipedia is web-based and therefore worldwide, contributors of a same language edition may use different dialects or may come from different countries (as is the case for the [[English Wikipedia|English edition]]). These differences may lead to some conflicts over [[American and British English spelling differences|spelling differences]], (e.g. ''color'' vs. ''colour'')<ref>{{cite web|url=http://en.wikipedia.org/wiki/Wikipedia:Spelling|title= spelling | work = Manual of Style | publisher = Wikipedia |accessdate=2007-05-19}}</ref> or points of view.<ref>{{cite web|url=http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias|title=Countering systemic bias|accessdate=2007-05-19}}</ref>
+Though the various language editions are held to global policies such as "neutral point of view," they diverge on some points of policy and practice, most notably on whether images that are not [[free content|licensed freely]] may be used under a claim of [[fair use]].<ref>{{cite web
 |url=http://meta.wikimedia.org/wiki/Fair_use
 |title=Fair use
 |publisher=Meta wiki
-|accessdate=2007-07-14}}</ref><ref>{{cite web
+|accessdate=2007-07-14}}</ref><!--
+--><ref>{{cite web
 |url=http://meta.wikimedia.org/wiki/Images_on_Wikipedia
 |title=Images on Wikipedia
-|publisher=Meta wiki
-|accessdate=2007-07-14}}</ref>
+|accessdate=2007-07-14}}</ref><!--
+--><ref>{{cite journal
+|url=http://www.research.ibm.com/visual/papers/viegas_hicss_visual_wikipedia.pdf
+|author=Fernanda B. Viégas
+|title=The Visual Side of Wikipedia
+|publisher=Visual Communication Lab, IBM Research
+|date=2007-01-03
+|accessdate=2007-10-30}}</ref>
+[[Image:PercentWikipediasGraph.png|thumb|Percentage of all Wikipedia articles in English (red) and top ten largest language editions (blue). As of November 2007, less than 25% of Wikipedia articles are in English.]] Jimmy Wales has described Wikipedia as "an effort to create and distribute a free encyclopedia of the highest possible quality to every single person on the planet in their own language".<ref>[[Jimmy Wales]], "[http://lists.wikimedia.org/pipermail/wikipedia-l/2005-March/020469.html Wikipedia is an encyclopedia]", March 8 2005, <wikipedia-l@wikimedia.org></ref> Though each language edition functions more or less independently, some efforts are made to supervise them all. They are coordinated in part by [[Wikipedia:Meta|Meta-Wiki]], the Wikimedia Foundation's wiki devoted to maintaining all of its projects (Wikipedia and others). For instance, Meta-Wiki provides [http://meta.wikimedia.org/wiki/Statistics important statistics] on all language editions of Wikipedia and maintain a [http://meta.wikimedia.org/wiki/List_of_articles_every_Wikipedia_should_have list of articles every Wikipedia should have]. The list concerns basic content by subject: biography, history, geography, society, culture, science, technology, foodstuffs, and mathematics. As for the rest, it is not rare for articles strongly related to a particular language not to have counterparts in another edition. For example, articles about small towns in the United States might only be available in English.
 
-Though each language edition functions more or less independently, some efforts are made to supervise them all. They are coordinated in part by [[Wikipedia:Meta|Meta-Wiki]], the Wikimedia Foundation's wiki devoted to maintaining all of its projects (Wikipedia and others). For instance, Meta-Wiki provides important statistics on all language editions of Wikipedia and maintain a [[m:List of articles every Wikipedia should have|list of articles every Wikipedia should have]]. The list concerns basic content by subject: biography, history, geography, society, culture, science, technology, foodstuffs, and mathematics. As for the rest, it is not rare for articles strongly related to a particular language not to have counterparts in another edition. For example, articles about small townships of the United States might only be available in English.
+Translated articles represent only a small portion of articles in most editions,<ref>For example, "[http://en.wikipedia.org/wiki/Wikipedia:Translation_into_English Translation into English]", Wikipedia. (March 9, 2005)</ref> in part because automated translation of articles is disallowed.<ref>[http://en.wikipedia.org/wiki/Wikipedia:Translations Wikipedia: Translation]. English Wikipedia, accessed on [[2007-02-03]]</ref> Articles available in more than one language may offer "[[InterWiki]]" links, which link to the counterpart articles in other editions. Images and other non-verbal media are shared among the various language editions through the [[Wikimedia Commons]] repository, a project operated by the Wikimedia foundation.
 
-Multilingual editors of sufficient fluency are encouraged to translate articles manually; automated translation of articles is explicitly disallowed.<ref>[http://en.wikipedia.org/wiki/Wikipedia:Translations Wikipedia: Translation]. English Wikipedia, accessed on [[2007-02-03]]</ref> Translated articles represent only a small portion of articles in most editions.<ref>For example, "[http://en.wikipedia.org/wiki/Wikipedia:Translation_into_English Translation into English]", Wikipedia. (March 9, 2005)</ref> Articles available in more than one language may offer "[[InterWiki]]" links, usually in their left margin, which link to the counterpart articles in other editions. Images and other non-verbal media are shared among the various language editions through the [[Wikimedia Commons]] repository. Beyond translations, some multilingual efforts are also realised thanks to the [[Wikipedia:Multilingual coordination|Multilingual coordination]].
+Several language versions have published a selection of Wikipedia articles on a DVD version. An English version<ref>"[http://www.wikipediaondvd.com/site.php?temp=down List of Mirrors Hosting the CD Iso.]" ''Wikipedia on DVD''. [[History of Wikipedia|Linterweb]]. Accessed 1 June 2007</ref> developed by [[History of Wikipedia|Linterweb]] contains "1964 + articles".<ref>"[http://www.wikipediaondvd.com/ Wikipedia on DVD]". Linterweb. Accessed 1 June 2007. "Linterweb is authorized to make a commercial use of the Wikipedia trademark restricted to the selling of the Encyclopedia CDs and DVDs."</ref><ref>"[http://www.wikipediaondvd.com/site.php?temp=buy Wikipedia 0.5 Available on a CD-ROM]". ''Wikipedia on DVD''. Linterweb. Accessed 1 June 2007. "The DVD or CD-ROM version 0.5 was commercially available for purchase."</ref> The Polish version contains nearly 240000 articles.<ref>{{cite web |url=http://meta.wikimedia.org/wiki/Polska_Wikipedia_na_DVD_%28z_Helionem%29/en |title=Polish Wikipedia on DVD}}</ref> There are also a few German versions.<ref>{{cite web |url=http://de.wikipedia.org/wiki/Wikipedia:Wikipedia-Distribution |title=Wikipedia:DVD}}</ref>
 
-== Content redistribution ==
-
-Wikipedia's content has been mirrored and forked by many sites including [[database dump]]s.{{Fact|date=June 2007}} There is  even a free downloadable DVD version<ref>"[http://www.wikipediaondvd.com/site.php?temp=down List of Mirrors Hosting the CD Iso.]" ''Wikipedia on DVD''. [[Linterweb]]. Accessed 1 June 2007</ref> developed by [[Linterweb]] which contains "1964 + articles".<ref>"[http://www.wikipediaondvd.com/ Wikipedia on DVD]". Linterweb. Accessed 1 June 2007. "Linterweb is authorized to make a commercial use of the Wikipedia trademark restricted to the selling of the Encyclopedia CDs and DVDs."</ref><ref>"[http://www.wikipediaondvd.com/site.php?temp=buy Wikipedia 0.5 Available on a CD-ROM]". ''Wikipedia on DVD''. Linterweb. Accessed 1 June 2007. "The DVD or CD-ROM version 0.5 was commercially available for purchase."</ref>
-
-== Reliability and bias ==
-[[Image:English Wikipedia Mainpage.png|right|thumb|English Wikipedia Main page on [[July 4]] [[2007]]]]
+==Reliability and bias==
 {{main|Reliability of Wikipedia}}
 
-Wikipedia appeals to the authority of peer-reviewed publications rather than the personal authority of experts. Wikipedia does not require that its contributors give their legal names or provide other information to establish their identity. Although some contributors are authorities in their field, Wikipedia requires that even their contributions be supported by published sources.
+Wikipedia does not require that its contributors give their legal names or provide other information to establish their identity. A 2007 study by researchers from [[Dartmouth College]] found that anonymous and infrequent contributors to Wikipedia are as reliable a source of knowledge as those contributors who register with the site.<ref>{{cite news
+|url=http://www.sciam.com/article.cfm?id=good-samaritans-are-on-the-money
+|title=Wikipedia "Good Samaritans'' Are on the Money
+|publisher=[[Scientific American]]
+|date=[[2007-10-19]]}}</ref>
+Although some contributors are authorities in their field, Wikipedia requires that even their contributions be supported by published and verifiable sources.
 
-Wikipedia tries to address the problem of [[systemic bias]], and to deal with zealous editors who seek to influence the presentation of an article in a biased way, by insisting on a neutral point of view. The English-language Wikipedia has introduced a scale against which the quality of articles is judged; other editions have also adopted this. Roughly 1200 articles have passed a rigorous set of criteria to reach the highest rank, "featured article" status; such articles are intended to provide thorough, well-written coverage of their topic, supported by many references to peer-reviewed publications.
+Wikipedia tries to address the problem of [[systemic bias]], and to deal with zealous editors who seek to influence the presentation of an article in a biased way, by insisting on a neutral point of view.<ref>{{cite web
+|url=http://www.alternet.org/story/61365/?page=entire
+|title=Will Unethical Editing Destroy Wikipedia's Credibility?
+|author=Eric Haas
+|publisher=AlterNet.org
+|date=[[2007-10-26]]}}</ref>
+The English-language Wikipedia has introduced an assessment scale against which the quality of articles is judged;<ref>{{cite web
+|url=http://en.wikipedia.org/wiki/Wikipedia:Version_1.0_Editorial_Team/Assessment
+|title=Wikipedia:Version 1.0 Editorial Team/Assessment
+|accessdate=2007-10-28}}</ref> other editions have also adopted this. Roughly 1500 articles have passed a rigorous set of criteria to reach the highest rank, "featured article" status; such articles are intended to provide thorough, well-written coverage of their topic, supported by many references to peer-reviewed publications.<ref>{{cite journal
+|url=http://www.research.ibm.com/visual/papers/hidden_order_wikipedia.pdf
+|author=Fernanda B. Viégas, Martin Wattenberg, and Matthew M. McKeon
+|title=The Hidden Order of Wikipedia
+|publisher=Visual Communication Lab, IBM Research
+|date=2007-07-22
+|accessdate=2007-10-30
+|format=pdf}}</ref>
 
-In a study of Wikipedia as a community, economics PhD student Andrea Ciffolilli argued that the low [[transaction cost]]s of participating in [[wiki]] software create a catalyst for collaborative development, and that a "creative construction" approach encourages participation.<ref>
+In a 2003 study of Wikipedia as a community, economics [[Doctor of Philosophy|Ph.D.]] student Andrea Ciffolilli argued that the low [[transaction cost]]s of participating in [[wiki]] software create a catalyst for collaborative development, and that a "creative construction" approach encourages participation.<ref>
 Andrea Ciffolilli, "[http://firstmonday.org/issues/issue8_12/ciffolilli/index.html Phantom authority, self-selective recruitment and retention of members in virtual communities: The case of Wikipedia]", ''[[First Monday (journal)|First Monday]]'' December 2003.
 </ref>
 
-In February 2007, an article in [[The Harvard Crimson]] newspaper reported that some of the professors at [[Harvard University]] do include Wikipedia in their syllabus, but that there is a split in their perception of using Wikipedia.<ref>Child, Maxwell L.,[http://www.thecrimson.com/article.aspx?ref=517305 "Professors Split on Wiki Debate"], The Harvard Crimson, Monday, February 26, 2007.</ref>
+In February 2007, an article in [[The Harvard Crimson]] newspaper reported that some of the professors at [[Harvard University]] do include Wikipedia in their syllabus, but that there is a split in their perception of using Wikipedia.<ref>Child, Maxwell L.,[http://www.thecrimson.com/article.aspx?ref=517305 "Professors Split on Wiki Debate"], The Harvard Crimson, Monday, February 26, 2007.</ref> In June 2007, former president of the [[American Library Association]] [[Michael Gorman (librarian)|Michael Gorman]] condemned Wikipedia, along with [[Google]],<ref name=stothart>Chloe Stothart, [http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=209408 Web threatens learning ethos],
+''The Times Higher Education Supplement'', 2007, '''1799''' (22 June), page 2</ref> stating that academics who endorse the use of Wikipedia are “the intel­lectual equivalent of a dietician who recommends a steady diet of Big Macs with everything.” He also said that “a generation of intellectual sluggards incapable of moving beyond the Internet” was being produced at universities. He complains that the web-based sources are discouraging students from learning from the more rare texts which are either found only on paper or are on subscription-only web sites. In the same article Jenny Fry (a research fellow at the [[Oxford Internet Institute]]) commented on the academics who cite Wikipedia that: “You cannot say children are intellectually lazy because they are using the Internet when academics are using search engines in their research,” she said. “The difference is that they have more experience of being critical about what is retrieved and whether it is authoritative. Children need to be told how to use the Internet in a critical and appropriate way.”<ref name=stothart />
 
-In June 2007, former president of the [[American Library Association]] [[Michael Gorman]] condemned Wikipedia, along with [[Google]], for contributing to the creation of a generation of “intellectual sluggards”.<ref>Chloe Stothart, Web threatens learning ethos 
- , ''The Times Higher Education Supplement'', 2007, '''1799'''(22 June), page 2. [http://www.thes.co.uk/current_edition/]</ref> He also stated that academics who endorse the use of Wikipedia are “the intel­lectual equivalent of a dietitian who recommends a steady diet of Big Macs with everything,” He also stated that “a generation of intellectual sluggards incapable of moving beyond the internet” was being produced at universities. He complains that the web-based sources are discouraging students from learning from the more rare texts which are either found only on paper or are on subscription-only web sites. In the same article Jenny Fry (a research fellow at the [[Oxford Internet Institute]]) commented on the academics who cite Wikipedia that:
+Speaking at a conference in Pennsylvania, Wales said he receives about ten e-mails weekly from students saying they got failing grades on papers because they cited ''Wikipedia''. According to the ''Sunday Times'' of London, Wales told the students they got what they deserved. "For God's sake, you’re in college; don't cite the encyclopedia," he said.<ref>"Jimmy Wales," ''Biography Resource Center Online''. (Gale, 2006)</ref>
 
-“You cannot say children are intellectually lazy because they are using the internet when academics are using search engines in their research,” she said. “The difference is that they have more experience of being critical about what is retrieved and whether it is authoritative. Children need to be told how to use the internet in a critical and appropriate way.”<ref>Chloe Stothart,   Web threatens learning ethos 
- , ''The Times Higher Education Supplement'', 2007, 22 June issue</ref>
-
-== Criticism and controversy ==
+==Criticism==
 {{main|Criticism of Wikipedia}}
 
-Wikipedia has been accused of exhibiting [[systemic bias]] and inconsistency;<ref name="Who">Simon Waldman, http://www.guardian.co.uk/online/news/0,12597,1335892,00.html Who knows?, The Guardian, [[October 26]] [[2004]]</ref> critics argue that Wikipedia's open nature and a lack of proper sources for much of the information makes it unreliable.<ref>{{ cite news | author = Stacy Schiff | date = [[2006-07-31]] | title = Know It All | work = The New Yorker }}</ref> Some commentators suggest that Wikipedia is usually reliable, but that it is not always clear how much.<ref name="AcademiaAndWikipedia">[[Danah Boyd]], "[http://www.corante.com/many/archives/2005/01/04/academia_and_wikipedia.php Academia and Wikipedia]", [[Many-to-many|Many-to-Many]], [[January 4]] [[2005]].</ref> The project's preference for [[consensus]] over [[credential]]s has been labeled "anti-elitism".<ref name="SangerElitism">[[Larry Sanger]], "[http://www.kuro5hin.org/story/2004/12/30/142458/25 Why Wikipedia Must Jettison Its Anti-Elitism]", [[Kuro5hin]], [[December 31]] [[2004]].</ref> Editors of traditional [[reference work]]s such as the ''Encyclopædia Britannica'' have questioned the project's utility and status as an encyclopedia.<ref name="McHenry_2004">[[Robert McHenry]], "[http://www.techcentralstation.com/111504A.html The Faith-Based Encyclopedia]", [[Tech Central Station]], [[November 15]] [[2004]].</ref> Many [[university]] [[lecturer]]s discourage students from citing any encyclopedia in [[Academia|academic work]], preferring [[primary source]]s;<ref name="WideWorldOfWikipedia">{{ cite web | title = Wide World of WIKIPEDIA | publisher = The Emory Wheel | url = http://www.emorywheel.com/media/storage/paper919/news/2006/04/21/News/Wide-World.Of.Wikipedia-1865022.shtml | date = [[April 21]] [[2006]] | accessdate = 2007-01-25 }}</ref> some specifically prohibit Wikipedia citations.<ref>{{cite news |first=Scott |last=Jaschik |title=A Stand Against Wikipedia |url=http://www.insidehighered.com/news/2007/01/26/wiki |publisher=Inside Higher Ed |date=[[2007-01-26]] |accessdate=2007-01-27 }}</ref> Co-founder [[Jimmy Wales]] stresses that encyclopedias of any type are not usually appropriate as primary sources, and should not be relied upon as authoritative.<ref name="AWorkInProgress">{{cite news |first=Burt |last=Helm |title= Wikipedia: "A Work in Progress" |url=http://www.businessweek.com/technology/content/dec2005/tc20051214_441708.htm |publisher=[[BusinessWeek]] |date=[[2005-12-14]] |accessdate=2007-01-29 }}</ref> Technology writer [[Bill Thompson (technology writer)|Bill Thompson]] commented that the debate was possibly "symptomatic of much learning about information which is happening in society today."<ref>{{cite news |title=What is it with Wikipedia? |url=http://news.bbc.co.uk/1/hi/technology/4534712.stm |date=[[2005-12-16]] |publisher=[[British Broadcasting Company|BBC]] |first=Bill |last=Thompson}}</ref>
+Wikipedia has been accused of exhibiting [[systemic bias]] and inconsistency;<ref name="Who">Simon Waldman, [http://www.guardian.co.uk/technology/2004/oct/26/g2.onlinesupplement Who knows?] ''The Guardian'', [[October 26]] [[2004]]</ref> critics argue that Wikipedia's open nature and a lack of proper sources for much of the information makes it unreliable.<ref>{{ cite news | author = Stacy Schiff | date = [[2006-07-31]] | title = Know It All | work = The New Yorker }}</ref> Some commentators suggest that Wikipedia is generally reliable, but that the reliability of any given article is not always clear.<ref name="AcademiaAndWikipedia" /> The project's preference for [[consensus]] over [[credential]]s has been labeled "anti-elitism".<ref name="SangerElitism">[[Larry Sanger]], [http://www.kuro5hin.org/story/2004/12/30/142458/25 Why Wikipedia Must Jettison Its Anti-Elitism], [[Kuro5hin]], [[December 31]] [[2004]].</ref> Editors of traditional [[reference work]]s such as the ''[[Encyclopædia Britannica]]'' have questioned the project's utility and status as an encyclopedia.<ref name="McHenry_2004">[[Robert McHenry]], "[http://www.techcentralstation.com/111504A.html The Faith-Based Encyclopedia]", [[Tech Central Station]], [[November 15]] [[2004]].</ref> Many [[university]] [[lecturer]]s discourage students from citing any encyclopedia in [[Academia|academic work]], preferring [[primary source]]s;<ref name="WideWorldOfWikipedia">{{ cite web | title = Wide World of WIKIPEDIA | publisher = The Emory Wheel | url = http://www.emorywheel.com/detail.php?n=17902 | date = [[April 21]] [[2006]] | accessdate = 2007-10-17 }}</ref> some specifically prohibit Wikipedia citations.<ref>{{cite news |first=Scott |last=Jaschik |title=A Stand Against Wikipedia |url=http://www.insidehighered.com/news/2007/01/26/wiki |publisher=Inside Higher Ed |date=[[2007-01-26]] |accessdate=2007-01-27 }}</ref> Co-founder [[Jimmy Wales]] stresses that encyclopedias of any type are not usually appropriate as primary sources, and should not be relied upon as authoritative.<ref name="AWorkInProgress">{{cite news |first=Burt |last=Helm |title= Wikipedia: "A Work in Progress" |url= http://www.businessweek.com/technology/content/dec2005/tc20051214_441708.htm |publisher=[[BusinessWeek]] |date=[[2005-12-14]] |accessdate=2007-01-29 }}</ref> Technology writer [[Bill Thompson (technology writer)|Bill Thompson]] commented that the debate was possibly "symptomatic of much learning about information which is happening in society today."<ref>{{cite news |title=What is it with Wikipedia? |url=http://news.bbc.co.uk/1/hi/technology/4534712.stm |date=[[2005-12-16]] |publisher=[[British Broadcasting Company|BBC]] |first=Bill |last=Thompson}}</ref>
 
-Concerns have also been raised regarding the lack of [[accountability]] that results from users' anonymity,<ref name="WikipediaWatch">[[Public Information Research]] - Wikipedia Watch. Retrieved on [[2007-01-28]].</ref> and that it is vulnerable to [[vandalism]] and similar problems. In one particularly well-publicized incident, [[John Seigenthaler Sr. Wikipedia biography controversy|false information was introduced]] into the biography of [[John Seigenthaler, Sr.]] and remained undetected for four months.<ref>{{cite news
+In order to improve reliability, some editors have called for "stable versions" of articles, or articles that have been reviewed by the community and locked from further editing – but the community has been unable to form a consensus in favor of such changes, partly because they would require a major software overhaul.<ref>{{cite web|url=http://meta.wikimedia.org/wiki/Reviewed_article_version|title=meta.wikimedia.org/wiki/Reviewed_article_version<!--INSERT TITLE-->}}</ref><ref>{{cite web|url=http://en.wikipedia.org/wiki/Wikipedia:Stable_versions|title=en.wikipedia.org/wiki/Wikipedia:Stable_versions<!--INSERT TITLE-->}}</ref> However a similar system is being tested on the German Wikipedia, and there is an expectation that some form of that system will make its way onto the English version at some future time.<ref>{{cite web|url=http://en.wikipedia.org/wiki/Wikipedia:Flagged_revisions|title=en.wikipedia.org/wiki/Wikipedia:Flagged_revisions<!--INSERT TITLE-->}}</ref> Software created by Luca de Alfaro and colleagues at the University of California, Santa Cruz is now being tested that will assign "trust ratings" to individual Wikipedia contributors, with the intention that eventually only edits made by those who have established themselves as "trusted editors" will be made immediately visible.<ref>{{cite news
+|url=http://technology.newscientist.com/article/mg19526226.200-wikipedia-20-%C3%A2-now-with-added-trust.html
+|last=Giles
+|first=Jim
+|title=Wikipedia 2.0 - now with added trust
+|date=2007-09-20
+|publisher=NewScientist.com news service
+}}</ref>
+
+[[Image:John Seigenthaler Sr. speaking.jpg|right|thumb|John Seigenthaler Sr. has described Wikipedia as "a flawed and irresponsible research tool."<ref name=Seigenthaler />]]
+Concerns have also been raised regarding the lack of [[accountability]] that results from users' anonymity,<ref name="WikipediaWatch">[[Public Information Research]] - Wikipedia Watch. Retrieved on [[2007-01-28]].</ref> and that it is vulnerable to [[vandalism]] and similar problems. In one particularly well-publicized [[Controversy over Wikipedia's biography of John Seigenthaler Sr.|incident]], false information was introduced into the biography of [[John Seigenthaler, Sr.]] and remained undetected for four months.<ref name=Seigenthaler>{{cite news
 |url=http://www.usatoday.com/news/opinion/editorials/2005-11-29-wikipedia-edit_x.htm
 |last=Seigenthaler
 |first=John
 |title=A False Wikipedia 'biography'
 |date=2005-11-29
 |publisher=USA Today
-}}</ref> Some critics claim that Wikipedia's open structure makes it an easy target for internet [[troll (internet)|trolls]], advertisers, and those with an agenda to push.<ref>{{cite web
+}}</ref> Some critics claim that Wikipedia's open structure makes it an easy target for Internet [[troll (Internet)|trolls]], [[Spam (electronic)|advertisers]], and those with an agenda to push.<ref>{{cite web
 |title=Toward a New Compendium of Knowledge (longer version)
 |url=http://www.citizendium.org/essay.html
 |work=Citizendium.org
@@ -180,12 +294,12 @@ Concerns have also been raised regarding the lack of [[accountability]] that res
 |last=Kleinz
 |title=World of Knowledge
 |work =The Wikipedia Project
-|url=http://www.linux-magazine.com/issue/51/Wikipedia_Encyclopedia.pdf
+|url=http://w3.linux-magazine.com/issue/51/Wikipedia_Encyclopedia.pdf
 |publisher=[[Linux Magazine]]
 |date=February, 2005
 |accessdate=2007-07-13
-|quote=<small>The Wikipedia's open structure makes it a target for trolls and vandals who malevolently add incorrect information to articles, get other people tied up in endless discussions, and generally do everything to draw attention to themselves.</small>
-}}</ref> The addition of political [[Spin (public relations)|spin]] to articles by organizations including the [[U.S. House of Representatives]] and special interest groups<ref name="DeathByWikipedia">{{cite web
+|quote= The Wikipedia's open structure makes it a target for trolls and vandals who malevolently add incorrect information to articles, get other people tied up in endless discussions, and generally do everything to draw attention to themselves.
+}}</ref> The addition of political [[Spin (public relations)|spin]] to articles by organizations including the [[United States House of Representatives|U.S. House of Representatives]] and special interest groups<ref name="DeathByWikipedia">{{cite web
 |title=Death by Wikipedia: The Kenneth Lay Chronicles
 |url=http://www.washingtonpost.com/wp-dyn/content/article/2006/07/08/AR2006070800135.html
 |accessdate=2006-11-01
@@ -194,9 +308,9 @@ Concerns have also been raised regarding the lack of [[accountability]] that res
 |publisher=The Washington Post
 |date=[[2006-07-09]]
 }}</ref> has been noted,<ref>{{cite web
-|url=http://news.com.com/2061-11199_3-6032713.html
+|url=http://www.news.com/8301-10784_3-6032713-7.html
 |title=Politicians notice Wikipedia
-|publisher=[[CNET]]
+|publisher=[[CNET Networks|CNET]]
 |author=Kane, Margaret
 |date=[[2006-01-30]]
 |accessdate=2007-01-28
@@ -207,97 +321,143 @@ Concerns have also been raised regarding the lack of [[accountability]] that res
 |author=Bergstein, Brian
 |date=[[2007-01-23]]
 |accessdate=2007-02-01
-}}</ref> Some claim that Wikipedia's political articles have been taken over by left-wing partisans.<ref name="Left_in_Control_of_Wikipedia">{{cite news
-|first=Jim
-|last=Davis
-|title=Left in Control of Wikipedia
-|url=http://www.newsmax.com/archives/articles/2007/5/13/212015.shtml?s=lh
-|work=
-|publisher=[[NewsMax]]
-|date=May 14, 2007
-|accessdate=2007-07-13
 }}</ref> These issues have been parodied, notably by [[Stephen Colbert]] in ''[[The Colbert Report]]''.<ref name="wikiality">{{cite news
-|title=Colbert speaks, America follows: All Hail Wikiality!
-|publisher=c-net news.com
-|url=http://news.com.com/2061-10802_3-6100754.html
-|author=Caroline McCarthy
-|date=[[2006-08-01]]
+|title=Wikiality
+|publisher=Comedycentral.com
+|url=http://www.comedycentral.com/motherload/index.jhtml?ml_video=72347
+|author=Stephen Colbert
+|date=[[2006-07-30]]
 }}</ref>
 
 Wikipedia's community has been described as "[[cult]]-like,"<ref>{{cite news
-|url=http://technology.guardian.co.uk/opinion/story/0,16541,1667346,00.html
+|url=http://www.guardian.co.uk/technology/2005/dec/15/wikipedia.web20
 |title=Log on and join in, but beware the web cults
-|first=Charles
-|last=Arthur
+|first=Charles |last=Arthur
 |date=[[2005-12-15]]
-|publisher=[[The Guardian]]
+|publisher= ''[[The Guardian]]''
 }}</ref> although not always with entirely negative connotations,<ref>{{cite news
 |url=http://www.cnn.com/2003/TECH/internet/08/03/wikipedia/index.html
 |title=Wikipedia: The know-it-all Web site
 |date=[[2003-08-04]]
 |first=Kristie
-|last=Lu Stout|publisher=[[Cable News Network|CNN]]
-}}</ref> and criticised for failing to accommodate inexperienced users.<ref>"{{cite web
-|url=http://www.wikinfo.org/wiki.php?title=Critical_views_of_Wikipedia
+|last=Lu Stout|publisher=[[CNN]]
+}}</ref> and criticized for failing to accommodate inexperienced users.<ref>"{{cite web
+|url=http://wikinfo.org/index.php/Critical_views_of_Wikipedia
 |title=Critical views of Wikipedia
 |author=[[Wikinfo]]
 |date=[[2005-03-30]]
 |accessdate=2007-01-29
+}}</ref> While praising many aspects of Wikipedia, historian Roy Rosenzweig notes: "Overall, writing is the Achilles’ heel of Wikipedia. Committees rarely write well, and Wikipedia entries often have a choppy quality that results from the stringing together of sentences or paragraphs written by different people."<ref>{{cite web
+|url=http://chnm.gmu.edu/resources/essays/d/42
+|title=Can History be Open Source? Wikipedia and the Future of the Past
+|publisher=The Journal of American History Volume 93, Number 1 (June, 2006): 117-46
+|author=Rosenzweig, Roy
+|accessdate=2007-10-29
 }}</ref>
 
-Wikipedia's content policies<ref name="PoliciesAndGuidelines">"[http://en.wikipedia.org/wiki/Wikipedia:List_of_policies_and_guidelines List of policies and guidelines]", English Wikipedia. Retrieved on 2007-01-31.</ref> and sub-projects set up by contributors seek to address these concerns.<ref>"[http://en.wikipedia.org/wiki/Wikipedia:WikiProject Wikipedia:WikiProject]", [[English Wikipedia]]. Retrieved on 2007-01-29.</ref> Several scholarly studies have concluded that vandalism is generally short-lived,<ref name="MIT_IBM_study">{{cite paper
-|title=Studying Cooperation and Conflict between Authors with History Flow Visualizations
-|format=[[PDF]]
-|accessdate=2007-01-24
-|url=http://alumni.media.mit.edu/~fviegas/papers/history_flow.pdf
-}}</ref> and that Wikipedia is roughly as accurate as other online encyclopedias.<ref name="Rosenzweig_2006"/>
+In August 2007, a website developed by computer science graduate student [[Virgil Griffith]] named [[WikiScanner]] made its public debut. WikiScanner traces the source of millions of changes made to Wikipedia by editors who are not logged in, which reveals that many of these edits come from corporations or sovereign government agencies about articles related to them, their personnel or their work, and were attempts to remove criticism.<ref name="Seeing Corporate Fingerprints">{{cite news
+|url=http://www10.nytimes.com/2007/08/19/technology/19wikipedia.html?_r=5&hp=&pagewanted=all&oref=slogin&oref=slogin&oref=slogin&oref=slogin
+|title=Seeing Corporate Fingerprints From the Editing of Wikipedia
+|first=Katie
+|last=Hafner
+|date=[[2007-08-19]]
+|publisher=[[The New York Times]]
+}}</ref>
 
-== Awards ==
-Wikipedia won two major awards in May 2004.<ref>"[http://meta.wikimedia.org/wiki/Trophy_box Trophy Box]", [[Meta-Wiki]] ([[March 28]] [[2005]]).</ref> The first was a Golden Nica for Digital Communities of the annual [[Prix Ars Electronica]] contest; this came with a €10,000 (£6,588; $12,700) grant and an invitation to present at the PAE Cyberarts Festival in [[Austria]] later that year. The second was a Judges' [[Webby Awards|Webby Award]] for the "community" category.<ref>{{cite web|url=http://www.webbyawards.com/webbys/winners-2004.php|title=Webby Awards 2004|publisher=The International Academy of Digital Arts and Sciences|date=2004|accessdate=2007-06-19}}</ref> Wikipedia was also nominated for a "Best Practices" Webby. In September 2004, the [[Japanese Wikipedia]] was awarded a Web Creation Award from the Japan Advertisers Association. This award, normally given to individuals for great contributions to the Web in Japanese, was accepted by a long-standing contributor on behalf of the project.
+Wales called WikiScanner "a very clever idea," and said that he was considering some changes to Wikipedia to help visitors better understand what information is recorded about them. "When someone clicks on ‘edit,’ it would be interesting if we could say, ‘Hi, thank you for editing. We see you’re logged in from ''[[The New York Times]]''. Keep in mind that we know that, and it’s public information,’" he said. "That might make them stop and think."<ref name="Seeing Corporate Fingerprints"/>
 
-In a 2006 ''Multiscope'' research study, the [[Dutch Wikipedia]] was rated the third best [[Dutch language]] site, after [[Google]] and [[Gmail]], with a score of 8.1.<ref>"[http://www.multiscope.nl/organisatie/nieuws/sberichten/nederlandse-wikipedia-groeit-als-kool.html Nederlandse Wikipedia groeit als kool] (Website in Dutch Language), Recovered [[December 27]] [[2006]]</ref> On 26 January 2007, Wikipedia was also awarded the fifth highest brand ranking by the readers of brandchannel.com, receiving 15% of the votes in answer to the question "Which brand had the most impact on our lives in 2006?"<ref>{{cite news |first=Anthony |last=Zumpano |title=Similar Search Results: Google Wins |url=http://www.brandchannel.com/features_effect.asp?pf_id=352 |publisher=[[Interbrand]] |date=[[2007-01-29]] |accessdate=2007-01-28 }}</ref> [[Jimmy Wales]] was named one of the 100 most influential people in the world by ''[[TIME Magazine]]'' in 2006.<ref>{{cite news |first=Chris |last=Anderson |title=Jimmy Wales |url=http://www.time.com/time/magazine/article/0,9171,1187286,00.html |publisher=[[Time (magazine)|TIME]] |date=[[2006-04-30]] |accessdate=2006-12-18 }}</ref> In 2006, the [[Russian Wikipedia]] won the "Science and education" category of the "[[Runet Prize]]" (Russian: ''[[:ru:Премия Рунета|Премия Рунета]]'') award, supervised<ref>{{ru icon}}[http://lenta.ru/news/2005/08/29/premia/ Major award of Russian Internet became a state one] — [[Lenta.ru]], August 29 2005</ref> by the [[Politics of Russia|Russian government]] agency [[FAPMC]].
+==Cultural significance==
+[[Image:Webcomic xkcd - Wikipedian protester.png|thumb|300px|An [[xkcd]] strip entitled "Wikipedian Protester."]]
+In addition to [[Logistic function|logistic growth]] in the number of its articles,<ref>{{cite web |url=http://en.wikipedia.org/wiki/Wikipedia:Modelling_Wikipedia%27s_growth |title=Wikipedia:Modelling Wikipedia's growth |accessdate=2007-12-22}}</ref> Wikipedia has steadily gained status as a general reference website since its inception in 2001.<ref>{{cite web |url=http://www.comscore.com/press/release.asp?press=849 |title=694 Million People Currently Use the Internet Worldwide According To comScore Networks |date-2006-05-04 |accessdate=2007-12-16 |publisher=comScore |quote=Wikipedia has emerged as a site that continues to increase in popularity, both globally and in the U.S. }}</ref> According to [[Alexa Internet|Alexa]] and [[comScore]], Wikipedia is among the ten most visited websites world-wide.<ref name=AlexaTop500>{{cite web |url=http://www.alexa.com/site/ds/top_sites?ts_mode=global&lang=none |title=Top 500 |accessdate=2007-12-04 |publisher=[[Alexa Internet|Alexa]]}}</ref><ref>{{cite web |url=http://www.comscore.com/press/data.asp |title=comScore Data Center |date=October 2007 |accessdate=2008-01-19}}</ref> Of the top ten, Wikipedia is the only non-profit website. The growth of Wikipedia has been fueled by its dominant position in Google search results; about 50% of search engine traffic to Wikipedia comes from Google,<ref>{{cite web |url=http://weblogs.hitwise.com/leeann-prescott/2007/02/wikipedia_traffic_sources.html |title=Google Traffic To Wikipedia up 166% Year over Year |publisher=[[Hitwise]] |date=2007-02-16 |accessdate=2007-12-22}}</ref> a good portion of which is related to academic research.<ref>{{cite web |url=http://weblogs.hitwise.com/leeann-prescott/2006/10/wikipedia_and_academic_researc.html |title=Wikipedia and Academic Research |publisher=[[Hitwise]] |date=2006-10-17 |accessdate=2008-02-06}}</ref>  In April 2007 the [[Pew Research Center|Pew]] Internet and American Life project found that one third of US Internet users consulted Wikipedia.<ref>{{cite web |first=Lee |last=Rainie |coauthor=Bill Tancer |title=Wikipedia users |publisher=[[Pew Research Center]] |work=Pew Internet & American Life Project |date=2007-12-15 |url=http://www.pewinternet.org/pdfs/PIP_Wikipedia07.pdf |format=PDF |accessdate=2007-12-15 |quote=36% of online American adults consult Wikipedia. It is particularly popular with the well-educated and current college-age students.}}</ref> In October 2006 the site was estimated to have a hypothetical market value of $580 million if it ran ads.<ref>{{cite web
+|url=http://www.watchmojo.com/web/blog/?p=626
+|title=What is Wikipedia.org’s Valuation?
+|first=Ashkan
+|last=Karbasfrooshan
+|date=2006-10-26
+|accessdate=2007-12-01}}</ref> 
+[[Image:Wikipedia HE-MAN.jpg|300px|thumb|A [[parody]] comic of [[Skeletor]] [[Vandalism|vandalizing]] the article [[He-Man]].]]
+Wikipedia's content has also been used in academic studies, books, conferences, and court cases.<ref>"[http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_in_the_media Wikipedia:Wikipedia in the media]", Wikipedia</ref><ref>{{cite web|url=http://www.ca11.uscourts.gov/opinions/ops/200216886.pdf|title=Bourgeois ''et al'' v. Peters ''et al.''|format=PDF|accessdate=2007-02-06}}</ref> The [[Parliament of Canada]]'s website refers to Wikipedia's article on [[same-sex marriage]] in the "related links" section of its "further reading" list for the [[Civil Marriage Act]].<ref> [http://www.parl.gc.ca/LEGISINFO/index.asp?Session=13&query=4381&List=ot#2 C-38], LEGISINFO ([[March 28]] [[2005]])</ref> The encyclopedia's assertions are increasingly used as a source by organizations such as the U.S. Federal Courts and the [[World Intellectual Property Organization]]<ref name="WP_court_source">{{cite journal |last=Arias |first=Martha L. |date=[[2007-01-29]] |title=[http://www.ibls.com/internet_law_news_portal_view.aspx?s=latestnews&id=1668 Wikipedia: The Free Online Encyclopedia and its Use as Court Source] |journal=Internet Business Law Services}} (the name "''World Intellectual Property Office''" should however read "''World Intellectual Property Organization''" in this source)</ref> — though mainly for ''supporting information'' rather than information decisive to a case.<ref>{{cite news |last=Cohen |first=Noam |date=[[2007-01-29]] |title=Courts Turn to Wikipedia, but Selectively |url=http://www10.nytimes.com/2007/01/29/technology/29wikipedia.html?_r=5&ref=technology&oref=slogin&oref=slogin&oref=slogin&oref=slogin |journal=New York Times}}</ref>
+<!-- 
 
-In November 2006, [[Turkish Wikipedia]] was nominated under the Science category for the ''Altın Örümcek Web Ödülleri'' (Golden Spider Web Awards), which are commonly known as the "Web Oscars" for Turkey. In January 2007, Turkish Wikipedia was given the award for "Best Content" in this competition. The award was given in a ceremony on [[January 25]] [[2007]] at Istanbul Technical University.
+       how is this relevant to Cultural Significance?
 
-== Cultural significance ==
-{{seealso|Wikipedia in culture}}
+A French court has ruled that the Wikimedia Foundation is not legally liable for inaccurate or potentially defamatory information posted to the site.<ref>{{cite news
+|url=http://www.washingtonpost.com/wp-dyn/content/article/2007/11/02/AR2007110201339_Inform.html
+|title=Wikipedia cleared in French defamation case
+|publisher=Reuters
+|date=2007-11-02
+|accessdate=2007-11-02}}</ref> 
 
-Wikipedia's content has also been used in academic studies, books, conferences, and court cases.<ref>"[http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_in_the_media Wikipedia:Wikipedia in the media]", Wikipedia</ref><ref>{{cite web|url=http://www.ca11.uscourts.gov/opinions/ops/200216886.pdf|title=Bourgeois ''et al'' v. Peters ''et al.''|format=PDF|accessdate=2007-02-06}}</ref> The [[Parliament of Canada|Canadian Parliament]] website refers to Wikipedia's article on [[same-sex marriage]] in the "related links" section of its "further reading" list for [[Civil Marriage Act]].<ref>"[http://www.parl.gc.ca/LEGISINFO/index.asp?Lang=E&Chamber=C&StartList=2&EndList=200&Session=13&Type=0&Scope=I&query=4381&List=toc C-38]", LEGISINFO ([[March 28]] [[2005]])</ref> The encyclopedia's assertions are increasingly used as a source by organizations such as the U.S. Federal Courts and the World [[Intellectual property|Intellectual Property]] Office<ref name="WP_court_source">{{cite journal |last=Arias |first=Martha L. |date=[[2007-01-29]] |title=[http://www.ibls.com/internet_law_news_portal_view.aspx?s=latestnews&id=1668 Wikipedia: The Free Online Encyclopedia and its Use as Court Source] |journal=Internet Business Law Services}}</ref> — though mainly for ''supporting information'' rather than information decisive to a case.<ref>{{cite news |last=Cohen |first=Noam |date=[[2007-01-29]] |title=Courts Turn to Wikipedia, but Selectively |url=http://www.nytimes.com/2007/01/29/technology/29wikipedia.html?ref=technology |journal=New York Times}}</ref> Wikipedia has also been used as a source in [[journalism]],<ref>{{cite news |title=Basayev: Russia's most wanted man |url=http://edition.cnn.com/2004/WORLD/europe/09/08/russia.basayev/ |publisher=[[CNN]] |date=[[2004-09-08]] |accessdate=2007-07-30 }}</ref> sometimes without attribution; several reporters have been dismissed for plagiarizing from Wikipedia.<ref>Shizuoka newspaper plagiarized Wikipedia article, ''Japan News Review'', [[July 5]] [[2007]]</ref><ref>"[http://www.mysanantonio.com/news/metro/stories/MYSA010307.02A.richter.132c153.html Express-News staffer resigns after plagiarism in column is discovered]", ''[[San Antonio Express-News]]'', [[January 9]] [[2007]].</ref><ref>"[http://starbulletin.com/2006/01/13/news/story03.html Inquiry prompts reporter's dismissal]", ''[[Honolulu Star-Bulletin]]'', [[January 13]] [[2007]].</ref>
-In July 2007 Wikipedia was the focus of a 30 minute documentary on BBC Radio 4 <ref> [http://www.bbc.co.uk/radio4/factual/pip/efv21/ Radio 4 Documentary]</ref> which argued that, with increased usage and awareness, the number of references to Wikipedia in popular culture is such that the term is one of a select band of [[21st Century]] nouns that are so familiar ([[Google]],[[Facebook]], [[YouTube]]) that they no longer need explanation<ref> and are on a par with such [[20th Century]] terms as [[The Hoover Company|hoovering]] or [[coca-cola|coke]] </ref>. Many parody Wikipedia's openness, with characters vandalizing or modifying the online encyclopedia project's articles. Notably, comedian [[Stephen Colbert]] has parodied or referenced Wikipedia on numerous episodes of his show ''[[The Colbert Report]]'' and coined the related term "wikiality".<ref name="wikiality" /> Websites such as [[Uncyclopedia]] have also been set up parodying Wikipedia; its Main Page claims that it is the "content-free encyclopedia that anyone can edit,"<ref>{{cite web
+-->
+
+Wikipedia has also been used as a source in [[journalism]],<ref>{{cite news |title=Wikipedia in the Newsroom |url=http://www.ajr.org/Article.asp?id=4461 |date=[[February 2008|February]]/[[March 2008]] |publisher=[[American Journalism Review]] |first=Donna |last=Shaw |accessdate=2008-02-11}}</ref> sometimes without attribution, and several reporters have been dismissed for plagiarizing from Wikipedia.<ref>Shizuoka newspaper plagiarized Wikipedia article, ''Japan News Review'', [[July 5]] [[2007]]</ref><ref> "[http://www.mysanantonio.com/news/metro/stories/MYSA010307.02A.richter.132c153.html Express-News staffer resigns after plagiarism in column is discovered]", ''[[San Antonio Express-News]]'', [[January 9]] [[2007]].</ref><ref>"[http://starbulletin.com/2006/01/13/news/story03.html Inquiry prompts reporter's dismissal]", ''[[Honolulu Star-Bulletin]]'', [[January 13]] [[2007]].</ref>
+In July 2007, Wikipedia was the focus of a 30 minute documentary on [[BBC Radio 4]]<ref>{{cite web|url=http://www.bbc.co.uk/radio4/factual/pip/efv21/|title=Radio 4 Documentary}}</ref> which argued that, with increased usage and awareness, the number of references to Wikipedia in popular culture is such that the term is one of a select band of 21st century nouns that are so familiar ([[Google]], [[Facebook]], [[YouTube]]) that they no longer need explanation and are on a par with such 20th century terms as [[The Hoover Company|Hoovering]] or [[Coca-Cola|Coke]]. Many parody Wikipedia's openness, with characters vandalizing or modifying the online encyclopedia project's articles. Notably, comedian [[Stephen Colbert]] has parodied or referenced Wikipedia on numerous episodes of his show ''[[The Colbert Report]]'' and coined the related term "[[wikiality]]".<ref name="wikiality" /> Websites such as [[Uncyclopedia]] have also been set up parodying Wikipedia; its [http://uncyclopedia.org/wiki/Main_Page Main Page] claims that it is the "content-free encyclopedia that anyone can edit,"<ref>{{cite web
 |url=http://uncyclopedia.org/index.php?title=Main_Page&oldid=1497858
 |title=Main Page
 |accessdate=2007-01-28
 |date=[[2007-01-26]]
 |work=Uncyclopedia
-}}</ref> parodying the English Wikipedia's welcome message on its [http://en.wikipedia.org/ Main Page].
+}}</ref> parodying the English Wikipedia's welcome message on its [http://en.wikipedia.org/wiki/Main_Page Main Page].
 
-== Related projects ==
-A number of interactive multimedia encyclopedias incorporating entries written by the public existed long before Wikipedia was founded. The first of these was the 1986 [[BBC Domesday Project]], which included text (entered on [[BBC Micro]] computers) and photographs from over 1 million contributors in the [[UK]], and covering the geography, art and culture of the [[UK]]. This was the first interactive multimedia encyclopedia (and was also the first major multimedia document connected through internal links), with the majority of articles being accessible through an interactive map of the [[UK]]. The user-interface and part of the content of the Domesday Project have now been emulated on a website<ref name="Domesday Project">[http://www.domesday1986.com/ Web-based emulator of the Domesday Project User Interface] and data from the Community Disc (contributions from the general public) -- most articles can be accessed using the interactive map</ref>. One of the most successful early online encyclopedias incorporating entries by the public was [[h2g2]], which was also created by the [[BBC]]. The h2g2 encyclopedia was relatively light-hearted, focusing on articles which were both witty and informative. Both of these projects had similarities with Wikipedia, but neither gave full editorial freedom to public users.
+Wikipedia has also created an impact upon forms of media. Some media sources satirize Wikipedia's susceptibility to inserted inaccuracies, such as a front-page article in ''[[The Onion]]'' in July 2006 with the title "Wikipedia Celebrates 750 Years of American Independence",<ref>{{cite web|url=http://www.theonion.com/content/node/50902 |title=Wikipedia Celebrates 750 Years Of American Independence |accessmonthday= [[October 15]] |accessyear=[[2006]] |year=2006 |work=[http://www.theonion.com/content/index The Onion]}}</ref> while others may draw upon Wikipedia's statement that anyone can edit, such as "[[The Negotiation]]", an episode of ''[[The Office (U.S. TV series)|The Office]]'', where character [[Michael Scott (The Office)|Michael Scott]] said that "Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject, so you know you are getting the best possible information", and a select few parody Wikipedia's policies, such as the ''xkcd'' strip named "Wikipedian Protester", that also included the joke "[[Wikipedia:Protection policy|Semi-protect]] the Constitution!"
 
-Wikipedia has also spawned several sister projects. The first, "''In Memoriam: September 11<!--Do not reformat this date, it is quoted--> Wiki''",<ref>{{cite web|url=http://sep11memories.org/|title=sep11memories.org/<!--INSERT TITLE-->|accessdate=2007-02-06}}</ref> created in October 2002,<ref>[http://sep11memories.org/index.php?title=In_Memoriam&oldid=1502 First edit to the wiki] In Memoriam: September 11 wiki ([[October 28]] [[2002]])</ref> detailed the [[September 11, 2001 attacks]]; this project was closed in October 2006.<ref>"[http://sep11memories.org/index.php?title=In_Memoriam&oldid=11355 In Memoriam]",In Memoriam: September 11 Wiki ([[October 31]] [[2006]])</ref> [[Wiktionary]], a dictionary project, was launched in December 2002;<ref>"[http://meta.wikimedia.org/w/index.php?title=Wikimedia_News&diff=prev&oldid=4133 Announcement of Wiktionary's creation]", [[December 12]] [[2002]]. Retrieved on [[2007-02-02]].</ref> [[Wikiquote]], a collection of quotations, a week after Wikimedia launched, and [[Wikibooks]], a collection of collaboratively written free books, the next month. Wikimedia has since started a number of other projects.<ref name="OurProjects">"[http://wikimediafoundation.org/wiki/Our_projects Our projects]", [[Wikimedia Foundation]]. Retrieved on [[2007-01-24]]</ref>
+The first documentary film about Wikipedia, entitled ''[[Truth in Numbers: The Wikipedia Story]]'', is scheduled for 2008 release. Shot on several continents, the film will cover the history of Wikipedia and feature interviews with Wikipedia editors around the world.<ref>{{cite web|url=http://wikidocumentary.wikia.com/wiki/Main_Page|title=wikidocumentary.wikia.com/wiki/Main_Page<!--INSERT TITLE-->}}</ref><ref>{{cite web| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/11/PKGRJN87UI1.DTL| title=Industry Buzz| last=Hart| first=Hugh| date=[[March 11]], [[2007]]| publisher=[[San Francisco Chronicle|SFGate.com]]}}</ref>
 
-A similar non-wiki project, the [[GNUpedia]] project, co-existed with Nupedia early in its history; however, it has been retired and its creator, [[free software|free-software]] figure [[Richard Stallman]], has lent his support to Wikipedia.<ref>{{cite news|author=[[Richard Stallman]]|title=The Free Encyclopedia Project|date=1999|publisher=[[Free Software Foundation]]|url=http://www.gnu.org/encyclopedia/encyclopedia.html}}</ref>
+On [[September 28]], [[2007]], Italian politician [[Franco Grillini]] raised a parliamentary question with the Minister of Cultural Resources and Activities about the necessity of [[Panoramafreiheit |freedom of panorama]]. He said that the lack of such freedom forced Wikipedia, "the seventh most consulted website" to forbid all images of modern Italian buildings and art, and claimed this was hugely damaging to tourist revenues.<ref>{{cite web|url=http://www.grillini.it/show.php?4885|title=Comunicato stampa. On. Franco Grillini. Wikipedia. Interrogazione a Rutelli. Con "diritto di panorama" promuovere arte e architettura contemporanea italiana. Rivedere con urgenza legge copyright|date=12 October 2007}}</ref>
 
-Other websites centered on collaborative [[knowledge base]] development have drawn inspiration from or inspired Wikipedia. Some, such as [[Susning.nu]], ''[[Enciclopedia Libre]]'', and [[WikiZnanie]] likewise employ no formal review process, whereas others use more traditional [[peer review]], such as the expert-written ''[[Stanford Encyclopedia of Philosophy]]'', [[H2G2|h2g2]] and [[Everything2]].
+On September 16, 2007, ''[[The Washington Post]]'' reported that Wikipedia has become a focal point in the 2008 election campaign, saying, "Type a candidate's name into Google, and among the first results is a Wikipedia page, making those entries arguably as important as any ad in defining a candidate. Already, the presidential entries are being edited, dissected and debated countless times each day."<ref>{{cite news
+|url=http://www.washingtonpost.com/wp-dyn/content/article/2007/09/16/AR2007091601699_pf.html
+|title=On Wikipedia, Debating 2008 Hopefuls' Every Facet
+|author=Jose Antonio Vargas
+|publisher=The Washington Post
+|date=2007-09-17}}
+</ref> An October 2007 Reuters article, entitled "Wikipedia page the latest status symbol", reported the recent phenomenon of how having a Wikipedia article vindicates one's notability.<ref>{{cite news
+|url=http://www.reuters.com/article/domesticNews/idUSN2232893820071022?sp=true
+|title=Wikipedia page the latest status symbol
+|author=Jennifer Ablan
+|publisher=Reuters
+|date=2007-10-22
+|accessdate=2007-10-24}}</ref>
 
-[[Conservapedia]] is a wiki encyclopedia project with goals similar to Wikipedia, but attempts to write articles from a [[Social conservatism|socially]] and [[Fiscal conservatism|economically conservative]] perspective. It was started in late 2006 by Andrew Schlafly, a son of [[Phyllis Schlafly]], who felt Wikipedia had a [[Modern liberalism in the United States|liberal]] bias in its articles. Conservapedia is not affiliated with Wikipedia or Wikipedia's parent organization, the [[Wikimedia Foundation]], although both use the [[free software|free]] [[MediaWiki]] software to power their site.
+Wikipedia won two major awards in May 2004.<ref>"[http://meta.wikimedia.org/wiki/Trophy_box Trophy Box]", [[Wikipedia:Meta|Meta-Wiki]] ([[March 28]] [[2005]]).</ref> The first was a Golden Nica for Digital Communities of the annual [[Prix Ars Electronica]] contest; this came with a €10,000 (£6,588; $12,700) grant and an invitation to present at the PAE Cyberarts Festival in [[Austria]] later that year. The second was a Judges' [[Webby Awards|Webby Award]] for the "community" category.<ref>{{cite web|url=http://www.webbyawards.com/webbys/winners-2004.php|title=Webby Awards 2004|publisher=The International Academy of Digital Arts and Sciences|date=2004|accessdate=2007-06-19}}</ref> Wikipedia was also nominated for a "Best Practices" Webby. In September 2004, the [[Japanese Wikipedia]] was awarded a Web Creation Award from the Japan Advertisers Association. This award, normally given to individuals for great contributions to the Web in Japanese, was accepted by a long-standing contributor on behalf of the project.
+
+In a 2006 ''Multiscope'' research study, the [[Dutch Wikipedia]] was rated the third best [[Dutch language]] site, after [[Google]] and [[Gmail]], with a score of 8.1.<ref> [http://www.multiscope.nl/organisatie/nieuws/sberichten/nederlandse-wikipedia-groeit-als-kool.html Nederlandse Wikipedia groeit als kool] (Website in Dutch Language), Recovered [[December 27]] [[2006]]</ref> On [[January 26]] [[2007]], Wikipedia was also awarded the fifth highest brand ranking by the readers of brandchannel.com, receiving 15% of the votes in answer to the question "Which brand had the most impact on our lives in 2006?"<ref>{{cite news |first=Anthony |last=Zumpano |title=Similar Search Results: Google Wins |url=http://www.brandchannel.com/features_effect.asp?pf_id=352 |publisher=[[Interbrand]] |date=[[2007-01-29]] |accessdate=2007-01-28 }}</ref> [[Jimmy Wales]] was named one of the 100 most influential people in the world by ''[[Time (magazine)|TIME Magazine]]'' in 2006.<ref>{{cite news |first=Chris |last=Anderson |title=Jimmy Wales |url=http://www.time.com/time/magazine/article/0,9171,1187286,00.html |publisher=[[Time (magazine)|TIME]] |date=[[2006-04-30]] |accessdate=2006-12-18 }}</ref> In 2006 and 2007, the [[Russian Wikipedia]] won the "Science and education" category of the "[[Runet Prize]]" (Russian: ''[[:ru:Премия Рунета|Премия Рунета]]'') award, supervised<ref>{{ru icon}}[http://lenta.ru/news/2005/08/29/premia/ Major award of Russian Internet became a state one] — [[Lenta.Ru]], August 29 2005</ref> by the [[Politics of Russia|Russian government]] agency [[Rospechat|FAPMC]].
+
+In November 2006, [[Turkish Wikipedia]] was nominated under the Science category for the ''Altın Örümcek Web Ödülleri'' (Golden Spider Web Awards), which are commonly known as the "Web Oscars" for Turkey. In January 2007, Turkish Wikipedia was given the award for "Best Content" in this competition. The award was given in a ceremony on [[January 25]] [[2007]] at Istanbul Technical University.
+
+==Wikia and Wikimedia==
+The [[Wikimedia Foundation]] shares hosting and bandwidth costs with [[Wikia]]. The Wikimedia Foundation received some donated office space from Wikia Inc. during the fiscal year ending June 30, 2006."<ref> [http://upload.wikimedia.org/wikipedia/foundation/4/49/Wikimedia_2007_fs.pdf Wikimedia Foundation 2006-2007 Audit] page 9 says "The Organization shares hosting and bandwidth costs with Wikia, Inc., a for-profit company founded by the same founder as Wikimedia Foundation, Inc. Included in accounts receivable at June 30, 2007 is $6,000 due from Wikia, Inc. for these costs. The Organization received some donated office space from Wikia Inc. during the year ended June 30, 2006 valued at $6,000. No donation of the office space occurred in 2007.
+Through June 30, 2007, two members of the Organization’s
+board of directors also serve as employees, officers, or
+directors of Wikia, Inc."</ref>
+
+==Related projects==
+{{sisterlinks}}
+A number of interactive multimedia encyclopedias incorporating entries written by the public existed long before Wikipedia was founded. The first of these was the 1986 [[BBC Domesday Project]], which included text (entered on [[BBC Micro]] computers) and photographs from over 1 million contributors in the [[United Kingdom|UK]], and covering the geography, art and culture of the UK. This was the first interactive multimedia encyclopedia (and was also the first major multimedia document connected through internal links), with the majority of articles being accessible through an interactive map of the UK. The user-interface and part of the content of the Domesday Project have now been emulated on a website.<ref name="Domesday Project">[http://www.domesday1986.com/ Web-based emulator of the Domesday Project User Interface] and data from the Community Disc (contributions from the general public) -- most articles can be accessed using the interactive map</ref> One of the most successful early online encyclopedias incorporating entries by the public was [[h2g2]], which was also created by the [[BBC]]. The h2g2 encyclopedia was relatively light-hearted, focusing on articles which were both witty and informative. Both of these projects had similarities with Wikipedia, but neither gave full editorial freedom to public users.
+
+Wikipedia has also spawned several sister projects. The first, "''In Memoriam: September 11<!--Do not reformat this date, it is quoted--> Wiki''",<ref>{{cite web|url=http://www.sep11memories.org/wiki/In_Memoriam|title=sep11memories.org/<!--INSERT TITLE-->|accessdate=2007-02-06}}</ref> created in October 2002,<ref>[http://www.sep11memories.org/index.php?title=In_Memoriam&oldid=1502 First edit to the wiki] In Memoriam: September 11 wiki ([[October 28]] [[2002]]),</ref> detailed the [[September 11, 2001 attacks]]; this project was closed in October 2006. [[Wiktionary]], a dictionary project, was launched in December 2002;<ref>"[http://meta.wikimedia.org/w/index.php?title=Wikimedia_News&diff=prev&oldid=4133 Announcement of Wiktionary's creation]", [[December 12]] [[2002]]. Retrieved on [[2007-02-02]].</ref> [[Wikiquote]], a collection of quotations, a week after Wikimedia launched, and [[Wikibooks]], a collection of collaboratively written free books, the next month. Wikimedia has since started a number of other projects.<ref name="OurProjects">"[http://wikimediafoundation.org/wiki/Our_projects Our projects]", [[Wikimedia Foundation]]. Retrieved on [[2007-01-24]]</ref>
+
+A similar non-wiki project, the [[GNUPedia]] project, co-existed with Nupedia early in its history; however, it has been retired and its creator, [[free software]] figure [[Richard Stallman]], has lent his support to Wikipedia.<ref name="stallman1999" />
+
+Other websites centered on collaborative [[knowledge base]] development have drawn inspiration from or inspired Wikipedia. Some, such as [[Susning.nu]], ''[[Enciclopedia Libre]]'', and [[WikiZnanie]] likewise employ no formal review process, whereas others use more traditional [[peer review]], such as ''[[Encyclopedia of Life]]'', ''[[Stanford Encyclopedia of Philosophy]]'', [[h2g2]] and [[Everything2]].
 
 Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{cite news
 |first=Holden
 |last=Frith
 |url=http://technology.timesonline.co.uk/tol/news/tech_and_web/the_web/article1571519.ece
 |title=Wikipedia founder launches rival online encyclopedia
-|publisher=[[The Times]]
-|date=March 26, 2007
+|publisher=''[[The Times]]''
+|date=[[March 26]], [[2007]],
 |accessdate=2007-06-27
 |quote=<small>Wikipedia’s de facto leader, Jimmy Wales, stood by the site's format.</small>}}<small> — Holden Frith.</small></ref> said in an interview in regard to the online encyclopedia [[Citizendium]] which is overviewed by experts in their respective fields:<ref name=Orlowski18>
 {{cite news
 |first=Andrew
 |last=Orlowski
-|url=http://www.theregister.co.uk/2006/09/18/sanger_forks_wikipedia/ 
+|authorlink=Andrew Orlowski
+|url=http://www.theregister.co.uk/2006/09/18/sanger_forks_wikipedia/
 |title=Wikipedia founder forks Wikipedia, More experts, less fiddling?
-|publisher=[[The Register]]
-|date=September 18, 2006
+|publisher=''[[The Register]]''
+|date=[[September 18]], [[2006]]
 |accessdate=2007-06-27
 |quote=<small>Larry Sanger describes the Citizendium project as a "progressive or gradual fork", with the major difference that experts have the final say over edits.</small>}}<small> — Andrew Orlowski.</small></ref> "We welcome a diversity of efforts. If Larry's project is able to produce good work, we will benefit from it by copying it back into Wikipedia."<ref name="JayLyman">
 {{cite news
@@ -309,64 +469,79 @@ Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{ci
 |date=September 20, 2006
 |accessdate=2007-06-27}}</ref>
 
-== See also ==
+==See also==
+<!-- Please avoid adding links already in the text and accompanying templates below per guidelines (see WP:ALSO) -->
 {{meta|List of Wikipedias}}
-
-* [[Congressional staffer edits to Wikipedia]]
+* [[USA Congressional staff edits to Wikipedia]]
+* [[Googlepedia]]
 * [[List of encyclopedias]]
-* [[List of Wikipedias]]
 * [[List of wikis]]
 * [[Open content]]
 * [[User-generated content]]
-* [[Wikipedia community]]
+* [[Wikipedia:About]]
+* [[Self-reference]]
+* {{srlink|Wikipedia:Press coverage}}
 
-== References ==
-<div style="height: 220px; overflow: auto; padding: 3px; border:1px solid #AAAAAA; reflist4">
-{{reflist|2}}
-</div>
+== Further reading ==
+===Press coverage===
+*{{cite news |url=http://www.nytimes.com/2007/07/01/magazine/01WIKIPEDIA-t.html?_r=1&ref=magazine&oref=slogin |title=All the News That’s Fit to Print Out |first=Jonathan |last=Dee |publisher=The New York Times Magazine |date=2007-07-01 |accessdate=2008-02-22}}
+*{{cite news |title=Wikipedia 2.0 - now with added trust |url=http://technology.newscientist.com/article/mg19526226.200-wikipedia-20-â-now-with-added-trust.html |date=2007-09-20 |accessdate=2008-02-22 |first=Jim |last=Giles |publisher=New Scientist}}
+*{{cite news |title=Wikipedia Rules |url=http://thephoenix.com/article_ektid52864.aspx |publisher=[[The Phoenix (newspaper)|The Phoenix]] |date=2007-12-02 |accessdate=2008-02-22 |first=Mike Miliard}}
+*{{cite news |url=http://www.time.com/time/magazine/article/0,9171,1066904-1,00.html |title=It's a Wiki, Wiki World |first=Chris |last=Taylor |date=2005-05-29 |publisher=Time |accessdate=2008-02-22}}
 
-== External links ==
-{{sisterlinks}}
+===Academic studies===
+* {{cite journal|author=Ulrike Pfeil, Panayiotis Zaphiris, and Chee Siang Ang|date=2006|title=Cultural differences in collaborative authoring of Wikipedia|journal=Journal of Computer-Mediated Communication|volume=12|issue=1|url=http://jcmc.indiana.edu./vol12/issue1/pfeil.html}}
+* {{cite web|title=Do as I do: leadership in the Wikipedia|author=Joseph M. Reagle Jr.|url=http://reagle.org./joseph/2005/ethno/leadership.html|work=Wikipedia Drafts|date=2005}}
+* {{cite journal |url=http://www.firstmonday.org/issues/issue12_4/wilkinson/index.html |title=Assessing the value of cooperation in Wikipedia |date=[[April 2007]] |first=Dennis M. |last=Wilkinson |co-author=Bernardo A. Huberman |journal=First Monday |volume=12 |issue=4 |accessdate=2008-02-22}}
+* {{cite journal |url=http://www.firstmonday.org/issues/issue12_8/nielsen/index.html |title=Scientific citations in Wikipedia |date=[[August 2007]] |journal=First Monday |volume=12 |issue=8 |accessdate=2008-02-22 |first=Finn Årup |last=Nielsen}}
+
+==External links==
 {{Spoken Wikipedia|Wikipedia.ogg|2005-06-25}}
-
-* [http://www.wikipedia.org Wikipedia] - multilingual portal (contains links to all language editions of the project)
-* [http://dmoz.org/Computers/Open_Source/Open_Content/Encyclopedias/Wikipedia/ Wikipedia] at the [[Open Directory Project]]
-* [http://www.cbc.ca/news/background/tech/wikipedia.html CBC News: I, editor]
-* [http://www.wikihow.com/Constructivly-Edit-Wikipedia Help Edit Wikipedia] A [[wikiHow]] article.
+*[http://www.haaretz.com/hasen/spages/937991.html Your wiki entry counts], Cnaan Liphshiz, ''[[Haaretz]]'', December 25, 2007.
+*[http://www.wikipedia.org/ Wikipedia] - multilingual portal (contains links to all language editions of the project)
+*[http://www.dmoz.org/Computers/Open_Source/Open_Content/Encyclopedias/Wikipedia/ Wikipedia] at the [[Open Directory Project]]
+*[http://www.cbc.ca/news/background/tech/wikipedia.html CBC News: I, editor]
+*[http://www.wikihow.com/Contribute-to-Wikipedia Help Edit Wikipedia] A [[wikiHow]] article.
+*[http://www.cnn.com/2007/TECH/11/01/wikipedia.assignment.ap/index.html Class assignment: Write an original Wikipedia article]
+*[http://chnm.gmu.edu/resources/essays/d/42 Essay about wikipedia]
+==References==
+{{reflist|2}}
 
 {{Wikimedia Foundation}}
 {{Wikipediahistory}}
 {{Wikipedias}}
 
-[[kab:Wikipedia]]
-
 [[Category:Internet history]]
 [[Category:Web 2.0]]
-[[Category:Wikipedia]]
+[[Category:Wikipedia|Wikipedia]]
 [[Category:Free encyclopedias]]
 [[Category:Online encyclopedias]]
 [[Category:General encyclopedias]]
 [[Category:Wikis]]
-[[Category:2001 establishments]]
+[[Category:Internet properties established in 2001]]
 [[Category:Wikimedia projects]]
 [[Category:Spoken articles]]
 
 {{Link FA|it}}
+
 [[af:Wikipedia]]
 [[als:Wikipedia]]
-[[am:ዊኪፔድያ]]
+[[am:ውክፔዲያ]]
 [[ang:Wicipǣdia]]
 [[ar:ويكيبيديا]]
 [[an:Biquipedia]]
+[[arc:ܘܝܟܝܦܕܝܐ]]
 [[roa-rup:Wikipedia]]
-[[frp:Vuiquipèdia]]
+[[frp:Vouiquipèdia]]
 [[ast:Uiquipedia]]
-[[ay:Wikipedia]]
+[[gn:Vikipetã]]
+[[ay:Wikipidiya]]
 [[az:Vikipediya]]
 [[bm:Wikipedia]]
 [[bn:উইকিপিডিয়া]]
 [[zh-min-nan:Wikipedia]]
 [[map-bms:Wikipedia]]
+[[ba:Википедия]]
 [[be:Вікіпедыя]]
 [[be-x-old:Вікіпэдыя]]
 [[bar:Wikipedia]]
@@ -381,8 +556,6 @@ Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{ci
 [[cy:Wicipedia]]
 [[da:Wikipedia]]
 [[de:Wikipedia]]
-[[dv:ވިކިޕީޑިއާ]]
-[[arc:ܘܝܟܝܦܕܝܐ]]
 [[nv:Wikiibíídiiya]]
 [[et:Vikipeedia]]
 [[el:Βικιπαίδεια]]
@@ -393,15 +566,16 @@ Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{ci
 [[fo:Wikipedia]]
 [[fr:Wikipédia]]
 [[fy:Wikipedy]]
+[[ff:Wikipeediya]]
 [[fur:Vichipedie]]
 [[ga:Vicipéid]]
 [[gv:Wikipedia]]
-[[gd:Wikipedia]]
+[[gd:Bhicipèidia]]
 [[gl:Wikipedia]]
 [[gu:વિકિપીડિયા]]
 [[zh-classical:維基大典]]
-[[ko:위키백과]]
 [[hak:Wikipedia]]
+[[ko:위키백과]]
 [[hy:Վիքիփեդիա]]
 [[hi:विकिपीडिया]]
 [[hsb:Wikipedija]]
@@ -412,7 +586,7 @@ Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{ci
 [[bpy:উইকিপিডিয়া]]
 [[id:Wikipedia]]
 [[ia:Wikipedia]]
-[[iu:ᐅᐃᑭᐱᑎᐊ/oikipitia]]
+[[iu:ᐅᐃᑭᐱᑎᐊ/uikipitia]]
 [[ik:Wikipedia]]
 [[os:Википеди]]
 [[is:Wikipedia]]
@@ -420,17 +594,18 @@ Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{ci
 [[he:ויקיפדיה]]
 [[jv:Wikipedia]]
 [[kl:Wikipedia]]
+[[pam:Wikipedia]]
 [[kn:ವಿಕಿಪೀಡಿಯ]]
 [[ka:ვიკიპედია]]
 [[csb:Wikipedijô]]
 [[kk:Уикипедия]]
 [[kw:Wikipedia]]
 [[sw:Wikipedia]]
-[[ht:Wikipedia]]
+[[ht:Wikipedya]]
 [[ku:Wikipedia]]
 [[lad:ויקיפידיה]]
-[[lbe:Wikipedia]]
-[[la:Vicipaedia]]
+[[lbe:Википедия]]
+[[la:Wikipedia]]
 [[lv:Vikipēdija]]
 [[lb:Wikipedia]]
 [[lt:Vikipedija]]
@@ -446,9 +621,9 @@ Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{ci
 [[mt:Wikipedija]]
 [[mi:Wikipedia]]
 [[mr:विकिपिडीया]]
+[[mzn:ویکیپدیا]]
 [[ms:Wikipedia]]
 [[cdo:Wikipedia]]
-[[mo:Википедия]]
 [[mn:Википедиа]]
 [[nah:Huiquipedia]]
 [[na:Wikipedia]]
@@ -462,27 +637,31 @@ Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{ci
 [[nrm:Viqùipédie]]
 [[oc:Wikipèdia]]
 [[ng:Wikipedia]]
+[[ug:Wikipédiye]]
 [[uz:Vikipediya]]
 [[pa:ਵਿਕਿਪੀਡਿਆ]]
 [[pag:Wikipedia]]
 [[pap:Wikipedia]]
+[[ps:پروژه:په هکله]]
 [[pms:Wikipedia]]
 [[nds:Wikipedia]]
 [[pl:Wikipedia]]
 [[pt:Wikipédia]]
+[[crh:Vikipediya]]
 [[ksh:Wikkipedija]]
 [[ro:Wikipedia]]
 [[rmy:Vikipidiya]]
+[[rm:Wikipedia]]
 [[qu:Wikipidiya]]
 [[ru:Википедия]]
-[[war:Wikipedia]]
+[[se:Wikipediija]]
 [[sc:Wikipedia]]
 [[sco:Wikipaedia]]
 [[sq:Wikipedia]]
-[[ru-sib:Википеддя]]
 [[scn:Wikipedia]]
 [[si:විකිපීඩියා]]
 [[simple:Wikipedia]]
+[[sd:وڪيپيڊيا]]
 [[sk:Wikipédia]]
 [[cu:Википедї]]
 [[sl:Wikipedija]]
@@ -493,7 +672,8 @@ Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{ci
 [[fi:Wikipedia]]
 [[sv:Wikipedia]]
 [[tl:Wikipedia]]
-[[ta:விக்கிபீடியா]]
+[[ta:விக்கிப்பீடியா]]
+[[kab:Wikipedia]]
 [[roa-tara:Uicchipèdie]]
 [[tt:Wikipedia]]
 [[tet:Wikipédia]]
@@ -503,18 +683,22 @@ Jimmy Wales, the ''de facto'' leader of Wikipedia,<ref name="defactoleader">{{ci
 [[tpi:Wikipedia]]
 [[chr:ᏫᎩᏇᏗᏯ]]
 [[chy:Wikipedia]]
-[[ve:Wikipedia]]
 [[tr:Vikipedi]]
+[[tk:Wikipediýa]]
 [[udm:Википедия]]
+[[bug:Wikipedia]]
 [[uk:Вікіпедія]]
 [[vec:Wikipedia]]
 [[fiu-vro:Vikipeediä]]
 [[wa:Wikipedia]]
 [[vls:Wikipedia]]
-[[wo:Wikipediyaa]]
+[[war:Wikipedia]]
+[[wo:Wikipedia]]
 [[wuu:维基百科]]
 [[yi:‫װיקיפעדיע]]
+[[yo:Wikipedia]]
 [[zh-yue:維基百科]]
 [[diq:Wikipediya]]
+[[zea:Wikipedia]]
 [[bat-smg:Vikipedėjė]]
 [[zh:维基百科]]
