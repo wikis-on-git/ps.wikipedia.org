@@ -1,3 +1,23 @@
+{{Infobox Software
+| name                   = زکر
+| logo                   = [[Image:Zekr-logo-small.png|120px|Zekr Logo]]
+| screenshot             = [[Image:Mixed-en.png|200px|Zekr in English (mixed layout)]]
+| caption                = The Zekr Project
+| developer              = [[Mohsen Saboorian]]
+| released               = [[January 2005]]
+| frequently_updated     = yes<!-- Release version update? Don't edit this page, just click on the version number! -->
+| programming language   = [[Java (programming language)]]
+| operating system       = [[Cross-platform]]
+| language               = [[Arabic]], [[Bosnian language|Bosnian]], [[Dutch language|Dutch]], [[English language|English]], [[French language|French]], [[German language|German]], [[Indonesian]], [[Kurdish language|Kurdish]], [[Malay language|Malay]], [[Persian language|Persian]], [[Pashto]], [[Russian language|Russian]], [[Spanish language|Spanish]], [[Tatar]], [[Turkish language|Turkish]], [[Urdu]], [[Uzbek language|Uzbek]]
+<!--| platform               = [[Java (programming language)]]-->
+| genre                  = [[Qur'an]], [[Religious_texts]]
+| license                = [[GNU General Public License|GPL]]
+| website                = [http://zekr.org zekr.org]
+}}
+'''Zekr''' is an [[open source]] [[Quran]]ic desktop application.
+It is an under-development project, but there are always stable releases available for download. The current release version is 0.6.6. It now supports managed/scoped searching of the whole Quran and translations, with matching and non-matching [[Diacritic|diacritics]] plus [[translation]] and [[Theme (computing)|theme]] support. More, in the current release, it supports [[Bookmark_%28books%29|Bookmark Set]] management, including import/export, multiple bookmark sets, etc.
+
+Zekr comes with an installer for [[Windows]] and an [[Application bundle]] for [[Mac OS|Mac]]. It can also be run on [[Linux]] machines (a Debian installer package is available).
 Zekr is an open platform Quran study tool for simply browsing and researching on the Holy Quran. It is a Quran-based project, planned to be a universal, open source, and cross-platform application to perform most of the usual refers to Quran. The main idea is to build an as generic as possible platform to accept different Islamic resources. 
 
 Zekr is written in Java, on Eclipse platform, and uses SWT as widget toolkit. 
