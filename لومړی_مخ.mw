@@ -1,8 +1,43 @@
 {| cellpadding="10" border="0" width="100%" cellspacing="2" style="border-width: 1.5px; border-color:#006699; border-style: solid"
 |---
 
-د ويکپېډيا پښتو پاڼې ته [[ښه راغلاست پاڼه|ښه راغلاست]]. ويکيپېډيا يوه څو ژبنۍ پروژه ده چې د يوې جامع پوهنغونډ په توګه  خپلواکه مېنځپانګه لري. دا پروژه د لومړي ځل لپاره په انګليسي ژبه  پېل شوې، دغه پروژه (د ويکيپېډيا پښتو وېبپاڼه)  د 2005 کال دمئ په مياشت کې پېل شوې او تر دې دمه {{NUMBEROFARTICLES}} ليکنې په پښتو ژبه لري. تاسو هم کولای شۍ چې په دغه پوهنغونډ کې برخه وال شی او  خپلې مقالې خپرې کړۍ  ددې کار دکړنې لپاره  تاسو لومړی لارښوونيزې پاڼې ته لاړ شی او وروسته ئې بيا په آزمېينتون کې و آزمويۍ.
-د لاندينيو سرليکونو تر لاندې ډېرې مقالې نه دي ليکل شوي، خو مونږ پدې هيله يو چې د يو بل تر مېنځ ګډه کارملتيا به مو په دې وتوانوي چې په پښتو ژبه يو ګڼ برېښنيک پوهنغونډ جوړ کړو. که چېرته کوم چا د دغو لاندينيو سرليکنو په اړه وېبپاڼې جوړې کړي وي، نو مهرباني وکړۍ او د خپلې وېبپاڼې تړونی د اړوندو سرليکنو ترلاندې ځای کړی.
+<div id="mainpage"></div><!--
+
+
+------------------------------Banner across top of page------------------------------>
+{| style="width:100%; text-align:right; background:#fcfcfc; margin-top:+.9em; border:1px solid #ccc;"
+|style="width:56%; color:#000"| <!--
+
+<!----------"ويکيپېډيا ته ښه راغلاست" او د ليکنو شمېر---------->
+{| style="width:280px; border:solid 0px; background:none;"
+|style="width:280px; text-align:center; white-space:nowrap; color:#000;"|
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[ويکيپېډيا]] ته ښه راغلاست</div>
+<div style="top:+0.2em; font-size:95%;">يو وړيا پوهنغونډ چې [[ويکيپېډيا:پېژندنه|هرڅوک&nbsp;يې&nbsp;سمادولای]] شي.</div>
+<div id="articlecount" style="width:100%; text-align:center; font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] ليکنې په پښتو ژبه لري</div>
+|}<!--
+
+<!----------Portal list on righthand side---------->
+|style="width:11%; font-size:95%; color:#000;"|
+*[[Portal:هنرونه|هنرونه]]
+*[[Portal:ژوندليکونه|ژوندليکونه]]
+*[[Portal:جغرافيه|جغرافيه]]
+|style="width:11%; font-size:95%;"|
+*[[Portal:تاريخ|تاريخ]]
+*[[Portal:شمېرپوهنه|شمېرپوهنه]]
+*[[Portal:ساينس|ساينس]]
+|style="width:11%; font-size:95%;"|
+*[[Portal:ټولنه|ټولنه]]
+*[[Portal:تخنيک|تخنيک]]
+*'''[[Portal:د ورټکونو لړليک|ټول&nbsp;ورټکونه]]'''
+|}<!--
+
+----------Strapline immediately below banner---------->
+{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
+|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[ويکيپېډيا:په هکله|کتنه]]&nbsp;'''·''' [[ويکيپېډيا:لارښودليکچه|سمادول]]&nbsp;'''·''' [[ويکيپېډيا:پوښتنې|پوښتنې]]&nbsp;'''·''' [[لارښود:نيوليک|لارښود]]
+|style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
+[[ويکيپېډيا:نيوليک|نيوليک]]&nbsp;'''·''' [[ويکيپېډيا:د ټولۍ ليکلړ|ټولۍ]]&nbsp;'''·''' [[ويکيپېډيا:Featured content|Featured content]]&nbsp;'''·''' [[ويکيپېډيا:چټک ليکلړ|A–Z ليکلړ]]
+|}
+{{د لومړي مخ سرليک}}<!--
 <br>که غواړئ چي په ويکيپېډيا کښي د زړو مقالو دسمون او نويو مقالو د زياتولو چل زده کړئ نو لاندي کليک وکړئ.
 <br> 
 [[ويکيپېډيالارښود|دويکيپيډيا سره کارکول زده کړئ!]]
