@@ -1,5 +1,5 @@
 <!-- begin date code -->
-<div style="border:1px solid #99b3ff; background: infobackground; text-align: center; padding:3px; float:left; font-size: smaller; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 1.144;">
+<div style="border:1px solid #99b3ff; background: infobackground; text-align: center; padding:3px; float:left; font-size: smaller; font-family:Tahoma; line-height: 1.144;">
 <div style="width:50">{{CURRENTDAYNAME}}</div>
 <div style="font-size: x-large; width: 50; color: #aaa;">{{CURRENTDAY}}</div>
 <div style="width: 50;"> {{CURRENTMONTHNAMEGEN}}</div>
