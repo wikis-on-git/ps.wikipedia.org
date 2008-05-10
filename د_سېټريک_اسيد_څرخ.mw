@@ -104,7 +104,7 @@ Products of the first turn of the cycle are: ''one GTP, three NADH, one FADH<sub
 Because two acetyl-CoA [[molecules]] are produced from each [[glucose]] molecule, two cycles are required per glucose molecule. Therefore, at the end of all cycles, the products are: two GTP, six NADH, two FADH<sub>2</sub>, and four CO<sub>2</sub>''
 
 {| class="wikitable"
-| '''Description''' || '''Reactants''' || '''Products''' 
+| '''څرګندونه''' || '''تعاملي توکي''' || '''توليدات''' 
  |- 
  | The sum of all reactions in the citric acid cycle is: || Acetyl-CoA + 3 NAD<sup>+</sup> + FAD + GDP + P<sub>i</sub> + 2 H<sub>2</sub>O  || → CoA-SH + 3 NADH + 3 H<sup>+</sup> + FADH<sub>2</sub> + GTP + 2 CO<sub>2</sub>
  |- 
