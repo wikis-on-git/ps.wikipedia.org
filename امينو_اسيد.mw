@@ -84,7 +84,7 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 ! ۱-حرفي لنډون
 ! قطبي اړخي زنځير
 ! اسيدي يا القلي اړخي زنځير
-! [[Hydropathy index]]<ref>{{cite journal | author = Kyte J & RF Doolittle | title = A simple method for displaying the hydropathic character of a protein | journal = J. Mol. Biol. | issue = 157 | pages = 105-132 | year = 1982 | id=PMID 7108955 }}</ref>
+! [[هايډروپاتي انډېکس]]<ref>{{cite journal | author = Kyte J & RF Doolittle | title = A simple method for displaying the hydropathic character of a protein | journal = J. Mol. Biol. | issue = 157 | pages = 105-132 | year = 1982 | id=PMID 7108955 }}</ref>
 |- align="center"
 | [[آلانين]]
 | Ala
@@ -97,7 +97,7 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 | Arg
 | R
 | قطبي
-| basic (strongly)
+| قليايي (ځواکمن)
 | -4.5
 |- align="center"
 | [[آسپراګين]]
@@ -146,7 +146,7 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 | His
 | H
 | قطبي
-| basic (weakly)
+| قليايي (کمزوری)
 | -3.2
 |- align="center"
 | [[آيسوليوسين]]
@@ -167,7 +167,7 @@ Hydrophilic and hydrophobic interactions of the proteins do not have to rely onl
 | Lys
 | K
 | قطبي
-| basic
+| قليايي
 | -3.9
 |- align="center"
 | [[مېتيونين]]
