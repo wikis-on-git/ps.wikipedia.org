@@ -128,7 +128,7 @@ Certain brain disorders are treated by brain surgeons (neurosurgeons) while othe
 ===د دې زده کړې ډګرونه===
 [[Neuroscience]] seeks to understand the nervous system, including the brain, from a biological and [[computational neuroscience|computational]] perspective. [[Psychology]] seeks to understand behavior and the brain. The terms [[neurology]] and psychiatry usually refer to [[medicine|medical]] applications of neuroscience and psychology respectively. [[Cognitive science]] seeks to unify neuroscience and psychology with other fields that concern themselves with the brain, such as [[computer science]] ([[artificial intelligence]] and similar fields) and [[philosophy]].
 
-===Methods of observation===
+===د کتنو چلندلارې===
 {{main|neuroimaging}}
 
 ====اېلېکټروفيزيالوژي====
@@ -140,7 +140,7 @@ By placing electrodes on the scalp one can record the summed electrical activity
 ====MEG====
 Apart from measuring the electric field around the skull it is possible to measure the magnetic field directly in a technique known as [[magnetoencephalography]] (MEG). This technique has the same temporal resolution as EEG but much better spatial resolution, although admittedly not as good as fMRI. The main advantage over fMRI is a direct relationship between neural activation and measurement.
 
-====fMRI and PET====
+====fMRI او PET====
 	
 
 [[Image:Pnsagittal.jpg|thumb|A scan of the brain using fMRI]]
@@ -150,7 +150,7 @@ Functional magnetic resonance imaging (fMRI) measures changes in [[blood flow]] 
 ====Behavioral====
 Behavioral tests can measure symptoms of disease and mental performance, but can only provide indirect measurements of brain function and may not be practical in all animals. In humans however, a neurological exam can be done to determine the location of any trauma, [[lesion]], or [[tumor]] within the brain, brain stem, or spinal cord.
 
-====Anatomical====
+====اناتوميک====
 [[post-mortem|Autopsy]] analysis of the brain allows for the study of anatomy and [[protein]] expression patterns, but is only possible after the human or animal is dead. [[Magnetic resonance imaging]] (MRI) can be used to study the anatomy of a living creature and is widely used in both research and medicine.
 
 ===نورې څېړنې===
