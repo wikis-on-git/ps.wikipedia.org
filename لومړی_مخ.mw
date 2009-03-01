@@ -1,84 +1,136 @@
-{{ويکيپېډيا:لومړی مخ/سرليک|د ويکيپېډيا درنو ليکونکيو! د همدې پوهنغونډ د انګرېزي ليکنو په ژباړه کې زموږ سره [[:وېشنيزه:د ژباړې لپاره نومول شوي مخونه|مرسته وکړۍ]]}}
-{| style="width:100%; background-color:transparent;"
-|-
-| width="70%" style="vertical-align:top; border:1px solid #ccc; background:#fff; padding:.5em;" colspan="2" |
+<font face="Tahoma,microsoft sans serif,Pokhto,Pashto Kror Asiatype,tahoma">
+<big>
 
-<div id="لومړی مخ"></div><!--
+{| cellpadding="10" border="0" width="100%" cellspacing="2" style="border-width: 1.5px; border-color:#006699; border-style: solid"
+|---------------
+| width="100%" align="center" bgcolor="#E1ECF7" | <font size="+3" color="#000000" face="microsoft sans serif,Pashto Kror Asiatype,tahoma">
+
+</font><br><br>
+<font face="Tahoma,microsoft sans serif,Pashto Kror Asiatype,Pokhto,tahoma">
+<big>
+
+{| cellpadding="10" border="0" width="100%" cellspacing="2" style="border-width: 1.5px; border-color:#c1ccd7; border-style: solid"
+|---------------
+| width="100%" align="center" bgcolor="#E1ECF7" | <font size="+3" color="#000000" face="Tahoma,Pashto Kror Asiatype,microsoft sans serif,pokhto ">
 
 
-------------------------------Banner across top of page------------------------------>
-{| style="width:100%; text-align:right; background:#fcfcfc; margin-top:+.9em; border:1px solid #ccc;"
-|style="width:56%; color:#000"| <!--
 
-<!----------"ويکيپېډيا ته ښه راغلاست" او د ليکنو شمېر---------->
-{| style="width:280px; border:solid 0px; background:none;"
-|style="width:280px; text-align:center; white-space:nowrap; color:#000;"|
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[ويکيپېډيا]] ته ښه راغلاست</div>
-<div style="top:+0.2em; font-size:95%;">يو وړيا پوهنغونډ چې [[ويکيپېډيا:پېژندنه|هرڅوک&nbsp;يې&nbsp;سمادولای]] شي.</div>
-<div id="articlecount" style="width:100%; text-align:center; font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] ليکنې په پښتو ژبه لري</div>
-|}<!--
+[[Image:PashtoWikipedia.JPG]]
 
-<!----------Portal list on righthand side---------->
-|style="width:11%; font-size:95%; color:#000;"|
-*[[Portal:هنرونه|هنرونه]]
-*[[Portal:ژوندليکونه|ژوندليکونه]]
-*[[Portal:جغرافيه|جغرافيه]]
-|style="width:11%; font-size:95%;"|
-*[[Portal:تاريخ|تاريخ]]
-*[[Portal:شمېرپوهنه|شمېرپوهنه]]
-*[[Portal:ساينس|ساينس]]
-|style="width:11%; font-size:95%;"|
-*[[Portal:ټولنه|ټولنه]]
-*[[Portal:تخنيک|تخنيک]]
-*'''[[Portal:د ورټکونو لړليک|ټول&nbsp;ورټکونه]]'''
-|}<!--
+<font face="Pashto Kror Asiatype">
+دويکپېډيا پښتو پاڼې ته [[ښه راغلاست پاڼه|ښه راغلاست]].'''ويکيپېډيا يوه څو ژبنۍ پروژه ده چې د يوې جامع پوهنغونډ په توګه  خپلواکه مېنځپانګه لري. دا پروژه د لومړي ځل لپاره په انګليسي ژبه  پېل شوې، دغه پروژه (د ويکي پېډيا پښتو وېبپاڼه)  د 2005 کال دمئ په مياشت کې پېل شوې او تر دې دمه {{NUMBEROFARTICLES}} ليکنې په پښتو ژبه لري. تاسو هم کولای شۍ چې په دغه پوهنغونډ کې برخه وال شی او  خپلې مقالې خپرې کړۍ  ددې کار دکړنې لپاره  تاسو لومړی لارښوونيزې پاڼې ته لاړ شی او وروسته ئې بيا په آزمېينتون کې و آزمويۍ.
+'''د لاندينيو سرليکونو تر لاندې ډېرې مقالې نه دي ليکل شوي، خو مونږ پدې هيله يو چې د يو بل تر مېنځ ګډه کارملتيا به مو په دې وتوانوي چې په پښتو ژبه يو ګڼ برېښنيک پوهنغونډ جوړ کړو. که چېرته کوم چا د دغو لاندينيو سرليکنو په اړه وېبپاڼې جوړې کړي وي، نو مهرباني وکړۍ او د خپلې وېبپاڼې تړونی د اړوندو سرليکنو ترلاندې ځای کړی.'''
+<br>که غواړئ چي په ويکيپېډيا کښي د زړو مقالو دسمون او نويو مقالو د زياتولو چل زده کړئ نو لاندي کليک وکړئ.
+<br><br> 
 
-----------Strapline immediately below banner---------->
-{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
-|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[ويکيپېډيا:په اړه|کتنه]]&nbsp;'''·''' [[ويکيپېډيا:لارښودليکچه|سمادول]]&nbsp;'''·''' [[ويکيپېډيا:پوښتنې|پوښتنې]]&nbsp;'''·''' [[لارښود:نيوليک|لارښود]]
-|style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
-[[ويکيپېډيا:نيوليک|نيوليک]]&nbsp;'''·''' [[ويکيپېډيا:د ټولۍ ليکلړ|ټولۍ]]&nbsp;'''·''' [[ويکيپېډيا:مستنده توکي|مستنده توکي]]&nbsp;'''·''' [[ويکيپېډيا:چټک ليکلړ|A–Z ليکلړ]]
-|}
-{{د لومړي مخ سرليک}} 
-<center>[[ويکيپېډيالارښود|دويکيپيډيا سره کارکول زده کړئ!]]
-</center>
-*********************************************************
-<big><p align="center">تاسو کولای شی په ډېره آسانه توګه دلته نوې زياتونې وکړی</big>
-<inputbox>
-bgcolor=#F0F0FF
-type=create
-</inputbox>
-{{ليکلړ}}
-</td></tr></table><br>
-*********************************************************
+<font face=" pashto Kror Asiatype " size="5" color="#0000FF"> 
+[[ويکيپېډيالارښود|دويکيپيډيا سره کارکول زده کړئ!]]
+<br><br><br><br>
+
+<font face=" pashto Kror Asiatype " size="5" color="#0000FF">
+[[کمېټه|که غواړئ چي دپښتو ويکيپېډيا د کمېټې غړی شئ نو دلته کليک وکړئ!]]
+
+<br><br><br><br>
+
+<font size="4" face="Pashto Kror Asiatype" ">
+تاسو کولای شئ په ډېره اسانه توگه دلته زياتونې وکړئ'''
+
+{| cellpadding="0" cellspacing="0" border="0"
+|----- valign="top"
+! style="background-color: #e2e2ff; border: 2px solid #e2e2ff; border-bottom: none; padding-top: 0.1em; padding-bottom: 0.1em; font-size: large;" width="50%" |
+
+<font face="Pashto Kror Asiatype">
+'''پوهنغونډ'''
 __NOTOC__
-|-<!-----------------------د ويکيپېډيا مېنځپانګه ------------------------>
-{|style="border-spacing:8px; margin:0px -8px;"
-|class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;"|
-{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5fffa;"
-! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:center; color:#000; padding:0.2em 0.4em;">مېنځپانګه</h2>
-|-
-|style="color:#000;"| {{د ويکيپېډيا مېنځپانګه}}
-|-
+! &nbsp;
+! style="background-color: #faf9b2; border: 2px solid #faf9b2; border-bottom: none; padding-top: 0.1em; padding-bottom: 0.1em; font-size: large;" width="50%;" |
+
+<font face="Pashto Kror Asiatype">
+'''د ويکيپېډيا ټولنه'''
+|----- valign="top"
+| style="background-color: #f8f8ff; border: 2px solid #e2e2ff; border-top: none; padding: 0.6em; padding-top: none;" |
+
+=== <font face="Pashto Kror Asiatype">'''ژوندليکونه''' ===
+
+<font face="Pashto Kror Asiatype">
+[[لوبګران]] - [[هنرمندان]] - [[ليکوالان]] - [[شاعران]] - [[ډرامه ليکونکي]] - [[کمپوزران]] - [[موسيقي جوړونکي]] - [[سندرغاړي]] - [[فلمي لارښودګران يا ډايرکټران]] - [[د نندارو ليکوالان]] - [[مخترعين]] - [[ساينسپوهان]] - [[شمېرپوهان]] - [[فيلسوفان]] - [[اقتصادپوهان]] - [[تاريخپوهان]] - [[پوه اندي]] - [[سياستپوهان]] - [[اصيلان]] - [[انقلابيان]] - [[لوبغاړي]] - [[طبيبان]] - [[اتلان]] - [[هوابازان]] - [[غازيان]] - [[قاريان]] -[[کاشفان]]- [[مولويان]] - [[ملايان]] - [[خبريالان]]- [[سياستوال]] - [[ولسمشران]] - [[پاچايان]] - [[ملکې]] - [[وزيران]]
+----
+
+===<font face="Pashto Kror Asiatype"> '''شمېرپوهنه او طبيعي پوهنې''' ===
+
+<font face="Pashto Kror Asiatype">
+[[ستور پېژندنه]] - [[بوټي پېژندنه]] - [[کيميا]] - [[چاپېريال پېژندنه]] - [[خزدکې (حشرات) پېژندنه]] - [[شمېر پوهنه ]] - [[فزيک]] - [[ځمکه پېژندنه]] - [[ژواکپېژندنه]] - [[سرشمېرنه]]- [[طب]] - [[چاپېريال پوهنه]] - [[درملپوهنه]]
+----
+
+===<font face="Pashto Kror Asiatype"> '''ټولنيزې پوهنې''' ===
+
+<font face="Pashto Kror Asiatype">
+[[انسان پېژندنه]] - [[لرغونپوهنه]] - [[ښوونه او روزنه]] - [[ځمک انځورنه (جغرافيه)]] - [[پېښليک (تاريخ)]]  - [[ژبې]] - [[ژبپوهنه]] - [[موزيکپوهنه]] - [[د کوچنيانو روزنه]] - [[فلسفه]] - [[ارواپوهنه]] - [[د پوهېدلو علم]] -  [[کتابتون او خبرتيايي ساينس]] - [[ټولنپوهنه]]
+
+----
+
+===<font face="Pashto Kror Asiatype">'''سياست، حقوق او ټولنيزې چارې''' ===
+
+<font face="Pashto Kror Asiatype">
+[[سوداګري]] - [[ساتنه]] - [[حقوق]] - [[اقتصاد]] - [[شرکتونه]] - [[کورنۍ]] -
+[[مسلکونه]] - [[سياست]] - [[ښاريتوب]] 
+
+----
+
+===<font face="Pashto Kror Asiatype"> '''دينونه او افسانې''' ===
+
+<font face="Pashto Kror Asiatype">
+[[انيميزم]] - [[اتيزم]] - [[بوديزم]] - [[عيسويت]] - [[رمزونه]] - [[هندويزم]] - [[اسلام]] - [[فلسفه]] - [[جاينيزم]] - [[يهوديت]] - [[د افسانو پېژندنه]] - [[د ملنګانو ګروهې]] - [[مذهب]] - [[نامشروع ډلې ټپلې]] - [[د سکهانو ګروهې]] - [[روحانيت]] - [[د اديانو څېړنه]]
+
+|
+| style="background: #ffffec; border: 2px solid #faf9b2; border-top: none; padding: 0.6em; padding-top: none;" |
+
+===<font face="Pashto Kror Asiatype"> '''هنر او فرهڼ''' ===
+
+<font face="Pashto Kror Asiatype">
+[[هنرونه]] - [[هنر د ليدلو]] - [[هنر د اورېدلو]] - [[ښکلي هنرونه]] - [[عملي هنر]] - [[سينما]] -[[ ننداره]] -  [[ولسي کلتور]] - [[ګډا، نڅا]] - [[ادبيات]] - [[رسنۍ]] - [[ساز]] - [[عکاسي]] - [[موسيقی]] - [[ويډيويي سندرې]] - [[فلم]] - [[شعر]] - [[افسانه]] - [[ناول]] - [[داستان]] - [[لنډۍ]] - [[هايکو]] - [[ازاد شعر]] - [[غزل]] - [[لنډه کيسه]]
+----
+
+===<font face="Pashto Kror Asiatype"> '''تخنيکي پوهې او صنعتونه''' ===
+
+<font face="Pashto Kror Asiatype">
+[[فضانوردي]] - [[کرهنه]] - [[ودانېدنګ]] - [[مخابرات]]  - [[برېښنا]] - [[ برېښنايي ټېکنالوژي]] - [[صنعت]] - [[کمپيوټرپوهنه]] - [[انټرنټ]] - [[انجينري]] - [[د کمپنۍ مشري]] - [[درملپېژندنه]] - [[تخنيک]] - [[د تماس اسانتياوې]] - [[ترانسپورت]]-[[مهمې اختراع ګانې]]
+
+----
+
+===<font face="Pashto Kror Asiatype"> ''' ورځينی ژوند او چارچلن''' ===
+
+<font face="Pashto Kror Asiatype">
+[[پخپله يو څه جوړول]] - [[پخلی]] - [[ساعتيري]] - [[بڼ او باغ پالنه]] - [[لوبې]] - [[خواړه]] - [[روغتيا]] - [[جنسي اړيکې]] - [[ورزښت]] - [[ګرځندويي (ټوريزم)]] - [[دندې]]
+----
+
+===<font face="Pashto Kror Asiatype"> '''دولت او سياست''' ===
+
+<font face="Pashto Kror Asiatype">
+[[پوځ]] - [[اقتصاد]] - [[اساسي قانون]] - [[قانوني لاسوندونه]] - [[ګوندونه]] - [[نړېوال تنظيمونه]] - [[بشري موضوعګانې]] - [[د ځايونو نيوليک]] - [[پيسې]] - [[Wikipedia:List of portals|List of portals]] - [[پښتو]] - [[افغانستان]]  - [[ملګري ملتونه]] - [[روانې چارې]] ـ  [[ويکپيديا ليکونکی ]] - [[نور هېوادونه]] - [[دګوندونو مشران]] 
+
+''' Wikipedia by categories'''<br />
+[[:Category:Main|General]] - [[Special:Categories|All categories]] - [[Wikipedia:Featured articles|Featured articles]]
 |}
-<!--------------------------------د نن ورځې مستند انځور------------------------------->
-{| style="border-spacing:8px; margin:-8px -8px;"
-|class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;"|
-{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#faf5ff; color:#000"
-! <h2 style="margin:0; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:right; color:#000; padding:0.2em 0.4em;">د نن ورځې مستند انځور</h2>
+
+</h4>
+تاسو کولای شی چې په نورو ژبو ليکل شوې ليکنې ولولۍ او خپاره يې کړۍ:
+{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
 |-
-|style="color:#000;"| {{دنن-ورځ-انځور ژغورلی/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}
+! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Tahoma; color:black" |ويکيپېډيا په نورو ژبو کې
 |-
+| bgcolor="#FFFFFF" style="font: 95% Tahoma;" align="center" |{{د ويکيپېډيا ژبې}}
 |}
+</div>
+
+
+
+{| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
+|-
+! bgcolor="#D0E2EE" style="border-bottom:1px solid #006699; font: 125% Tahoma; color:black" |د ويکيپېډيا نورې پروژې
+|-
+| bgcolor="#FFFFFF" style="font: 95% Tahoma;" align="left" |{{Wikipediasister}}
 |}
-
-
-{{ويکيپېډيا:لومړی مخ/سرليک|د ويکي مېډيا نورې پروژې}}
-{{ويکيپېډيا:لومړی مخ/نورې پروژې}}
-{{ويکيپېډيا:لومړی مخ/سرليک|د ويکيپېډيا نورې ژبې}}
-{{ويکيپېډيا:لومړی مخ/دويکيپېډيا-ژبې}}
-
-
 
 [[af:Tuisblad]]
 [[als:Main_Page]]
