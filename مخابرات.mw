@@ -1,13 +1,13 @@
-'''مخابرات''' د برېښنا له انجينيرۍ څخه عبارت دى، چې  په دوه بنسټيزه #  مېدان او څپو او # سېسټم وېشل كېږي. 
-د سېسټم په جوړونه كې له يوې نقطې څخه وبلې نقطې ته د اطلاعاتو لېږدول دي. دا اطلاعات د [[الكټرونيكي سېګنالونو]]  په ډول د [[(لېږدوونكي)]] ته ورځي. په مختلفو اسلوبونو سره اخستونكي ته انتقالېږي. او بيا دويم ځلي  الكټرونيكي سېګنالونه د اطلاعاتو لېږونكي لورنكي لېږدوونكي باندې بدلېږي. موډېمونه (كانالونه او رسنۍ) د سېګنالونو لېږدونه له لېږدوونكي څخه اخيستونكي ته چې د مسي سيم لرونكي وي،  راډيويي څپې (بې سيمه څپې) او رڼايي فاېبر پواسطه كېږي.
+'''مخابرات''' د برېښنا له انجينيرۍ څخه عبارت دى، چې په دوه بنسټيزه # مېدان او څپو او # سېسټم وېشل كېږي. 
+د سېسټم په جوړونه كې له يوې نقطې څخه وبلې نقطې ته د اطلاعاتو لېږدول دي. دا اطلاعات د [[الكټرونيكي سېګنالونو]] په ډول د [[(لېږدوونكي)]] ته ورځي. په مختلفو اسلوبونو سره اخستونكي ته انتقالېږي. او بيا دويم ځلي الكټرونيكي سېګنالونه د اطلاعاتو لېږونكي لورنكي لېږدوونكي باندې بدلېږي. موډېمونه (كانالونه او رسنۍ) د سېګنالونو لېږدونه له لېږدوونكي څخه اخيستونكي ته چې د مسي سيم لرونكي وي، راډيويي څپې (بې سيمه څپې) او رڼايي فاېبر پواسطه كېږي.
 
-[[Image:CNAM-IMG 0564.jpg|thumb| د موسی ډیس ایټ میټیرس پاریس کی د الګزانډر ګراهم بل جوړ ټیلیفون]]
+[[دوتنه:CNAM-IMG 0564.jpg|thumb| د موسی ډیس ایټ میټیرس پاریس کی د الګزانډر ګراهم بل جوړ ټیلیفون]]
 
 مخابرات د اړيکتیاوو په موخه په يوه فاصله کې د سګنلونو لېږدول دي. په پخوانيو وختونو کې به دغه د لوګي-سګنل، ډولونو، سيمافور او يا هيليوګراف په مرسته ترسره کېدل. په عصري وختونو کې، مخابرات د برېښيزو وسيلو لکه ټېلېفون، ټلوېزيون، راډيو يا کمپيوټر په کارونه ترسره کېږي. د مخابراتو په لومړنيو مخترعينو الیکزانډر ګراهام بېل، ګګليمو مارکوني او جان لوګي بېرډ ورګډېږي. 
 
-مخابرات د نړۍ د اقتصاد يوه مهمه برخه جوړوي او د مخابراتو د صنعت عوايد د نړۍ د توليداتو له ۳ سلنې په لږه کې واقع کېږي.  
+مخابرات د نړۍ د اقتصاد يوه مهمه برخه جوړوي او د مخابراتو د صنعت عوايد د نړۍ د توليداتو له ۳ سلنې په لږه کې واقع کېږي. 
 
-سېګنالونه او مخابراتي سېسټمونه په دوه ډوله وېشل  كېږي: 
+سېګنالونه او مخابراتي سېسټمونه په دوه ډوله وېشل كېږي: 
 
 
 == انالوګ او ډېجېټل. ==
@@ -16,7 +16,7 @@
 
 د مخابراتو د انجينيرۍ اصلي موخې د اطلاعاتو لېږدونه په خپل شوني چټك واټن لېږد سره (د ډېجېټل سېسټمونو لپاره)، او د لږو او كمو ورانيو، او په لږې اندازې سره د سون د موادو مصرف له (انرژي) په كولو سره راډيوي څپې له يوې نقطې څخه و بلې نقطې ته د مخابراتو له بنسټيزه موخو څخه دي.
 
-==Key concepts==
+== Key concepts ==
 {| style="float:left; margin:1em 1em 1em 1em; width:25em; border: 1px solid #a0a0a0; padding: 10px; background-color: #F5F5F5; text-align:left;"
 |- style="text-align:center;"
 |'''آرپوهه'''
@@ -36,25 +36,25 @@ For example, in a radio broadcast, the [[radio masts and towers|broadcast tower]
 
 Telecommunication over a phone line is called [[point-to-point communication (telecommunications)|point-to-point communication]] because it is between one transmitter and one receiver. Telecommunication through radio broadcasts is called [[broadcasting|broadcast]] communication because it is between one powerful transmitter and numerous receivers.<ref name="stallings-intro" />
 
-====انالوګ یا ډیجیټل====
+==== انالوګ یا ډیجیټل ====
 
 Signals can be either [[analog signal|analogue]] or [[digital]]. In an analogue signal, the signal is varied continuously with respect to the information. In a digital signal, the information is encoded as a set of discrete values (for example ones and zeros). During transmission the information contained in analogue signals will be degraded by noise. Conversely, unless the noise exceeds a certain threshold, the information contained in digital signals will remain intact. This represents a key advantage of digital signals over analogue signals.<ref>{{cite book | last = Ambardar | first = Ashok | edition= 2nd edition | title = Analog and Digital Signal Processing | publisher = Brooks/Cole Publishing Company | year = 1999 | pages = pp 1-2 | id = ISBN 0-534-95409-X }}</ref>
 
-====جالونه====
+==== جالونه ====
 
 A collection of transmitters, receivers or transceivers that communicate with each other is known as a [[telecommunications network|network]]. Digital networks may consist of one or more [[routers]] that route information to the correct user. An analogue network may consist of one or more [[telephone switch|switches]] that establish a connection between two or more users. For both types of network, [[repeater]]s may be necessary to amplify or recreate the signal when it is being transmitted over long distances. This is to combat [[attenuation]] that can render the signal indistinguishable from [[noise]].<ref name="glossary">[http://www.atis.org/tg2k/ ATIS Telecom Glossary 2000], ATIS Committee T1A1 Performance and Signal Processing (approved by the American National Standards Institute), [[28 February]], [[2001]].</ref>
 
-====چینلونه====
+==== چینلونه ====
 
 A [[Channel (communications)|channel]] is a division in a transmission medium so that it can be used to send multiple streams of information. For example, a radio station may broadcast at 96 MHz while another radio station may broadcast at 94.5 MHz. In this case, the medium has been divided by [[frequency]] and each channel has received a separate frequency to broadcast on. Alternatively, one could allocate each channel a recurring segment of time over which to broadcast &mdash; this is known as [[time-division multiplexing]] and is sometimes used in digital communication.<ref name="glossary" />
 
-====Modulation====
+==== Modulation ====
 
 The shaping of a signal to convey information is known as [[modulation]]. Modulation can be used to represent a digital message as an analogue waveform. This is known as [[keying]] and several keying techniques exist (these include [[phase-shift keying]], [[frequency-shift keying]] and [[amplitude-shift keying]]). [[Bluetooth]], for example, uses [[phase-shift keying]] to exchange information between devices.<ref>Haykin, pp 344-403.</ref> <ref>[http://www.bluetooth.org/foundry/adopters/document/Core_v2.0_EDR/en/1/Core_v2.0_EDR.zip Bluetooth Specification Version 2.0 + EDR] (p 27), Bluetooth, 2004.</ref>
 
 Modulation can also be used to transmit the information of analogue signals at higher frequencies. This is helpful because low-frequency analogue signals cannot be effectively transmitted over free space. Hence the information from a low-frequency analogue signal must be superimposed on a higher-frequency signal (known as a [[carrier wave]]) before transmission. There are several different modulation schemes available to achieve this (two of the most basic being [[amplitude modulation]] and [[frequency modulation]]). An example of this process is a [[disc jockey|DJ's]] voice being superimposed on a 96 MHz carrier wave using frequency modulation (the voice would then be received on a radio as the channel “96 FM”).<ref>Haykin, pp 88-126.</ref>
 
-==ټولنه او ټیلی کمیونیکیشن==
+== ټولنه او ټیلی کمیونیکیشن ==
 Telecommunication is an important part of modern society. In 2006, estimates placed the telecommunication industry's revenue at $1.2 trillion or just under 3% of the [[gross world product]] (official exchange rate).<ref>[http://www.voip-magazine.com/content/view/1197/ Telecom Industry Revenue to Reach $1.2 Trillion in 2006], VoIP Magazine, 2005.</ref>
 
 On the microeconomic scale, companies have used telecommunication to help build global empires. This is self-evident in the case of online retailer [[Amazon.com]] but, according to academic Edward Lenert, even the conventional retailer [[Wal-Mart]] has benefited from better telecommunication infrastructure compared to its competitors.<ref>{{cite journal | last = Lenert | first = Edward | year = 1998 | month = Dec | title = A Communication Theory Perspective on Telecommunications Policy | journal = Journal of Communication | issn = | volume = 48 | issue = 4 | pages = 3-23}}</ref> In cities throughout the world, home owners use their [[telephone]]s to organize many home services ranging from [[pizza delivery|pizza deliveries]] to [[electrician]]s. Even relatively poor communities have been noted to use telecommunication to their advantage. In [[Bangladesh]]'s Narshingdi district, isolated villagers use cell phones to speak directly to wholesalers and arrange a better price for their goods. In [[Cote d'Ivoire]], coffee growers share mobile phones to follow hourly variations in coffee prices and sell at the best price.<ref>{{cite paper | author = Mireille Samaan | title = The Effect of Income Inequality on Mobile Phone Penetration | version = Boston University Honors thesis | date = April 2003 | url = http://dissertations.bc.edu/cgi/viewcontent.cgi?article=1016&context=ashonors | format = [[PDF]] | accessdate = 2007-06-08}}</ref>
@@ -63,10 +63,10 @@ On the macroeconomic scale, Lars-Hendrik Röller and Leonard Waverman suggested 
 
 Due to the economic benefits of good telecommunication infrastructure, there is increasing worry about the [[digital divide]]. This is because the world's population does not have equal access to telecommunication systems. A 2003 survey by the [[International Telecommunication Union]] (ITU) revealed that roughly one-third of countries have less than 1 mobile subscription for every 20 people and one-third of countries have less than 1 fixed line subscription for every 20 people. In terms of Internet access, roughly half of all countries have less than 1 in 20 people with Internet access. From this information, as well as educational data, the ITU was able to compile a [http://www.itu.int/ITU-D/ict/dai/ Digital Access Index] that measures the overall ability of citizens to access and use information and communication technologies. Using this measure, countries such as [[Sweden]], [[Denmark]] and [[Iceland]] received the highest ranking while African countries such as [[Niger]], [[Burkina Faso]] and [[Mali]] received the lowest.<ref>[http://www.itu.int/ITU-D/ict/publications/wtdr_03/index.html World Telecommunication Development Report 2003], [[International Telecommunication Union]], 2003.</ref>
 
-==پیښلیک==
+== پیښلیک ==
 {{details|History of telecommunication}}
-====Early telecommunications====
-[[Image:OptischerTelegraf.jpg|160px|thumb|A replica of one of Chappe's semaphore towers.]]
+==== Early telecommunications ====
+[[دوتنه:OptischerTelegraf.jpg|160px|thumb|A replica of one of Chappe's semaphore towers.]]
 
 Early forms of telecommunication include [[smoke signal]]s and [[drum (communication)|drums]]. Drums were used by natives in [[Africa]], [[New Guinea]] and [[South America]] whereas smoke signals were used by natives in [[North America]] and [[China]]. Contrary to what one might think, these systems were often used to do more than merely announce the presence of a camp.<ref>[http://www.inquiry.net/outdoor/native/sign/smoke-signal.htm Native American Smoke Signals], William Tomkins, 2005.</ref> <ref>[http://www.si.umich.edu/chico/instrument/pages/tlkdrum_gnrl.html Talking Drums], Instrument Encyclopedia, Cultural Heritage for Community Outreach, 1996.</ref>
 
@@ -74,28 +74,28 @@ In the Middle Ages, chains of [[beacon]]s were commonly used on hilltops as a me
 
 In 1792, [[Claude Chappe]], a French engineer, built the first fixed visual telegraphy (or [[semaphore]]) system between [[Lille]] and [[Paris]].<ref>[http://chappe.ec-lyon.fr/ Les Télégraphes Chappe], Cédrick Chatenet, l'Ecole Centrale de Lyon, 2003.</ref> However semaphore suffered from the need for skilled operators and expensive towers at intervals of ten to thirty kilometres (six to nineteen miles). As a result of competition from the electrical telegraph, the last commercial line was abandoned in 1880.<ref>[http://www.google.com/url?sa=t&ct=res&cd=19&url=http%3A%2F%2Fwww.itu.int%2Fitudoc%2Fgs%2Fpromo%2Ftsb%2F88192.pdf&ei=WmQKRc6wEqL4ggP_6bHTDQ&sig=__RpZ0L0hbqjtzZfVWEAMZVhduDBw=&sig2=dzK2J3-3WNRc0o63DXwciQ#search=%22semaphore%201880%20Sweden%22 CCIT/ITU-T 50 Years of Excellence], Internation Telecommunication Union, 2006.</ref>
 
-====ټیلیګراف او ټیلیفون====
+==== ټیلیګراف او ټیلیفون ====
 The first commercial [[electrical telegraph]] was constructed by Sir [[Charles Wheatstone]] and Sir [[William Fothergill Cooke]] and opened on [[9 April]] [[1839]]. Both Wheatstone and Cooke viewed their device as "an improvement to the [existing] electromagnetic telegraph" not as a new device.<ref>[http://www.du.edu/~jcalvert/tel/morse/morse.htm The Electromagnetic Telegraph], J. B. Calvert, 19 May 2004.</ref>
 
 [[Samuel Morse]] independently developed a version of the electrical telegraph that he unsuccessfully demonstrated on [[2 September]] [[1837]]. [[Morse code|His code]] was an important advance over Wheatstone's signaling method. The first [[transatlantic telegraph cable]] was successfully completed on [[27 July]] [[1866]], allowing transatlantic telecommunication for the first time.<ref>[http://www.sil.si.edu/digitalcollections/hst/atlantic-cable/ The Atlantic Cable], Bern Dibner, Burndy Library Inc., 1959</ref>
 
 The conventional telephone was invented independently by [[Alexander Graham Bell|Alexander Bell]] and [[Elisha Gray]] in 1876.<ref>[http://www.oberlin.edu/external/EOG/OYTT-images/ElishaGray.html Elisha Gray], Oberlin College Archives, Electronic Oberlin Group, 2006.</ref> [[Antonio Meucci]] invented the first device that allowed the electrical transmission of voice over a line in 1849. However Meucci's device was of little practical value because it relied upon the [[electrophonic effect]] and thus required users to place the receiver in their mouth to “hear” what was being said.<ref>[http://web.archive.org/web/20060424055029/http://chem.ch.huji.ac.il/~eugeniik/history/meucci.html Antonio Santi Giuseppe Meucci], Eugenii Katz. (Retrieved May, 2006 from [http://chem.ch.huji.ac.il/~eugeniik/history/meucci.html http://chem.ch.huji.ac.il/~eugeniik/history/meucci.html])</ref> The first commercial telephone services were set-up in 1878 and 1879 on both sides of the Atlantic in the cities of [[New Haven]] and [[London]].<ref>[http://www.connected-earth.com/Galleries/Telecommunicationsage/Thetelephone/index.htm Connected Earth: The telephone], BT, 2006.</ref> <ref>[http://www.att.com/history/milestones.html History of AT&T], AT&T, 2006.</ref>
 
-====راډیو او ټلویزیون====
+==== راډیو او ټلویزیون ====
 In 1832, [[James Bowman Lindsay|James Lindsay]] gave a classroom demonstration of [[wireless telegraphy]] to his students. By 1854, he was able to demonstrate a transmission across the [[Firth of Tay]] from [[Dundee, Scotland]] to [[Woodhaven, Fife|Woodhaven]], a distance of two miles, using water as the transmission medium.<ref>[http://www.dundeecity.gov.uk/centlib/jbl/jblchron.htm James Bowman Lindsay], Macdonald Black, Dundee City Council, 1999.</ref> In December 1901, [[Guglielmo Marconi]] established wireless communication between [[St. John's, Newfoundland and Labrador|St. John's, Newfoundland]] (Canada) and [[Poldhu|Poldhu, Cornwall]] (England), earning him the [[Nobel Prize in physics|1909 Nobel Prize in physics]] (which he shared with [[Karl Ferdinand Braun|Karl Braun]]).<ref>[http://www.teslasociety.com/biography.htm Tesla Biography], Ljubo Vujovic, Tesla Memorial Society of New York, 1998.</ref> However small-scale radio communication had already been demonstrated in 1893 by [[Nikola Tesla]] in a presentation to the National Electric Light Association.<ref>[http://www.tfcbooks.com/teslafaq/q&a_025.htm Tesla's Radio Controlled Boat], Twenty First Century Books, 2007.</ref>
 
 On [[March 25]], [[1925]], [[John Logie Baird]] was able to demonstrate the transmission of moving pictures at the London department store [[Selfridges]]. Baird's device relied upon the [[Nipkow disk]] and thus became known as the [[mechanical television]]. It formed the basis of experimental broadcasts done by the [[British Broadcasting Corporation]] beginning [[September 30]], [[1929]].<ref>[http://www.mztv.com/newframe.asp?content=http://www.mztv.com/pioneers.html The Pioneers], MZTV Museum of Television, 2006.</ref> However, for most of the twentieth century televisions depended upon the cathode ray tube invented by [[Karl Ferdinand Braun|Karl Braun]]. The first version of such a television to show promise was produced by [[Philo Farnsworth]] and demonstrated to his family on [[September 7]], [[1927]]. <ref>[http://www.time.com/time/time100/scientist/profile/farnsworth.html Philo Farnsworth], Neil Postman, [[TIME Magazine]], 29 March 1999</ref>
 
-====سولګریز جال او انټرنیټ====
+==== سولګریز جال او انټرنیټ ====
 On [[September 11]], [[1940]], [[George Stibitz]] was able to transmit problems using [[teletype]] to his Complex Number Calculator in [[New York]] and receive the computed results back at [[Dartmouth College]] in [[New Hampshire]].<ref>[http://www.kerryr.net/pioneers/stibitz.htm George Stlibetz], Kerry Redshaw, 1996.</ref> This configuration of a centralized computer or [[Mainframe computer|mainframe]] with remote dumb terminals remained popular throughout the 1950s. However, it was not until the 1960s that researchers started to investigate [[packet switching]] &mdash; a technology that would allow chunks of data to be sent to different computers without first passing through a centralized mainframe. A four-node network emerged on [[December 5]], [[1969]]; this network would become [[ARPANET]], which by 1981 would consist of 213 nodes.<ref>{{cite book | last = Hafner | first = Katie | title = Where Wizards Stay Up Late: The Origins Of The Internet | publisher = Simon & Schuster | year = 1998 | id = ISBN 0-684-83267-4 }}</ref>
 
 [[ARPANET]]'s development centred around the [[Request for Comment]] process and on [[April 7]], [[1969]], RFC 1 was published. This process is important because ARPANET would eventually merge with other networks to form the [[Internet]] and many of the protocols the Internet relies upon today were specified through the Request for Comment process. In September 1981, RFC 791 introduced the [[Internet Protocol]] v4 (IPv4) and RFC 793 introduced the [[Transmission Control Protocol]] (TCP) &mdash; thus creating the TCP/IP protocol that much of the [[Internet]] relies upon today.
 
 However, not all important developments were made through the Request for Comment process. Two popular link protocols for [[local area network]]s (LANs) also appeared in the 1970s. A patent for the [[token ring]] protocol was filed by [[Olof Soderblom]] on [[October 29]], [[1974]] and a paper on the [[Ethernet]] protocol was published by [[Robert Metcalfe]] and [[David Boggs]] in the July 1976 issue of ''[[Communications of the ACM]]''.<ref>[http://patft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=4293948.PN.&OS=PN/4293948&RS=PN/4293948 Data transmission system], Olof Solderblom, PN 4,293,948, October 1974.</ref> <ref>[http://www.acm.org/classics/apr96/ Ethernet: Distributed Packet Switching for Local Computer Networks], Robert M. Metcalfe and David R. Boggs, Communications of the ACM (pp 395-404, Vol. 19, No. 5), July 1976.</ref>
 
-==Modern operation==
-====ټیلیفون====
-[[Image:Fibreoptic.jpg|thumb|right|120px|[[Optical fiber|Optical fibre]] provides cheaper bandwidth for long distance communication]]
+== Modern operation ==
+==== ټیلیفون ====
+[[دوتنه:Fibreoptic.jpg|thumb|right|120px|[[Optical fiber|Optical fibre]] provides cheaper bandwidth for long distance communication]]
 In an analogue telephone network, the [[calling party|caller]] is connected to the person he wants to talk to by switches at various [[telephone exchanges]]. The switches form an electrical connection between the two users and the setting of these switches is determined electronically when the caller [[pulse dialling|dials]] the number. Once the connection is made, the caller's voice is transformed to an electrical signal using a small [[microphone]] in the caller's [[handset]]. This electrical signal is then sent through the network to the user at the other end where it transformed back into sound by a small [[loudspeaker|speaker]] in that person's handset. There is a separate electrical connection that works in reverse, allowing the users to converse.<ref>[http://electronics.howstuffworks.com/telephone1.htm How Telephone Works], HowStuffWorks.com, 2006.</ref><ref>[http://www.epanorama.net/links/telephone.html Telephone technology page], ePanorama, 2006.</ref>
 
 The [[land line|fixed-line]] telephones in most residential homes are analogue &mdash; that is, the speaker's voice directly determines the signal's voltage. Although short-distance calls may be handled from end-to-end as analogue signals, usually telephone service providers transparently convert the signals to digital for switching and transmission before converting them back to analogue for reception. The advantage of this is that digitized voice data can travel side-by-side with data from the Internet and can be perfectly reproduced in long distance communication (as opposed to analogue signals that are inevitably impacted by noise).
@@ -106,8 +106,8 @@ There have also been dramatic changes in telephone communication behind the scen
 
 Assisting communication across these networks is a protocol known as [[Asynchronous Transfer Mode]] (ATM). The ATM protocol allows for the side-by-side data transmission mentioned in the second paragraph. It is suitable for public telephone networks because it establishes a pathway for data through the network and associates a [[traffic contract]] with that pathway. The traffic contract is essentially an agreement between the client and the network about how the network is to handle the data; if the network cannot meet the conditions of the traffic contract it does not accept the connection. This is important because telephone calls can negotiate a contract so as to guarantee themselves a constant bit rate, something that will ensure a caller's voice is not delayed in parts or cut-off completely.<ref>{{cite book | last = Stallings | first = William | edition= 7th edition (intl) | title = Data and Computer Communications | publisher = Pearson Prentice Hall | year = 2004 | pages = pp 337-366 | id = ISBN 0-13-183311-1 }}</ref> There are competitors to ATM, such as [[Multiprotocol Label Switching]] (MPLS), that perform a similar task and are expected to supplant ATM in the future.<ref>[http://www.networkworld.com/columnists/2002/0812edit.html MPLS is the future, but ATM hangs on], John Dix, Network World, 2002</ref>
 
-====Radio and television====
-[[Image:digital television.png|thumb|260px|Digital television standards and their adoption worldwide.]]
+==== Radio and television ====
+[[دوتنه:digital television.png|thumb|260px|Digital television standards and their adoption worldwide.]]
 
 In a broadcast system, a central high-powered [[radio masts and towers|broadcast tower]] transmits a high-frequency [[electromagnetic wave]] to numerous low-powered receivers. The high-frequency wave sent by the tower is [[modulation|modulated]] with a signal containing visual or audio information. The [[Antenna (radio)|antenna]] of the receiver is then [[antenna tuner|tuned]] so as to pick up the high-frequency wave and a [[demodulator]] is used to retrieve the signal containing the visual or audio information. The broadcast signal can be either analogue (signal is varied continuously with respect to the information) or digital (information is encoded as a set of discrete values).<ref>{{cite book | last = Haykin | first = Simon | edition= 4th edition | title = Communication Systems | publisher = John Wiley & Sons | year = 2001 | pages = pp 1-3 | id = ISBN 0-471-17869-1 }}</ref> <ref>[http://www.howstuffworks.com/radio.htm How Radio Works], HowStuffWorks.com, 2006.</ref>
 
@@ -117,8 +117,8 @@ In digital television broadcasting, there are three competing standards that are
 
 However, despite the pending switch to digital, analogue receivers still remain widespread. Analogue television is still transmitted in practically all countries. The United States had hoped to end analogue broadcasts on [[December 31]], [[2006]]; however, this was recently pushed back to [[February 17]], [[2009]].<ref>[http://www.dtv.gov/consumercorner.html Consumer Corner FAQ], dtv.gov, 2006.</ref> For analogue television, there are three standards in use (see a map on adoption [[:Image:NTSC-PAL-SECAM.png|here]]). These are known as [[PAL]], [[NTSC]] and [[SECAM]]. <!--The basics of PAL and NTSC are very similar; a [[quadrature amplitude modulation|quadrature amplitude modulated]] [[subcarrier]] carrying the chrominance information is added to the luminance video signal to form a [[composite video|composite video baseband signal]] (CVBS). On the other hand, the [[SECAM]] system uses a frequency modulation scheme on its colour subcarrier. The PAL system differs from NTSC in that the phase of the video signal's colour components is reversed with each line helping to correct phase errors in the transmission.--> For analogue radio, the switch to digital is made more difficult by the fact that analogue receivers are a fraction of the cost of digital receivers.<ref>[http://www.amazon.com/gp/product/B00000J060 GE 72664 Portable AM/FM Radio], Amazon.com, June 2006.</ref> <ref>[http://www.worlddab.org/dabprod.aspx DAB Products], World DAB Forum, 2006.</ref> The choice of modulation for analogue radio is typically between [[amplitude modulation]] (AM) or [[frequency modulation]] (FM). To achieve [[stereophonic sound|stereo playback]], an amplitude modulated subcarrier is used for [[stereo FM]]<!-- and quadrature amplitude modulation is used for stereo AM or [[C-QUAM]] -->.
 
-====The Internet====
-[[Image:Osi-model.png|250px|thumb|right|The [[OSI reference model]]]]
+==== The Internet ====
+[[دوتنه:Osi-model.png|250px|thumb|right|The [[OSI reference model]]]]
 
 The Internet is a worldwide network of computers and computer networks that can communicate with each other using the [[Internet Protocol]].<ref>Robert E. Kahn and Vinton G. Cerf, [http://www.cnri.reston.va.us/what_is_internet.html What Is The Internet (And What Makes It Work)], December 1999. (specifically see footnote xv)</ref> Any computer on the Internet has a unique [[IP address]] that can be used by other computers to route information to it. Hence, any computer on the Internet can send a message to any other computer using its IP address. These messages carry with them the originating computer's IP address allowing for two-way communication. In this way, the Internet can be seen as an exchange of messages between computers.<ref>[http://computer.howstuffworks.com/internet-infrastructure.htm How Internet Infrastructure Works], HowStuffWorks.com, 2007.</ref>
 
@@ -134,7 +134,7 @@ At the transport layer, most communication adopts either the [[Transmission Cont
 
 Above the transport layer, there are certain protocols that are sometimes used and loosely fit in the session and presentation layers, most notably the [[Secure Sockets Layer]] (SSL) and [[Transport Layer Security]] (TLS) protocols. These protocols ensure that the data transferred between two parties remains completely confidential and one or the other is in use when a padlock appears at the bottom of your web browser.<!-- Security is generally based upon the principle that eavesdroppers cannot factorize very large numbers that are the composite of two primes without knowing one of the primes.--><ref>T. Dierks and C. Allen, The TLS Protocol Version 1.0, RFC 2246, 1999.</ref><!--Another protocol that loosely fits in the session and presentation layers is the [[Real-time Transport Protocol]] (RTP) most notably used to stream QuickTime.<ref>[http://www.cs.columbia.edu/~hgs/rtp/ RTP: About RTP and the Audio-Video Transport Working], Henning Schulzrinne, July 2006.</ref> --> Finally, at the application layer, are many of the protocols Internet users would be familiar with such as [[HTTP]] (web browsing), [[POP3]] (e-mail), [[File Transfer Protocol|FTP]] (file transfer), [[IRC]] (Internet chat), [[BitTorrent]] (file sharing) and [[OSCAR protocol|OSCAR]] (instant messaging).
 
-====Local area networks====
+==== Local area networks ====
 
 
 Despite the growth of the Internet, the characteristics of [[local area network]]s (computer networks that run at most a few kilometres) remain distinct. This is because networks on this scale do not require all the features associated with larger networks and are often more cost-effective and efficient without them.
@@ -150,7 +150,7 @@ If a computer sends IP packets that will be carried over the Internet, it is log
 
 Despite the modest popularity of [[IBM token ring|Token Ring]] in the 80's and 90's, virtually all local area networks now use wired or wireless [[Ethernet]]. At the physical layer, most wired Ethernet implementations use [[twisted pair|copper twisted-pair cables]] (including the common [[10BASE-T]] networks). However, some early implementations used [[coaxial cable]]s and some recent implementations (especially high-speed ones) use [[optical fibre|optic fibres]]. Optic fibres are also likely to feature prominently in the forthcoming [[10-gigabit Ethernet]] implementations.<ref>Stallings, pp 514-516.</ref> Where optic fibre is used, the distinction must be made between multi-mode fibre and single-mode fibre. [[Multi-mode optical fiber|Multi-mode fibre]] can be thought of as thicker optical fibre that is cheaper to manufacture but that suffers from less usable bandwidth and greater attenuation (i.e. poor long-distance performance).<ref>[http://www.arcelect.com/fibercable.htm Fiber Optic Cable Tutorial], Arc Electronics. (Retrieved June, 2007)</ref>
 
-==See also==
+== See also ==
 : ''Main list: [[List of basic telecommunication topics]]''
 * [[Information theory]]
 * [[Radio]]
@@ -159,25 +159,26 @@ Despite the modest popularity of [[IBM token ring|Token Ring]] in the 80's and 9
 * [[Two-way radio]]
 {{portal|telecommunication}}
 
-==References==
+== References ==
 
 {{Reflist|2}}
 <!-- # "[http://news.bbc.co.uk/1/hi/sci/tech/4475394.stm Wiring up the 'Victorian internet']" at [[BBC News]], [[29 November]] [[2005]] -->
 
-==بهرنی تړن==
+== بهرنی تړن ==
 * [http://www.itu.int/home/ International Telecommunication Union]
 * [http://www.fcc.gov/ Federal Communications Commission]
 * [http://www.comsoc.org/ IEEE Communications Society]
 * [http://www.atis.org/tg2k/ ATIS Telecom Glossary]
 * [http://web.archive.org/web/20040413074912/www.ericsson.com/support/telecom/index.shtml Ericsson's Understanding Telecommunications] at archive.org (Ericsson removed the book from their site in Sep 2005)
 
-[[Category:Telecommunications|*]]
-[[Category:ډیجیټل اووښتون]]
-[[Category:مخابرات]]
+[[وېشنيزه:Telecommunications|*]]
+[[وېشنيزه:ډیجیټل اووښتون]]
+[[وېشنيزه:مخابرات]]
 
 [[an:Telecomunicazión]]
 [[ar:اتصالات]]
 [[ast:Telecomunicación]]
+[[be:Сувязь (тэхніка)]]
 [[bg:Телекомуникации]]
 [[bn:টেলিযোগাযোগ]]
 [[bpy:টেলিযোগাযোগ]]
