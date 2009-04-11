@@ -7,7 +7,7 @@ It is the initial process of most [[carbohydrate catabolism]], and it serves thr
 #Production of pyruvate for the [[citric acid cycle]] as part of [[aerobic respiration]]
 #Production of a variety of six- and three-carbon intermediate compounds, which may be removed at various steps in the process for other cellular purposes.
 
-As the foundation of both [[aerobic respiration|aerobic]] and [[anaerobic respiration]], glycolysis is the archetype of universal [[metabolism|metabolic]] processes known and occurring (with variations) in many types of [[Cell (biology)|cell]]s in nearly all organisms. Glycolysis, through anaerobic respiration, is the main energy source in many [[prokaryotes]], [[eukaryotic]] cells devoid of [[mitochondria]] (e.g., mature [[erythrocytes]]) and eukaryotic cells under low-[[oxygen]] conditions (e.g., heavily-exercising muscle or fermenting [[yeast]]).
+As the foundation of both [[aerobic respiration|aerobic]] and [[anaerobic respiration]], glycolysis is the archetype of universal [[metabolism|metabolic]] processes known and occurring (with variations) in many types of [[Cell (biology)|cells]] in nearly all organisms. Glycolysis, through anaerobic respiration, is the main energy source in many [[prokaryotes]], [[eukaryotic]] cells devoid of [[mitochondria]] (e.g., mature [[erythrocytes]]) and eukaryotic cells under low-[[oxygen]] conditions (e.g., heavily-exercising muscle or fermenting [[yeast]]).
 
 In [[eukaryote]]s and [[prokaryotes]], glycolysis takes place within the [[cytosol]] of the cell. In plant cells, some of the glycolytic reactions are also found in the [[Calvin-Benson cycle]], which functions inside the [[chloroplast]]s. The wide conservation includes the most phylogenetically deep-rooted extant organisms, and thus it is considered to be one of the most ancient metabolic pathways.<ref>Romano AH, Conway T. (1996) Evolution of carbohydrate metabolic pathways. ''Res Microbiol.'' 147(6-7):448-55 PMID 9084754</ref>
 
@@ -24,21 +24,21 @@ The overall reaction of glycolysis is:
 | align="center" bgcolor ="lightgreen" | [[پايروېټ]]
 |
 |-
-| align="center" | [[Image:D-glucose wpmp.png]]
+| align="center" | [[دوتنه:D-glucose wpmp.png]]
 | align="center" | <font size=4>'''+ 2'''</font> [[Nicotinamide adenine dinucleotide|NAD]]<sup>+</sup> <font size=4>'''+ 2'''</font> [[Adenosine diphosphate|ADP]] <font size=4>'''+ 2'''</font> [[Phosphate|P]]<sub>i</sub>
-| align="center" | [[Image:biochem reaction arrow foward NNNN horiz med.png]]
+| align="center" | [[دوتنه:biochem reaction arrow foward NNNN horiz med.png]]
 | align="center" | <font size=4>'''2'''</font>
-| align="center" | [[Image:pyruvate wpmp.png]]
+| align="center" | [[دوتنه:pyruvate wpmp.png]]
 | align="center" | <font size=4>'''+ 2'''</font> [[NADH]] <font size=4>'''+ 2'''</font> H<sup>+</sup> <font size=4>'''+ 2'''</font> [[Adenosine triphosphate|ATP]] <font size=4>'''+ 2'''</font> H<sub>2</sub>O
 |}
 |}
 {{Glycolysis}}
 The products all have vital cellular uses: 
-*[[Adenosine triphosphate|ATP]] provides an energy source for many cellular functions.
-*[[NADH]] '''+''' H<sup>+</sup> provides reducing power for other metabolic pathways or further ATP synthesis.
-*[[Pyruvate]] is used in the [[citric acid cycle]] in [[aerobic respiration]] to produce more ATP, or is converted to other small carbon molecules in [[anaerobic respiration]].
+* [[Adenosine triphosphate|ATP]] provides an energy source for many cellular functions.
+* [[NADH]] '''+''' H<sup>+</sup> provides reducing power for other metabolic pathways or further ATP synthesis.
+* [[Pyruvate]] is used in the [[citric acid cycle]] in [[aerobic respiration]] to produce more ATP, or is converted to other small carbon molecules in [[anaerobic respiration]].
 
-For simple [[Anaerobic respiration|anaerobic]] [[fermentation (biochemistry)|fermentation]]s, the metabolism of one molecule of glucose to two molecules of pyruvate has a net yield of two molecules of ATP. Most cells will then carry out further reactions to 'repay' the used NAD<sup>+</sup> and produce a final product of [[ethanol]] or [[lactic acid]]. Many bacteria use inorganic compounds as hydrogen acceptors to regenerate the NAD<sup>+</sup>.
+For simple [[Anaerobic respiration|anaerobic]] [[fermentation (biochemistry)|fermentations]], the metabolism of one molecule of glucose to two molecules of pyruvate has a net yield of two molecules of ATP. Most cells will then carry out further reactions to 'repay' the used NAD<sup>+</sup> and produce a final product of [[ethanol]] or [[lactic acid]]. Many bacteria use inorganic compounds as hydrogen acceptors to regenerate the NAD<sup>+</sup>.
 
 Cells performing [[aerobic respiration]] synthesize much more ATP, but not as part of glycolysis. These further aerobic reactions use [[pyruvate]] and NADH '''+''' H<sup>+</sup> from glycolysis. Eukaryotic aerobic respiration produces approximately 34 additional molecules of ATP for each glucose molecule, however most of these are produced by a vastly different mechanism to the [[substrate-level phosphorylation]] in glycolysis.
 
@@ -46,13 +46,13 @@ The lower energy production, per glucose, of anaerobic respiration relative to a
 
 Glycolysis is also known as, "The Creb Cycle."
 
-==موندنه==
+== موندنه ==
 
 The first formal studies of the glycolytic process were initiated in [[1860]] when [[Louis Pasteur]] discovered that [[microorganism]]s are responsible for [[fermentation (biochemistry)|fermentation]], and in [[1897]] when [[Eduard Buchner]] found certain cell extracts can cause fermentation. The next major contribution was from [[Arthur Harden]] and [[William Young]] in 1905 who determined that a heat-sensitive high-molecular-weight subcellular fraction (the enzymes) and a heat-insensitive low-molecular-weight cytoplasm fraction (ADP, ATP and NAD<sup>+</sup> and other [[cofactors]]) are required together for fermentation to proceed. The details of the pathway itself were eventually determined by [[1940]], with a major input from [[Otto Meyerhof]] and some years later by [[Luis Leloir]]. The biggest difficulties in determining the intricacies of the pathway were due to the very short lifetime and low steady-state concentrations of the intermediates of the fast glycolytic reactions.
 
 {{section stub}}
 
-==د تعاملونو لړۍ==
+== د تعاملونو لړۍ ==
 
 ''These are the major reactions, through which most glucose will pass. There are additional alternative pathways and regulatory products, which are not seen here.''
 
@@ -263,7 +263,7 @@ Mg<sup>2+</sup>
 }}
 |}
 
-===آکسيډېټيف ډيکاربوآکسيلېشن===
+=== آکسيډېټيف ډيکاربوآکسيلېشن ===
 
 {{main|Pyruvate decarboxylation}}
 
@@ -286,7 +286,7 @@ The conversion of pyruvate to [[acetyl CoA]] by the [[pyruvate dehydrogenase com
 }}
 |}
 
-==Regulation==
+== Regulation ==
 
 :''See also:'' [[Gluconeogenesis]]
 
@@ -294,15 +294,15 @@ The [[flux (biochemistry)|flux]] through the glycolytic pathway is adjusted in r
 
 There are several different ways to regulate the activity of an enzyme. An immediate form of control is [[feedback]] via [[allosteric]] effectors or by covalent modification. A slower form of control is [[transcriptional regulation]] that controls the amounts of these important enzymes.
 
-===Hexokinase===
-[[Image:Hexokinase B 1IG8 wpmp.png|thumb|right|[[Yeast]] [[hexokinase]] B. {{PDB|1IG8}}.]]
+=== Hexokinase ===
+[[دوتنه:Hexokinase B 1IG8 wpmp.png|thumb|right|[[Yeast]] [[hexokinase]] B. {{PDB|1IG8}}.]]
 [[Hexokinase]] is inhibited by glucose-6-phosphate (G6P), the product it forms through the ATP-driven phosphorylation. This is necessary to prevent an accumulation of G6P in the cell when flux through the glycolytic pathway is low. Glucose will enter the cell, but, since the hexokinase has reduced activity, it can diffuse back into the blood through the glucose transporter in the plasma membrane.
 
 In animals, regulation of blood glucose levels by the liver is a vital part of [[homeostasis]]. In liver cells, extra G6P may be converted to G1P for conversion to [[glycogen]], or it is alternatively converted by glycolysis to [[acetyl-CoA]] and then [[citrate]]. Excess [[citrate]] is exported to the cytosol, where [[ATP citrate lyase]] will regenerate [[acetyl-CoA]] and OAA. The [[acetyl-CoA]] is then used for fatty acid and cholesterol synthesis, two important ways of utilizing excess glucose when its concentration is high in blood. Liver contains both [[hexokinase]] and [[glucokinase]]; the latter catalyses the phosphorylation of glucose to G6P and is not inhibited by G6P. Thus it allows glucose to be converted into glycogen, fatty acids, and cholesterol even when hexokinase activity is low.<ref>Voet D., and Voet J. G. (2004). Biochemistry 3rd Edition (New York, John Wiley & Sons,
 Inc.)</ref> This is important when blood glucose levels are high. During [[hypoglycemia]], the glycogen can be converted back to G6P and then converted to glucose by a liver-specific enzyme [[glucose 6-phosphatase]]. This reverse reaction is an important role of liver cells to maintain blood sugars levels during fasting. This is critical for brain function, since the brain utilizes glucose as an energy source under most conditions.
 
-===Phosphofructokinase===
-[[Image:Phosphofructokinase 6PFK wpmp.png|thumb|left|[[Bacillus stearothermophilus]] [[phosphofructokinase]]. {{PDB|6PFK}}.]]
+=== Phosphofructokinase ===
+[[دوتنه:Phosphofructokinase 6PFK wpmp.png|thumb|left|[[Bacillus stearothermophilus]] [[phosphofructokinase]]. {{PDB|6PFK}}.]]
 [[Phosphofructokinase]] is an important control point in the glycolytic pathway, since it is one of the irreversible steps and has key allosteric effectors, [[AMP]] and [[fructose 1,6-bisphosphate]] (F1,6BP).
 
 [[Fructose 2,6-bisphosphate]] (F2,6BP) is a very potent activator of phosphofructokinase (PFK-1) that is synthesised when F6P is phosphorylated by a second phosphofructokinase ([[PFK2]]). In liver, when blood sugar is low and [[glucagon]] elevates cAMP, [[PFK2]] is phosphorylated by protein kinase A. The phosphorylation inactivates [[PFK2]], and another domain on this protein becomes active as [[fructose 2,6-bisphosphatase]], which converts F2,6BP back to F6P. Both [[glucagon]] and [[epinephrine]] cause high levels of cAMP in the liver. The result of lower levels of liver fructose-2,6-bisphosphate is a decrease in activity of [[phosphofructokinase]] and an increase in activity of  [[fructose 1,6-bisphosphatase]], so that gluconeogenesis (essentially "glycolysis in reverse") is favored. This is consistent with the role of the liver in such situations, since the response of the liver to these hormones is to release glucose to the blood.
@@ -311,19 +311,19 @@ Inc.)</ref> This is important when blood glucose levels are high. During [[hypog
 
 [[Citrate]] inhibits phosphofructokinase when tested ''in vitro'' by enhancing the inhibitory effect of ATP. However, it is doubtful that this is a meaningful effect ''in vivo'', because citrate in the cytosol is mainly utilized for conversion to [[acetyl-CoA]] for [[fatty acid]] and [[cholesterol]] synthesis.
 
-===Pyruvate kinase and phosphoglycerate kinase===
-[[Image:Pyruvate Kinase 1A3W wpmp.png|thumb|right|[[Yeast]] [[pyruvate kinase]]. {{PDB|1A3W}}.]]
+=== Pyruvate kinase and phosphoglycerate kinase ===
+[[دوتنه:Pyruvate Kinase 1A3W wpmp.png|thumb|right|[[Yeast]] [[pyruvate kinase]]. {{PDB|1A3W}}.]]
 [[Pyruvate kinase]] and [[phosphoglycerate kinase]] catalyze the two [[substrate-level phosphorylation]] steps, and produce ATP from ADP. While both of these reactions are exergonic, [[phosphoglycerate kinase]] is less exergonic (-18.8 kJ/mol) than [[pyruvate kinase]]. [[Phosphoglycerate kinase]] helps to "pull along" the endergonic [[glyceraldehyde phosphate dehydrogenase]], and in fact, these enzymes are reversible and also function in gluconeogenesis. In contrast, the strongly exergonic [[pyruvate kinase]] is irreversible and thus a prime candidate for regulation.
 
-==Post-glycolysis processes==
+== Post-glycolysis processes ==
 The ultimate fate of pyruvate and NADH produced in glycolysis depends upon the organism and the conditions, most notably the presence or absence of oxygen and other external electron acceptors. In addition, not all carbon entering the pathway leaves as pyruvate and may be extracted at earlier stages to provide carbon compounds for other pathways.
 
-===Aerobic respiration===
+=== Aerobic respiration ===
 :''Main article:'' [[Aerobic respiration]]
 
 In [[aerobic organism]]s, pyruvate is converted to [[acetyl-CoA]], within the [[mitochondria]], where it is fully oxidized to carbon dioxide and [[water]] by the [[pyruvate dehydrogenase complex]] (oxidative decarboxylation) and the set of enzymes of the [[citric acid cycle]]. There are five separate activities catalyzed by the [[pyruvate dehydrogenase complex]], which is highly regulated because this step irreversibly converts a glucose precursor into [[acetyl-CoA]]. The NADH produced is ultimately oxidized by the [[electron transport chain]], using oxygen as final electron acceptor to produce a large amount of ATP via the action of the [[ATP synthase]] complex, a process known as [[oxidative phosphorylation]]. A net of only two molecules of [[Adenosine triphosphate|ATP]] per glucose are produced by substrate-level phosphorylation during the citric acid cycle.
 
-===Anaerobic respiration===
+=== Anaerobic respiration ===
 :''Main article:'' [[Anaerobic respiration]]
 In animals, including [[humans]], metabolism is primarily aerobic. However, under hypoxic (or partially-anaerobic) conditions, for example, in overworked muscles that are starved of oxygen or in infarcted heart muscle cells, pyruvate is converted to [[lactic acid|lactate]] by [[anaerobic respiration]] (also known as [[Fermentation (biochemistry)|fermentation]]). This is a solution to maintaining the metabolic flux through glycolysis in response to an anaerobic or severely-hypoxic environment. In many tissues, this is a cellular last resort for energy, and most animal tissue cannot maintain anaerobic respiration for an extended length of time. Many single cellular organisms use anaerobic respiration only as an energy source.
 
@@ -331,28 +331,28 @@ Glycolysis is insufficient for [[anaerobic respiration]], as it does not regener
 
 There are several types of anaerobic respiration wherein pyruvate and NADH are anaerobically metabolized to yield any of a variety of products with an organic molecule acting as the final hydrogen acceptor. For example, the [[bacterium|bacteria]] involved in making yogurt simply reduce pyruvate to [[lactic acid]], whereas [[yeast]] produces [[ethanol]] and [[carbon dioxide]]. Anaerobic bacteria are capable of using a wide variety of compounds, other than oxygen, as terminal electron acceptors in respiration: nitrogenous compounds (such as nitrates and nitrites), sulfur compounds (such as sulfates, sulfites, sulfur dioxide, and elemental sulfur), carbon dioxide, iron compounds, manganese compounds, cobalt compounds, and uranium compounds.
 
-===Intermediates for other pathways===
+=== Intermediates for other pathways ===
 This article concentrates on the [[catabolic]] role of glycolysis with regard to converting potential chemical energy to usable chemical energy during the oxidation of glucose to pyruvate. However, many of the metabolites in the glycolytic pathway are also used by [[anabolic]] pathways, and, as a consequence, flux through the pathway is critical to maintain a supply of carbon skeletons for biosynthesis.
 
 These metabolic pathways are all strongly reliant on glycolysis as a source of metabolites:
-*[[Gluconeogenesis]]
-*[[Lipid metabolism]]
-*[[Pentose phosphate pathway]]
-*[[Citric acid cycle]], which in turn leads to:
+* [[Gluconeogenesis]]
+* [[Lipid metabolism]]
+* [[Pentose phosphate pathway]]
+* [[Citric acid cycle]], which in turn leads to:
 :*[[Amino acid synthesis]]
 :*[[Nucleotide synthesis]]
 :*[[Tetrapyrrole synthesis]]
 
 From an energy perspective, NADH is either recycled to NAD+ during anaerobic conditions, to maintain the flux through the glycolytic pathway, or used during aerobic conditions to produce more ATP by [[oxidative phosphorylation]]. From an [[anabolism|anabolic]] metabolism perspective, the NADH has a role to drive synthetic reactions, doing so by directly or indirectly reducing the pool of NADP+ in the cell to NADPH, which is another important reducing agent for biosynthetic pathways in a cell.
 
-==Glycolysis in disease==
+== Glycolysis in disease ==
 
-===Genetic diseases===
+=== Genetic diseases ===
 Glycolytic mutations are generally rare due to importance of the metabolic pathway, however some mutations are seen.
 
 {{section stub}}
 
-===سرطان===
+=== سرطان ===
 Malignant rapidly-growing [[tumor]] cells typically have glycolytic rates that are up to 200 times higher than those of their normal tissues of origin. There are two common explanations. The classical explanation is that there is poor blood supply to tumors causing local depletion of oxygen. There is also evidence that attributes some of these high aerobic glycolytic rates to an overexpressed form of mitochondrially-bound [[hexokinase]]<ref>{{cite web | title=High Aerobic Glycolysis of Rat Hepatoma Cells in Culture: Role of Mitochondrial Hexokinase -- Bustamante and Pedersen 74 (9): 3735 -- Proceedings of the National Academy of Sciences | url=http://www.pnas.org/cgi/reprint/74/9/3735 | accessmonthday=December 5 | accessyear=2005 }}</ref> responsible for driving the high glycolytic activity. This phenomenon was first described in 1930 by [[Otto Warburg]], and hence it is referred to as the [[Warburg effect]]. [[Warburg hypothesis]] claims that cancer is primarily caused by dysfunctionality in mitochondrial metabolism, rather than because of uncontrolled growth of cells. There is ongoing research to affect mitochondrial metabolism and treat cancer by starving cancerous cells in various new ways, including a [[Ketogenic diet (generic)|ketogenic diet]]. 
 
 This high glycolysis rate has important medical applications, as high aerobic glycolysis by malignant tumors is utilized clinically to diagnose and monitor treatment responses of [[cancers]] by [[imaging]] uptake of [[Fluorodeoxyglucose|2-<sup>18</sup>F-2-deoxyglucose]] (a [[radioactive]] modified hexokinase [[substrate (biochemistry)|substrate]]) with [[positron emission tomography]] (PET).<ref>{{cite web | title=PET Scan: PET Scan Info Reveals ... | url=http://www.petscaninfo.com/ | accessmonthday=December 5 | accessyear=2005 }}</ref><ref>{{cite web | title=4320139 549..559 | url=http://biogenomica.com/PDFs/PauwelsPETandHexokinase.pdf | accessmonthday=December 5 | accessyear=2005 }}</ref>
@@ -390,7 +390,7 @@ Disfunctioning glycolysis or glucose metablism in fronto-temporo-parietal and ci
 | accessdate = 20 May 
 | accessyear = 2008 }}</ref>
 
-==Alternative nomenclature==
+== Alternative nomenclature ==
 Some of the metabolites in glycolysis have alternative names and nomenclature. In part, this is because some of them are common to other pathways, such as the [[Calvin cycle]].
 
 {| class="wikitable"
@@ -432,7 +432,7 @@ Some of the metabolites in glycolysis have alternative names and nomenclature. I
 |7
 | [[1,3-bisphosphoglycerate]]
 |'''1,3BPG'''
-|glycerate 1,3-bisphosphate,<br>glycerate 1,3-diphosphate,<br>1,3-diphosphoglycerate
+|glycerate 1,3-bisphosphate,<br />glycerate 1,3-diphosphate,<br />1,3-diphosphoglycerate
 |'''PGAP''', '''BPG''', '''DPG'''
 |-
 |8
@@ -484,14 +484,13 @@ Some of the metabolites in glycolysis have alternative names and nomenclature. I
 {{Carbohydrate metabolism}}
 {{MetabolismMap}}
 {{Glycolysis enzymes}}
-
-[[Category:Biochemistry]]
-[[Category:Carbohydrates]]
-[[Category:Cellular respiration]]
-[[Category:Metabolic pathways]]
-[[Category:Carbohydrates]]
-
 {{Link FA|it}}
+
+[[وېشنيزه:Biochemistry]]
+[[وېشنيزه:Carbohydrates]]
+[[وېشنيزه:Cellular respiration]]
+[[وېشنيزه:Metabolic pathways]]
+[[وېشنيزه:Carbohydrates]]
 
 [[ar:تحلل سكري]]
 [[bg:Гликолиза]]
@@ -527,5 +526,6 @@ Some of the metabolites in glycolysis have alternative names and nomenclature. I
 [[th:ไกลโคไลซิส]]
 [[tl:Glikolisis]]
 [[tr:Glikoliz]]
+[[uk:Гліколіз]]
 [[zh:糖酵解]]
 [[zh-min-nan:Thn̂g-kái]]
