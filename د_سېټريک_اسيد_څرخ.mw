@@ -1,18 +1,18 @@
 {{ژباړل}}
-[[Image:Citricacidcycle.png|thumb|left|400px|د سېټريک اسيد د څرخ پړاونه]]
+[[دوتنه:Citricacidcycle.png|thumb|left|400px|د سېټريک اسيد د څرخ پړاونه]]
 
 '''د سېټريک اسيد څرخ'''، چې د '''ټرايکاربوآکسېليک اسيد څرخ''' ('''TCA څرخ''') يا د  '''کرېبس څرخ''' په نومونو سره هم يادېږي، د کټلايز شوي [[انزايم]]ونو د [[کيميايي تعامل]]ونو يوه لړۍ ده. دا کيميايي څرخ په ټولو هغو ژونديو سلولونو کې چې د سلولي سااخيستنې په کړنه کې له [[آکسيجن]] نه کار اخلي پېښېږي. په [[ايوکاريوټ]] سلولونو کې د سېټريک اسيد څرخ د [[مايټوکونډريا]] په [[مېټرکس]] کې سرته رسي. د لومړي ځل لپاره د سېټريک اسيد څرخ د توکيو او تعاملونو موندنه د [[البېرټ شېنټ ګيورګي]] او د [[هانس آډولف کرېبز]] د څېړنو په پايله کې وموندل شول.
 
 په [[اېروبيک ژواندي|اېروبيکو ژوانديو]] کې د سېټريک اسيد څرخ [[مېټابوليکه لار|مېټابوليکو پړاوونو]] يوه برخه ده چې [[کاربوهايډرېټ]]ونو، [[غوړ]]و او پروټينو د کيميايي ادلون بدلون په شتون کې [[کاربون ډای آکسايډ]] او [[اوبه|اوبو]] بدلولو سره د کارولو وړ اېنرژي توليدوي. همداسې نور اړونده تعاملونه چې په ميټابوليک پړاوونو کې پېښېږي هغه دي چې په [[ګلايکوليسېز]] او د [[پايروېټ آکسيډېشن]] په پروسو کې د سېټريک اسيد څرخ د رامېنځ ته کېدو نه دمخه رامېنځ ته کېږي خو [[آکسيډېټيف فاسفوريلېشن]] بيا د سېټريک اسيد څرخ نه وروسته رامېنځ ته کېږي.
 In addition, it provides [[precursor]]s for many compounds including some [[amino acid]]s and is therefore functional even in cells performing [[fermentation (biochemistry)|fermentation]].
 
-==کتنه==
+== کتنه ==
 
 د کاربون دوه اټومونه [[کاربون ډای آکسايډ|CO<sub>2</sub>]] ته آکسيډايز کېږي، او د همدغه تعامل نه رامېنځ ته شوې انرژي د  [[ګوانوسين ټرافاسفېټ|GTP]] (يا [[اډينوسين ټرايفاسفېټ|ATP]]) او يا هم د اليکټرونونو په توګه د [[NADH]] او [[Flavin|FADH<sub>2</sub>]] له لارې مېټابوليکو پروسو ته ورلېږدل کېږي.The  NADH generated in the TCA cycle may later donate its electrons in [[oxidative phosphorylation]] to drive ATP synthesis; FADH<sub>2</sub> is covalently attached to succinate dehydrogenase, an enzyme functioning both in the TCA cycle and the mitochondrial [[electron transfer chain]] in oxidative phosphorylation. FADH<sub>2</sub> thereby facilitates transfer of electrons to [[coenzyme Q]], an intermediate in the electron transfer chain.<ref name=[[Stryer]]>{{cite book |last= Berg |first=JM |coauthors= JL Tymoczko, L Stryer |title= Biochemistry - 5th Edition |pages =465-484, 498-501|publisher= WH Freeman and Company |year=2002 |isbn= 0-7167-4684-0}}</ref>
 
 The citric acid cycle is continuously supplied new carbons in the form of acetyl-CoA, entering at step 1 below.<ref name=Biochemistryofplants>{{cite book |last= Buchanan |coauthors= Gruissem, Jones |title= Biochemistry & molecular biology of plants |edition=1st Edition |publisher= American society of plant physiology|year=2000 |isbn=0-943088-39-9}}</ref>
 {| class="wikitable"
-!پړ<br>او<br>نه
+!پړ<br />او<br />نه
 !Substrates
 !توليدات
 !اينزايم
@@ -91,14 +91,14 @@ Mitochondria in animals including humans possess two succinyl-CoA synthetases, o
 
 The GTP that is formed by GDP-forming succinyl-CoA synthetase may be utilized by [[nucleoside-diphosphate kinase]] to form ATP (the catalyzed reaction is GTP + ADP -> GDP + ATP).<ref name=[[Stryer]]/>
 
-==د همدغې پروسې ساده بڼه==
+== د همدغې پروسې ساده بڼه ==
 * The citric acid cycle begins with [[acetyl-CoA]] transferring its two-carbon [[acetyl]] group to the four-carbon acceptor compound (oxaloacetate) to form a six-carbon compound (citrate).
 * The citrate then goes through a series of chemical transformations, losing first one, then a second [[carboxyl]] group as CO<sub>2</sub>. The carbons lost as CO<sub>2</sub> originate from what was oxaloacetate, not directly from acetyl-CoA. The carbons donated by acetyl-CoA become part of the oxaloacetate carbon backbone after the first turn of the citric acid cycle. Loss of the acetyl-CoA-donated carbons as CO<sub>2</sub> requires several turns of the citric acid cycle. However, because of the role of the citric acid cycle in anabolism,  they may not be lost since many TCA cycle intermediates are also used as precursors for the biosynthesis of other molecules.<ref>Wolfe RR, Jahoor F.  (1990) [http://www.ajcn.org/cgi/reprint/51/2/248.pdf Recovery of labeled CO<sub>2</sub> during the infusion of C-1- vs C-2-labeled acetate: implications for tracer studies of substrate oxidation.] ''Am J Clin Nutr.'' '''51(2)''':248-52. PMID 2106256 </ref>
 * Most of the energy made available by the oxidative steps of the cycle is transferred as energy-rich [[electrons]] to NAD<sup>+</sup>, forming NADH. For each acetyl group that enters the citric acid cycle, three molecules of NADH are produced.
 * Electrons are also transferred to the electron acceptor FAD, forming FADH<sub>2</sub>.
 * At the end of each cycle, the four-carbon oxaloacetate has been regenerated, and the cycle continues.
 
-==توليدات==
+== توليدات ==
 
 Products of the first turn of the cycle are: ''one GTP, three NADH, one FADH<sub>2</sub>, two CO<sub>2</sub>''.
 
@@ -118,7 +118,7 @@ Because two acetyl-CoA [[molecules]] are produced from each [[glucose]] molecule
 
 Considering the future conversion of GTP to ATP and the maximum 32 ATP produced by the 10 NADH and the 2 FADH<sub>2</sub> (see the theoretical yields for [[cellular respiration]]), it follows that each glucose molecule is able to produce a maximum of 32 ATP.
 
-== نظم او تنظيم==
+== نظم او تنظيم ==
 ''Although pyruvate dehydrogenase is not technically a part of the citric acid cycle, its regulation is included here.''
 
 The regulation of the TCA cycle is largely determined by substrate availability and product inhibition. NADH, a product of all dehydrogenases in the TCA cycle with the exception of succinate dehydrogenase, inhibits [[pyruvate dehydrogenase]], isocitrate dehydrogenase and α-ketoglutarate dehydrogenase, and also citrate synthase. Acetyl-CoA inhibits [[pyruvate dehydrogenase]], while succinyl-CoA inhibits succinyl-CoA synthase and citrate synthase. When tested in vitro with TCA enzymes,  ATP inhibits citrate synthase and α-ketoglutarate dehydrogenase; however, ATP levels do not change more than 10% in vivo between rest and vigorous exercise. There is no known [[allosteric]] mechanism that can account for large changes in reaction rate from an allosteric effector whose concentration changes less than 10% <ref>Voet, D. & Voet, J. G. (2004) Biochemistry 3rd Edition (John Wiley & Sons, Inc., New York) p. 615</ref>.
@@ -137,7 +137,7 @@ Calcium is used as a regulator. It activates pyruvate dehydrogenase, isocitrate 
 
 Citrate is used for feedback inhibition, as it inhibits [[phosphofructokinase]], an enzyme involved in [[glycolysis]] that catalyses formation of [[fructose 1,6-bisphosphate]], a precursor of pyruvate. This prevents a constant high rate of flux when there is an accumulation of citrate and a decrease in substrate for the enzyme.
 
-Recent work has demonstrated an important link between intermediates of the citric acid cycle and the regulation of [[hypoxia inducible factors]] ([[HIF1A|HIF]]). HIF plays a role in the regulation of oxygen haemostasis, and is a transcription factor which targets angiogenesis, vascular remodelling, glucose ulitisation, iron transport and apoptosis. HIF is synthesized consititutively and hydroxylation of at least one of two critical proline residues mediates their interation with the von Hippel Lindau [[E3 ubiquitin ligase]] complex which targets them for rapid degradation. This reaction is calalysed by [[prolyl hydroxylase|prolyl 4-hydroxylase]]s. Fumarate and succinate have been identified as potent inhibitors of prolyl hydroxylases thus leading to the stabilisation of HIF.<ref>{{cite journal |author=Koivunen P, Hirsilä M, Remes AM, Hassinen IE, Kivirikko KI, Myllyharju J |title=Inhibition of hypoxia-inducible factor (HIF) hydroxylases by citric acid cycle intermediates: possible links between cell metabolism and stabilization of HIF |journal=J. Biol. Chem. |volume=282 |issue=7 |pages=4524–32 |year=2007 |pmid=17182618 |url=http://www.jbc.org/cgi/content/full/282/7/4524}}</ref>
+Recent work has demonstrated an important link between intermediates of the citric acid cycle and the regulation of [[hypoxia inducible factors]] ([[HIF1A|HIF]]). HIF plays a role in the regulation of oxygen haemostasis, and is a transcription factor which targets angiogenesis, vascular remodelling, glucose ulitisation, iron transport and apoptosis. HIF is synthesized consititutively and hydroxylation of at least one of two critical proline residues mediates their interation with the von Hippel Lindau [[E3 ubiquitin ligase]] complex which targets them for rapid degradation. This reaction is calalysed by [[prolyl hydroxylase|prolyl 4-hydroxylases]]. Fumarate and succinate have been identified as potent inhibitors of prolyl hydroxylases thus leading to the stabilisation of HIF.<ref>{{cite journal |author=Koivunen P, Hirsilä M, Remes AM, Hassinen IE, Kivirikko KI, Myllyharju J |title=Inhibition of hypoxia-inducible factor (HIF) hydroxylases by citric acid cycle intermediates: possible links between cell metabolism and stabilization of HIF |journal=J. Biol. Chem. |volume=282 |issue=7 |pages=4524–32 |year=2007 |pmid=17182618 |url=http://www.jbc.org/cgi/content/full/282/7/4524}}</ref>
 
 == د سېټريک اسيد په څرخ کې اهمې مېټابوليکې لارې ==
 Most of the body's [[catabolic]] pathways converge on the TCA cycle, as the diagram shows. Reactions that form intermediates of the TCA cycle in order to replenish them (especially during the scarcity of the intermediates) are called [[anaplerotic reactions]].
@@ -153,7 +153,7 @@ The citric acid cycle is always followed by [[oxidative phosphorylation]]. This 
 The total energy gained from the complete breakdown of one molecule of glucose by glycolysis, the citric acid cycle and oxidative phosphorylation equals about 36 ATP molecules.
 The citric acid cycle is called an [[amphibolic]] pathway because it participates in both [[catabolism]] and [[anabolism]].
 
-==دا هم وګورۍ==
+== دا هم وګورۍ ==
 * [[Calvin cycle]]
 * [[Oxidative decarboxylation]]
 * [[Citric acid]]
@@ -164,7 +164,7 @@ The citric acid cycle is called an [[amphibolic]] pathway because it participate
 * [[Glyoxylate cycle]]
 * [[Hans Adolf Krebs]]
 
-==سرچينې==
+== سرچينې ==
 <small>
 {{reflist}}
 * {{cite book|author=Neil A. Campbell|coauthors=Jane B. Reece |title=Biology|isbn=978-0805371468|edition=7th ed.|publisher=Benjamin Cummings|month=Dec|year=2005}}
@@ -172,7 +172,7 @@ The citric acid cycle is called an [[amphibolic]] pathway because it participate
 * Note on nomenclature: On rare occasions the citric acid cycle is known by a fourth name, the '''Szent-Györgyi-Krebs cycle''', after [[Hans Adolf Krebs]] and [[Albert Szent-Györgyi]] who first determined the chemical intermediates and reaction sequence of the cycle.
 </small>
 
-==باندنۍ تړنې==
+== باندنۍ تړنې ==
 * [http://www.science.smith.edu/departments/Biology/Bio231/krebs.html An animation of the citric acid cycle] at [[Smith College]]
 * [http://www.youtube.com/watch?v=FgXnH087JIk A video of members of The Ohio State Marching Band enacting the Krebs cycle] at [[YouTube]]
 * [http://www.rahulgladwin.com/blog/2007/01/notes-on-citric-acid-cycle-glyoxylate.html Notes on citric acid cycle] at rahulgladwin.com
@@ -185,12 +185,11 @@ The citric acid cycle is called an [[amphibolic]] pathway because it participate
 {{د سېټريک اسيد څرخ}}
 {{MetabolismMap}}
 {{د سېټريک اسيد څرخ انزايمونه}}
-
-[[Category:سلولي سااخيستنه]]
-[[Category:Exercise physiology]]
-[[Category:مېټابوليکې لارې]]
-
 {{Link FA|it}}
+
+[[وېشنيزه:سلولي سااخيستنه]]
+[[وېشنيزه:Exercise physiology]]
+[[وېشنيزه:مېټابوليکې لارې]]
 
 [[ar:دورة حمض الستريك]]
 [[bg:Цикъл на Кребс]]
@@ -202,6 +201,7 @@ The citric acid cycle is called an [[amphibolic]] pathway because it participate
 [[eo:Ciklo de Krebs]]
 [[es:Ciclo de Krebs]]
 [[et:Tsitraaditsükkel]]
+[[eu:Krebs zikloa]]
 [[fi:Sitruunahappokierto]]
 [[fr:Cycle de Krebs]]
 [[he:מעגל קרבס]]
