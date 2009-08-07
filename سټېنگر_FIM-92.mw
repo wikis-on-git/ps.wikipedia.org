@@ -1,68 +1,15 @@
-{{Infobox Weapon
-|name= Stinger
-|image= [[Image:Stinger system.JPG|300px]]
-|caption= Stinger system
-|origin= {{flagicon|United States}} [[United States]]
-|type=Manportable surface-to-air missile 
-<!-- Type selection -->
-|is_ranged=
-|is_explosive=yes
-|is_missile=yes
-|is_UK=
-<!-- Service history -->
-|service= 1981–Present
-|used_by= See ''Operators''
-|wars= [[Falklands War]], [[Soviet invasion of Afghanistan]], [[Angolan Civil War]], [[Kargil War]], [[Yugoslav Wars]]
-<!-- Production history -->
-|designer= [[General Dynamics]]
-|design_date= 1967
-|manufacturer= [[Raytheon Missile Systems]]
-|unit_cost= [[United States dollar|US$]]38,000
-|production_date= 1978 
-|number= 
-|variants= FIM-92A, FIM-92B, FIM-92C, FIM-92D, FIM-92G
-<!-- General specifications -->
-|spec_label= FIM-92 Stinger
-|weight= 15.2 kg
-|length= 1.52 m
-|part_length= 
-|width=
-|height=
-|diameter= 70 mm
-|crew= 1
-<!-- Ranged weapon specifications --> 
-|cartridge= 
-|caliber= 
-|barrels=
-|action= 
-|rate=
-|velocity= 
-|range= 4,800 meters (15,750 ft)
-|max_range= 
-|feed= 
-|sights= [[Optical sight]]
-<!-- Explosive specifications --> 
-|filling= 
-|filling_weight= 3 kg 
-|detonation= 
-|yield=
-<!-- Vehicle/missile specifications -->
-|armour=
-|primary_armament=
-|secondary_armament=
-|engine= Solid Rocket Motor
-|engine_power=
-|transmission=
-|payload_capacity=
-|fuel_capacity=
-|pw_ratio=
-|suspension=
-|clearance=
-|vehicle_range=
-|speed= 
-|guidance= [[Infrared homing]]
-|launch_platform=[[MANPADS]], [[M2/M3 Bradley Fighting Vehicle#M6 Linebacker|M6 Linebacker]], [[AN/TWQ-1 Avenger]], [[MQ-1 Predator]], [[AH-64 Apache]]
-}}
+{{خانۂ معلومات میزائل
+|نام = سٹنگر میزائل
+|پورا نام = FIM-92 سٹنگر
+|میزائل کی تصویر = Stinger missile system.JPG
+|حد = 4.5 [[کلومیٹر]]
+|اسلحہ = تین کلوگرام کا بم
+|قیمت = 62000 $ 
+|لمبائی = 1.52 [[میٹر]]
+|چلانے کی جگہ = کندھے سے
+|رہنمائی کا نظام = (IR (Infrared active homing
+|وزن = 15.2 کلوگرام
+|رفتار = Mach 2.2
 
 د ستنګر راکټ یوه د الوتکه په خلاف راکټ دی. هغه راکټ په امریکا کښې جوړول کیږی.
 ستنګر د لښګر په مناسب دی او هغه له د الوتکه تباه کول نه کار اخیستل کیږی. ستنګر کوچنۍ راکټ دی چه په ټیوپ کښې دی. ستنګر له اوږه نه اچول کیږی او هغه راکټ د انفرارډ په ذریعه د دښمن الوتکه را لټوی.
