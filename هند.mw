@@ -1,49 +1,62 @@
-{{Infobox Country|
-اصلي نوم = Republic of India <br />भारत गणराज्य<br /> Bh{{Unicode|ā}}rat Ga{{Unicode|ṇ}}ar{{Unicode|ā}}jya<!-- IF YOU CANNOT SEE THE 'N' UPGRADE YOUR BROWSER -->|
-عام نوم= India|the=|
-بېرغ= دهندوستان بيرغ.svg |
-نښان= Emblem of India.svg |
-national_motto = [[Satyameva Jayate]]<br /> [[Sanskrit]]: सत्यमेव जयते <br />{{IPA|/sətyəmeːvə ɟəjəteː/}}<br /> (Truth Alone Triumphs) |
-نخشه = LocationIndia.png |
-ملي سرود = [[Jana Gana Mana]]<br /> [[Sanskrit]]: जन गण मन <br />{{IPA|/ɟənə gəɳə mənə/}}|
-رسمي ژبه= هندي انګريزي او۲۱ نوري ژبي
-پلازمېنه = [[نوي ډهلي]] |
-latd = 28|latm=34|latNS=N|longd=77|longm=12|longEW=E |
-د حکومت بڼه = [[فدرالي جمهوريت]] |
-د لارښود لقب = [[د هندوستان ولسمشر|ولسمشر]]<br />[[د هندوستان لومړی وزير|لومړی وزير]] |
-د لارښود نوم = [[عبدالکلام]]<br />[[Manmohan Singh]] | لوی ښار = [[مومبای]] (بمبی) |
-مساحت = 3,287,590 |
-د مساحت وېش = 7th |
-د مساحت ارتوالی = 1 E12 |
-د اوبو سلنه = 9.56 |
-وګړي = 1,112,225,812|
-د وګړو د شمېر د اټکل کال = 2006 |
-population_estimate_rank = 2nd |
-د وګړو سرشمېرنه = 1,027,000,000 |
-د وګړو د سرشمېرنې کال = 2001 |
-د وګړو ګڼه ګونه = 329 |
-population_density_rank = 19th |
-GDP_PPP_year = 2005 |
-GDP_PPP = $3.678 trillion |
-GDP_PPP_rank = 4th |
-GDP_PPP_per_capita = $3400 |
-GDP_PPP_per_capita_rank = 125th |
-HDI_year = 2003 |
-HDI = 0.602 |
-HDI_rank = 127th |
-HDI_category = <font color="#FFCC00">medium</font> |
-زمکنۍ بشپړتيا = [[د هندوستان خپلواکي|خپلواکي]] |
-established_events = &nbsp;- Declared<br />&nbsp;- Republic |
-established_dates = From the [[United Kingdom]]<br />[[1947-08-15]]<br />[[1950-01-26]] |
-پېسه = [[Indian Rupee|Rupee]] (Rs.)<sup>1</sup> |
-د پېسو نښه = INR |
-وخت = [[Indian Standard Time|IST]] |
-utc_offset = +5:30 |
-time_zone_DST = not observed |
-utc_offset_DST = +5:30|
-cctld = [[.in]] |
-پېل ګڼ = 91 |
-footnotes = <sup>1</sup> '''Re.''' is singular 
+{{هېواد-مالوماتبکس
+|ملي نوم=भारत गणराज्य*<br />''{{lang|inc-Latn|بهارت ګناراجيا}}''
+|اوږد دوديزه نوم= د هند جمهوريت
+|ټولګړی نوم= هند
+|image_flag               = Flag of India.svg
+|image_coat               = Emblem of India.svg
+|سمبول              = نښان
+|image_map                = India (orthographic projection).svg
+|ملي ناره= ''"[[ستيامېوا جياتې]]" ''<small>([[سنسيکرېت]])</small><br /> {{lang|sa|सत्यमेव जयते}}&nbsp; <small>([[ډېوانګري]])<br />"يوازې رښتيا ګټيالی دی"<ref>{{cite web|url=http://www.india.gov.in/knowindia/state_emblem.php|title=State Emblem -''Inscription''|accessdate=2007-06-17|publisher=[[National Informatics Centre|National Informatics Centre(NIC)]]}}</ref></small>
+|ملي سرود          = ''[[جانا ګانا مانا]]''<small><br />Thou art the ruler of the minds of all people</small><ref>{{cite web|title=''ملي سرود'' – Know India portal|url=http://india.gov.in/knowindia/national_anthem.php|accessdate=2007-08-31|publisher=[[National Informatics Centre|National Informatics Centre(NIC)]]|year=2007}}</ref>
+|رسمي ژبې/ژبې       = [[هندي]]<br/>[[انګرېزي]]
+|پلازمېنه                  = [[نوی ډېلی]]
+|latd=34 |latm=31 |latNS=N |longd=69 |longm=08 |longEW=E
+|لوی ښار             = نوی ډيلی
+|د حکومت بڼه          = [[فېډرالي جمهوريت]],<br />[[پارلماني نظام|پارلماني ولسواکي]]<ref name="IndiaGlance">{{cite web|title=India at a Glance|work=Know India Portal|publisher=[[National Informatics Centre|National Informatics Centre(NIC)]]|url=http://india.gov.in/knowindia/india_at_a_glance.php|accessdate=2007-12-07}}</ref>
+|د لارښود لقب1            = [[د هند ولسمشر|ولسمشر]]
+|د لارښود لقب2            = [[د ولسمشر مرستيال]]
+|د لارښود نوم1             = [[پراتېبها پټېل]]
+|د لارښود نوم2            = [[]]
+|د لارښود لقب3            = [[د ولسمشر مرستيال]]
+|د لارښود نوم3             = [[]]
+|ارتواليز وېش= يوڅلوېښتم هېواد
+|د ارتوالي څومره والی= 1_E11
+|ارتوالی= ۶۵۲،۰۹۰
+|areami²                  = ۲۵۱،۷۷۲ <!--Do not remove per [[WP:MOSNUM]]-->
+|د اوبو سلنه           = n/a
+|د وګړو اټکل      = 1,198,003,000<ref name=unpop>{{cite paper | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf
+|د وګړو د شمېر د اټکل کال = ۲۰۰۹
+|د وګړو د اټکل له مخې وېش = دويم هېواد
+|د وګړو سرشمېرنه        = 1,028,610,328<ref>{{cite web|url=http://censusindia.gov.in/Census_Data_2001/India_at_glance/popu1.aspx|title=India at a glance: Population|work=Census of India, 2001|publisher=Government of India|accessdate=2009-04-25}}</ref>
+|د وګړو د سرشمېرنې کال   = ۲۰۰۱
+|د وګړو ګڼه ګونه      = ۴۶
+|د وګړو ګڼه ګونه په هر متر² کې   = 943.9 <!--Do not remove per [[WP:MOSNUM]]-->
+|د وېش له مخې د وګړو ګڼه ګونې= ۱۵۰
+|د ټول کورني عايداتو کال     = ۲۰۰۶
+|ټول کورني عايدات   = ۳۱،۹ بيليون $ 
+|د کورني عايداتو له مخې وېش   = ۹۱
+|GDP_PPP_per_capita       = $1,310
+|GDP_PPP_per_capita_rank  = ۱۶۲
+|HDI_year                 = ۱۹۹۳
+|HDI                      = ۰،۲۲۹
+|HDI_rank                 = unranked
+|HDI_category             = <font color="gray">n/a</font>
+|زمکنۍ بشپړتيا= [[د راولپېنډۍ تړون|خپلواکي]]
+|د زمکنۍ بشپړتيا يادښت= له برطانيې او آيرلېنډ نه ترلاسه کړې
+|established_event1       = د اعلانېدو نېټه
+|established_event2       = د پېژندلو نېټه
+|established_date1        = [[۸ اګسټ]] [[۱۹۱۹]]
+|established_date2        = [[۱۹ اګسټ]] [[۱۹۱۹]]
+|پېسه                 = [[افغانۍ <small>(Af)</small>]]
+|د پېسو نښه = AFN
+|هېوادنی کوډ             = AFG
+|سيمه ايز وخت=
+|utc_offset               = +۴:۳۰
+|time_zone_DST            = 
+|utc_offset_DST           = +۴:۳۰
+|cctld                    = [[.af]]
+|پېل ګڼ        = ۹۳
+|پايڅوړ                = 
 }}
 
 '''هند'''، چې په رسمي چارو کې د هند جمهوريت بلل کېږي، (هندي: भारत गणराज्य بهارت ګناراجيا) د سوېلي آسيا يو هېواد دی. دا هېواد د جغرافيايي مساحت له مخې د نړۍ اووم لوی هېواد او د وګړو د شمېر له مخې د نړۍ دويم ګڼ جمعيته هېواد دی. يوه بله ځانګړتيا چې د دې هېواد په برخه کې ده هغه دا ده چې دا هېواد د نړۍ تر ټولو مشهوره ولسواکه (ډيموکراتيک) هېواد دی چې لسګونه توکمونه پکې د يوه بېرغ ترسيوري لاندې سره يوځای اوسېږي. د هند لوېديځه خوا هندي سمندر ته وتلې، د دغه هېواد په لوېديځ کې د عربو سمندرګی، په ختيځ کې يې د بنګال خليج پراته دي چې دا ټول د هند ۷۵۱۷ کيلومتره سمندري ساحل جوړوي.[14] هند د نړۍ د نورو هېوادونو سره هم ګډې پولې لري. د دغه هېواد په لوېديځ کې پاکستان، په سهېل کې د چين د خلکو جمهوريت، نيپال او د بهوټان هېوادونه، په ختيځ کې د بنګله دېش او د ماينامار هېوادونه پراته دي. همداراز د هند په سوېل کې د هندي سمندر له لارې د سريلانکا، مالديپ او اندونيزيا سره د اوبو ګډې پولې لري.
