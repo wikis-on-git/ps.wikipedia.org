@@ -27,3 +27,125 @@
 [[ru:Scorpion Vz.61]]
 [[sh:Vz 61]]
 [[sk:Samopal vzor 61]]
+
+
+{{Infobox Weapon
+|name=Škorpion vz. 61
+|image=[[Image:Submachine gun vz61.jpg|300px]]
+|caption=The early vz. 61 with stock extended.
+|origin={{flag|Czechoslovakia}}
+|type=[[Submachine gun]]
+<!-- Type selection -->
+|is_ranged=yes
+<!-- Service history -->
+|service=1961–present
+|used_by=See ''[[Škorpion vz. 61#Users|Users]]''
+|wars=
+<!-- Production history -->
+|designer=Miroslav Rybář 
+|design_date=1959
+|manufacturer=[[Česká Zbrojovka Uherský Brod]], [[Zastava Arms]]<ref>http://www.janes.com/extracts/extract/jiw/jiw_0314.html</ref>
+|production_date=
+|number=Approx. 210,000
+|variants=See ''[[Škorpion vz. 61#Variants|Variants]]''
+<!-- General specifications -->
+|weight={{kg to lb|1.30|sp=us|abbr=on|precision=2|wiki=yes}} (vz. 61)<br/> {{convert|1.28|kg|abbr=on}} (vz. 61 E)<br/> {{convert|1.44|kg|abbr=on}} (vz. 82, vz. 83)
+|length={{mm to in|517|abbr=on|precision=1|wiki=yes}} stock extended / {{convert|270|mm|abbr=on|1}} stock folded
+|part_length={{convert|115|mm|abbr=on|1}} (vz. 61, vz. 61 E)<br/> {{convert|113|mm|abbr=on|1}} (vz. 82, vz. 83)
+|width={{convert|43|mm|abbr=on|1}} (vz. 61, vz. 61 E)<br/> {{convert|49|mm|abbr=on|1}} (vz. 82, vz. 83)
+|crew=
+<!-- Ranged weapon specifications --> 
+|cartridge=[[.32 ACP|.32 ACP (7.65x17mm Browning SR)]] (vz. 61, vz. 61 E)<br/> [[9x19mm Parabellum]] (vz. 68)<br/>[[9x18mm Makarov]] (vz. 82)<br/> [[.380 ACP|.380 ACP (9x17mm Short)]] (vz. 83)
+|action=[[Blowback (arms)|Blowback]], [[closed bolt]]
+|rate=850 rounds/min (vz. 61, vz. 61 E)<br/> 900 rounds/min (vz. 82, vz. 83)
+|velocity={{convert|320|m/s|0|sp=us|abbr=on}} (vz. 61, vz. 61 E, vz. 82)<br/> {{convert|292|m/s|abbr=on|1}} (vz. 83)
+|range=Sights fixed for 75 and 150 [[Metre|m]]
+|max_range=
+|feed=10 or 20-round curved [[magazine (firearm)|magazine]], straight box magazine in 9 mm variants
+|sights=Adjustable front post, flip-up rear sight<br/> {{convert|148|mm|abbr=on|1}} sight radius
+}}
+
+The '''Škorpion vz. 61''' is a [[Czechoslovakia|Czechoslovak]] 7.65 mm [[submachine gun]] (often classified as a [[machine pistol]]), developed in the 1950s by Miroslav Rybář (1924–1970) and produced under the official designation ''Samopal vzor 61'' ("submachine gun model 1961") by the [[Česká Zbrojovka Uherský Brod|Česká Zbrojovka]] arms factory in [[Uherský Brod]]. 
+
+Although it was developed for use with security forces, the weapon was also accepted into service with the Czechoslovak Army, as a personal sidearm for lower-ranking army staff, vehicle drivers, armored vehicle personnel and [[special forces]]. Currently the weapon is in use with the armed forces of the [[Czech Republic]], [[Slovakia]], [[Angola]], [[Croatia]], [[Egypt]], [[Iraq]], [[Libya]], [[Mozambique]] and [[Uganda]]. Production rights to the Škorpion were also acquired by the [[Yugoslavia]]n [[Zastava Arms|Crvena Zastava]] factory (currently Zastava Arms), which license-built the weapon in the 1980s as the '''M84'''. It features a synthetic pistol grip compared to the original version. A civilian, semi-automatic version was also produced, known as the '''M84A''', also available in [[.380 ACP|.380 ACP (9x17mm Short)]].
+
+==Design details==
+===Operating mechanism===
+The Škorpion is a [[Selective fire|select-fire]], [[Blowback (arms)|straight blowback]]-operated weapon that fires from the [[closed bolt]] position. The cartridge used produces a very low recoil impulse and this enables simple unlocked blowback operation to be employed; there is no delay mechanism and the cartridge is supported only by the [[inertia]] of the bolt and the strength of the return springs. When fired, gas pressure drives the case back in the chamber against the resistance provided by the weight of the bolt and its two recoil springs. The bolt travels back, extracting the empty case which is then ejected straight upwards through a port in the receiver housing top cover. 
+
+The Škorpion’s compact dimensions were achieved by using a [[Telescoping bolt|telescopic bolt]] assembly that wraps around a considerable portion of the barrel. The weapon features a spring-loaded casing extractor, installed inside the bolt head and a fixed, double ejector, which is a protrusion in the weapon’s frame.
+
+As the bolt is relatively light, the Škorpion utilizes an inertial rate reducer device (housed inside the wooden [[pistol grip]]) used to lower the weapon's rate of fire from 1,000 rounds/min to a more manageable 850 rounds/min. The rate reducer operates as follows: when the bolt reaches the end of its rearward stroke it strikes, and is caught by a spring-powered hook mounted on the back plate. At the same time it drives a lightweight, spring-loaded plunger down into the pistol grip. The plunger is easily accelerated and passes through a heavy weight which is left behind because of its inertia. The plunger, having compressed its spring, is driven up again and then meets the descending inertia buffer. This slows down the rising plunger which, when it reaches the top of its travel, rotates the hook, releasing the bolt which is driven forward by the compressed recoil springs. 
+
+===Features===
+The weapon is hammer-fired and has a trigger mechanism with a fire mode selector, whose lever (installed on the left side of the receiver, above the pistol grip) has three settings: "0"—weapon is safe, "1"—semi-automatic mode and "20"—fully automatic fire. The "safe" setting disables the trigger and the bolt in the forward position (by sliding the bolt catch lever upwards).<ref>{{cite book |title= Assault Pistols, Rifles, and Submachine Guns|last=Long |first=Duncan |authorlink= |coauthors= |year= [[1986]]|publisher= [[Paladin Press]]|location= Boulder, Colorado|isbn=0-87364-353-4|url= |page= 18 }}</ref> 
+
+The Škorpion uses the [[.32 ACP|7.65x17mm Browning SR (.32 ACP)]] pistol cartridge, which was the standard service cartridge of the Czechoslovak security forces. It uses two types of double-column curved box magazines: a short 10-round magazine (loaded weight—0.15 kg) or a 20-round capacity magazine (loaded weight—0.25 kg). The bolt remains locked open after the last cartridge from the magazine has been fired and can be snapped back forward by pulling the cocking handle knob slightly to the rear. 
+
+===Sights===
+The Škorpion is equipped with open-type [[iron sight]]s (mechanically adjustable forward post and flip rear sight with 75 and 150 m range notches) and a folding metal wire shoulder stock, which folds up and over the receiver and is locked on the front sight’s protection capture.
+
+===Accessories===
+The Škorpion, together with a short magazine, is carried like a traditional [[pistol]]—in a leather [[holster]], and the two spare long magazines are carried in a separate pouch. The weapon comes with a cleaning kit, front sight adjustment tool, oil bottle and lanyard. The firearm can also be used with a [[suppressor|sound suppressor]].
+
+==Variants==
+[[Image:Normal skorpion 01.jpg|thumb|right|The vz. 61 E]]
+
+In the 1960s, three other variants of the vz. 61 were developed in Czechoslovakia: the '''vz. 64''' (chambered for the [[9x18mm Makarov]] pistol cartridge), the '''vz. 65'''—designed for use with the [[.380 ACP|.380 ACP (9x17mm Short)]] cartridge, and the '''vz. 68''' (in [[9x19mm Parabellum]]), however production of these variants was never undertaken. In the 1990s Česká Zbrojovka offered the following submachine guns: the '''vz. 61 E''' ([[.32 ACP]] version with a plastic pistol grip), the '''vz. 82''' (chambered in 9x18mm Makarov and featuring an extended 113 mm barrel) and the '''vz. 83''' (for the .380 ACP cartridge). A semi-automatic only variant known as the '''CZ-91S''' was developed for the civilian market, available in the aforementioned calibers. The vz. 82, vz. 83 and CZ-91S pistols chambered in 9 mm use straight box magazines.
+
+==Users==
+*{{flag|Afghanistan}}
+*{{flag|Angola}}
+*{{flag|Bosnia and Herzegovina}}
+*{{flag|Croatia}}
+*{{flag|Czech Republic}}<ref>http://www.army.cz/scripts/detail.php?id=5081</ref>
+*{{flag|Czechoslovakia}}
+*{{flag|Egypt}}
+*{{flag|Iraq}}
+*{{flag|Libya}}
+*{{flag|Macedonia}}
+*{{flag|Montenegro}}
+*{{flag|Mozambique}}
+*{{flag|North Korea}}
+*{{flag|Serbia}}
+*{{flag|Slovakia}}
+*{{flag|Uganda}}
+*{{flag|Yugoslavia}}
+
+==See also==
+*[[OTs-02 Kiparis]]
+*[[Heckler & Koch MP7]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.czub.cz/index.php?p=32&idp=9&ids=36&idz=227&lang=en Česká Zbrojovka—official page]
+*[http://www.czub.cz/navody/cz360_en.pdf Instruction manual]
+*[http://www.czechpoint-usa.com/history-of-the-sa-vz-61/ CzechPoint—Škorpion history]
+*[http://world.guns.ru/smg/smg26-e.htm Modern Firearms]
+*{{YouTube|r-aHAh4eOSE|Video of operation}} {{ja icon}}
+
+{{DEFAULTSORT:Skorpion vz. 61}}
+[[Category:Cold War infantry weapons]]
+[[Category:Machine pistols]]
+[[Category:Weapons of Yugoslavia]]
+[[Category:Submachine guns]]
+[[Category:Telescoping bolt submachine guns]]
+[[Category:Weapons of Czechoslovakia]]
+
+[[cs:Samopal vzor 61]]
+[[de:Skorpion (Maschinenpistole)]]
+[[es:Skorpion vz. 61]]
+[[fr:Skorpion VZ61]]
+[[ko:Vz61 기관단총]]
+[[it:Vz 61 Skorpion]]
+[[ja:Vz 61]]
+[[no:Samopal vz. 61]]
+[[ps:ماشیندار موډل ٦١ ]]
+[[pl:Pistolet maszynowy Sa vz.61 Škorpion]]
+[[pt:Skorpion (pistola-metralhadora)]]
+[[ru:Scorpion Vz.61]]
+[[sk:Samopal vzor 61]]
+[[sh:Vz 61]]
+[[fi:Vz. 61 Škorpion]]
