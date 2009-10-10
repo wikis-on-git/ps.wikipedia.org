@@ -213,8 +213,8 @@ However, suppose there is a simple on/off [[switch]] connected to the computer t
 
 In this manner, the traffic signal will run a flash-red program when the switch is on, and will run the normal program when the switch is off. Both of these program examples show the basic layout of a computer program in a simple, familiar context of a traffic signal. Any experienced programmer can spot many [[software bug]]s in the program, for instance, not making sure that the green light is off when the switch is set to flash red. However, to remove all possible bugs would make this program much longer and more complicated, and would be confusing to nontechnical readers: the aim of this example is a simple demonstration of how computer instructions are laid out.
 
-==Function==
-{{Main|Central processing unit|Microprocessor}}
+==دنده==
+
 A general purpose computer has four main components: the [[arithmetic logic unit]] (ALU), the [[control unit]], the [[Computer data storage|memory]], and the input and output devices (collectively termed I/O). These parts are interconnected by [[bus (computing)|busses]], often made of groups of [[wire]]s.
 
 Inside each of these parts are thousands to trillions of small [[electrical network|electrical circuits]] which can be turned off or on by means of an [[transistor|electronic switch]]. Each circuit represents a [[bit]] (binary digit) of information so that when the circuit is on it represents a "1", and when off it represents a "0" (in positive logic representation). The circuits are arranged in [[logic gate]]s so that one or more of the circuits may control the state of one or more of the other circuits.
