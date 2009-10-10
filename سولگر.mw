@@ -104,7 +104,7 @@ However, computers cannot "think" for themselves in the sense that they only sol
 
 and arrive at the correct answer (500,500) with little work.<ref>Attempts are often made to create programs that can overcome this fundamental limitation of computers. Software that mimics learning and adaptation is part of [[artificial intelligence]].</ref> In other words, a computer programmed to add up the numbers one by one as in the example above would do exactly that without regard to efficiency or alternative solutions.
 
-===Programs===
+===كړنلارې===
 [[File:FortranCardPROJ039.agr.jpg|thumb|right|300px|A 1970s [[punched card]] containing one line from a [[Fortran|FORTRAN]] program. The card reads: "Z(1) = Y + W(1)" and is labelled "PROJ039" for identification purposes.]]
 
 In practical terms, a '''[[computer program]]''' may run from just a few instructions to many millions of instructions, as in a program for a [[word processor]] or a [[web browser]]. A typical modern computer can execute billions of instructions per second ([[hertz|gigahertz or GHz]]) and rarely make a mistake over many years of operation. Large computer programs consisting of several million instructions may take teams of [[programmer]]s years to write, and due to the complexity of the task almost certainly contain errors.
