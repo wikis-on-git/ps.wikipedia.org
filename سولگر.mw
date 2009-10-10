@@ -303,7 +303,7 @@ I/O is the means by which a computer exchanges information with the outside worl
 
 Often, I/O devices are complex computers in their own right with their own CPU and memory. A [[graphics processing unit]] might contain fifty or more tiny computers that perform the calculations necessary to display [[3D computer graphics|3D graphics]]{{Citation needed|date=December 2007}}. Modern [[desktop computer]]s contain many smaller computers that assist the main CPU in performing I/O.
 
-===ګڼدندي (Multitasking)===
+===ګڼدنديز (Multitasking)===
 {{Main|Computer multitasking}}
 While a computer may be viewed as running one gigantic program stored in its main memory, in some systems it is necessary to give the appearance of running several programs simultaneously. This is achieved by multitasking i.e. having the computer switch rapidly between running each program in turn.<ref>{{cite book
  | title = Learning the UNIX Operating System: A Concise Guide for the New User
