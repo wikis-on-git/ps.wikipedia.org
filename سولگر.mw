@@ -119,7 +119,7 @@ Though considerably easier than in machine language, writing long programs in as
 
 The task of developing large [[Computer software|software]] systems presents a significant intellectual challenge. Producing software with an acceptably high reliability within a predictable schedule and budget has historically been difficult; the academic and professional discipline of [[software engineering]] concentrates specifically on this challenge.
 
-===Example===
+===بيلګه===
 [[File:StoplightMexico.jpg|right|thumb|A traffic light showing red]]
 Suppose a computer is being employed to drive a [[traffic light]] at an intersection between two streets. The computer has the following three basic instructions.
 # ON(Streetname, Color) Turns the light on Streetname with a specified Color on.
