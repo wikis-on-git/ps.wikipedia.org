@@ -221,8 +221,7 @@ Inside each of these parts are thousands to trillions of small [[electrical netw
 
 The control unit, ALU, registers, and basic I/O (and often other hardware closely linked with these) are collectively known as a [[central processing unit]] (CPU). Early CPUs were composed of many separate components but since the mid-1970s CPUs have typically been constructed on a single [[integrated circuit]] called a ''[[microprocessor]]''.
 
-===Control unit===
-{{Main|CPU design|Control unit}}
+===مهار يوون===
 [[File:Mips32 addi.svg|thumb|260px|right|Diagram showing how a particular [[MIPS architecture]] instruction would be decoded by the control system.]]
 
 The control unit (often called a control system or central controller) manages the computer's various components; it reads and interprets (decodes) the program instructions, transforming them into a series of control signals which activate other parts of the computer.<ref>The control unit's role in interpreting instructions has varied somewhat in the past. Although the control unit is solely responsible for instruction interpretation in most modern computers, this is not always the case. Many computers include some instructions that may only be partially interpreted by the control system and partially interpreted by another device. This is especially the case with specialized computing hardware that may be partially self-contained. For example, [[EDVAC]], one of the earliest stored-program computers, used a central control unit that only interpreted four instructions. All of the arithmetic-related instructions were passed on to its arithmetic unit and further decoded there.</ref> Control systems in advanced computers may change the order of some instructions so as to improve performance.
