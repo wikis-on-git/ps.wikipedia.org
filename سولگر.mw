@@ -282,7 +282,7 @@ Computer main memory comes in two principal varieties: [[random-access memory]] 
 
 In more sophisticated computers there may be one or more RAM [[CPU cache|cache memories]] which are slower than registers but faster than main memory. Generally computers with this sort of cache are designed to move frequently needed data into the cache automatically, often without the need for any intervention on the programmer's part.
 
-===Input/output (I/O)===
+===ننوتي(input) او وتني (output)===
 {{Main|Input/output}}
 [[File:HDDspin.JPG|thumb|right|[[Hard disk drive]]s are common I/O devices used with computers.]]
 I/O is the means by which a computer exchanges information with the outside world.<ref>{{cite book
