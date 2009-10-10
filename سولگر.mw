@@ -243,7 +243,7 @@ Since the program counter is (conceptually) just another set of memory cells, it
 
 It is noticeable that the sequence of operations that the control unit goes through to process an instruction is in itself like a short computer program—and indeed, in some more complex CPU designs, there is another yet smaller computer called a [[microsequencer]] that runs a [[microcode]] program that causes all of these events to happen.
 
-===شميرنز/سم انديز يوون (ALU)===
+===شميريز/سم انديز يوون (ALU)===
 {{Main|Arithmetic logic unit}}
 
 The ALU is capable of performing two classes of operations: arithmetic and logic.<ref>{{cite book
