@@ -77,15 +77,15 @@ The famous "[[P = NP problem|P=NP?]]" problem, one of the [[Millennium Prize Pro
 || [[Computational complexity theory]]
 |}
 
-=== Algorithms and data structures ===
+=== د الګوريتومونو او اومتوكو جوړښت ===
 :{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
 |  <math>O(n^2)</math>
 || [[Image:Sorting quicksort anim.gif|96px]]
 || [[Image:Singly linked list.png|96px]]
 |-
-|  [[Analysis of algorithms]]
-|| [[Algorithms]]
-|| [[Data structures]]
+|  [[د الګوريتم شننه]]
+|| [[الګوريتمونه]]
+|| [[د اومتوك جوړښت]]
 |}
 
 === خپرنيز ليلپوهنه او ژپې ===
