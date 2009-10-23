@@ -321,7 +321,7 @@ Some computers are designed to distribute their work across several CPUs in a mu
 Supercomputers in particular often have highly unique architectures that differ significantly from the basic stored-program architecture and from general purpose computers.<ref>However, it is also very common to construct supercomputers out of many pieces of cheap commodity hardware; usually individual computers connected by networks. These so-called [[cluster (computing)|computer cluster]]s can often provide supercomputer performance at a much lower cost than customized designs. While custom architectures are still used for most of the most powerful supercomputers, there has been a proliferation of cluster computers in recent years. {{Ref harvard|top5002006|TOP500 2006|a}}</ref> They often feature thousands of CPUs, customized high-speed interconnects, and specialized computing hardware. Such designs tend to be useful only for specialized tasks due to the large scale of program organization required to successfully utilize most of the available resources at once. Supercomputers usually see usage in large-scale [[Computer simulation|simulation]], [[Rendering (computer graphics)|graphics rendering]], and [[cryptography]] applications, as well as with other so-called "[[embarrassingly parallel]]" tasks.
 
 ===جاليز (networking) او انټرنيټ===
-{{Main|Computer networking|Internet}}
+
 [[File:Internet map 1024.jpg|thumb|220px|left|Visualization of a portion of the [[Routing|routes]] on the Internet.]]
 Computers have been used to coordinate information between multiple locations since the 1950s. The U.S. military's [[Semi Automatic Ground Environment|SAGE]] system was the first large-scale example of such a system, which led to a number of special-purpose commercial systems like [[Sabre (computer system)|Sabre]].<ref>{{cite book
  | title = Systems, Experts, and Computers
@@ -337,7 +337,6 @@ In the 1970s, computer engineers at research institutions throughout the United 
 
 In time, the network spread beyond academic and military institutions and became known as the [[Internet]]. The emergence of networking involved a redefinition of the nature and boundaries of the computer. Computer operating systems and applications were modified to include the ability to define and access the resources of other computers on the network, such as peripheral devices, stored information, and the like, as extensions of the resources of an individual computer. Initially these facilities were available primarily to people working in high-tech environments, but in the 1990s the spread of applications like [[e-mail]] and the [[World Wide Web]], combined with the development of cheap, fast networking technologies like [[Ethernet]] and [[Asymmetric digital subscriber line|ADSL]] saw computer networking become almost ubiquitous. In fact, the number of computers that are networked is growing phenomenally. A very large proportion of [[personal computer]]s regularly connect to the [[Internet]] to communicate and receive information. "Wireless" networking, often utilizing [[mobile phone]] networks, has meant networking is becoming increasingly ubiquitous even in mobile computing environments.
 {{-}}
-
 
 ===كلككالۍ===
 {{Main|Personal computer hardware}}
