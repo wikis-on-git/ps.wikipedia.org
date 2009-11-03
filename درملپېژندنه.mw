@@ -1,122 +1,117 @@
 '''درملپېژندنه''' چي په [[يوناني]] كې ورته '''فارماكولوژي''' وايي چي''pharmacon &#966;&#940;&#961;&#956;&#945;&#954;&#959;&#957;'' مانا درمل, او ''logos &#955;&#972;&#947;&#959;&#962;'' مانا پوهنه دي .چې [[پښتو]] ويي هم د همدا ويي كټ مټ ښيي دا د هغو [[كيمياوي]] موادو زده كړه ده كوم چي  شيي چي دغه مواد څنګه په ژوندي جسم كې عمل كوي دى.
 
-If substances have [[medication|medicinal]] properties, they are considered '''pharmaceuticals'''. The field encompasses drug composition and properties, [[interaction]]s, [[toxicology]], [[therapy]], and medical applications and antipathogenic capabilities.  The science is considered to have been invented by Arabic physicians in Baghdad during the [[Islamic Golden Age|Golden Age of Islam]]; pharmacopoeias were penned in Arabic as early as the 7th century (Amin A. Khairallah: ''Outline of Arabic Contributions to Medicine'': ''Chapter X, Chemistry and Pharmacy''. 1946, ).
+[[Image:Pharmacologyprism.jpg|thumb|right|300px|A variety of topics involved with pharmacology, including neuropharmacology, renal pharmacology, human metabolism, intracellular metabolism, and intracellular regulation.]]
 
-[[Drug development|Development of medication]] is a vital concern to [[medicine]], but also has strong economical and political implications. To protect the consumer and prevent abuse, many governments regulate the manufacture, sale, and administration of medication. In the [[United States]], the main regulatory body is the [[Food and Drug Administration]] through its publication of the [[United States Pharmacopoeia|USP]].
+'''Pharmacology''' (from [[Ancient Greek|Greek]] {{lang|grc|[[wiktionary:φάρμακον|φάρμακον]]}}, ''pharmakon'', "drug"; and {{lang|grc|[[wiktionary:-λογία|-λογία]]}}, ''[[wiktionary:-logia|-logia]]'') is the study of [[drug]] action.<ref>{{cite journal |author=Vallance P, Smart TG |title=The future of pharmacology |journal=British journal of pharmacology |volume=147 Suppl 1 |issue= |pages=S304–7 |year=2006 |month=January |pmid=16402118 |pmc=1760753 |doi=10.1038/sj.bjp.0706454 |url=}}</ref> More specifically, it is the study of the interactions that occur between a living organism and exogenous chemicals that alter normal biochemical function. If substances have [[medication|medicinal]] properties, they are considered [[Pharmaceutical drug|pharmaceuticals]]. The field encompasses [[drug]] composition and properties, [[interaction]]s, [[toxicology]], therapy, and medical applications and antipathogenic capabilities. Pharmacology is not synonymous with [[pharmacy]], which is the name used for a profession, though in common usage the two terms are confused at times. Pharmacology deals with how drugs interact within biological systems to affect function. It is the study of drugs, of the body's reaction to drugs, the sources of drugs, their nature, and their properties. In contrast, pharmacy is a medical science concerned with the safe and effective use of medicines.
 
-Pharmacology as a science is practiced by pharmacologists. Subdisciplines are ''clinical pharmacology'' (the medical field of medication effects on humans), ''neuro-'' and ''psychopharmacology'' (effects of medication on behavior and nervous system functioning), and ''theoretical pharmacology''.
+The origins of [[clinical pharmacology]] date back to the [[Middle Ages]] in [[Avicenna]]'s ''[[The Canon of Medicine]]'', [[Peter of Spain]]'s ''Commentary on Isaac'', and John of St Amand's ''Commentary on the Antedotary of Nicholas''.<ref>D. Craig Brater and Walter J. Daly (2000), "Clinical pharmacology in the Middle Ages: Principles that presage the 21st century", ''Clinical Pharmacology & Therapeutics'' '''67''' (5), p. 447-450 [448-449].</ref> Pharmacology as a scientific discipline did not further advance until the mid-19th century amid the great biomedical resurgence of that period.<ref name=rang2006> H P Rang. (2006) The receptor concept: pharmacology's big idea. ''Br J Pharmacol.'' 147 Suppl: S9–S16.</ref>  Before the second half of the nineteenth century, the remarkable potency and specificity of the actions of drugs such as [[morphine]], [[quinine]] and [[digitalis]] were explained vaguely and with reference to extraordinary chemical powers and affinities to certain organs or tissues.<ref name=AHM2002> Andreas-Holger M., Cay-Rüdiger P. and R. F. Halliwell (2002), The emergence of the drug receptor theory. ''Nature Reviews Drug Discovery'' 1, 637-641 </ref> The first pharmacology department was set up by [[Rudolf Buchheim|Buchheim]] in 1847, in recognition of the need to understand how therapeutic drugs and poisons produced their effects.<ref name=rang2006/> 
 
-==ساينسي مخينه==
-The study of medicinal chemicals requires intimate knowledge of the biological system affected. With the knowledge of [[cell biology]] and [[biochemistry]] increasing, the field of pharmacology has also changed substantially. It has become possible, through molecular analysis of [[receptor (biochemistry)|receptor]]s, to design chemicals that act on specific cellular signalling or [[metabolic pathway]]s by affecting sites directly on cell-surface receptors (which modulate and mediate cellular signalling pathways controlling cellular function).
+Early pharmacologists focused on natural substances, mainly plant extracts. Pharmacology developed in the 19th century as a biomedical science that applied the principles of scientific experimentation to therapeutic contexts.<ref name=rang>{{cite book|last=Rang|first=H.P.|title=Pharmacology|year=2007|coauthors=M.M. Dale, J.M. Ritter, R.J. Flower|publisher=[[Elsevier]]|location=[[China]]|isbn=0-443-06911-5}}</ref>
 
-A chemical has, from the pharmacological point-of-view, various properties. [[Pharmacokinetics]] describes its behaviour in the body - particularly in the blood (e.g. its [[half-life]] and [[volume of distribution]]), and [[pharmacodynamics]] relates its behaviour in the blood to its effects (desired effects or [[toxic]] side-effects).
+==Divisions==
+Pharmacology as a chemical science is practiced by pharmacologists. Subdisciplines include 
+*''[[clinical pharmacology]]'' - the medical field of medication effects on humans
+*[[neuropharmacology|''neuro-'']] and ''[[psychopharmacology]]'' (effects of medication on behavior and nervous system functioning), 
+*''[[pharmacogenetics]]'' (clinical testing of genetic variation that gives rise to differing response to drugs)
+*''[[pharmacogenomics]]'' (application of genomic technologies to new drug discovery and further characterization of older drugs)
+*''[[pharmacoepidemiology]]'' (study of effects of drugs in large numbers of people)
+*''[[toxicology]]'' study of harmful effects of drugs
+*''theoretical pharmacology''
+*''posology'' - how medicines are dosed
+*''[[pharmacognosy]]'' a branch of pharmacology dealing especially with the composition, use, and development of medicinal substances of biological origin and especially medicinal substances obtained from plants also known as deriving medicines from plants
 
-When describing the pharmacokinetic properties of a chemical, pharmacologists are often interested in ''[[ADME]]'':
-* [[Absorption]] - How is the medication absorbed (through the skin, the intestine, the oral mucosa)?
+==Scientific background==
+The study of chemicals requires intimate knowledge of the biological system affected. With the knowledge of [[cell biology]] and [[biochemistry]] increasing, the field of pharmacology has also changed substantially. It has become possible, through molecular analysis of [[receptor (biochemistry)|receptors]], to design chemicals that act on specific cellular signaling or [[metabolic pathway]]s by affecting sites directly on cell-surface receptors (which modulate and mediate cellular signaling pathways controlling cellular function).
+
+A chemical has, from the pharmacological point-of-view, various properties. [[Pharmacokinetics]] describes the effect of the body on the chemical (e.g. [[half-life]] and [[volume of distribution]]), and [[pharmacodynamics]] describes the chemical's effect on the body (desired or [[toxic]]).
+
+When describing the pharmacokinetic properties of a chemical, pharmacologists are often interested in ''[[ADME|LADME]]'':
+* [[Liberation]] - disintegration (for solid oral forms {breaking down into smaller particles}), dispersal and dissolution   
+* [[Absorption (digestive)|Absorption]] - How is the medication absorbed (through the [[skin]], the [[intestine]], the [[oral mucosa]])?
 * [[Distribution (pharmacology)|Distribution]] - How does it spread through the organism?
 * [[Drug metabolism|Metabolism]] - Is the medication converted chemically inside the body, and into which substances. Are these active? Could they be toxic?
 * [[Excretion]] - How is the medication eliminated (through the bile, urine, breath, skin)?
 
-Medication is said to have a narrow or wide ''[[therapeutic index]]'' or ''therapeutic window''. This describes the ratio of desired effect to toxic effect. A compound with a narrow therapeutic index (close to 1) exerts its desired effect at a dose close to its toxic dose. A compound with a wide therapeutic index (greater than 5) exerts its desired effect at a dose substantially below its toxic dose. Those with a narrow window are more difficult to dose and administer, and may require [[therapeutic drug monitoring]] (examples are [[warfarin]], some [[antiepileptic]]s, [[aminoglycoside]] antibiotics). Most anti-cancer drugs have a narrow therapeutic margin: toxic side-effects are almost always encountered at doses used to kill tumours.
+Medication is said to have a narrow or wide ''[[therapeutic index]]'' or ''[[therapeutic window]]''. This describes the ratio of desired effect to toxic effect. A compound with a narrow therapeutic index (close to one) exerts its desired effect at a dose close to its toxic dose. A compound with a wide therapeutic index (greater than five) exerts its desired effect at a dose substantially below its toxic dose. Those with a narrow margin are more difficult to dose and administer, and may require [[therapeutic drug monitoring]] (examples are [[warfarin]], some [[antiepileptic]]s, [[aminoglycoside]] [[antibiotics]]). Most anti-[[cancer]] drugs have a narrow therapeutic margin: toxic side-effects are almost always encountered at doses used to kill [[tumor]]s.
 
-==ډلبندي==
-Medication can be usually classified in various ways, e.g. by its chemical properties, mode of administration, or biological system affected. An elaborate and widely used classification system is the [[Anatomical Therapeutic Chemical Classification System]].
+==Medicine development and safety testing==
+[[Drug development|Development of medication]] is a vital concern to [[medicine]], but also has strong [[economical]] and [[political]] implications. To protect the [[consumer]] and prevent abuse, many governments regulate the manufacture, sale, and administration of medication. In the [[United States]], the main body that regulates pharmaceuticals is the [[Food and Drug Administration]] and they enforce [[standards]] set by the [[United States Pharmacopoeia]]. In the [[European Union]], the main [[body]] that regulates pharmaceuticals is the [[European Medicines Agency|EMEA]] and they enforce standards set by the [[European Pharmacopoeia]].
 
-==د درملونو ډولونه==
-===د  [[ګاسټروانټېسټېنل لارې]] يا [[هضمي نظام]]===
-* Upper digestive tract: [[antacid]]s, [[reflux suppressant]]s, [[antiflatulent]]s, [[antidopaminergic]]s, [[proton pump inhibitor]]s, [[H2-receptor antagonist]]s, [[cytoprotectant]]s, [[prostaglandin analogue]]s
-* Lower digestive tract: [[laxative]]s, [[antispasmodic]]s, [[antidiarrhoeal]]s, [[bile acid sequestrant]]s, [[opioid]]s
+The metabolic stability and the reactivity of a library of candidate drug compounds have to be assessed for drug metabolism and toxicological studies. Many methods have been proposed for quantitative predictions in drug metabolism; one example of a recent computational method is [http://www.freebase.com/view/en/sporcalc SPORCalc]<ref>{{cite journal | author = James Smith; Viktor Stein | year = 2009 | title = SPORCalc: A development of a database analysis that provides putative metabolic enzyme reactions for ligand-based drug design | journal = Computational Biology and Chemistry | volume = 33 | issue = 2 | pages = 149–159 | pmid=19157988 | doi = 10.1016/j.compbiolchem.2008.11.002 }}</ref>. If the chemical structure of a medicinal compound is altered slightly, this could slightly or dramatically alter the medicinal properties of the compound depending on the level of alteration as it relates to the structural composition of the substrate or receptor site on which it exerts its medicinal effect, a concept referred to as the structural activity relationship (SAR). This means that when a useful activity has been identified, chemists will make many similar compounds called analogues, in an attempt to maximize the desired medicinal effect(s) of the compound. This development phase can take anywhere from a few years to a decade or more and is very expensive.<ref name="ReviseALChem">{{cite book|last=Newton|first=David|coauthors=Alasdair Thorpe, Chris Otter|title=Revise A2 Chemistry|publisher=[[Heinemann Educational Publishers]]|date=2004|pages=1|month=|isbn =0-435-58347-6}}</ref>
 
-===د [[زړه او رګونو د نظام]]===
-* General: [[beta-receptor blocker]], [[calcium channel blocker]]s, [[diuretic]]s, [[cardiac glycoside]]s, [[antiarrhythmic]]s, [[nitrate]], [[antianginal]]s, [[vasoconstrictor]], [[vasodilator]], [[peripheral activator]]
-* Affecting [[Antihypertensive|Blood pressure]]: [[ACE inhibitor]]s, [[Angiotensin II receptor antagonist|angiotensin receptor blockers]], [[alpha blocker]]
-* Coagulation: [[anticoagulant]], [[heparin]], [[antiplatelet drug]], [[fibrinolytic]], [[Factor VIII|anti-hemophilic factor]], [[haemostatic drug]]s
-* Atherosclerosis/cholesterol agents: [[hypolipidaemic agent]]s, [[statin]]s.
+These new analogues need to be developed. It needs to be determined how safe the medicine is for human consumption, its stability in the human body and the best form for delivery to the desired organ system, like tablet or aerosol. After extensive testing, which can take up to 6 years the new medicine is ready for marketing and selling.<ref name="ReviseALChem"/>
 
-===For the [[central nervous system]]===
-[[hypnotic]], [[anaesthetics]], [[antipsychotic]], [[antidepressant]] (including [[tricyclics|tricyclic antidepressants]], [[monoamine oxidase inhibitor]], [[lithium salt]], [[selective serotonin reuptake inhibitor]]), [[anti-emetic]], [[anticonvulsant]] and [[antiepileptic]], [[anxiolytic]], [[barbiturate]], [[movement disorder drug]], [[stimulant]] (including [[amphetamine|amphetamines]]), [[benzodiazepine]], [[cyclopyrrolone]], [[dopamine antagonist]], [[antihistamine]], [[cholinergic]], [[anticholinergic]], [[emetic]], [[cannabinoids]], [[5-HT antagonist]]
+As a result of the long time required to develop analogues and test a new medicine and the fact that of every 5000 potential new medicines typically only one will ever reach the open market, this is an expensive way of doing things, costing millions of dollars. To recoup this outlay pharmaceutical companies may do a number of things:<ref name="ReviseALChem"/>
+* Carefully research the demand for their potential new product before spending an outlay of company funds.<ref name="ReviseALChem"/>
+* Obtain a patent on the new medicine preventing other companies from producing that medicine for a certain allocation of time.<ref name="ReviseALChem"/>
 
-===For pain & consciousness ([[Analgesic drugs]])===
-{{see|Analgesic}}
+==Drug legislation and safety==
+In the [[United States]], the [[Food and Drug Administration]] (FDA) is responsible for creating guidelines for the approval and use of drugs. The FDA requires that all approved drugs fulfill two requirements:
+# The drug must be found to be effective against the disease for which it is seeking approval.
+# The drug must meet safety criteria by being subject to extensive animal and controlled human testing.
 
-The main classes of painkillers are [[NSAIDs]], [[opioid]]s and various orphans such as [[paracetamol]], [[tricyclic antidepressant]]s and [[anticonvulsant]]s.
+Gaining FDA approval usually takes several years to attain. Testing done on animals must be extensive and must include several species to help in the evaluation of both the effectiveness and toxicity of the drug. The dosage of any drug approved for use is intended to fall within a range in which the drug produces a [[therapeutic effect]] or desired outcome.<ref name=nagle>{{cite book|last=Nagle|first=Hinter|title=Pharmacology: An Introduction|year=2005|coauthors=Barbara Nagle|publisher=[[McGraw Hill]]|location=[[Boston]]|isbn=0-07-312275-0}}</ref>
 
-===For [[Muscular system|musculo]]-[[Skeleton|skeletal]] disorders===
-[[NSAID]]s (including [[COX-2 selective inhibitor]]s), [[muscle relaxant]], [[neuromuscular drug]]<br> [[anticholinesterase]]
+The safety and effectiveness of prescription drugs in the U.S. is regulated by the federal [[Prescription Drug Marketing Act (PDMA)|Prescription Drug Marketing Act of 1987]].
 
-'''د سترګو لپاره'''
-*General: [[adrenergic neurone blocker]], [[astringent]], [[ocular lubricant]]
-*Diagnostic:  [[topical eye anesthetic]]s, [[sympathomimetic]]s, [[parasympatholytic]]s, [[mydriatic]]s, [[cycloplegic]]s
-*Anti-bacterial:  [[antibiotic]]s, [[topical antibiotic]]s, [[sulfa drugs]], [[aminoglycosides]], [[fluoroquinolones]]
-*Anti-viral:
-*Anti-fungal: [[imidazole]]s, [[polyene]]s
-*Anti-inflammatory:  [[NSAID]]s, [[corticosteroids]]
-*Anti-allergy:  [[mast cell|mast cell inhibitors]]
-*Anti-glaucoma:  [[adrenergic agonist]]s, [[beta-blocker]]s, [[carbonic anhydrase inhibitor]]s/[[hyperosmotic]]s, [[cholinergic]]s, [[miotic]]s, [[parasympathomimetic]]s, [[prostaglandin agonists]]/[[prostaglandin inhibitors]].  [[nitroglycerin]]
+The [[Medicines and Healthcare products Regulatory Agency]] (MHRA) has a similar role in the UK.
 
-===For the ear, nose and [[oropharynx]]===
-[[sympathomimetic]], [[antihistamine]], [[anticholinergic]], [[NSAID]]s, [[steroid]], [[antiseptic]], [[local anesthetic]], [[antifungal]], [[cerumenolytic]]
+==Education==
+The study of pharmacology is offered in many universities worldwide.<br />
+Again, pharmacology education programs differ from pharmacy programs. Students of pharmacology are trained as researchers, studying the effects of substances in order to better understand the mechanisms which might lead to new drug discoveries for example. Whereas a pharmacy student will eventually work in a pharmacy dispensing medications or some other position focused on the patient, pharmacologist will typically work within a laboratory setting.
 
-===For the [[respiratory system]]===
-[[bronchodilator]], [[NSAID]]s, [[anti-allergic]], [[antitussive]], [[mucolytic]], [[decongestant]]<br>[[corticosteroid]], [[beta-receptor antagonist]], [[anticholinergic]], [[steroid]]
+Some higher educational institutions combine pharmacology and toxicology into a single program as does
+[[Michigan State University]]. Michigan State University offers PhD training in Pharmacology & Toxicology with an optional Environmental Toxicology specialization. They also offer a [[Professional Science Masters]] in Integrative Pharmacology.
 
-===For [[endocrine]] problems===
-[[androgen]], [[antiandrogen]], [[gonadotropin]], [[corticosteroid]], [[growth hormone]], [[insulin]], [[antidiabetic]] ([[sulfonylurea]], [[biguanide]]/[[metformin]], [[thiazolidinedione]], [[insulin]]), [[thyroid hormone]]s, [[antithyroid drug]]s, [[calcitonin]], [[diphosponate]], [[vasopressin analogue]]s
-
-===For the [[reproductive system]] or [[urinary system]]===
-[[antifungal]], [[alkalising agent]], [[quinolones]], [[antibiotic]], [[cholinergic]], [[anticholinergic]], [[anticholinesterase]], [[antispasmodic]], [[5-alpha reductase inhibitor]], [[selective alpha-1 blocker]], [[sildenafil]]
-
-===For [[contraception]]===
-[[contraceptive]], [[oral contraceptives]], [[spermicide]], [[depot contraceptives]]
-
-===For [[obstetrics and gynaecology]]===
-[[NSAID]]s, [[anticholinergic]], [[haemostatic drug]], [[antifibrinolytic]], [[Hormone Replacement Therapy]], [[bone regulator]], [[beta-receptor agonist]], [[follicle stimulating hormone]], [[luteinising hormone]], [[LHRH]]<br> [[gamolenic acid]], [[gonadotropin release inhibitor]], [[progestogen]], [[dopamine agonist]], [[estrogen|oestrogen]], [[prostaglandin]], [[gonadorelin]], [[clomiphene]], [[tamoxifen]], [[Diethylstilbestrol]]
-
-===For the [[skin]]===
-[[emollient]], [[antipruritic|anti-pruritic]], [[antifungal]], [[disinfectant]], [[scabicide]], [[pediculicide]], [[tar products]], [[vitamin A derivatives]], [[vitamin D analogue]], [[keratolytic]], [[abrasive]], [[systemic antibiotic]], [[topical antibiotic]], [[hormone|hormones]], [[desloughing agent]], [[exudate absorbent]], [[fibrinolytic]], [[proteolytic]], [[sunscreen]], [[antiperspirant]], [[corticosteroid]]
-
-===For infections and infestations===
-[[antibiotic]], [[antifungal]], [[antileprotic]], [[antituberculous drug]], [[antimalarial]], [[anthelmintic]], [[amoebicide]], [[antiviral]], [[antiprotozoal]], [[antiserum]]
-
-===For [[immunology]]===
-[[vaccine]], [[immunoglobulin]], [[immunosuppressant]], [[interferon]], [[monoclonal antibody]]
-
-===For [[Allergy|allergic]] disorders===
-[[anti-allergic]], [[antihistamine]], [[NSAID]]s
-
-===For nutrition===
-[[tonic (medicine)|tonic]], [[iron preparation]], [[electrolyte]], [[parenteral nutritional supplement]], [[vitamin]]s, [[anti-obesity drug]], [[anabolic drug]], [[haematopoietic drug]], [[food product drug]]
-
-===For [[Neoplasia|neoplastic]] disorders===
-[[cytotoxic drug]], [[sex hormone]]s, [[aromatase inhibitor]], [[somatostatin inhibitor]], recombinant [[interleukin]]s,  [[Granulocyte-colony stimulating factor|G-CSF]], [[erythropoietin]]
-
-===For diagnostics===
-[[contrast media]]
-
-===For euthanasia===
-A euthanaticum is used for [[euthanasia|euthanasia and physician-assisted suicide]], see also [[Barbiturate#Other_non-therapeutical_use|barbiturates]].
-
-===نور===
-[[Zoopharmacognosy]]: Animal usage of drugs and non-foods.
-
-==باندنۍ تړنې==
-* [http://www.pharmaceutical-business-review.com Pharmaceutical Business Review]
-* [http://www.ich.org/ International Conference on Harmonisation]
-* [http://www.usp.org US Pharmocopea]
-
-== دا هم وګورۍ ==
-
-* [[Cosmeceuticals]]
+== See also ==
+{{Col-begin}}
+{{Col-1-of-3}}
+* [[Certain safety factor]]
+* [[Cosmeceuticals]] 
+* [[Crude drugs]]
 * [[Drug design]]
+* [[Drug metabolism]]
+* [[Drug Discovery Hit to Lead]]
+* [[Enzyme inhibitor]]s
+* [[Pharmaceutical formulation]]
+* [[Herbalism]]
+* [[International Union of Basic and Clinical Pharmacology]]
+* [[List of abbreviations used in medical prescriptions]]
 * [[List of withdrawn drugs]]
+{{Col-2-of-3}}
 * [[Medicare Part D]] - the new prescription drug plan in the U.S.
+* [[Medication]]
 * [[Medicinal chemistry]]
 * [[Neuropharmacology]] - The Molecular and Behavior study of Disease and Drugs in the Nervous System
+* [[Neuropsychopharmacology]] - The detailed comprehensive study of mind, brain and drugs.
+* [[Nicholas Culpeper]] - 17th century English Physician who translated and used 'pharmacological texts'.
 * [[Pharmaceutical company]]
+{{Col-3-of-3}}
+{{Portal|Pharmacy and Pharmacology|Pharmaklog.png}}
+* [[Pharmacognosy]]
+* [[Pharmacopoeia]]
 * [[Pharmacotherapy]]
+* [[Pharmakeia]]
 * [[Pharmakos]]
+* [[Placebo (origins of technical term)]]
+* [[Prescription drug]]
+* [[Prescription Drug Marketing Act (PDMA)]]
 * [[Psychopharmacology]] - medication for mental conditions
+* [[Traditional Chinese Medicine]]
+{{col-end}}
 
+==Footnotes==
+{{reflist}}
+
+==External links==
+* [http://www.nndb.com/lists/623/000098329/ Pharmaceutical company profiles at NNDB].
+* [http://www.ich.org/ International Conference on Harmonisation].
+* [http://www.usp.org US Pharmacopeia].
+* [http://www.iuphar.org International Union of Basic and Clinical Pharmacology].
+* [http://www.iuphar-db.org IUPHAR Committee on Receptor Nomenclature and Drug Classification].
+
+{{Pharmacology}}
+{{Major drug groups}}
 {{BranchesofChemistry}}
 {{Technology-footer}}
 
@@ -124,49 +119,51 @@ A euthanaticum is used for [[euthanasia|euthanasia and physician-assisted suicid
 [[Category:Biochemistry]]
 
 [[ar:علم الأدوية]]
-[[bg:Фармакология]]
 [[bn:ফার্মাকোলজি]]
 [[bs:Farmakologija]]
+[[bg:Фармакология]]
 [[ca:Farmacologia]]
 [[cs:Farmakologie]]
 [[da:Farmakologi]]
 [[de:Pharmakologie]]
-[[el:Φαρμακολογία]]
-[[en:Pharmacology]]
-[[eo:Farmakologio]]
-[[es:Farmacología]]
 [[et:Farmakoloogia]]
+[[el:Φαρμακολογία]]
+[[es:Farmacología]]
+[[eo:Farmakologio]]
 [[eu:Farmakologia]]
-[[fa:داروسازی]]
-[[fi:Farmakologia]]
+[[fa:داروشناسی]]
 [[fr:Pharmacologie]]
-[[he:פרמקולוגיה]]
+[[hi:औषध-प्रभाव-विज्ञान]]
 [[hr:Farmakologija]]
-[[hu:Gyógyszerhatástan]]
 [[id:Farmakologi]]
 [[is:Lyfjafræði]]
 [[it:Farmacologia]]
-[[ja:薬理学]]
+[[he:פרמקולוגיה]]
+[[ka:ფარმაკოლოგია]]
 [[lt:Farmakologija]]
+[[hu:Gyógyszerhatástan]]
 [[ms:Farmakologi]]
 [[my:ဆေးဝါးဗေဒ]]
 [[nl:Farmacologie]]
+[[ja:薬理学]]
 [[no:Farmakologi]]
 [[oc:Farmacologia]]
+[[ps:درملپېژندنه]]
 [[pl:Farmakologia]]
 [[pt:Farmacologia]]
 [[ro:Farmacologie]]
 [[ru:Фармакология]]
+[[sq:Farmakologjia]]
 [[sk:Farmakológia]]
 [[sl:Farmakologija]]
-[[sq:Farmakologjia]]
 [[sr:Фармакологија]]
 [[su:Farmakologi]]
+[[fi:Farmakologia]]
 [[sv:Farmakologi]]
-[[th:เภสัชวิทยา]]
 [[tl:Parmakolohiya]]
+[[th:เภสัชวิทยา]]
+[[vi:Dược lý học]]
 [[tr:Farmakoloji]]
 [[uk:Фармакологія]]
-[[vi:Dược lý học]]
 [[zh:药理学]]
 [[zh-min-nan:Io̍h-lí-ha̍k]]
