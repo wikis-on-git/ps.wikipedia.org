@@ -41,14 +41,14 @@ Image capture is only part of the image forming process. Regardless of material,
 During the printing process, modifications can be made to the print by several controls. Many of these controls are similar to controls during image capture, while some are exclusive to the printing process.  Most controls have equivalent digital concepts, but some create different effects. For example, [[dodging]] and [[burning-in|burning]] controls are different between digital and film processes.  Other printing modifications include:
 
 * Chemicals and process used during film development
-* Duration of exposure &mdash; equivalent to shutter speed
-* Printing aperture &mdash; equivalent to [[aperture]], but has no effect on depth of field
+* Duration of exposure — equivalent to shutter speed
+* Printing aperture — equivalent to [[aperture]], but has no effect on depth of field
 * [[contrast (vision)|Contrast]]
-* [[Dodging]] &mdash; reduces exposure of certain print areas, resulting in a lighter areas
-* [[Burning-in|Burning]] &mdash; increases exposure of certain areas, resulting in darker areas
-* Paper quality &mdash; [[gloss (material appearance)|glossy]], matte, etc
+* [[Dodging]] — reduces exposure of certain print areas, resulting in a lighter areas
+* [[Burning-in|Burning]] — increases exposure of certain areas, resulting in darker areas
+* Paper quality — [[gloss (material appearance)|glossy]], matte, etc
 
-== د انځورګري كارونه==
+== د انځورګري كارونه ==
 Photography gained the interest of  many scientists and artists from its inception. Scientists have used photography to record and study movements, such as [[Eadweard Muybridge]]'s study of human and animal locomotion in 1887. Artists are equally interested by these aspects but also try to explore avenues other than the photo-mechanical representation of reality, such as the [[pictorialist]] movement. Military, police and security forces use photography for surveillance, recognition and data storage. Photography is used to preserve memories of favorites and as a source of entertainment.
 
 == د انځورګري تاريخ ==
@@ -68,7 +68,7 @@ All photography was originally monochrome, or ''[[black-and-white]]''.  Even aft
 
 Many photographers continue to produce some monochrome images.  Some full color digital images are processed using a variety of techniques to create black and whites, and some cameras have even been produced to exclusively shoot monochrome.
 
-=== رنګي انځورونه===
+=== رنګي انځورونه ===
 
 {{main|Color photography}}
 
@@ -286,10 +286,10 @@ for an explanation of how to generate footnotes using the <ref(erences/)> tags--
 
 <!-- Please do not add links to photo galleries and photographer communities here, nor any site selling photography related items. Wikipedia is not a link farm. If in doubt, discuss a proposed link on the talk page before adding it here. -->
 
-* [http://www.mccord-museum.qc.ca/en/keys/webtours/VQ_P3_2_EN.html Instant Memories] &mdash; origins of amateur photography
-* [http://www.photopermit.org PhotoPermit.org] &mdash; Copyright law for photographers
+* [http://www.mccord-museum.qc.ca/en/keys/webtours/VQ_P3_2_EN.html Instant Memories] — origins of amateur photography
+* [http://www.photopermit.org PhotoPermit.org] — Copyright law for photographers
 * [http://www.floridamemory.com/OnlineClassroom/photographic-processes/index.cfm  Daguerreotype to Digital: A Brief History of the Photographic Process] From the State Library & Archives of Florida.
-* [http://www.mccord-museum.qc.ca/en/keys/webtours/VQ_P2_7_EN.html In the Eye of the Camera] &mdash; Limits of photography in 19th century
+* [http://www.mccord-museum.qc.ca/en/keys/webtours/VQ_P2_7_EN.html In the Eye of the Camera] — Limits of photography in 19th century
 * [http://www.cycleback.com/photoguide/index.html Judging the authenticity of Photographs: 1800s to Today] Guide for collectors and historians
 * [http://www.borodulincollection.com/index_eng.html Rarities of the USSR photochronicles] Pioneers of Soviet Photography.
 * [http://www.smithsonianeducation.org/educators/lesson_plans/every_picture/index.html    "Every Picture Has a Story"] - uses pictures from the Smithsonian's collections to show the development of the technology through the nineteenth century.
@@ -387,6 +387,7 @@ for an explanation of how to generate footnotes using the <ref(erences/)> tags--
 [[ta:ஒளிப்படவியல்]]
 [[te:ఫోటోగ్రఫి]]
 [[th:การถ่ายภาพ]]
+[[tl:Potograpiya]]
 [[tr:Fotoğrafçılık]]
 [[uk:Фотографія]]
 [[ur:عکاسی]]
