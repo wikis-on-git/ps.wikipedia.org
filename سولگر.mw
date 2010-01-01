@@ -1,14 +1,14 @@
-[[File:Columbia Supercomputer - NASA Advanced Supercomputing Facility.jpg|240px|thumb|[[د ناسااميس په څيړنيز مركز]]كي [[د كولمبيا بر سولګر|د كولمبيا بر سولګر]]]]
+[[دوتنه:Columbia Supercomputer - NASA Advanced Supercomputing Facility.jpg|240px|thumb|[[د ناسااميس په څيړنيز مركز]]كي [[د كولمبيا بر سولګر]]]]
 
 
-'''سولګر''' چي [[انګريزي]] ويي يي '''computer''' دى د چارو دښوولو يو ټوليز ماشين دی چې [[اومتوكې]] (data) په خپلچاري توګه   سمبالوي .
+'''سولګر''' چي [[انګريزي]] ويي يي '''computer''' دى د چارو دښوولو يو ټوليز ماشين دی چې [[اومتوكې]] (data) په خپلچاري توګه سمبالوي .
 
 كه څه هم د سولګر ميكانيكي بيلګې د انسانانو په [[ژوند]] كي د ډير پخوا څخه په [[تاريخ]] كي ثبت شوي دي خو د لومړي ځل لپاره [[بريښنايي]] سولګر ته د شلمي پيړۍ په نيمايي ۱۹۴۰-۱۴۵ كالونو كي پراختيا وركړل شوه
 
 دغخه لومړني سولګر د يوې سترې خونې په كچه لوی وو او د اوسنيو سولګرونو په پرتله ېې د سلګونو سولګرونو [[بريښنا]] لګښت درلود.
-==د سولګر مخينه==
+== د سولګر مخينه ==
 
-[[File:Jacquard.loom.full.view.jpg|thumb|The [[Jacquard loom]], on display at the [[Museum of Science and Industry in Manchester]], [[England]], was one of the first programmable devices.]]
+[[دوتنه:Jacquard.loom.full.view.jpg|thumb|The [[Jacquard loom]], on display at the [[Museum of Science and Industry in Manchester]], [[England]], was one of the first programmable devices.]]
 
 The first use of the word "computer" was recorded in 1613, referring to a person who carried out calculations, or computations, and the word continued to be used in that sense until the middle of the 20th century. From the end of the 19th century onwards though, the word began to take on its more familiar meaning, describing a machine that carries out computations.<ref name=OEDComputer>{{citation |title=computer, ''n.'' |series=Oxford English Dictionary |url=http://dictionary.oed.com/ |publisher=Oxford University Press |edition=2 |year=1989 |access date=2009-04-10}}</ref>
 
@@ -45,8 +45,8 @@ The inventor of the program-controlled computer was [[Konrad Zuse]], who built t
 
 A succession of steadily more powerful and flexible [[computing]] devices were constructed in the 1930s and 1940s, gradually adding the key features that are seen in modern computers. The use of digital electronics (largely invented by [[Claude Shannon]] in 1937) and more flexible programmability were vitally important steps, but defining one point along this road as "the first digital electronic computer" is difficult.{{Ref|shannon1940|Shannon 1940|a}} Notable achievements include:
 
-[[File:EDSAC (10).jpg|thumb|right|200px|[[Electronic Delay Storage Automatic Calculator|EDSAC]] was one of the first computers to implement the stored program ([[von Neumann architecture|von Neumann]]) architecture.]]
-[[File:80486dx2-large.jpg|thumb|right|200px|[[Die (integrated circuit)|Die]] of an [[Intel 80486DX2]] [[microprocessor]] (actual size: 12×6.75&nbsp;mm) in its packaging.]]
+[[دوتنه:EDSAC (10).jpg|thumb|right|200px|[[Electronic Delay Storage Automatic Calculator|EDSAC]] was one of the first computers to implement the stored program ([[von Neumann architecture|von Neumann]]) architecture.]]
+[[دوتنه:80486dx2-large.jpg|thumb|right|200px|[[Die (integrated circuit)|Die]] of an [[Intel 80486DX2]] [[microprocessor]] (actual size: 12×6.75&nbsp;mm) in its packaging.]]
 
 * [[Konrad Zuse]]'s [[Electromechanics|electromechanical]] "Z machines". The [[Z3 (computer)|Z3]] (1941) was the first working machine featuring [[Binary numeral system|binary]] arithmetic, including floating point arithmetic and a measure of programmability. In 1998 the Z3 was proved to be [[Turing completeness|Turing complete]], therefore being the world's first operational computer.<ref>{{cite journal|last=[[Raúl Rojas|Rojas]] |first=R. |title=How to make Zuse's Z3 a universal computer |journal=IEEE Annals of the History of Computing |volume=20 |number=3 |pages=51–54 |year=1998 |doi=10.1109/85.707574}}</ref>
 * The non-programmable [[Atanasoff–Berry Computer]] (1941) which used vacuum tube based [[computation]], binary numbers, and [[regenerative capacitor memory]]. The use of regenerative memory allowed it to be much more compact then its peers (being approximately the size of a large desk or workbench), since intermediate results could be stored and then fed back into the same set of computation elements.
@@ -62,7 +62,7 @@ Computers using [[vacuum tube]]s as their electronic elements were in use throug
 
 Modern [[smartphone]]s are fully-programmable computers in their own right, and as of 2009 may well be the most common form of such computers in existence.
 
-==د خپرونو جوړول او زيرمه كول==
+== د خپرونو جوړول او زيرمه كول ==
 
 
 The defining feature of modern computers which distinguishes them from all other machines is that they can be [[computer programming|programmed]]. That is to say that a list of [[Instruction (computer science)|instructions]] (the [[Computer program|program]]) can be given to the computer and it will store them and carry them out at some time in the future.
@@ -89,8 +89,8 @@ However, computers cannot "think" for themselves in the sense that they only sol
 
 and arrive at the correct answer (500,500) with little work.<ref>Attempts are often made to create programs that can overcome this fundamental limitation of computers. Software that mimics learning and adaptation is part of [[artificial intelligence]].</ref> In other words, a computer programmed to add up the numbers one by one as in the example above would do exactly that without regard to efficiency or alternative solutions.
 
-===كړنلارې===
-[[File:FortranCardPROJ039.agr.jpg|thumb|right|300px|A 1970s [[punched card]] containing one line from a [[Fortran|FORTRAN]] program. The card reads: "Z(1) = Y + W(1)" and is labelled "PROJ039" for identification purposes.]]
+=== كړنلارې ===
+[[دوتنه:FortranCardPROJ039.agr.jpg|thumb|right|300px|A 1970s [[punched card]] containing one line from a [[Fortran|FORTRAN]] program. The card reads: "Z(1) = Y + W(1)" and is labelled "PROJ039" for identification purposes.]]
 
 In practical terms, a '''[[computer program]]''' may run from just a few instructions to many millions of instructions, as in a program for a [[word processor]] or a [[web browser]]. A typical modern computer can execute billions of instructions per second ([[hertz|gigahertz or GHz]]) and rarely make a mistake over many years of operation. Large computer programs consisting of several million instructions may take teams of [[programmer]]s years to write, and due to the complexity of the task almost certainly contain errors.
 
@@ -104,8 +104,8 @@ Though considerably easier than in machine language, writing long programs in as
 
 The task of developing large [[Computer software|software]] systems presents a significant intellectual challenge. Producing software with an acceptably high reliability within a predictable schedule and budget has historically been difficult; the academic and professional discipline of [[software engineering]] concentrates specifically on this challenge.
 
-===بيلګه===
-[[File:StoplightMexico.jpg|right|thumb|A traffic light showing red]]
+=== بيلګه ===
+[[دوتنه:StoplightMexico.jpg|right|thumb|A traffic light showing red]]
 Suppose a computer is being employed to drive a [[traffic light]] at an intersection between two streets. The computer has the following three basic instructions.
 # ON(Streetname, Color) Turns the light on Streetname with a specified Color on.
 # OFF(Streetname, Color) Turns the light on Streetname with a specified Color off.
@@ -198,7 +198,7 @@ However, suppose there is a simple on/off [[switch]] connected to the computer t
 
 In this manner, the traffic signal will run a flash-red program when the switch is on, and will run the normal program when the switch is off. Both of these program examples show the basic layout of a computer program in a simple, familiar context of a traffic signal. Any experienced programmer can spot many [[software bug]]s in the program, for instance, not making sure that the green light is off when the switch is set to flash red. However, to remove all possible bugs would make this program much longer and more complicated, and would be confusing to nontechnical readers: the aim of this example is a simple demonstration of how computer instructions are laid out.
 
-==دنده==
+== دنده ==
 
 A general purpose computer has four main components: the [[arithmetic logic unit]] (ALU), the [[control unit]], the [[Computer data storage|memory]], and the input and output devices (collectively termed I/O). These parts are interconnected by [[bus (computing)|busses]], often made of groups of [[wire]]s.
 
@@ -206,8 +206,8 @@ Inside each of these parts are thousands to trillions of small [[electrical netw
 
 The control unit, ALU, registers, and basic I/O (and often other hardware closely linked with these) are collectively known as a [[central processing unit]] (CPU). Early CPUs were composed of many separate components but since the mid-1970s CPUs have typically been constructed on a single [[integrated circuit]] called a ''[[microprocessor]]''.
 
-===مهار يوون===
-[[File:Mips32 addi.svg|thumb|260px|right|Diagram showing how a particular [[MIPS architecture]] instruction would be decoded by the control system.]]
+=== مهار يوون ===
+[[دوتنه:Mips32 addi.svg|thumb|260px|right|Diagram showing how a particular [[MIPS architecture]] instruction would be decoded by the control system.]]
 
 The control unit (often called a control system or central controller) manages the computer's various components; it reads and interprets (decodes) the program instructions, transforming them into a series of control signals which activate other parts of the computer.<ref>The control unit's role in interpreting instructions has varied somewhat in the past. Although the control unit is solely responsible for instruction interpretation in most modern computers, this is not always the case. Many computers include some instructions that may only be partially interpreted by the control system and partially interpreted by another device. This is especially the case with specialized computing hardware that may be partially self-contained. For example, [[EDVAC]], one of the earliest stored-program computers, used a central control unit that only interpreted four instructions. All of the arithmetic-related instructions were passed on to its arithmetic unit and further decoded there.</ref> Control systems in advanced computers may change the order of some instructions so as to improve performance.
 
@@ -228,7 +228,7 @@ Since the program counter is (conceptually) just another set of memory cells, it
 
 It is noticeable that the sequence of operations that the control unit goes through to process an instruction is in itself like a short computer program—and indeed, in some more complex CPU designs, there is another yet smaller computer called a [[microsequencer]] that runs a [[microcode]] program that causes all of these events to happen.
 
-===شميريز/سم انديز يوون (ALU)===
+=== شميريز/سم انديز يوون (ALU) ===
 
 
 The ALU is capable of performing two classes of operations: arithmetic and logic.<ref>{{cite book
@@ -242,7 +242,7 @@ The ALU is capable of performing two classes of operations: arithmetic and logic
 
 The set of arithmetic operations that a particular ALU supports may be limited to adding and subtracting or might include multiplying or dividing, [[trigonometry]] functions (sine, cosine, etc) and [[square root]]s. Some can only operate on whole numbers ([[integer]]s) whilst others use [[floating point]] to represent [[real number]]s—albeit with limited precision. However, any computer that is capable of performing just the simplest operations can be programmed to break down the more complex operations into simple steps that it can perform. Therefore, any computer can be programmed to perform any arithmetic operation—although it will take more time to do so if its ALU does not directly support the operation. An ALU may also compare numbers and return [[Truth value|boolean truth values]] (true or false) depending on whether one is equal to, greater than or less than the other ("is 64 greater than 65?").
 
-Logic operations involve [[Boolean logic]]: [[logical conjunction|AND]], [[logical disjunction|OR]], [[Exclusive or|XOR]] and [[Negation|NOT]]. These can be useful both for creating complicated [[conditional (programming)|conditional statement]]s and processing [[boolean logic]].
+Logic operations involve [[Boolean logic]]: [[logical conjunction|AND]], [[logical disjunction|OR]], [[Exclusive or|XOR]] and [[Negation|NOT]]. These can be useful both for creating complicated [[conditional (programming)|conditional statements]] and processing [[boolean logic]].
 
 [[Superscalar]] computers may contain multiple ALUs so that they can process several instructions at the same time.<ref>{{cite book
  | title = Handbook of Parallel Computing and Statistics
@@ -253,23 +253,23 @@ Logic operations involve [[Boolean logic]]: [[logical conjunction|AND]], [[logic
  | page = 45
 }}</ref> [[Graphics processing unit|Graphics processors]] and computers with [[SIMD]] and [[MIMD]] features often provide ALUs that can perform arithmetic on [[Euclidean vector|vectors]] and [[Matrix (mathematics)|matrices]].
 
-===ياد===
+=== ياد ===
 
-[[File:Magnetic core.jpg|thumb|right|[[Magnetic core memory]] was the computer memory of choice throughout the 1960s, until it was replaced by semiconductor memory.]]
+[[دوتنه:Magnetic core.jpg|thumb|right|[[Magnetic core memory]] was the computer memory of choice throughout the 1960s, until it was replaced by semiconductor memory.]]
 
 A computer's memory can be viewed as a list of cells into which numbers can be placed or read. Each cell has a numbered "address" and can store a single number. The computer can be instructed to "put the number 123 into the cell numbered 1357" or to "add the number that is in cell 1357 to the number that is in cell 2468 and put the answer into cell 1595". The information stored in memory may represent practically anything. Letters, numbers, even computer instructions can be placed into memory with equal ease. Since the CPU does not differentiate between different types of information, it is the software's responsibility to give significance to what the memory sees as nothing but a series of numbers.
 
-In almost all modern computers, each memory cell is set up to store [[binary numeral system|binary number]]s in groups of eight bits (called a [[byte]]). Each byte is able to represent 256 different numbers (2^8 = 256); either from 0 to 255 or -128 to +127. To store larger numbers, several consecutive bytes may be used (typically, two, four or eight). When negative numbers are required, they are usually stored in [[two's complement]] notation. Other arrangements are possible, but are usually not seen outside of specialized applications or historical contexts. A computer can store any kind of information in memory if it can be represented numerically. Modern computers have billions or even trillions of bytes of memory.
+In almost all modern computers, each memory cell is set up to store [[binary numeral system|binary numbers]] in groups of eight bits (called a [[byte]]). Each byte is able to represent 256 different numbers (2^8 = 256); either from 0 to 255 or -128 to +127. To store larger numbers, several consecutive bytes may be used (typically, two, four or eight). When negative numbers are required, they are usually stored in [[two's complement]] notation. Other arrangements are possible, but are usually not seen outside of specialized applications or historical contexts. A computer can store any kind of information in memory if it can be represented numerically. Modern computers have billions or even trillions of bytes of memory.
 
 The CPU contains a special set of memory cells called [[Processor register|registers]] that can be read and written to much more rapidly than the main memory area. There are typically between two and one hundred registers depending on the type of CPU. Registers are used for the most frequently needed data items to avoid having to access main memory every time data is needed. As data is constantly being worked on, reducing the need to access main memory (which is often slow compared to the ALU and control units) greatly increases the computer's speed.
 
-Computer main memory comes in two principal varieties: [[random-access memory]] or RAM and [[read-only memory]] or ROM. RAM can be read and written to anytime the CPU commands it, but ROM is pre-loaded with data and software that never changes, so the CPU can only read from it. ROM is typically used to store the computer's initial start-up instructions. In general, the contents of RAM are erased when the power to the computer is turned off, but ROM retains its data indefinitely. In a PC, the ROM contains a specialized program called the [[BIOS]] that orchestrates loading the computer's [[operating system]] from the hard disk drive into RAM whenever the computer is turned on or reset. In [[embedded system|embedded computer]]s, which frequently do not have disk drives, all of the required software may be stored in ROM. Software stored in ROM is often called [[firmware]], because it is notionally more like hardware than software. [[Flash memory]] blurs the distinction between ROM and RAM, as it retains its data when turned off but is also rewritable. It is typically much slower than conventional ROM and RAM however, so its use is restricted to applications where high speed is unnecessary.<ref>Flash memory also may only be rewritten a limited number of times before wearing out, making it less useful for heavy random access usage. {{Ref harvard|verma1988|Verma 1988|a}}</ref>
+Computer main memory comes in two principal varieties: [[random-access memory]] or RAM and [[read-only memory]] or ROM. RAM can be read and written to anytime the CPU commands it, but ROM is pre-loaded with data and software that never changes, so the CPU can only read from it. ROM is typically used to store the computer's initial start-up instructions. In general, the contents of RAM are erased when the power to the computer is turned off, but ROM retains its data indefinitely. In a PC, the ROM contains a specialized program called the [[BIOS]] that orchestrates loading the computer's [[operating system]] from the hard disk drive into RAM whenever the computer is turned on or reset. In [[embedded system|embedded computers]], which frequently do not have disk drives, all of the required software may be stored in ROM. Software stored in ROM is often called [[firmware]], because it is notionally more like hardware than software. [[Flash memory]] blurs the distinction between ROM and RAM, as it retains its data when turned off but is also rewritable. It is typically much slower than conventional ROM and RAM however, so its use is restricted to applications where high speed is unnecessary.<ref>Flash memory also may only be rewritten a limited number of times before wearing out, making it less useful for heavy random access usage. {{Ref harvard|verma1988|Verma 1988|a}}</ref>
 
 In more sophisticated computers there may be one or more RAM [[CPU cache|cache memories]] which are slower than registers but faster than main memory. Generally computers with this sort of cache are designed to move frequently needed data into the cache automatically, often without the need for any intervention on the programmer's part.
 
-===ننوتي(input) او وتني (output)===
+=== ننوتي(input) او وتني (output) ===
 {{Main|Input/output}}
-[[File:HDDspin.JPG|thumb|right|[[Hard disk drive]]s are common I/O devices used with computers.]]
+[[دوتنه:HDDspin.JPG|thumb|right|[[Hard disk drive]]s are common I/O devices used with computers.]]
 I/O is the means by which a computer exchanges information with the outside world.<ref>{{cite book
  | title = Introduction to the Basic Computer
  | author = Donald Eadie
@@ -284,11 +284,11 @@ I/O is the means by which a computer exchanges information with the outside worl
  | year = 1976
  | isbn = 9780471050513
  | page = 85
-}}</ref> On a typical [[personal computer]], peripherals include input devices like the keyboard and [[mouse (computing)|mouse]], and output devices such as the [[computer monitor|display]] and [[printer (computing)|printer]]. [[Hard disk drive]]s, [[floppy disk|floppy disk drive]]s and [[optical disc drive]]s serve as both input and output devices. [[Computer networking]] is another form of I/O.
+}}</ref> On a typical [[personal computer]], peripherals include input devices like the keyboard and [[mouse (computing)|mouse]], and output devices such as the [[computer monitor|display]] and [[printer (computing)|printer]]. [[Hard disk drive]]s, [[floppy disk|floppy disk drives]] and [[optical disc drive]]s serve as both input and output devices. [[Computer networking]] is another form of I/O.
 
 Often, I/O devices are complex computers in their own right with their own CPU and memory. A [[graphics processing unit]] might contain fifty or more tiny computers that perform the calculations necessary to display [[3D computer graphics|3D graphics]]{{Citation needed|date=December 2007}}. Modern [[desktop computer]]s contain many smaller computers that assist the main CPU in performing I/O.
 
-===ګڼدنديز (Multitasking)===
+=== ګڼدنديز (Multitasking) ===
 
 While a computer may be viewed as running one gigantic program stored in its main memory, in some systems it is necessary to give the appearance of running several programs simultaneously. This is achieved by multitasking i.e. having the computer switch rapidly between running each program in turn.<ref>{{cite book
  | title = Learning the UNIX Operating System: A Concise Guide for the New User
@@ -313,16 +313,16 @@ Before the era of cheap computers, the principle use for multitasking was to all
 
 Seemingly, multitasking would cause a computer that is switching between several programs to run more slowly&nbsp;— in direct proportion to the number of programs it is running. However, most programs spend much of their time waiting for slow input/output devices to complete their tasks. If a program is waiting for the user to click on the mouse or press a key on the keyboard, then it will not take a "time slice" until the event it is waiting for has occurred. This frees up time for other programs to execute so that many programs may be run at the same time without unacceptable speed loss.
 
-===ګڼبهيريز (Multiprocessing)===
+=== ګڼبهيريز (Multiprocessing) ===
 
-[[File:Cray 2 Arts et Metiers dsc03940.jpg|thumb|[[Cray]] designed many supercomputers that used multiprocessing heavily.]]
+[[دوتنه:Cray 2 Arts et Metiers dsc03940.jpg|thumb|[[Cray]] designed many supercomputers that used multiprocessing heavily.]]
 Some computers are designed to distribute their work across several CPUs in a multiprocessing configuration, a technique once employed only in large and powerful machines such as [[supercomputer]]s, [[mainframe computer]]s and [[server (computing)|servers]]. Multiprocessor and [[multi-core]] (multiple CPUs on a single integrated circuit) personal and laptop computers are now widely available, and are being increasingly used in lower-end markets as a result.
 
-Supercomputers in particular often have highly unique architectures that differ significantly from the basic stored-program architecture and from general purpose computers.<ref>However, it is also very common to construct supercomputers out of many pieces of cheap commodity hardware; usually individual computers connected by networks. These so-called [[cluster (computing)|computer cluster]]s can often provide supercomputer performance at a much lower cost than customized designs. While custom architectures are still used for most of the most powerful supercomputers, there has been a proliferation of cluster computers in recent years. {{Ref harvard|top5002006|TOP500 2006|a}}</ref> They often feature thousands of CPUs, customized high-speed interconnects, and specialized computing hardware. Such designs tend to be useful only for specialized tasks due to the large scale of program organization required to successfully utilize most of the available resources at once. Supercomputers usually see usage in large-scale [[Computer simulation|simulation]], [[Rendering (computer graphics)|graphics rendering]], and [[cryptography]] applications, as well as with other so-called "[[embarrassingly parallel]]" tasks.
+Supercomputers in particular often have highly unique architectures that differ significantly from the basic stored-program architecture and from general purpose computers.<ref>However, it is also very common to construct supercomputers out of many pieces of cheap commodity hardware; usually individual computers connected by networks. These so-called [[cluster (computing)|computer clusters]] can often provide supercomputer performance at a much lower cost than customized designs. While custom architectures are still used for most of the most powerful supercomputers, there has been a proliferation of cluster computers in recent years. {{Ref harvard|top5002006|TOP500 2006|a}}</ref> They often feature thousands of CPUs, customized high-speed interconnects, and specialized computing hardware. Such designs tend to be useful only for specialized tasks due to the large scale of program organization required to successfully utilize most of the available resources at once. Supercomputers usually see usage in large-scale [[Computer simulation|simulation]], [[Rendering (computer graphics)|graphics rendering]], and [[cryptography]] applications, as well as with other so-called "[[embarrassingly parallel]]" tasks.
 
-===جاليز (networking) او انټرنيټ===
+=== جاليز (networking) او انټرنيټ ===
 
-[[File:Internet map 1024.jpg|thumb|220px|left|Visualization of a portion of the [[Routing|routes]] on the Internet.]]
+[[دوتنه:Internet map 1024.jpg|thumb|220px|left|Visualization of a portion of the [[Routing|routes]] on the Internet.]]
 Computers have been used to coordinate information between multiple locations since the 1950s. The U.S. military's [[Semi Automatic Ground Environment|SAGE]] system was the first large-scale example of such a system, which led to a number of special-purpose commercial systems like [[Sabre (computer system)|Sabre]].<ref>{{cite book
  | title = Systems, Experts, and Computers
  | author = Agatha C. Hughes
@@ -338,7 +338,7 @@ In the 1970s, computer engineers at research institutions throughout the United 
 In time, the network spread beyond academic and military institutions and became known as the [[Internet]]. The emergence of networking involved a redefinition of the nature and boundaries of the computer. Computer operating systems and applications were modified to include the ability to define and access the resources of other computers on the network, such as peripheral devices, stored information, and the like, as extensions of the resources of an individual computer. Initially these facilities were available primarily to people working in high-tech environments, but in the 1990s the spread of applications like [[e-mail]] and the [[World Wide Web]], combined with the development of cheap, fast networking technologies like [[Ethernet]] and [[Asymmetric digital subscriber line|ADSL]] saw computer networking become almost ubiquitous. In fact, the number of computers that are networked is growing phenomenally. A very large proportion of [[personal computer]]s regularly connect to the [[Internet]] to communicate and receive information. "Wireless" networking, often utilizing [[mobile phone]] networks, has meant networking is becoming increasingly ubiquitous even in mobile computing environments.
 {{-}}
 
-===كلككالې===
+=== كلككالې ===
 
 The term '''hardware''' covers all of those parts of a computer that are tangible objects. Circuits, displays, power supplies, cables, keyboards, printers and mice are all hardware.
 
@@ -368,7 +368,7 @@ The term '''hardware''' covers all of those parts of a computer that are tangibl
 |-
 | [[32-bit]] microcomputer || [[Intel 80386]], [[Pentium]], [[Motorola 68000]], [[ARM architecture]]
 |-
-| [[64-bit]] microcomputer<ref>Most major 64-bit [[instruction set|instruction set architecture]]s are extensions of earlier designs. All of the architectures listed in this table, except for Alpha, existed in 32-bit forms before their 64-bit incarnations were introduced.</ref>|| [[DEC Alpha|Alpha]], [[MIPS architecture|MIPS]], [[PA-RISC]], [[PowerPC]], [[SPARC]], [[x86-64]]
+| [[64-bit]] microcomputer<ref>Most major 64-bit [[instruction set|instruction set architectures]] are extensions of earlier designs. All of the architectures listed in this table, except for Alpha, existed in 32-bit forms before their 64-bit incarnations were introduced.</ref>|| [[DEC Alpha|Alpha]], [[MIPS architecture|MIPS]], [[PA-RISC]], [[PowerPC]], [[SPARC]], [[x86-64]]
 |-
 | [[Embedded system|Embedded computer]] || [[Intel 8048]], [[Intel 8051]]
 |-
@@ -386,13 +386,13 @@ The term '''hardware''' covers all of those parts of a computer that are tangibl
 |-
 | Both || [[Floppy disk|Floppy disk drive]], [[Hard disk drive]], [[Optical disc]] drive, [[Teleprinter]]
 |-
-| rowspan="2" | [[Bus (computing)|Computer bus]]ses || Short range || [[RS-232]], [[SCSI]], [[Conventional PCI|PCI]], [[Universal Serial Bus|USB]]
+| rowspan="2" | [[Bus (computing)|Computer busses]] || Short range || [[RS-232]], [[SCSI]], [[Conventional PCI|PCI]], [[Universal Serial Bus|USB]]
 |-
 | Long range ([[Computer networking]]) || [[Ethernet]], [[Asynchronous Transfer Mode|ATM]], [[Fiber distributed data interface|FDDI]]
 |-
 |}
 
-===پوستكالۍ===
+=== پوستكالۍ ===
 
 '''Software''' refers to parts of the computer which do not have a material form, such as programs, data, protocols, etc. When software is stored in hardware that cannot easily be modified (such as [[BIOS]] [[Read-only memory|ROM]] in an [[IBM PC compatible]]), it is sometimes called "firmware" to indicate that it falls into an uncertain area somewhere between hardware and software.
 
@@ -444,7 +444,7 @@ The term '''hardware''' covers all of those parts of a computer that are tangibl
 | Misc || [[Artificial intelligence]], [[Antivirus software]], [[Malware scanner]], [[Installation (computer programs)|Installer]]/[[Package management system]]s, [[File manager]]
 |}
 
-===كړنلاريز او ژبي (Programming languages)===
+=== كړنلاريز او ژبي (Programming languages) ===
 Programming languages provide various ways of specifying programs for computers to run. Unlike [[natural language]]s, programming languages are designed to permit no ambiguity and to be concise. They are purely written languages and are often difficult to read aloud. They are generally either translated into [[machine code]] by a [[compiler]] or an [[Assembly language#Assembler|assembler]] before being run, or translated directly at run time by an [[interpreter (computing)|interpreter]]. Sometimes programs are executed by a hybrid method of the two techniques. There are thousands of different programming languages—some intended to be general purpose, others useful only for highly specialized applications.
 
 <!-- ATTENTION! AUTHORS:
@@ -466,7 +466,7 @@ Programming languages provide various ways of specifying programs for computers 
 |-
 |}
 
-=== ورهڼې او سازمانونه(Professions and organizations)===
+=== ورهڼې او سازمانونه(Professions and organizations) ===
 As the use of computers has spread throughout society, there are an increasing number of careers involving computers.
 {| class="wikitable"
 |+'''[[:Category:Computer occupations|Computer-related professions]]'''
@@ -487,7 +487,7 @@ The need for computers to work well together and to be able to exchange informat
 | [[Free software|Free]]/[[Open source software]] groups || [[Free Software Foundation]], [[Mozilla Foundation]], [[Apache Software Foundation]]
 |}
 
-==دا هم وګووئ==
+== دا هم وګووئ ==
 
 * [[Computability theory (computer science)]]
 * [[Computer generated holography]]
@@ -500,7 +500,7 @@ The need for computers to work well together and to be able to exchange informat
 * ''[[The Secret Guide to Computers]]'' (book)
 * [[Platform virtualization]]
 
-==اخځونه==
+== اخځونه ==
 
 {{refbegin}}
 * {{note label|kempf1961|Kempf 1961|a}} {{cite paper
@@ -564,7 +564,7 @@ The need for computers to work well together and to be able to exchange informat
 }}
 {{refend}}
 
-==External links==
+== External links ==
 {{sisterlinks|commons=Category:Computers|q=Computers|v=Introduction to Computers|wikt=computer}}
 * [http://search.wikia.com/wiki/Mini:Computer Computer mini-article]
 
@@ -579,13 +579,14 @@ The need for computers to work well together and to be able to exchange informat
 <!--| See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details |-->
 <!--===========================({{NoMoreLinks}})===============================-->
 
-[[Category:Computing| ]]
+[[وېشنيزه:Computing| ]]
 
-{{Link FA|vi}}
 {{Link FA|he}}
+{{Link FA|vi}}
 
 [[ace:Komputer]]
 [[af:Rekenaar]]
+[[als:Computer]]
 [[am:ኮምፒዩተር]]
 [[an:Ordinador]]
 [[ang:Spærcletelle]]
