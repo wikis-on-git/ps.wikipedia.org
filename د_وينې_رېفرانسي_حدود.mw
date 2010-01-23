@@ -1,10 +1,10 @@
-{{Reference ranges}}
-'''[[Reference range]]s for [[blood test]]''' are sets of values used by a [[health professional]] to interpret a set of [[medical test]] results from blood samples. 
+{{ د وينې رېفرانسي حدود}}
+'''د وينې د لابراتواري آزمېښتونو [[ رېفرانسي حدود]]''' هغه ګڼونه او ارزښتونه دي چې د روغتيا د کارپوهانو لخوا د طبي معايناتو د نتايجو نه د روغ او ناروغ د سم تشخيص لپاره د معياري سرچينې په توګه کارېږي.
 
 ==Interpretation==
 The range is usually defined as the set of values 95 percent of the normal population falls within (that is, 95% [[prediction interval]]), or two [[standard deviation]]s from the mean, although the definition may differ (see [[Reference range#Definition|Definition of reference range]]). It is determined by collecting data from vast numbers of laboratory tests.
 
-===Plasma or whole blood===
+===پلازما او ټوله وينه===
 All values (except the exceptions below) denote [[blood plasma]] concentration, which is approximately 60-100% larger than the actual blood concentration if the amount inside [[red blood cells]] (RBCs) is negligible. The precise factor depends on [[hematocrit]] as well as amount inside RBCs. Exceptions are mainly those values that denote total blood concentration, and in this article they are:
 *All values in ''Hematology - red blood cells'' (except ''hemoglobin in plasma'')
 *All values in ''Hematology - white blood cells''
@@ -13,7 +13,7 @@ A few values are for inside red blood cells only:
 *Vitamin B9 (Folic acid/Folate) in red blood cells
 *Mean corpuscular hemoglobin concentration (MCHC)
 
-===Units, molar or mass concentration===
+===يوونونه، مولر يا حجمي غلازت===
 [[Mass concentration]] (g/dL or g/L) is the most common measurement unit in the United States, while [[molar concentration]] (mol/L) is used in most of the rest of the world, including the United Kingdom and other parts of Europe and Australia and New Zealand.<ref>[http://books.google.dk/books?id=BfdighlyGiwC&printsec=frontcover&hl=en Page 34: Units of measurement] in Medical toxicology
 By Richard C. Dart
 Edition: 3, illustrated
@@ -21,23 +21,23 @@ Published by Lippincott Williams & Wilkins, 2004
 ISBN 0781728452, 9780781728454
 1914 pages</ref> [[International unit]]s (IU) are based on measured [[biological activity]] or effect, or for some substances, a specified equivalent mass.
 
-===Arterial or venous===
+===شرياني يا وريدي===
 If not else specified, a reference range for a blood test is generally the [[vein|venous]] range, as the standard process of obtaining a sample is by [[venipuncture]]. An exception is for acid-base and [[blood gas]]es, which are generally given for arterial blood.
 
 Still, the blood values are approximately equal between the arterial and venous sides for most substances, with the exception of acid-base, blood gases and drugs (used in [[therapeutic drug monitoring]] (TDM) assays).<ref name=Dufour>[http://findarticles.com/p/articles/mi_m3230/is_4_32/ai_61893437/ Arterial versus venous reference ranges - Brief Article] Medical Laboratory Observer, April, 2000 by D. Robert Dufour</ref> Arterial levels for drugs are generally higher than venous levels because of extraction while passing through tissues.<ref name=Dufour/>
 
-===Inaccuracy===
+===ناسموالی===
 {{Main|Reference range#Inaccuracy}}
 References range will vary with age, sex, race, diet, use of prescribed or herbal drugs, stress and even the instruments used. The samples may deviate from normal distribution. Furthermore, reference ranges only denote what are usual values in the population, and do not directly correlate with the ranges for optimal health. In case of substantial difference, there may additionally be an [[optimal range]] specified for the substance. Finally, the test procedure itself may be erroneous or inaccurate.
 
-==Sorted by concentration==
+==د غلازت له مخې اوډنه==
 ''[[:Image:Blood values for print.png|A separate printable combined image is available for mass and molarity]]''
 
 Smaller, narrower boxes indicate a more tight homeostatic regulation when measured as [[Reference range#Definition|standard "usual" reference range]].
 
 <div class="noprint">
 
-===By mass and molarity===
+===د مولارېټي او حجم له مخې===
 {{wide image|Blood values sorted by mass and molar concentration.png|3500px}}
 
 To translate a substance from the molar to the mass concentration scale above:
@@ -52,7 +52,7 @@ To translate a substance from the molar to the mass concentration scale above:
 Many substances given in mass concentration are not given in molar amount because they haven't been added to the article.
 </div>
 
-===By units===
+===د يوون له مخې===
 Units don't necessarily tell anything about molarity or mass.
 [[Image:Reference ranges for blood tests - by units.png|thumb|center|700px]]
 
