@@ -61,10 +61,10 @@ A few substances are below this main interval, e.g. [[thyroid stimulating hormon
 ===د وينې سپينې ژونکې===
 [[Image:Reference ranges for blood tests - white blood cells.png|thumb|center|810px]]
 
-==Clinical biochemistry==
+==کلينيکي ژونکيميا==
 [[Clinical chemistry]] (also known as "clinical biochemistry", "chemical pathology" or "pure blood chemistry") is the area of [[pathology]] that is generally concerned with analysis of [[List of bodily fluids|bodily fluids]].
 
-===Electrolytes and Metabolites===
+===اېلېکټرولايټونه او مېټابولايټونه===
 [[Electrolyte]]s and [[Metabolism|Metabolite]]s:
 For iron and copper, some related proteins are also included.
 
@@ -175,7 +175,7 @@ For iron and copper, some related proteins are also included.
  | 34 <ref name=pyruvate-mass>Derived from mass values using molar mass of 88.06 g/mol</ref> || 102<ref name=pyruvate-mass/> || μmol/L
 |}
 
-===Acid-base and blood gases===
+===اسيد-بېز او د وينې ګازونه===
 {{See|Acid-base homeostasis}}
 {{see|Arterial blood gas}}
 If [[artery|arterial]]/[[vein|venous]] is not specified for a acid-base or blood gas value, then it generally refers to arterial, and not venous which otherwise is standard.
@@ -230,7 +230,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  |- 
 |}
 
-===Liver function===
+===د ځيګر عمل===
 {{See|Liver function tests}}
 
 {| class="wikitable"
@@ -268,7 +268,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  |- 
 |}
 
-===Cardiac tests===
+===د زړه آزمېښتونه===
 
 {| class="wikitable"
  |'''Test'''||'''Lower limit'''||'''Upper limit'''||'''Unit'''||'''Comments'''
@@ -300,7 +300,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  |- 
 |}
 
-===Other enzymes and proteins===
+===نور اېنزايمونه او پروټينونه===
 
 {| class="wikitable"
  |'''Test'''||'''Lower limit'''||'''Upper limit'''||'''Unit'''||'''Comments'''
@@ -325,7 +325,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  |-
 |}
 
-===Other ions and trace metals===
+===نور آينونه او وسپنې===
 {{See|Trace metals}}
 
 {| class="wikitable"
@@ -355,7 +355,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  |-
 |}
 
-===Lipids===
+===شحميات===
 {{See|Blood lipids}}
 
 {| class="wikitable"
@@ -390,7 +390,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  | 80<ref name=ch-molar/> - 94<ref name=ch-molar/> || 120<ref name=ch-molar/> - 130<ref name=ch-molar/> || mg/dL || < 100<ref name=ch-molar/>
 |}
 
-===Tumour markers===
+===توموري نښېرونه===
 {{See|Tumour markers}}
 
 {| class="wikitable"
@@ -415,7 +415,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  | [[Prostatic acid phosphatase|PAP]]  || 0 || 3<ref name=bloodbook/> || units/dL (Bodansky units) ||
 |}
 
-===Thyroid hormones===
+===تايرايډ هورمون===
 {{See|Thyroid hormone}}
 
 {| class="wikitable"
@@ -471,7 +471,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  |- 
  |}
 
-===Sex hormones===
+===جنسي هورمونونه===
 {{See|Sex steroid}}
 {| class="wikitable"
  |'''Test'''||'''Patient type'''||'''Lower limit'''||'''Upper limit'''||'''Unit'''
@@ -539,7 +539,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  | Prepubertal ||  || < 60<ref name=nyhq/> 
  |}
 
-===Other hormones===
+===نور هورمونونه===
 {{See|Hormones}}
 
 {| class="wikitable"
@@ -576,7 +576,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  | 85<ref name=adeeva>[http://www.adeeva.com/resources/bloodtestscomplete.html Adëeva Nutritionals Canada > Optimal blood test values] Retrieved on July 9, 2009</ref> - 100<ref name=Vasquez/> -  || 120<ref name=adeeva/> - 160<ref name=Vasquez/>|| nmol/L 
  |}
 
-===Amino acids===
+===امينو اسيدونه===
 {| class="wikitable"
  |'''Test'''||'''Sex'''||'''Age'''||'''Lower limit'''||'''Upper limit'''||'''Unit'''||'''[[Homocysteine#Elevated_homocysteine|Elevated]]'''||'''[[Optimal health range|Therapeutic target]]
  |- 
@@ -598,7 +598,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  |-
  |}
 
-===Vitamins===
+===ويټامينونه===
 {| class="wikitable"
  |rowspan=2|'''Test'''||rowspan=2|'''Patient type'''||colspan=2|'''[[Standard range]]'''||rowspan=2|'''Unit'''||colspan=2|'''[[Optimal range]]'''
  |-
@@ -636,7 +636,7 @@ Acid-base and blood gases are among the few blood constituents that exhibit subs
  |-
  |}
 
-===Toxins===
+===زارونه===
 {| class="wikitable"
  |'''Test'''||'''Limit type'''||'''Limit''' || '''Unit'''
  |- 
