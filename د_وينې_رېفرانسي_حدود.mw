@@ -77,15 +77,15 @@ For iron and copper, some related proteins are also included.
 |'''Unit'''
 |'''Comments'''
  |- 
- |rowspan=2| [[Sodium]] (Na) ||rowspan=2|  || 135<ref name=firstaid/>-137<ref name=southwest/> || 145<ref name=southwest/>-147<ref name=firstaid/> || mmol/L or mEq/L<ref name=firstaid/> || 
+ |rowspan=2| [[سوډيم]] (Na) ||rowspan=2|  || 135<ref name=firstaid/>-137<ref name=southwest/> || 145<ref name=southwest/>-147<ref name=firstaid/> || mmol/L or mEq/L<ref name=firstaid/> || 
  |-
  | 31<ref name=sodium-molar>Derived from molar values using molar mass of 22.99 g·mol−1</ref> - 32<ref name=sodium-molar/> || 33<ref name=sodium-molar/> - 34<ref name=sodium-molar/> || mg/dl
  |- 
- |rowspan=2| [[Potassium]] (K) ||rowspan=2|  || 3.5<ref name=firstaid/>-3.6<ref name=southwest/> || 5.0<ref name=firstaid/><ref name=southwest/>-5.1  || mmol/L or mEq/L<ref name=firstaid/> || See [[hypokalemia]] or [[hyperkalemia]]
+ |rowspan=2| [[پوتاشيم]] (K) ||rowspan=2|  || 3.5<ref name=firstaid/>-3.6<ref name=southwest/> || 5.0<ref name=firstaid/><ref name=southwest/>-5.1  || mmol/L or mEq/L<ref name=firstaid/> || See [[hypokalemia]] or [[hyperkalemia]]
  |-
  | 14<ref name=potassium-molar>Derived from molar values using molar mass of 39.10 g·mol−1</ref> || 20<ref name=potassium-molar/> || mg/dl
  |- 
- |rowspan=2| [[Chloride]] (Cl) ||rowspan=2|  || 95<ref name=firstaid/>-98<ref name=merck/> || 105<ref name=firstaid/>-106<ref name=merck/> || mmol/L or mEq/L<ref name=firstaid/>  || 
+ |rowspan=2| [[کلورايډ]] (Cl) ||rowspan=2|  || 95<ref name=firstaid/>-98<ref name=merck/> || 105<ref name=firstaid/>-106<ref name=merck/> || mmol/L or mEq/L<ref name=firstaid/>  || 
  |-
  | 340<ref name=chloride-molar>Derived from molar values using molar mass of 35.45 g·mol−1</ref> || 370<ref name=chloride-molar/> || mg/dl
  |-
@@ -93,27 +93,27 @@ For iron and copper, some related proteins are also included.
  |-
  | [[Osmolarity]] || ||colspan=2| Slightly less than osmolality || mOsm/l || Plasma volume includes solutes
  |- 
- |rowspan=2| [[Urea]] ||rowspan=2| || 1.2<ref name=firstaid/>-3.0<ref name=gardner>{{cite journal |author=Gardner MD, Scott R |title=Age- and sex-related reference ranges for eight plasma constituents derived from randomly selected adults in a Scottish new town |journal=J. Clin. Pathol. |volume=33 |issue=4 |pages=380–5 |year=1980 |month=April |pmid=7400337 |pmc=1146084 |doi= 10.1136/jcp.33.4.380|url=http://jcp.bmj.com/cgi/pmidlookup?view=long&pmid=7400337}}</ref>  || 3.0<ref name=firstaid/>-7.0<ref name=gardner/>  || mmol/L ||rowspan=2| BUN - [[blood urea nitrogen]]
+ |rowspan=2| [[يوريا]] ||rowspan=2| || 1.2<ref name=firstaid/>-3.0<ref name=gardner>{{cite journal |author=Gardner MD, Scott R |title=Age- and sex-related reference ranges for eight plasma constituents derived from randomly selected adults in a Scottish new town |journal=J. Clin. Pathol. |volume=33 |issue=4 |pages=380–5 |year=1980 |month=April |pmid=7400337 |pmc=1146084 |doi= 10.1136/jcp.33.4.380|url=http://jcp.bmj.com/cgi/pmidlookup?view=long&pmid=7400337}}</ref>  || 3.0<ref name=firstaid/>-7.0<ref name=gardner/>  || mmol/L ||rowspan=2| BUN - [[blood urea nitrogen]]
  |- 
  | 7<ref name=firstaid/> || 18<ref name=firstaid/>-21<ref name=southwest/> || mg/dL 
  |- 
- |rowspan=3| * [[Uric acid]]<ref name=southwest/> || || 0.18<ref name=firstaid/> || 0.48<ref name=firstaid/> || mmol/L ||
+ |rowspan=3| * [[يوريک اسيد]]<ref name=southwest/> || || 0.18<ref name=firstaid/> || 0.48<ref name=firstaid/> || mmol/L ||
  |-
- | Female || 2.0<ref name=bloodbook/> || 7.0<ref name=bloodbook/> || mg/dL ||  
+ | ښځينه || 2.0<ref name=bloodbook/> || 7.0<ref name=bloodbook/> || mg/dL ||  
  |-
- | Male || 2.1 <ref name=bloodbook/> || 8.5<ref name=bloodbook/> || mg/dL || 
+ | نارينه || 2.1 <ref name=bloodbook/> || 8.5<ref name=bloodbook/> || mg/dL || 
  |- 
- |rowspan=4|  [[Creatinine]] ||rowspan=2| male  || 68<ref name=finney>{{cite journal |author=Finney H, Newman DJ, Price CP |title=Adult reference ranges for serum cystatin C, creatinine and predicted creatinine clearance |journal=Ann. Clin. Biochem. |volume=37 ( Pt 1) |issue= |pages=49–59 |year=2000 |month=January |pmid=10672373 |doi= 10.1258/0004563001901524|url=http://acb.rsmjournals.com/cgi/pmidlookup?view=long&pmid=10672373}}</ref>  || 118<ref name=finney/>  || μmol/L  || May be complemented with [[creatinine clearance]]
+ |rowspan=4|  [[کرياتينين]] ||rowspan=2| male  || 68<ref name=finney>{{cite journal |author=Finney H, Newman DJ, Price CP |title=Adult reference ranges for serum cystatin C, creatinine and predicted creatinine clearance |journal=Ann. Clin. Biochem. |volume=37 ( Pt 1) |issue= |pages=49–59 |year=2000 |month=January |pmid=10672373 |doi= 10.1258/0004563001901524|url=http://acb.rsmjournals.com/cgi/pmidlookup?view=long&pmid=10672373}}</ref>  || 118<ref name=finney/>  || μmol/L  || May be complemented with [[creatinine clearance]]
  |- 
  | 0.8<ref name=creatinineadapt>molar value multiplied by the molar mass of 113.118 g/mol, and divided by 10.000 to adapt from μ_/L to m_/dL</ref> || 1.3<ref name=creatinineadapt/> || mg/dL  || 
  |- 
- |rowspan=2| female  || 68<ref name=finney/> || 98<ref name=finney/>  || μmol/L  || 
+ |rowspan=2| ښځينه  || 68<ref name=finney/> || 98<ref name=finney/>  || μmol/L  || 
  |- 
  |  0.8<ref name=creatinineadapt/> || 1.1<ref name=creatinineadapt/> || mg/dL  || 
  |- 
  | BUN/Creatinine Ratio || || 5<ref name=bloodbook/> || 35<ref name=bloodbook/> || - ||
  |-
- |rowspan=2| [[Blood sugar|Glucose]] (fasting) ||rowspan=2|  || 3.8<ref name=firstaid/>-3.9  || 6.1<ref name=Medline-GTT>{{MedlinePlus|003466|Glucose tolerance test}}</ref> || mmol/L  ||rowspan=2| ''See also'' [[glycosylated hemoglobin]] (in hematology)
+ |rowspan=2| [[د وينې خواږه|ګلوکوز]] (fasting) ||rowspan=2|  || 3.8<ref name=firstaid/>-3.9  || 6.1<ref name=Medline-GTT>{{MedlinePlus|003466|Glucose tolerance test}}</ref> || mmol/L  ||rowspan=2| ''See also'' [[glycosylated hemoglobin]] (in hematology)
  |- 
  | 65<ref name=southwest/>-70<ref name=firstaid/>  || 100<ref name=Medline-GTT/>-110<ref name=bloodbook/> || mg/dL 
  |- 
@@ -121,7 +121,7 @@ For iron and copper, some related proteins are also included.
  |-
  | 11.6<ref name=DCL>[http://www.dclmexico.com/ingles/hierro_sl.pdf Diagnostic Chemicals Limited > Serum Iron-SL Assay] July 15, 2005</ref><ref name=mass-iron/> - 13.6<ref name=mass-iron/> || 30<ref name=DCL/>, 32<ref name=mass-iron/>, 35<ref name=mass-iron/> || μmol/L 
  |- 
- |rowspan=2| female || 26<ref name=southwest/>-50<ref name=uimc/> || 170<ref name=southwest/><ref name=uimc/> || µg/dL 
+ |rowspan=2| ښځينه || 26<ref name=southwest/>-50<ref name=uimc/> || 170<ref name=southwest/><ref name=uimc/> || µg/dL 
  |-
  | 4.6<ref name=mass-iron/> - 8.9<ref name=DCL/> || 30.4<ref name=DCL/> || μmol/L 
  |- 
@@ -137,13 +137,13 @@ For iron and copper, some related proteins are also included.
  |- 
  | 43<ref name=mass-iron/> - 47<ref name=mass-iron/> || 81<ref name=mass-iron/> - 85<ref name=mass-iron/>|| µmol/L
  |- 
- |rowspan=2| [[Transferrin]] || || 190<ref name=clinchem>[http://www.clinchem.org/cgi/reprint/45/1/131.pdf Table 1.] Page 133. Clinical Chemistry 45, No. 1, 1999 (stating 1.9–3.3 g/L)</ref> - 204<ref name=southwest/> || 330<ref name=clinchem/> - 360<ref name=southwest/> || mg/dL ||
+ |rowspan=2| [[ټرانسفېرين]] || || 190<ref name=clinchem>[http://www.clinchem.org/cgi/reprint/45/1/131.pdf Table 1.] Page 133. Clinical Chemistry 45, No. 1, 1999 (stating 1.9–3.3 g/L)</ref> - 204<ref name=southwest/> || 330<ref name=clinchem/> - 360<ref name=southwest/> || mg/dL ||
  |-
  |  || 25<ref name=transf-derived>Derived by dividing mass values with molar mass</ref> || 45<ref name=transf-derived/> || μmol/L
  |- 
  | [[Transferrin saturation]]<ref name=uimc/> || || 20 || 50 || % ||
  |- 
- |rowspan=4| [[Ferritin]] ||rowspan=2| Male || 12<ref name=medline>[http://www.nlm.nih.gov/medlineplus/ency/article/003490.htm Ferritin] by: Mark Levin, MD, Hematologist and Oncologist, Newark, NJ. Review provided by VeriMed Healthcare Network</ref> || 300<ref name=medline/> || ng/mL ||
+ |rowspan=4| [[فېرېټين]] ||rowspan=2| Male || 12<ref name=medline>[http://www.nlm.nih.gov/medlineplus/ency/article/003490.htm Ferritin] by: Mark Levin, MD, Hematologist and Oncologist, Newark, NJ. Review provided by VeriMed Healthcare Network</ref> || 300<ref name=medline/> || ng/mL ||
  |-
  | 27 <ref name=mass-ferritin>Derived from mass values using molar mass of 450,000 g·mol−1</ref> || 670<ref name=mass-ferritin/>|| pmol/L
  |- 
@@ -151,7 +151,7 @@ For iron and copper, some related proteins are also included.
  |-
  | 27 <ref name=mass-ferritin/> || 330<ref name=mass-ferritin/>|| pmol/L
  |- 
- |rowspan=2| [[Ammonia]] ||rowspan=2| || 10<ref name=mitchell>{{cite journal |author=Mitchell ML, Filippone MD, Wozniak TF |title=Metastatic carcinomatous cirrhosis and hepatic hemosiderosis in a patient heterozygous for the H63D genotype |journal=Arch. Pathol. Lab. Med. |volume=125 |issue=8 |pages=1084–7 |year=2001 |month=August |pmid=11473464 |doi= |url=http://journals.allenpress.com/jrnlserv/?request=get-abstract&issn=0003-9985&volume=125&page=1084}}</ref>-20<ref name=diaz>{{cite journal |author=Diaz J, Tornel PL, Martinez P |title=Reference intervals for blood ammonia in healthy subjects, determined by microdiffusion |journal=Clin. Chem. |volume=41 |issue=7 |pages=1048 |year=1995 |month=July |pmid=7600690 |doi= |url=}}</ref> || 35<ref name=mitchell/>-65<ref name=diaz/> || μmol/L ||
+ |rowspan=2| [[امونيا]] ||rowspan=2| || 10<ref name=mitchell>{{cite journal |author=Mitchell ML, Filippone MD, Wozniak TF |title=Metastatic carcinomatous cirrhosis and hepatic hemosiderosis in a patient heterozygous for the H63D genotype |journal=Arch. Pathol. Lab. Med. |volume=125 |issue=8 |pages=1084–7 |year=2001 |month=August |pmid=11473464 |doi= |url=http://journals.allenpress.com/jrnlserv/?request=get-abstract&issn=0003-9985&volume=125&page=1084}}</ref>-20<ref name=diaz>{{cite journal |author=Diaz J, Tornel PL, Martinez P |title=Reference intervals for blood ammonia in healthy subjects, determined by microdiffusion |journal=Clin. Chem. |volume=41 |issue=7 |pages=1048 |year=1995 |month=July |pmid=7600690 |doi= |url=}}</ref> || 35<ref name=mitchell/>-65<ref name=diaz/> || μmol/L ||
  |-
  | 17<ref name=ammonia-molar>Derived from molar values using molar mass of 17.03 g/mol</ref> - 34<ref name=ammonia-molar/> || 60<ref name=ammonia-molar/> - 110<ref name=ammonia-molar/> || μg/dL
  |-
@@ -159,11 +159,11 @@ For iron and copper, some related proteins are also included.
  |-
  | 11 <ref name=copper-mass>Derived from mass values using molar mass of 63.55 g·mol−1</ref> || 24<ref name=copper-mass/> || μmol/L || 
  |-
- |rowspan=2| [[Ceruloplasmin]] ||rowspan=2|  || 15<ref name=bloodbook/> || 60<ref name=bloodbook/> || mg/dL || 
+ |rowspan=2| [[سېرولوپلازمين]] ||rowspan=2|  || 15<ref name=bloodbook/> || 60<ref name=bloodbook/> || mg/dL || 
  |-
  | 1 <ref name=ceruloplasmin-mass>Derived from mass using molar mass of 151kDa</ref> || 4<ref name=ceruloplasmin-mass/> || μmol/L ||
  |-
- |rowspan=2| [[Lactic acid|Lactate]] (Venous) ||rowspan=2| || 4.5<ref name=bloodbook/> || 19.8<ref name=bloodbook/> || mg/dL || 
+ |rowspan=2| [[لاکټېک اسيد|لاکټېټ]] (Venous) ||rowspan=2| || 4.5<ref name=bloodbook/> || 19.8<ref name=bloodbook/> || mg/dL || 
  |-
  | 0.5<ref name=lactate-mass>Derived from mass values using molar mass of 90.08 g/mol</ref> || 2.2<ref name=lactate-mass/> || mmol/L ||
  |-
@@ -171,7 +171,7 @@ For iron and copper, some related proteins are also included.
  |-
  | 0.5<ref name="lactate-mass"/> || 1.6<ref name=lactate-mass/> || mmol/L ||
  |-
- |rowspan=2| [[Pyruvate]] ||rowspan=2|  || 300<ref name=bloodbook/> || 900<ref name=bloodbook/> || μg/dL ||
+ |rowspan=2| [[پايرووېټ]] ||rowspan=2|  || 300<ref name=bloodbook/> || 900<ref name=bloodbook/> || μg/dL ||
  |-
  | 34 <ref name=pyruvate-mass>Derived from mass values using molar mass of 88.06 g/mol</ref> || 102<ref name=pyruvate-mass/> || μmol/L
 |}
