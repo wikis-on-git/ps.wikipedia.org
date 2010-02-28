@@ -1,57 +1,63 @@
 {{ژباړل}}
-
-{{redirect4|Hellas|Greece}}
-{{Infobox_Country
-|native_name = <big>Ελληνική Δημοκρατία</big><br />''Ellinikí Dhimokratía''
-|conventional_long_name = <big>Hellenic Republic</big>
-|common_name = Greece
-|image_flag = Flag of Greece.svg
-|image_coat = Coat of arms of Greece.png
-|image_map = LocationGreece.png
-|national_motto = [[Greek language|Greek]]: Ελευθερία ή Θάνατος<br />([[Transliteration]]: ''[[Eleutheria i thanatos]]'')<br />([[Translation]]: "Freedom or Death") 
-|national_anthem = Ύμνος εις την Ελευθερίαν<br />("[[Hymn to Freedom]]")
-|official_languages = [[Greek language|Greek]]
-|capital = [[Athens]]
+{{هېواد-مالوماتبکس
+|ملي نوم= <big>Ελληνική Δημοκρατία</big><br />''Ellinikí Dhimokratía'' 
+|اوږد دوديزه نوم= <span style="line-height:1.33em;">د يونان جمهوريت</span>
+|ټولګړی نوم= يونان
+|image_flag               = Flag of Greece.svg
+|image_coat               = Coat of arms of Greece.svg
+|سمبول              = نښان
+|image_map                = LocationGreece.svg
+|ملي ناره= [[يوناني ژبه|يوناني]]: Ελευθερία ή Θάνατος<br />([[Transliteration]]: ''[[اېليوتېرا اي تاناتوس]]'')<br />([[ژباړه]]: "خپلواکي يا مرګ")
+|ملي سرود          = Ύμνος εις την Ελευθερίαν<br />("[[د خپلواکۍ سندره]]")
+|رسمي ژبې/ژبې       = [[يوناني]]
+|پلازمېنه                  = [[آتېنس]]
 |latd=38 |latm=00 |latNS=N |longd=23 |longm=43 |longEW=E
-|largest_city = [[Athens]]
-|government_type = Parliamentary republic<sup>1<sup>
-|leader_titles = [[List of Presidents of Greece|President]]<br />[[List of Prime Ministers of Greece|Prime Minister]]
-|leader_names =[[Karolos Papoulias]]<br />[[Kostas Karamanlis]]
-|area_rank = 70th
-|area_magnitude = 1 E11
-|area= 131,945 <!-- Do not add more information here. It will appear in the "capital" part pf this box. Reason for this bug unknown. -->
-|areami²= 50,944 <!-- Do not remove per [[WP:MOSNUM]] -->
-|percent_water = 0.86
-|population_estimate = 10,668,354[http://www.cia-worldfactbook.com] <!-- Do not remove per [[WP:MOSNUM]] Do not add more information here. It will mess up the infobox--> 
-|population_estimate_rank = 72nd  
-|population_estimate_year = 2005 
-|population_census = 10,964,020 [http://www.statistics.gr/Main_eng.asp]
-|population_census_year = 2001
-|population_density = 80.9
-|population_densitymi² =209.5 <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 87th
-|GDP_PPP =  $242.8 billion (2005 official Eurostat data) 
-|GDP_PPP_rank = 39th 
-|GDP_PPP_year= 2005
-|GDP_PPP_per_capita = $22,800 (2005 official Eurostat data) 
-|GDP_PPP_per_capita_rank = 32th 
-|sovereignty_type = [[Independence]]
-|established_events = From the [[Ottoman Empire]]
-|established_dates = <small>- Declared</small><br />&nbsp;[[25 March]] [[1821]]<br/><small>- Recognized</small><br />[[1829]]
-|HDI = 0.912
-|HDI_rank = 24th
-|HDI_year = 2005
-|HDI_category = <font color="#009900">high</font>
-|currency = [[Euro]](€)<sup>2</sup>
-|currency_code = EUR
-|country_code = 
-|time_zone = [[Eastern European Time|EET]]
-|utc_offset = +2
-|time_zone_DST = [[EEST]]
-|utc_offset_DST = +3
-|cctld = [[.gr]]
-|calling_code = 30
-|footnotes = <sup>1<sup> Monarchy rejected by referendum December 8th, 1974.
+|لوی ښار             = [[آتېنس]]
+|د حکومت بڼه          = [[پارلماني جمهوريت]]
+|د لارښود لقب1            = [[د يونان ولسمشر|ولسمشر]]
+|د لارښود لقب2            = [[د ولسمشر مرستيال]]
+|د لارښود نوم1             = [[Karolos Papoulias]]
+|د لارښود نوم2            = [[]]
+|د لارښود لقب3            = [[]]
+|د لارښود نوم3             = [[]]
+|ارتواليز وېش=  70 هېواد
+|د ارتوالي څومره والی= 1 E11
+|ارتوالی= 131,945
+|areami²                  = 50,944 <!--Do not remove per [[WP:MOSNUM]]-->
+|د اوبو سلنه           = 0.86
+|د وګړو اټکل      = 10,668,354[http://www.cia-worldfactbook.com]
+|د وګړو د شمېر د اټکل کال = 2005
+|د وګړو د اټکل له مخې وېش = 72 هېواد
+|د وګړو سرشمېرنه        = 10,964,020 [http://www.statistics.gr/Main_eng.asp
+|د وګړو د سرشمېرنې کال   = 2001
+|د وګړو ګڼه ګونه      = 80.9
+|د وګړو ګڼه ګونه په هر متر² کې   = 209.5 <!--Do not remove per [[WP:MOSNUM]]-->
+|د وېش له مخې د وګړو ګڼه ګونې= 87
+|د ټول کورني عايداتو کال     = ۲۰۰۶
+|ټول کورني عايدات   = 242.8 (2005 official Eurostat data بيليون $ 
+|د کورني عايداتو له مخې وېش   = 39th
+|GDP_PPP_per_capita       = $22,800 (2005 official Eurostat data
+|GDP_PPP_per_capita_rank  = 32th
+|HDI_year                 = 2005
+|HDI                      = 0.912
+|HDI_rank                 = 24th
+|HDI_category             = <font color="#009900">high</font>
+|زمکنۍ بشپړتيا= [[د يونان خپلواکي|خپلواکي]]
+|د زمکنۍ بشپړتيا يادښت= From the [[Ottoman Empire]]
+|established_event1       = د اعلانېدو نېټه
+|established_event2       = د پېژندلو نېټه
+|established_date1        = [[25 March]] [[1821]]
+|established_date2        = [[1829]]
+|پېسه                 = [[[Euro]](€)<sup>2</sup>
+|د پېسو نښه = EUR
+|هېوادنی کوډ             =  
+|سيمه ايز وخت=[[Eastern European Time|EET]]
+|utc_offset               = +۲:۰۰
+|time_zone_DST            = [[EEST]]
+|utc_offset_DST           = +۳:۰۰
+|cctld                    = [[.gr]]
+|پېل ګڼ        = 30
+|پايڅوړ                = <sup>1<sup> Monarchy rejected by referendum December 8th, 1974.
 <sup>2</sup> Prior to 2001: [[Drachma|Greek Drachma]].
 }}
 
