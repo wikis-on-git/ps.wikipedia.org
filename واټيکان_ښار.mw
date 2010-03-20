@@ -1,11 +1,11 @@
 {{ژباړل}}
 
-<!-- Infobox Country -->{{Vatican Infobox <!-- Different Template, but modeled after Template:Infobox Country -->
-| native_name = ''Status Civitatis Vaticanae&nbsp;'''''<small>(Latin)</small><br />'''''Stato della Città del Vaticano&nbsp;'''''<small>(Italian)</small><br />'''State of the Vatican City''
-| common_name = Vatican City
+<!-- هېواد-مالوماتبکس -->{{Vatican Infobox <!-- Different Template, but modeled after Template:هېواد-مالوماتبکس -->
+| ملي نوم = ''Status Civitatis Vaticanae&nbsp;'''''<small>(Latin)</small><br />'''''Stato della Città del Vaticano&nbsp;'''''<small>(Italian)</small><br />'''State of the Vatican City''
+| ټولګړی نوم = Vatican City
 | image_flag = Flag_of_the_Vatican_City.svg
-| image_coat = Holysee-arms.png
-| image_map = LocationVaticanCity.png
+| image_coat = Holysee-arms.svg
+| image_map = LocationVaticanCity.svg
 | national_motto = none
 | national_anthem = ''[[Inno e Marcia Pontificale]]''
 | official_languages = [[Latin]]<sup>2</sup>
