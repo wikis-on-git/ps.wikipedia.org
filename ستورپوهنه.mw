@@ -36,7 +36,6 @@
 له لومړيو وختو كې خلكو دا ګومان كاوه چې [[زمكه]] هوار ده، او ددې لپاره به يې د لرې واټن له سفر كولو څخه ځانونه ژغورل، چې نه چېرې د زمكې په ختمېدو سره د هغې له لمنو څخه لاندې ونه لوېږي.  فرانسس ډرېك لومړنې كس ؤ چې په ۱۵۹۷زېږيز كال كې يې په بحري بېړۍ كې د زمكې ګردچاپېره سفر وكړ، او دا يې په زبات ورسوله چې [[زمكه]] په اصل كې ګرده ( كروي) ده.
 
 == وييپوهنه ==
-
 ستورپوهنې ته په انګرېزي ژبه ''astronomy'' وايي او دا '''د ستورو قانون''' په مانا ده. همدا ويي په اصل کې د يوناني ژبې د وييکې αστρονομία, ''آسټرونوميا''، نه راوتلې چې άστρον (''آسټرون''، يعنی "ستوری") او νόμος (''نوموس''، يعنی "د نومونو قانون") مانا لري.
 
 === د "ستورپوهنې" او "آسټروفيزيکس" د وييونو کارونه ===
@@ -103,7 +102,7 @@ The existence of the Earth's galaxy, the [[Milky Way]], as a separate group of s
 In [[Babylon]] and ancient Greece, astronomy consisted largely of [[astrometry]], measuring the positions of stars and planets in the sky. Later, the work of [[astronomers]] [[Johannes Kepler|Kepler]] and [[Isaac Newton|Newton]] led to the development of [[celestial mechanics]], and astronomy focused on mathematically predicting the motions of [[gravity|gravitationally]] interacting celestial bodies. This was applied to [[solar system]] objects in particular. Today, the motions and positions of objects are more easily determined, and modern astronomy concentrates on observing and understanding the physical nature of celestial objects.
 
 === د مالوماتو د راغونډولو چلندلار ===
-{{main|Observational astronomy}}
+{{آرنی|Observational astronomy}}
 In astronomy, [[information]] is mainly received from the detection and analysis of light and other forms of [[electromagnetic radiation]].<ref>{{cite web | url=http://imagine.gsfc.nasa.gov/docs/science/know_l1/emspectrum.html | title = Electromagnetic Spectrum | publisher = NASA | accessdate = 2006-09-08 }}</ref> However, useful information has also been acquired using [[neutrino]] detectors. These have been used to observe solar neutrinos, and neutrino emissions from [[supernova]]e have also been detected. There are also instruments to observe the effects of [[cosmic ray]]s, and, in the near future, several experiments are designed to detect [[gravitational wave]]s.<ref>{{cite web | author = G. A. Tammann, F. K. Thielemann, D. Trautmann | date = 2003 | url=http://www.europhysicsnews.com/full/20/article8/article8.html | title = Opening new windows in observing the Universe | publisher = Europhysics News | accessdate = 2006-08-22 }}</ref>
 
 A traditional division among astronomy fields is based on the region of the [[electromagnetic spectrum]] observed. At the low frequency end of the spectrum, [[radio astronomy]] detects [[radiation]] in [[wavelength]]s measuring between a millimeter and a dekameter. The [[radio telescope]] receivers are similar to those used in [[radio]] broadcast transmissions, but are much more sensitive. [[Microwave]]s form the millimeter end of the radio spectrum, and are important for studies of the [[cosmic microwave background radiation]].
@@ -120,7 +119,7 @@ Optical and radio astronomy can be performed with ground-based [[observatory|obs
 Planetary astronomy has benefited from direct observation in the form of spacecraft and sample return missions. These include fly-by missions with remote sensors; landing vehicles that can perform experiments on the surface materials; impactors that allow remote sensing of buried material, and sample return missions that allow direct, laboratory examination.
 
 === ستورپوهنه او اسماني تخنيکونه ===
-{{main|Astrometry|Celestial mechanics}}
+{{آرنی|آسټرومېټري|Celestial mechanics}}
 One of the oldest fields in astronomy, and in all of science, is the measurement of the positions of celestial objects. Historically, accurate knowledge of the positions of the Sun, Moon, planets and stars has been essential in [[celestial navigation]].
 
 Careful measurement of the positions of the planets has led to a solid understanding of gravitational [[Perturbation theory|perturbations]], and an ability to determine past and future positions of the planets with great accuracy, a field known as [[celestial mechanics]]. More recently the tracking of [[near-Earth object]]s will allow for predictions of close encounters, and potential collisions, with the Earth.<ref>{{cite web | last = Calvert | first = James B. | date = 2003-03-28 | url=http://www.du.edu/~jcalvert/phys/orbits.htm | title = Celestial Mechanics | publisher = University of Denver | accessdate = 2006-08-21 }}</ref>
@@ -130,13 +129,11 @@ The measurement of [[parallax|stellar parallax]] of nearby stars provides a fund
 During the [[1990s]], the astrometric technique of measuring the [[stellar wobble]] was [[Methods of detecting extrasolar planets#Astrometry|used to detect]] large [[extrasolar planet]]s orbiting nearby stars.<ref name="Wolszczan">{{cite journal| author=Wolszczan, A.; Frail, D. A.| title=A planetary system around the millisecond pulsar PSR1257+12| journal=Nature| year=1992| volume=355| issue=| pages=145 – 147| url=http://www.nature.com/nature/journal/v355/n6356/abs/355145a0.html}}</ref>
 
 == د ستورپوهنې څانګې ==
-
 Astronomy may be divided into several subfields depending on the approach used in research, the part of the [[electromagnetic spectrum]] used for for study, or the types of astronomical objects being studied.
 
 === Subfields for specific parts of the electromagnetic spectrum ===
 
 ==== راډيو ستورپوهنه ====
-
 [[Radio astronomy]] studies radiation with [[wavelength]]s greater than approximately one [[millimeter]].<ref name="cox2000">{{cite book
   | author=A. N. Cox, editor
   | title=Allen's Astrophysical Quantities
@@ -150,23 +147,18 @@ Although some [[radio wave]]s are produced by astronomical objects in the form o
 A wide variety of objects are observable at radio wavelengths, including [[supernova]]e, [[interstellar gas]], [[pulsar]]s, and [[active galactic nuclei]].<ref name="shu1982"/><ref name="cox2000"/>
 
 ==== Infrared astronomy ====
-
 [[Infrared astronomy]] studies radiation with a wavelength that is too long to be visible but shorter than radio waves. Infrared observations are usually made with telescopes similar to the usual [[optical]] telescopes. Objects colder than stars (such as planets) are normally studied at infrared frequencies.
 
 ==== Optical astronomy ====
-
 [[Optical astronomy]] is the oldest kind of astronomy. Telescopes paired with a [[charge-coupled device]] or [[spectroscope]]s are the most common instruments used. The Earth's [[atmosphere]] interferes somewhat with optical observations, so [[adaptive optics]] and [[space telescope]]s are used to obtain the highest possible image quality. In this range, stars are highly visible, and many chemical spectra can be observed to study the chemical composition of stars, [[galaxy|galaxies]] and [[nebula]]e.
 
 ==== Ultraviolet astronomy ====
-
 [[Ultraviolet astronomy]] is generally used to refer to observations at [[ultraviolet]] wavelengths between approximately 100 and 3200 [[Ångstrom|Å]].<ref name="cox2000"/>   Light at these wavelengths is absorbed by the Earth's atmosphere, so observations at these wavelengths must be performed from the upper atmosphere or from space.  Ultraviolet astronomy is best suited to the study of thermal radiation and spectral emission lines from hot blue [[star]]s ([[O star]]s and [[B star]]s) that are very bright in this wave band.  This includes the blue stars in other galaxies, which have been the targets of several ultraviolet surveys.  Other objects commonly observed in ultraviolet light include [[planetary nebula]]e, [[supernova remnant]]s, and [[active galactic nuclei]].<ref name="cox2000"/> However, ultraviolet light is easily absorbed by [[interstellar dust]], and measurement of the ultraviolet light from objects need to be corrected for extinction.<ref name="cox2000"/>
 
 ==== د اکس وړانګې ستورپوهنه ====
-
 [[X-ray astronomy]] is the study of astronomical objects at X-ray wavelengths.  Typically, objects emit X-ray radiation as [[synchrotron emission]] (produced by electrons oscillating around magnetic field lines), thermal emission from thin gases (called [[bremsstrahlung radiation]]) that is above 10<sup>7</sup> (10 million) [[Kelvin]], and thermal emission from thick gases (called [[blackbody radiation]]) that are above 10<sup>7</sup> Kelvin.<ref name="cox2000"/>  Since X-rays are absorbed by the Earth's atmosphere, all X-ray observations must be done from high-altitude balloons, rockets, or spacecraft.{{Fact|date=June 2007}}  Notable X-ray sources include [[X-ray binaries]], [[pulsar]]s, [[supernova remnant]]s, [[elliptical galaxies]], [[clusters of galaxies]], and [[active galactic nuclei]].<ref name="cox2000"/>
 
 ==== د ګاما وړانګې ستورپوهنه ====
-
 [[Gamma ray astronomy]] is the study of astronomical objects at the shortest wavelengths of the electromagnetic spectrum.  Gamma rays may be observed directly by satellites such as the [[Compton Gamma Ray Observatory]] or by specialized telescopes called [[atmospheric Cherenkov telescope]]s.<ref name="cox2000"/>  The Cherenkov telescopes do not actually detect the gamma rays directly but instead detect the flashes of visible light produced when gamma rays are absorbed by the Earth's atmosphere.{{Fact|date=June 2007}}
 
 Most [[gamma-ray]] emitting sources are actually [[gamma-ray burst]]s, objects which only produce gamma radiation for a few milliseconds to thousands of seconds before fading away.  Only 10% of gamma-ray sources are non-transient sources.  These steady gamma-ray emitters include [[pulsar]]s, [[neutron star]]s, and [[black hole]] candidates such as [[active galactic nuclei]].<ref name="cox2000"/>
@@ -184,7 +176,7 @@ A few [[gravitational wave]] observatories have been constructed, but gravitatio
 === Subfield for specific astronomical objects ===
 
 ==== لمريزه ستورپوهنه ====
-{{main|لمر}}
+{{آرنی|لمر}}
 The most frequently studied star is the [[Sun]], a typical main-sequence [[dwarf star]] of [[stellar class]] G2 V, and about 4.6 Gyr in age. The Sun is not considered a [[variable star]], but it does undergo  periodic changes in activity known as the [[sunspot cycle]]. This is an 11-year fluctuation in [[sunspot]] numbers. Sunspots are regions of lower-than- average temperatures that are associated with intense magnetic activity.<ref name="solar FAQ">{{cite web | last = Johansson | first = Sverker | date = 2003-07-27 | url=http://www.talkorigins.org/faqs/faq-solar.html | title = The Solar FAQ | publisher = Talk.Origins Archive | accessdate = 2006-08-11 }}</ref>
 
 [[دوتنه:Uvsun trace big.jpg|left|thumb|250px|An [[ultraviolet]] image of the Sun's active [[photosphere]] as viewed by the [[TRACE]] space telescope. ''[[NASA]] photo''.]]
@@ -197,7 +189,7 @@ At the center of the Sun is the core region, a volume of sufficient temperature 
 A solar wind of plasma particles constantly streams outward from the Sun until it reaches the [[heliopause]]. This solar wind interacts with the [[magnetosphere]] of the [[Earth]] to create the [[Van Allen radiation belt]]s, as well as the [[aurora (astronomy)|aurora]] where the lines of the [[Earth's magnetic field]] descend into the [[Earth's atmosphere|atmosphere]].<ref>{{cite web | author = D. P. Stern, M. Peredo | date = 2004-09-28 | url=http://www-istp.gsfc.nasa.gov/Education/Intro.html | title = The Exploration of the Earth's Magnetosphere | publisher = NASA | accessdate = 2006-08-22 }}</ref>
 
 ==== د سيارو ساينس ====
-{{main|Planetary science|Planetary geology}}
+{{آرنی|Planetary science|Planetary geology}}
 This astronomical field examines the assemblage of [[planet]]s, [[natural satellite|moons]], [[dwarf planet]]s, [[comet]]s, [[asteroid]]s, and other bodies orbiting the Sun, as well as [[extrasolar planet]]s. The [[solar system]] has been relatively well-studied, initially through telescopes and then later by spacecraft. This has provided a good overall understanding of the formation and evolution of this planetary system, although many new discoveries are still being made.<ref name="geology">{{cite book | author=J. F. Bell III, B. A. Campbell, M. S. Robinson | title=Remote Sensing for the Earth Sciences: Manual of Remote Sensing | publisher=John Wiley & Sons | edition = 3rd | year=2004 | url=http://marswatch.tn.cornell.edu/rsm.html | accessdate = 2006-08-23 }}</ref>
 
 [[دوتنه:dust.devil.mars.arp.750pix.jpg|thumb|left|250px|The black spot at the top is a [[dust devil]] climbing a crater wall on [[Mars (planet)|Mars]]. This moving, swirling column of [[Atmosphere of Mars|Martian atmosphere]] (comparable to a terrestrial [[tornado]]) created the long, dark streak. ''[[NASA]] image''.]]
@@ -221,7 +213,7 @@ The characteristics of the resulting star depend primarily upon its starting mas
 The final fate of the star depends on its mass, with stars of mass greater than about eight times the [[Sun]] becoming core collapse [[supernova]]e; while smaller stars form [[planetary nebula]]e, and evolve into [[white dwarf]]s. The remnant of a supernova is a dense [[neutron star]], or, if the stellar mass was at least three times that of the Sun, a [[black hole]].<ref name="Cambridge atlas">{{cite book | editor=Jean Audouze, Guy Israel | title=The Cambridge Atlas of Astronomy | edition=3rd | publisher=Cambridge University Press | year=1994 | id=ISBN 0-521-43438-6 }}</ref> Close binary stars can follow more complex evolutionary paths, such as mass transfer onto a white dwarf companion that can potentially cause a supernova.
 
 ==== کهکشاني ستورپوهنه ====
-{{main|Galactic astronomy}}
+{{آرنی|کهکشاني ستورپوهنه}}
 [[دوتنه:Milky Way Spiral Arms.png|250px|right|thumb|Observed structure of the Milky Way's spiral arms]]
 
 Our [[solar system]] orbits within the [[Milky Way]], a [[barred spiral galaxy]] that is a prominent member of the [[Local Group]] of galaxies. It is a rotating mass of gas, dust, stars and other objects, held together by mutual gravitational attraction. As the Earth is located within the dusty outer arms, there are large portions of the Milky Way that are obscured from view.
@@ -235,7 +227,7 @@ As the more massive stars appear, they transform the cloud into an [[H II region
 Kinematic studies of matter in the Milky Way and other galaxies have demonstrated that there is more mass than can be accounted for by visible matter. A [[dark matter halo]] appears to dominate the mass, although the nature of this dark matter remains undetermined.<ref>{{cite journal | author=Van den Bergh, Sidney | title=The Early History of Dark Matter | journal=Publications of the Astronomy Society of the Pacific | year=1999 | volume=111 | pages=657-660 | url=http://www.journals.uchicago.edu/PASP/journal/issues/v111n760/990017/990017.html }}</ref>
 
 ==== د کهکشانو دباندې ستورپوهنه ====
-{{main|Extragalactic astronomy}}
+{{آرنی|Extragalactic astronomy}}
 The study of objects outside of our galaxy is a branch of astronomy concerned with the [[Galaxy formation and evolution|formation and evolution of Galaxies]]; their morphology and [[Galaxy morphological classification|classification]]; and the examination of [[Active galaxy|active galaxies]], and the [[Galaxy groups and clusters|groups and clusters of galaxies]]. The latter is important for the understanding of the [[large-scale structure of the cosmos]].
 
 [[دوتنه:grav.lens1.arp.750pix.jpg|thumb|left|260px|This image shows several blue, loop-shaped objects that are multiple images of the same galaxy, duplicated by the [[gravitational lens]] effect of the cluster of yellow galaxies near the middle of the photograph. The lens is produced by the cluster's gravitational field that bends light to magnify and distort the image of a more distant object.]]
@@ -254,7 +246,7 @@ A [[radio galaxy]] is an active galaxy that is very luminous in the [[radio]] po
 The [[large-scale structure of the cosmos]] is represented by groups and clusters of galaxies. This structure is organized in a hierarchy of groupings, with the largest being the [[supercluster]]s. The collective matter is formed into [[Galaxy filament|filaments]] and walls, leaving large [[Void (astronomy)|voids]] in between.<ref name="evolving universe">{{cite book | first=Michael | last=Zeilik | title=Astronomy: The Evolving Universe | edition=8th | publisher=Wiley | year=2002 | id=ISBN 0-521-80090-0 }}</ref>
 
 ==== کوسمولوژی ====
-{{main|فيزيکي کوسمولوژي}}
+{{آرنی|فيزيکي کوسمولوژي}}
 
 Cosmology could be considered the study of the universe as a whole.
 
@@ -271,7 +263,7 @@ Gravitational aggregations clustered into filaments, leaving voids in the gaps. 
 Fundamental to the structure of the universe is the existence of [[dark matter]] and [[dark energy]]. These are now thought to be the dominant components, forming 96% of the density of the universe. For this reason, much effort is expended in trying to understand the physics of these components.<ref>{{cite web | last = Preuss | first = Paul | url=http://www.lbl.gov/Science-Articles/Archive/dark-energy.html | title = Dark Energy Fills the Cosmos | publisher = U.S. Department of Energy, Berkeley Lab | accessdate = 2006-09-08 }}</ref>
 
 === مېنځپوهنيزې زده کړې ===
-{{کاسموکيميا}}
+{{آرنی|کاسموکيميا}}
 د ستورپوهنې او ستورپېژندنې پرمختګ يوه بله اهمه مېنځپوهنيزه ډله رامېنځ ته کړې چې د ساينس د نورو ډګرونو سره تړاو پېدا کوي. دا څانګې دا دي:
 * [[ستورژونپوهنه]]: په کايناتو کې د ژونپوهنيزو غونډالونو د پېښو او تجريدي بشپړتابه زده کړه.
 * [[ارکيوستورپوهنه]]: په فرهنګي ډګر کې د لرغونې دوديزې ستورپوهنې زده کړه ده چې د لرغونپوهنې او وګړپوهنې د ثبوتونو په شننه کې رامېنځ ته شوې.
