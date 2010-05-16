@@ -1,63 +1,95 @@
 {{ژباړل}}
-{{هېواد-مالوماتبکس
-|native_name = ''România''
-|conventional_long_name = Romania
-|common_name = Romania
-|image_flag = Flag of Romania.svg 
-|image_coat = Romania Coat of Arms.png
-|image_map = LocationRomania.png 
-|national_motto = none
-formerly: ''[[Nihil Sine Deo]]''
-|national_anthem = ''[[Deşteaptă-te, române!]]'' 
-|official_languages = [[Romanian language|Romanian]]
-|government_type = [[Republic]] 
-|capital = [[Bucharest]] (Bucureşti)
-|latd=44|latm=25|latNS=N|longd=26|longm=06|longEW=E
-|largest_city = [[Bucharest]] 
-|leader_title1 = [[President of Romania|President]]
-|leader_title2 = [[Prime Minister of Romania|Prime Minister]] 
-|leader_name1 = [[Traian Băsescu]]
-|leader_name2 = [[Călin Popescu-Tăriceanu]] 
-|area_rank = 82nd 
-|area_magnitude = 1_E11 
-|area = 238,391
-|areami²= 92,043<!-- Do not remove per [[WP:MOSNUM]] --> 
-|percent_water = 3% 
-|population_estimate_year = July 2006 
-|population_estimate = 22,303,552<!--2006 CIA estimates https://www.cia.gov/cia/publications/factbook/geos/ro.html-->
-|population_estimate_rank = 50th <!--UN ranking-->
-|population_census_year = 2002 
-|population_census = 21,680,974 
-|population_density = 91 
-|population_densitymi² = 236<!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 104th 
-|GDP_PPP_year= 2006 
-|GDP_PPP =  $204.4 billion <!-- IMF 2006, same stats as at [[EU#Economy]] --> 
-|GDP_PPP_rank = 44th<sup>4</sup> 
-|GDP_PPP_per_capita = $9,446 <!--http://imf.org/external/pubs/ft/weo/2006/01/data/dbcoutm.cfm?SD=2006&ED=2007&R1=1&R2=1&CS=3&SS=2&OS=C&DD=0&OUT=1&C=968&S=PPPWGT-PPPPC&RequestTimeout=120&CMP=0&x=79&y=8-->
-|GDP_PPP_per_capita_rank = 67th<sup>4</sup> 
-|HDI_year = 2005 |
-|HDI = 0.792 |
-|HDI_rank = 64th |
-|HDI_category = <font color="#ffcc00">medium</font> |
-|sovereignty_type = [[Independence]] 
-|established_event1 = Declared
-|established_event2 = Recognised
-|established_date1 = [[9 May]], [[1877]]<sup>2</sup>
-|established_date2 = [[13 July]], [[1878]]<sup>3</sup>
-|currency = [[Romanian leu|Leu]]
-|currency_code = RON 
-|time_zone= [[Eastern European Time|EET]] 
-|utc_offset= +2 
-|time_zone_DST= [[Eastern European Summer Time|EEST]] |utc_offset_DST= +3 
-|cctld= [[.ro]] 
-|calling_code = 40 
-|footnotes= 
-<sup>1<sup>Other languages, such as [[Hungarian language|Hungarian]], [[Romani language|Romani]], [[Ukrainian language|Ukrainian]] and [[Serbian language|Serbian]], are co-official at various local levels.<br />
-<sup>2</sup> [[Romanian War of Independence]]<br />
-<sup>3</sup> [[Treaty of Berlin, 1878|Treaty of Berlin]]<br />
-<sup>4</sup> Rank based on 2005 IMF data
+{{{{هېواد-مالوماتبکس
+|native_name              = ''România''
+|conventional_long_name   = Romania
+|common_name              = Romania
+|image_flag               = Flag of Romania.svg
+|image_coat               = Coat of arms of Romania.svg
+|image_map = Romania_(orthographic_projection).svg
+|map_caption = {{map_caption |location_color=green |region=[[Europe]] |region_color=grey |subregion=the [[European Union]] |subregion_color=light green |legend=EU-Romania.svg}}
+|national_anthem          = <span style="line-height:1.25em;">''[[Deşteaptă-te, române!]]''<small><br/>''Awaken, Romanian!''</small></span>
+|official_languages       = [[Romanian language|Romanian]]<sup>1</sup>
+|ethnic_groups            = 89.5% [[Romanians]], 6.6% [[Hungarians]], 2.5% [[Romani people|Roma]], 1.4% other minority groups
+|demonym                  = [[Romanians|Romanian]]
+|government_type          = [[Unitary state|Unitary]] [[semi-presidential]] [[republic]] 
+|capital                  = [[Bucharest]]&nbsp;(''Bucureşti'')
+|latd                     = 44
+|latm                     = 25
+|latNS                    = N
+|longd                    = 26
+|longm                    = 06
+|longEW                   = E
+|largest_city             = capital
+|leader_title1            = [[President of Romania|President]]
+|leader_name1             = [[Traian Băsescu]] ([[Democratic Liberal Party (Romania)|PD-L]]) 
+|leader_title2            = [[Prime Minister of Romania|Prime Minister]]
+|leader_name2             = [[Emil Boc]] ([[Democratic Liberal Party (Romania)|PD-L]])
+|leader_title3            = [[President of the Senate of Romania|Pres of Senate]]
+|leader_name3             = [[Mircea Geoană]] ([[Social Democratic Party (Romania)|PSD]])
+|leader_title4            = [[President of the Chamber of Deputies of Romania|House Speaker]]
+|leader_name4             = [[Roberta Anastase]] ([[Democratic Liberal Party (Romania)|PD-L]])
+|leader_title5            = [[President of the High Court of Cassation and Justice of Romania|Chief Justice]]
+|leader_name5             = [[Lidia Bărbulescu]] 
+|area_rank                = 82nd 
+|area_magnitude           = 1_E+11 
+|area_km2                 = 238,391
+|area_sq_mi               = 92,043 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water            = 3
+|population_estimate_year = July 2009
+|population_estimate      = {{Nts|22215421}}<ref name="INSSE">{{cite web | url = https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html | title = Romania - People | date = 1 Nov, 2009 | accessdate = Jan 1, 2010 | publisher = https://www.cia.gov}}</ref>
+|population_estimate_rank = 51nd 
+|population_census_year   = 2002
+|population_census        = 21,680,974
+|population_density_km2   = 90
+|population_density_sq_mi = 233 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  = 104th
+|GDP_PPP_year             = 2009
+|GDP_PPP                  = $255.207 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=968&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=38&pr.y=12 |title=Romania|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref> <!--Do not edit!-->
+|GDP_PPP_rank             = 
+|GDP_PPP_per_capita       = $11,917<ref name=imf2/> <!--Do not edit!-->
+|GDP_PPP_per_capita_rank  = 
+|GDP_nominal              = $161.521 billion<ref name=imf2/> <!--Do not edit!-->
+|GDP_nominal_rank         = 
+|GDP_nominal_year         = 2009
+|GDP_nominal_per_capita   = $7,542<ref name=imf2/> <!--Do not edit!-->
+|GDP_nominal_per_capita_rank = 
+|HDI_year                 = 2009
+|HDI                      = {{increase}} 0.837
+|HDI_rank                 = 63rd
+|HDI_category             = <font color="green">high</font>
+|Gini                     = 31
+|Gini_year                = 2005
+|Gini_rank                = 21<sup>st</sup>
+|Gini_category            = <span style="color:#090;">low</span>
+|sovereignty_type         = [[History of Romania|Formation]]
+|sovereignty_note         =
+|established_event1       = [[Transylvania]]
+|established_date1        = 1003
+|established_event2       = [[Wallachia]]
+|established_date2        = 1290
+|established_event3       = [[Moldavia]]
+|established_date3        = 1346
+|established_event4       = [[Mihai Viteazu|First Unification]]
+|established_date4        = 1599
+|established_event5       = Reunification of [[Alexander Ioan Cuza|Valahia and Moldavia]]
+|established_date5        = January 24, 1859
+|established_event6       = Officially recognised independence from the [[Ottoman Empire]]
+|established_date6        = July 13, 1878
+|established_event7       = Unification with [[Union of Transylvania with Romania|Transylvania]]
+|established_date7        = December 1, 1918
+|accessionEUdate          = January 1, 2007
+|currency                 = [[Romanian leu|Leu]] ([[Romanian leu sign|L]])<sup>2</sup>
+|currency_code            = RON
+|time_zone                = [[Eastern European Time|EET]]
+|utc_offset               = +2
+|time_zone_DST            = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST           = +3
+|drives_on                = right 
+|cctld                    = [[.ro]] [[.eu]]
+|calling_code             = [[Telephone numbers in Romania|40]]
+|footnotes                = <sup>1</sup> Other languages, such as [[Hungarian language|Hungarian]], [[German language|German]], [[Turkish language|Turkish]], [[Crimean Tatar language|Crimean Tatar]], [[Greek language|Greek]], [[Romani language|Romani]], [[Croatian language|Croatian]], [[Macedonian language|Macedonian]], [[Ukrainian language|Ukrainian]] and [[Serbian language|Serbian]], are official at various local levels.<br/><sup>2</sup> [[Romanian War of Independence]].<br/><sup>3</sup> [[Treaty of Berlin (1878)|Treaty of Berlin]].
 }}
+{{FixHTML|end}}
 '''Romania''': ([[Romanian language|Romanian]]: România {{IPA|/ro.mɨˈni.a/}}) is a country  in [[Southeastern Europe]]. Romania borders [[هنګري]] and [[سربيا]] to the west, [[اوکراين]] and [[مولدوا]] to the northeast, and [[بلغاريه/بلغارستان]] to the south.  Romania has a stretch of sea coast along the [[Black Sea]], and the eastern and southern [[Carpathian mountains]] run through its center.
  
 Historic [[Bucharest]] ([[Romanian language|Romanian]]: ''Bucureşti'' [[رسنۍ:Ro-Bucureşti.ogg|{{IPA|/bu.kuˈreʃtʲ/}}]]), a major [[tourism|tourist]] attraction, is the country's capital and largest city. Romania has been an active member of [[NATO]] since 2004, and is also an acceding country to the [[European Union]]. The EU [[Treaty of Accession 2005|Accession Treaty]] was signed in early 2005, and Romania is due to join the [[European Union]] on [[January 1]], [[2007]]. Starting on [[January 1]], [[2007]], Romania will have the seventh largest population and the ninth largest territory in the [[EU]]. The accession of Romania and Bulgaria, as expected in 2007, will complete the fifth enlargement of the EU that had started in May 2004.
