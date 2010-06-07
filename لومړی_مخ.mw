@@ -15,6 +15,7 @@
 <div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[ويکيپېډيا]] ته ښه راغلاست</div>
 <div style="top:+0.2em; font-size:95%;">يو وړيا پوهنغونډ چې [[ويکيپېډيا:پېژندنه|هرڅوک&nbsp;يې&nbsp;سمولای]] شي.</div>
 <div id="articlecount" style="width:100%; text-align:center; font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] ليکنې په پښتو ژبه لري</div>
+دا وخت {{داوخت}}، {{دننۍورځې_نوم}} {{نن۲}} د {{دروانې_مياشت_نوم}} {{سږکال}} ز. کال
 |}<!--
 
 <!----------Portal list on righthand side---------->
@@ -34,9 +35,8 @@
 
 ----------Strapline immediately below banner---------->
 {|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
-|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[ويکيپېډيا:په اړه|کتنه]]&nbsp;'''·''' [[ويکيپېډيا:لارښودليکچه|سمون]]&nbsp;'''·''' [[ويکيپېډيا:پوښتنې|پوښتنې]]&nbsp;'''·''' [[لارښود:نيوليک|لارښود]]
-|style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
-[[ويکيپېډيا:نيوليک|نيوليک]]&nbsp;'''·''' [[ويکيپېډيا:د وېشنيزو ليکلړ|وېشنيزې]]&nbsp;'''·''' [[ويکيپېډيا:مستنده توکي|مستنده توکي]]&nbsp;'''·''' [[ويکيپېډيا:چټک ليکلړ|د ابېڅو ليکلړ]]
+|style="font-size:95%; padding:10px 0; margin:0px; text-align:center; white-space:nowrap; color:#000;"|[[ويکيپېډيا:په اړه|کتنه]]&nbsp;'''·''' [[ويکيپېډيا:لارښودليکچه|سمون]]&nbsp;'''·''' [[ويکيپېډيا:پوښتنې|پوښتنې]]&nbsp;'''·''' [[لارښود:نيوليک|لارښود]]
+|style="font-size:95%; padding:10px 0; margin:0px; text-align: center; white-space:nowrap; color:#000;"|      [[ويکيپېډيا:نيوليک|نيوليک]]&nbsp;'''·''' [[ويکيپېډيا:د وېشنيزو ليکلړ|وېشنيزې]]&nbsp;'''·''' [[ويکيپېډيا:مستنده توکي|مستنده توکي]]
 |}
 {{د لومړي مخ سرليک}} 
 <center>[[ويکيپېډيالارښود|دويکيپيډيا سره کارکول زده کړئ!]]
