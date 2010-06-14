@@ -1,7 +1,7 @@
 [[File:Location Asia.svg|left|220px|thumb|آسیا]]
 دا د خپلواکو او ناخپلواکو په ګډون د [[آسیا|اسیايي]] هیوادونو نوملړ دي.
 
-<!-- This color chart is apparently unused. {{legend|lightcyan|Overseas department or dependency|border=1px solid #AAAAAA}}{{legend|lightgreen|Non-[[United Nations]] member countries|border=1px solid #AAAAAA}} -->
+<!-- This color chart is apparently unused. {{legend|lightcyan|Overseas department or dependency|border=1px solid #AAAAAA}}{{legend|lightgreen|Non-[[ملګري ملتونه]] غړي هېوادونه|border=1px solid #AAAAAA}} -->
 {| class="wikitable sortable" style="font-size:85%"
 ! بیرغ
 ! لنډ نوم
@@ -11,9 +11,9 @@
 ! نخشه
 |- bgcolor=lightgreen
 | [[File:Flag of Abkhazia.svg|centre|100px|border]]
-| [[ابخازيا]]<ref name="TCC">Some territory could be argued to be a part of [[List of European countries|Europe]] or Asia</ref><ref name="UNC">په رسمي توګه نه دی پېژندل شوی UN.</ref>
+| [[ابخازيا]]<ref name="TCC">Some territory could be argued to be a part of [[د اروپايي هېوادونو لړليک|اروپا]] يا آسيا </ref><ref name="UNC">په رسمي توګه نه دی پېژندل شوی UN.</ref>
 | د ابخازيا جمهوريت
-| [[Abkhaz language|Abkhaz]]: Аҧсны<br> [[Georgian language|Georgian]]: აფხაზეთი
+| [[ابخازي ژبه|ابخازي]]: Аҧсны<br> [[ګورجستاني ژبه|ګورجي]]: აფხაზეთი
 | [[Sukhumi]]
 |[[File:Location of Abkhazia in Europe2.png‎|150px]]
 |-
@@ -32,29 +32,29 @@
 |[[File:LocationArmenia.svg|150px]] 
 |- 
 |[[File:Flag of Azerbaijan.svg|centre|100px|border]] 
-|[[Azerbaijan]]<ref name="TCC" />
-|Republic of Azerbaijan 
+|[[آذربايجان]]<ref name="TCC" />
+|د آذربايجان جمهوريت 
 |{{lang-az|Azərbaycan Respublikası}} 
-|[[Baku]] 
+|[[باکو]] 
 |[[File:LocationAzerbaijan.svg|150px]] 
 |- 
 |[[File:Flag of Bahrain.svg‎|centre|100px|border]] 
-|[[Bahrain]] 
-|Kingdom of Bahrain 
+|[[بحرين]] 
+|د بحرين پاچايي 
 |{{lang-ar|مملكة البحرين}} 
-|[[Manama]] 
+|[[ماناما]] 
 |[[File:Map of Bahrain.svg|150px]] 
 |- 
 |[[File:Flag of Bangladesh.svg|centre|100px|border]] 
-|[[Bangladesh]] 
-|People's Republic of Bangladesh 
-|[[Bengali language|Bengali]]: গণপ্রজাতন্ত্রী বাংলাদেশ 
-|[[Dhaka]] 
+|[[بنګله دېش]] 
+|د بنګله دېش د خلکو جمهوريت 
+|[[بنګالي ژبه|بنګالي]]: গণপ্রজাতন্ত্রী বাংলাদেশ 
+|[[ډهاکه]] 
 |[[File:LocationBangladesh.svg|150px]] 
 |- 
 |[[File:Flag of Bhutan.svg|centre|100px|border]] 
-|[[Bhutan]] 
-|Kingdom of Bhutan 
+|[[بهوټان]] 
+|د بهوټان پاچايي 
 |[[Dzongkha language|Dzongkha]]: [[File:Brug rGyal-Khab.svg|50px]] 
 |[[Thimphu]] 
 |[[File:LocationBhutan.svg|150px]] 
