@@ -1,1 +1,542 @@
-#REDIRECT [[د پښتو الفبا]]
+[[دوتنه:Alphabeter.JPG|thumb|289px|پښتو ابېځې]]
+'''[[پښتو]] ابېڅې'''، لکه د پارسي او د اردو ژبې د ابېڅو په شان د عربي ژبې نه اشتقاق شوې ابېڅې دي چې د هغو غږونو او ځليزو ښکارندويي وکړي کوم چې يوازې په پښتو ژبه کې دي او په عربي ژبه کې نه موندل کېږي. دا هغه ابېڅې دي چې د ځينو تورو، ټکو او يا نښو په ځانګړي کېدو سره د څانګړو غږونو لپاره کارېږي.
+
+== تاريخ ==
+The seventeenth century saw the rise of a polemic debate which also was polarized along lines of script. The heterodox [[Roshani movement]] wrote their literature mostly in the Persianate style called the [[Nasta'liq script]]. The followers of the [[Akhund Darweza]], and the Akhund himself, who viewed themselves as defending the religion against the influence of syncretism, wrote Pashto in the Arabicized [[Naskh (script)|Naskh]], which is the generally used script in the modern era of Pashto with some individualized exceptions, due to its greater adaptability for typesetting. Even lithographically reproduced Pashto has been calligraphied in Naskh as a general rule, since it was adopted as standard.
+
+== پښتو ابېڅې ==
+[[دوتنه:2 special pashto letters.png|thumb|200px|د پښتو ابېڅو دوه څانګړي توري: ''{{unicode|ṣ̌in}}'' او ''{{unicode|ẓ̌e}}'']]
+په پښتو ابېڅو کې داسې توري شته چې په عربي او يا هم د پارسي ژبې په ابېڅو کې نشته. د ساري په توګه، هغه توري representing the [[retroflex consonant]]s {{IPA|/ʈ/, /ɖ/, /ɺ̡/}} and {{IPA|/ɳ/}} are written like the standard [[Arabic language|Arabic]] te, dāl, re and nun with a "{{unicode|panḍak}}", "{{unicode|γaṛwandai}}" or also called "{{unicode|skəṇai}}" attached underneath, which looks like a small circle: <font size="4">{{unicode|ړ}}</font> ,<font size="4">{{unicode|ډ}}</font> ,<font size="4">{{unicode|ټ}}</font>, and <font size="4">{{unicode|ڼ}}</font>, respectively. It also has the letters {{unicode|ṣ̌in}} and {{unicode|ẓ̌e}} (representing [[voiceless retroflex fricative|voiceless]] and [[voiced retroflex fricative]]s), which look like a sin and reh respectively with a dot above and beneath: <font size="4">{{unicode|ښ}}</font> and <font size="4">{{unicode|ږ}}</font>. The letters representing the [[Voiceless alveolar affricate]] {{IPA|/ts/}} and [[Voiced alveolar affricate]]{{IPA|/d͡z/}} look like a <font size="4">{{unicode|ح}}</font> with three dots above and an hamza (<font size="4">{{unicode|ء}}</font>) above; <font size="4">{{unicode|څ}}</font> and <font size="4">{{unicode|ځ}}</font>, and are also specific to Pashto, although <font size="4">{{unicode|څ}}</font> was also used in the related extinct language of [[Khwarezmian language|Khwarezmian]] to represent both {{IPA|/t͡s/}} and {{IPA|/d͡z/}}. Pashto has <font size="4">{{unicode|ى}}</font> ,<font size="4">{{unicode|ې}}</font> ,<font size="4">{{unicode|ۀ}}</font>, and <font size="4">{{unicode|ۍ}}</font> for additional vowels and [[diphthong]]s as well.
+
+په پښتو ابېڅو کې د عربي ژبې ۲۸ پور شوي توري او د پارسي ژبې ۳ پور شوي توري (<font size="4">{{unicode|چ}}</font> ,<font size="4">{{unicode|پ}}</font>, او <font size="4">{{unicode|ژ}}</font>) شامل دي، پاتې ۱۲ توري د پښتو ابېڅو خپل ځانګړي توري دي.
+
+=== توري ===
+دلته لاندې په پښتو ژبه کې کارېدلي ۴۴ توري راغونډ شوي. د ابداليانو ګړدود د (A) په توري، د غلزيانو ګړدود د (G) او د يوسفزو ګړدود د (Y) په تورو ښکاره شوي.
+{| class="sortable wikitable"
+|-align="center"
+!colspan="4"|متني بڼه
+!rowspan="2"| نوم
+!rowspan="2"| [[Transliteration]]
+!rowspan="2"| ALA-LC [[Romanization|رومي بڼه.]]
+!rowspan="2"|[[International Phonetic Alphabet|IPA]]
+!rowspan="2"| [[يونيکوډ]] ([[Hexadecimal|Hex]])
+|-
+!اصلي بڼه
+!د کلمې په پای کې
+!د کلمې په مينځ کې
+!د کلمې په پيل کې
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">آ</font> ,<font size="5">ا</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺎ</font>
+|
+|
+| {{unicode|الف}}{{ref|alif|1|}}
+| {{unicode|ā / ʾ}}  
+| {{unicode|ā / ʾ}} 
+| {{IPA|[ɑ]}} / {{IPA|[ʔ]}}
+| U+0627, U+0622
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ب</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺐ</font>  
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺒـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">بـ</font>
+| {{unicode|بې}}
+| {{unicode|b}}
+| {{unicode|b}}
+| {{IPA|[b]}}
+| U+0628
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">پ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﭗ</font> 
+| style="line-height:180%;padding:10px;"|<font size="5">ـﭙـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">پـ</font>
+| {{unicode|پې}}
+| {{unicode|p}}
+| {{unicode|p}}
+| {{IPA|[p]}}
+| U+067E
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ت</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺖ</font> 
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺘـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">تـ</font>
+| {{unicode|تې}}
+| {{unicode|t}}
+| {{unicode|t}}
+| {{IPA|[t̪]}}
+| U+062A
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ټ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـټ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـټـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ټـ</font>
+| {{unicode|ټې}}
+| {{unicode|ṭ}} (''or'' 'tt')
+| {{unicode|ṭ}}
+| {{IPA|[ʈ]}}
+| U+067C
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ث</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺚ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺜـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ثـ</font>
+| {{unicode|سې}}{{ref|loan|8}}
+| {{unicode|s}}
+| {{unicode|s̱}}
+| {{IPA|[s]}}
+| U+062B
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ج</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺞ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺠـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">جـ</font>
+| {{unicode|جيم}}
+| {{unicode|ǰ}}
+| {{unicode|j}}
+| {{IPA|[d͡ʒ]}}
+| U+062C
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ځ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـځ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـځـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ځـ</font>
+| {{unicode|ځيم (''dzim'')}}{{ref|jc|3|}}
+| {{unicode|j}} (''or'' 'dz') / {{unicode|z}}
+| {{unicode|ż}}
+| {{IPA|[d͡z]}} (A, G) / {{IPA|[z]}} (Y)
+| U+0681
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">چ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﭻ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﭽـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">چـ</font>
+| {{unicode|چې}}
+| {{unicode|č}}
+| {{unicode|ch}}
+| {{IPA|[t͡ʃ]}}
+| U+0686
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">څ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـڅ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـڅـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">څـ</font>
+| {{unicode|څيم}} (''tsim''){{ref|jc|3|}}
+| {{unicode|c}} (''or'' 'ts')
+| {{unicode|ṡ}}
+| {{IPA|[t͡s]}} (A, G) / {{IPA|[s]}} (Y)
+| U+0685
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ح</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺢ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺤـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">حـ</font>
+| {{unicode|حې}}{{ref|loan|8}}
+| {{unicode|h}}
+| {{unicode|ḥ}}
+| {{IPA|[h]}} / {{IPA|[x]}}
+| U+062D
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">خ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺦ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺨـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">خـ</font>
+| {{unicode|خې}} 
+| {{unicode|x}}
+| {{unicode|kh}}
+| {{IPA|[x]}}
+| U+062E
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">د</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺪ</font>
+|
+|
+| {{unicode|دال}}
+| {{unicode|d}}
+| {{unicode|d}}
+| {{IPA|[d̪]}}
+| U+062F
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ډ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـډ</font>
+| 
+|
+| {{unicode|ډال}}
+| {{unicode|ḍ}} (''or'' 'dd')
+| {{unicode|ḍ}}
+| {{IPA|[ɖ]}}
+| U+0689
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ﺫ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺬ</font>
+|
+|
+| {{unicode|ذال}}{{ref|loan|8}}
+| {{unicode|z}}
+| {{unicode|ẕ}}
+| {{IPA|[z]}}
+| U+0630
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ﺭ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺮ</font>
+|
+|
+| {{unicode|رې}}
+| {{unicode|r}}
+| {{unicode|r}}
+| {{IPA|[r]}}
+| U+0631
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ړ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـړ</font>
+|
+|
+| {{unicode|ړې}}{{ref|rr|4|}}
+| {{unicode|ṛ}} (''or'' 'rr')
+| {{unicode|ṛ}}
+| {{IPA|[ɺ̡]}}, {{IPA|[ɻ]}}
+| U+0693
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ﺯ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺰ</font>
+|
+|
+| {{unicode|زې}}
+| {{unicode|z}}
+| {{unicode|z}}
+| {{IPA|[z]}}
+| U+0623
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ژ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﮋ</font>
+|
+|
+| {{unicode|ژې}}
+| {{unicode|ž}}
+| {{unicode|zh}}
+| {{IPA|[ʒ]}} (A, G) / {{IPA|[d͡z]}} (Y)
+| U+0698
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ږ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـږ</font>
+|
+|
+| {{unicode|ږې}} (A) / {{unicode|γ̌e}} (G) / {{unicode|ge}} (Y){{ref|zs|2|}}
+| {{unicode|ẓ̌}} (A) / {{unicode|γ̌}} (G) / {{unicode|g}} (Y)
+| {{unicode|ẓh}} (A) / {{unicode|g'h}} (G) / {{unicode|g}} (Y)
+| {{IPA|[ʐ]}} (A) / {{IPA|[ʝ]}} (G) / {{IPA|[ɡ]}} (Y)
+| U+0696
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">س</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺲ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺴـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">سـ</font>
+| {{unicode|سين}}
+| {{unicode|s}}
+| {{unicode|s}}
+| {{IPA|[s]}}
+| U+0633
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ش</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺶ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺸـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">شـ</font>
+| {{unicode|شين}}
+| {{unicode|š}}
+| {{unicode|sh}} 
+| {{IPA|[ʃ]}}
+| U+0634
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ښ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـښ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـښـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ښـ</font>
+| {{unicode|ښين}} (A) / {{unicode|x̌in}} (G) / {{unicode|xin}} (Y){{ref|zs|2|}}
+| {{unicode|ṣ̌}} (A) / {{unicode|x̌}} (G) / {{unicode|x}} (Y)
+| {{unicode|ṣh}} (A) / {{unicode|k'h}} (G) / {{unicode|kh}} (Y)
+| {{IPA|[ʂ]}} (A) / {{IPA|[ç]}} (G) / {{IPA|[x]}} (Y)
+| U+069A
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ص</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺺ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺼـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">صـ</font>
+| {{unicode|صات}}{{ref|loan|8}}
+| {{unicode|s}}
+| {{unicode|ṣ}}
+| {{IPA|[s]}}
+| U+0635
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ض</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﺾ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻀـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ضـ</font>
+| {{unicode|ضوات}}{{ref|loan|8}}
+| {{unicode|z, d}}
+| {{unicode|z̤}}
+| {{IPA|[z], [d̪]}}
+| U+0636
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ط</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻂ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻄـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">طـ</font>
+| {{unicode|توې}}{{ref|loan|8}}
+| {{unicode|t}}
+| {{unicode|ṭ}}
+| {{IPA|[t̪]}}
+| U+0637
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ظ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻆ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻈـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ظـ</font>
+| {{unicode|زوې}}{{ref|loan|8}}
+| {{unicode|z}}
+| {{unicode|ẓ}}
+| {{IPA|[z]}}
+| U+0638
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ع</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻊ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻌـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">عـ</font>
+| {{unicode|عين}}{{ref|loan|8}}
+| {{unicode|ʻ}}
+| {{unicode|ʻ}} 
+| {{IPA|[ʔ]}}
+| U+0639
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">غ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻎ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻐـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">غـ</font>
+| {{unicode|غﺉن}}
+| {{unicode|γ}}
+| {{unicode|gh}}
+| {{IPA|[ɣ]}}
+| U+063A
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ف</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻒ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻔـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">فـ</font>
+| {{unicode|فې}}{{ref|f|5|}}
+| {{unicode|f}}
+| {{unicode|f}}
+| {{IPA|[f]}} / {{IPA|[p]}}
+| U+0641
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ق</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻖ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻘـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">قـ</font>
+| {{unicode|قاف}}
+| {{unicode|q}} 
+| {{unicode|q}}
+| {{IPA|[q]}} / {{IPA|[k]}}
+| U+0642
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ك</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـك</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـكـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">كـ</font>
+| {{unicode|کاف}}
+| {{unicode|k}}
+| {{unicode|k}}
+| {{IPA|[k]}}
+| U+0643
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ګ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـګ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـګـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ګـ</font>
+| {{unicode|ګاف}}
+| {{unicode|g}}
+| {{unicode|g}}
+| {{IPA|[ɡ]}}
+| U+06AB
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ل</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻞ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻠـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">لـ</font>
+| {{unicode|لام}}
+| {{unicode|l}}
+| {{unicode|l}}
+| {{IPA|[l]}}
+| U+0644
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">م</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻢ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻤـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">مـ</font>
+| {{unicode|ميم}}
+| {{unicode|m}}
+| {{unicode|m}}
+| {{IPA|[m]}}
+| U+0645
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ن</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻦ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻨـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">نـ</font>
+| {{unicode|نون}}
+| {{unicode|n}}
+| {{unicode|n}}
+| {{IPA|[n]}}
+| U+0646
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ڼ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـڼ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـڼـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ڼـ</font>
+| {{unicode|نوڼ}}
+| {{unicode|ṇ}} (''or'' 'nn')
+| {{unicode|ṇ}}
+| {{IPA|[ɳ]}}
+| U+06BC
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">و</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻮ</font>
+|
+|
+| {{unicode|واو}}
+| {{unicode|w}}, {{unicode|u}}, {{unicode|o}}
+| {{unicode|w}}, {{unicode|u}}, {{unicode|o}}
+| {{IPA|[w]}}, {{IPA|[u]}}, {{IPA|[o]}}
+| U+0648
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ه</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻪ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻬـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">هـ</font>
+| {{unicode|gərda he}}</br><small>round ''he''</small>
+| {{unicode|هې}}, {{unicode|a}}, {{unicode|ə}}/{{unicode|ë}}
+| {{unicode|h}}, {{unicode|a}}, {{unicode|ə}}
+| {{IPA|[h]}}/{{IPA|[ʔ]}}, {{IPA|[a]}}, {{IPA|[ə]}}
+| U+0647
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ۀ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﮥ</font>
+|
+|
+| {{unicode|هې حمزه}} (''يا'' '{{unicode|زوره کی}}'){{ref|ə|6}}
+| {{unicode|ə}} (''or'' '{{unicode|ë}}')
+| {{unicode|ə}}
+| {{IPA|[ə]}}
+| U+06C0
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ي</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻲ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﻴـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">يـ</font>
+| {{unicode|klaka ye}}</br><small>hard ''ye''</small>
+| {{unicode|y}}, {{unicode|i}}
+| {{unicode|y}}, {{unicode|ī}}
+| {{IPA|[j]}}, {{IPA|[i]}}
+| U+064A
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ې</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﯥ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـﯧـ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ېـ</font>
+| {{unicode|pasta ye}}</br><small>soft ''ye''</small>
+| {{unicode|e}} 
+| {{unicode|e}} 
+| {{IPA|[e]}}
+| U+06D0
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ى</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـى</font>
+|
+|
+| {{unicode|nərina ye}}{{ref|j|7}}</br><small>masculine ''ye''</small>
+| {{unicode|ai}}, {{unicode|y}}
+| {{unicode|ay}}, {{unicode|y}}
+| {{IPA|[ai]}}, {{IPA|[j]}}
+| U+0649
+|- align="center"
+| style="line-height:180%;padding:10px;"|<font size="5">ۍ</font>
+| style="line-height:180%;padding:10px;"|<font size="5">ـۍ</font>
+|
+|
+| {{unicode|ṣ̌əjina ye}}</br><small>feminine ''ye''</small>
+| {{unicode|əi}} (''or'' '{{unicode|ëi}}')
+| {{unicode|ạy}} 
+| {{IPA|[əi]}} 
+| U+06CD
+|}
+
+* {{note|alif|1}} In the beginning of a word, <font size="4">آ</font> ([[Harakat#Madda|alif with madda]]) represents the long vowel {{IPA|/[[Open back unrounded vowel|ɑ]]/}} (eg. <font size="3">آس</font> - {{unicode|'''ā'''s}}, "horse"), and <font size="4">ا</font> (alif) represents the consonant {{IPA|/[[Glottal stop|ʔ]]/}} (eg. <font size="3">اسلام</font> - {{unicode|'''ʾ'''islām}} or {{unicode|islām}}, "Islam"). In the middle or end of a word, <font size="4">ا</font> represents the long vowel {{IPA|/ɑ/}} preceded by a consonant (eg. <font size="3">كال</font> - {{unicode|k'''ā'''l}}, "year"; and <font size="3">نيا</font> - {{unicode|ny'''ā'''}}, "grandmother").
+* {{note|zs|2}} The pronunciations of <font size="4">ږ</font> and <font size="4">ښ</font> depend on the dialect - eg. Kandahar<ref>Michael M.T. Henderson, [http://www.scribd.com/doc/6541839/Four-Varieties-of-Pashto ''Four Varieties of Pashto'']</ref>: {{IPA|/[[Voiced retroflex fricative|ʐ]]/}} and {{IPA|/[[Voiceless retroflex fricative|ʂ]]/}}; Quetta: {{IPA|/[[Voiced postalveolar fricative|ʒ]]/}} and {{IPA|/[[Voiceless postalveolar fricative|ʃ]]/}}; southern Wazirwola: {{IPA|/[[Voiced alveolo-palatal fricative|ʑ]]/}} and {{IPA|/[[Voiceless alveolo-palatal fricative|ɕ]]/}}<ref>[http://www.khyber.org/publications/016-020/ormuri.shtml Rozi Khan Burki, ''Dying Languages; Special Focus on Ormuri'']</ref>; Wardak: {{IPA|/[[Voiced palatal fricative|ʝ]]/}} and {{IPA|/[[Voiceless palatal fricative|ç]]/}}; Yusufzai: {{IPA|/[[Voiced velar plosive|ɡ]]/}} and {{IPA|/[[Voiceless velar fricative|x]]/}}. 
+* {{note|jc|3}} The pronunciation of the letter <font size="4">ځ</font> merges with {{IPA|/[[Voiced alveolar fricative|z]]/}} in northern and eastern dialects, and <font size="4">څ</font> merges with {{IPA|/[[voiceless alveolar fricative|s]]/}} in eastern dialects.
+* {{note|rr|4}} The letter <font size="4">ړ</font> represents {{IPA|/[[Retroflex lateral flap|ɺ̡]]/}} if it is not at the final position of a [[syllable]]; if it is final, it represents {{IPA|/[[Retroflex approximant|ɻ]]/}}.
+* {{note|f|5}} <font size="4">ف</font> tends to be pronounced as <font size="4">پ</font>.
+* {{note|ə|6}} The letter <font size="4">ۀ</font> representing {{IPA|/[[Mid central vowel|ə]]/}} is not used in many texts; instead <font size="4">ه</font> is used which can also represent {{IPA|/ə/}}.
+* {{note|j|7}} <font size="4">ى</font> represents {{IPA|/ai/}} if preceded by a consonant (eg. <font size="3">لرګى</font> - {{unicode|larg'''ai'''}}, "wood"), and represents {{IPA|/j/}} if preceded by a vowel (eg. <font size="3">دوى</font> - {{unicode|du'''y'''}}, "they").
+* {{note|loan|8}} Ten of the alphabets, <font size="4">ق ف ع ظ ط ض ص ح ﺫ ث</font>, appear only in loanwords which are mostly of Arabic origin. Eight of them, <font size="4">ع ظ ط ض ص ح ﺫ ث</font>, represent no additional phonemes of Pashto, and their pronunciation merges with other phonemes.
+
+In the earliest known Pashto manuscript written in 1651 CE,<ref>[http://www.khyber.org/publications/026-030/standardpashto.shtml D. N. MacKenzie, "A Standard Pashto",  Khyber.org]</ref> <font size="4">ڊ</font> (dāl with subscript dot) was used for {{IPA|/t͡s/}} and {{IPA|/d͡z/}}, which was still used in the Diwan of Mirza written in 1690 CE, but this sign was soon replaced by <font size="4">څ</font> which was first attested in 1696-7 CE. <font size="4">څ</font> is now used for only {{IPA|/t͡s/}}.
+
+=== Diacritic marks ===
+[[دوتنه:Harakat pashto.svg|thumb|300px|The Pashto diacritic marks: ''zwarakai'', ''pesh'', ''zer'', and ''zwar'']]
+The four [[Sukun|diacritic marks]]{{ref|diacritic|1|}} are:
+{| class="sortable wikitable"
+|-align="center"
+! Diacritic
+! Name
+! Translit.
+! IPA
+|- align="center"
+| <div style="padding: 15pt 30pt 5pt 5pt">ــ<font size="6">َ</font></div> || {{unicode|zwar}} || a || {{IPA|[a]}}
+|- align="center"
+| <div style="padding: 15pt 30pt 5pt 5pt">ــ<font size="6">ِ</font></div> || {{unicode|zer}} || i || {{IPA|[i]}}
+|- align="center"
+| <div style="padding: 15pt 30pt 5pt 5pt">ــ<font size="6">ُ</font></div> || {{unicode|peš}} || u || {{IPA|[u]}}
+|- align="center"
+| <div style="padding: 15pt 30pt 5pt 5pt">ــ<font size="6">ٌ</font></div> || {{unicode|zwarakai}} || ə (''or'' ë) || {{IPA|[ə]}}
+|}
+
+* {{note|diacritic|1}} The diacritic marks are not considered separate letters. Their use is optional and are usually not written; they are primarily used to distinguish between two words which appear similar.
+
+== "ی" ګانې ==
+{| class="sortable wikitable"
+|-align="center"
+! توری
+! نوم
+! سپوڼ
+! Position
+! Indication
+! بېلګه
+|-align="center"
+| <font size="4">ي</font> || {{unicode|کلکه ي}} || {{IPA|[j]}}, {{IPA|[i]}} || anywhere || none || <font size="3">يم</font> </br><small>{{IPA|[jəm]}} ('I am')</small>
+|-align="center"
+| <font size="4">ې</font> || {{unicode|پسته ې}} || {{IPA|[e]}} || middle or end of the word  || none || <font size="3">ډېوه</font> </br><small>{{IPA|[ɖewa]}} ('lamp')</small>
+|-align="center"
+| <font size="4">ى</font></br><small>if preceded by a consonant</small> || {{unicode|نارينه ی}} || {{IPA|[ai]}} || end of the word || the word is [[Grammatical gender|masculine]] [[Grammatical number|singular]] in [[direct case]] || <font size="3">ستورى</font> </br><small>{{IPA|[storai]}} ('star')</small>
+|-align="center"
+| <font size="4">ى</font></br><small>if preceded by a vowel</small> || {{unicode|نارينه ی}} || {{IPA|[j]}} || end of the word || none || <font size="3">دوى</font> </br><small>{{IPA|[duj]}} ('they')</small>
+|-align="center"
+| <font size="4">ۍ</font></br><small>if in a name</small> || {{unicode|ښځينه ۍ}} || {{IPA|[əi]}} || end of the word  || the name is [[Grammatical gender|feminine]] || <font size="3">نجلۍ</font></br> <small>{{IPA|[nd͡ʒələi]}} ('girl')</small>
+|-align="center"
+| <font size="4">ۍ</font></br><small>if in a verb</small> || {{unicode|ښځينه ۍ}}{{ref|verbal ye|1|}} || {{IPA|[əi]}} || end of the word  || the verb is in [[Grammatical person|second person]] [[Grammatical number|plural]] form || <font size="3">كوۍ</font> </br><small>{{IPA|[kawəi]}} ('you (plur.) do')</small>
+|}
+
+* {{note|verbal ye|1}} It is also common to use <font size="4">{{unicode|ئ}}</font> (ye with an hamza above) at the end of a second-person plural verb, for example <font size="3">كوئ</font> - {{unicode|kawəi}}, "you (plur.) do".
+
+== سرچينې ==
+* Awde & Sarwan (2002). "Pashto dictionary & phrasebook", page 24.
+
+== باندنۍ تړنې ==
+{{reflist}}
+
+{{DEFAULTSORT:Pashto Alphabet}}
+
+[[وېشنيزه:Arabic-derived alphabets]]
+[[وېشنيزه:Pashto language]]
+
+{{Link FA|de}}
+
+[[ar:أبجدية بشتوية]]
+[[de:Paschtunische Schrift]]
+[[en:Pashto alphabet]]
