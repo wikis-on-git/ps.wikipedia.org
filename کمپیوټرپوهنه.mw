@@ -2,7 +2,7 @@
 <ref>"''Computer science is the study of information''" [http://www.njit.edu/v2/archivecatalog/undergraduate/91/19-und.html New Jersey Institute of Technology], Gutenberg Information Technologies</ref><ref>"''Computer science is the study of computation.''" [http://www.csbsju.edu/computerscience/curriculum Computer Science Department, College of Saint Benedict], Saint John's University</ref><ref>"''Computer Science is the study of all aspects of computer systems, from the theoretical foundations to the very practical aspects of managing large software projects.''" [http://study.massey.ac.nz/major.asp?major_code=2010&prog_code=93068 Massey University]</ref> 
 چي دا په واروار د [[الګوريتم]] غونډاليزه زده كړه ،بهير او منځ ته راتلل څرګندوې او مالومات ليږدوي.
 
-د [[Peter J. Denning]], په وينا بنسټيزه پوښتنه په سولګر پوهنه كي داده چې, ''"څه كيداي شې جي اغيزمن وي په خپلجاري ډول?"''<ref name="Denning_cs_discipline">{{cite journal | last=Denning | first=P.J. | authorlink=Peter J. Denning | year=2000 | title=Computer Science: The Discipline | url=http://web.archive.org/web/20060525195404/http://www.idi.ntnu.no/emner/dif8916/denning.pdf | journal=Encyclopedia of Computer Science|format=PDF}}</ref> کمپيوټر پوهنه ډير څيرمه ډګرونه لرې .لكه:[[سولګر كښنيزې]]،[[د شميرني پر ځانګړي پايلو د تاكيد]]،او څه هم نور اندونه .لكه:[[جړيزه شميريزه نظريه ]]او [[د ځانګړتياوو زده كړه له محاسباتي ستونزو څخه]]
+د [[Peter J. Denning]], په وينا بنسټيزه پوښتنه په سولګر پوهنه كي داده چې, ''"څه كيداي شې جي اغيزمن وي په خپلجاري ډول?"''<ref name="Denning_cs_discipline">{{cite journal | last=Denning | first=P.J. | authorlink=Peter J. Denning | year=2000 | title=Computer Science: The Discipline | url=http://web.archive.org/web/20060525195404/http://www.idi.ntnu.no/emner/dif8916/denning.pdf | journal=Encyclopedia of Computer Science|format=PDF}}</ref> کمپيوټر پوهنه ډير څيرمه ډګرونه لرې .لكه:[[سولګر كښنيزې]]،[[د شميرني پر ځانګړي پايلو د تاكيد]]،او څه هم نور اندونه .لكه:[[جړيزه شميريزه نظريه]] او [[د ځانګړتياوو زده كړه له محاسباتي ستونزو څخه]]
 
 Still others focus on the challenges in implementing computations. For example, [[programming language theory]] studies approaches to describing computations, while [[computer programming]] applies specific [[programming language]]s to solve specific computational problems, and [[human-computer interaction]] focuses on the challenges in making computers and computations useful, usable, and universally accessible to [[humans|people]].
 
@@ -20,7 +20,7 @@ Time has seen significant improvements in the usability and effectiveness of com
 == سترې لاسته راوړنې ==
 
 
-[[Image:Enigma.jpg|170px|thumbnail|right|The [[Germany|German]] military used the [[Enigma machine]] during [[World War II]] for communication they thought to be secret. The large-scale decryption of Enigma traffic at [[Bletchley Park]] was an important factor that contributed to Allied victory in WWII.<ref name="kahnbook" />]]
+[[دوتنه:Enigma.jpg|170px|thumbnail|right|The [[Germany|German]] military used the [[Enigma machine]] during [[World War II]] for communication they thought to be secret. The large-scale decryption of Enigma traffic at [[Bletchley Park]] was an important factor that contributed to Allied victory in WWII.<ref name="kahnbook" />]]
 
 Despite its short history as a formal academic discipline, computer science has made a number of fundamental contributions to [[science]] and [[society]]. These include:
 * Started the "digital revolution", which includes the current [[Information Age]] and the [[Internet]].<ref name="bgu">http://www.cis.cornell.edu/Dean/Presentations/Slides/bgu.pdf</ref>
@@ -58,13 +58,13 @@ The Computer Sciences Accreditation Board (CSAB) – which is made up of represe
 The broader field of [[theoretical computer science]] encompasses both the classical theory of computation and a wide range of other topics that focus on the more abstract, logical, and mathematical aspects of computing.
 :{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
 |  <math> P \rightarrow Q \,</math>
-|| [[Image:DFAexample.svg|96px]]
-|| [[Image:Elliptic curve simple.png|96px]]
-|| [[Image:6n-graf.svg|96px]]
+|| [[دوتنه:DFAexample.svg|96px]]
+|| [[دوتنه:Elliptic curve simple.png|96px]]
+|| [[دوتنه:6n-graf.svg|96px]]
 || <math>\Gamma\vdash x: Int</math>
-|| [[Image:Commutative diagram for morphism.svg|96px]]
-|| [[Image:SimplexRangeSearching.png|96px]]
-|| [[Image:Blochsphere.svg|96px]]
+|| [[دوتنه:Commutative diagram for morphism.svg|96px]]
+|| [[دوتنه:SimplexRangeSearching.png|96px]]
+|| [[دوتنه:Blochsphere.svg|96px]]
 |-
 |  [[Mathematical logic]]
 || [[Automata theory]]
@@ -82,7 +82,7 @@ The study of the [[theory of computation]] is focused on answering fundamental q
 The famous "[[P = NP problem|P=NP?]]" problem, one of the [[Millennium Prize Problems]],<ref>[http://www.claymath.org/millennium/P_vs_NP/ Clay Mathematics Institute] P=NP</ref> is an open problem in the theory of computation.
 
 :{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
-| [[Image:Wang tiles.png|96px]]
+| [[دوتنه:Wang tiles.png|96px]]
 || '''P = NP''' ?
 |-
 |  [[Computability theory (computer science)|شميرنيزي اندوني]]
@@ -92,8 +92,8 @@ The famous "[[P = NP problem|P=NP?]]" problem, one of the [[Millennium Prize Pro
 === د الګوريتومونو او اومتوكو جوړښت ===
 :{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
 |  <math>O(n^2)</math>
-|| [[Image:Sorting quicksort anim.gif|96px]]
-|| [[Image:Singly linked list.png|96px]]
+|| [[دوتنه:Sorting quicksort anim.gif|96px]]
+|| [[دوتنه:Singly linked list.png|96px]]
 |-
 |  [[د الګوريتم شننه]]
 || [[الګوريتمونه]]
@@ -102,8 +102,8 @@ The famous "[[P = NP problem|P=NP?]]" problem, one of the [[Millennium Prize Pro
 
 === خپرنيز ليلپوهنه او ژپې ===
 :{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
-|  [[Image:Ideal compiler.png|96px]]
-|| [[Image:Python add5 syntax.svg|96px]]
+|  [[دوتنه:Ideal compiler.png|96px]]
+|| [[دوتنه:Python add5 syntax.svg|96px]]
 |-
 |  [[ژباړني]]
 || [[خپرونيزې ژبې]]
@@ -111,9 +111,9 @@ The famous "[[P = NP problem|P=NP?]]" problem, one of the [[Millennium Prize Pro
 
 === د سولګر توكي او جوړونۍ ===
 :{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
-|  [[Image:NOR ANSI.svg|96px]]
-|  [[Image:Fivestagespipeline.png|96px]]
-|  [[Image:SIMD.svg|96px]]
+|  [[دوتنه:NOR ANSI.svg|96px]]
+|  [[دوتنه:Fivestagespipeline.png|96px]]
+|  [[دوتنه:SIMD.svg|96px]]
 |-
 |  [[ګڼيال سوليز]]
 |  [[Microarchitecture]]
@@ -122,12 +122,12 @@ The famous "[[P = NP problem|P=NP?]]" problem, one of the [[Millennium Prize Pro
 
 === شميريزه او پيلاميزه شميرنه ===
 :{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
-|  [[Image:1u04-argonaute.png|96px]]
-|| [[Image:User-FastFission-brain.gif|96px]]
-|| [[Image:Naphthalene-3D-balls.png|96px]]
-|| [[Image:Neuron-no labels.png|96px]]
-|| [[Image:X-43A (Hyper - X) Mach 7 computational fluid dynamic (CFD).jpg|96px]]
-|| [[Image:Wind-particle.png|96px]]
+|  [[دوتنه:1u04-argonaute.png|96px]]
+|| [[دوتنه:User-FastFission-brain.gif|96px]]
+|| [[دوتنه:Naphthalene-3D-balls.png|96px]]
+|| [[دوتنه:Neuron-no labels.png|96px]]
+|| [[دوتنه:X-43A (Hyper - X) Mach 7 computational fluid dynamic (CFD).jpg|96px]]
+|| [[دوتنه:Wind-particle.png|96px]]
 || <math>y = \sin(x) + c</math>
 |-
 |  [[Bioinformatics]]
@@ -143,11 +143,11 @@ The famous "[[P = NP problem|P=NP?]]" problem, one of the [[Millennium Prize Pro
 The following disciplines are often studied from a more theoretical, computer science viewpoint, as well as from a more practical, engineering perspective.
 
 :{| style="border:1px solid #ddd; text-align:center; margin: auto;" cellspacing="15"
-|  [[Image:Operating system placement.svg|96px]]
-|| [[Image:NETWORK-Library-LAN.png|96px]]
-|| [[Image:5-cell.gif|96px]]
-|| [[Image:Corner.png|96px]]
-|| [[Image:Emp Tables (Database).PNG|96px]]
+|  [[دوتنه:Operating system placement.svg|96px]]
+|| [[دوتنه:NETWORK-Library-LAN.png|96px]]
+|| [[دوتنه:5-cell.gif|96px]]
+|| [[دوتنه:Corner.png|96px]]
+|| [[دوتنه:Emp Tables (Database).PNG|96px]]
 |-
 |  [[چليز غونډال]]
 || [[Computer networking|سولګر جالونه]]
@@ -155,10 +155,10 @@ The following disciplines are often studied from a more theoretical, computer sc
 || [[سولګر ليد]]
 || [[توكبنسټونه]]
 |-
-|  [[Image:Padlock.svg|96px]]
-|| [[Image:ArtificialFictionBrain.png|96px]]
-|| [[Image:Roomba original.jpg|96px]]
-|| [[Image:Wacom Pen-tablet.jpg|96px]]
+|  [[دوتنه:Padlock.svg|96px]]
+|| [[دوتنه:ArtificialFictionBrain.png|96px]]
+|| [[دوتنه:Roomba original.jpg|96px]]
+|| [[دوتنه:Wacom Pen-tablet.jpg|96px]]
 ||<!-- Image with inadequate rationale removed:  [[Image:IPhone EDGE and 3G.png|96px]] -->
 |-
 |  [[سولګر خونديتوب]]
@@ -194,13 +194,13 @@ Some universities teach computer science as a theoretical study of computation a
 Other colleges and universities, as well as [[secondary school]]s and vocational programs that teach computer science, emphasize the practice of advanced programming rather than the theory of algorithms and computation in their computer science curricula. Such curricula tend to focus on those skills that are important to workers entering the software industry. The practical aspects of computer programming are often referred to as [[software engineering]]. However, there is a lot of [[Debates within software engineering|disagreement]] over the meaning of the term, and whether or not it is the same thing as programming.
 
 == دا هم وګورئ ==
-*[[سولګر]]
-*[[كمپېوټر پوهنه څه ده؟]]
-*[[پاور ټايز یانې څه؟]]
-*[[دويال غونډالونه]]
-*[[چليز غونډالونه ]]
-*[[ګڼياله وېډيويي كامره]]
-*[[ډېټا بېس څه شى دى]]
+* [[سولګر]]
+* [[كمپېوټر پوهنه څه ده؟]]
+* [[پاور ټايز یانې څه؟]]
+* [[دويال غونډالونه]]
+* [[چليز غونډالونه]] 
+* [[ګڼياله وېډيويي كامره]]
+* [[ډېټا بېس څه شى دى]]
 == اخځونه ==
 {{reflist|2}}
 
@@ -222,7 +222,8 @@ Other colleges and universities, as well as [[secondary school]]s and vocational
 
 
 {{DEFAULTSORT:سولګر پوهنه}}
-[[Category:سولګر پوهنه ]]
+
+[[وېشنيزه:سولګر پوهنه]]
 
 [[af:Rekenaarwetenskap]]
 [[als:Informatik]]
@@ -297,6 +298,7 @@ Other colleges and universities, as well as [[secondary school]]s and vocational
 [[ro:Informatică]]
 [[ru:Информатика]]
 [[scn:Nfurmàtica]]
+[[si:පරිගණක විද්‍යාව]]
 [[simple:Computer science]]
 [[sk:Veda o počítačoch]]
 [[sl:Računalništvo]]
