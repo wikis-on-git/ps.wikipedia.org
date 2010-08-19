@@ -131,25 +131,6 @@ New:
 ** [[SAS programming language]]
 ** [[R programming language]]
 
-== Common misconceptions ==
-Mathematics is not a closed intellectual system, in which everything has already been worked out. There is no shortage of open problems.
-
-[[Pseudomathematics]] is a form of mathematics-like activity undertaken outside [[academia]], and occasionally by mathematicians themselves. It often consists of determined attacks on famous questions, consisting of proof-attempts made in an isolated way (that is, long papers not supported by previously published theory). The relationship to generally-accepted mathematics is similar to that between [[pseudoscience]] and real science. The misconceptions involved are normally based on:
-
-* misunderstanding of the implications of [[mathematical rigour]];
-* attempts to circumvent the usual criteria for publication of [[mathematical paper]]s in a [[learned journal]] after [[peer review]], often in the belief that the journal is biased against the author;
-* lack of familiarity with, and therefore underestimation of, the existing literature.
-
-The case of [[Kurt Heegner]]'s work shows that the mathematical establishment is neither infallible, nor unwilling to admit error in assessing 'amateur' work. And like [[astronomy]], mathematics owes much to amateur contributors such as [[Pierre de Fermat|Fermat]] and [[Marin Mersenne|Mersenne]].
-
-Mathematics is not [[accountancy]]. Although arithmetic computation is crucial to accountants, their main concern is to verify that computations are correct through a system of doublechecks. Advances in abstract mathematics are mostly irrelevant to the efficiency of concrete bookkeeping, but the use of computers clearly does matter.
-
-Mathematics is not [[numerology]]. Numerology uses [[modular arithmetic]] to reduce names and dates down to numbers, but assigns emotions or traits to these numbers intuitively or on the basis of traditions.
-
-Mathematical concepts and theorems need not correspond to anything in the physical world. In the case of [[geometry]], for example, it is not relevant to mathematics to know whether points and lines ''exist'' in any physical sense, as geometry starts from axioms and postulates about abstract entities called "points" and "lines" that we feed into the system. While these axioms are derived from our perceptions and experience, they are not dependent on them. And yet, mathematics is extremely useful for solving real-world problems. It is this fact that led Eugene Wigner to write an essay on [[The Unreasonable Effectiveness of Mathematics in the Natural Sciences]].
-
-Mathematics is not about unrestricted [[theorem proving]], any more than [[literature]] is about the construction of [[grammar|grammatically correct]] [[Sentence (linguistics)|sentences]]. However, theorems are elements of [[formal theory|formal theories]], and in some cases [[computer]]s can generate proofs of these theorems more or less automatically, by means of [[automated theorem prover]]s.  These techniques have proven useful in [[formal verification]] of programs and hardware designs. However, they are unlikely to generate (in the near term, at least) mathematics with any widely recognized aesthetic value.
-
 == دا هم وګورۍ ==
 
 * [[شمېرپوهنيزې لوبې]]
