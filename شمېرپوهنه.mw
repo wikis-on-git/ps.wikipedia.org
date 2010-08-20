@@ -7,7 +7,7 @@
 
 == تاريخ ==
 :{{آرنی|''[[د شمېر پوهنې تاريخ]]''}}
-[[Image:Kapitolinischer Pythagoras adjusted.jpg|thumb|left|[[Pythagoras]] (c.570-c.495 BC) has commonly been given credit for discovering the [[Pythagorean theorem]]. Well-known figures in [[Greek mathematics]] also include [[Euclid]], [[Archimedes]], and [[Thales]].]]
+[[دوتنه:Kapitolinischer Pythagoras adjusted.jpg|thumb|left|[[Pythagoras]] (c.570-c.495 BC) has commonly been given credit for discovering the [[Pythagorean theorem]]. Well-known figures in [[Greek mathematics]] also include [[Euclid]], [[Archimedes]], and [[Thales]].]]
 
 == الهام، بوب او کارېدونکې شمېرپوهنه، او ښکلاپېژندنه ==
 
@@ -37,7 +37,7 @@
 :{| style="border:1px solid #999; text-align:center; margin: auto;" cellspacing="15"
 | <math>36 \div 9 = 4</math> || [[دوتنه:Elliptic curve simple.png|96px]] || [[دوتنه:Rubik float.png|96px]] || [[دوتنه:Group diagram d6.svg|96px]] || [[دوتنه:Lattice of the divisibility of 60.svg|96px]]
 |-
-| [[رياضي]] || [[Number تيوري]] ||  [[Abstract الجبر]] || [[د ډلې تيوري]] || [[Order تيوري]]
+| [[رياضي]] || [[Number تيوري]] || [[Abstract الجبر]] || [[د ډلې تيوري]] || [[Order تيوري]]
 |}
 
 :[[Monoid]]s – [[Ring (mathematics)|Rings]] – [[field (mathematics)|Fields]] – [[Linear algebra]] – [[Algebraic geometry]]– [[Universal algebra]]
@@ -56,7 +56,7 @@
 === ونج يا بدلون ===
 :Ways to express and handle change in mathematical functions, and changes between numbers.
 :{| style="border:1px solid #999; text-align:center; margin: auto;" cellspacing="20"
-| [[دوتنه:Integral_as_region_under_curve.png|96px]]  || [[دوتنه:Vectorfield_jaredwf.png|96px]] || <math>\frac{d^2}{dx^2} y = \frac{d}{dx} y + c</math> || [[دوتنه:Limitcycle.jpg|96px]] || [[دوتنه:LorenzAttractor.png|96px]]
+| [[دوتنه:Integral_as_region_under_curve.png|96px]] || [[دوتنه:Vectorfield_jaredwf.png|96px]] || <math>\frac{d^2}{dx^2} y = \frac{d}{dx} y + c</math> || [[دوتنه:Limitcycle.jpg|96px]] || [[دوتنه:LorenzAttractor.png|96px]]
 |-
 | [[Calculus]] || [[Vector calculus]]|| [[Differential equation]]s || [[Dynamical system]]s || [[Chaos theory]]
 |}
@@ -68,7 +68,7 @@
 :Approaches to understanding the nature of mathematics.
 
 :{| style="border:1px solid #999; text-align:center; margin: auto;" cellspacing="15"
-|  <math> P \Rightarrow Q</math>|| [[دوتنه:Venn_A_intersect_B.svg|128px]]  || [[دوتنه:MorphismComposition-01.png|96px]]  
+| <math> P \Rightarrow Q</math>|| [[دوتنه:Venn_A_intersect_B.svg|128px]] || [[دوتنه:MorphismComposition-01.png|96px]] 
 |-
 | [[Mathematical logic]] || [[Set theory]] || [[Category theory]] || 
 |}
@@ -81,12 +81,12 @@
 :[[Discrete mathematics]] involves techniques that apply to objects that can only take on specific, separated values.
 
 :{| style="border:1px solid #999; text-align:center; margin: auto;" cellspacing="15"
-| <math>[1,2,3][1,3,2]</math><br /><math>[2,1,3][2,3,1]</math><br /><math>[3,1,2][3,2,1]</math> ||  || [[دوتنه:Caesar3.svg|96px]] || [[دوتنه:6n-graf.png|96px]]
+| <math>[1,2,3][1,3,2]</math><br /><math>[2,1,3][2,3,1]</math><br /><math>[3,1,2][3,2,1]</math> || || [[دوتنه:Caesar3.svg|96px]] || [[دوتنه:6n-graf.png|96px]]
 |-
 | [[Combinatorics]] || [[Theory of computation]] || [[Cryptography]] || [[Graph theory]]
 |}
 
-:  [[Computability theory (computation)|Computability theory]] – [[Computational complexity theory]] – [[Information theory]]
+: [[Computability theory (computation)|Computability theory]] – [[Computational complexity theory]] – [[Information theory]]
 
 === کارندويه شمېرپوهنه ===
 
@@ -107,7 +107,7 @@
 
 :These are some of the major unsolved problems in mathematics.
 
-:[[Goldbach's conjecture]] – [[Twin Prime Conjecture]] – [[Riemann hypothesis]]  – [[Poincaré conjecture]] – [[Collatz conjecture]] – [[Complexity classes P and NP|P=NP?]] – open [[Hilbert problems]].
+:[[Goldbach's conjecture]] – [[Twin Prime Conjecture]] – [[Riemann hypothesis]] – [[Poincaré conjecture]] – [[Collatz conjecture]] – [[Complexity classes P and NP|P=NP?]] – open [[Hilbert problems]].
 
 === تاريخ او د شمېرپوهانو نړۍ ===
 ''See also [[list of mathematics history topics]]''
@@ -200,6 +200,7 @@ New:
 [[fiu-vro:Matõmaatiga]]
 [[fo:Støddfrøði]]
 [[fr:Mathématiques]]
+[[frr:Matematiik]]
 [[fur:Matematiche]]
 [[fy:Wiskunde]]
 [[ga:Matamaitic]]
