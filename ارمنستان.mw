@@ -1,12 +1,12 @@
 <!-- BEGIN INFOBOX -->
 {{هېواد-مالوماتبکس |
-ملي نوم= Հայաստանի Հանրապետություն<br /> Hayastani Hanrapetutyun<br /> د ارمنستان جمهوريت |
-ټولګړی نوم = Armenia |
+ولسي نوم= Հայաստանի Հանրապետություն<br /> Hayastani Hanrapetutyun<br /> د ارمنستان جمهوريت |
+ټولګړی نوم = ارمنستان|
 image_flag = Flag of Armenia.svg |
 image_coat= Coat of arms of Armenia.svg|
-ملي ناره = ''none'' |
+ولسي ناره = ''none'' |
 image_map = LocationArmenia.svg |
-ملي سرود = ''[[Mer Hayrenik]]'' |
+ولسي ترانه = ''[[Mer Hayrenik]]'' |
 رسمي ژبه/ژبې = [[Armenian language|Armenian]] |
 پلازمېنه = [[Yerevan]] |latd=40|latm=16|latNS=N|longd=44|longm=34|longEW=E|
 د حکومت بڼه =  [[جمهوريت]] |
@@ -39,14 +39,14 @@ HDI_category = <font color="#FFCC00">medium</font> |
 established_events = &nbsp;-&nbsp;Declared<br /> &nbsp;-&nbsp;Established |
 established_dates = From the [[Soviet Union]]<br /> [[August 23]] [[1990]]<br /> [[September 21]] [[1991]] |
 پېسه = [[Dram (currency)|Dram]] |
-currency_code = AMD |
-time_zone = [[UTC]] |
+د پيسو نښه = AMD |
+د وخت سيمه = [[UTC]] |
 utc_offset = +4 |
 time_zone_DST = [[DST]] |
 utc_offset_DST = +5 |
 cctld = [[.am]] |
 پېل ګڼ= 374 |
-footnotes = <small>1: Area does not include [[Nagorno-Karabakh]].</small> |
+پايڅوړ = <small>1: Area does not include [[Nagorno-Karabakh]].</small> |
 }}
 <!-- END INFOBOX -->
 
