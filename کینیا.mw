@@ -1,58 +1,68 @@
 {{ژباړل}}
-{{هېواد-مالوماتبکس |
-اصلي نوم = ''Jamhuri Ya Kenya'' |
-conventional_long_name = Republic of Kenya |
-عام نوم = Kenya |
-بېرغ = Flag of Kenya.svg |
-نښان = EscudoKenya.PNG|
-national_motto = [[Harambee]] ([[Swahili]]: Let us all pull together) |
-نخشه = LocationKenya.png |
-ملي سرود = [[Ee Mungu Nguvu Yetu]] (Oh God of All Creation) |
-رسمي ژبه = [[English language|English]] and [[Swahili]]<ref>C Githiora, "Kenya: Language Situation", ''Encyclopedia of Language and Linguistics'', 2nd ed., 2005, Elsevier</ref> |
-نورې ژبې = Kǐkǔyǔ, ليواو، لوهيا، ماسآی، مېرو، اېمبو، عربي، هندي، سومالي |
-پلازمېنه = [[نايروبي]] |
-latd=1|latm=16|latNS=S|longd=36|longm=48|longEW=E |
-د حکومت بڼه = [[جمهوريت]] |
-leader_title1 = [[President of Kenya|President]] |
-leader_name1 = [[Mwai Kibaki]] |
-لوی ښار = [[نايروبي]] |
-مساحت= 582,650 |
-areami² = 224,962<!-- Do not remove per [[WP:MOSNUM]] --> |
-مساحتي وېش = 46th |
-د مساحت ارتوالی = 1 E11 |
-د اوبو سلنه = 2.3% |
-د وګړو اټکل = 34,256,000 <sup><small>1</small></sup> |
-د وګړو د شمېر د اټکل کال = جولای 2005 |
-population_estimate_rank = 34th |
-د وګړو سرشمېرنه = 31,138,735 |
-د وګړو د سرشمېرنې کال = 2002 |
-د وګړو ګڼه ګونه = 58.1 |
-population_densitymi² = 150.4 <!-- Do not remove per [[WP:MOSNUM]] --> |
-population_density_rank = 137th |
-GDP_PPP_year = 2005 |
-GDP_PPP = $39.45 billion <!--cia.gov --> |
-GDP_PPP_rank = 76th |
-GDP_PPP_per_capita = $ 1,200 |
-GDP_PPP_per_capita_rank = 156th |
-HDI_year = 2003 |
-HDI = 0.474 |
-HDI_rank = 154th |
-HDI_category = <font color="#E0584E">low</font> |
-زمکنۍ بشپړتيا = [[خپلواکي]] |
-sovereignty_note = From the [[United Kingdom|UK]] |
-established_event1 = Date |
-established_date1 =  [[December 12]], [[1963]] |
-پېسه = [[کېنيايي شېلېنګ]] |
-د پېسو نښه = KES |
-وخت = [[Moscow Time|MSK]] |
-utc_offset = +3 |
-time_zone_DST = not observed |
-utc_offset_DST = +3 |
-cctld = [[.ke]] |
-پېل ګڼ = 254<sup><small>2</small></sup> |
-پايڅوړ = 1.) According to cia.gov, estimates for this country explicitly take into account the effects of mortality due to AIDS; this can result in lower life expectancy,  higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.
+{{هېواد-مالوماتبکس	
+|ملي نوم = ''Jamhuri ya Kenya''{{Sw icon}}</small>	
+|اوږد دوديزه نوم = Republic of Kenya 	
+|ټولګړی نوم =  کينيا
+|image_flag = Flag of Kenya.svg	
+|image_coat = Coat of arms of Kenya.svg
+|ملي ناره = "[[Harambee]]"{{nbsp|2}}<small>([[Swahili language|Swahili]])<br/>"Let us all pull together"</small>	
+|image_map = Kenya (orthographic projection).svg	
+|ملي سرود = ''[[Ee Mungu Nguvu Yetu]]''<small><br/>"O God of All Creation"</small>	
+|official_languages = [[Swahili language|Swahili]], English<ref>Constitution (1998) art. 53 "the official languages of the National Assembly shall be Kiswahili and English and the business of the National Assembly may be conducted in either or both languages."</ref>	
+|other languages = gKĩkũyũ, Luhya, Luo, Maasai, Meru, Embu, Arabic, Somali, Hindi and numerous others.
+|demonym = Kenyan
+|پلازمېنه= [[Nairobi]]
+|latd=1 |latm=16 |latNS=S |longd=36 |longm=48 |longEW=E
+|government_type = [[Semi-presidential system|Semi-presidential]] [[Republic]]
+|leader_title1 = [[President of Kenya|President]]
+|leader_title2 = [[Prime Minister of Kenya|Prime Minister]]
+|leader_name1 = [[Mwai Kibaki]]
+|leader_name2 = [[Raila Odinga]]
+|largest_city = Nairobi
+|area_km2 = 580,367
+|area_sq_mi = 224,080 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank = 47th
+|area_magnitude = 1 E11
+|percent_water = 2.3
+|population_estimate      = 39,002,772<ref name=cia/>
+|population_estimate_year = July 2010
+|population_estimate_rank = 33nd
+|population_census        = 38,610,097<ref>[http://www.knbs.or.ke/Census%20Results/KNBS%20Brochure.pdf Official 2009 census results.]</ref>
+|population_census_year   = August 24–25, 2009
+|population_density_km2   = 67.2
+|population_density_sq_mi = 174.1 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  = 140th
+|GDP_PPP_year = 2009
+|GDP_PPP = $62.065&nbsp;billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=664&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=67&pr.y=5 |title=Kenya|publisher=International Monetary Fund|accessdate=21 April 2010}}</ref>
+|GDP_PPP_per_capita = $1,729<ref name=imf2/>
+|GDP_nominal           = $32.724&nbsp;billion<ref name=imf2/>
+|GDP_nominal_year      = 2009
+|GDP_nominal_per_capita    = $912<ref name=imf2/>
+|HDI_year = 2007
+|HDI = {{increase}} 0.541
+|HDI_rank = 147th
+|HDI_category = <span style="color:#fc0;">medium</span>
+|FSI                      = 91.3 {{increase}} 2.7
+|FSI_year                 = 2007
+|FSI_rank                 = 31st
+|FSI_category             = <span style="color:#f00;">Alert</span>
+|sovereignty_type = [[Independence]]
+|sovereignty_note = from the United Kingdom
+|established_event1 = Date
+|established_date1 = 12 December 1963
+|established_event2 = Republic declared
+|established_date2 = 12 December 1964
+|currency = [[Kenyan shilling]]
+|currency_code = KES
+|time_zone = [[East Africa Time|EAT]]
+|utc_offset = +3
+|time_zone_DST = ''not observed''
+|utc_offset_DST = +3
+|drives_on                    = left
+|cctld = [[.ke]]
+|calling_code = [[+254]]
+|footnotes = 1. According to [https://www.cia.gov/library/publications/the-world-factbook/geos/ke.html cia.gov], estimates for this country explicitly take into account the effects of mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex, than would otherwise be expected.<ref name=cia/>
 }}
-
 The '''Republic of Kenya''' is a country in [[East Africa|Eastern Africa]]. It is bordered by [[اېتوپيا]] to the north, [[Somalia]] to the east, [[Tanzania]] to the south, [[يوګانډا]] to the west, and [[سوډان]] to the northwest, with the [[Indian Ocean]] running down the southeast border. 
 
 == تاريخ ==
