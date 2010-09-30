@@ -1,52 +1,73 @@
 :''د سهېل لوېديځ [[ايران]] د سيمې لپاره، [[ايراني آذربايجان]] وګورۍ.''
-{{هېواد-مالوماتبکس|
-اوږد دوديز نوم =د آذربايجان جمهوريت<br />  Azərbaycan Respublikası|
-ټولګړی نوم = آذربايجان |
-ولسي ناره = نه لري |
-ولسي ترانه = [[Azərbaycan Respublikasının Dövlət Himni]] |
-image_flag = Flag of Azerbaijan.svg |
-image_coat = Azerbaijan_coa.png |
-image_map = LocationAzerbaijan.png |
-پلازمېنه = [[باکو]] |latd=40|latm=22|latNS=N|longd=49|longm=53|longEW=E|
-لوی ښار = [[باکو]] |
-رسمي ژبې/ژبې = [[آذربايجاني ژبه|آذربايجاني]] |
-د حکومت بڼه = [[ولسواکي]] |
-د لارښود لقب = [[د آذربايجان لومړی وزير|ولسمشر]]<br />لومړی وزير |
-د لارښود نوم= [[الهام آليېف]]<br />[[آرتر راسيزاده]] |
-زمکنۍ بشپړتيا = [[د شوروي اتحاد ړنګېدنه|خپلواکي]] |
-established_events = &nbsp;- Declared<br /> &nbsp;- Formerly |
-established_dates = له [[شوروي اتحاد]] نه<br />[[۳۰ د اګسټ]], [[1991]]<br /> [[آذربايجان د شوروي اتحاد رياست]] |
-ارتوالی= 86,600 |
-areami² = 33,436 | <!-- Do not remove [[WP:MOSNUM]]-->
-area_rank = 112th |
-د مساحت ارتوالی = 1 E9 |
-د اوبو سلنه = نلري |
-د وګړو اټکل = 7,911,974 |
-د وګړو د شمېر د اټکل کال= 2005 |
-د وېش له مخې د وګړو ګڼه ګونې = 91st |
-د وګړو سرشمېرنه= N/A |
-د وګړو د سرشمېرنې کال= 2000|
-د وګړو ګڼه ګونه = 90 |
-د وګړو ګڼه ګونه په هر متر² کې = 233 | <!-- Do not remove [[WP:MOSNUM]]-->
-population_density_rank = 81st |
-د ټول کورني عايداتو کال = 2004 |
-GDP_PPP = $37,841,000,000 |
-GDP_PPP_rank = 87th |
-GDP_PPP_per_capita = $4,500 |
-GDP_PPP_per_capita_rank = 112th |
-HDI_year = 2003 |
-HDI = 0.729 |
-HDI_rank = 101st |
-HDI_category = <font color="#FFCC00">medium</font> |
-پېسه = [[منات (آذربايجان)|منات]] |
-د پېسو نښه = AZN |
-د وخت سيمه = |
-utc_offset = +4 |
-time_zone_DST = |
-utc_offset_DST = +5 |
-cctld = [[.az]] |
-پېل ګڼ= 994 |
-پايڅوړ = |
+{{هېواد-مالوماتبکس
+|ولسي نوم=''Azərbaycan Respublikası''
+|اوږد دوديز نوم =د آذربايجان جمهوريت
+|ټولګړی نوم = آذربايجان 
+|ولسي ناره = <!-- The Republic of Azerbaijan has NO official, constitutionally fixed motto, please do not insert Odlar Yurdu or something else -->
+|ولسي ترانه = ''[[National Anthem of Azerbaijan|Azərbaycan marşı]]''<small><br />({{lang-en|March of Azerbaijan}})</small>
+|image_flag = Flag of Azerbaijan.svg
+|image_coat = Coat of arms of Azerbaijan.svg
+|symbol_type = Emblem
+|image_map = Europe_location_AZE.png
+| map_caption = {{map caption|location_color=green|region=[[Europe]]|region_color=dark grey|legend=Europe location AZE.png}}
+|پلازمېنه = [[باکو]]
+|latd=40 |latm=25 |latNS=N |longd=49 |longm=50 |longEW=E
+|لوی ښار = پلازمېنه
+|رسمي ژبې = [[آذربايجاني ژبه|آذربايجاني]]
+|د حکومت بڼه = [[جمهوري ولسمشريز]]
+|leader_title1 = [[President of Azerbaijan|ولسمشر]]
+|leader_name1 = [[Ilham Aliyev]]
+|leader_title2 = [[Prime Minister of Azerbaijan|لومړی وزير]]
+|leader_name2 = [[Artur Rasizade]]
+|د زمکنۍ بشپړتيا بڼه = [[د آذربايجان تاريخ|جوړښت او خپلواکي]]
+|established_event1 = [[Atabegs of Azerbaijan]]
+|established_date1 = <br />1135
+|established_event2 = [[Azerbaijan Democratic Republic]] established
+|established_date2 = <br />May 28, 1918
+|established_event3 = [[Azerbaijan Soviet Socialist Republic]]
+|established_date3 = <br />April 28, 1920
+|established_event4 = Independence<br />from the [[Soviet Union]]<div style="float:right;">Declared<br />Completed</div>
+|established_date4 = <br /><br />August 30, 1991<br />October 18, 1991
+|area_km2 = 86600
+|area_sq_mi = 33436 <!--Do not remove [[WP:MOSNUM]]-->
+|area_rank = 113th
+|area_magnitude = 1 E9
+|percent_water = 1.6%
+|population_estimate = 9,047,000<ref name="nine1">{{Cite web| last = | first = | authorlink = | coauthors = | title =Население Азербайджана достигло 9 млн. 47 тыс. человек | work = | publisher =News.Az| year =2010 | url = http://1news.az/society/20100708020139241.html| doi = | accessdate = 2010-07-15}}</ref>
+|population_estimate_year = 2010
+|population_estimate_rank = 90st
+|population_census = 7,953,438<ref name=census/>
+|population_census_year = 1999
+|population_density_km2 = 103
+|population_density_sq_mi = 264.1 <!--Do not remove [[WP:MOSNUM]]-->
+|population_density_rank = 104th
+|GDP_PPP_year = 2009
+|GDP_PPP = $85.770 billion<ref name=imf2>{{Cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=912&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=76&pr.y=13 |title=Azerbaijan|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank =
+|GDP_PPP_per_capita = $9,564<ref name=imf2/>
+|GDP_PPP_per_capita_rank =
+|GDP_nominal = $43.111 billion<ref name=imf2/>
+|GDP_nominal_rank =
+|GDP_nominal_year = 2009
+|GDP_nominal_per_capita = $4,807<ref name=imf2/>
+|GDP_nominal_per_capita_rank =
+|Gini = 36.5
+|Gini_year = 2006
+|Gini_rank = 58th
+|HDI_year = 2007
+|HDI = {{increase}} 0.787
+|HDI_rank = 86th
+|HDI_category = <span style="color:#fc0;">medium</span>
+|currency = [[Manat (Azerbaijan)|Manat]]
+|currency_code = AZN
+|د وخت سيمه =
+[[د آزربايجان وخت|AZT]] ([[UTC+04]])
+|utc_offset_DST= +5
+|وګړنوم= [[Azerbaijanis]]
+|drives_on = [[Right- and left-hand traffic|right]]
+|cctld = [[.az]]
+|calling_code = [[Telephone numbers in Azerbaijan|994]]
+|پايڅوړونه=
 }}
 
 د '''آذربايجان''' جمهوريت ([[آذربايجاني ژبه|آذربايجاني]]: Azərbaycan يا Azərbaycan Respublikası) په قفقاز کې يو هېواد دی چې د [[اروپا]] او سوېل لوېديځه آسيا په منځلاره کې پروت دی. دا هېواد [[کاسپين سمندر]]ګي سره ساحل لري. دا هېواد په سهېل کې د روسيې سره، د [[جيورجيا]] سره په سهېل لويديځه لورې، د [[ارمنستان]] سره په لويديځه خوا او په سوېل کې د [[ايران]] سره خپلې پولې لري. 
