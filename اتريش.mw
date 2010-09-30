@@ -1,15 +1,13 @@
 {{هېواد-مالوماتبکس|
-ټولګړی نوم 		= Austria|
-ملي نوم		= Republik Österreich|
+ټولګړی نوم 		= اتريش|
+ولسي نوم		= Republik Österreich|
 image_flag = Flag of Austria.svg|
 image_coat = Austria Bundesadler.svg|
 image_map = LocationAustria.svg|
-national_motto 		= none|
-ملي سرود	= [[Land der Berge, Land am Strome]]|
-رسمي ژبه	= [[German language|German]]<br />[[Slovenian language|Slovenian]]&nbsp;([[regional language|reg.]]) [[Croatian language|Croatian]]&nbsp;(reg.) [[Hungarian language|Hungarian]]&nbsp;(reg.)|
-پلازمېنه 		= [[Vienna]] 
-
-
+ولسي ناره 		= none|
+ولسي ترانه	= [[Land der Berge, Land am Strome]]|
+رسمي ژبه	= [[جرمني ژبه|جرمني]]<br />[[سلووېني ژبه|سلوويني]]&nbsp;([[سيمه ايزه ژبه|reg.]]) [[کرواتي ژبه|کرواتي]]&nbsp;(reg.) [[هنګري ژبه|هنګري]]&nbsp;(reg.)|
+پلازمېنه 		= [[ويانا]] 
 |latd=48|latm=12|latNS=N|longd=16|longm=21|longEW=E|
 لوی ښار 		= Vienna |
 د حکومت بڼه	= [[Republic]] |
@@ -32,7 +30,7 @@ HDI_category            = <font color="#009900">high</font>|
 زمکنۍ بشپړتيا	= [[خپلواکي]]|
 established_events 	= From [[Austria-Hungary]]|established_dates=<br />1919|
 پېسه	 	= [[Austrian euro coins|Euro]]&sup1;|currency_code=EUR|
-time_zone 	 	= [[Central European Time|CET]] |utc_offset=+1 |
+د وخت سيمه	 	= [[Central European Time|CET]] |utc_offset=+1 |
 time_zone_DST	 	= [[Central European Summer Time|CEST]] |utc_offset_DST=+2 |
 cctld		 	= [[.at]] |
 پېل ګڼ	 	= 43|
