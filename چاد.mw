@@ -1,55 +1,61 @@
 {{ژباړل}}
 {{هېواد-مالوماتبکس  
-|اصلي نوم = Jumhuriyat Tashad<br />République du Tchad<br />Republic of Chad
-|عام نوم = Chad
-|بېرغ = Flag of Chad.svg
-|نښان =
-|نخشه = LocationChad.png
-|national_motto = Unity - Work - Progress (French: Unité - Travail - Progrès)
-|ملي سرود = [[La Tchadienne]]
-|رسمي ژبه = [[French language|French]]
-|پلازمېنه= [[N'Djamena]]
+|ولسي نوم              = {{lang|fr|''République du Tchad''}}<br/>{{rtl-lang|ar|<big>جمهورية تشاد </big>}}<br/>{{transl|ar|''Jumhūriyyat Tshād''}}
+|اوږد دوديز نوم   = د چاډ جمهوريت
+|ټولګړی نوم              = چاډ
+|image_flag               = Flag of Chad.svg
+|image_coat               = Chad coat of arms.png
+|symbol_type              = Coat of arms
+|image_map                = LocationChad.svg
+|ولسي ناره           = "{{lang|fr|''Unité, Travail, Progrès''}}"{{spaces|2}}<small>([[French language|French]])<br/>"Unity, Work, Progress"</small>
+|ولسي ترانه          = "{{lang|fr|''[[La Tchadienne]]''}}"
+|رسمي ژبې       = [[French language|French]], [[Arabic language|Arabic]]
+|وګړنوم = Chadian
+|پلازمېنه = [[N'Djamena]]
 |latd=12 |latm=06 |latNS=N |longd=15 |longm=02 |longEW=E
-|لوی ښار = [[N'Djamena]]
-|د حکومت بڼه = [[Parliamentary democracy]]
-|د لارښود لقب = [[Heads of state of Chad|ولسمشر]]<br />[[Prime Minister of Chad|لومړی وزير Minister]]
-|د لارښود نوم = [[Idriss Déby]]<br />[[Pascal Yoadimnadji]]
-|area_rank = 21st
-|د مساحت ارتوالی = 1 E12
-|مساحت= 1,284,000
-|areami²= 495,755 <!-- Do not remove per [[WP:MOSNUM]] -->
-|د اوبو سلنه = 1.9%
-|population_estimate = 9,826,419
-|population_estimate_rank = 82nd
-|د وګړو د شمېر د اټکل کال = 2005
-|د وګړو سرشمېرنه = 
-|د وګړو د سرشمېرنې کال = 
-|د وګړو ګڼه ګونه = 7
-|population_densitymi² = 18 <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 180th
-|GDP_PPP = $12,835,000,000
-|GDP_PPP_rank = 128th
-|GDP_PPP_year= 2004
-|GDP_PPP_per_capita = $1,555
-|GDP_PPP_per_capita_rank = 160th
-|زمکنۍ بشپړتيا = [[د چاډ تاريخ|خپلواکي]]
-|established_events = Recognized<br />Constitution
-|established_dates = From [[France]]<br />[[August 11]], [[1960]]<br />[[March 31]], [[1996]]
-|HDI = 0.341
-|HDI_rank = 173rd
-|HDI_year = 2003
-|HDI_category = <font color="#E0584E">low</font>
-|پېسه= [[CFA franc]]
-|د پېسو نښه = XAF
-|هېوادنی کوډ = TCD
-|time_zone = 
-|utc_offset = +1
-|time_zone_DST = 
-|utc_offset_DST = +2
-|cctld = [[.td]]
-|پېل ګڼ = 235
-|footnotes = 
+|لوی ښار             = capital
+|د حکومت بڼه          = [[Parliamentary republic]]
+|leader_title1            = [[Heads of state of Chad|President]]
+|leader_title2            = [[Prime Minister of Chad|Prime Minister]]
+|leader_name1             = [[Idriss Déby]]
+|leader_name2             = [[Emmanuel Nadingar]]
+|area_rank                = 21st
+|area_magnitude           = 1 E12
+|area_km2                 = 1,284,000
+|area_sq_mi               = 495,753 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water            = 1.9
+|population_estimate      = 10,329,208<ref name=cia>{{cite web |author=Central Intelligence Agency |authorlink=Central Intelligence Agency |publisher=[[The World Factbook]]|title=Chad |url=https://www.cia.gov/library/publications/the-world-factbook/geos/cd.html |year=2009|accessdate=January 28, 2010}}</ref>
+|population_estimate_rank = 74th
+|population_estimate_year = 2009
+|population_census        = 6,279,921
+|population_census_year   = 1993
+|population_density_km2   = 8.0
+|population_density_sq_mi = 20.8 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  = 212th
+|GDP_PPP                  = $16.074 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=628&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=38&pr.y=10 |title=Chad|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_year             = 2009
+|GDP_PPP_per_capita       = $1,611<ref name=imf2/>
+|GDP_nominal              = $6.854 billion<ref name=imf2/>
+|GDP_nominal_year         = 2009
+|GDP_nominal_per_capita   = $687<ref name=imf2/>
+|sovereignty_type         = [[History of Chad|Independence]]
+|established_event1       = from [[France]]
+|established_date1        = August 11, 1960
+|HDI                      = {{increase}} 0.392
+|HDI_rank                 = 175th
+|HDI_year                 = 2007
+|HDI_category             = <font color="red">low</font>
+|پېسه = [[Central African CFA franc|CFA franc]]
+|د پېسو نښه            = XAF
+|country_code             = TCD
+|د وخت سيمه                = [[West Africa Time|WAT]]
+|utc_offset               = +1
+|time_zone_DST            = not observed
+|utc_offset_DST           = +1
+|cctld                    = [[.td]]
+|پيل ګڼ             = 235
 }}
+
 The '''Republic of Chad''' ([[Arabic language|Arabic]]: تشاد , ''Tašād''; [[French language|French]]: ''Tchad'') is a [[landlocked]] country in [[central Africa]]. It borders [[ليبيا]] to the north, [[سوډان]] to the east, the [[د افريقا منځنی جمهوريت]] to the south, [[کېمرون]] and [[نايجېريا]] to the southwest and [[نايجېر]] to the west. Due to its distance from the sea and its largely [[desert]] climate, the country is sometimes referred to as the 'dead heart of Africa.' In the north, it contains the [[Tibesti Mountains]], the largest mountain chain in the [[Sahara desert]]. Formerly part of the [[Federation of French Equatorial Africa]], the country shares a relationship with [[Lake Chad]].
 
 == تاريخ ==
