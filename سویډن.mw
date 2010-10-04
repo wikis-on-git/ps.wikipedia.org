@@ -3,59 +3,89 @@
 |ولسي نوم = ''Konungariket Sverige''
 |اوږد دوديز نوم = Kingdom of Sweden
 |ټولګړی نوم = سويډن
-|Flag= Flag of Sweden.svg
-|نښان = Coat of Arms of Sweden.svg
-|symbol_type = Coat of arms
-|نخشه = LocationSweden.png
-|national_motto = ''För Sverige i tiden''<sup>1</sup><br />([[English language|English]]: "For Sweden, with the times")
-|ملي سرود = ''[[Du gamla, du fria]]''<br />("Thou ancient, thou free")
-|رسمي ژبه = None<br />[[Swedish language|Swedish]] de facto<sup>2</sup>
-|پلازمېنه = [[سټوکهولم]]
+|image_flag=Flag of Sweden.svg
+|image_coat=Coat of Arms of Sweden.svg
+|image_map=EU-Sweden.svg
+|map_caption={{map caption|location_color=dark green|region=[[Europe]]|region_color=dark grey|subregion=the [[European Union]]|subregion_color=green|legend=EU-Sweden.svg}}
+|national_motto=<span style="line-height:1.33em;">[[Royal mottos of Swedish monarchs|(Royal)]]&nbsp;"''{{lang|sv|För Sverige i tiden}}''"{{Ref label|aaa|a}}&nbsp;<br /><small>"For Sweden – With the Times"&nbsp;</small></span>
+|national_anthem={{lang|sv|''[[Du gamla, Du fria]]''}}{{Ref label|bbb|b}}<br /><small>''Thou ancient, thou free''</small>
+|royal_anthem={{lang|sv|''[[Kungssången]]''}}<br /><small>''The Song of the King''</small>
+|official_languages=[[Swedish language|Swedish]]{{Ref label|ccc|c}}
+|demonym=[[Swedish people|Swedish]] or [[Swedes]]
+|ethnic_groups=81.9% [[Swedish people|Swedes]]<ref name="SCB Bef">{{cite web|url=http://www.scb.se/Pages/Product____25785.aspx?produktkod=BE0101&displaypressrelease=true&pressreleaseid=257212|title=Befolkningsstatistik|publisher=www.scb.se|accessdate=2009-06-16}}</ref>{{Ref label|ddd|d}}<br />~5% [[Finns]]<ref name="Finns">{{cite web|url=http://www.scb.se/Pages/PressRelease____255905.aspx|title=På lördag kan 440 000 flagga blått och vitt|publisher=www.scb.se|language=Swedish|date=2008-12-05|accessdate=2009-06-16}}</ref><br/>
+~13% [[:Category:Ethnic groups in Sweden|other]] (2009)<ref>{{cite web|url=http://www.scb.se/Pages/TableAndChart____26041.aspx|title=Summary of Population Statistics 1960–2008|publisher=www.scb.se|accessdate=2010-06-03}}</ref><ref>Note that [[Swedish-speaking Finns]] or other Swedish-speakers born outside Sweden might self-identify as ''Swedish'' despite being born abroad. Moreover, people born within Sweden may not be ethnic Swedes.</ref>
+|capital=[[Stockholm]]
 |latd=59|latm=21|latNS=N|longd=18|longm=4|longEW=E
-|لوی ښار = [[سټوکهولم]]
-|د حکومت بڼه = [[Constitutional monarchy|Constitutional&nbsp;monarchy]]
-|leader_title1 = [[Monarch of Sweden|King]]
-|leader_title2 = [[Prime Minister of Sweden|Prime Minister]]
-|leader_name1 = [[Carl XVI Gustaf of Sweden|Carl XVI Gustaf]]
-|leader_name2 = [[Göran Persson]]
-|accessionEUdate = [[January 1]], [[1995]]
-|area_rank = 55th
-|د مساحت ارتوالی= 1 E11
-|مساحت = 449,964
-|areami² = 173,732
-|د اوبو سلنه = 8.67%
-|د وګړو اټکل = 9 072 269 (April 30 2006)
-[http://www.scb.se/default____2154.asp]
-|population_estimate_rank = 85th
-|د وګړو د شمېر د اټکل کال= 2005
-|د وګړو سرشمېرنه= 8,587,353
-|د وګړو د سرشمېرنې کال = 1990
-|د وګړو ګڼه ګونه= 20
-|population_densitymi² = 51
-|population_density_rank = 185th
-|GDP_PPP = $268,3 billion
-|GDP_PPP_rank = 35th
-|GDP_PPP_year = 2005
-|GDP_PPP_per_capita = $29,898
-|GDP_PPP_per_capita_rank = 19th
-|زمکنۍ بشپړتيا = [[Consolidation of Sweden|Consolidation]]
-|sovereignty_note = Prehistoric
-|HDI = 0.949
-|HDI_rank = 6th
-|HDI_year = 2003
-|HDI_category = <font color="#009900">high</font>
-|پېسه = [[سويډني کرون]]
-|د پېسو نښه= SEK
-|هېوادنی کوډ = SWE
-|وخت = [[Central European Time|CET]]
-|utc_offset = +1
-|time_zone_DST = [[Central European Summer Time|CEST]]
-|utc_offset_DST = +2
-|cctld = [[.se]]
-|پيل ګڼ = 46
-|پايڅوړ = <sup>1</sup> ''För Sverige i tiden'' is adopted by Carl XVI Gustaf as his personal motto in his role as Swedish monarch.
-Former king Gustaf VI Adolf's motto was: "Plikten framför allt": "The duty above all"<br />
-<sup>2</sup> The [[Swedish language]] is the ''de facto'' national language. Five languages are [[minority languages in Sweden|officially recognized as minority languages]].
+|largest_city=capital
+|government_type=[[Unitary state|Unitary]] [[parliamentary democracy]] and [[constitutional monarchy]]
+|leader_title1=[[Monarch of Sweden|Monarch]]
+|leader_name1=[[Carl XVI Gustaf of Sweden|King Carl XVI Gustaf]]
+|leader_title2=[[Prime Minister of Sweden|Prime Minister]]
+|leader_name2=[[Fredrik Reinfeldt]] ([[Moderate Party|M]])
+|leader_title3=[[Speaker of the Riksdag|Speaker of<br />the Riksdag]]
+|leader_name3=[[Per Westerberg]] ([[Moderate Party|M]])
+|sovereignty_type=[[Consolidation of Sweden|Consolidation]]
+|sovereignty_note=
+|legislature=[[Swedish Riksdag|Riksdag]]
+|established_event1=[[Kalmar Union|Personal union w. Denmark and Norway]]
+|established_date1=17 June 1397
+|established_event2=''de facto'' independent kingdom
+|established_date2=6 June 1523
+|established_event3=end of Scandinavian union ratified
+|established_date3=1524
+|established_event4=[[Swedish-Norwegian Union]] begins
+|established_date4=4 November 1814
+|established_event5=[[Swedish-Norwegian Union]] ends
+|established_date5=13 August 1905
+|accessionEUdate=1 January 1995
+|EUseats=19
+|area_rank=57th
+|area_magnitude=1 E+11
+|area_km2=449,964
+|area_sq_mi=173,745
+|percent_water=8.7
+|population=
+|population_estimate_rank=88th
+|population_census=9,354,462<ref name="population">{{cite web|url=http://www.scb.se/Pages/Product____25799.aspx|title=Befolkningsstatistik|publisher=Statistiska centralbyrån|accessdate=2010-05-18}}</ref>
+|population_census_year=2009
+|population_density_km2=20.6
+|population_density_sq_mi=53.3
+|population_density_rank=192nd
+|GDP_PPP=$337.893 billion<ref name="imf2">{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=144&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=10&pr.y=12|title=Sweden|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank =
+|GDP_PPP_year=2010
+|GDP_PPP_per_capita=$36,502<ref name="imf2"/>
+|GDP_PPP_per_capita_rank=
+|GDP_nominal=$443.718 billion<ref name="imf2"/>
+|GDP_nominal_rank =
+|GDP_nominal_year=2010
+|GDP_nominal_per_capita=$47,934<ref name="imf2"/>
+|GDP_nominal_per_capita_rank=
+|Gini=23
+|Gini_year=2005
+|Gini_category=<span style="color:#090;">low</span>
+|HDI={{increase}} 0.963<ref>[http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf Human Development Report 2009]. The United Nations. Retrieved 5 October 2009.</ref>
+|HDI_rank=7th
+|HDI_year=2007
+|HDI_category=<span style="color:#090;">very&nbsp;high</span>
+|currency=[[Swedish krona]]
+|currency_code=SEK
+|country_code=SWE
+|time_zone=[[Central European Time|CET]]
+|utc_offset=+1
+|time_zone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|date_format=yyyy-mm-dd
+|drives_on=right{{Ref label|eee|e}}
+|cctld=[[.se]]{{Ref label|fff|f}}
+|calling_code=[[Telephone numbers in Sweden|46]]
+|پايڅوړونه=
+a. {{note|aaa}} {{lang|sv|''För Sverige – I tiden''}} has been adopted by Carl XVI Gustaf as his personal motto.<br />
+b. {{note|bbb}} {{lang|sv|''[[Du gamla, Du fria]]''}} has never been officially adopted as national anthem, but is so by convention.<br />
+c. {{note|ccc}} Since 1 July 2009.<ref name="Swedish">{{cite web|url=http://www.sprakforsvaret.se/sf/fileadmin/PDF/spraklagen_200509.pdf|title=Språklagen|date=2009-07-01|work=Språkförsvaret|language=Swedish|accessdate=2009-07-15}}</ref><ref name="Swedish2">{{cite web|url=http://www.thelocal.se/20404/20090701/|title=Swedish becomes official 'main language'|last=Landes|first=David|date=2009-07-01|work=The Local|publisher=thelocal.se|accessdate=2009-07-15}}</ref> Five other languages are [[Minority languages of Sweden|officially recognized as minority languages]].<ref>{{cite web|url=http://www.sprakradet.se/servlet/GetDoc?meta_id=2119#item100400|title=Är svenskan också officiellt språk i Sverige?|publisher=Språkrådet (Language Council of Sweden)|date=2008-02-01|accessdate=2008-06-22|language=Swedish}}</ref> They are: [[Finnish language|Finnish]], [[Meänkieli]], [[Romani language|Romani]], [[Sami languages|Sami]] and [[Yiddish language|Yiddish]]. The [[Swedish Sign Language]] also has a special status.<br />
+d. {{note|ddd}} As of 2008, 18% of the population had foreign origins (13% if excluding Finns and 9% if also excluding other Scandinavians), with 14% foreign-born and another 4% born in Sweden of two foreign-born parents.<ref>[http://www.scb.se/Pages/TableAndChart____26041.aspx Summary of Population Statistics 1960 – 2008 – Statistics Sweden] (proportion of foreign background, including foreign-born and Swedish-born with two foreign-born parents)</ref><br />
+e. {{note|eee}} Since [[Dagen H|3 September 1967]].
+f. {{note|fff}} The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states. The [[.nu]] domain is another commonly used top-level domain ("nu" means "now" in Swedish).
 }}
 
 The '''Kingdom of Sweden''' ([[Swedish language|Swedish]]: ''{{Audio|sv-Konungariket_Sverige.ogg|Konungariket Sverige}}'') is a [[Nordic countries|Nordic country]] in [[Scandinavia]]. It is bordered by [[Norway]] in the west, [[Finland]] in the northeast, the [[Skagerrak]] Strait and the [[Kattegat]] Strait in the southwest, and the [[Baltic Sea]] and the [[Gulf of Bothnia]] in the east. Sweden has a low [[population density]] except in its [[:Category:Metropolitan areas of Sweden|metropolitan areas]], with most of the inland consisting of [[forest]]s. The country has large natural resources of water, timber, and iron ore. Its citizens enjoy a high standard of living in a country that is generally perceived as clean, modern, and liberal.
