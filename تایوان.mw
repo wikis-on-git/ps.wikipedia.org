@@ -1,52 +1,96 @@
 {{هېواد-مالوماتبکس|
-|ملي نوم = <br /> 
-|ټولګړی نوم = 
-|image_flag=Flag of the Republic of China.svg
-|image_coat=Republic of China National Emblem.svg
-|image_map=Locator map of the ROC Taiwan.svg
-|ملي ناره =<span style="line-height:1.33em;"><br/></span>
- 
-|ملي سرود = 
-|رسمي ژبه/ژبې = چینی ژبه
-|پلازمېنه= 
-|latd=41 |latm=16 |latNS=N |longd=69 |longm=13 |longEW=E |
-|لوی ښار = 
-|د حکومت بڼه = [[جمهوریت]]
-|د لارښود لقب = [[د  ولسمشر|ولسمشر]]<br />[[د  لومړی وزير|لومړی وزير]]
-|د لارښود نوم = br />
-|area_rank = 
-|د مساحت ارتوالی = 
-|مساحت= 
-|د اوبو سلنه = 
-|population_estimate = 
-|population_estimate_rank = 7 th
-|د وګړو د شمېر د اټکل کال= 
-|د وګړو سرشمېرنه= 
-|د وګړو د سرشمېرنې کال = 
-|د وګړو ګڼه ګونه = 
-|population_density_rank = 
-|GDP_PPP = 
-|GDP_PPP_rank = 
-|GDP_PPP_year= 
-|GDP_PPP_per_capita = 
-|GDP_PPP_per_capita_rank = 154th
-|زمکنۍ بشپړتيا = 
-|established_events = Declared<br />Recognized<br />Formation
-||HDI = 
-|HDI_rank = 
-|HDI_year = 2003
-|HDI_category = <font color="#FFCC00">medium</font>
-|پېسه= 
-|د پېسو نښه = 
-|هېوادنی کوډ = 
-|time_zone = 
-|utc_offset = 
-|time_zone_DST = 
-|utc_offset_DST = 
-|cctld = 
-|پېل ګڼ = 
-|footnotes = 
+|native_name = {{lang|zh-Hant|中華民國}}<br />''Zhōnghuá Mínguó''<!-- Do not change to "Jhonghua Minguo" (i.e. Tongyong pinyin) because Hanyu pinyin is the official romanization from 1 January 2009. -->
+|conventional_long_name = Republic of China
+|common_name = Taiwan
+|image_flag = Flag of the Republic of China.svg
+|alt_flag = A red flag, with a small blue rectangle in the top left hand corner on which sits a white sun composed of a circle surrounded by 12 rays.
+|image_coat = Republic of China National Emblem.svg
+|symbol_type = Emblem
+|alt_coat = A blue circular emblem on which sits a white sun composed of a circle surrounded by 12 rays.
+|image_map = Locator map of the ROC Taiwan.svg
+|map_caption = depicting only the [[Free Area of the Republic of China]]
+|national flower = plumflower.jpg
+|alt_map = A map depicting a relatively small island in East Asia.
+|national_anthem = <center>[[File:National Anthem of the ROC instrumental.ogg]]</center><br />“[[National Anthem of the Republic of China]]”<br />《中華民國國歌》
+<br> <center>[[File:National Flag Anthem of the ROC instrumental.ogg]]</center><br />“[[National Flag Anthem]]”<br />《中華民國國旗歌》
+|capital = [[Taipei]]<ref name="capital">{{Cite web| title = Yearbook 2004| publisher = Government Information Office of the Republic of China| series = Yearbook| year = 2004| quote = Taipei is the capital of the ROC| url = http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/2004/P045.htm}}</ref>{{Ref label|taipeinote|a|}}<ref>After December 25, 2010, the largest city of the Republic of China will become Xinbei City, which is now Taipei County.</ref>
+|latd=25 |latm=02 |lats=00 |latNS=N
+|longd=121 |longm=38 |longs=00 |longEW=E
+|largest_city = capital
+<!---only Mandarin is the official language, others are regional languages, per http://www.gio.gov.tw/ct.asp?xItem=35570&ctNode=4101 ---->
+|official_languages = [[Standard Mandarin]]<ref>{{Cite web|url=http://www.britannica.com/EBchecked/topic/580902/Taiwan |title=Taiwan (self-governing island, Asia)|publisher=Britannica Online Encyclopedia |date=1975-04-05 |accessdate=2009-05-07}}</ref>
+|languages_type = [[Official script]]s
+|languages = [[Traditional Chinese]]
+|regional_languages = [[Taiwanese Hokkien]]<br />[[Hakka Chinese]]<br />[[Formosan languages]]<ref>{{Cite web|url=http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/ch02.html|title=The Republic of China Yearbook 2009. Chapter 2&nbsp;– People and Language|date=2009|publisher=Government Information Office|accessdate=2 May 2010}}</ref>
+|government_type = [[Semi-presidential system|Semi-presidential]] [[republic]]
+|leader_title1 = [[President of the Republic of China|President]]
+|leader_name1 = [[Ma Ying-jeou]]
+|leader_title2 = [[Vice President of the Republic of China|Vice President]]
+|leader_name2 = [[Vincent Siew]]
+|legislature = [[Legislative Yuan]]
+|area_km2 = 36,191
+|area_sq_mi = 13,974
+|area_rank = 136th
+|area_magnitude = 1 E10
+|percent_water = 10.34
+|population_estimate = 23,119,772<ref name="taiwan-popstat">[http://www.stat.gov.tw/mp.asp?mp=4 MOI Statistical Information Service]</ref>{{Ref label|popnote|b|}}
+|population_estimate_year = 2009
+|population_estimate_rank = 50th
+|population_density_km2 = 637.4
+|population_density_sq_mi = 1,650.8
+|population_density_rank = 15th
+|demonym = [[Taiwanese people|Taiwanese]]<ref>{{Cite web|url=http://www.gio.gov.tw/taiwan-website/5-gp/relief/help_41.htm |title=The ROC's Humanitarian Relief Program for Afghan Refugees |publisher=Gio.gov.tw |date=2001-12-11 |accessdate=2009-05-07 |archiveurl = http://web.archive.org/web/20041215030432/http://www.gio.gov.tw/taiwan-website/5-gp/relief/help_41.htm |archivedate = December 15, 2004}}</ref><ref>{{Cite web|url=http://www.gio.gov.tw/taiwan-website/4-oa/20051111/2005111101.html |title=Taiwanese health official invited to observe bird-flu conference |publisher=Gio.gov.tw |date=2005-11-11 |accessdate=2009-05-07}}</ref><ref>{{Cite web|url=http://geography.about.com/library/weekly/aa030900a.htm |title=Demonyms&nbsp;– Names of Nationalities |publisher=Geography.about.com |accessdate=2009-05-07}}</ref> or [[Chinese people|Chinese]]<ref>Although the territories controlled by the ROC imply that the demonym is "Taiwanese", some consider that it is "Chinese" due to the claims of the ROC over China. Taiwanese people have various opinions regarding their own [[#National identity|national identity]].</ref> or both
+|GDP_PPP = $735.997 billion<ref name=imf2>{{Cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=528&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=78&pr.y=8 |title=Republic of China (Taiwan)|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank =
+|GDP_PPP_year = 2009
+|GDP_PPP_per_capita = $31,834<ref name=imf2/>
+|GDP_PPP_per_capita_rank =
+|GDP_nominal = $378.969 billion<ref name=imf2/>
+|GDP_nominal_rank =
+|GDP_nominal_year = 2009
+|GDP_nominal_per_capita = $16,391<ref name=imf2/>
+|GDP_nominal_per_capita_rank =
+|sovereignty_type = [[History of the Republic of China|Establishment]]
+|sovereignty_note = [[Xinhai Revolution]]
+|established_event1 = [[Wuchang Uprising]]
+|established_date1 = 10 October 1911
+|established_event2 = Republic established
+|established_date2 = 1 January 1912
+|established_event3 = [[Taiwan under Japanese rule#Surrender ceremony|End of Japanese rule in Taiwan]]
+|established_date3 = 25 October 1945
+|established_event4 = [[Constitution of the Republic of China|Constitution]]
+|established_date4 = 25 December 1947
+|established_event5 = [[Taiwan after World War II#From authoritarianism to democracy|Government relocated to Taipei]]
+|established_date5 = 7 December 1949
+|HDI = {{increase}} 0.943&nbsp;<ref name="hdi">Due to [[Political status of the Republic of China|its political status]], the [[United Nations|UN]] has not calculated an [[Human Development Index|HDI]] for the ROC. The ROC government calculated its HDI for 2007 to be 0.943,&nbsp;[http://www.dgbas.gov.tw/public/Data/910616273671.pdf] and would rank 25th among countries.</ref>
+|HDI_year = 2007
+|HD1_rank = unranked
+|HDI_category = {{color|green|Very high}}
+|Gini=34.1 <ref>Regularly check CIA factbook or {{Cite journal|url=http://eng.stat.gov.tw/public/data/dgbas03/bs4/ninews_e/9808/t14e.xls |title= Household Income distribution of major countries}}</ref>
+|Gini_year=2008
+|Gini_category=<span style="color:#fc0;">medium</span>
+|currency = [[New Taiwan dollar]] (NT$)
+|currency_code = TWD
+|country_code = TPE
+|time_zone = [[Chungyuan Standard Time|CST]]
+|utc_offset = [[UTC+8|+8]]
+|time_zone_DST = not observed
+|utc_offset_DST = [[UTC+8|+8]]
+|date_format = yyyy-mm-dd <br /> yyyy年m月d日 <br /> ([[Common Era|CE]]; [[Chinese calendar|CE+2697]]) ''or'' [[Minguo calendar|民國yy年m月d日]]
+|drives_on = right
+|cctld = [[.tw]], [[.台灣]],<ref>{{Cite web
+ |url=http://brussels38.icann.org/meetings/brussels2010/transcript-board-25jun10-en.txt
+ |title=ICANN Board Meeting Minutes
+ |publisher=ICANN
+ |date=25 June 2010 }}</ref> [[.台湾]]
+|calling_code = [[+886]]
+|footnotes =
+a. {{note|taipeinote}} Nanjing was the seat of the government from 1928 until 1949, when the government retreated to Taipei.<br />
+b. {{note|popnote}} Population and density ranks based on 2008 figures.
 }}
+
+
+
 '''د چین جمهوریت یا تایوان''' ( په چینی: Zhong Hua Min Guo  中華民國  ) یو د ټاپو دولت دی چی د جنوب ختیځ په آسیا کی پروت دی. پایتخت یی ټای پی ( Tai Pei ) دی د تایوان مساحت ۳۶۰۰۰ کلومترو مربع ده.تایوان تقریبا ۲۱۱۵۰۰۰۰ نفوس لری.د یی شان غر د تایوان تر ټولو لوی غر دی. لوړوالی یی ۳۹۹۷ مترو ده.
 ==تاریخ==
 په ۳ پیړۍ کی د چین پوڅ تایوان ته ورسیده  او په تایوان کی یی یوه اډه  جوړه شوه. دغه ټاپو په ۱۳ پیړۍ کی د چین ولایت شو.
