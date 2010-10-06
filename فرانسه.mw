@@ -1,57 +1,118 @@
 {{هېواد-مالوماتبکس|
-|اصلي نوم =<br />|conventional_long_name = 
-|عام نوم = 
-|image_flag          =
-|image_coat          = 
-|image_map           = 
-|national_motto = 
-|ملي سرود = 
-|رسمي ژبه = 
-|پلازمېنه =
-|latd=32 |latm=54 |latNS=N |longd=13 |longm=11 |longEW=E |
-|لوی ښار = 
-|د حکومت بڼه = 
-|leader_title1 = 
-|
-|leader_name1 =
-|leader_name2 = 
-|area_rank = 17th
-|د مساحت ارتوالی = 
-|مساحت = 
-|areami²= 679,182  <!-- Do not remove per [[WP:MOSNUM]] -->
-|د اوبو سلنه = .
-|population_estimate =
-|د وګړو د شمېر د اټکل کال = 
-|population_estimate_rank = 
-|د وګړو سرشمېرنه = <sup>2</sup>  
-|د وګړو د سرشمېرنې کال = 
-|د وګړو ګڼه ګونه = 
-|population_densitymi² =8.5  <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 
-|GDP_PPP_year= 
-|GDP_PPP = 
-|GDP_PPP_rank = 
-|GDP_PPP_per_capita = 
-|GDP_PPP_per_capita_rank = 
-|HDI_year = 
-|HDI = 
-|HDI_rank = 
-|HDI_category = <font color="#FFCC00">medium</font> |
-|sovereignty_type = [[Independence]]
-|sovereignty_note = 
-|established_event1 = Date
-|established_date1 =  
-|currency_code = 
-|country_code = 
-|time_zone = [[Eastern European Time|EET]]
-|utc_offset = 
-|time_zone_DST = ''not observed''
-|utc_offset_DST = 
-|cctld = 
-|calling_code = 
-|footnotes=  
-<sup>1</sup> Includes 166,510 non-nationals <br /> 
-<sup>2</sup> [http://en.ljbc.net/lypop2004.htm Libyan 2004 census figures] Accessed [[June 29]] [[2006]] 
+|native_name            = ''République française''{{Spaces|2}}<small>{{Fr icon}}</small><ref>The country's long name in its [[Languages of France|regional languages]] include:
+*{{lang-gsw|Französisch Republik}};
+*{{lang-eu|Frantziako Errepublika}};
+*{{lang-br|Republik C'hall}};
+*{{lang-ca|República Francesa}};
+*{{lang-co|Republica Francese}};
+*{{lang-nl|Franse Republiek}};
+*{{lang-vls|Fransche Republiek}};
+*{{lang-frp|Rèpublica francêsa}};
+*{{lang-de|Französische Republik}};
+*[[Norman language|Norman]]: ''Républyique fraunceise'';
+*{{lang-oc|Republica Francesa}};
+*[[Picard language|Picard]]: ''République franchoèse''</ref>
+|conventional_long_name = French Republic
+|common_name            = France
+|official_languages     = [[French language|French]]
+|languages_type = Regional languages<br>(both official<br>and not official)
+|languages     = {{Collapsible list|title={{nbsp}} |[[Alsatian language|Alsatian]]; [[Basque language|Basque]]; [[Breton language|Breton]]; [[New Caledonian languages]]{{Smallsup|2}}; [[Catalan language|Catalan]]; [[Corsican language|Corsican]]; [[Creole language|Creoles]]{{Smallsup|2}}; [[West Flemish language|Flemish]]; [[Franco-Provençal language|Franco-Provençal]]; [[Lorrain language]]; [[Shimaore dialect]] (Mayotte){{Smallsup|2}}; [[Occitan language|Occitan]]; [[Oïl languages]]; [[Tahitian language|Tahitian]]{{Smallsup|2}}<ref>{{fr}} {{cite web|author=Ministère de la culture et de la communication – Délégation générale à la langue française et aux langues de France |url=http://www.culture.gouv.fr/culture/dglf/lang-reg/methodes-apprentissage/1langreg.htm |title=DGLF – Langues régionales et " trans-régionales " de France |publisher=Culture.gouv.fr |date= |accessdate=27 January 2010}}</ref>}}
+|demonym                = French
+|national_motto         = ''[[Liberté, égalité, fraternité|Liberté, Égalité, Fraternité]]''<br />(Liberty, Equality, Fraternity)
+|national_anthem        = ''[[La Marseillaise]]''
+|image_flag             = Flag of France.svg
+|image_coat             = Armoiries république française.svg
+|symbol_type            = National Emblem (unofficial)
+|image_map              = EU-France.svg
+|map_caption = {{map_caption |location_color=dark green |country='''[[Metropolitan France]]''' |region=Europe |region_color=dark grey |subregion = the European Union |subregion_color=green |legend=EU-France.svg}}
+|image_map2             = Outre-mer en sans Terre Adelie.png
+|map_caption2           = <p style="margin-top:0;margin-bottom:-2px;line-height:1em;"><span style="font-size:11px;">Territory of the '''French Republic''' in the world<br />(excl. Antarctica where sovereignty is suspended)</span>
+|ethnic_groups= ~85% [[French people|French]] (included ~15% people with at least one ancestor from other [[Genetic history of Europe|European]] countries),<br> 
+                ~15% other ([[Arab people|Arab]], [[Berber people|Berber]], [[Black people in France|Black]], [[Asian people|Asian]], [[Multiracial]]...)|
+|capital                = [[Paris]]
+|latd                   = 48
+|latm                   = 51.4
+|latNS                  = N
+|longd                  = 2
+|longm                  = 21.05
+|longEW                 = E
+|largest_city           = capital
+|government_type        = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[republic]]
+|leader_title1          = [[President of France|President]]
+|leader_title2          = [[Prime Minister of France|Prime Minister]]
+|leader_name1           = [[Nicolas Sarkozy]] ([[Union for a popular movement|UMP]])
+|leader_name2           = [[François Fillon]] ([[Union for a popular movement|UMP]])
+|legislature            = [[Parliament of France|Parliament]]
+|upper_house            = [[Senate of France|Senate]]
+|lower_house            = [[National Assembly of France|National Assembly]]
+|sovereignty_type       = [[History of France|Formation]]
+|sovereignty_note       =
+|established_event1 = Traditional date
+|established_event2 = Western Francia
+|established_event3 = [[Constitution of France|Current&nbsp;constitution]]
+|established_date1 = 496 (baptism of [[Clovis I|Clovis]])
+|established_date2 = 10 August 843 ([[Treaty of Verdun]])
+|established_date3 = 5 October 1958 ([[French Fifth Republic|5th Republic]])
+|accessionEUdate        = 25 March 1957
+|EUseats                = 78
+|FR_metropole           = [[Metropolitan France|Metropolitan&nbsp;France]]
+|FR_IGN_area_km2        = 551695
+|FR_IGN_area_rank       = 47th
+|FR_IGN_area_magnitude      = 1 E11
+|FR_cadastre_area_magnitude = 1 E11
+|FR_IGN_area_sq_mi          = 213010
+|FR_cadastre_area_km2       = 543965
+|FR_cadastre_area_rank      = 47th
+|FR_cadastre_area_sq_mi     = 210026
+|area_km2                   = 674843
+|area_sq_mi                 = 260558 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank                  = 43rd
+|area_magnitude             = 1 E11
+|FR_foot                    = <ref name=whole_territory>Whole territory of the French Republic, including all the overseas departments and [[Overseas territory (France)|territories]], but excluding the French territory of Terre Adélie in Antarctica where sovereignty is suspended since the signing of the [[Antarctic Treaty]] in 1959.</ref>
+|FR_foot2                   = <ref name=IGN_figure>{{fr}} French [[Institut Géographique National|National Geographic Institute]] data.</ref>
+|FR_foot3                   = <ref name=cadastre_figure>French [[Land Register]] data, which exclude lakes, ponds and [[glacier]]s larger than 1&nbsp;km² (0.386&nbsp;sq&nbsp;mi or 247&nbsp;acres) as well as the estuaries of rivers.</ref>
+|FR_foot4                   = <ref name=whole_territory />
+|FR_foot5                   = <ref name=metropolitan_France>[[Metropolitan France]] only.</ref>
+|FR_total_population_estimate          = 65,447,374<ref name=population />
+|FR_total_population_estimate_year     = 1 January 2010 estimate
+|FR_total_population_estimate_rank     = 20th
+|FR_metropole_population               = 62,793,432<ref>{{fr}} {{cite web|url=http://www.insee.fr/fr/themes/detail.asp?reg_id=0&ref_id=bilan-demo&page=donnees-detaillees/bilan-demo/pop_age2.htm|title=Population totale par sexe et âge au 1er janvier 2010, France métropolitaine|first=[[Government of France]]|last=[[INSEE]]|accessdate=19 January 2010}}</ref>
+|FR_metropole_population_estimate_rank = 22nd
+|population_density_km2                = 115
+|population_density_sq_mi              = 299 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank               = 89th
+|GDP_nominal                           = $2.676 trillion<ref name=imf2/>
+|GDP_nominal_rank                      =
+|GDP_nominal_year                      = 2009
+|GDP_nominal_per_capita                = $42,747<ref name=imf2/>
+|GDP_nominal_per_capita_rank           =
+|GDP_PPP_year                          = 2009
+|GDP_PPP                               = $2.108 trillion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=132&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=22&pr.y=10 |title=France|publisher=International Monetary Fund|accessdate=21 April 2010}}</ref>
+|GDP_PPP_rank                          =
+|GDP_PPP_per_capita                    = $33,678<ref name=imf2/>
+|GDP_PPP_per_capita_rank               =
+|Gini                                  = 32.7<ref name = France/>
+|Gini_year                             = 2008
+|HDI_year                              = 2007
+|HDI                                   = {{increase}} 0.961<ref>[http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf Human Development Report 2009]. The United Nations. Retrieved 5 October 2009.</ref>
+|HDI_rank                              = 8th
+|HDI_category                          = <span style="color:#090;">very&nbsp;high</span>
+|currency                              = [[Euro]],<ref>Whole of the French Republic except the overseas territories in the Pacific Ocean.</ref> [[CFP Franc]]<ref>French overseas territories in the Pacific Ocean only.</ref><br />&nbsp;
+|currency_code                         = EUR,{{Spaces|4}}XPF
+|time_zone                             = CET<ref name=metropolitan_France />
+|utc_offset                            = +1
+|time_zone_DST                         = CEST<ref name=metropolitan_France />
+|utc_offset_DST                        = +2
+|drives_on                             = right
+|cctld                                 = [[.fr]]<ref>In addition to [[.fr]], several other Internet TLDs are used in French overseas ''départements'' and territories: [[.re]], [[.mq]], [[.gp]], [[.tf]], [[.nc]], [[.pf]], [[.wf]], [[.pm]], [[.gf]] and [[.yt]]. France also uses [[.eu]], shared with other members of the European Union. The [[.cat]] domain is used in [[Catalan Countries|Catalan-speaking territories]].</ref>
+|calling_code                          = [[Telephone numbers in France|33]]{{Smallsup|1}}
+|ISO_3166-1_alpha2                     =
+|ISO_3166-1_alpha3                     = FRA
+|ISO_3166-1_numeric                    =
+|sport_code                            = FRA
+|vehicle_code                          = F
+|footnote1                             = The overseas regions and collectivities form part of the [[French telephone numbering plan]], but have their own country calling codes: [[Guadeloupe]] +590; [[Martinique]] +596; [[French Guiana]] +594, [[Réunion]] and [[Mayotte]] +262; [[Saint Pierre et Miquelon]] +508. The overseas territories are not part of the French telephone numbering plan; their country calling codes are: [[New Caledonia]] +687, [[French Polynesia]] +689; [[Wallis and Futuna]] +681
+|footnote2                             = Spoken mainly in overseas territories
 }}
 
 
