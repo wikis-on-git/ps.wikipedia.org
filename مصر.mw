@@ -1,55 +1,60 @@
-:''دا ليکنه د مصر د هېواد په اړه ده. د لرغوني مصري تمدن په اړه ليکنه تاسو د [[لرغونی مصر]] تر سرليک لاندې لوستلی شی''
-{{Infobox_Country|
-|اصلي نوم = جمهوريّة مصر العربيّة<br />د مصر عربي جمهوريت
-|عام نوم = مصر
-|بېرغ = Flag of Egypt.svg
-|نښان = Coat of arms of Egypt.png
-|نخشه = LocationEgypt.png
+{{هېواد-مالوماتبکس|
+|اصلي نوم =''' الجمهورية الجزائرية الديمقراطية الشّعبية'''<br />''al Jumhuriyya al Jazā'iriyya ad-
+|conventional_long_name = 
+|عام نوم = ليبيا
+|image_flag          = Flag of Egypt.svg
+
+|image_coat          = Egypt Coat of Arms.svg
+|image_map           = Egypt (orthographic projection).svg
 |national_motto = 
-|ملي سرود = [[Bilady, Bilady, Bilady]]
-|رسمي ژبه= [[عربي ژبه|عربي]]
-|پلازمېنه= [[قاهره]]
-|latd=30 |latm=2 |latNS=N |longd=31 |longm=13 |longEW=E |
-|لوی ښار= [[قاهره]]
-|د حکومت بڼه= [[جمهوريت]]
-|د لارښود لقب= [[President of Egypt]]<br />[[Prime Minister of Egypt]]
-|د لارښود نوم = [[حسن مبارک]]<br />[[احمد نظیف]]
-|مساحتي وېش= 30th
-|د مساحت ارتوالی = 1 E12
-|مساحت= 1,001,450
-|areami²= 386,560 <!--Do not remove per [[WP:MOSNUM]] -->
-|د اوبو سلنه = 0.6
-|د وګړو اټکل= 77,505,756
-|د وګړو د شمېر د اټکل کال= 2005
-|population_estimate_rank = 15th
-|د وګړو سرشمېرنه= 
+|ملي سرود = 
+|رسمي ژبه = عربی ژبه
+|پلازمېنه = القاهره
+|latd=32 |latm=54 |latNS=N |longd=13 |longm=11 |longEW=E |
+|لوی ښار = القاهره
+|د حکومت بڼه = 
+| = Leader
+|leader_title2 = 
+|area_rank = 17th
+|د مساحت ارتوالی =  
+|مساحت = 
+|areami²= 679,182  <!-- Do not remove per [[WP:MOSNUM]] -->
+|د اوبو سلنه = 
+|population_estimate = <sup>1</sup>
+|د وګړو د شمېر د اټکل کال = 
+|population_estimate_rank = 
+|د وګړو سرشمېرنه = <sup>2</sup>  
 |د وګړو د سرشمېرنې کال = 
-|د وګړو ګڼه ګونه = 77
-|population_densitymi² = 199 <!--Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 93rd
-|GDP_PPP_year= 2004
-|GDP_PPP = $282,333,000,000
-|GDP_PPP_rank = 31st
-|GDP_PPP_per_capita = $4,072
-|GDP_PPP_per_capita_rank = 115th
-|زمکنۍ بشپړتيا = [[د مصر تاريخ|Establishment]]
-|established_events = Unification by King Narmer<br />Independence Granted<br />Republic Declared
-|established_dates = <br />c. [[3200 BC]]<br />[[February 28]], [[1922]]<br />[[June 18]], [[1953]]
-|HDI_year = 2003
-|HDI = 0.659
-|HDI_rank = 119th
-|HDI_category = <font color="#FFCC00">medium</font>
-|پېسه = [[مصري پونډ]] (LE)
-|د پېسو نښه = EGP
-|هېوادنی کوډ= EGY
-|وخت = [[Eastern European Time|EET]]
-|utc_offset = +2
-|time_zone_DST = [[Eastern European Summer Time|EEST]]
-|utc_offset_DST = +3
-|cctld = [[.eg]]
-|پېل ګڼ = 20
-|footnotes = 
+|د وګړو ګڼه ګونه = 
+|population_densitymi² =8.5  <!-- Do not remove per [[WP:MOSNUM]] -->
+|population_density_rank = 
+|GDP_PPP_year= 
+|GDP_PPP = 
+|GDP_PPP_rank = 
+|GDP_PPP_per_capita = 
+|GDP_PPP_per_capita_rank = 
+|HDI_year = 
+|HDI = 
+|HDI_rank = 
+|HDI_category = <font color="#FFCC00">medium</font> |
+|sovereignty_type = 
+|sovereignty_note = 
+|established_event1 = Date
+|established_date1 = 
+|currency = [[Libyan dinar|Dinar]]
+|currency_code = LYD
+|country_code = ly
+|time_zone = [[Eastern European Time|EET]]
+|utc_offset = 
+|time_zone_DST = ''not observed''
+|utc_offset_DST = 
+|cctld = 
+|calling_code = 
+|footnotes=  
+<sup>1</sup> Includes 166,510 non-nationals <br /> 
+<sup>2</sup> [http://en.ljbc.net/lypop2004.htm Libyan 2004 census figures] Accessed [[June 29]] [[2006]] 
 }}
+
 
 د مصر جمهوری دولت، چې په انګرېزۍ کې ورته [[egypt]] وایي، د شمالي افریقا عربي هېواد دی. ددې هېواد تقریبا ټوله برخه په افریقا لویه وچه کې موقعیت لري. د سینا سارا او سویز کانال یو څه برخه یې په اسیا کې موقعیت لري.
 
