@@ -1,54 +1,121 @@
 {{هېواد-مالوماتبکس|
-|ملي نوم = <br /> 
-|ټولګړی نوم = د خلکو جمهوري چين
-|image_flag=Flag of the People's Republic of China.svg
-|image_coat=National Emblem of the People's Republic of China.svg
-|image_map=People's Republic of China (orthographic projection).svg
-|ملي ناره =<span style="line-height:1.33em;"><br/></span>
- 
-|ملي سرود = 
-|رسمي ژبه/ژبې = چینی ژبه
-|پلازمېنه= 
-|latd=41 |latm=16 |latNS=N |longd=69 |longm=13 |longEW=E |
-|لوی ښار = 
-|د حکومت بڼه = [[جمهوریت]]
-|د لارښود لقب = [[د  ولسمشر|ولسمشر]]<br />[[د  لومړی وزير|لومړی وزير]]
-|د لارښود نوم = br />
-|area_rank = 
-|د مساحت ارتوالی = 
-|مساحت= 
-|د اوبو سلنه = 
-|population_estimate = 
-|population_estimate_rank = 7 th
-|د وګړو د شمېر د اټکل کال= 
-|د وګړو سرشمېرنه= 
-|د وګړو د سرشمېرنې کال = 
-|د وګړو ګڼه ګونه = 
-|population_density_rank = 
-|GDP_PPP = 
-|GDP_PPP_rank = 
-|GDP_PPP_year= 
-|GDP_PPP_per_capita = 
-|GDP_PPP_per_capita_rank = 154th
-|زمکنۍ بشپړتيا = 
-|established_events = Declared<br />Recognized<br />Formation
-||HDI = 
-|HDI_rank = 
-|HDI_year = 2003
-|HDI_category = <font color="#FFCC00">medium</font>
-|پېسه= 
-|د پېسو نښه = 
-|هېوادنی کوډ = 
-|time_zone = 
-|utc_offset = 
-|time_zone_DST = 
-|utc_offset_DST = 
-|cctld = [[.uz]]
-|پېل ګڼ = 
-|footnotes = 
+|native_name = <center>中华人民共和国<small>{{Ref label |names|a|}}</small><br /><center>''Zhōnghuá Rénmín Gònghéguó''</center>
+|conventional_long_name = People's Republic of China
+|common_name = China
+|image_flag = Flag of the People's Republic of China.svg
+|image_coat = National Emblem of the People's Republic of China.svg
+|symbol_type = Emblem
+|image_map = People's Republic of China (orthographic projection).svg
+|map_width = 220px
+|map_caption = PRC-administered areas in dark green;<br />PRC territorial claims in light green
+|national_anthem = <center>[[File:March of the Volunteers instrumental.ogg]]</center><br />“[[March of the Volunteers]]”<br />《义勇军进行曲》<br />"Yìyǒngjūn Jìnxíngqǔ"
+|official_languages = {{nobr|[[Standard Mandarin]]<ref name="langlaw">{{Cite web|url=http://www.gov.cn/english/laws/2005-09/19/content_64906.htm |title=Law of the People's Republic of China on the Standard Spoken and Written Chinese Language (Order of the President No.37) |publisher=Gov.cn |date= |accessdate=27 April 2010}}</ref>}}
+|languages_type = [[Official script]]s
+|languages = [[Simplified Chinese characters|Simplified Chinese]]<ref name="langlaw"/>
+|regional_languages = {{nobr|''See [[Languages of China]]''}}
+|ethnic_groups = 92% [[Han Chinese|Han]]; 55 recognised minorities<br />{{Collapsible list|title=[[List of ethnic groups in China|List of ethnic groups]]|91.6% [[Han Chinese|Han]]|1.30% [[Zhuang people|Zhuang]]|0.86% [[Manchu]]|0.79% [[Uyghur people|Uyghur]]|0.79% [[Hui people|Hui]]|0.72% [[Miao people|Miao]]|0.65% [[Yi people|Yi]]|0.62% [[Tujia]]|0.47% [[Ethnic Mongols in China|Mongol]]|0.44% [[Tibetan people|Tibetan]]|0.26% [[Buyei]]|0.15% [[Koreans in China|Korean]]|1.05% other}}
+|capital = [[Beijing]]
+|latd=39 |latm=55 |latNS=N |longd=116 |longm=23 |longEW=E
+|largest_city = [[Shanghai]]
+|demonym = Chinese<!--
+NOTE: Describing the PRC's *GOVERNMENT TYPE* has been a contentious issue.
+PLEASE READ THE ARCHIVES of past discussions BEFORE MAKING/SUGGESTING CHANGES!
+-->|government_type = [[People's republic]],<ref name="pplrepub">{{cite encyclopedia
+ |encyclopedia=Encyclopaedia Britannica
+ |title=China
+ |url=http://www.britannica.com/EBchecked/topic/111803/China
+ |accessdate=15 March 2010
+ |quote=Form of government: single-party people's republic with one legislative house}}</ref><br />[[Communist state]],<ref>{{Cite web
+ |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html
+ |title=CIA - The World Factbook -- China
+ |work=The World Factbook
+ |publisher=Central Intelligence Agency
+ |accessdate=15 March 2010
+ |quote=Government type: Communist state}}</ref><ref>{{Cite web
+
+ |url=http://www.state.gov/r/pa/ei/bgn/18902.htm
+ |title=China (10/09)
+ |date=October 2009
+ |work=Background Notes
+ |author=Bureau of East Asian and Pacific Affairs
+ |publisher=[[United States Department of State]]
+ |accessdate=15 March 2010
+ |quote=Government Type: Communist party-led state.}}</ref><br />{{Ref label|complex|note b}}
+|leader_title1 =[[President of the People's Republic of China|President]]
+|leader_name1 = [[Hu Jintao]]
+|leader_title2 = [[Premier of the State Council of the People's Republic of China|Premier]]
+|leader_name2 = [[Wen Jiabao]]
+|leader_title3 = {{nobr|<small>[[Chairman of the Standing Committee of the National People's Congress|NPCSC Chairman]]</small>}}
+|leader_name3 = [[Wu Bangguo]]
+|leader_title4 = {{nobr|<small>[[Chinese People's Political Consultative Conference|CPPCC Chairman]]</small>}}
+|leader_name4 = [[Jia Qinglin]]
+|legislature = [[National People's Congress]]
+|sovereignty_type = [[History of China|Establishment]]
+|established_event1 = People's Republic of China proclaimed.
+|established_date1 = 1 October 1949
+|area_footnote ={{Ref label |territory|c|}} or 9,671,018&nbsp;km²{{Ref label |territory|c|}}
+|area_km2 = 9,640,821
+|area_sq_mi = 3704427 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank = 3rd/4th
+|area_magnitude = 1 E12
+|percent_water = 2.8{{Ref label |mainland|d|}}
+|population_estimate = 1,338,612,968<ref name=unpop>{{Cite journal
+ |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html
+ |title=China – People
+ |publisher=https://www.cia.gov
+ |year=2009
+ |accessdate=1 January 2010 }}</ref>
+|population_estimate_year = 2010
+|population_estimate_rank = 1st
+|population_census = 1,242,612,226
+|population_census_year = 2000
+|pop_den_footnote =
+|population_density_km2 = 139.6
+|population_density_sq_mi = 363.3 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 53rd
+|GDP_nominal = $5.365&nbsp;trillion<ref name=imf2/>
+|GDP_nominal_rank = 2nd<ref name=bloomgdp>16 August 2010, [http://www.bloomberg.com/news/2010-08-16/china-economy-passes-japan-s-in-second-quarter-capping-three-decade-rise.html China Overtakes Japan as World's Second-Biggest Economy], Bloomberg</ref>
+|GDP_nominal_year = 2010
+|GDP_nominal_per_capita = $3,999<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 98th
+|GDP_PPP_year = 2010
+|GDP_PPP = $9.712&nbsp;trillion<ref name=imf2>{{Cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=924&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=71&pr.y=8 |title=People's Republic of China|publisher=International Monetary Fund|accessdate=21 April 2010}}</ref>
+|GDP_PPP_rank = 2nd
+|GDP_PPP_per_capita = $7,240<ref name=imf2/>
+|GDP_PPP_per_capita_rank = 99th
+|Gini = 41.5<ref>[https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html CIA World Factbook] [Gini rankings]</ref>
+|Gini_year = 2007
+|HDI_year = 2007
+|HDI = {{increase}} 0.772<ref>[http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf Human Development Report 2009]. The United Nations. Retrieved 5 October 2009.</ref>
+|HDI_rank = 92nd
+|HDI_category = <span style="color:#fc0;">medium</span>
+|currency = [[renminbi|Chinese yuan (renminbi)]] (¥)
+|currency_code = CNY
+|time_zone = [[China Standard Time]]
+|utc_offset = +8
+|date_format = yyyy-mm-dd <br />''or'' yyyy{{lang|zh|年}}m{{lang|zh|月}}d{{lang|zh|日}} <br />([[Common Era|CE]]; [[Chinese calendar|CE-1949]])
+|drives_on = right, except for Hong Kong & Macau
+|cctld = [[.cn]]{{Ref label |mainland|d|}} [[.中國]]<ref>{{Cite web
+ |url=http://brussels38.icann.org/meetings/brussels2010/transcript-board-25jun10-en.txt
+ |title=ICANN Board Meeting Minutes
+ |publisher=ICANN
+ |accessdate=25 June 2010 }}</ref>
+ [[.中国]]
+|calling_code = [[+86]]{{Ref label |mainland|d|}}
+|footnotes =
+a. {{note|names}} See also [[Name of China#Official names|Names of China]].
+
+b. {{note|complex}} Simple characterizations of the [[political structure]] since the 1980s are no longer possible.<ref name="notsimple"/>
+
+c. {{note|territory}} {{convert|9598086|km2|sqmi|abbr=on}} excludes all disputed territories.<br /> {{convert|9640821|km2|sqmi|abbr=on}} Includes PRC-administered area ([[Aksai Chin]] and [[Trans-Karakoram Tract]], both territories claimed by India), Taiwan is not included.<ref>{{Cite web
+ |url=http://www.chinadaily.net/china/2008-01/24/content_6418067.htm
+ |title=GDP expands 11.4 percent, fastest in 13 years
+ |publisher=Chinadaily.net
+ |date=24 January 2008
+ |accessdate=15 June 2009 }}</ref>
+
+d. {{note|mainland}} Information for [[mainland China]] only. Hong Kong, [[Macau]] and territories under the jurisdiction of the [[Republic of China]], commonly known as [[Taiwan]], are excluded.
 }}
-
-
 
  
 
