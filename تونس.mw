@@ -1,57 +1,79 @@
 {{هېواد-مالوماتبکس|
-|اصلي نوم =<br />|conventional_long_name = 
-|عام نوم =تونس ''Tūnis''
-|image_flag          =Flag of Tunisia.svg
-|image_coat          = Coat of arms of Tunisia.svg
-|image_map           = Tunisian Republic location map.svg
-|national_motto = 
-|ملي سرود = 
-|رسمي ژبه = 
-|پلازمېنه =تونس
-|latd=32 |latm=54 |latNS=N |longd=13 |longm=11 |longEW=E |
-|لوی ښار =تونس 
-|د حکومت بڼه = 
-|leader_title1 = 
-|
-|leader_name1 =
-|leader_name2 = 
-|area_rank = 17th
-|د مساحت ارتوالی = 
-|مساحت = 
-|areami²= 679,182  <!-- Do not remove per [[WP:MOSNUM]] -->
-|د اوبو سلنه = .
-|population_estimate =
-|د وګړو د شمېر د اټکل کال = 
-|population_estimate_rank = 
-|د وګړو سرشمېرنه = <sup>2</sup>  
-|د وګړو د سرشمېرنې کال = 
-|د وګړو ګڼه ګونه = 
-|population_densitymi² =8.5  <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 
-|GDP_PPP_year= 
-|GDP_PPP = 
-|GDP_PPP_rank = 
-|GDP_PPP_per_capita = 
-|GDP_PPP_per_capita_rank = 
-|HDI_year = 
-|HDI = 
-|HDI_rank = 
-|HDI_category = <font color="#FFCC00">medium</font> |
+|native_name = <big>الجمهورية التونسية </big><br/>''{{Unicode|al-Jumhūriyya at-Tūnisiyya}}''<br />{{lang|fr|''République Tunisienne''}}
+|conventional_long_name = Tunisian Republic
+|common_name = Tunisia
+|image_flag = Flag of Tunisia.svg
+|image_coat = Coat of arms of Tunisia.svg
+|symbol_type = Coat of arms
+|image_map = Tunisia (orthographic projection).svg
+|national_motto = حرية، نظام، عدالة (Hurriya, Nidham, 'Adala)<br />"Liberty, Order, Justice"<ref name="art4">{{Cite journal
+  | title = Tunisia Constitution
+  | contribution = Article 4
+  | contribution-url = http://www.chambre-dep.tn/a_constit1.html {{ar icon}}
+  | publication-date= 1957-07-25
+  | accessdate = 2009-12-23
+  | postscript = .}}</ref>
+|official_languages = [[Arabic language|Arabic]]<ref name="art1">{{Cite journal
+  | title = Tunisia Constitution
+  | contribution = Article 1
+  | contribution-url = http://www.chambre-dep.tn/a_constit1.html {{ar icon}}
+  | publication-date= 1957-07-25
+  | accessdate = 2009-12-23
+  | postscript = .}} Translation by the University of Bern: ''Tunisia is a free State, independent and sovereign; its religion is  Islam, Christianity and Judism its language is Arabic and French and its form is the Republic.''</ref>
+|languages_type = [[Second language]]
+|languages = [[French language|French]]
+|national_anthem = [[Humat Al Hima]]
+|demonym = Tunisian, Tunis
+|capital = [[Tunis]]
+|latd=36 |latm=50 |latNS=N |longd=10 |longm=9 |longEW=E
+|largest_city = capital
+|government_type = [[Republic]]<ref name="art1"/>
+|leader_title1 = [[President of Tunisia|President]]
+|leader_title2 = [[Prime Minister of Tunisia|Prime Minister]]
+|leader_name1 = [[Zine El Abidine Ben Ali]]
+|leader_name2 = [[Mohamed Ghannouchi]]
+|area_rank = 92nd
+|area_magnitude = 1 E11
+|area_km2 = 163610
+|area_sq_mi = 63170
+|percent_water = 5.0
+|population_estimate = 10,432,500<ref name="ins">{{cite web|url=http://www.ins.nat.tn/|title=National Statistics Online |publisher=National Statistics Institute of Tunisia |date=July 2009|accessdate=7 January 2009}} {{ar icon}}</ref>
+|GDP_PPP = $86.086 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=744&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=44&pr.y=14 |title=Tunisia|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank =
+|GDP_PPP_year = 2009
+|GDP_PPP_per_capita = $8,254<ref name=imf2/>
+|GDP_PPP_per_capita_rank =
+|GDP_nominal = $40.168 billion<ref name=imf2/>
+|GDP_nominal_year = 2009
+|GDP_nominal_per_capita = $3,851<ref name=imf2/>
+|population_estimate_rank = 79th
+|population_estimate_year = July 1, 2009
+|population_census =  9,910,872<ref name="ins"/>
+|population_census_year = 2004
+|population_density_km2 = 63 <!--pop est 2008 (10327800) / land area(163610) =63.12-->
+|population_density_sq_mi = 163
+|population_density_rank = 133rd (2005)
 |sovereignty_type = [[Independence]]
-|sovereignty_note = 
-|established_event1 = Date
-|established_date1 =  
-|currency_code = 
-|country_code = 
-|time_zone = [[Eastern European Time|EET]]
-|utc_offset = 
+|established_event1 = from [[Vichy France|France]]
+|established_date1 = March 20, 1956
+|HDI = {{increase}} 0.769<ref name="UN">{{cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf|title=Human Development Report 2009. Human development index trends: Table G|publisher=The United Nations|accessdate=2009-10-10}}</ref>
+|HDI_rank = 98th
+|HDI_year = 2007
+|HDI_category = <span style="color:#fc0;">medium</span>
+|Gini = 39.8
+|Gini_year = 2000
+|Gini_category = <span style="color:#fc0;">medium</span>
+|currency = [[Tunisian dinar]]
+|currency_code = TND
+|country_code = +216
+|time_zone = [[Central European Time|CET]]
+|utc_offset = +1
 |time_zone_DST = ''not observed''
-|utc_offset_DST = 
-|cctld = 
-|calling_code = 
-|footnotes=  
-<sup>1</sup> Includes 166,510 non-nationals <br /> 
-<sup>2</sup> [http://en.ljbc.net/lypop2004.htm Libyan 2004 census figures] Accessed [[June 29]] [[2006]] 
+|utc_offset_DST = +1
+|drives_on                    = right
+|cctld = [[.tn]]
+|calling_code = 216
+|footnotes =
 }}
 
 
