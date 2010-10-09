@@ -21,7 +21,7 @@
 
 ==تخينک==
 ===د ټلويزوني غونډال توکي===
-[[Image:OTVbelweder-front.jpg|250px|thumb|right|[[Belweder (TV set)|OT-1471 Belweder]], [[People's Republic of Poland|Poland]], 1957<small><br>
+[[Image:OTVbelweder-front.jpg|250px|thumb|left|[[Belweder (TV set)|OT-1471 Belweder]], [[People's Republic of Poland|Poland]], 1957<small><br>
 {{col-begin}}
 {{col-break}}
 1. power switch / volume<br>
@@ -35,39 +35,6 @@
 8. channel switch</small>
 {{col-end}}]]
 اساس ديو ټلويزون دپاره د انخور دي:
-* An image source - this may be a [[Professional video camera|camera]] for live pick-up of images or [[VTR]] or a [[Film Chain]]-[[Telecine]]-[[flying spot scanner]] for transmission of [[motion picture|films]].
-* A sound source picked up by a microphone
-* A [[transmitter]], which modulates one or more television signals with both picture and sound information for transmission.
-* A receiver (also called a [[tuner]]) which recovers and processes the picture and sound signals from the television broadcast signal.
-* A display device, which turns the electrical signals into visible light and images
-* A small [[amplifier]] and [[loudspeaker]], which turns electrical signals into sound waves (speech, music, and other sounds) to accompany the images.
-
-Practical television systems include equipment for selecting different image sources, mixing images from several sources at once, insertion of pre-recorded video signals, synchronizing signals from many sources, and direct image generation by [[computer]] for such purposes as station identification. 
-
-Transmission was originally over the air from land-based transmitters. The quality of reception varies greatly, and this led to the proliferation of large antennas on house roofs for best signal in the 1960s. In most cities today, cable systems deliver television over metal or optical cables, but for a fee. It can be delivered by radio from synchronous [[Satellite television|satellite]]s, which were large for analog, and smaller dishes for digital broadcast, also for a fee, often less than cable systems, which has led to the appearance of small dishes outside of houses and apartments.   
-
-Digital systems may be inserted anywhere in the chain to provide better image transmission quality, reduction in transmission [[bandwidth]], special effects, or security of transmission from reception by non-subscribers. A home today might have the choice of receiving analog or HDTV over the air, analog or digital cable with HDTV from a cable television company over coaxial cable, or even from the phone company over fiber optic lines. On the road, television can be received by pocket sized televisions, recorded on tape or digital media players, or played back on wireless phones over a high speed network or the internet.
-<!-- Elements of a television system - block diagram here -->
-<!-- Image source, camera, film, magnetic tape, exceptionally computer-generated images-->
-<!-- Sound source -->
-<!-- Transmitter, over the air, bandwidth required, antenna, satellite system, cable system, digital encoding, scrambling -->
-<!-- Receiver, antenna, cable connection, satellite down-converter, digital decode, descramble-->
-<!-- Display, cathode ray tube, color tube, now LCD, historically mechanical scanned lamp-->
-<!-- Recorder, analogue magnetic tape, now digital (DVD) -->
-
-[[Image:Dv schnittplatz.JPG|thumb|250px|[[Digital video]] equipment in an edit suite]]
-{{seealso|Liquid crystal display television}}
-
-Thanks to the advances in display technology, there are now several kinds of video displays used in modern TV sets:
-
-*'''CRT''' ([[cathode-ray tube]]): The most common screens were direct-view CRTs for up to roughly 100 cm (40 inch) (in 4:3 ratio) and 115 cm (45 inch) ((in 16:9 ratio) [[diagonal]]s. These are the least expensive, and are a refined technology that can still provide the best overall picture quality value. As they do not have a fixed [[native resolution]], they are capable of displaying sources with different resolutions at the best possible image quality. The [[frame rate]] or refresh rate of a typical [[NTSC]] format CRT TV is 29.97 Hz, and for the [[PAL]] format, 25 Hz, both are scanned with two fields per frame in an [[interlace]]d fashion.  A typical [[NTSC]] broadcast signal's visible portion has an equivalent resolution of about 640x480 pixels. It actually could be slightly higher than that, but the [[vertical blanking interval]] (VBI), allows other signals to be carried along with the broadcast. High [[lead]] content. 
-*'''Rear projection''' ('''RPTV'''): Most very large screen TVs (to 100&nbsp;inches [254&nbsp;cm] or more) use [[projection]] technology. Three types of projection systems are used in projection TVs: CRT-based, [[Liquid crystal display|LCD]]-based, and [[DLP]] (reflective micromirror chip) -based. Projection television has been commercially available since the 1970s, but at that time could not match the image sharpness of the CRT; current models are vastly improved, and offer a cost-effective large-screen display.
-**A variation is a '''[[video projector]]''', using similar technology, which projects onto a [[Projection screen|screen]].
-
-*'''Flat panel''' ([[LCD]] or [[Plasma display|plasma]]): Modern advances have brought [[Flat panel display|flat panel]]s to TV that use [[Active-matrix liquid crystal display|active matrix]] [[liquid crystal display|LCD]] or [[plasma display]] technology. Flat panel LCDs and [[plasma display]]s are as little as 25.4 mm (1 inch) thick and can be hung on a wall like a picture or put over a [[pedestal]]. Some models can also be used as [[Computer display|computer monitor]]s.
-*'''LED''' technology has become one of the choices for outdoor video and stadium uses, since the advent of bright [[Light-emitting diode|LED]]s and driver circuits. LEDs enable scalable ultra-large [[Light-emitting diode#LED display panels|flat panel video displays]] that other technologies may never be able to match in performance.
-
-Each has its pros and cons. Flat panel LCD and plasma displays have a wide viewing angle (around 160 degrees) so they may best suited for a home theatre with a wide seating arrangement. Rear projection screens do not perform well in [[daylight]] or well-lit rooms and so are only suited to darker viewing areas. A comparison of these technologies is available [[Comparison of display technology|here]].
 
 === د ټلوېزيون ټرمينالوجي ===
 پکسل (د ښوديز ريزولوشن\ريزولوشن) پر يوه پرده د څانګړيو ټکيو شمېر دی، چې [پکسل] بلل کېږي.د پکسل د کلمې استعمال خورا نوی دی، او نېټه يې هغه وخت ته رسېږي، چې د [VGA] ښوديز معيار وپېژندل شو. له ۱۹۸۰مې لسيزې مخکې "lines of resolution" د رېزولوشن د اندازه کولو معياري يوون (واحد) و. 
