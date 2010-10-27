@@ -1,53 +1,70 @@
 {{هېواد-مالوماتبکس
-|اصلي نوم = República del Ecuador<br />Republic of Ecuador
-|عام نوم = اېکوادور
-|بېرغ = Flag of Ecuador.svg
-|نښان = Ecuador COA.jpg
-|نخشه = LocationEcuador.png
-|national_motto = <small>El Ecuador ha sido, es y será país Amazónico''<br />([[Spanish language|Spanish]]: Ecuador has been, is, and will always be an Amazonian country)</small>
-|ملي سرود = [[Salve, Oh Patria]]
-|رسمي ژبه = Spanish<sup>1<sup>
-|پلازمېنه= [[Quito, Ecuador|Quito]]
+|ولسي نوم = ''República del Ecuador''{{spaces|2}}<small>{{es icon}}</small>
+|اوږد دوديز نوم = Republic of Ecuador
+|ټولګړی نوم = Ecuador
+|image_flag = Flag of Ecuador.svg
+|image_coat = Coat of arms of Ecuador.svg
+|image_map = Ecuador (orthographic projection).svg
+|national_motto = ''"Dios, patria y libertad"''{{spaces|2}}<small>{{es icon}}</small><br />''"Pro Deo, Patria et Libertate"''{{spaces|2}}<small>{{la icon}}<br />"God, homeland and liberty"</small>
+|national_anthem = ''[[Salve, Oh Patria]]''{{spaces|2}}<small>{{es icon}}</small><br /><small>''Hail, Oh Fatherland''</small>
+|official_languages = [[Spanish language|Spanish]]<sup>1</sup>
+|ethnic_groups=65% [[Mestizo]],<br />25% [[Indigenous peoples in Ecuador|Indigenous]],<ref name="CIAWFB" /> <br />7% [[Spanish people|Spanish]] or [[White Latin American|White]], <br />3% [[Afro Ecuadorian|black]]
+|demonym = Ecuadorian
+|capital = [[Quito]]
 |latd=00 |latm=9 |latNS=S |longd=78 |longm=21 |longEW=W
-|لوی ښار = [[Guayaquil, Ecuador|Guayaquil]]
-|د حکومت بڼه= 
-|د لارښود لقب = [[List of Presidents of Ecuador|President]]<br />[[List of Presidents of Ecuador|Vice-President]]
-|د لارښود نوم =[[Alfredo Palacio]]<br />[[Alejandro Serrano]] 
-|مساحتي وېش = 71st
-|د مساحت ارتوالی = 1 E11
-|مساحت=199,235
-|areami²= 76,905 <!--Do not remove per [[WP:MOSNUM]] -->
-|د اوبو سلنه= 8.8
-|د وګړو اټکل = 13,363,593
-|population_estimate_rank = 62nd
-|د وګړو د شمېر د اټکل کال= July 2005
-|د وګړو سرشمېرنه= 
-|د وګړو د سرشمېرنې کال = 
-|د وګړو ګڼه ګونه = 47
-|population_densitymi² = 122 <!--Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 124th
-|GDP_PPP = $52.66 billion
-|GDP_PPP_rank = 73th
-|GDP_PPP_year= 2005
-|GDP_PPP_per_capita = $4,083
-|GDP_PPP_per_capita_rank = 114th
-|زمکنۍ بشپړتيا = [[خپلواکي]]
-|established_events = From [[Spain]]
-|established_dates = [[24 May]], [[1822]]
-|HDI = 0.759
-|HDI_rank = 82nd
-|HDI_year = 2003
-|HDI_category = <font color="#FFCC00">medium</font>
-|پېسه = [[United States dollar|U.S. dollar]]<sup>2</sup>
-|د پېسو نښه = USD
-|هېوادنی کوډ = 
-|وخت = 
-|utc_offset = -5;  [[UTC]] -6 ([[Galápagos Islands]]
-|time_zone_DST = 
-|utc_offset_DST = 
+|largest_city = [[Guayaquil]]
+|government_type = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[republic]]
+|leader_title1 = [[President of Ecuador|President]]
+|leader_title2 = [[Vice President of Ecuador|Vice President]]
+|leader_name1 = [[Rafael Correa]]
+|leader_name2 = [[Lenín Moreno]]
+|area_rank = 66th
+|area_magnitude = 1 E11
+|area_km2 = 283.561 (with Galapagos)
+|area_sq_mi = 109,415
+|percent_water = 5
+|population_estimate = 14,790,608<ref name=unpop>{{Cite journal| url=_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision  | format=PDF | publisher=United Nations | author=Department of Economic and Social Affairs
+Population Division | year=2009 | accessdate= 2009-03-12}}</ref>
+|population_estimate_rank = 65th
+|population_estimate_year = 2010
+|population_census =
+|population_census_year =12444567.3563
+|population_density_km2 = 53.8
+|population_density_sq_mi = 139.4 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 151st
+|GDP_PPP = $114.827 billion<ref name=imf2>{{Cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=248&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=45&pr.y=18 |title=Ecuador|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_year = 2010
+|GDP_PPP_per_capita = $8,022<ref name=imf2/>
+|GDP_nominal          = $61.958 billion<ref name=imf2/>
+|GDP_nominal_year     = 2010
+|GDP_nominal_per_capita  = $4,328<ref name=imf2/>
+|sovereignty_type = [[Independence]]
+|established_date1 = August 10, 1809
+|established_event1 = declared
+|established_date2 = May 24, 1822
+|established_event2 = from [[Spain]]
+|established_date3 = May 13, 1830
+|established_event3 = from [[Gran Colombia]]
+|established_date4 = February 16, 1840
+|established_event4 = Recognized by [[Spain]]
+|Gini = 42
+|Gini_category = <span style="color:#fc0;">medium</span>
+|HDI = {{increase}} 0.806<ref name="HDI">{{Cite web|url=http://hdrstats.undp.org/en/countries/country_fact_sheets/cty_fs_ECU.html|title=Human Development Report 2009: Ecuador|publisher=The United Nations|accessdate=2009-10-18}}</ref>
+|HDI_rank = 49th
+|HDI_year = 2007
+|HDI_category = <span style="color:#090;">high</span>
+|currency = [[United States dollar|U.S. dollar]]<sup>2</sup>
+|currency_code = USD
+|country_code =
+|time_zone = [[Ecuador Time|ECT]], [[Galápagos Time|GALT]]
+|utc_offset = -5, -6
+|time_zone_DST =
+|utc_offset_DST =
+|drives_on = right
 |cctld = [[.ec]]
-|پېل ګڼ = 593
-|footnotes = <small><sup>1<sup> [[Quechua language|Quichua]] and other [[Amerindian languages]] spoken by indigenous communities.<br /> <sup>2</sup> [[Sucre (currency)|Sucre]] until 2000.</small>
+|calling_code = [[+593]]
+|footnote1 = [[Quechua]] and other [[Amerindian languages]] spoken by indigenous communities.
+|footnote2 = [[Ecuadorian sucre|Sucre]] until 2000, followed by the U.S. dollar and [[Ecuadorian centavo coins]]
 }}
 
 The '''Republic of Ecuador''' ([[Spanish language|Spanish]]: ''República del Ecuador'', [[International Phonetic Alphabet|IPA]] {{IPA|[re'puβlika ðel ekwa'ðoɾ]}}) is a country in northwestern [[South America]], bounded by [[کولمبيا]] on the north, by [[Peru]] on the east and south, and by the [[Pacific Ocean]] on the west. The country also includes the [[Galápagos Islands]] (Archipelago de Colón) in the Pacific, about 965 kilometers (about 600&nbsp;[[mile|mi]]) west of the mainland.  Named after the Spanish word for [[equator]], Ecuador straddles the equator and has an area of 272,045 [[square kilometer]]s (105,037&nbsp;[[square mile|mi²]]). [[Quito]] is the country’s capital. 
