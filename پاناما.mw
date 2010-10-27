@@ -1,57 +1,63 @@
 {{ژباړل}}{{هېواد-مالوماتبکس         
-|اصلي نوم = ''República de Panamá''
-|conventional_long_name = Republic of Panama 
-|عام نوم = Panama
-|بېرغ =Flag of Panama.svg 
-|نښان =Escudo armas Panama.png
-|نخشه =LocationPanama.png 
-|national_motto =[[Latin]]: ''Pro Mundi Beneficio'' <br />([[English language|English]]: "For the Benefit of the World") 
-|national_anthem =''[[Himno Istmeño]]'' 
-|official_languages =[[Spanish language|Spanish]] (Official), ([[English language|English]] and indigenous languages on the Caribbean coast) 
-|capital =[[Panama City]] 
-|latd=8 |latm=58 |latNS= |longd=79 |longm=32 |longEW=W
-|largest_city = [[Panama City]]
-|government_type =<small>constitutional democracy</small> 
-|leader_title1 =[[President of Panama|President]] 
-|leader_name1 =[[Martín Torrijos]] 
-|area_rank =118th 
-|area_magnitude =1 E8 
-|area=75,517 <!--UN data-->
-|areami²=29,157 <!-- Do not remove per [[WP:MOSNUM]] -->
-|percent_water =2.9 
-|population_estimate = 3,232,000 <!--UN WPP-->
-|population_estimate_rank =133rd 
-|population_estimate_year =July 2005 
-|population_census = 2,839,177
-|population_census_year = May 2000
-|population_density =43
-|population_densitymi² =111 <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank =156th 
-|GDP_PPP =$23.495 billion 
-|GDP_PPP_rank =105th 
-|GDP_PPP_year=2005 
-|GDP_PPP_per_capita =$7,283 
-|GDP_PPP_per_capita_rank = 83rd 
+|ولسي نوم =''República de Panamá''{{Spaces|2}}<small>{{es icon}}</small>
+|اوږد دوديز نوم = Republic of Panama |common_name = Panama
+|image_flag = Flag_of_Panama.svg
+|image_coat = Coat of Arms of Panama.svg
+|image_map = Panama (orthographic projection).svg
+|national_motto = ''"Pro Mundi Beneficio"''{{Spaces|2}}<small>{{la icon}}<br/>"For the Benefit of the World"</small>
+|national_anthem = ''[[Panamanian national anthem|Himno Nacional de Panamá]]''{{Spaces|2}}<small>{{es icon}}</small>
+|official_languages = [[Spanish language|Spanish]]
+|ethnic_groups = 38.1% [[Mestizo]] <br/> 14% [[Afro Panamanian|Black]] and [[Mulatto]] <br/> 6.7% [[Indigenous peoples of the Americas|Amerindian]] <br/> 28.6% [[White Latin American#|White]] <br/>5.5% [[Asian Latin American|Asian]] <br/> 7.1% other (2000) <ref name=worldstatesmen/>
+|demonym = [[Demographics of Panama|Panamanian]]
+|capital = [[Panama City]]
+|latd=8 |latm=58 |latNS=N |longd=79 |longm=32 |longEW=W
+|largest_city = capital
+|government_type = [[Constitutional Democracy]]
+|leader_title1 = [[President of Panama|President]]
+|leader_name1 = [[Ricardo Martinelli]]
+|leader_title2 = [[Vice President of Panama|Vice President]]
+|leader_name2 = [[Juan Carlos Varela]]
 |sovereignty_type = [[Independence]]
-|established_event1 = From [[Spain]]
-|established_event2 = From [[Colombia]]
-
-|established_date1 = [[November 28]], [[1821]]
-|established_date2 = [[November 3]], [[1903]]
-
-|HDI = 0.804 
-|HDI_rank =56th 
-|HDI_year = 2003
-|HDI_category =<font color="#009900">high</font> 
-|currency = [[Panamanian balboa|Balboa]]
-|currency_code =PAB 
-|country_code = 
-|time_zone = 
+|established_event1 = from [[Spain]]
+|established_date1 = 28 November 1821
+|established_event2 = from [[Great Colombia]]
+|established_date2 = 3 November 1903
+|area_rank = 118th
+|area_magnitude = 1 E8
+|area_km2 = 75,517 <!--UN data-->
+|area_sq_mi = 29,157 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 2.9
+|population_census = 3,322,576
+|population_census_year = May 2010
+|population_density_km2 = 44.5
+|population_density_sq_mi = 115.3 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 156th
+|GDP_PPP =$38,604 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=283&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=63&pr.y=11 |title=Panama|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref> <!--Do not edit!-->
+|GDP_PPP_rank = 93rd
+|GDP_PPP_year = 2009
+|GDP_PPP_per_capita = $11,788<ref name=imf2/> <!--Do not edit!-->
+|GDP_PPP_per_capita_rank = 69th
+|GDP_nominal = $24.711 billion<ref name=imf2/> <!--Do not edit!-->
+|GDP_nominal_rank  = 89th
+|GDP_nominal_year = 2009
+|GDP_nominal_per_capita = $7,133<ref name=imf2/> <!--Do not edit!-->
+|GDP_nominal_per_capita_rank  = 65th
+|HDI = {{increase}} 0.840
+|HDI_rank = 60th
+|HDI_year = 2007
+|HDI_category = <span style="color:#090;">high</span>
+|Gini = 46.5
+|Gini_year = 2002
+|currency = [[Panamanian balboa|Balboa]], [[U.S. dollar]]
+|currency_code = PAB, USD
+|country_code =
+|time_zone =
+|drives_on = right
 |utc_offset = -5
-|time_zone_DST = 
-|utc_offset_DST = -5
-|cctld =[[.pa]] 
-|calling_code =507 
+|time_zone_DST =
+|utc_offset_DST =
+|cctld = [[.pa]]
+|calling_code = [[+507]]
 }}
 
 :<div class="dablink">''For other uses, see [[{{PAGENAME}} (disambiguation)]].''</div>
