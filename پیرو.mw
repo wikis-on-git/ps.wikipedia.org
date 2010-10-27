@@ -1,60 +1,73 @@
 {{هېواد-مالوماتبکس
-|اصلي نوم =''República del Perú''
-|conventional_long_name = د پيرو جمهوريت
-|عام نوم = پيرو 
-|نښان =Escudo nacional del Perú.svg
-|بېرغ =Flag of Peru (state).svg
-|نخشه =LocationPeru.png 
-|national_motto = None
-|ملي سرود =''[[Somos libres, seámoslo siempre]]''<br />"We are free, let's always be" 
-|رسمي ژبه =[[Spanish language|Spanish]]<sup>1</sup> 
-|پلازمېنه=[[ليما]] 
+|ولسي نوم                 = ''República del Perú''{{spaces|2}}<small>{{Language icon|es}}
+|conventional_long_name      = Republic of Peru
+|ټولګړی نوم                 = پيرو
+|image_coat                  = Escudo nacional del Perú.svg
+|image_flag                  = Flag of Peru.svg
+|image_map                   = Peru (orthographic projection).svg
+|national_motto              = 
+|national_anthem             = "''[[National Anthem of Peru|Himno Nacional del Perú]]''"{{spaces|2}}<small>{{es icon}}<br />"National Anthem of Peru"</small>
+|official_languages          = [[Spanish language|Spanish]]<sup>1</sup>
+|demonym                     = Peruvian
+|capital                     = [[Lima]]
 |latd=12 |latm=2.6 |latNS=S |longd=77 |longm=1.7 |longEW=W
-|لوی ښار =[[ليما]] 
-|د حکومت بڼه =<small>Constitutional republic</small> 
-|leader_title1 =[[List of Presidents of Peru|President]]
-|leader_title2 = [[List of Prime Ministers of Peru|Prime Minister]] 
-|leader_name1 =[[Alan García Pérez]]
-|leader_name2 = [[Jorge del Castillo]]
-|area_rank =20th 
-|area_magnitude = 1 E11
-|area=1,285,216
-|areami²= 496,222 <!-- Do not remove per [[WP:MOSNUM]] -->
-|percent_water =8.80% 
-|population_estimate =  27,968,000 <!--UN World Population Prospects mid-2005 estimate-->
-|population_estimate_rank = 41st
-|د وګړو د شمېر د اټکل کال =July 2005 
-|د وګړو سرشمېرنه =27,219,266 
-|د وګړو د سرشمېرنې کال =<!--Peru 2005 Census-->2005 
-|د وګړو ګڼه ګونه =22
-|population_densitymi² =57  <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank =183rd
-|GDP_PPP = $167.21 billion<!--IMF 2005--> 
-|GDP_PPP_rank =50th 
-|GDP_PPP_year=2005
-|GDP_PPP_per_capita = $5,983
-|GDP_PPP_per_capita_rank = 97th
-|sovereignty_type =[[Independence]] 
-|sovereignty_note = from [[Spain]]
-|established_event1 =Declared  
-|established_date1 = [[28 July]] [[1821]]
-|HDI =0.762 
-|HDI_rank = 79th
-|HDI_year = 2003
-|HDI_category =<font color="#FFCC00">medium</font> 
-|currency = [[Peruvian nuevo sol|Nuevo Sol]]
-|currency_code = PEN
-|country_code = 
-|time_zone = 
-|utc_offset = -5
-|time_zone_DST = 
-|utc_offset_DST = 
-|cctld = [[.pe]]
-|calling_code = 51
-|footnotes = 1.) [[Quechua language|Quechua]], [[Aymara language|Aymara]] and other regional languages are also official in the areas where they are predominant.
+|largest_city                = capital
+|government_type             = [[Presidential system|Presidential]] [[republic]]
+|leader_title1               = [[List of Presidents of Peru|President]]
+|leader_name1                = [[Alan García]]
+|leader_title2               = [[List of Prime Ministers of Peru|Prime Minister]]
+|leader_name2                = [[José Antonio Chang]]
+|sovereignty_type            = [[Independence]]
+|sovereignty_note            = from Spain
+|established_event1          = Declared
+|established_date1           = July 28, 1821
+|established_event2          = Consolidated
+|established_date2           = December 9, 1824
+|established_event3          = Recognized
+|established_date3           = August 14, 1879
+|area_rank                   = 20th
+|area_magnitude              = 1 E12
+|area_km2                    = 1,285,216
+|area_sq_mi                  = 496,225    <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water               = 0.41       <!--CIA World Factbook-->
+|population_estimate         = 29,496,000 <!--UN World Population Prospects-->
+|population_estimate_rank    = 43rd       <!--UN World Population Prospects-->
+|population_estimate_year    = 2010       <!--UN World Population Prospects-->
+|population_census           = 28,220,764 <!--(2007 Census)-->
+|population_census_year      = 2007       <!--(2007 Census)-->
+|population_density_km2      = 23         <!--UN World Population Prospects-->
+|population_density_sq_mi    = 57 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank     = 191st
+|GDP_PPP                     = $274.276 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?pr.x=45&pr.y=17&sy=2008&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=293&s=NGDPD,NGDPDPC,PPPGDP,PPPPC,LP&grp=0&a= |title=Peru|publisher=International Monetary Fund|accessdate=2010-10-22}}</ref>
+|GDP_PPP_rank                = 
+|GDP_PPP_year                = 2010
+|GDP_PPP_per_capita          = $9,281<ref name=imf2/>
+|GDP_PPP_per_capita_rank     = 
+|GDP_nominal                 = $153.549 billion<ref name=imf2/>
+|GDP_nominal_rank            = 
+|GDP_nominal_year            = 2010
+|GDP_nominal_per_capita      = $5,195<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 
+|HDI                         = {{increase}}0.806
+|HDI_rank                    = 78th
+|HDI_year                    = 2007
+|HDI_category                = <span style="color:#090;">high</span>
+|Gini                        = <span style="color: #0c0; font-size: larger;">▼</span> 47.9
+|Gini_year                   = 2008
+|Gini_category               = <span style="color:#e0584e;">high</span>
+|currency                    = [[Peruvian nuevo sol|Nuevo Sol]]
+|currency_code               = PEN
+|time_zone                   = [[Time in Peru|PET]]
+|utc_offset                  = -5
+|time_zone_DST               = not observed
+|utc_offset_DST              = 
+|drives_on                    = right
+|cctld                       = [[.pe]]
+|calling_code                = [[+51]]
+|footnote1                   = [[Quechua language|Quechua]], [[Aymara language|Aymara]] and other indigenous languages are co-official in the areas where they are predominant.
 }}
 
-'''Peru''', officially the '''Republic of Peru''' ([[Spanish language|Spanish]]: ''Perú'' or ''República del Perú'' [[Pronunciation|pron.]] [[International Phonetic Alphabet|IPA]] {{IPA|[re'pu.βli.ka del pe'ɾu]}}, [[Quechua language|Quechua]]: ''Piruw''), is a country in western [[South America]], bordering [[Ecuador]] and [[Colombia]] to the north, [[Brazil]] to the east, [[Bolivia]] to the south-east, [[Chile]] to the south, and the [[Pacific Ocean]] to the west.
+'''پيرو'''، په رسمي چار کې '''د پيرو جمهوريت''' ([[Spanish language|Spanish]]: ''Perú'' يا ''República del Perú'' [[Pronunciation|pron.]] [[International Phonetic Alphabet|IPA]] {{IPA|[re'pu.βli.ka del pe'ɾu]}}, [[Quechua language|Quechua]]: ''Piruw''), د [[سوېلي امريکا]] په [[لوېديځ]] کې پروت يو هېواد دی چې په سهېل کې د [[اېکوادور]] او [[کولمبيا]] سره، [[ختيځ]] کې د [[برازيل]] سره، په سوېل ختيځ کې د [[بولېويا]] سره او په لوېديځ کې د [[چيلي]] هېواد سره ګډې پولي لري. د دې هېواد په لوېديځ کې آرام سمندر د دغه هېواد لوېديځه پوله جوړوي
 
 In addition to being known as the cradle of the [[Inca empire]], Peru harbors many [[amerindians|indigenous ethnic groups]], making it a major historical and cultural site.
 
