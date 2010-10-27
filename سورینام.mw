@@ -1,55 +1,62 @@
 {{هېواد-مالوماتبکس
-| اصلي نوم              = ''Republiek Suriname''
-| conventional_long_name   = Republic of Suriname
-| عام نوم              = Suriname
-| بېرغ               = Flag of Suriname.svg
-| نښان               =
-| national_motto           = [[Latin]]: ''Justitia - Pietas - Fides'' <br /> ([[English language|English]]: "Justice - Piety - Loyalty")
-| نخشه                = LocationSuriname.png
-| ملي سرود          = [[Opo kondreman]]
-| رسمي ژبه       = [[Dutch language|Dutch]]
-| پلازمېنه                  = [[پاراماريبو]]
-| latd=4|latm=00|latNS=N|longd=56|longm=00|longEW=W
-| د حکومت بڼه          = [[Constitutional democracy]]
-| leader_title1            = [[President of Suriname|President]]
-| leader_name1             = [[Ronald Venetiaan]]
-| لوی ښار             = [[پاراماريبو]]
-| مساحت                     = 163,270
-|areami²                   =  63,034<!-- Do not remove per [[WP:MOSNUM]] -->
-| مساحتي وېش               = 90th
-| د مساحت ارتوالی           = 1 E11
-| د اوبو سلنه            = 1.10%
-| د وګړو اټکل     = 449,000
-| د وګړو د شمېر د اټکل کال = جولای 2005
-| population_estimate_rank = 169th
-| د وګړو سرشمېرنه        = 487,024
-| د وګړو د سرشمېرنې کال   = 2004
-| د وګړو ګڼه ګونه      = 3
-|population_densitymi²     = 7 <!-- Do not remove per [[WP:MOSNUM]] -->
-| population_density_rank  = 224th
-| GDP_PPP_year             = 2005
-| GDP_PPP                  = $2.081 billion<!--CIA-->
-| GDP_PPP_rank             = 181st
-| GDP_PPP_per_capita       = $4,700
-| GDP_PPP_per_capita_rank  = 107th
-| HDI_year = 2003
-| HDI = 0.755
-| HDI_rank = 86th
-| HDI_category = <font color="#FFCC00">medium</font> 
-| زمکنۍ بشپړتيا         = [[خپلواکي]]
-| sovereignty_note         = From the [[Netherlands]] 
-| established_event1      = Date
-| established_date1        = [[November 25]], [[1975]]
-| پېسه= [[سورينامي ډالر]]
-| د پېسو نښه            = SRD
-| وخت                = ART
-| utc_offset               = -3
-| time_zone_DST            = ''not observed''
-| utc_offset_DST           = -3
-| cctld                    = [[.sr]]
-| پېل ګڼ             = 597
-| پايڅوړ= 
-| colspan=2 align=right style="padding: 0 5px 0 5px" | {{ed|Template:Suriname infobox|this box}}}}
+|ولسي نوم              = ''Republiek Suriname'' {{nl icon}}
+|اوږد دوديز نوم   = د سورينام جمهوريت
+|ټولګړی نوم              = سورينام
+|image_flag               = Flag of Suriname.svg
+|image_coat               = Coat of arms of Suriname.svg
+|national_motto           = ''Justitia - Pietas - Fides''{{nbsp|2}}<small>{{la icon}}<br/>"Justice - Duty - Loyalty"</small>
+|image_map                = Suriname (orthographic projection).svg
+|national_anthem          = ''[[God zij met ons Suriname]]'' {{nbsp|2}}<small>{{nl icon}}<br />''('God be with our Suriname')''</small>
+|official_languages       = [[Dutch language|Dutch]]
+|regional_languages       = [[Sranan Tongo]], [[Hindi]], [[English language|English]], [[Sarnami]], [[Javanese language|Javanese]], [[Malay language|Malay]], [[Bhojpuri]], [[Hakka Chinese|Hakka]], [[Yue Chinese|Cantonese]],  [[Saramaccan]], [[Paramaccan]], [[Ndyuka (language)|Ndyuka]], [[Kwinti]], [[Matawai language|Matawai]], [[Cariban]], [[Arawakan]]
+[[carib language|Kalina]]{{Citation needed|date=October 2008}}
+|demonym                  = Surinamese
+|capital                  = [[Paramaribo]]
+|latd=5 |latm=50 |latNS=N |longd=55 |longm=10 |longEW=W
+|government_type          = [[Constitutional democracy]]
+|leader_title1            = [[President of Suriname|President]]
+|leader_name1             = [[Dési Bouterse]]
+|largest_city             = [[Paramaribo]]
+|area_km2                 = 163,821
+|area_sq_mi               = 63,251 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank                = 91st
+|area_magnitude           = 1 E11
+|percent_water   Mariah Dork         = 1.1
+|population_estimate      = 481,267<ref name=cia>{{Cite web|author=Central Intelligence Agency |authorlink=Central Intelligence Agency |publisher=[[The World Factbook]]|title=Suriname |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ns.html |year=2009|accessdate=23 January 2010}}</ref>
+|population_estimate_year = July 2009
+|population_estimate_rank = 167th
+|population_census        = 456,829<ref>[http://unstats.un.org/unsd/censuskb/attachments/Suriname-2004Census-Evaluation-GUID02905b7619cc40b49172b828033b2196.pdf Suriname Population] UN Stats. Pg. 47, Appendix 1. Retrieved 26 June 2009.</ref><!--DO ''not'' CHANGE UNTIL THE NEXT CENSUS-->
+|population_census_year   = 2004 <!--DO ''not'' CHANGE UNTIL THE NEXT CENSUS-->
+|population_density_km2   = 2.9
+|population_density_sq_mi = 7.6 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  = 231st
+|GDP_PPP_year             = 2009
+|GDP_PPP                  = $4.510 billion<ref name=imf2>{{Cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=366&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr1.x=38&pr1.y=10 |title=Suriname|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank             =
+|GDP_PPP_per_capita       = $8,642<ref name=imf2/>
+|GDP_PPP_per_capita_rank  =
+|GDP_nominal              = $2.962 billion<ref name=imf2/>
+|GDP_nominal_year         = 2009
+|GDP_nominal_per_capita   = $5,675<ref name=imf2/>
+|HDI_year                 = 2007
+|HDI                      = {{increase}} 0.769<ref name="UN">{{Cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf|title=Human Development Report 2009. Human development index trends: Table G|publisher=The United Nations|accessdate=2009-10-18}}</ref>
+|HDI_rank                 = 97th
+|HDI_category             = <span style="color:#fc0;">medium</span>
+|sovereignty_type         = [[Independence]]
+|sovereignty_note         = From the [[Netherlands]]
+|established_event1       = Date
+|established_date1        = 25 November 1975
+|currency                 = [[Surinamese dollar]]
+|currency_code            = SRD
+|time_zone                = ART
+|utc_offset               = -3
+|time_zone_DST            = ''not observed''
+|utc_offset_DST           = -3
+|drives_on                = [[Suriname#Transport|left]]
+|cctld                    = [[.sr]]
+|calling_code             = 597
+|footnotes                = Suriname's [[ISO 3166]] code is [[ISO 3166-2:SR|SR]]
+}}
 
 '''Suriname''', officially the '''Republiek Suriname''', is a country in northern [[South America]]. Other common names are '''Surinam''' or '''Sranang'''. It was [[Geographical renaming|formerly known as]] Nederlands Guyana, ''[[Netherlands]] Guiana'' or ''Dutch Guiana''. It lies in between [[French Guiana]] to the east and [[ګيانا]] to the west. The southern border is shared with [[برازيل]] and the northern border is the [[Atlantic Ocean|Atlantic]] coast. The most southern parts of the borders with Guyana and French Guiana are disputed (upper [[Courantyne River|Corantijn]] and [[Maroni River|Marowijne]] rivers—the map shows the Guyana and French Guiana versions of the border).
 
