@@ -1,54 +1,68 @@
 {{هېواد-مالوماتبکس
-|ملي نوم = Co-operative Republic of Guyana
-|ټولګړی نوم = Guyana
-|image_flag = Flag of Guyana.svg
-|image_coat = Guyana_coa.png
-|image_map = LocationGuyana.png
-|ملي ترانه = One People, One Nation, One Destiny
-|ملي ترانه = [[Dear Land of Guyana, of Rivers and Plains]]
-|رسمي ژبې/ژبې = [[انګرېزي]]
-|پلازمېنه = [[جيورج ټاون]]
-|latd=6 |latm=48 |latNS=N |longd=58 |longm=10 |longEW=W
-|largest_city = [[Georgetown, Guyana|Georgetown]]
-|د حکومت بڼه = جمهوريت <br /><small>within the Commonwealth</small>
-|leader_titles = <br />[[ولسمشر]]<br />[[د ګيانا لومړی وزير|لومړی وزير]]
-|leader_names =[[Bharrat Jagdeo]]<br />[[Sam Hinds]]
-|area_rank = 84th
-|area_magnitude = 1 E11
-|مساحت=214,970
-|areami²= 83,000.4<!-- Do not remove per [[WP:MOSNUM]] -->
-|percent_water = 8.4
-|population_estimate =  765,283<sup>1,2</sup>
-|population_estimate_rank = 163th
-|population_estimate_year = July 2005
-|population_census = 751,223
-|population_census_year = 2002
-|population_density =3.6
-|population_densitymi² = 9.2 <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 184th
-|GDP_PPP =  $3.002 billion
-|GDP_PPP_rank = 172nd
-|GDP_PPP_year= 2005
-|GDP_PPP_per_capita = $3,900
-|GDP_PPP_per_capita_rank = 147th
-|sovereignty_type = [[خپلواکي]]
-|established_events = From the [[United Kingdom|UK]]
-|established_dates = [[May 26]], [[1966]]
-|HDI = 0.720 
-|HDI_rank = 107th
-|HDI_year = 2003
-|HDI_category = <font color="#FFCC00">medium</font>
-|پېسه = [[Guyanese dollar]]
-|currency_code = GYD
-|country_code = 
-|time_zone = 
-|utc_offset = -4
-|time_zone_DST = 
-|utc_offset_DST = 
-|cctld = [[.gy]]
-|calling_code = 592
-|footnotes = <sup>1</sup> note: Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2005 est.).
-<sup>2</sup> about 230,000 live in [[Georgetown, Guyana|Georgetown]]
+| اوږد دوديز نوم   = Co-operative Republic of Guyana<ref name="Constitution" />
+|ټولګړی نوم              = ګيانا
+| image_flag               = Flag of Guyana.svg
+| image_coat               = Coat_of_arms_of_Guyana.png
+| national_motto           = "One people, one nation, one destiny"
+| national_anthem          = "[[Dear Land of Guyana, of Rivers and Plains]]"
+| image_map                = Guyana (orthographic projection).svg
+| capital                  = [[Georgetown, Guyana|Georgetown]]
+| largest_city             = capital
+| latd=6 |latm=46 |latNS=N |longd=58 |longm=10 |longEW=W
+| capital                  = [[Georgetown, Guyana|Georgetown]]
+| official_languages       = [[English Language|English]]
+| regional_languages       = [[Guyanese Creole]], [[Portuguese language|Portuguese]], [[Hindi]], [[Spanish language|Spanish]], [[Akawaio]], [[Macushi]], [[Wai-Wai (language)|Wai Wai]], [[Arawakan languages|Arawak]], [[Patamona]], [[Warrau]], [[Carib]], [[Wapishiana]], [[Arekuna]]
+| Dialect                  =
+| ethnic_groups            = [[East Indian]] 43.5%<br />Black (African) 30.2%<br />Mixed 16.7%<br />Amerindian 9.1%<br />Other 0.5%<ref name="cia" /><ref name="2002Census" />
+| demonym                  = Guyanese
+| government_type          = [[Semi-presidential system|Semi-presidential republic]]
+| leader_title1            = [[President of Guyana|President]]
+| leader_name1             = [[Bharrat Jagdeo]]
+| leader_title2            = [[List of Prime Ministers of Guyana|Prime Minister]]
+| leader_name2             = [[Samuel Hinds]]
+| area_rank                = 84th
+| area_magnitude           = 1 E11
+| area_km2                 = 214,970
+| area_sq_mi               = 83,000 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water            = 8.4
+| population_estimate      = 752,940<ref name="cia" /><sup>1</sup>
+| population_estimate_rank = 161
+| population_estimate_year = July 2010
+| population_census        = 751,223<!--DO ''not'' CHANGE UNTIL THE NEXT CENSUS WHICH WILL BE IN 2010--><ref name="2002Census">[http://www.statisticsguyana.gov.gy/census.html#popcenfinal Guyana 2002 Census] Bureau of Statistics - Guyana. Retrieved 25 June 2009.</ref>
+| population_census_year   = 2002<!--DO ''not'' CHANGE UNTIL THE NEXT CENSUS WHICH WILL BE IN 2010-->
+| population_density_km2   = 3.502
+| population_density_sq_mi = 9.071 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank  = 225th
+| GDP_PPP                  = $4.877 billion<ref name="imf2" />
+| GDP_PPP_year             = 2009
+| GDP_PPP_per_capita       = $6,477<ref name="imf2" />
+| GDP_nominal              = $2.024 billion<ref name="imf2" />
+| GDP_nominal_year         = 2009
+| GDP_nominal_per_capita   = $2,688<ref name="imf2" />
+| currency                 = [[Guyanese dollar]]
+| currency_code            = GYD
+| sovereignty_type         = Former Colonies and [[Independence]]
+| established_event1       = [[Dutch Guiana]]
+| established_date1        = 1667–1814
+| established_event2       = [[British Guiana]]
+| established_date2        = 1814–1966
+| established_event3       = from the [[United Kingdom]]
+| established_date3        = 26 May 1966
+| established_event4       = Republic
+| established_date4        = 23 February 1970
+| HDI                      = {{increase}} 0.729<ref name="UN">{{cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf|title=Human Development Report 2009. Human development index trends: Table G|publisher=The United Nations|accessdate=2009-10-18}}</ref>
+| HDI_rank                 = 114th
+| HDI_year                 = 2007
+| HDI_category             = <span style="color:#fc0;">medium</span>
+| country_code             =
+| time_zone                =
+| utc_offset               = -4
+| time_zone_DST            =
+| utc_offset_DST           =
+| drives_on                = left
+| cctld                    = [[.gy]]
+| calling_code             = 592
+| footnote1                = Around one-third of the population (230,000) live in the capital, Georgetown.
 }}
 
 The '''Co-operative Republic of Guyana''' is a [[nation]] on the northern coast of [[South America]], just above the Equator and a part of the western part of the wider region of [[Guiana]]. The country is bordered to the east by [[سورېنام]], to the south by [[برازيل]], to the west by [[Venezuela]] and to the north by the [[Atlantic Ocean]]. It is the third smallest country in South America and approximately the size of [[Great Britain]] or [[Idaho]].
