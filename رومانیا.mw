@@ -1,93 +1,64 @@
-{{غځول}}
 {{هېواد-مالوماتبکس
-|ملي نوم            = ''România''
-|اوږد دوديزه نوم   = رومانیا
-|ټولګړی نوم              = Romania
-|image_flag               = Flag of Romania.svg
+|ولسي نوم= <span style="line-height:1.33em;"><big> ''România'' 
+|اوږد دوديز نوم= <span style="line-height:1.33em;">رومانیا</span>
+|ټولګړی نوم= Romania
+|image_flag               =Flag of Romania.svg
 |image_coat               = Coat of arms of Romania.svg
 |image_map = EU-Romania.svg
+|سمبول              = نښان
 |map_caption = {{map_caption |location_color=green |region=[[Europe]] |region_color=grey |subregion=the [[European Union]] |subregion_color=light green |legend=EU-Romania.svg}}
-|ملي سرود          = <span style="line-height:1.25em;">''[[Deşteaptă-te, române!]]''<small><br />''ویښ, رومانیایي!''</small></span>
-||رسمي ژبې/ژبې       = [[رومانیایي ژبه|رومانیایي]]<sup>1</sup>
-|ethnic_groups            = 89.5% [[رومانیایان]], 6.6% [[Hungarians]], 2.5% [[Romani people|Roma]], 1.4% other minority groups
-|demonym                  = [[Romanians|Romanian]]
-|government_type          = [[Unitary state|Unitary]] [[semi-presidential]] [[republic]]
-|capital                  = [[بخاریت]]&nbsp;(''Bucureşti'')
-|latd                     = 44
-|latm                     = 25
-|latNS                    = N
-|longd                    = 26
-|longm                    = 06
-|longEW                   = E
-|largest_city             = capital
-|leader_title1            = [[President of Romania|President]]
-|leader_name1             = [[Traian Băsescu]] ([[Democratic Liberal Party (Romania)|PD-L]])
-|leader_title2            = [[Prime Minister of Romania|Prime Minister]]
-|leader_name2             = [[Emil Boc]] ([[Democratic Liberal Party (Romania)|PD-L]])
-|leader_title3            = [[President of the Senate of Romania|Pres of Senate]]
-|leader_name3             = [[Mircea Geoană]] ([[Social Democratic Party (Romania)|PSD]])
-|leader_title4            = [[President of the Chamber of Deputies of Romania|House Speaker]]
-|leader_name4             = [[Roberta Anastase]] ([[Democratic Liberal Party (Romania)|PD-L]])
-|leader_title5            = [[President of the High Court of Cassation and Justice of Romania|Chief Justice]]
-|leader_name5             = [[Lidia Bărbulescu]]
-|area_rank                = 82nd
-|area_magnitude           = 1_E+11
-|area_km2                 = 238,391
-|area_sq_mi               = 92,043 <!--Do not remove per [[WP:MOSNUM]]-->
-|percent_water            = 3
-|population_estimate_year = July 2009
-|population_estimate      = {{Nts|22215421}}<ref name="INSSE">{{cite web|url = https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html|title = Romania - People|date = 1  November 2009|accessdate = January 1, 2010|publisher = https://www.cia.gov}}</ref>
-|population_estimate_rank = 51st
-|population_census_year   = 2002
-|population_census        = 21,680,974
-|population_density_km2   = 90
-|population_density_sq_mi = 233 <!--Do not remove per [[WP:MOSNUM]]-->
-|population_density_rank  = 104th
-|GDP_PPP_year             = 2010
-|GDP_PPP                  = $258.892 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=968&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=38&pr.y=12 |title=Romania|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref> <!--Do not edit!-->
-|GDP_PPP_rank             =
-|GDP_PPP_per_capita       = $12,131<ref name=imf2/> <!--Do not edit!-->
-|GDP_PPP_per_capita_rank  =
-|GDP_nominal              = $168.644 billion<ref name=imf2/> <!--Do not edit!-->
-|GDP_nominal_rank         =
-|GDP_nominal_year         = 2010
-|GDP_nominal_per_capita   = $7,902<ref name=imf2/> <!--Do not edit!-->
-|GDP_nominal_per_capita_rank =
-|HDI_year                 = 2009
-|HDI                      = {{increase}} 0.837
-|HDI_rank                 = 63rd
-|HDI_category             = <span style="color:green;">high</span>
-|Gini                     = 31
-|Gini_year                = 2005
-|Gini_rank                = 21<sup>st</sup>
-|Gini_category            = <span style="color:#090;">low</span>
-|sovereignty_type         = [[History of Romania|Formation]]
-|sovereignty_note         =
-|established_event1       = [[Transylvania]]
-|established_date1        = 1003
-|established_event2       = [[Wallachia]]
-|established_date2        = 1290
-|established_event3       = [[Moldavia]]
-|established_date3        = 1346
-|established_event4       = [[Mihai Viteazu|First Unification]]
-|established_date4        = 1599
-|established_event5       = Reunification of [[Alexandru Ioan Cuza|Valahia and Moldavia]]
-|established_date5        = January 24, 1859
-|established_event6       = Officially recognised independence from the [[Ottoman Empire]]
-|established_date6        = July 13, 1878
-|established_event7       = Unification with [[Union of Transylvania with Romania|Transylvania]]
-|established_date7        = December 1, 1918
-|accessionEUdate          = January 1, 2007
-|currency                 = [[Romanian leu]] 
-|currency_code            = RON
-|time_zone                = [[Eastern European Time|EET]]
-|utc_offset               = +2
-|time_zone_DST            = [[Eastern European Summer Time|EEST]]
-|utc_offset_DST           = +3
-|drives_on                = right
-|cctld                    = [[.ro]]<sup>4</sup>
-|calling_code             = [[Telephone numbers in Romania|40]]
-|footnotes                = <sup>1</sup> Other languages, such as [[Hungarian language|Hungarian]], [[German language|German]], [[Turkish language|Turkish]], [[Crimean Tatar language|Crimean Tatar]], [[Greek language|Greek]], [[Romani language|Romani]], [[Croatian language|Croatian]], [[Macedonian language|Macedonian]], [[Ukrainian language|Ukrainian]] and [[Serbian language|Serbian]], are official at various local levels.<br /><sup>2</sup> [[Romanian War of Independence]].<br /><sup>3</sup> [[Treaty of Berlin (1878)|Treaty of Berlin]].<br /><sup>4</sup> The [[.eu]] domain is also used, as in other [[European Union]] member states.
+|ولسي ناره= 
+|ولسي ترانه          = ''[[د رومانیا ولسي لاره|Desteapta-te,_romane!‎]]''
+[[دوتنه:Desteapta-te,_romane!.ogg‎]]
+|رسمي ژبې/ژبې       = [[رومانیایي ژبه|رومانیایي]]
+|پلازمېنه                  = [[بخارست]]
+|latd=34 |latm=31 |latNS=N |longd=69 |longm=08 |longEW=E
+|لوی ښار             = بخارست
+|د حکومت بڼه          = [[نیمه ولسمشریزه]]
+|د لارښود لقب1            = [[د رومانیا ولسمشر|ولسمشر]]
+|د لارښود لقب2            = [[لمړۍ وزیر]]
+|د لارښود نوم1             = [[ترایان بسیسکو]]
+|د لارښود نوم2            = [[ایمیل بک]]
+|د لارښود لقب3            = [[د مشرانو جرګې مشر]]
+|د لارښود نوم3             = [[مېرچېه جوانا]]
+|ارتواليز وېش= يوڅلوېښتم هېواد
+|د ارتوالي څومره والی= 1_E11
+|ارتوالی= ۶۵۲،۰۹۰
+|areami²                  = ۲۵۱،۷۷۲ <!--Do not remove per [[WP:MOSNUM]]-->
+|د اوبو سلنه           = n/a
+|د وګړو اټکل      = ۲۹،۸۶۳،۰۰۰
+|د وګړو د شمېر د اټکل کال = ۲۰۰۵
+|د وګړو د اټکل له مخې وېش = اته دېرشم هېواد
+|د وګړو سرشمېرنه        = ۱۳،۰۵۱،۳۵۸
+|د وګړو د سرشمېرنې کال   = ۱۹۷۹
+|د وګړو ګڼه ګونه      = ۴۶
+|د وګړو ګڼه ګونه په هر متر² کې   = ۱۱۹ <!--Do not remove per [[WP:MOSNUM]]-->
+|د وېش له مخې د وګړو ګڼه ګونې= ۱۵۰
+|د ټول کورني عايداتو کال     = ۲۰۰۶
+|ټول کورني عايدات   = ۳۱،۹ بيليون $ 
+|د کورني عايداتو له مخې وېش   = ۹۱
+|GDP_PPP_per_capita       = $1,310
+|GDP_PPP_per_capita_rank  = ۱۶۲
+|HDI_year                 = ۱۹۹۳
+|HDI                      = ۰،۲۲۹
+|HDI_rank                 = unranked
+|HDI_category             = <font color="gray">n/a</font>
+|زمکنۍ بشپړتيا= [[د راولپېنډۍ تړون|خپلواکي]]
+|د زمکنۍ بشپړتيا يادښت= له برطانيې او آيرلېنډ نه ترلاسه کړې
+|established_event1       = د اعلانېدو نېټه
+|established_event2       = د پېژندلو نېټه
+|established_date1        = [[۸ اګسټ]] [[۱۹۱۹]]
+|established_date2        = [[۱۹ اګسټ]] [[۱۹۱۹]]
+|پېسه                 = [[افغانۍ <small>(Af)</small>]]
+|د پېسو نښه = AFN
+|هېوادنی کوډ             = AFG
+|د وخت سيمه=
+|utc_offset               = +۴:۳۰
+|time_zone_DST            = 
+|utc_offset_DST           = +۴:۳۰
+|cctld                    = [[.af]]
+|پېل ګڼ        = ۹۳
+|پايڅوړ                = 
 }}
 
 
