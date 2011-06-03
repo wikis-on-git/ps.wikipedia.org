@@ -1,195 +1,19 @@
-{{ژباړل}}
-[[دوتنه:Action potential vert.png|thumb|350px|'''A.''' A schematic view of an idealized action potential illustrates its various phases as the action potential passes a point on a [[cell membrane]]. '''B.''' Actual recordings of action potentials are often distorted compared to the schematic view because of variations in [[electrophysiology|electrophysiological]] techniques used to make the recording]]
 
-کړنی-سېک يوه داسې برېښناييزه څپه ده چې د سلولونو پر پردې خپل مزل وهي. کړنی-سېک د حېواني ژوند يو اهم توکی دی، او د نسجونو تر مېنځ په ډېرې چټکۍ سره د مالوماتو لېږدنه رالېږدنه د همدغې څپې کار دی. کړني-سېکونه په بوټو کې هم پېښېږي. همدا څپې د بېلابېلو سلولونو لخوا جوړېږي، خو په لويه کچه د عصبي غونډال لخوا ډېر زيات د نيورانونو تر مېنځ د مواصلاتو له لارې د مالوماتو لېږلو لپاره کارېږي، ددې تر څنګ د نيورانونو نه د بدن نورو نسجونو ته لکه عضلاتي نسجونو او مرغړيو ته هم د مالوماتو د لېږد په چارو کې همدا څپې کارېږي.
+[[دوتنه:Action potential vert.png|thumb|350px|'''A.''' A schematic view of an idealized action potential illustrates its various phases as the action potential passes a point on a [[cell membrane]]. '''B.''' Actual recordings of action potentials are often distorted compared to the schematic view because of variations in [[electrophysiology|electrophysiological]] techniques used to make the recording]]
+'''کړنی-سېک''' يوه داسې برېښناييزه څپه ده چې د سلولونو پر پردې خپل مزل وهي. کړنی-سېک د حېواني ژوند يو اهم توکی دی، او د نسجونو تر مېنځ په ډېرې چټکۍ سره د مالوماتو لېږدنه رالېږدنه د همدغې څپې کار دی. کړني-سېکونه په بوټو کې هم پېښېږي. همدا څپې د بېلابېلو سلولونو لخوا جوړېږي، خو په لويه کچه د عصبي غونډال لخوا ډېر زيات د نيورانونو تر مېنځ د مواصلاتو له لارې د مالوماتو لېږلو لپاره کارېږي، ددې تر څنګ د نيورانونو نه د بدن نورو نسجونو ته لکه عضلاتي نسجونو او مرغړيو ته هم د مالوماتو د لېږد په چارو کې همدا څپې کارېږي.
 
 په بېلابېلو سلولونو کې کړني-سېکونه ټول يوشانتې نه دي او آن په يوه سلول کې د ځانګړنو او د سلول په بېلابېلو برخو کې د کړني-سېکونو کچه يوشی نه ده. د ساري په توګه د زړه کړني-سېکونه په ښکاره توګه د ډېريو نيورانونو د کړني-سېکونو سره خورا توپير لري. دا ليکنه په ځانګړې توګه د يوه ټيپيک يا عام کړني-سېک په هکله چې په اکسونونو کې پېښېږي ليکل شوې.
-== يوه کتنه ==
-There is always a difference in electrostatic [[membrane potential|potential]] between the inside and outside of a cell: the cell is ''polarized''. This [[membrane potential]] is the result of the distribution of [[ion]]s across the cell membrane and the permeability of the membrane to these ions. The voltage of an inactive cell remains close to a [[resting potential]] with excess negative charge inside the cell. When the membrane of an excitable cell becomes [[depolarization|depolarized]] beyond a threshold, the cell undergoes an action potential (it "fires), often called a "spike" (''وګورۍ [[#درشل او پېل|درشل او پېل]]'').
 
-An action potential is a rapid change of the polarity of the voltage from negative to positive and then vice versa, the entire cycle lasting on the order of milliseconds. Each cycle — and therefore each action potential — has a ''rising phase'', a ''falling phase'', and finally an ''undershoot'' (''see [[#Phases|Phases]]''). In specialized muscle cells of the [[heart]], such as [[cardiac pacemaker|cardiac pacemaker cells]], a ''plateau phase'' of intermediate voltage may precede the falling phase, extending the action potential duration into hundreds of milliseconds.
 
-Action potentials are measured with the recording techniques of [[electrophysiology]] and more recently with [[neurochip]]s containing [[EOSFET]]s. An [[oscilloscope]] recording the membrane potential from a single point on an axon shows each stage of the action potential as the wave passes. These phases trace an arc that resembles a distorted [[sine]] wave; its amplitude depends on whether the action potential wave has reached that point on the membrane or has passed it and if so, how long ago.
 
-The action potential does not dwell in one location of the cell's membrane, but travels along the membrane (''see [[#Propagation|Propagation]]''). It can travel along an [[axon]] for long distances, for example to carry signals from the [[spinal cord]] to the muscles of the [[foot]]. In large animals, such as [[giraffe]]s and [[whale]]s, the distance traveled can be many meters. After traveling the whole length of the axon, the action potential reaches a [[synapse]], where it stimulates the release of [[neurotransmitters]]. These neurotransmitters can immediately induce an action potential in the next neuron to propagate the signal, but the response is usually more complex.
 
-Both the speed and complexity of action potentials vary between different types of cells, but their amplitudes tend to be roughly the same. Within any one cell, consecutive action potentials are typically indistinguishable. Neurons are thought to transmit information by generating sequences of action potentials called "spike trains". By varying both the rate as well as the precise timing of the action potentials they generate, neurons can change the information that they transmit.
 
-== لاندې پراته مېکانيزم ==
-[[دوتنه:CellMembraneDrawing.jpg|thumb|300px|The hydrophobic [[cell membrane]] prevents charged molecules from easily diffusing through it, permitting a [[transmembrane potential|potential difference]] to exist across the membrane.]]
 
-=== ولاړ سېک ===
-{{main|Resting potential}}
-The resting potential is what would be maintained were there no action potentials, [[Inhibitory Post-Synaptic Current|synaptic potentials]], or other changes to the membrane potential. In neurons the resting potential is approximately -70 [[volt|mV]] (the negative sign signifies excess negative charge inside the cell relative to the outside). The resting potential is mostly determined by the ion concentrations in the fluids on both sides of the [[cell membrane]] and the [[membrane transport|ion transport]] [[protein]]s in the cell membrane. The term ''resting'' is somewhat misleading, for the cell must constantly do work to maintain the resting potential. The establishment of this potential difference involves several factors, the most important of which are the transport of ions across the cell membrane and the selective permeability of the membrane to these ions.
 
-The [[active transport]] of [[potassium]] and [[sodium]] ions into and out of the cell, respectively, is accomplished by a number of [[Na,K-ATPase|sodium-potassium pumps]] scattered across the cell membrane. Each pump transports two ions of potassium into the cell for every three ions of sodium pumped out. This establishes a particular distribution of positively charged ions across the cell membrane, with more sodium present outside the cell than inside, and more potassium inside the cell than outside. In some situations, the electrogenic sodium-potassium pumps make a significant contribution to the resting membrane potential, but in most cells there are [[potassium leak channel]]s that dominate the value of the resting potential.
 
-Sodium and potassium ions [[diffusion|diffuse]] through open ion channels under the influence of their [[electrochemical gradient]]s. At the resting potential, the net movement of sodium into the cell equals the net movement of potassium out of the cell. However, the resting cell membrane is approximately 75 times more permeable to potassium than to sodium because potassium leak channels are always open. As a result, the cell's resting membrane potential is closer to the [[equilibrium potential]] of potassium (=''E''<sub>K</sub>=−80 mV) than the equilibrium potential of sodium (=''E''<sub>Na</sub>=+70 mV).
 
-Like the resting potential, action potentials depend upon the permeability of the cell membrane to sodium and potassium ions. Transient changes in conductance for different ions cause the changes in membrane potential necessary to initiate, sustain, and terminate action potentials.
 
-== پړاونه ==
-The sequence of events that underlie the action potential are outlined below:
 
-==== ولاړ سېک ====
-At [[resting potential]] some [[Resting ion channel|potassium leak channels]] are open but the [[Sodium ion channel#Voltage gated sodium channels|voltage-gated sodium channels]] are closed. Even though no ''net'' current flows, potassium, the major ion species, moves across the membrane, thus pulling the resting potential close to the K<sup>+</sup> [[equilibrium potential]].
-
-==== پارېدنه ====
-A local membrane depolarization caused by an excitatory stimulus causes some voltage-gated sodium channels in the neuron cell surface membrane to open and sodium ions diffuse in through the channels along their electrochemical gradient. Being positively charged, they begin a reversal in the potential difference across the membrane from negative-inside to positive-inside. Initially, the inward movement of sodium ions is also favored by the negative-inside membrane potential. Overall the ions are under the influence of the ''driving force'', the difference between the membrane potential and the equilibrium potential of sodium.
-
-==== د جګېدو پړاو ====
-As sodium ions enter and the membrane potential becomes less negative, more sodium channels open, causing an even greater influx of sodium ions. This is an example of [[positive feedback]]. As more sodium channels open, the sodium current dominates over the potassium leak current and the [[membrane potential]] becomes positive inside.
-
-==== څوکه ====
-By the time the membrane potential has reached a peak value of around +30 mV voltage-sensitive inactivation gates on the sodium channels have already started to close, reducing and finally preventing further influx of sodium ions. While this occurs, the voltage-sensitive activation gates on the [[Potassium channel#Voltage sensitive channels|voltage-gated potassium channels]] begin to open.
-
-==== د راولېدو پړاو ====
-As voltage-gated potassium channels open, there is a large outward movement of potassium ions driven by the potassium concentration gradient and initially favored by the positive-inside electrical gradient. As potassium ions diffuse out, this movement of positive charge causes a reversal of the membrane potential to negative-inside and repolarization of the neuron back towards the large negative-inside resting potential.
-
-==== Undershoot ====
-Closing of voltage-gated potassium channels is both voltage- and time-dependent. As potassium exits the cell, the resulting membrane repolarization initiates the closing of voltage-gated potassium channels. These channels do not close immediately in response to a change in membrane potential; rather, voltage-gated potassium channels (also called ''delayed rectifier potassium channels'') have a delayed response, such that potassium continues to flow out of the cell even after the membrane has fully repolarized. Thus the membrane potential dips below the normal resting membrane potential of the cell for a brief moment; this dip of hyperpolarization is known as the ''undershoot''.
-
-== درشل او پېل ==
-[[دوتنه:Whole cell IV showing rest and AP thresh.jpg|thumb|300px|A [[I/V curve|plot]] of [[electrical current|current]] (ion flux) against [[voltage]] (transmembrane potential) illustrates the action potential threshold (red arrow) of an idealized cell.]]
-
-Action potentials are triggered when an initial depolarization reaches the ''threshold''. This threshold potential varies, but generally is about 15 millivolts more positive than the cell's resting membrane potential, occurring when the inward sodium current exceeds the outward potassium current. The net influx of positive charges carried by sodium ions depolarizes the membrane potential, leading to the further opening of [[Sodium ion channel|voltage-gated sodium channels]]. These channels support greater inward current causing further depolarization, creating a positive-feedback cycle that drives the membrane potential to a very depolarized level.
-
-The action potential threshold can be shifted by changing the balance between sodium and potassium currents. For example, if some of the sodium channels are in an inactivated state, then a given level of depolarization will open fewer sodium channels and a greater depolarization will be needed to trigger an action potential. This is the basis for the ''refractory period'' (''see [[#Refractory period|Refractory period]]'').
-
-Action potentials are largely dictated by the interplay between sodium and potassium ions (although there are minor contributions from other ions such as calcium and chloride), and are often modeled using hypothetical cells containing only two transmembrane ion channels (a voltage-gated sodium channel and a non-voltage-gated potassium channel). The origin of the action potential threshold may be studied using [[I/V curve]]s (right) that plot currents through ion channels against the cell's membrane potential. (Note that the illustrated I/V is an "instantaneous" current voltage relationship. It represents the peak current through channels at a given voltage before any inactivation has taken place (i.e. ~ 1 ms after stepping to that voltage for the Na current. The most positive voltages in this plot are only attainable by the cell through artificial means - i.e. voltages imposed by the voltage-clamp apparatus).
-
-Four significant points in the I/V curve are indicated by arrows in the figure:
-
-# The green arrow indicates the resting potential of the cell and also the value of the [[reversal potential|equilibrium potential]] for potassium (E<sub>k</sub>). As the K<sup>+</sup> channel is the only one open at these negative voltages, the cell will rest at E<sub>k</sub>.
-# The yellow arrow indicates the equilibrium potential for Na<sup>+</sup> (E<sub>Na</sub>). In this two-ion system, E<sub>Na</sub> is the natural limit of membrane potential beyond which a cell cannot pass. Current values illustrated in this graph that exceed E<sub>Na</sub> are measured by artificially pushing the cell's voltage past its natural limit. Note however, that E<sub>Na</sub> could only be reached if the potassium current were absent.
-# The blue arrow indicates the maximum voltage that the peak of the action potential can approach. This is the actual natural maximum membrane potential that this cell can reach. It cannot reach E<sub>Na</sub> because of the counteracting influence of the potassium current.
-# The red arrow indicates the action potential threshold. This is where I<sub>sum</sub> becomes net-inward. Note that this is a zero-current crossing, but with a negative slope. Any such "negative slope crossing" of the zero current level in an I/V plot is an unstable point. At any voltage negative to this crossing, the current is outward and so a cell will tend to return to its resting potential. At any voltage positive of this crossing, the current is inward and will tend to depolarize the cell. This depolarization leads to more inward current, thus the sodium current become regenerative. The point at which the green line reaches its most negative value is the point where all sodium channels are open. Depolarizations beyond that point thus decrease the sodium current as the [[reversal potential|driving force]] decreases as the membrane potential approaches E<sub>Na</sub>.
-
-The action potential threshold is often confused with the "threshold" of sodium channel opening. This is incorrect, because sodium channels have no threshold. Instead, they open in response to depolarization in a [[stochastic]] manner. Depolarization does not so much open the channel as increases the probability of it being open. Even at hyperpolarized potentials, a sodium channel will open very occasionally. In addition, the threshold of an action potential is not the voltage at which sodium current becomes significant; it is the point where it exceeds the potassium current.
-
-Biologically in neurons, depolarization typically originates in the dendrites at [[synapse]]s. In principle, however, an action potential may be initiated anywhere along a [[nerve fiber]]. In his discovery of "animal electricity," [[Luigi Galvani]] made a leg of a dead frog kick as in life by touching a [[sciatic nerve]] with his scalpel, to which he had inadvertently transferred a negative, static-electric charge, thus initiating an action potential.
-
-== Circuit model ==
-[[دوتنه:RC membrane circuit.jpg|right|thumbnail|300px|'''A.''' A basic [[RC circuit]] superimposed on an image of a membrane bilayer shows the relationship between the two. '''B.''' More elaborate circuits can be used to model membranes containing ion channels, such as this one containing at channels for sodium (blue) and potassium (green).]]
-
-Cell membranes that contain [[ion channel]]s can be modeled as [[RC circuit]]s to better understand the propagation of action potentials in biological membranes. In such a circuit, the [[resistor]] represents the membrane's ion channels, while the [[capacitor]] models the insulating lipid membrane. [[Potentiometer|Variable resistors]] are used for voltage-gated ion channels, as their resistance changes with voltage. A fixed resistor represents the potassium leak channels that maintain the membrane's resting potential. The sodium and potassium gradients across the membrane are modeled as voltage sources ([[battery (electricity)|batteries]]).
-
-== خپرېدنه ==
-[[دوتنه:AP propagation membrane model view.jpg|right|thumbnail|300px|Propagating action potentials can be modeled by joining several RC circuits, each one representing a patch of membrane.]]
-
-In unmyelinated axons, action potentials propagate as an interaction between passively spreading membrane depolarization and voltage-gated sodium channels. When one patch of cell membrane is depolarized enough to open its voltage-gated sodium channels, sodium ions enter the cell by [[facilitated diffusion]]. Once inside, positively-charged sodium ions "nudge" adjacent ions down the axon by [[electrostatic repulsion]] (analogous to the principle behind [[Newton's cradle]]) and attract negative ions away from the adjacent membrane. As a result, a wave of positivity moves down the axon without any individual ion moving very far. Once the adjacent patch of membrane is depolarized, the voltage-gated sodium channels in that patch open, regenerating the cycle. The process repeats itself down the length of the axon, with an action potential regenerated at each segment of membrane.
-
-=== د خپرېدنې چټکتيا ===
-:''See also: [[Time constant#Time constants in neurobiology|Time constant]] and [[Length constant]]''
-Action potentials propagate faster in axons of larger diameter, other things being equal. They typically travel from 10-100 m/s. The main reason is that the axial resistance of the axon lumen is lower with larger diameters, because of an increase in the ratio of cross-sectional area to membrane surface area. As the membrane surface area is the chief factor impeding action potential propagation in an unmyelinated axon, increasing this ratio is a particularly effective way of increasing conduction speed.
-
-An extreme example of an animal using axon diameter to speed action potential conduction is found in the [[Loligo pealei|Atlantic squid]]. The [[squid giant axon]] controls the muscle contraction associated with the squid's predator [[escape response]]. This axon can be more than 1 mm in diameter, and is presumably an [[adaptation (biology)|adaptation]] to allow very fast activation of the escape behavior. The velocity of nerve impulses in these fibers is among the fastest in nature. Squids are notable examples of organisms with unmyelinated axons; the first tests to try to determine the mechanism by which impulses travel along axons, involving the detection of a potential difference between the inside and the surface of a neuron, were undertaken in the 1940s by [[Alan Hodgkin]] and [[Andrew Huxley]] using squid giant axons because of their relatively large axon diameter. Hodgkin and Huxley won their shares of the [[1963]] [[Nobel Prize in Physiology or Medicine]] for their work on the electrophysiology of nerve action potentials.
-
-In the [[autonomic nervous system]] in mammals, postganglionic neurons are unmyelinated. The small diameter of these axons (about 2 µ) results in a propagatory speed of approximately 1 m/s, as opposed to approximately 18 m/s in myelinated nerve fibers of comparable diameter, thus highlighting the effect of myelination on the speed of transmission of impulses.
-
-=== Saltatory conduction ===
-In myelinated axons, [[saltatory conduction]] is the process by which an action potential appears to jump along the length of an axon, being regenerated only at uninsulated segments (the [[node of Ranvier|nodes of Ranvier]]). Saltatory conduction increases nerve conduction velocity without having to dramatically increase axon diameter.
-
-Saltatory conduction has played an important role in the evolution of larger and more complex organisms whose nervous systems must rapidly transmit action potentials across greater distances. Without saltatory conduction, conduction velocity would need large increases in axon diameter, resulting in organisms with nervous systems too large for their bodies.
-
-==== تفصيلي مېکانيزم ====
-The main impediment to conduction speed in unmyelinated axons is membrane [[capacitance]]. In an [[electric circuit]], the capacitance of a [[capacitor]] can be decreased by decreasing the cross-sectional area of its plates, or by increasing the distance between plates. The nervous system uses [[myelin]] as its main strategy to decrease membrane capacitance. Myelin is an insulating sheath wrapped around axons by [[Schwann cell]]s and [[oligodendrocyte]]s, [[neuroglia]] that flatten their cytoplasm to form large sheets made up mostly of plasma membrane. These sheets wrap around the axon, moving the conducting plates (the intra- and extracellular fluid) farther apart to decrease membrane capacitance.
-
-The resulting insulation allows the rapid (essentially instantaneous) conduction of ions through a myelinated segment of axon, but prevents the regeneration of action potentials through those segments. Action potentials are only regenerated at the unmyelinated [[node of Ranvier|nodes of Ranvier]] which are spaced intermittently between myelinated segments. An abundance of voltage-gated sodium channels on these bare segments (up to four orders of magnitude greater than their density in unmyelinated axons<ref>http://soma.npa.uiuc.edu/courses/bio303/Ch5b.html</ref>) allows action potentials to be efficiently regenerated at the nodes of Ranvier.
-
-As a result of myelination, the insulated portion of the axon behaves like a passive wire: it conducts action potentials rapidly because its membrane capacitance is low, and minimizes the degradation of action potentials because its membrane resistance is high. When this passively propagated signal reaches a node of Ranvier, it initiates an action potential, which subsequently travels passively to the next node where the cycle repeats.
-
-==== Resilience to injury ====
-The length of myelinated segments of axon is important to saltatory conduction. They should be as long as possible to maximize the length of fast passive conduction, but not so long that the decay of the passive signal is too great to reach threshold at the next node of Ranvier. In reality, myelinated segments are long enough for the passively propagated signal to travel for at least two nodes while retaining enough amplitude to fire an action potential at the second or third node. Thus, the [[safety factor]] of saltatory conduction is high, allowing transmission to bypass nodes in case of injury.
-
-==== په ناروغيو کې د دې اهميت ====
-Some diseases degrade saltatory conduction and reduce the speed of action potential conductance. The most well-known of these diseases is [[multiple sclerosis]], in which the breakdown of myelin impairs coordinated movement.
-
-== Refractory period ==
-Where membrane has undergone an action potential, a [[refractory period]] follows. Thus, although the passive transmission of action potentials across myelinated segments would suggest that action potentials propagate in either direction, most action potentials travel unidirectionally because the node behind the propagating action potential is ''refractory''.
-
-This period arises primarily because of the voltage-dependent inactivation of sodium channels, as described by [[Alan Lloyd Hodgkin|Hodgkin]] and [[Andrew Huxley|Huxley]] in 1952. In addition to the voltage-dependent opening of sodium channels, these channels are also inactivated in a voltage-dependent manner. Immediately after an action potential, during the ''absolute refractory period'', virtually all sodium channels are inactivated and thus it is impossible to fire another action potential in that segment of membrane.
-
-With time, sodium channels are reactivated in a stochastic manner. As they become available, it becomes possible to fire an action potential, albeit one with a much higher threshold. This is the ''relative refractory period'' and together with the absolute refractory period, lasts approximately five milliseconds.
-
-== Termination and consequences ==
-An action potential proceeding along a membrane is prevented from reversing its direction by the refractory period, and will eventually depolarize the entire cell. When the action potential reaches an area where all the cell membrane is already depolarized or still in the refractory period, the action potential can no longer propagate. Because an action potential propagates only along contiguous membrane, another mechanism is necessary to transmit action potentials between cells. Neurons communicate with each other at a [[chemical synapse]]. Other cell types, such as [[cardiac muscle cell]]s, can communicate action potentials via [[electrical synapse]]s.
-
-The synapse is a very small gap between neurons that allows one-way communication. As the presynaptic neuron undergoes an action potential, voltage-sensitive calcium channels open and cause the release of neurotransmitters into the synapse. These chemical transmitters can initiate an action potential in the postsynaptic neuron, allowing communication between neurons. Some neurotransmitters inhibit action potentials, and the interaction of excitatory and inhibitory signals allows complex modulation of signals in the nervous system.
-
-== Evolutionary advantage ==
-The action potential, as a method of long-distance communication, fits a particular biological need seen most readily when considering the transmission of information along a nerve axon. To move a signal from one end of an axon to the other, nature must contend with physics similar to those that govern the movement of electrical signals along a wire. Due to the [[electrical resistance|resistance]] and [[capacitance]] of a wire, signals tend to degrade as they travel along that wire over a distance. These properties, known collectively as [[Cable theory|cable properties]] set the physical limits over which signals can travel. Thus, nonspiking neurons (which carry signals without action potentials) tend to be small. Proper function of the body requires that signals be delivered from one end of an axon to the other without loss. An action potential does not so much propagate along an axon, as it is newly regenerated by the membrane voltage and current at each stretch of membrane along its path. In other words, the nerve membrane recreates the action potential at its full amplitude as it travels down the axon, thus overcoming the limitations imposed by cable physics.
-
-== د بوټو کړنی-سېک ==
-Many plants also exhibit action potentials that travel via their [[phloem]] to coordinate activity. The main difference between plant and animal action potentials is that plants primarily use [[potassium]] and [[calcium]] currents while animals typically use currents of [[potassium]] and [[sodium]].
-
-== Alternative models ==
-The model of electrical signal propagation in neurons employing voltage-gated ion channels described above is accepted by almost all scientists working in the field. However there are a few observations not easily reconciled with the model: 
-* A signal traveling along a neuron is accompanied by a slight local thickening of the membrane and a force acting outwards.<ref>Iwasa K, Tasaki I, Gibbons RC (1980). Swelling of nerve fibers associated with action potentials. ''Science'' Vol. 210. no. 4467, pp. 338 - 339</ref> 
-* An action potential traveling along a neuron results in a slight increase in temperature followed by a decrease in temperature<ref>Ritchie JM, Keynes RD (1985). The production and absorption of heat associated with electrical activity in nerve and electric organ. ''Q Rev Biophys.'' 1985 Nov;18(4):451-76.</ref>; electrical charges traveling through a resistor however always ''produce'' heat.
-
-One recent alternative, the [[soliton model]], attempts to explain signals in neurons as pressure (or sound) [[soliton]]s traveling along the membrane, accompanied by electrical field changes resulting from [[piezoelectricity|piezo-electric]] effects.
-
-== دا هم وګورۍ ==
-* [[Cardiac action potential]]
-* [[Ventricular action potential]]
-* [[Membrane potential]]
-* [[Depolarization]]
-* [[Hyperpolarization (biology)|Hyperpolarization]]
-* [[Signals (biology)]]
-* [[Time constant]]
-* [[Length constant]]
-* [[Bursting]]
-
-== سرچينې ==
-=== ټولګړې سرچينې ===
-<div class="references-small">
-* Bear, M.F., B.W. Connors, and M.A. Paradiso. 2001. ''Neuroscience: Exploring the Brain''. Baltimore: Lippincott.[http://www.amazon.com/gp/product/images/0781739446]
-* [[Eric R. Kandel|Kandel ER]], Schwartz JH, Jessell TM. ''[[Principles of Neural Science]]'', 4th ed. McGraw-Hill, New York (2000). ISBN 0-8385-7701-6
-* Dale Purves, et al. ''Neuroscience, 2nd ed.'' 2001. Sinauer Associates, Inc. Ion Channels Underlying Action Potentials. [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=action+potential%5BAll+Fields%5D+AND+neurosci%5Bbook%5D+AND+231141%5Buid%5D&rid=neurosci.section.228]
-* Kent, M., ''Advanced Biology''. 2000. United Kingdom: Oxford University Press.
-* Taylor, D.J., Green, N.P.O., & Stout, G.W. 2003. ''Biological Sciences'', 3rd ed. United Kingdom : Cambridge University Press.
-</div>
-
-=== آرنۍ سرچينې ===
-<div class="references-small">
-* Hodgkin AL, Huxley AF. Currents carried by sodium and potassium ions through the membrane of the giant axon of Loligo. J Physiol. 1952 Apr;116(4):449-72. PMID 14946713
-* Hodgkin AL, Huxley AF. The components of membrane conductance in the giant axon of Loligo. J Physiol. 1952 Apr;116(4):473-96. PMID 14946714
-* Hodgkin AL, Huxley AF. The dual effect of membrane potential on sodium conductance in the giant axon of Loligo. J Physiol. 1952 Apr;116(4):497-506. PMID 14946715
-* Hodgkin AL, Huxley AF. A quantitative description of membrane current and its application to conduction and excitation in nerve. J Physiol. 1952 Aug;117(4):500-44. PMID 12991237
-* Clay JR. Axonal excitability revisited. Prog Biophys Mol Biol. 2005 May;88(1):59-90. PMID 15561301
-</div>
-
-=== Specific citations ===
-<div class="references-small">
-<references/>
-</div>
-
-== باندنۍ تړنې ==
-{{Spoken Wikipedia|Action_potential.ogg|2005-06-22}}
-* {{McGrawHillAnimation|biochemistry|Action%20Potential}}
-* [http://electrochem.cwru.edu/ed/encycl/art-p01-plants.htm Electrochemistry of plant life], from [[Case Western Reserve University]]
-* [http://www.blackwellpublishing.com/matthews/channel.html Demonstration of ion flow during action potential]
-* [http://cese.sourceforge.net/ Open-source software to simulate neuronal and cardiac action potentials]
-* [http://www.nernstgoldman.physiology.arizona.edu/ Nernst/Goldman Equation Simulator]
-* [http://nerve.bsd.uchicago.edu/ Electrophysiology and The Molecular Basis of Excitability]
-* [http://www.unm.edu/~lkravitz/Exercise%20Phys/actionpotential.html Action Potential] Len Kravitz, University of New Mexico
-* [http://web.lemoyne.edu/~hevern/psy340/lectures/psy340.02.2a.neur.impulse.html PSY 340 Brain and Behavior, 2.2a Neural Impulse (part 2)] Vincent W. Hevern, Le Moyne College, Syracuse New York
-* [http://faculty.stcc.edu/AandP/AP/AP1pages/nervssys/unit11/action.htm Action Potentials] Dawn A. Tamarkin, Springfield Technical Community College, Springfield, Massechusets
-* [http://gargoyle.arcadia.edu/psychology/blustein/neuro/Lecture_Notes/Week_1/Week_2/Action_Potential.jpg Action Potential] Rachel McCready, Intensive Care Unit, London Health Services Centre
-* [http://www.accessexcellence.org/RC/VL/GG/ecb/propagation_action_potential.html Propagation of an Action Potential] National Health Museum Resource Center, Washington DC
-* [http://ibs.derby.ac.uk/~steve/neuroscience/ Neurotransmission] Steve Croker, University of Derby. Derby, England
-* [http://cda.morris.umn.edu/~meeklesr/action.jpg Action Potential Charges] Lesley Meek, University of Minnesota
-* [http://oregonstate.edu/~hanba/Projector%20Slides/Projector%20Slides/Action%20Potential-1.jpg Action Potential] Barbara Han, Oregon State University
-* [http://mywebpages.comcast.net/epollak/PSY255_pix/PSY255_pix.htm Neurotransmitter and neuron diagrams] Edward I. Pollack, West Chester University of Pennsylvania
-* [http://concise.britannica.com/ebc/art-66781 Action Potential Conduction] Encyclopedia Britannica
-* [http://www.du.edu/~kinnamon/3640/actionpotential/ap1.html The Action Potential] John Kinnamon, University of Denver
-* [http://home.comcast.net/~john.kimball1/BiologyPages/E/ExcitableCells.html Excitable Cells] John Kimball, Tufts University (retired)
-* [http://trc.ucdavis.edu/biosci10v/bis10v/week10/06potential.html Resting and Action Membrane Potentials] Teaching Resources Center, UC Davis. Animated tutorials
-* [http://mcb.berkeley.edu/courses/mcb64/action_potential.html Action Potential] Frank Werblin, UC Berkely. Animated and interactive tutorials
-* [http://learner2.learner.org/channel/courses/biology/archive/images/1968_d.html Action Potential Movement Through an Axon]
-{{featured article}}
-<!-- The below are interlanguage links. -->
 
 [[وېشنيزه:Neural coding]]
 [[وېشنيزه:Electrophysiology]]
