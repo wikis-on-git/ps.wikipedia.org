@@ -1,10 +1,10 @@
 {{د ساوترې-مالوماتبکس
-| name = سکايپ <br> Skype
+| نوم= سکايپ <br> Skype
 | logo = [[دوتنه:Skype logo2.svg|200px]]
 | screenshot = [[دوتنه:Skype.png|250px]]
-| caption = Skype 5.3 running on [[Windows 7]]
+| caption = د ۵.۳ بڼې سکايپ چې په [[ونډوز 7]] چلېږي
 | Power = Private <!-- Add The Link for Privately held company, please! -->
-| developer = [[Skype Limited]] <!--Please don't change this to Microsoft Skype Division until that is actually true-->
+| ودانوونکی= [[Skype Limited]] <!--Please don't change this to Microsoft Skype Division until that is actually true-->
 | released = {{Start date|2003|8}}
 | frequently updated = yes <!-- Release version update? Don't edit this page, just click on the version number! -->
 | programming language = [[Embarcadero Delphi]], [[Objective-C]] ([[iOS (Apple)|iOS]], [[Mac OS X]]), [[C++]] with [[Qt (toolkit)|Qt4]] ([[Linŭ]])
