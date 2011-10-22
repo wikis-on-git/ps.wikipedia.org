@@ -1,67 +1,92 @@
 {{هېواد-مالوماتبکس
-|native_name = 대한민국 / 大韓民國<br />''Daehan Minguk''
-|conventional_long_name = د کوريا جمهوريت
-|common_name = سوېلي کوريا
-|بېرغ = Flag of South Korea.svg
-|نښان = Coat of arms of South Korea.svg
-|symbol_type = Coat of arms
-|image_map = LocationSouthKorea.png
-|national_motto = 널리 인간 세계를 이롭게 하라<br />(Broadly bring benefit to humanity, 홍익인간 / 弘益人間)
-|ملي ترانه = [[Aegukga]]
-|(رسمي ژبه/ ژبې)|رسمي ژبه = [[Korean language|Korean]]
-|پلازمېنه = [[سېول]]
-|latd=37 |latm=35 |latNS=N |longd=127 |longm=0 |longEW=E
-|largest_city = [[سېول]]
-|government_type = [[جمهوريت]]
-|leader_title1 = [[د سوېلي کوريا ولسمشر|ولسمشر]]
-|leader_title2 = [[د سوېلي کوريا لومړی وزير|لومړی وزير]]
-|leader_name1 = [[Roh Moo-hyun]]
-|leader_name2 = [[Han Myung-sook]]
-|area_rank = 108th
-|area_magnitude = 1 E10
-|area= 98,480
-|areami²=38,023 <!-- Do not remove per [[WP:MOSNUM]] -->
-|percent_water = 0.3%
-|population_estimate =  47,817,000 <!--UN WPP -->
-|population_estimate_rank = 25th
-|population_estimate_year = July 2005
-|population_census = 45,985,289 <small>[http://kosis.nso.go.kr/cgi-bin/sws_888.cgi?ID=DT_1IN0001&IDTYPE=3&A_LANG=2&FPUB=4&SELITEM=0.1.2.3 source]</small>
-|population_census_year = 2000
-|population_density = 492
-|population_densitymi² =1,274  <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 19th
-|GDP_PPP = $994.4 billion
-|GDP_PPP_rank = 14th
-|GDP_PPP_year= 2005
-|GDP_PPP_per_capita = $20,590
-|GDP_PPP_per_capita_rank = 33rd 
-|sovereignty_type = [[د سوېلي کوريا تاريخ|Establishment]]
-|established_event1 = [[Gojoseon]]
-|established_event2 = [[March 1st Movement|Declaration of Republic]]
-|established_event3 = [[Victory over Japan Day|Liberation]]
-|established_event4 = [[د سوېلي کوريا تاريخ#First Republic|First Republic]]
-|established_date1 = [[2333 BC]]
-|established_date2 = [[March 1]], [[1919]]
-|established_date3 = [[August 15]] [[1945]]
-|established_date4 = [[August 15]] [[1948]]
-|HDI = 0.901
-|HDI_rank = 28th
-|HDI_year = 2003
-|HDI_category = <font color="#009900">high</font>
-|پېسه = [[South Korean won]]
+|native_name = {{lang|ko|대한민국}} <br />{{lang|ko|大韓民國}} <br />''Daehanminguk''
+|conventional_long_name = Republic of Korea
+|common_name = South Korea
+|image_flag = Flag of South Korea.svg
+|image_coat = Coat of arms of South Korea.svg
+|symbol_type = Emblem
+|image_map = <!--Do not change without discussing at the Talk page-->Locator map of South Korea.svg<!--Do not change without discussing at the Talk page-->
+|mapsize = 220px
+|motto = {{lang|ko|홍익인간; 弘益人間}} <br/>''Benefit broadly the human world'' (unofficial)
+|national_anthem = ''[[Aegukga]]'' {{lang|ko|(애국가; 愛國歌)}} <br>(<small>"The Patriotic Song"</small>)
+|official_languages = [[Korean language|Korean]]
+|languages_type = [[Official script]]s
+|languages = [[Hangul]]
+|demonym = South Korean, [[Korean people|Korean]]
+|ethnic_groups = [[Korean people|Korean]] (100%)
+|capital = [[Seoul]]
+|latd = 37
+|latm = 35
+|latNS = N
+|longd = 127
+|longm = 0
+|longEW = E
+|government_type = [[Presidential]] [[republic]]
+|leader_title1 = [[President of South Korea|President]]
+|leader_title2 = [[Prime Minister of South Korea|Prime Minister]]
+|leader_title3 = [[List of Speakers of the National Assembly of South Korea|Speaker]]
+|leader_name1 = [[Lee Myung-bak]]
+|leader_name2 = [[Kim Hwang-sik]]
+|leader_name3 = [[Park Hee-tae]]
+|legislature = [[National Assembly of South Korea|National Assembly]]
+|largest_city = [[Seoul]]
+|area_rank = 109th
+|area_magnitude = 1 E11
+|area_km2 = 100,210
+|area_sq_mi = 38,691 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 0.3
+|population_estimate = 48,875,000<ref>{{cite web|url=http://www.index.go.kr/egams/stts/jsp/potal/stts/PO_STTS_IdxMain.jsp?idx_cd=1009&bbs=INDX_001 |title=총인구, 인구성장률 : 지표상세화면 |publisher=Index.go.kr |date= |accessdate=2010-10-29}}</ref>
+|population_estimate_year = 2010
+|population_estimate_rank = 24th
+|population_density_km2 = 491
+|population_density_sq_mi = 1,271 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 21st
+|GDP_nominal = $1.007 trillion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=542&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=38&pr.y=12|title=South Korea|publisher=International Monetary Fund|accessdate=2011-04-30}}</ref>
+|GDP_nominal_rank = 
+|GDP_nominal_year = 2010
+|GDP_nominal_per_capita = $20,590<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 
+|GDP_PPP = $1.459 trillion<ref name=imf2/>
+|GDP_PPP_rank = 
+|GDP_PPP_year = 2010
+|GDP_PPP_per_capita = $29,835<ref name=imf2/>
+|GDP_PPP_per_capita_rank = 
+|sovereignty_type = [[History of South Korea|Establishment]]
+|established_event3 = [[Gojoseon|National Foundation Day]]
+|established_event4 = [[March 1st Movement|Independence declared]]
+|established_event5 = [[Provisional Government of the Republic of Korea|Provisional Government]]
+|established_event6 = [[Division of Korea|Liberation]]
+|established_event7 = [[Constitution of the Republic of Korea|Constitution]]
+|established_event8 = [[History of South Korea#First Republic|Government proclaimed]]
+|established_date3 = October 3, 2333 BCE
+|established_date4 = March 1, 1919
+|established_date5 = April 13, 1919
+|established_date6 = August 15, 1945
+|established_date7 = July 17, 1948
+|established_date8 = August 15, 1948
+|HDI_year = 2010
+|HDI = {{increase}} 0.877<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=5 November 2010}}</ref>
+|HDI_rank = 12th
+|HDI_year = 2010
+|HDI_category = <span style="color:#090;">very high</span>
+|Gini=31.3<ref name=ciagini>[https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html Gini index] CIA World Fact Book</ref>
+|Gini_year = 2007
+|Gini_category = 
+|currency = [[South Korean won]] (₩)
 |currency_code = KRW
 |country_code = KOR
 |time_zone = [[Korea Standard Time]]
 |utc_offset = +9
-|time_zone_DST = 
-|utc_offset_DST = <!-- Daylight Saving Time is not practiced in South Korea -->
-|cctld = [[.kr]]
-|calling_code = 82
-|footnotes = 
+|time_zone_DST = ''not observed''
+|utc_offset_DST = +9
+|date_format = yyyy년 mm월 dd일 <br /> yyyy/mm/dd ([[Common Era|CE]])
+|drives_on = right
+|ac_outlet = 220V/60Hz
+|cctld = [[.kr]], [[.한국]]
+|calling_code = [[Telephone numbers in South Korea|82]]
+|footnote1 = Mobile phone system CDMA, WCDMA, HSDPA and WiBro
+|footnote2 = Domestic power supply 220V/60 Hz, CEE 7/7 sockets
 }}
-
-[[دوتنه:Hibiscus syriacus 2.jpg|thumb|100px|National flower ''mugunghwa'' ([[Hibiscus syriacus]])]]
-''For more on Korean history check [[Korea]]''
 
 '''سوېلي کوريا''' چې رسمي نوم یې د '''کوریا جمهوریت''' (''په کوریایي: 대한민국'') دی چې په ځتیځې آسیا کې [[د کوریا ټاپووزمه|د کوریا د ټاپووزمې]] په سویلي برخه کې پروت دی.
 
