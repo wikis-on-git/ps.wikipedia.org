@@ -1,42 +1,22 @@
-'''وييزيرمه''' يا [[انګريزي]] (Glossary) دى دا د هغو ستونزمنو ،تخنيكې ، نويو او باندنيو وييونو يوه ابيڅيزه لړۍ ده چې د [[كتاب]] په پای كې وي.
-چې د هر يوه ويي (ويکې)پوره مانا او پيژندنه پكې كيږي او دا د لوستونكي سره مرسته كوي ترڅو د لوستلو په وخت كې په پوهيدلو كې ستونزه پيدا نه كړې.
-
-
-دا ډول ويي زېرمى د هر کتاب په پای کې څرګندېږي، اوپه اړونده کتاب کې د نويو ويونو اوهاغه اصطلاحاتو په ګډون په کې راټولې شوي وي کوم چې نوي راټوکېدلي وي او يا هم څه نا څه پردي ويونه وي.
-
-
-A '''bilingual glossary''' is a list of terms in one language which are defined in a second language or glossed by synonyms (or at least near-synonyms) in another language.
-
-In a general sense, a glossary contains explanations of concepts relevant to a certain field of study or action. In this sense, the term is contemporaneously related to [[ontology]].
-
-==Core glossary==
-A '''core glossary''' is a simple glossary or [[defining dictionary]] which enables definition of other concepts, especially for newcomers to a language or field of study. It contains a small working vocabulary and definitions for important or frequently encountered concepts, usually including idioms or metaphors useful in a culture.
-
-In computer science, a core glossary is a prerequisite to a [[core ontology]]. An example of this is seen in  [[classes (SUMO)|SUMO]].
-
-==Searching glossaries on the web==
-The [[Web search engine|search engine]] [[Google (search engine)|Google]] provides a service to only search web pages belonging to a glossary therefore providing access to a kind of compound glossary of glossary entries found on the web. A research work on automated glossary extraction has been recently published.<ref>P. Velardi, R. Navigli, P. D'Amadio. [http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4629722 Mining the Web to Create Specialized Glossaries], IEEE Intelligent Systems, 23(5), IEEE Press, 2008, pp. 18-25.</ref>
-
-==See also==
-*[[Terminology extraction]]
-
-==References==
-{{reflist}}
-
-==باندنۍ تړنې==
-*[http://www.maxprograms.com/articles/glossml.html Introduction to GlossML] This article presents [http://www.maxprograms.com/glossml/glossml.pdf Glossary Markup Language] (GlossML), an open XML vocabulary specially designed to facilitate the exchange of glossaries.
-*[http://glossarist.com The Glossarist] - Large list of glossaries
-*[http://www.ontopia.net/topicmaps/materials/tao.html The TAO of Topic Maps]
-*[http://www.webdevelopments.de/glossarytool/glossary.html Glossarytool] - tool for glossary generation
-*[http://www.termbases.eu Online glossary software] - Make your own public glossaries
-*[http://lcl.uniroma1.it/glossextractor GlossExtractor] - A web application to automatically learn specialized glossaries from the web 
-*[http://www.babel-linguistics.com/glossaries.htm Babel Linguistics Glossaries] Selected Multilingual Glossaries by Industry
+'''وييزيرمه''' يا [[انګريزي]] (Glossary) دى دا د هغو ستونزمنو ،تخنيكې ، نويو او باندنيو وييونو يوه ابيڅيزه لړۍ ده چې د [[كتاب]] په پای كې وي. چې د هر يوه ويي (ويکې)پوره مانا او پيژندنه پكې كيږي او دا د لوستونكي سره مرسته كوي ترڅو د لوستلو په وخت كې په پوهيدلو كې ستونزه پيدا نه كړې. دا ډول ويي زېرمى د هر کتاب په پای کې څرګندېږي، اوپه اړونده کتاب کې د نويو ويونو اوهاغه اصطلاحاتو په ګډون په کې راټولې شوي وي کوم چې نوي راټوکېدلي وي او يا هم څه نا څه پردي ويونه وي.
 
 
 
-[[Category:Book design]]
-[[Category:Lexicography]]
-[[Category:Published glossaries| ]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[وېشنيزه:د کتاب سکښت]]
+
 
 [[ca:Glossari]]
 [[de:Glossar]]
