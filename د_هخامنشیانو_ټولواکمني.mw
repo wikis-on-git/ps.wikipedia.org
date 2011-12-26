@@ -1,7 +1,99 @@
+{{مالوماتبکس پخوانی هیواد
+|native_name امپراتوری پارس<br>''Emperâturi-ye Pars'' 
+|conventional_long_name = Persian Achaemenid Empire|common_name = Persian Empire
+|continent = Eurasia
+|region = Near east
+|country = Iran
+|era = Ancient 
+|status = Empire
+|status_text = <!---A free text to describe status the top of the infobox. Use sparingly.--->
+|empire = <!---The empire or country to which the entity was in a state of dependency--->
+|government_type = Monarchy
+|today                  = {{Collapsible list |titlestyle=font-weight:normal; background:transparent; text-align:left;|title=Countries today|
+{{flag|Afghanistan}}|{{flag|Armenia}}|{{flag|Azerbaijan}}|{{flag|Bahrain}}<ref name="Mojtahed-Zadeh">''Security and Territoriality in the Persian Gulf: A Maritime Political Geography'' by Pirouz Mojtahed-Zadeh, page 119</ref>|{{flag|Bulgaria}}|{{flag|China}}|{{flag|Egypt}}|{{flag|Georgia}}|{{flag|Greece}}|{{flag|India}}|{{flag|Iran}}|{{flag|Iraq}}|{{flag|Israel}}|{{flag|Jordan}}|{{flag| Kazakhstan}}|{{flag|Kuwait}}|{{flag| Kyrgyzstan}}|{{flag|Lebanon}}|{{flag|Libya}}|{{flag|Macedonia}}|{{flag|Pakistan}}|{{flag|Palestine}}|{{flag|Romania}}|{{flag|Russia}}|{{flag| Saudi Arabia}}|{{flag|Sudan}}|{{flag|Syria}}|{{flag| Tajikistan}}|{{flag|Turkey}}|{{flag|Turkmenistan}}|{{flag|Uzbekistan}}|
+}}
+
+<!--- Rise and fall, events, years and dates --->
+<!-- only fill in the start/end event entry if a specific article exists. Don't just say "abolition" or "declaration"-->
+|year_start = 550 BCE (Cyrus the Great overthrew Astages of Media)
+|year_end = 336 BCE (Alexander the Great conquers Persia)
+|life_span = ca. 550 BCE–336 BCE
+|year_exile_start = <!--- Year of start of exile (if dealing with exiled government - status="Exile") --->
+|year_exile_end = <!--- Year of end of exile (leave blank if still in exile) --->
+|
+|event_start = <!--- Default: "Established" --->
+|date_start = <!--- Optional: Date of establishment, enter dates in this format 1 January 1801--->
+|event_end = Conquered during [[Wars of Alexander the Great]]
+|date_end = <!--- Optional: Date of disestablishment --->
+|
+|event1 = Construction starts at [[Persepolis]]
+|date_event1 = 515 BCE
+|event2 = Conquest of [[Ancient Egypt|Egypt]] by [[Cambyses II of Persia|Cambyses II]]
+|date_event2 = 525 BCE
+|event3 = [[Greco-Persian Wars]]
+|date_event3 = 498–448 BCE
+|event4 =
+|date_event4 =
+|event5 = Reconquest of Egypt by [[Artaxerxes III]]
+|date_event5 = 343 BCE
+|event6 = Defeat of the Achaemenid Empire by [[Alexander the Great]]
+|date_event6 = 334 BCE–330 BCE
+|
+|event_pre = <!--- Optional: A crucial event that took place before before "event_start"--->
+|date_pre =
+|event_post = [[Darius III]] is killed by [[Bessus]]
+|date_post = 330 BCE
+|
+|p1 = Median Empire
+|flag_p1 = Median Empire.svg
+|p2 = Neo-Babylonian Empire
+|flag_p2 = Neo babylonia empire 540 bc-2.png
+|p3 = Lydia
+|flag_p3 = Anatolia Ancient Regions base.svg
+|p4 = Twenty-sixth dynasty of Egypt
+|flag_p4 = Ancient Egypt map-en.svg
+|s1 = Macedonian Empire
+|flag_s1 = Vergiasun.svg
+|s2 =
+|flag_s2 =
+|image_flag =Standard of Cyrus the Great (White).svg
+|flag = Flags of Persia
+|flag_type = Standard of Cyrus the Great
+|
+|image_coat = <!--- Default: Coat of arms of {{{Common name}}}.svg --->
+|symbol = <!--- Link target under symbol image. Default: Coat of arms of {{{Common name}}} --->
+|symbol_type = <!--- Displayed text for link under symbol. Default "Coat of arms" --->
+|
+|image_map = Achaemenid_Empire.jpg
+|image_map_caption = Achaemenid Empire around 500 BCE shortly before its greatest extent under [[Darius I]] (without the conquest of [[Punjab region|Punjab]]).
+|
+|image_map2 = <!-- If second map is needed - does not appear by default -->
+|image_map2_caption =
+|
+|capital = [[Pasargadae]], [[Ecbatana]], [[Persepolis]], [[Susa]], [[Babylon]]
+|capital_exile = <!-- If status="Exile" -->
+|latd= |latm= |latNS= |longd= |longm= |longEW=
+|
+|national_motto =
+|national_anthem =
+|common_languages = [[Old Persian]] (official and native language)<br>[[Imperial Aramaic]](<small>''lingua franca''</small>)<ref>Josef Wiesehöfer, ''Ancient Persia'', (I.B. Tauris Ltd, 2007), 119.</ref><br>[[Elamite]]<br>[[Akkadian language|Akkadian]]<ref>{{cite book|title=Traduction: encyclopédie internationale de la recherche sur la traduction|author=Harald Kittel, Juliane House, Brigitte Schultze|publisher=Walter de Gruyter|year=2007|pages=1194–5|url=http://books.google.com/?id=oD0dBqGDNscC&pg=PA1194&dq=Old+Persian+official+language+of+achaemenid+empire#v=onepage&q=Old%20Persian%20official%20language%20of%20achaemenid%20empire&f=false|isbn=9783110171457}}</ref>  
+|religion = [[Zoroastrianism]]
+|currency = [[Daric]] and [[Siglos]]
+|
+|<!--- Titles and names of the first and last leaders and their deputies --->
+|leader1 = [[Cyrus the Great]]
+|leader2 = [[Darius III of Persia|Darius III]]
+|year_leader1 = 559–529 BCE (first)
+|year_leader2 = 336–330 BCE (last)
+|title_leader = [[King of Persia|King]]
+|<!--- Area and population of a given year --->
+|stat_year1 = <!--- year of the statistic, specify either area, population or both --->
+|stat_area1 = <!--- area in square kílometres (w/o commas or spaces), area in square miles is calculated --->
+|stat_pop1 = <!--- population (w/o commas or spaces), population density is calculated if area is also given --->
+|footnotes = <!--- Accepts wikilinks --->
+}}
+
 [[دوتنه:Map of the Achaemenid Empire.jpg|200px|thumb|left|د هخامنشانو پاچایی]] 
-
-
-
 '''د هخامنشیانو پاچایی''' ( په [[مېخي ليک]]:[[دوتنه:Old Persian a.png|20px ]] [[دوتنه:Old Persian ya.png|20px ]][[دوتنه:Old Persian i.png|20px ]][[دوتنه:Old Persian ša.png|20px ]][[دوتنه:Old Persian i.png|20px ]] [[دوتنه:Old Persian na.png|20px ]][[دوتنه:Old Persian ma.png|20px ]] [[دوتنه:Old Persian a.png|20px ]] [[دوتنه:Old Persian xa.png|20px ]][[دوتنه:Old Persian ha.png|20px ]] ) د ۵۵۹ ق.م. څخه تر ۳۳۱ ق.م. پورې په نژدې ختیځ کی یو پاچایی وه چی مرکز یی د فارس په ولایت کی ( په ایران کی ) پروت وو. په دی وخت کی هم د ماد امپراطوری، لیدیه ( ترکیه )، بابل ( عراق)، باختر ( افغانستان )، یونان، او مصر د هخامنشیانو حکمرانانو په لاس کی وه. د هخامنشیانو امپراطوری په ۳۳۱ ق.م. کی د داریوش ۳ د حکومت په وخت کی د ستر اسکندر لخوا ونیول.
 د هختمنشیانو د واکمنی عنوان یوازې یوه تاریخی اصطلاح ده. د هخامنشیانو د حکمرانانو په وخت کی خلکو خپل هېواد د حکمران د نوم په مطابق یادوه ( مثلا : د کوروش واکمنی، د داریوش واکمنی ) دغه هېواد په یونانی متنونو کی د پېرسیس ( Persis ) نوم لری. پېرسیس په پخوانی فارسی پارسه ( [[دوتنه:Old Persian sa.png|20px]][[دوتنه:Old Persian ra.png|20px]][[دوتنه:Old Persian a.png|20px]][[دوتنه:Old Persian pa.png|20px]]) او په عصری فارسی د فارس معنی لری. 
 
