@@ -1,156 +1,25 @@
-[[Image:AV-Medias001.JPG|thumb |Audio & Visual Media]]
-'''Digital media''' (as opposed to [[analog signal|analog]] [[media (communication)|media]]) are usually [[electronic media]] that work on digital [[codes]]. Today, computing is primarily based on the [[binary numeral system]]. In this case digital refers to the discrete states of "0" and "1" for representing arbitrary data. [[Computers]] are machines that (usually) interpret binary digital data as [[information]] and thus represent the predominating class of digital information processing machines. Digital media ("Formats for presenting information" according to [[Wiktionary:media]]) like [[digital audio]], [[digital video]] and other [[digital]] "[[Content (media and publishing)|content]]" can be created, referred to and distributed via digital information processing machines. Digital media represents a profound change from previous ([[Analog signal|analog]]) media.
+[[دوتنه:AV-Medias001.JPG|بټنوک |غږیږه او لیدیزه رسنۍ]]
 
-Digital data is per se independent of its interpretation (hence representation). An arbitrary sequence of digital code like "0100 0001" might be interpreted as the [[decimal]] number 65, the [[hexadecimal]] number 41 or the glyph "A". See also: [[ASCII]], [[Code]].
 
-Florida's digital media industry association, Digital Media Alliance Florida, defines digital media as "the creative convergence of digital arts, science, technology and business for human expression, communication, social interaction and education".
 
-There is a rich history of [[Numeral system|non-binary]] digital media and [[computers]].
 
-==Electronic Business Media==
-{{main|Electronic Business Media}}
-According to Schmid,<ref>{{cite web|url=http://www.alexandria.unisg.ch/Personen/Beat_Schmid|title=UNISG Professor Beat Schmid}}</ref> media can basically be defined as follows: They are enablers of interaction (i.e. they allow for exchange) particularly the communicative exchange between agents. Such interaction enablers can be structured into three main components:
 
-First, a physical component (''C-Component'') allows for the actual interaction of physical agents. This component can also be referred to as carrier medium or channel system. Second, a logical component (''L-Component'') comprises a common “language” (i.e. symbols used for the communication between agents and their semantics). Without such a common understanding, the exchange of data is possible (with the help of the C-Component), but not the exchange of knowledge. Third, an organizational component (''O-Component'') defines a structural organization of agents, their roles, rules which impact the agents’ behavior as well as the process-oriented organization of agents’ interactions.
 
-Together, these basic three components have been identified to constitute various kinds of media. Among others, it is appropriate to describe electronic media such as those deployed to support cross-organizational collaboration. Based on these components which already represent a first, scientific approach to modeling, understanding and reorganizing media, a layer/ phase reference model has been introduced as well. 
 
-''The Media Reference Model (MRM)''<ref>{{cite paper | url=http://www.alexandria.unisg.ch/Publikationen/9479| title=Elements of a Reference Model for Electronic Markets | accessdate=2008-02-21 | author=Schmid, Beat F. ; Lindemann, Markus;  | publisher=Proceedings of the Thirty-First Annual Hawaii International Conference on System Sciences-Volume, IEEE Computer Society | date=1998}}</ref> comprises four different layers (which all represent dedicated views on media) and structures the use of media into four sequential phases. Similar to the emerging field of software engineering in the software context, the MRM aims to provide a comprehensive, coherent and systematic framework for the description and analysis of various media. 
 
-The Community View (first layer) thereby accounts for the set of interacting agents, the organization of the given agents’ population, i.e. the specific roles of involved stakeholders, the situations in which they act as well as the objects with which they deal. Summing up, it models the structure of the social community sphere in a situation-dependent, but static fashion. The Process View (Implementation Aspects) deals with the modeling of the process-oriented organization of agents and can also be referred to as "Interaction Programming". It is also called implementation view as it connects the needs of the community with the means provided by the carrier medium and thus implements the "community-plot" on the basis of the carrier medium. The Service View (Transaction View) models the services provided by the carrier medium which can be used in the different interaction steps to reach the respective interactions’ goals. The Infrastructure View models the production system, which creates the services provided by the service view, i.e. in the case of electronic media the actual underlying information technology.
 
-The above discussed three major components can seamlessly be integrated into the MRM: The upper two views (Community Aspects and Implementation Aspects) represent the organizational component (O-Component) which accounts for the structural as well as process-oriented organization. The lower two layers are mapped to the physical component (C-Component) which focuses on the creation and provision of services. Last, the logical component (L-Component) concerns all four layers as it ensures that interaction of agents is based on a common understanding of exchanged symbols.
 
-==Digital and analog data==
-{{main|Analog-to-digital converter}}
-The transformation of an [[Analog signal]] to [[Digital]] information via an Analog-to-digital converter is called [[sampling (signal processing)|sampling]]. According to information theory, sampling is a reduction of information. Most digital media are based on translating analog data into digital data and vice-versa (see [[digital recording]], [[digital video]], [[television]] versus [[digital television]]).
 
-==Working with digital media==
-{{Cleanup|section|date=July 2008}}
 
-{{main|digital signal processing}}
-As opposed to analog data, digital data is in many cases easier to manipulate and the end result can be reproduced indefinitely without any loss of quality. Mathematical operations can be applied to arbitrary digital information regardless of its interpretation (you can add "2" to the data "65" and interpret the result either as the [[hexadecimal]] [[number]] "43" or the letter "C"). Therefore, it is possible to use the same [[Data compression|compression]] operation onto a text file or an image file or a sound file. The foundations of operation on digital information are described in [[digital signal processing]].
 
-==Examples of digital media==
-The following list of digital media is based on a rather technical view of the term media. Other views might lead to different lists.
-* [[Cellphones]]
-* [[Compact disc]]
-* [[Digital video]]
-* [[Digital television]]
-* [[e-book]]
-* [[Internet]]
-* [[Minidisc]]
-* [[Video game]]
-* [[e-Commerce]]
-* [[game systems]]
-* and many [[interactive media]]
 
-==Digital art==
-{{main|Digital art}}
 
-[[Image:wiki.Picture by Drawing Machine 2.jpg|thumb|Picture produced by Drawing Machine 2]]
-'''Digital art''' is any [[art]] in which [[computer]]s played a role in production or display of the artwork.  Such art can be an image, sound, animation, [[video]], [[CD-ROM]], [[DVD-ROM]], [[videogame]], [[web site]], [[algorithm]], [[performance]] or gallery installation. Many traditional disciplines are now integrating [[digital]] technologies and, as a result, the lines between traditional works of art and new media works created using computers has been blurred. For instance, an artist may combine traditional [[painting]] with [[algorithm art]] and other digital techniques.   As a result, defining computer art by its end product can thus be difficult.  Nevertheless, this type of art is beginning to appear in art museum exhibits. 
 
-[[Comic book]] artists in the past would generally [[Sketch (drawing)|sketch]] a [[drawing]] in pencil before going over the drawing again with India ink, using pens and brushes. Magazine illustrators often worked with India ink, acrylics or oils. Currently, an increasing number of artists are now creating digital artwork.
 
-[[Digital artist]]s do, simply, what centuries of artists have always done by exploring and adopting a culture's new technology toward the making of a personal imagery. In doing so the culture is also reflected in the artwork as is the artist's personal vision. As our culture becomes increasingly digitized, digital artists are leading the way in exploring and defining this new culture. Digital Artists use a medium that is nearly immaterial, that being [[binary numeral system|binary]] [[information]] which describes the color and brightness of each individual [[pixel]] on a computer screen. Taken as a whole an image consisting of pure light is the feedback devise that tells an artist what is being made and simultaneously stored on the computer's hard drive. Digital Artists employ many types of user interfaces that correspond to the wide variety of brushes, lenses or other tools that traditional artist use to shape their materials. Rather than manipulating digital [[code]] directly as math, these electronic brushes and tools allow an artist to translate hand motions, cutting and pasting, and what were formerly chemical dark room techniques into the mathematical changes that effect the arrangement of screen pixels and create a picture.
 
-[[Digital Art]] is created and stored in a non-material form on the computer's memory systems and must be made physical, usually in the form of prints on paper or some other form of printmaking substrate. In addition, [[digital art]] may be exchanged and appreciated directly on a [[computer screen]] in gallery situations or simultaneously in every place on the globe with access to the web. Being immaterial has its advantages and with the advent of high quality digital printing techniques a very traditional long lasting print of this artwork can also be produced and marketed. 
 
-The list of digital artists continues to lengthen:
-{{columns-list|2|
-*[[David Álvarez]]
-*[[Miguel Álvarez-Fernández]]
-*[[Winston Blakely]]
-*[[Craig Boldman]]
-*[[Brian Bolland]]
-*[[Ernie Colon]]
-*[[Grant Cross]]
-*[[Andrew Dabb]]
-*[[Scott Dutton]]
-*Rob Feldman
-*[[Matthew Forsythe]]
-*[[Ben Hatke]]
-*[[J.D. King]]
-*[[Roger Langridge]]
-*[[Jim McDermott (illustrator)|Jim McDermott]]
-*[[Dave McKean]]
-*[[Shawn McManus]]
-*[[Manfred Mohr]]
-*Raymond Mullikin
-*[[Joseph Nechvatal]]
-*[[Ariel Olivetti]]
-*[[James Sapsard]]
-*[[Zina Saunders]]
-*[[Barclay Shaw]]
-*Nancy Stahl
-*[[Jim Steranko]]
-*[[Michael Whelan]]
-*[[Andrew Wildman]]
-*[[Amy Youngs]]
-*[[Ellen Fernie]]
-*[[Nam June Paik]]
-*[[Yoko Ono]]
-*[[Lev Manovich]]
-*[[Michael Mandiberg]]
-*[[Judy Malloy]]
-}}
-
-== Companies ==
-Several design houses are active in this space, prominent names being:
-* [[Publicis]]
-* [[McCann Erikson]]
-* [[FabriQate]]
-* [[DesignStudios]]
-==See also==
-* [[Analog-to-digital converter]]
-* [[Content delivery]]
-* [[Digital asset management]]
-* [[Digital signal processing]]
-* [[eRhetoric]]
-* [[Electronic publishing]]
-* [[New Media]]
-
-* [[:Category:Information technology education]]
-
-==References==
-{{reflist}}
-{{refbegin}}
-*Coy, Wolfgang (2005): Analog/Digital. In: Warnke, Martin et al. (2005): Hyperkult II - Zur Ortsbestimmung analoguer und digitaler Medien (in German), Bielefeld: transcript Verlag, ISBN 3-89942-274-0
-*Nelson, Ted (1990): ''Literary Machines'', Sausalito: Mindful Press.
-*Pflüger, Jörg (2005): Wo die Quantität in Qualität umschlägt. In: Warnke, Martin et al. (2005): Hyperkult II - Zur Ortsbestimmung analoguer und digitaler Medien (in German), Bielefeld: transcript Verlag, ISBN 3-89942-274-0
-*Schmid, Beat F. ; Schmid-Isler, Salome: Konzepte von Beat F. Schmid 1997-2003. Ein Überblick, 2004.- URL http://www.alexandria.unisg.ch/Publikationen/9118
-*Herrmann, Andreas ; Schmid, Beat F. ; Algesheimer , René ; Dimpfel, Marcus: Understanding Electronic Agents. In: Electronic Markets (2007), Nr. forthcoming 
-*Schmid, Beat F.: Communities and Media - Towards a Reconstruction of Communities on Media. In: Sprague, E. (Hrsg.): Proceedings of the 34th Annual Hawaii International Conference on Systems Sciences : IEEE Press, 2001.- 34th Annual Hawaii International Conference on Systems Sciences.- Maui, Hawaii.- URL http://www.alexandria.unisg.ch/Publikationen/9140
-*Schmid, Beat F. ; Stanoevska-Slabeva, Katarina: Requirements Analysis for Community Supporting Platforms Based on the Media Reference Model. In: Electronic Markets 10 (2000), Nr. 4, S. 250-257 
-*Schmid, Beat F. ; Klose, Martina ; Lechner, Ulrike: Media - A Formal Model of Communities and Platforms. Proc. of the Workshop on Formal Models of Electronic Commerce (FMEC). Erasmus University Rotterdam : Rotterdam School of Management, 1999.- URL http://www.alexandria.unisg.ch/Publikationen/9517
-*Schmid, Beat F. ; Schmid-Isler, Salome ; Stanoevska-Slabeva, Katarina ; Lechner, Ulrike: Structuring and Systemizing Knowledge - Realizing the Encyclopedia concept as a Knowledge Medium. In, 1999.- Proceedings of the IRMA - Information  Resources Management Association Conference -"Information Technology in Libraries".- Hershey, Pennsylvania, USA.- URL http://www.alexandria.unisg.ch/Publikationen/9221
-*Schmid, Beat F. ; Yu, Lei: A Conceptual Framework for Agent Oriented and Role Based Workflow Modelling, 1999.- URL http://www.alexandria.unisg.ch/Publikationen/9220
-*Schmid, Beat F. ; Lindemann, Markus: Elements of a Reference Model for Electronic Markets. In: Thirty-First Annual Hawaii International Conference on System Sciences-Volume 4. St. Gallen : IEEE Computer Society, 1998.- WI' 97, Tutorium "Elektronische Märkte", S. 193-201.- URL http://www.alexandria.unisg.ch/Publikationen/9479
-*Schmid, Beat F. ; Lechner, Ulrike: A Computational Media Metaphor. In, 1998.- Workshop on Algebraic Development and Techniques ADT 98, held in conjunction with the 1st European Joint Conference on Theory and Practice of Software (ETAPS) 1998.- Lisboa, Portugal.- URL http://www.alexandria.unisg.ch/Publikationen/9467
-*Schmid, Beat F. ; Stanoevska-Slabeva, Katarina: Knowledge Media: An Innovative Concept and Technology for Knowledge Management in the Information Age. In, 1998.- Beyond Convergence, 12th Biennal International Telecommunications Society best world eneindasConference.- Stockholm, Sweden.- URL http://www.alexandria.unisg.ch/Publikationen/9455
-*Schmid, Beat F. ; Schubert, Petra ; Lincke, David Michael: A Global Knowledge Medium as a Virtual Community - The NetAcademy Concept. In, 1998.- Annual Americas Conference on Information Systems.- Baltimore, Maryland.- URL http://www.alexandria.unisg.ch/Publikationen/9454
-*Schmid, Beat F.: The Concept of Media. In: Lee, R. (Hrsg.), 1997.- Euridis Conference. Fourth Research Symposium on Electronic Markets: Negotiation and Settlement in Electronic Markets.- Maastricht (NL), Erasmus Universität Rotterdam.- URL http://www.alexandria.unisg.ch/Publikationen/9574
-*Schmid, Beat F.: Requirements for Electronic Markets Architecture. In: Electronic Markets 7 (1997), Nr. 1, p. 3-5 
-*Schroth, Christoph: A Service-oriented Reference Architecture for Organizing Cross-Company Collaboration. In: 4th International Conference Interoperability for Enterprise Software and Applications (I-ESA 2008) and: Enterprise Interoperability III: New Challenges and Industrial Approaches (K. Mertins, R. Ruggaber, K. Popplewell, X. Xu, Editors). London : Springer, 2008.- 4th International Conference Interoperability for Enterprise Software and Applications (I-ESA 2008).- Berlin, Germany.- ISBN 1848002203 
-*Schroth, Christoph: Industrialization strategies for cross-organizational information intensive services. In: 4th International Conference Interoperability for Enterprise Software and Applications (I-ESA 2008) and: Enterprise Interoperability III: New Challenges and Industrial Approaches (K. Mertins, R. Ruggaber, K. Popplewell, X. Xu, Editors). London : Springer, 2008.- 4th International Conference Interoperability for Enterprise Software and Applications (I-ESA 2008).- Berlin, Germany.- ISBN 1848002203 
-*Schmid, Beat F. ; Schroth, Christoph: Organizing as Programming: A Reference Model for Cross-Organizational Collaboration. In: Proceedings of the 9th IBIMA Conference on Information Management in Modern Organizations, 2008.- 9th IBIMA Conference on Information Management in Modern Organizations.- Marrakech, Morocco.- ISBN 0-9753393-8-9, S. 16 
-*Schroth, Christoph: A Reference Model for Seamless Cross-Organizational Collaboration in the Public Sector. In: Multikonferenz Wirtschaftsinformatik 2008 (M. Bichler, T. Hess, H. Krcmar, U. Lechner, F. Matthes, A. Picot, B. Speitkamp, P. Wolf, Editors). Berlin : © GITO-Verlag, 2008.- Multikonferenz Witschaftsinformatik (MKWI 2008).- Munich, Germany.- ISBN 978-3-940019-34-9, S. 377-388 
-*Hogshead, Sally: Advertising Age:3/17/2008, Vol. 79 Issue 11, special section p3-3, 1p, 1c: Title: IT'S TIME TO UPGRADE TO YOU 2.0
-*Nechvatal, Joseph. "The Art of Excess in the Techno-Mediacratic Society" in New Observations No. 94. Guest edited by [[Joseph Nechvatal]]. 1993.
-{{refend}}
-
-==External links==
-*[http://www.mp3newswire.net/stories/7002/2007-winners.html "The Digital Media Winners of 2007"] - Annual [[MP3 Newswire]] award
-*[http://www.businessmedia.org/modules/pub/view.php/businessmedia-47 "Reference Model for Electronic Business Media"]
-*[http://digitalmedia.computerdictionaries.org/ Digital Media] Necessary terms and definitions
-*[http://www.digitalmediawiki.co.uk Digital Media Wiki ] - focusing specifically on digital marketing
-
-[[Category:Digital media|*]]
-[[Category:Media technology]]
-[[Category:Computer art| ]]
-[[Category:Postmodern art|*Art]]
-[[Category:Contemporary art]]
+[[Category:ګڼیال رسنۍ|*]]
+[[Category:رسنۍ تکنالوژي]]
 
 [[de:Digitales Medium]]
 [[ko:디지털 미디어]]
