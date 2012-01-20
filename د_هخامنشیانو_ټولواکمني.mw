@@ -44,11 +44,11 @@
 |event_post = [[Darius III]] is killed by [[Bessus]]
 |date_post = 330 BCE
 |
-|p1 = Median Empire
+|p1 =د ماد واکمني 
 |flag_p1 = Median Empire.svg
 |p2 = Neo-Babylonian Empire
 |flag_p2 = Neo babylonia empire 540 bc-2.png
-|p3 = Lydia
+|p3 =لیدیه 
 |flag_p3 = Anatolia Ancient Regions base.svg
 |p4 = Twenty-sixth dynasty of Egypt
 |flag_p4 = Ancient Egypt map-en.svg
@@ -81,11 +81,11 @@
 |currency = [[داریک]] او [[سیګلوی]]
 |
 |<!--- Titles and names of the first and last leaders and their deputies --->
-|leader1 = [[Cyrus the Great]]
-|leader2 = [[Darius III of Persia|Darius III]]
-|year_leader1 = 559–529 BCE (first)
-|year_leader2 = 336–330 BCE (last)
-|title_leader = [[King of Persia|King]]
+|leader1 = [[کوروش ۲]]
+|leader2 = [[داریوش ۳|دیریوش ۳]]
+|year_leader1 = ۵۵۹–۵۲۹ BCE (first)
+|year_leader2 = ۳۳۶–۳۳۰ BCE (last)
+|title_leader = [[شاهنشاه|شاهنشاه]]
 |<!--- Area and population of a given year --->
 |stat_year1 = <!--- year of the statistic, specify either area, population or both --->
 |stat_area1 = <!--- area in square kílometres (w/o commas or spaces), area in square miles is calculated --->
