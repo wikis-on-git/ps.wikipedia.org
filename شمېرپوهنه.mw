@@ -81,7 +81,7 @@
 :[[Discrete mathematics]] involves techniques that apply to objects that can only take on specific, separated values.
 
 :{| style="border:1px solid #999; text-align:center; margin: auto;" cellspacing="15"
-| <math>[1,2,3][1,3,2]</math><br /><math>[2,1,3][2,3,1]</math><br /><math>[3,1,2][3,2,1]</math> || || [[دوتنه:Caesar3.svg|96px]] || [[دوتنه:6n-graf.png|96px]]
+| <math>[1,2,3][1,3,2]</math><br /><math>[2,1,3][2,3,1]</math><br /><math>[3,1,2][3,2,1]</math> || || [[دوتنه:Caesar3.svg|96px]] || [[دوتنه:6n-graf.svg|96px]]
 |-
 | [[Combinatorics]] || [[Theory of computation]] || [[Cryptography]] || [[Graph theory]]
 |}
