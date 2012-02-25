@@ -1,174 +1,26 @@
-{{ژباړل}}
-[[دوتنه:Mirror.jpg|frame|left|A mirror, reflecting a [[vase]].]]
-'''هينداره''' is an object with a surface that has good [[specular reflection]]; that is, it is smooth enough to form an [[image]]. The most familiar type of mirror is the ''[[Plane (mathematics)|plane]] mirror'', which has a flat surface. [[Curved mirror]]s are also used, to produce [[magnification|magnified]] or demagnified images or focus light.
+[[دوتنه:Mirror.jpg|frame|left|یوه هينداره, یوه ګلدانۍ منعکس کوي.]]
 
-Mirrors are most commonly used for personal grooming, decoration, and architecture. Mirrors are also used in scientific apparatus such as [[telescope]]s and [[laser]]s, Cameras, and industrial machinery. Most mirrors are designed for [[visible light]], however, mirrors designed for other [[wavelength]]s of [[electromagnetic radiation]] are also used, especially in optical [[#Instruments|instruments]].
 
-== اغېزې ==
-[[دوتنه:Waves_reflecting_from_a_curved_mirror.PNG|frame|right|In this diagram plain mirror waves reflect off a parabolic mirror to form waves converging onto a focal point.]] 
 
-In a plane mirror, a [[parallel (geometry)|parallel]] beam of [[light]] changes its direction as a whole, while still remaining parallel; the images formed by a plane mirror are [[virtual image]]s, of the same size as the original object (see [[mirror image]]). There are also [[concave mirror]]s, where a parallel beam of light becomes a [[Convergence|convergent]] beam, whose rays intersect in the [[Focus (optics)|focus]] of the mirror. Lastly, there are [[convex mirror]]s, where a parallel beam becomes divergent, with the [[ray (optics)|rays]] appearing to diverge from a common intersection "behind" the mirror. Spherical concave and convex mirrors do not focus parallel rays to a single point due to [[spherical aberration]]. However, the ideal of focusing to a point is a commonly-used approximation. [[Parabolic reflector]]s resolve this, allowing incoming parallel rays (for example, light from a distant star) to be focused to a small spot; almost an ideal point. Parabolic reflectors are not suitable for imaging nearby objects because the light rays are not parallel.
 
-A beam of light reflects off a mirror at an angle of reflection that is equal to its angle of incidence (if the size of a mirror is much larger than the wavelength of light). That is, if the beam of light is shining on a mirror's surface at a 30° angle from vertical, then it reflects from the point of incidence at a 30° angle from vertical in the opposite direction.
 
-This law mathematically follows from the interference of a [[plane wave]] on a flat boundary (of much larger size than the [[wavelength]]).
 
-{{seealso|Mirror image}}
 
-== Composition ==
-Early mirrors were often little more than a sheet of polished [[metal]], often [[silver]] or [[copper]], for example the [[Aranmula kannadi]]. Most modern mirrors consist of a thin layer of [[aluminium]] deposited on a sheet of [[glass]]. This layer is called the Tain. They are [[silvering|back silvered]], where the reflecting surface is viewed through the glass sheet; this makes the mirror durable, but lowers the image quality of the mirror due to extraneous reflections from the front surface of the glass (ordinary glass typically reflects around 4% of the light). This type of mirror reflects about 80% of the incident light. The "back side" of the mirror is often painted or coated in some way to completely seal the metal from [[corrosion]].
 
-Mirrors for precision optical applications are more likely to have the reflective coating on the ''front'' surface of the mirror, to eliminate reflection from the glass. Metal films on the front surface are generally covered with a thin, transparent coating to protect them from corrosion. This is often made of [[silica]]. In some cases this coating may also enhance reflectivity.
 
-Mirrors designed for special applications, such as in [[LASER]]s and other advanced optical devices, use a reflective [[optical coating]] composed of many layers of different [[dielectric]] materials. Such coatings can be designed to have extremely high reflectivity and are reasonably durable. Since they absorb very little of the incident light they can be used with high power lasers without absorbing the energy and being damaged.
 
-== Applications ==
-[[دوتنه:mirror.globe.arp.500pix.jpg|thumb|right|200px|Reflections in a spherical convex mirror. The photographer is seen at top right]]
 
 
-==== Safety and easier viewing ====
-[[Rear-view mirror]]s are used in and on [[vehicle]]s (such as [[automobile]]s, or [[bicycles]]), to allow drivers to see other vehicles coming up behind them. Some [[motorcycle helmet]]s have a built-in so-called MROS (Multiple Reflective Optic System): a set of reflective surfaces inside the helmet which together function as a rear-view mirror.[http://www.reevu.nl] There exist rear view [[sunglasses]], of which the left end of the left glass and the right end of the right glass work as mirrors.
 
-Convex mirrors are used to provide a wider [[field of view]] than a flat mirror. They are sometimes placed at [[road junction]]s, and corners of places such as [[parking lot]]s to allow people to see around corners to avoid crashing into other vehicles or [[shopping cart]]s. They are also sometimes used as part of security systems, so that a single [[video camera]] can show more than one [[angle]] at a time.
 
-[[Corner reflector]]s use three flat mirrors to reflect light back towards it's source. They are used for emergency location, and even [[laser ranging]] to the [[Moon]].
 
-With the [[sun]] as light source, a mirror can be used to signal, by variations in the orientation of the mirror. The signal can be used over long distances, possibly up to 60 [[kilometre]]s on a clear day. This technique was used by [[Indigenous peoples of the Americas|Native American]] tribes and numerous [[military|militaries]] to transmit information between distant outposts.
 
-==== One-way mirror ====
-A ''one-way mirror'' reflects some percentage of the light and lets some other percentage pass. It is a sheet of glass coated with a layer of metal only a few dozen atoms thick, allowing some of the light through the surface (from both sides). It is used between a dark room and a brightly lit room. Persons on the brightly lit side see their own reflection - it looks like a normal mirror. Persons on the dark side see through it - it looks like a [[transparency (optics)|transparent]] window. It may be used to observe criminal suspects or customers (to watch out for theft). The same type of mirror, when used in an [[optical instrument]], is called a ''half-silvered mirror'' or [[beam splitter]]. Its purpose is to split a beam of light so that half passes straight through, while the other half is reflected — this is useful for [[interferometry]].
 
-Contrary to popular belief, one-way mirrors that function well between equally lit rooms do not exist. The laws of physics do not allow for real, passive one-way mirrors (ones that do not need external energy); if such a device were possible, one could break the [[second law of thermodynamics]] and make energy flow from a cold object to a hot one, by placing such a mirror between them.  (There is no prohibition against one-way ''windows'', however.<ref>{{cite web|url=http://www.usna.edu/Users/physics/mungan/Scholarship/FaradayIsolators.pdf |title=Faraday Isolators and Kirchhoff’s Law: A Puzzle |accessdate=2006-07-18 |last=Mungan |first=C.E. |year=1999 |format=pdf}}</ref><ref>Rayleigh, ''On the magnetic rotation of light and the second law of thermodynamics'', Nature (London), Vol. '''64''', p. 577 (Oct. 10, 1901).</ref> [[Faraday isolator|Optical isolators]] are one-way devices, that are commonly used with [[laser]]s.)
 
-=== Technology ===
-==== Televisions and Projectors ====
-Microscopic mirrors are a core element of many of the largest [[HDTV|high-definition]] [[televisions]] and video [[projectors]].  A common technology of this type is [[Texas Instruments]]' [[DLP]]. A DLP chip is a postage stamp-sized microchip whose surface is comprised of an array of millions of microscopic mirrors.  The picture is created as the individual mirrors move to either reflect light toward the projection surface ([[pixel]] on), or toward a light absorbing surface (pixel off). 
 
-Other projection technologies involving mirrors include [[LCoS]].  Like a DLP chip, LCoS is a microchip of similar size, but rather than millions of individual mirrors, there is a single mirror that is actively shielded by a [[liquid crystal]] [[matrix]] with up to millions of [[pixels]].  The picture is formed as light is either reflected toward the projection surface (pixel on), or absorbed by the activated [[LCD]] pixels (pixel off).  LCoS-based televisions and projectors often use 3 chips, one for each primary color.
 
-==== Instruments ====
-[[Telescope]]s and other precision instruments use ''front silvered'' or ''first surface'' mirrors, where the reflecting surface is placed on the front (or first) surface of the glass (this eliminates reflection from glass surface ordinary back mirrors have). Some of them use silver, but most are aluminum, which is more reflective at short wavelengths than silver.
-All of these coatings are easily damaged and require special handling.
-They reflect 90% to 95% of the incident light when new.
-The coatings are typically applied by [[vacuum deposition]].
-A protective overcoat is usually applied before the mirror is removed from the vacuum, because the coating otherwise begins to corrode as soon as it is exposed to oxygen and humidity in the air. ''Front silvered'' mirrors have to be resurfaced occasionally to keep their quality.
 
-The reflectivity of the mirror coating can be measured using a [[reflectometer]] and for a particular metal it will be different for different [[wavelength]]s of light. This is exploited in some [[optical]] work to make [[cold mirror]]s and [[hot mirror]]s. A cold mirror is made by using a transparent substrate and choosing a coating material that is more reflective to visible light and more transmissive to [[infrared]] light.
-A hot mirror is the opposite, the coating preferentially reflects infrared. Mirror surfaces are sometimes given thin film overcoatings both to retard degradation of the surface and to increase their reflectivity in parts of the spectrum where they will be used. For instance, aluminum mirrors are commonly coated with silicon dioxide or magnesium fluoride. The reflectivity as a function of wavelength depends on both the thickness of the coating and on how it is applied.
 
-For scientific [[optics|optical]] work, [[dielectric mirror]]s are often used. These are glass (or sometimes other material) substrates on which one or more layers of [[dielectric]] material are deposited, to form an [[optical coating]]. By careful choice of the type and thickness of the dielectric layers, the range of [[wavelength]]s and amount of [[light]] reflected from the mirror can be specified. The best mirrors of this type can reflect &gt;99.999% of the light (in a narrow range of wavelengths) which is incident on the mirror. Such mirrors are often used in [[lasers]].
-
-In astronomy, [[adaptive optics]] is a technique to measure variable image distortions and adapt a [[deformable mirror]] accordingly on a timescale of milliseconds, to compensate for the distortions.
-
-Although the most of mirrors are designed to reflect [[visible light]], surfaces reflecting other forms of electromagnetic radiation are also called "mirrors". The mirrors for other ranges of [[electromagnetic waves]] are used in
-[[optics]] and [[astronomy]]. Mirrors for radio waves are important elements of [[radio telescope]]s.
-
-A [[Mangin mirror]] is a combination lens and concave mirror and is widely used in optical instruments and even sometimes in cameras.[http://www.jmloptical.com/level2/ProductInfo/m_spherical_info.aspx] [http://www.aavso.org/publications/ejaavso/ej14.pdf][http://www.bobatkins.com/photography/tutorials/mirror.html]
-
-==== Military Applications ====
-It has been said that [[Archimedes]] used a large array of mirrors to burn [[Ancient Rome|Roman]] ships during an attack on Syracuse. This has never been proven or disproved; however, many have put it to the test. Recently, on a popular [[Discovery Channel]] show, [[MythBusters]], a team from [[MIT]] tried to recreate the famous "Archimedes Death Ray".  They were [http://web.mit.edu/2.009/www/lectures/10_Mythbusters.html successful] at starting a fire on a ship at 75 feet away, however, previous attempts to light the boat on fire using only the bronze mirrors available in Archimedes' time were unsuccessful, and the time taken to ignite the craft would have made its use impractical, resulting in the MythBusters team deeming the myth implausible.
-
-Modern [[Nuclear weapon|thermonuclear weapons]] use x-ray mirrors to focus radiation from the primary onto the secondary to create conditions favoring nuclear fusion ''(see [[Nuclear weapons design]] for more details)''.
-
-[[دوتنه:Teller-Ulam device firing sequence.png|center|frame|Application of x-ray mirrors in a thermonuclear weapon.]]
-
-==== Seasonal lighting ====
-
-<!-- If this technique becomes popular, don't let this section grow into a vast list of examples.  -->
-Due to its location in a steep-sided valley, the Italian town of [[Viganella]] gets no direct sunlight for 6 weeks each winter.  In 2006 a €100,000 computer-controlled mirror, 8&nbsp;m × 5&nbsp;m, was installed to reflect sunlight into the town's piazza. In early 2007 the similarly situated village of [[Bondo, Switzerland]], was considering applying this solution as well.<ref>http://news.bbc.co.uk/2/hi/europe/6189371.stm</ref><ref>http://www.cbsnews.com/stories/2007/02/12/ap/world/mainD8N8AED80.shtml</ref>
-
-=== Leisure ===
-==== Decoration ====
-Mirrors, typically large and unframed, are frequently used in [[interior decoration]] to create an illusion of space, and amplify the apparent size of a room.
-
-The softness of old mirrors is sometimes replicated by contemporary artisans for use in interior design.  These reproduction antiqued mirrors are works of art and can bring color and texture to an otherwise hard, cold reflective surface.  It is an artistic process that has been attempted by many and perfected by few. 
-
-A decorative reflecting [[sphere]] of thin metal-coated glass, working as a reducing wide-angle mirror, is sold as a [[Christmas ornament]] called a ''bauble''.
-
-==== Entertainment ====
-The [[house of mirrors|hall of mirrors]], commonly found in [[amusement park]]s, is an attraction in which a number of distorted mirrors are used to produce unusual reflections of the visitor. Mirror mazes, also found in [[amusement park]]s, contain large numbers of mirrors and sheets of glass. The idea is to navigate the disorientating array without bumping into the walls.
-
-Mirrors are often used in [[Magic (illusion)|magic]] to create an [[illusion]].
-
-Illuminated rotating [[disco ball]]s covered with small mirrors are used to cast moving spots of light around a dance floor.
-
-Mirrors are employed in [[kaleidoscope]]s, personal entertainment devices invented in [[Scotland]] by sir [[David Brewster]].
-
-==== Anamorphosis ====
-One kind of [[anamorphosis]] has an interposed cylindrical or conical mirror making it possible to apprehend an image which is the reflection of a deformed image conceived for this purpose. The deformed image is painted on a plane surface surrounding the mirror. By looking uniquely into the mirror, the image appears normal.
-
-== Mirrors in literature ==
-
-It is a common [[superstition]] that someone who breaks a mirror will receive seven years of bad luck.
-
-In Greek mythology, the hero [[Perseus]] killed [[Medusa]] by using a mirrored shield so as not to gaze upon her monstrous appearance (she turned anyone who looked at her to stone.)
-
-In English literature, a famous example is [[Lewis Carroll]]'s ''[[Through the Looking Glass]]'', in which protagonist Alice uses a mirror as a portal to a strange alternate world.
-
-A common use is that of [[scrying]] with a mirror.  In ''[[Canterbury Tales]]'', "The Squire's Tale" describes a magical mirror that can look over a king's realm; similarly, in ''[[The Faerie Queene]]'', [[Merlin]] enchants a mirror to have this power.<ref>David Colbert, The Magical Worlds of Harry Potter, p 141-2, ISBN 0-9708442-0-4</ref>  Another example, from the German tales of the [[brothers Grimm]], is ''[[Snow White]]'', in which the Wicked Queen consults a magic mirror to determine the identity of the most beautiful woman in the world; this mirror is capable of scrying the forest and finding Snow White.  In modern [[fantasy]], the mirror of [[Galadriel]], in [[J.R.R. Tolkien]]'s fictional universe of [[Middle-earth]], ''shows things that were, and things that are, and things that yet may be.''
-
-[[Alfred Tennyson, 1st Baron Tennyson|Tennyson]]'s [[Lady of Shalott]] has a mirror which shatters, releasing a curse on her.
-
-Mirrors, along with [[labyrinth]]s, figure prominently in the work of [[Argentina|Argentine]] writer [[Jorge Luis Borges]], who often used them as symbols of [[infinity]], [[impersonation]], and [[illusion]]. In ''[[Dreamtigers]]'', he writes of fearing that his reflection would move independently or change shape before his eyes. In ''[[Tlön, Uqbar, Orbis Tertius]]'', a fictional [[heresy|heresiarch]] declares that "mirrors and [[copulation]] are abominable, since they both multiply the numbers of men."
-
-Similarly, [[Edgar Allan Poe]] expresses an aversion to mirrors in [[The Philosophy of Furniture]]:
-
-<blockquote>[R]egarded apart from its reflection, the mirror presents a continuous, flat, colourless, unrelieved surface, – a thing always and obviously unpleasant. Considered as a reflector, it is potent in producing a monstrous and odious uniformity: and the evil is here aggravated, not in merely direct proportion with the augmentation of its sources, but in a ratio constantly increasing. In fact, a room with four or five mirrors arranged at random, is, for all purposes of artistic show, a room of no shape at all. If we add to this evil, the attendant glitter upon glitter, we have a perfect farrago of discordant and displeasing effects.</blockquote>
-
-''[[The King in the Window]]'' works off some of the concepts laid out by Lewis Carroll to develop its own tale of a war between the benevolent habitants of windows and the soul-stealing Master of Mirrors.
-
-In the [[Harry Potter]] series of novels, the [[Magical objects in Harry Potter#The Mirror of Erised|Mirror of Erised]] is a magic mirror that reflects its viewer, not physically, but representing the viewer's deepest desires.<ref>David Colbert, The Magical Worlds of Harry Potter, p 144, ISBN 0-9708442-0-4</ref> Also featured in the series is a type of device (a [[dark detector]]) that functions as a mirror, depicting not only the gazer but also a number of shadowy figures in the background; they are enemies and their proximity to the viewer represents their imminent threat.
-
-In [[Bram Stoker]]'s [[Dracula]] the count (Dracula) has no reflection in a mirror (and no shadow).
-
-In the comic series [[Johnny the Homicidal Maniac]], the protagonist makes a habit of focusing on a mirror and willing himself to be able to go "through" to another, better world, and believes that the reason he is always thwarted is due to a lack of patience.
-
-In [[Kurt Vonnegut]]'s ''[[Breakfast of Champions]]'', Kilgore Trout calls mirrors "leaks," and tells people he believes they lead to other worlds.  He often tells people that where he is from "taking a leak" means stealing a mirror.
-
-In numerous cartoons, mirrors are often employed to trick both heroes and villains, as well as reflecting laser-like beams back at their source. In folklore in many regions of Europe, pigs are said to show a strong aversion to mirrors.
-
-In ''[[Witches Abroad]]'' by [[Terry Pratchett]], a character who increases her magical powers by standing between two mirrors becomes lost in the reflections, unable to tell if she is real.
-
-The [[Mirror Master]] in [[DC Comics]] ''[[Flash (comics)|Flash]]'' uses various scientific and mystical mirrors to commit crimes.
-
-Sherman Alexie uses mirror imagery in his "The Lone Ranger and Tonto Fistfight in Heaven" to portray the inaccurate reflection of post-colonial perspective upon the Native American peoples.
-
-In ''[[Inuyasha the Movie: The Castle Beyond the Looking Glass]]'', [[The Tale of the Bamboo Cutter|Princess Kaguya]] (or the demon that consumed the real princess) from the [[The Tale of the Bamboo Cutter]] was sealed by [[Miroku (Inuyasha)|Miroku]]'s grandfather Miyatsu in the [[Items from Inuyasha the Movie 2|Mirror of Life]]. After being released, she still uses the mirror as a weapon, which included sealing the main protagonist [[Inuyasha (character)|Inuyasha]]'s human half into the mirror, therefore turning him into a full-blooded demon. [[Kan'na (Inuyasha)|Kan'na]], a character from the series who also appeared in the movie, uses a mirror to steal souls and to defend herself from attacks.
-
-In [[Gaston Leroux]]'s novel [[The Phantom of the Opera]] Erik (the Phantom) uses a revolving room of mirrors to torment his captives. Erik also hides behind a one way mirror when teaching Christine how to sing. In Erik's lair all of the mirrors are hidden behind curtains as Erik is afraid of his own face. At the end of the film of The Phantom of the Opera the Phantom breaks out of his solitude by smashing a mirror and entering an underground tunnel.
-
-In the [[Star Trek]] episode [[The Squire of Gothos (TOS episode)|The Squire of Gothos]], Trelane is theorised to be using his mirror as a source of his power to physically manifest his thoughts and desires. This includes teleportation, the appearance of clothes (a dress), freezing people in position and the ability to learn how to play the harpsichord.
-
-Mirrors appear in the [[Bhagavad Gita]] ([http://www.asitis.com/3/38.html 3.38]): ''As fire is covered by smoke, as a mirror is covered by dust, or as the embryo is covered by the womb, similarly, the living entity is covered by different degrees of this lust.''
-
-In Chinese Literature, the novel [[Dream of the Red Chamber]], a Taoist monk has a two sided mirror that is capable of reflecting truth from the main screen, while the back screen shows the distorted truth.
-
-== See also ==
-*[[Anamorphosis]]
-*[[Aranmula kannadi]]
-*[[Bronze Mirrors]]
-*[[Cold Mirror]] and [[Hot Mirror]]
-*[[Digital Micromirror Device]]
-*[[Home decor]]
-*[[Mirror writing]]
-*[[Perfect mirror]]
-*[[Periscope]]
-*[[Rear-view mirror]]
-*[[Silvering]]
-*[[TLV Mirror]] - An ancient type of Chinese mirror from the [[Han Dynasty]].
-*[[Venus effect]]
-*[[Deformable mirror]]
-== Notes ==
-{{reflist}}
-
-== Bibliography ==
-*''Mirror, Mirror: A History of the Human Love Affair with Reflection'', Mark Pendergrast. Basic Books (2003). ISBN 0-465-05471-4 .
-*''On reflection'', Jonathan Miller. National Gallery Publications Limited (1998). ISBN 0-300-07713-0 .
-
-== External links ==
-
-* [http://vision2form.nl/mirror_history.html History of mirrors and glass]
-* [http://yvesdore.com/mirror.html The Narcissus Syndrome Revisited by Yves Doré]
 
 [[وېشنيزه:هيندارې ]]
 
