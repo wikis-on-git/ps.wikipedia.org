@@ -33,18 +33,18 @@
 *[[تانبه:تخنيک|تخنيک]]
 *'''[[تانبه:د تانبو لړليک|ټولې&nbsp;تانبې]]'''
 |}<!--
-
 ----------Strapline immediately below banner---------->
 {{د لومړي مخ سرليک}} 
-
 </center>
 *********************************************************
-<big><p align="center">نوې ليکنه مو دلته وليکۍ</big>
+<br>
 <inputbox>
-bgcolor=#F0F0FF
 type=create
+width=50
+bgcolor=#ffffff
+preload=Template:Standard content for new page
+buttonlabel=نوې ليکنه ورګډول
 </inputbox>
-</td></tr></table><br>
 *********************************************************
 {{__ليکلړ__}}
 __NOTOC__
