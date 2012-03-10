@@ -5,7 +5,7 @@
 <div id="لومړی مخ"></div><!--
 
 ------------------------------Banner across top of page------------------------------>
-{| style="width:100%; text-align:right; background:#fcfcfc; margin-top:+.9em; border:1px solid #ccc;"
+{| style="width:100%; text-align:right; background:#fcfcfc; margin-top:+.9em; border:1px solid #ccc;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;"
 |style="width:56%; color:#000"| <!--
 
 <!----------"ويکيپېډيا ته ښه راغلۍ او د ليکنو شمېر---------->
