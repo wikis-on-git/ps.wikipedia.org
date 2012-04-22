@@ -27,14 +27,14 @@
 ! تشریح
 |-
 | 1
-| [[هایډروجن]]
+| [[هايډروجن]]
 | H
 | 1
 | 1
 | s
 | غاز
 | Primordial
-| Non-metal
+| غیر فلزی
 |-
 | 2
 | [[Helium]]
@@ -44,7 +44,7 @@
 | s
 | غاز
 | Primordial
-| Noble غاز
+| نجیبه غاز
 |-
 | 3
 | [[Lithium]]
@@ -54,7 +54,7 @@
 | s
 | جامد
 | Primordial
-| Alkali metal
+| القلی فلز
 |-
 | 4
 | [[Beryllium]]
@@ -64,7 +64,7 @@
 | s
 | جامد
 | Primordial
-| Alkaline earth metal
+| القلی خاورین فلز
 |-
 | 5
 | [[Boron]]
@@ -74,7 +74,7 @@
 | p
 | جامد
 | Primordial
-| Metalloid
+| فلزloid
 |-
 | 6
 | [[Carbon]]
@@ -84,7 +84,7 @@
 | p
 | جامد
 | Primordial
-| Non-metal
+| غیر فلزی
 |-
 | 7
 | [[Nitrogen]]
@@ -94,7 +94,7 @@
 | p
 | غاز
 | Primordial
-| Non-metal
+| غیر فلزی
 |-
 | 8
 | [[Oxygen]]
@@ -104,7 +104,7 @@
 | p
 | غاز
 | Primordial
-| Non-metal
+| غیر فلزی
 |-
 | 9
 | [[Fluorine]]
@@ -114,7 +114,7 @@
 | p
 | غاز
 | Primordial
-| Halogen
+| هلوجن
 |-
 | 10
 | [[Neon]]
@@ -124,7 +124,7 @@
 | p
 | غاز
 | Primordial
-| Noble غاز
+| نجیبه غاز
 |-
 | 11
 | [[Sodium]]
@@ -134,7 +134,7 @@
 | s
 | جامد
 | Primordial
-| Alkali metal
+| القلی فلز
 |-
 | 12
 | [[Magnesium]]
@@ -144,7 +144,7 @@
 | s
 | جامد
 | Primordial
-| Alkaline earth metal
+| القلی خاورین فلز
 |-
 | 13
 | [[Aluminium]]
@@ -154,7 +154,7 @@
 | p
 | جامد
 | Primordial
-| Metal
+| فلز
 |-
 | 14
 | [[Silicon]]
@@ -164,7 +164,7 @@
 | p
 | جامد
 | Primordial
-| Metalloid
+| فلزloid
 |-
 | 15
 | [[Phosphorus]]
@@ -174,7 +174,7 @@
 | p
 | جامد
 | Primordial
-| Non-metal
+| غیر فلزی
 |-
 | 16
 | [[Sulfur]]
@@ -184,7 +184,7 @@
 | p
 | جامد
 | Primordial
-| Non-metal
+| غیر فلزی
 |-
 | 17
 | [[Chlorine]]
@@ -194,7 +194,7 @@
 | p
 | غاز
 | Primordial
-| Halogen
+| هلوجن
 |-
 | 18
 | [[Argon]]
@@ -204,7 +204,7 @@
 | p
 | غاز
 | Primordial
-| Noble غاز
+| نجیبه غاز
 |-
 | 19
 | [[Potassium]]
@@ -214,7 +214,7 @@
 | s
 | جامد
 | Primordial
-| Alkali metal
+| القلی فلز
 |-
 | 20
 | [[Calcium]]
@@ -224,7 +224,7 @@
 | s
 | جامد
 | Primordial
-| Alkaline earth metal
+| القلی خاورین فلز
 |-
 | 21
 | [[Scandium]]
@@ -234,7 +234,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 22
 | [[Titanium]]
@@ -244,7 +244,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 23
 | [[Vanadium]]
@@ -254,7 +254,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 24
 | [[Chromium]]
@@ -264,7 +264,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 25
 | [[Manganese]]
@@ -274,7 +274,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 26
 | [[Iron]]
@@ -284,7 +284,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 27
 | [[Cobalt]]
@@ -294,7 +294,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 28
 | [[Nickel]]
@@ -304,7 +304,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 29
 | [[Copper]]
@@ -314,7 +314,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 30
 | [[Zinc]]
@@ -324,7 +324,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 31
 | [[Gallium]]
@@ -334,7 +334,7 @@
 | p
 | جامد
 | Primordial
-| Metal
+| فلز
 |-
 | 32
 | [[Germanium]]
@@ -344,7 +344,7 @@
 | p
 | جامد
 | Primordial
-| Metalloid
+| فلزloid
 |-
 | 33
 | [[Arsenic]]
@@ -354,7 +354,7 @@
 | p
 | جامد
 | Primordial
-| Metalloid
+| فلزloid
 |-
 | 34
 | [[Selenium]]
@@ -364,7 +364,7 @@
 | p
 | جامد
 | Primordial
-| Non-metal
+| غیر فلزی
 |-
 | 35
 | [[Bromine]]
@@ -374,7 +374,7 @@
 | p
 | مایع
 | Primordial
-| Halogen
+| هلوجن
 |-
 | 36
 | [[Krypton]]
@@ -384,7 +384,7 @@
 | p
 | غاز
 | Primordial
-| Noble غاز
+| نجیبه غاز
 |-
 | 37
 | [[Rubidium]]
@@ -394,7 +394,7 @@
 | s
 | جامد
 | Primordial
-| Alkali metal
+| القلی فلز
 |-
 | 38
 | [[Strontium]]
@@ -404,7 +404,7 @@
 | s
 | جامد
 | Primordial
-| Alkaline earth metal
+| القلی خاورین فلز
 |-
 | 39
 | [[Yttrium]]
@@ -414,7 +414,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 40
 | [[Zirconium]]
@@ -424,7 +424,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 41
 | [[Niobium]]
@@ -434,7 +434,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 42
 | [[Molybdenum]]
@@ -444,7 +444,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 43
 | [[Technetium]]
@@ -454,7 +454,7 @@
 | d
 | جامد
 | Transient
-| Transition metal
+| Transition فلز
 |-
 | 44
 | [[Ruthenium]]
@@ -464,7 +464,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 45
 | [[Rhodium]]
@@ -474,7 +474,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 46
 | [[Palladium]]
@@ -484,7 +484,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 47
 | [[Silver]]
@@ -494,7 +494,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 48
 | [[Cadmium]]
@@ -504,7 +504,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 49
 | [[Indium]]
@@ -514,7 +514,7 @@
 | p
 | جامد
 | Primordial
-| Metal
+| فلز
 |-
 | 50
 | [[Tin]]
@@ -524,7 +524,7 @@
 | p
 | جامد
 | Primordial
-| Metal
+| فلز
 |-
 | 51
 | [[Antimony]]
@@ -534,7 +534,7 @@
 | p
 | جامد
 | Primordial
-| Metalloid
+| فلزloid
 |-
 | 52
 | [[Tellurium]]
@@ -544,7 +544,7 @@
 | p
 | جامد
 | Primordial
-| Metalloid
+| فلزloid
 |-
 | 53
 | [[Iodine]]
@@ -554,7 +554,7 @@
 | p
 | جامد
 | Primordial
-| Halogen
+| هلوجن
 |-
 | 54
 | [[Xenon]]
@@ -564,7 +564,7 @@
 | p
 | غاز
 | Primordial
-| Noble غاز
+| نجیبه غاز
 |-
 | 55
 | [[Caesium]]
@@ -574,7 +574,7 @@
 | s
 | جامد
 | Primordial
-| Alkali metal
+| القلی فلز
 |-
 | 56
 | [[Barium]]
@@ -584,7 +584,7 @@
 | s
 | جامد
 | Primordial
-| Alkaline earth metal
+| القلی خاورین فلز
 |-
 | 57
 | [[Lanthanum]]
@@ -744,7 +744,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 73
 | [[Tantalum]]
@@ -754,7 +754,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 74
 | [[Tungsten]]
@@ -764,7 +764,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 75
 | [[Rhenium]]
@@ -774,7 +774,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 76
 | [[Osmium]]
@@ -784,7 +784,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 77
 | [[Iridium]]
@@ -794,7 +794,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 78
 | [[Platinum]]
@@ -804,7 +804,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 79
 | [[Gold]]
@@ -814,7 +814,7 @@
 | d
 | جامد
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 80
 | [[Mercury (element)|Mercury]]
@@ -824,7 +824,7 @@
 | d
 | مایع
 | Primordial
-| Transition metal
+| Transition فلز
 |-
 | 81
 | [[Thallium]]
@@ -834,7 +834,7 @@
 | p
 | جامد
 | Primordial
-| Metal
+| فلز
 |-
 | 82
 | [[Lead]]
@@ -844,7 +844,7 @@
 | p
 | جامد
 | Primordial
-| Metal
+| فلز
 |-
 | 83
 | [[Bismuth]]
@@ -854,7 +854,7 @@
 | p
 | جامد
 | Primordial
-| Metal
+| فلز
 |-
 | 84
 | [[Polonium]]
@@ -864,7 +864,7 @@
 | p
 | جامد
 | Transient
-| Metalloid
+| فلزloid
 |-
 | 85
 | [[Astatine]]
@@ -874,7 +874,7 @@
 | p
 | جامد
 | Transient
-| Halogen
+| هلوجن
 |-
 | 86
 | [[Radon]]
@@ -884,7 +884,7 @@
 | p
 | غاز
 | Transient
-| Noble غاز
+| نجیبه غاز
 |-
 | 87
 | [[Francium]]
@@ -894,7 +894,7 @@
 | s
 | جامد
 | Transient
-| Alkali metal
+| القلی فلز
 |-
 | 88
 | [[Radium]]
@@ -904,7 +904,7 @@
 | s
 | جامد
 | Transient
-| Alkaline earth metal
+| القلی خاورین فلز
 |-
 | 89
 | [[Actinium]]
@@ -1064,7 +1064,7 @@
 | d
 |
 | Synthetic
-| Transition metal
+| Transition فلز
 |-
 | 105
 | [[Dubnium]]
@@ -1074,7 +1074,7 @@
 | d
 |
 | Synthetic
-| Transition metal
+| Transition فلز
 |-
 | 106
 | [[Seaborgium]]
@@ -1084,7 +1084,7 @@
 | d
 |
 | Synthetic
-| Transition metal
+| Transition فلز
 |-
 | 107
 | [[Bohrium]]
@@ -1094,7 +1094,7 @@
 | d
 |
 | Synthetic
-| Transition metal
+| Transition فلز
 |-
 | 108
 | [[Hassium]]
@@ -1104,7 +1104,7 @@
 | d
 |
 | Synthetic
-| Transition metal
+| Transition فلز
 |-
 | 109
 | [[Meitnerium]]
@@ -1144,7 +1144,7 @@
 | d
 |
 | Synthetic
-| Transition metal
+| Transition فلز
 |-
 | 113
 | ([[Ununtrium]])
