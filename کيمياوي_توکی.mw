@@ -22,7 +22,7 @@
 ! [[Group (periodic table)|ګروپ]]
 ! [[Period (periodic table)|کرښه یا پیریود]]
 ! [[Periodic table block|بلاک یا عمودی ستون]]
-! [[<br/> [[د پیدا کیدو شکل]]
+! <br/> [[د پیدا کیدو شکل]]
 ! دپیدایښت کچه
 ! تشریح
 |-
@@ -42,9 +42,9 @@
 | 18
 | 1
 | s
-| Gas
+| غاز
 | Primordial
-| Noble gas
+| Noble غاز
 |-
 | 3
 | [[Lithium]]
@@ -52,7 +52,7 @@
 | 1
 | 2
 | s
-| Solid
+| جامد
 | Primordial
 | Alkali metal
 |-
@@ -62,7 +62,7 @@
 | 2
 | 2
 | s
-| Solid
+| جامد
 | Primordial
 | Alkaline earth metal
 |-
@@ -72,7 +72,7 @@
 | 13
 | 2
 | p
-| Solid
+| جامد
 | Primordial
 | Metalloid
 |-
@@ -82,7 +82,7 @@
 | 14
 | 2
 | p
-| Solid
+| جامد
 | Primordial
 | Non-metal
 |-
@@ -92,7 +92,7 @@
 | 15
 | 2
 | p
-| Gas
+| غاز
 | Primordial
 | Non-metal
 |-
@@ -102,7 +102,7 @@
 | 16
 | 2
 | p
-| Gas
+| غاز
 | Primordial
 | Non-metal
 |-
@@ -112,7 +112,7 @@
 | 17
 | 2
 | p
-| Gas
+| غاز
 | Primordial
 | Halogen
 |-
@@ -122,9 +122,9 @@
 | 18
 | 2
 | p
-| Gas
+| غاز
 | Primordial
-| Noble gas
+| Noble غاز
 |-
 | 11
 | [[Sodium]]
@@ -132,7 +132,7 @@
 | 1
 | 3
 | s
-| Solid
+| جامد
 | Primordial
 | Alkali metal
 |-
@@ -142,7 +142,7 @@
 | 2
 | 3
 | s
-| Solid
+| جامد
 | Primordial
 | Alkaline earth metal
 |-
@@ -152,7 +152,7 @@
 | 13
 | 3
 | p
-| Solid
+| جامد
 | Primordial
 | Metal
 |-
@@ -162,7 +162,7 @@
 | 14
 | 3
 | p
-| Solid
+| جامد
 | Primordial
 | Metalloid
 |-
@@ -172,7 +172,7 @@
 | 15
 | 3
 | p
-| Solid
+| جامد
 | Primordial
 | Non-metal
 |-
@@ -182,7 +182,7 @@
 | 16
 | 3
 | p
-| Solid
+| جامد
 | Primordial
 | Non-metal
 |-
@@ -192,7 +192,7 @@
 | 17
 | 3
 | p
-| Gas
+| غاز
 | Primordial
 | Halogen
 |-
@@ -202,9 +202,9 @@
 | 18
 | 3
 | p
-| Gas
+| غاز
 | Primordial
-| Noble gas
+| Noble غاز
 |-
 | 19
 | [[Potassium]]
@@ -212,7 +212,7 @@
 | 1
 | 4
 | s
-| Solid
+| جامد
 | Primordial
 | Alkali metal
 |-
@@ -222,7 +222,7 @@
 | 2
 | 4
 | s
-| Solid
+| جامد
 | Primordial
 | Alkaline earth metal
 |-
@@ -232,7 +232,7 @@
 | 3
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -242,7 +242,7 @@
 | 4
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -252,7 +252,7 @@
 | 5
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -262,7 +262,7 @@
 | 6
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -272,7 +272,7 @@
 | 7
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -282,7 +282,7 @@
 | 8
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -292,7 +292,7 @@
 | 9
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -302,7 +302,7 @@
 | 10
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -312,7 +312,7 @@
 | 11
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -322,7 +322,7 @@
 | 12
 | 4
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -332,7 +332,7 @@
 | 13
 | 4
 | p
-| Solid
+| جامد
 | Primordial
 | Metal
 |-
@@ -342,7 +342,7 @@
 | 14
 | 4
 | p
-| Solid
+| جامد
 | Primordial
 | Metalloid
 |-
@@ -352,7 +352,7 @@
 | 15
 | 4
 | p
-| Solid
+| جامد
 | Primordial
 | Metalloid
 |-
@@ -362,7 +362,7 @@
 | 16
 | 4
 | p
-| Solid
+| جامد
 | Primordial
 | Non-metal
 |-
@@ -372,7 +372,7 @@
 | 17
 | 4
 | p
-| Liquid
+| مایع
 | Primordial
 | Halogen
 |-
@@ -382,9 +382,9 @@
 | 18
 | 4
 | p
-| Gas
+| غاز
 | Primordial
-| Noble gas
+| Noble غاز
 |-
 | 37
 | [[Rubidium]]
@@ -392,7 +392,7 @@
 | 1
 | 5
 | s
-| Solid
+| جامد
 | Primordial
 | Alkali metal
 |-
@@ -402,7 +402,7 @@
 | 2
 | 5
 | s
-| Solid
+| جامد
 | Primordial
 | Alkaline earth metal
 |-
@@ -412,7 +412,7 @@
 | 3
 | 5
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -422,7 +422,7 @@
 | 4
 | 5
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -432,7 +432,7 @@
 | 5
 | 5
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -442,7 +442,7 @@
 | 6
 | 5
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -452,7 +452,7 @@
 | 7
 | 5
 | d
-| Solid
+| جامد
 | Transient
 | Transition metal
 |-
@@ -462,7 +462,7 @@
 | 8
 | 5
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -472,7 +472,7 @@
 | 9
 | 5
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -482,7 +482,7 @@
 | 10
 | 5
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -492,7 +492,7 @@
 | 11
 | 5
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -502,7 +502,7 @@
 | 12
 | 5
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -512,7 +512,7 @@
 | 13
 | 5
 | p
-| Solid
+| جامد
 | Primordial
 | Metal
 |-
@@ -522,7 +522,7 @@
 | 14
 | 5
 | p
-| Solid
+| جامد
 | Primordial
 | Metal
 |-
@@ -532,7 +532,7 @@
 | 15
 | 5
 | p
-| Solid
+| جامد
 | Primordial
 | Metalloid
 |-
@@ -542,7 +542,7 @@
 | 16
 | 5
 | p
-| Solid
+| جامد
 | Primordial
 | Metalloid
 |-
@@ -552,7 +552,7 @@
 | 17
 | 5
 | p
-| Solid
+| جامد
 | Primordial
 | Halogen
 |-
@@ -562,9 +562,9 @@
 | 18
 | 5
 | p
-| Gas
+| غاز
 | Primordial
-| Noble gas
+| Noble غاز
 |-
 | 55
 | [[Caesium]]
@@ -572,7 +572,7 @@
 | 1
 | 6
 | s
-| Solid
+| جامد
 | Primordial
 | Alkali metal
 |-
@@ -582,7 +582,7 @@
 | 2
 | 6
 | s
-| Solid
+| جامد
 | Primordial
 | Alkaline earth metal
 |-
@@ -592,7 +592,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -602,7 +602,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -612,7 +612,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -622,7 +622,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -632,7 +632,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Transient
 | Lanthanide
 |-
@@ -642,7 +642,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -652,7 +652,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -662,7 +662,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -672,7 +672,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -682,7 +682,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -692,7 +692,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -702,7 +702,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -712,7 +712,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -722,7 +722,7 @@
 | 3
 | 6
 | f
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -732,7 +732,7 @@
 | 3
 | 6
 | d
-| Solid
+| جامد
 | Primordial
 | Lanthanide
 |-
@@ -742,7 +742,7 @@
 | 4
 | 6
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -752,7 +752,7 @@
 | 5
 | 6
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -762,7 +762,7 @@
 | 6
 | 6
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -772,7 +772,7 @@
 | 7
 | 6
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -782,7 +782,7 @@
 | 8
 | 6
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -792,7 +792,7 @@
 | 9
 | 6
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -802,7 +802,7 @@
 | 10
 | 6
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -812,7 +812,7 @@
 | 11
 | 6
 | d
-| Solid
+| جامد
 | Primordial
 | Transition metal
 |-
@@ -822,7 +822,7 @@
 | 12
 | 6
 | d
-| Liquid
+| مایع
 | Primordial
 | Transition metal
 |-
@@ -832,7 +832,7 @@
 | 13
 | 6
 | p
-| Solid
+| جامد
 | Primordial
 | Metal
 |-
@@ -842,7 +842,7 @@
 | 14
 | 6
 | p
-| Solid
+| جامد
 | Primordial
 | Metal
 |-
@@ -852,7 +852,7 @@
 | 15
 | 6
 | p
-| Solid
+| جامد
 | Primordial
 | Metal
 |-
@@ -862,7 +862,7 @@
 | 16
 | 6
 | p
-| Solid
+| جامد
 | Transient
 | Metalloid
 |-
@@ -872,7 +872,7 @@
 | 17
 | 6
 | p
-| Solid
+| جامد
 | Transient
 | Halogen
 |-
@@ -882,9 +882,9 @@
 | 18
 | 6
 | p
-| Gas
+| غاز
 | Transient
-| Noble gas
+| Noble غاز
 |-
 | 87
 | [[Francium]]
@@ -892,7 +892,7 @@
 | 1
 | 7
 | s
-| Solid
+| جامد
 | Transient
 | Alkali metal
 |-
@@ -902,7 +902,7 @@
 | 2
 | 7
 | s
-| Solid
+| جامد
 | Transient
 | Alkaline earth metal
 |-
@@ -912,7 +912,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Transient
 | Actinide
 |-
@@ -922,7 +922,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Primordial
 | Actinide
 |-
@@ -932,7 +932,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Transient
 | Actinide
 |-
@@ -942,7 +942,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Primordial
 | Actinide
 |-
@@ -952,7 +952,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Transient
 | Actinide
 |-
@@ -962,7 +962,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Primordial
 | Actinide
 |-
@@ -972,7 +972,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Transient
 | Actinide
 |-
@@ -982,7 +982,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Transient
 | Actinide
 |-
@@ -992,7 +992,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Transient
 | Actinide
 |-
@@ -1002,7 +1002,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Transient
 | Actinide
 |-
@@ -1012,7 +1012,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Synthetic
 | Actinide
 |-
@@ -1022,7 +1022,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Synthetic
 | Actinide
 |-
@@ -1032,7 +1032,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Synthetic
 | Actinide
 |-
@@ -1042,7 +1042,7 @@
 | 3
 | 7
 | f
-| Solid
+| جامد
 | Synthetic
 | Actinide
 |-
@@ -1052,7 +1052,7 @@
 | 3
 | 7
 | d
-| Solid
+| جامد
 | Synthetic
 | Actinide
 |-
