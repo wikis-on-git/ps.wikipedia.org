@@ -60,7 +60,7 @@ The citric acid cycle is continuously supplied new carbons in the form of acetyl
 |-
 |7
 |Succinyl-CoA + <br />[[Guanosine diphosphate|GDP]] + [[Inorganic phosphate|P<sub>i</sub>]]
-|[[Succinic acid|Succinate]]  +<br />CoA-SH +<br/>[[Guanosine triphosphate|GTP]]
+|[[Succinic acid|Succinate]]  +<br />CoA-SH +<br />[[Guanosine triphosphate|GTP]]
 |[[Succinyl coenzyme A synthetase|Succinyl-CoA synthetase]]
 |[[substrate level phosphorylation]]
 |or [[adenosine diphosphate|ADP]]->[[adenosine triphosphate|ATP]],<ref name=[[Stryer]]>{{cite book |last= Berg |first=JM |coauthors= JL Tymoczko, L Stryer |title= Biochemistry - 5th Edition |pages =476|publisher= WH Freeman and Company |year=2002 |isbn= 0-7167-4684-0}}</ref><br />generates 1 ATP or equivalent
@@ -70,7 +70,7 @@ The citric acid cycle is continuously supplied new carbons in the form of acetyl
 |[[Fumaric acid|Fumarate]] + <br />ubiquinol (QH<sub>2</sub>)
 |[[Succinate dehydrogenase]]
 |Oxidation
-|uses [[FAD]] as a [[prosthetic group]] (FAD->FADH<sub>2</sub> in the first step of the reaction) in the enzyme,<ref name=[[Stryer]]>Berg ''et al'' (2002), page 501</ref><br/>generates the equivalent of 2 ATP
+|uses [[FAD]] as a [[prosthetic group]] (FAD->FADH<sub>2</sub> in the first step of the reaction) in the enzyme,<ref name=[[Stryer]]>Berg ''et al'' (2002), page 501</ref><br />generates the equivalent of 2 ATP
 |-
 |9
 |Fumarate + <br />H<sub>2</sub>O
@@ -185,11 +185,12 @@ The citric acid cycle is called an [[amphibolic]] pathway because it participate
 {{د سېټريک اسيد څرخ}}
 {{MetabolismMap}}
 {{د سېټريک اسيد څرخ انزايمونه}}
-{{Link FA|it}}
 
 [[وېشنيزه:سلولي سااخيستنه]]
 [[وېشنيزه:Exercise physiology]]
 [[وېشنيزه:مېټابوليکې لارې]]
+
+{{Link FA|it}}
 
 [[ar:دورة حمض الستريك]]
 [[bg:Цикъл на Кребс]]
@@ -220,6 +221,7 @@ The citric acid cycle is called an [[amphibolic]] pathway because it participate
 [[lt:Krebso ciklas]]
 [[lv:Trikarbonskābju cikls]]
 [[mk:Кребсов циклус]]
+[[ml:ക്രെബ്സ് പരിവൃത്തി]]
 [[ms:Kitar Krebs]]
 [[nl:Citroenzuurcyclus]]
 [[no:Sitronsyresyklus]]
