@@ -505,15 +505,15 @@ The four [[Sukun|diacritic marks]]{{ref|diacritic|1|}} are:
 ! توری
 ! نوم
 ! سپوڼ
-! Position
-! Indication
+! موقف
+! څرګندونه
 ! بېلګه
 |-align="center"
-| <font size="4">ي</font> || {{unicode|کلکه ي}} || {{IPA|[j]}}, {{IPA|[i]}} || anywhere || none || <font size="3">يم</font> </br><small>{{IPA|[jəm]}} ('I am')</small>
+| <font size="4">ي</font> || {{unicode|کلکه ي}} || {{IPA|[j]}}, {{IPA|[i]}} || هر ځای|| هېڅ|| <font size="3">يم</font> </br><small>{{IPA|[jəm]}} ('I am')</small>
 |-align="center"
-| <font size="4">ې</font> || {{unicode|پسته ې}} || {{IPA|[e]}} || middle or end of the word  || none || <font size="3">ډېوه</font> </br><small>{{IPA|[ɖewa]}} ('lamp')</small>
+| <font size="4">ې</font> || {{unicode|پسته ې}} || {{IPA|[e]}} || د لغت په منځ يا پای کې  || هېڅ|| <font size="3">ډېوه</font> </br><small>{{IPA|[ɖewa]}} ('lamp')</small>
 |-align="center"
-| <font size="4">ى</font></br><small>if preceded by a consonant</small> || {{unicode|نارينه ی}} || {{IPA|[ai]}} || end of the word || the word is [[Grammatical gender|masculine]] [[Grammatical number|singular]] in [[direct case]] || <font size="3">ستورى</font> </br><small>{{IPA|[storai]}} ('star')</small>
+| <font size="4">ى</font></br><small>if preceded by a consonant</small> || {{unicode|نارينه ی}} || {{IPA|[ai]}} || د لغت په پای کې || the word is [[Grammatical gender|masculine]] [[Grammatical number|singular]] in [[direct case]] || <font size="3">ستورى</font> </br><small>{{IPA|[ستوری]}} </small>
 |-align="center"
 | <font size="4">ى</font></br><small>if preceded by a vowel</small> || {{unicode|نارينه ی}} || {{IPA|[j]}} || end of the word || none || <font size="3">دوى</font> </br><small>{{IPA|[duj]}} ('they')</small>
 |-align="center"
