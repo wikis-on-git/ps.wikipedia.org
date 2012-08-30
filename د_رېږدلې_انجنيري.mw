@@ -1,0 +1,13 @@
+==Member stiffness relations==
+
+A typical member stiffness relation has the following general form:
+
+:<math>\mathbf{Q}^m = \mathbf{k}^m \mathbf{q}^m + \mathbf{Q}^{om} \qquad \qquad \qquad \mathrm{(1)}</math>
+where
+:''m'' = member number ''m''.
+:<math>\mathbf{Q}^m </math> = vector of member's characteristic forces, which are unknown internal forces.
+:<math>\mathbf{k}^m </math> = member stiffness matrix which characterises the member's resistance against deformations.
+:<math>\mathbf{q}^m </math> = vector of member's characteristic displacements or deformations.
+:<math>\mathbf{Q}^{om} </math> = vector of member's characteristic forces caused by external effects (such as known forces and temperature changes) applied to the member while <math>\mathbf{q}^m = 0 </math>).
+
+If <math>\mathbf{q}^m </math> are member deformations rather than absolute displacements, then <math>\mathbf{Q}^m </math> are independent member forces, and in such case (1) can be inverted to yield the so-called ''member flexibility matrix'', which is used in the [[flexibility method]].
