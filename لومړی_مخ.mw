@@ -31,17 +31,13 @@
 *[[تانبه:ټولنه|ټولنه]]
 *[[تانبه:تخنيک|تخنيک]]
 *'''[[تانبه:د تانبو لړليک|ټولې&nbsp;تانبې]]'''
-|}<!--
-----------Strapline immediately below banner---------->
+|}
 </center>
 *********************************************************
-<br>
 <inputbox>
 type=create
-width=50
-bgcolor=#ffffff
-preload=Template:Standard content for new page
-buttonlabel=نوې ليکنه ورګډول
+buttonlabel= نوې ليکنه ورګډول
+break=no
 </inputbox>
 *********************************************************
 {{__ليکلړ__}}
