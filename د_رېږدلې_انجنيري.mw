@@ -11,3 +11,408 @@ where
 :<math>\mathbf{Q}^{om} </math> = vector of member's characteristic forces caused by external effects (such as known forces and temperature changes) applied to the member while <math>\mathbf{q}^m = 0 </math>).
 
 If <math>\mathbf{q}^m </math> are member deformations rather than absolute displacements, then <math>\mathbf{Q}^m </math> are independent member forces, and in such case (1) can be inverted to yield the so-called ''member flexibility matrix'', which is used in the [[flexibility method]].
+ د ژباړې لپاره دلته ایښودل شوي.هیله ده لرې ېې نکړئ. کچیرې د ژباړلو نیت لرئ مهرباني وکړئ.
+
+{{Earthquakes}}
+'''Earthquake engineering''' is the scientific field concerned with protecting society, the natural and the man-made environment from earthquakes by limiting the seismic risk to socio-economically acceptable levels.<ref name=Bozorgnia2004>{{cite book
+|last1=Bozorgnia
+|first1= Yousef
+|last2= Bertero
+|first2=Vitelmo V.
+|title= Earthquake Engineering: From Engineering Seismology to Performance-Based Engineering
+|publisher=[[CRC Press]]
+|year=2004
+|isbn=978-0-8493-1439-1
+}}</ref> Traditionally, it has been narrowly defined as the study of the behavior of structures and geo-structures subject to [[seismic loading]], thus considered as a subset of both [[structural engineering|structural]] and  [[geotechnical engineering|geotechnical]] engineering.  However, the tremendous costs experienced in recent earthquakes have led to an expansion of its scope to encompass disciplines from the wider field of [[civil engineering]] and from the [[social sciences]], especially sociology, political sciences, economics and finance.
+
+The main objectives of earthquake engineering are:
+* Foresee the potential consequences of strong [[earthquakes]] on [[urban areas]] and civil infrastructure.
+* Design, construct and maintain structures to [[seismic performance|perform]] at earthquake exposure up to the expectations and in compliance with [[building code]]s.<ref name=SeismicDesignCodes>{{cite book|title= Seismic Design Codes and Procedures|author=Berg, Glen V.|year=1983|publisher=EERI|isbn=0-943198-25-9}}</ref>
+
+A [[Earthquake engineering structures|properly engineered structure]] does not necessarily have to be extremely strong or expensive. It has to be properly designed to withstand the seismic effects while sustaining an acceptable level of damage.
+
+[[File:Snapshot of earthquake-like crash testing.jpg|thumb|[[earthquake shaking table|Shake-table]] crash testing of a regular building model (left) and a [[base isolation|base-isolated]] building model (right)<ref>{{cite web|author=Meld je aan of registreer je om een reactie te plaatsen! |url=http://www.youtube.com/watch?v=kzVvd4Dk6sw&locale=en_US&persist_locale=1 |title=Earthquake Protector: Shake Table Crash Testing |publisher=YouTube |date= |accessdate=2012-07-31}}</ref> at [[UCSD]]]][[File:101.portrait.altonthompson.jpg|thumb|415 × 795 px|right|[[Taipei 101]], equipped with a [[tuned mass damper]], is the [[List of tallest buildings in the world|world's third tallest skyscraper]].]]
+
+== Seismic loading ==
+{{main|Seismic loading}}
+'''Seismic loading''' means application of an earthquake-generated excitation on a structure (or geo-structure). It happens at contact surfaces of a structure either with the ground [http://earthquake.geoengineer.org/], or with adjacent structures,<ref>[http://www.civenv.unimelb.edu.au/ejse/Archives/Fulltext/2006/200608.pdf ]{{dead link|date=July 2012}}</ref> or with [[gravity wave]]s from [[tsunami]].
+
+== Seismic performance ==
+{{Main|Seismic analysis}}
+
+'''Earthquake''' or '''seismic performance''' defines a structure's ability to sustain its main functions, such as its [[safety]] and [[Serviceability (structure)|serviceability]], ''at'' and ''after'' a particular earthquake exposure. A structure is, normally, considered ''safe'' if it does not endanger the lives and well-being of those in or around it by partially or completely collapsing. A structure may be considered ''serviceable'' if it is able to fulfill its operational functions for which it was designed.
+
+Basic concepts of the earthquake engineering, implemented in the major building codes, assume that a building should survive a rare, very severe earthquake by sustaining significant damage but without globally collapsing .<ref name=RecommendedLateralForce>{{cite book|title= Recommended Lateral Force Requirements and Commentary|author=Seismology Committee|year=1999|publisher= Structural Engineers Association of California}}</ref> On the other hand, it should remain operational for more frequent, but less severe seismic events.
+
+
+
+=== Seismic performance assessment ===
+
+Engineers need to know the quantified level of the actual or anticipated seismic performance associated with the direct damage to an individual building subject to a specified ground shaking.
+Such an assessment may be performed either experimentally or analytically.
+
+====Experimental assessment====
+Experimental evaluations are expensive tests that are typically done by placing a (scaled) model of the structure on a [[earthquake shaking table|shake-table]] that simulates the earth shaking and observing its behavior.<ref>{{cite web|author=neesit |url=http://www.youtube.com/watch?v=kc652Zp5qWk&feature=PlayList&p=F297EF2ADDEAD86C&index=182 |title=Shaking Table Test on Conventional Wooden House (1) |publisher=YouTube |date=2007-11-17 |accessdate=2012-07-31}}</ref> Such kinds of experiments were first performed more than a century ago.<ref name=SeismicExperiments>{{cite book|title= Seismic Experiments on the Fracturing and Overturning of Columns|author=Omori, F.|year=1900|publisher=Publ. Earthquake Invest. Comm. In Foreign Languages, N.4, Tokyo}}</ref> Still only recently has it become possible to perform 1:1 scale testing on full structures.
+[[File:Shaking NDC.jpg|thumb|698 × 480 px|left|Snapshot from [[shake-table video]] of a 6-story non-ductile concrete building [[destructive testing]]]]
+
+Due to the costly nature of such tests, they tend to be used mainly for understanding the seismic behavior of structures, validating models and verifying analysis methods. Thus, once properly validated, computational models and numerical procedures tend to carry the major burden for the seismic performance assessment of structures.
+
+====Analytical/Numerical Assessment====
+
+'''Seismic performance assessment''' or, simply, [[seismic analysis|seismic structural analysis]] is a powerful tool of earthquake engineering which utilizes detailed modelling of the structure together with methods of structural analysis to gain a better understanding of seismic performance of building and [[non-building structure]]s. The technique as a formal concept is a relatively recent development.
+
+In general, seismic structural analysis is based on the methods of [[structural dynamics]].<ref name=DynamicsOfStructures>{{cite book|title= Dynamics of Structures|author=Chopra, Anil K.|year=1995|publisher=Prentice Hall|isbn=0-13-855214-2}}</ref> For decades, the most prominent instrument of seismic analysis has been the earthquake [[response spectrum]] method which, also, contributed to the proposed building code's concept of today.<ref name=EarthquakeSpectra>{{cite book|title= Earthquake Spectra and Design|author=Newmark, N.M.; Hall, W.J.|year=1982|publisher=[[Earthquake Engineering Research Institute|EERI]]|isbn=0-943198-22-4}}</ref>
+
+However, such methods are good only for linear elastic systems, being largely unable to model the structural behavior when damage (i.e., [[non-linearity]]) appears. Numerical ''step-by-step integration'' proved to be a more effective method of analysis for multi-degree-of-freedom [[structural system]]s with significant [[non-linearity]] under a [[Transient (oscillation)|transient]] process of ground motion excitation.<ref name=DynamicsofStructures>{{cite book|title= Dynamics of Structures|author=Clough, Ray W.; Penzien, Joseph|year=1993|publisher=McGraw-Hill|isbn=0-07-011394-7}}</ref>
+
+Basically, numerical analysis is conducted in order to evaluate the seismic performance of buildings. Performance evaluations are generally carried out by using nonlinear static pushover analysis or  nonlinear time-history analysis. In such analyses, it is essential to achieve accurate nonlinear modeling of structural components such as beams, columns, beam-column joints, shear walls etc. Thus,  experimental results play an important role in determining the modeling parameters of individual components, especially those that are subject to significant nonlinear deformations. The individual components are then assembled to create a full nonlinear model of the structure. Thus created models are analyzed to evaluate the performance of buildings.
+
+The capabilities of the structural analysis software are a major consideration in the above process as they restrict the possible component models, the analysis methods available and, most importantly, the numerical robustness. The latter becomes a major consideration for structures that venture into the nonlinear range and approach global or local collapse as the numerical solution becomes increasingly unstable and thus difficult to reach. There are several commercially available Finite Element Analysis software's such as CSI-SAP2000 and CSI-PERFORM-3D which can be used for the seismic performance evaluation of buildings. Moreover, there is research-based finite element analysis platforms such as [[OpenSees]], RUAUMOKO and the older DRAIN-2D/3D, several of which are now open source.
+
+== Research for earthquake engineering ==
+[[File:FPB testing-1.jpg|thumb|800 × 1,183 px|left|[[Earthquake shaking table|Shake-table]] testing of [[Earthquake engineering#Friction pendulum bearing|Friction Pendulum Bearings]] at EERC]]Research for earthquake engineering means both field and analytical investigation or experimentation intended for discovery and scientific explanation of earthquake engineering related facts, revision of conventional concepts in the light of new findings, and practical application of the developed theories.
+
+The [[National Science Foundation]] (NSF) is the main United States government agency that supports fundamental research and education in all fields of earthquake engineering. In particular, it focuses on experimental, analytical, and computational research on design and performance enhancement of structural systems.[[File:E-Defense Shake Table.jpg|thumb|E-Defense Shake Table<ref>{{cite web|author=Meld je aan of registreer je om een reactie te plaatsen! |url=http://www.youtube.com/watch?v=y-mEDsqZK-I&feature=PlayList&p=660C7AFD70E81C12&index=71 |title=Miki_house_test |publisher=YouTube |date=2007-07-02 |accessdate=2012-07-31}}</ref>]]
+
+The [[Earthquake Engineering Research Institute]] (EERI) is a leader in dissemination of [[earthquake engineering research]] related information both in the U.S. and globally.
+
+A definitive list of earthquake engineering research related [[Earthquake shaking table|shaking tables]] around the world may be found in [http://www.nea.fr/html/nsd/docs/2004/csni-r2004-10.pdf Experimental Facilities for Earthquake Engineering Simulation Worldwide]. The most prominent of them is now E-Defense Shake Table<ref>{{cite web|url=http://www.bosai.go.jp/hyogo/ehyogo/|title=The NIED ‘E-Defence’ Laboratory in Miki City]|accessdate=3 March 2008}}</ref> in [[Japan]].{{clear}}
+
+{{hidden begin|title = Major earthquake engineering research centers in the United States and worldwide | titlestyle = background:beige;}}<!-- external links to external links section per WP:EL ? -->
+Earthquake engineering research activities worldwide are mostly associated with the following centers:
+*[http://www.eeri.org/ Earthquake Engineering Research Institute (EERI)]
+*[http://eerc.berkeley.edu/ Earthquake Engineering Research Center]
+*[http://peer.berkeley.edu Pacific Earthquake Engineering Research Center (PEER)]
+*[http://blume.stanford.edu/ John A. Blume Earthquake Engineering Center]
+*[http://www.curee.org/ Consortium of Universities for Research in Earthquake Engineering (CUREE)]
+*[http://mceer.buffalo.edu/About_MCEER/default.asp Multidisciplinary Center for Earthquake Engineering Research (MCEER)]
+* George E. Brown, Jr. [[Network for Earthquake Engineering Simulation]] (NEES)
+*[http://earthquake.usgs.gov/learning/topics/index.php?topicID=52&topic=Engineering,+Earthquake USGS Earthquake Hazards Program]
+*[http://www.dot.ca.gov/hq/esc/earthquake_engineering/ Office of Earthquake Engineering at Caltrans]
+*[http://www.afl.hi.is/page/EnskaEERC Earthquake Engineering Research Centre of Iceland]
+*[http://www.earthquakeengineering.com/news_events/articles/india.shtml Earthquake Engineering New Zealand]
+*[http://www.caee.uottawa.ca/Canadian%20Research%20Centers/Canadian%20Research%20Centers.html/ Canadian Research Centers and Research Groups on Earthquake Engineering]
+*[http://www.bosai.go.jp/hyogo/ehyogo/ Hyogo Earthquake Engineering Research Center]
+*[http://www.civil.ntua.gr/earthquake_gr/content_eng/research.php Laboratory for Earthquake Engineering of NTUA]
+*[http://www.loc.gov/rr/scitech/tracer-bullets/earthquakestb.html#intro Earthquakes and Earthquake Engineering in The Library of Congress]
+*[[International Institute of Earthquake Engineering and Seismology]]
+*[[National Center for Research on Earthquake Engineering]]
+{{hidden end}}
+
+=== Major U.S. research programs ===
+The NSF [[Hazard Mitigation and Structural Engineering]] program (HMSE) supports research on new technologies for improving the behavior and response of structural systems subject to earthquake hazards; fundamental research on safety and reliability of constructed systems; innovative developments in [[seismic performance analysis|analysis]] and model based simulation of structural behavior and response including soil-structure interaction; design concepts that improve [[seismic performance|structure performance]] and flexibility; and application of new control techniques for structural systems.<ref>{{cite web|url=http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13358&org=CMMI |title=CMMI - Funding - Hazard Mitigation and Structural Engineering - US National Science Foundation (NSF) |publisher=nsf.gov |date= |accessdate=2012-07-31}}</ref>
+[[File:Large High Performance Outdoor Shake Table.jpg|thumb|383 × 248 px|right|Large High Performance Outdoor [[Earthquake shaking table|Shake Table]], [[UCSD]], NEES network]] NSF also supports the George E. Brown, Jr. [[Network for Earthquake Engineering Simulation]] (NEES) that advances knowledge discovery and innovation for [[earthquakes]] and [[tsunami]] loss reduction of the nation's civil infrastructure, and new experimental simulation techniques and instrumentation.<ref name=nees>{{cite web |title= Network for Earthquake Engineering Simulation |url= http://www.nees.org/ |work= Official web site |accessdate= September 21, 2011 }}</ref>
+[[File:Seismic Testing of Crane.jpg|thumb|619 × 422 px|left|NEES at [[University at Buffalo, The State University of New York|Buffalo]] testing facility]]
+The NEES network features 14 geographically-distributed, shared-use laboratories that support several types of experimental work:<ref name="nees"/> geotechnical centrifuge research, [[earthquake shaking table|shake-table]] tests, large-scale structural testing, tsunami wave basin experiments, and field site research.<ref>[http://www.nees.org/5am/sessions.php ]{{dead link|date=July 2012}}</ref> Participating universities include: Cornell University; Lehigh University; Oregon State University; Rensselaer Polytechnic Institute; University at Buffalo, SUNY; University of California, Berkeley; University of California, Davis; University of California, Los Angeles; University of California, San Diego; University of California, Santa Barbara; University of Illinois, Urbana-Champaign; University of Minnesota; University of Nevada, Reno; and the  University of Texas, Austin.<ref name="nees"/>
+
+The equipment sites (labs) and a central data repository are connected to the global earthquake engineering community via the NEEShub website.  The NEES website is powered by HUBzero software developed at [[Purdue University]] for [[nanoHUB]] specifically to help the scientific community share resources and collaborate.  The cyberinfrastructure, connected via [[Internet2]], provides interactive simulation tools, a simulation tool development area, a curated central data repository, animated presentations, user support, telepresence, mechanism for uploading and sharing resources and statistics about users, and usage patterns.
+
+This cyberinfrastructure allows researchers to: securely store, organize and share data within a standardized framework in a central location; remotely observe and participate in experiments through the use of synchronized real-time data and video; collaborate with colleagues to facilitate the planning, performance, analysis, and publication of research experiments; and conduct computational and hybrid simulations that may combine the results of multiple distributed experiments and link physical experiments with computer simulations to enable the investigation of overall system performance.
+
+These resources jointly provide the means for collaboration and discovery to improve the seismic design and performance of civil and mechanical infrastructure systems.
+
+=== Earthquake simulation ===
+
+The very first '''earthquake simulations''' were performed by statically applying some ''horizontal inertia forces'' based on [[scale factor|scaled]] [[peak ground acceleration]]s to a mathematical model of a building.<ref name=SeismicDesignOfBuildingStructures>{{cite book|title= Seismic Design of Building Structures|author=Lindeburg, Michael R.; Baradar, Majid|year=2001|publisher=Professional Publications|isbn=1-888577-52-5}}</ref> With the further development of computational technologies, [[statics|static]] approaches began to give way to [[dynamics (mechanics)|dynamic]] ones.
+
+Dynamic experiments on building and non-building structures may be physical, like [[Earthquake shaking table|shake-table testing]], or virtual ones. In both cases, to verify a structure's expected seismic performance, some researchers prefer to deal with so called "real time-histories" though the last cannot be "real" for a hypothetical earthquake specified by either a building code or by some particular research requirements. Therefore, there is a strong incentive to engage an earthquake simulation which is the seismic input that possesses only essential features of a real event.
+
+Sometimes, earthquake simulation is understood as a re-creation of local effects of a strong earth shaking.
+
+=== Structure simulation ===
+
+Theoretical or experimental evaluation of anticipated seismic performance mostly requires a '''structure simulation''' which is based on the concept of structural likeness or similarity. [[Similitude (model)|Similarity]] is some degree of [[analogy]] or [[Nominalism|resemblance]] between two or more objects. The notion of similarity rests either on exact or approximate repetitions of [[patterns]] in the compared items.
+
+[[File:Kinematically equivalent building models on a shake-table.jpg|thumb|1,167 × 567 px|left|Concurrent experiments with two building models which are ''kinematically equivalent'' to a real prototype.<ref>{{cite web|author=Meld je aan of registreer je om een reactie te plaatsen! |url=http://www.youtube.com/watch?v=uvD5D2uhliM |title=Base isolation for earthquake engineering |publisher=YouTube |date=2007-06-27 |accessdate=2012-07-31}}</ref>]]In general, a building model is said to have similarity with the real object if the two share ''geometric similarity'', ''kinematic similarity'' and ''dynamic similarity''. The most vivid and effective type of similarity is the ''kinematic'' one. ''Kinematic similarity'' exists when the paths and velocities of moving particles of a model and its prototype are similar.
+
+The ultimate level of ''kinematic similarity'' is ''kinematic equivalence'' when, in the case of earthquake engineering, time-histories of each story lateral displacements of the model and its prototype would be the same.
+
+== Seismic vibration control ==
+
+'''Seismic vibration control''' is a set of technical means aimed to mitigate seismic impacts in building and [[non-building]] structures. All seismic vibration control  devices may be classified as ''passive'', ''active'' or ''hybrid''<ref>{{cite web|url=http://physics-animations.com/Physics/English/spri_txt.htm |title=Passive and active vibration isolation systems - Theory |publisher=Physics-animations.com |date= |accessdate=2012-07-31}}</ref> where:
+
+* ''passive control devices'' have no [[feedback]] capability between them, structural elements and the ground;
+* ''[[Active vibration control|active control devices]]'' incorporate real-time recording instrumentation on the ground integrated with earthquake input processing equipment and [[actuator]]s within the structure;
+* ''hybrid control devices'' have combined features of active and passive control systems.<ref name=ActiveHybrid>{{cite book|title= Active, Hybrid and Semi-Active Structural Control|author=Chu, S.Y.; Soong, T.T.; Reinhorn, A.M.|year=2005|publisher= John Wiley & Sons |isbn=0-470-01352-4}}</ref>
+
+When ground [[seismic waves]] reach up and start to penetrate a base of a building, their energy flow density, due to reflections, reduces dramatically: usually, up to 90%. However, the remaining portions of the incident waves during a major earthquake still bear a huge devastating potential.
+
+After the seismic waves enter a [[superstructure]], there are a number of ways to control them in order to soothe their damaging effect and improve the building's seismic performance, for instance:
+
+* to [[Dissipator (building design)|dissipate]] the wave energy inside a [[superstructure]] with properly engineered [[damper (mast)|damper]]s;
+
+* to disperse the wave energy between a wider range of frequencies;
+
+* to [[absorption (acoustics)|absorb]] the [[resonant]] portions of the whole wave frequencies band with the help of so-called ''[[mass damper]]s''.<ref>{{cite web|url=http://ffden-2.phys.uaf.edu/211_fall2002.web.dir/Eva_Burk/Eva's%201st%20page.htm |title=Slide 2 |publisher=Ffden-2.phys.uaf.edu |date= |accessdate=2012-07-31}}</ref>
+
+[[File:Cyrus tomb.jpg|thumb|600 × 387 px|[[Mausoleum]] of Cyrus, the oldest [[base isolation|base-isolated]] structure in the world]]Devices of the last kind, abbreviated correspondingly as TMD for the tuned (''passive''), as AMD for the ''active'', and as HMD for the ''hybrid mass dampers'', have been studied and installed in [[high-rise building]]s, predominantly in Japan, for a quarter of a century.<ref>http://www.takenaka.co.jp/takenaka_e/quake_e/seishin/seishin.htm</ref>
+
+However, there is quite another approach: partial suppression of the seismic energy flow into the [[superstructure]] known as seismic or [[base isolation]].
+
+For this, some pads are inserted into or under all major load-carrying elements in the base of the building which should substantially [[decouple]] a [[superstructure]] from its [[substructure]] resting on a shaking ground.
+
+The first evidence of earthquake protection by using the principle of base isolation was discovered in [[Pasargadae]], a city in ancient Persia, now Iran: it goes back to 6th century BCE. Below, there are some samples of seismic vibration control technologies of today.
+
+=== Dry-stone walls control ===
+[[File:Machupicchu intihuatana.JPG|thumb|left|Dry-stone walls of [[Machu Picchu]] Temple of the Sun, [[Peru]]]]People of [[Inca civilization]] were masters of the polished ''''''dry-stone walls''', called [[ashlar]], where blocks of stone were cut to fit together tightly without any [[mortar (masonry)|mortar]].''' The Incas were among the best stonemasons the world has ever seen,<ref>[http://www.pbs.org/wgbh/nova/inca1/qanda.html ''Live Event Q&As'']</ref> and many junctions in their masonry were so perfect that even blades of grass could not fit between the stones.
+
+[[Peru]] is a highly [[seismic]] land, and for centuries the mortar-free [[construction]] proved to be apparently more earthquake-resistant than using mortar. The stones of the dry-stone walls built by the Incas could move slightly and resettle without the walls collapsing, a passive [[vibration control|structural control]] technique employing both the principle of energy dissipation and that of suppressing [[resonant]] amplifications.<ref>[http://www.pbs.org/wgbh/nova/easter/civilization/first.html Clark,Liesl; ''First Inhabitants'' PBS online, Nova; updated Nov. 2000]</ref>
+
+=== Lead rubber bearing ===
+[[File:LRBtest.jpg|thumb|592 × 445 px|right|LRB being tested at the [[UCSD]] Caltrans-SRMD facility]]
+'''Lead Rubber Bearing''' or LRB is a type of [[base isolation]] employing a heavy [[damping]].  It was invented by [[William Robinson (scientist)|Bill Robinson]], a New Zealander.<ref name="teara.govt.nz">{{cite web|url=http://www.teara.govt.nz/en/earthquakes/4 |title=4. Building for earthquake resistance - Earthquakes - Te Ara Encyclopedia of New Zealand |publisher=Teara.govt.nz |date=2009-03-02 |accessdate=2012-07-31}}</ref>
+
+Heavy damping mechanism incorporated in [[vibration control]] technologies and, particularly, in base isolation devices, is often considered a valuable source of suppressing vibrations thus enhancing a building's seismic performance. However, for the rather pliant systems such as base isolated structures, with a relatively low bearing stiffness but with a high damping, the so-called "damping force" may turn out the main pushing force at a strong earthquake.  The video<ref>{{cite web|author=neesit |url=http://www.youtube.com/watch?v=2yXgu4aS8HE |title=LBRtest |publisher=YouTube |date=2007-07-10 |accessdate=2012-07-31}}</ref> shows a Lead Rubber Bearing being tested at the [[UCSD]] Caltrans-SRMD facility. The bearing is made of rubber with a lead core. It was a uniaxial test in which the bearing was also under a full structure load. Many buildings and bridges, both in New Zealand and elsewhere, are protected with lead dampers and lead and rubber bearings. [[Te Papa Tongarewa]], the national museum of New Zealand, and the New Zealand [[The Beehive|Parliament Buildings]] have been fitted with the bearings. Both are in [[Wellington, New Zealand|Wellington]], which sits on an active earthquake fault.<ref name="teara.govt.nz"/>
+
+=== Tuned mass damper ===
+{{Main|Tuned mass damper}}
+[[File:Taipei 101 Tuned Mass Damper.png|thumb|922 × 769 px|left|[[Tuned mass damper]] in [[Taipei 101]], the world's third tallest [[skyscraper]]]]
+Typically, the [[tuned mass damper]]s are huge concrete blocks mounted in [[skyscraper]]s or other structures and moved in opposition to the [[resonance frequency]] oscillations of the structures by means of some sort of spring mechanism.
+
+[[Taipei 101]] skyscraper needs to withstand [[typhoon]] winds and earthquake [[tremor]]s common in its area of the Asia-Pacific. For this purpose, a steel [[pendulum]] weighing 660 metric tons that serves as a tuned mass damper was designed and installed atop the structure. Suspended from the 92nd to the 88th floor, the pendulum sways to decrease resonant amplifications of lateral displacements in the building caused by earthquakes and strong [[Wind|gusts]].
+
+=== Friction pendulum bearing ===
+[[File:FPB testing.jpg|thumb|1,024 × 768 px|right|FPB<ref>{{cite web|author=neesit |url=http://www.youtube.com/watch?v=cfl-VueWTGE&feature=PlayList&p=660C7AFD70E81C12&index=27 |title=Hybrid Simulation of Base Isolated Structures |publisher=YouTube |date=2007-04-19 |accessdate=2012-07-31}}</ref> shake-table testing]]'''Friction Pendulum Bearing''' (FPB) is another name of '''Friction Pendulum System''' (FPS). It is based on three pillars:<ref name=FPS>{{cite book|title=A Simple Pendulum Technique for Achieving Seismic Isolation|author=Zayas, Victor A. et al.|year=1990|publisher=Earthquake Spectra|isbn=0-08-755293-0|pages=317, Vol.6, No.2}}</ref>
+* articulated friction slider;
+* spherical concave sliding surface;
+* enclosing cylinder for lateral displacement restraint.
+
+Snapshot with the link to video clip of a [[Earthquake shaking table|shake-table]] testing of FPB system supporting a rigid building model is presented at the right.
+
+=== Building elevation control ===
+[[File:TransamericaPyramidFromTI.jpg|thumb|1,067 × 2,594 px|left|[[Transamerica Pyramid]] building]]
+'''Building elevation control''' is a valuable source of [[vibration control]] of [[seismic loading]]. Pyramid-shaped skyscrapers continue to attract the attention of architects and engineers because such structures promise a better stability against earthquakes and winds. The elevation configuration can prevent buildings' [[resonant]] amplifications because a properly configured building disperses the sheer wave energy between a wide range of frequencies.
+
+Earthquake or wind quieting ability of the elevation configuration is provided by a specific pattern of multiple [[Reflection (physics)|reflection]]s and transmissions of vertically propagating waves, which are generated by breakdowns into homogeneity of story layers, and a taper.  Any abrupt changes of the propagating waves velocity result in a considerable [[dispersion (materials science)|dispersion]] of the wave energy between a wide ranges of frequencies thus preventing  the resonant displacement amplifications in the building.
+
+A tapered profile of a building is not a compulsory feature of this method of structural control. A similar resonance preventing effect can be also obtained by a proper ''tapering'' of other characteristics of a building structure, namely, its [[mass]] and [[stiffness]]. As a result, the building elevation configuration techniques permit an [[architectural design]] that may be both attractive and functional (see, e.g., [[Pyramid]]).
+
+=== Simple roller bearing ===
+'''Simple roller bearing''' is a [[base isolation]] device which is intended for protection of various building and non-building structures against potentially damaging [[seismic loading|lateral impacts]] of strong earthquakes.
+
+This metallic bearing support may be adapted, with certain precautions, as a seismic isolator to skyscrapers and buildings on soft ground. Recently, it has been employed under the name of ''Metallic Roller Bearing'' for a housing complex (17 stories) in [[Tokyo, Japan]].<ref>{{cite web|url=http://www.okumuragumi.co.jp/en/technology/building.html |title=Building Technology + Seismic Isolation System - OKUMURA CORPORATION |language={{ja icon}} |publisher=Okumuragumi.co.jp |date= |accessdate=2012-07-31}}</ref>
+
+=== Springs-with-damper base isolator ===
+[[File:GERB spring with damper.jpg|thumb|956 × 980 px|left|Springs-with-damper close-up]]'''Springs-with-damper base isolator''' installed under a three-story town-house, [[Santa Monica]], California is shown on the photo taken prior to the 1994 [[Northridge earthquake]] exposure. It is a [[base isolation]] device conceptually similar to ''Lead Rubber Bearing''.
+
+One of two three-story town-houses like this, which was well instrumented for recording of both vertical and horizontal [[acceleration]]s on its floors and the ground, has survived a severe shaking during the [[Northridge earthquake]] and left  valuable recorded information for further study.
+
+=== Hysteretic damper ===
+'''Hysteretic damper''' is intended to provide better and more reliable seismic performance than that of a conventional structure at the expense of the [[seismic loading|seismic input]] energy dissipation.<ref>http://www.structuremag.org/OldArchives/2004/july/Structural%20Practices.pdf</ref> There are four major groups of hysteretic dampers used for the purpose, namely:
+
+:* Fluid viscous dampers (FVDs)
+:* Metallic yielding dampers (MYDs)
+:* Viscoelastic dampers (VEDs)
+:* Friction dampers (FDs)
+
+Each group of dampers has specific characteristics, advantages and disadvantages for structural applications.
+
+== Seismic design ==
+
+'''Seismic design''' is based on authorized engineering procedures, principles and criteria meant to [[design]] or [[seismic retrofit|retrofit]] structures subject to earthquake exposure.<ref name=SeismicDesignOfBuildingStructures>{{cite book|title= Seismic Design of Building Structures|author=Lindeburg, Michael R.; Baradar, Majid|year=2001|publisher=Professional Publications|isbn=0-943198-23-2}}</ref> Those criteria are only consistent with the contemporary state of the knowledge about [[earthquake engineering structures]].<ref name=EarthquakeDesignCriteria>{{cite book|title= Earthquake Design Criteria|author=Housner, George W.; Jennings, Paul C.|year=1982|publisher=EERI|isbn=1-888577-52-5}}</ref> Therefore, a building design which exactly follows seismic code regulations does not guarantee safety against collapse or serious damage.<ref>{{cite web|url=http://nisee.berkeley.edu/bertero/html/earthquake-resistant_construction.html |title=Earthquake-Resistant Construction |publisher=Nisee.berkeley.edu |date= |accessdate=2012-07-31}}</ref>
+
+The price of poor seismic design may be enormous. Nevertheless, seismic design has always been a [[trial and error]] process whether it was based on physical laws or on empirical knowledge of the [[seismic performance|structural performance]] of different shapes and materials.
+
+[[File:San-Francisco City Hall 1906.jpg|thumb|513 × 409 px|right|[[San Francisco City Hall]] destroyed by [[1906 San Francisco earthquake|1906 earthquake]] and fire.]]To practice [[seismic design]], seismic analysis or seismic evaluation of new and existing civil engineering projects, an [[engineer]] should, normally, pass examination on ''Seismic Principles''<ref>http://www.pels.ca.gov/applicants/plan_civseism.pdf</ref> which, in the State of California, include:
+* Seismic Data and Seismic Design Criteria
+* Seismic Characteristics of Engineered Systems
+* Seismic Forces
+* Seismic Analysis Procedures
+* Seismic Detailing and Construction Quality Control
+
+[[File:6a34659r.jpg|thumb|1046 × 420 px|left|[[San Francisco]] after the [[1906 San Francisco earthquake|1906 earthquake]]  and fire]]
+To build up complex structural systems,<ref name=SeismicDesignHandbook>{{cite book|title=Seismic Design Handbook|author=Edited by Farzad Naeim|year=1989|publisher=VNR|isbn=0-442-26922-6}}</ref> seismic design largely uses the same relatively small number of basic structural elements (to say nothing of vibration control devices) as any non-seismic design project.
+
+Normally, according to building codes, structures are designed to "withstand" the largest earthquake of a certain probability that is likely to occur at their location. This means the loss of life should be minimized by preventing collapse of the buildings.
+
+Seismic design is carried out by understanding the possible [[failure mode]]s of a structure and providing the structure with appropriate [[Strength of materials|strength]], [[stiffness]], [[ductility]], and [[configuration (geometry)|configuration]]<ref name=BuildingConfiguration>{{cite book|title= Building Configuration & Seismic Design|author=Arnold, Christopher; Reitherman, Robert|year=1982|publisher=A Wiley-Interscience Publication|isbn=0-471-86138-3}}</ref> to ensure those modes cannot occur.
+
+=== Seismic design requirements ===
+'''Seismic design requirements''' depend on the type of the structure, locality of the project and its authorities which stipulate applicable seismic design codes and criteria.<ref name="RecommendedLateralForce"/> For instance, [[California Department of Transportation]]'s requirements called ''The Seismic Design Criteria'' (SDC) and aimed at the design of new bridges in California<ref>{{cite web|url=http://www.dot.ca.gov/hq/esc/earthquake_engineering/SDC/SDCPage.html |title=Template for External Caltrans Pages |publisher=Dot.ca.gov |date= |accessdate=2012-07-31}}</ref> incorporate an innovative seismic performance based approach.
+
+[[File:Metsamor aerien.jpg|thumb|[[Metsamor Nuclear Power Plant]] in [[Armenia]] was closed after the 1988 destructive earthquake<ref>{{cite web|url=http://www.asbarez.com/2007/12/07/strategy-to-close-metsamor-plant-presented |title=Strategy to Close Metsamor Plant Presented &#124; Asbarez Armenian News |publisher=Asbarez.com |date=1995-10-26 |accessdate=2012-07-31}}</ref> ]]The most significant feature in the SDC design philosophy is a shift from a ''force-based assessment'' of seismic demand to a ''displacement-based assessment'' of demand and capacity. Thus, the newly adopted displacement approach is based on comparing the ''elastic displacement'' demand to the ''inelastic displacement'' capacity of the primary structural components while ensuring a minimum level of inelastic capacity at all potential plastic hinge locations.
+
+In addition to the designed structure itself, seismic design requirements may include a ''ground stabilization'' underneath the structure: sometimes, heavily shaken ground breaks up which leads to collapse of the structure sitting upon it.<ref>{{cite web|author=neesit |url=http://es.youtube.com/watch?v=d316Wdgf16Y&feature=PlayList&p=F297EF2ADDEAD86C&index=63 |title=Niigita Earthquake 1964 - YouTube |publisher=Es.youtube.com |date= |accessdate=2012-07-31}}</ref>
+The following topics should be of primary concerns: liquefaction; dynamic lateral earth pressures on retaining walls; seismic slope stability; earthquake-induced settlement.<ref name=GeoEarthquakeEngineering>{{cite book|title= Geotechnical Earthquake Engineering Handbook|author=Robert W. Day|year=2007|publisher= McGraw Hill|isbn=0-07-137782-4}}</ref>
+
+[[Nuclear facility|Nuclear facilities]] should not jeopardise their safety in case of earthquakes or other hostile external events. Therefore, their seismic design is based on criteria far more stringent than those applying to non-nuclear facilities.<ref>[http://www.world-nuclear.org/info/inf18.html Nuclear Power Plants and Earthquakes]</ref> The [[Fukushima I nuclear accidents]] and [[2011 Japanese nuclear incidents|damage to other nuclear facilities]] that followed the [[2011 Tōhoku earthquake and tsunami]] have, however, drawn attention to ongoing concerns over [[Nuclear power in Japan#Seismicity|Japanese nuclear seismic design standards]] and caused other many governments to [[International reaction to Fukushima I nuclear accidents#Re-evaluation of existing nuclear energy programs|re-evaluate their nuclear programs]]. Doubt has also been expressed over the seismic evaluation and design of certain other plants, including the [[Fessenheim Nuclear Power Plant]] in France.
+
+=== Failure modes ===
+
+'''Failure mode''' is the manner by which an earthquake induced failure is observed. It, generally, describes the way the failure occurs. Though costly and time consuming, learning from each real earthquake failure remains a routine recipe for advancement in ''seismic design'' methods. Below, some typical modes of earthquake-generated failures are presented. For information on the photographer and/or the agency that released corresponding images, usually accompanied with brief comments which were used, with sincere gratitude, here and there in this section, click on the [[Thumbs.db|thumb]] nearby.[[File:LomaPrieta-SOMA.jpeg|thumb|231 × 152 px|left|Typical damage to [[unreinforced masonry building]]s at earthquakes]] The lack of [[rebar|reinforcement]] coupled with poor [[Mortar (masonry)|mortar]] and inadequate roof-to-wall ties can result in substantial damage to a '''unreinforced masonry building'''. Severely cracked or leaning walls are some of the most common earthquake damage. Also hazardous is the damage that may occur between the walls and roof or floor diaphragms. Separation between the framing and the walls can jeopardize the vertical support of roof and floor systems.
+
+[[File:LomaPrieta-Marina.jpeg|thumb|760 × 512 px|right|[[Soft story building|Soft story]] collapse due to inadequate shear strength at ground level, [[Loma Prieta earthquake]]]]'''[[Soft story building|Soft story effect]]'''. Absence of adequate [[shear wall]]s on the ground level caused damage to this structure. A close examination of the image reveals that the rough board siding, once covered by a [[brick veneer]], has been completely dismantled from the studwall. Only the [[Structural rigidity|rigidity]] of the floor above combined with the support on the two hidden sides by continuous walls, not penetrated with large doors as on the street sides, is preventing full collapse of the structure.
+
+[[File:Liquefaction at Niigata.JPG|thumb|500 × 297 px|left|Effects of [[soil liquefaction]] during the [[1964 Niigata earthquake]]]]'''[[Soil liquefaction]]'''. In the cases where the soil consists of loose granular deposited materials with the tendency to develop excessive hydrostatic pore water pressure of sufficient magnitude and compact, [[liquefaction]] of those loose saturated deposits may result in non-uniform [[Consolidation (soil)|settlements]] and tilting of structures. This caused major damage to thousands of buildings in Niigata, Japan during the [[1964 Niigata earthquake|1964 earthquake]].<ref>{{cite web|author=neesit |url=http://www.youtube.com/watch?v=d316Wdgf16Y&feature=PlayList&p=F297EF2ADDEAD86C&index=63 |title=Niigita Earthquake 1964 |publisher=YouTube |date= |accessdate=2012-07-31}}</ref>
+
+[[File:Smashed Car in Dujiangyan - 2008 Sichuan earthquake (1).jpg|thumb|800 × 532 px|right|Car smashed by [[landslide]] rock, [[2008 Sichuan earthquake]]]]'''Landslide rock fall'''. A [[landslide]] is a geological phenomenon which includes a wide range of ground movement, including '''rock falls'''. Typically, the action of [[gravity]] is the primary driving force for a landslide to occur though in this case there was another contributing factor which affected the original [[slope stability]]: the landslide required an ''earthquake trigger'' before being released.
+
+[[File:St.Joseph'sSeminary Los Altos USGS.jpg|thumb|759 × 512 px|left|Effects of pounding against adjacent building, [[Loma Prieta earthquake|Loma Prieta]]]]'''Pounding against adjacent building'''. This is a photograph of the collapsed five-story tower, St. Joseph's Seminary, [[Los Altos, California]] which resulted in one fatality. During [[Loma Prieta earthquake]], the tower pounded against the independently vibrating adjacent building behind. A possibility of pounding depends on both buildings' lateral displacements which should be accurately estimated and accounted for.
+
+[[File:Kaiser Permanente Building After Northridge Earthquake.jpg|thumb|1,200 × 801 px|right|Effects of completely shattered joints of concrete frame, [[Northridge earthquake|Northridge]]]]At [[Northridge earthquake]], the Kaiser Permanente concrete frame office building had joints completely shattered, revealing '''inadequate confinement steel''', which resulted in the second story collapse. In the transverse direction, composite end [[shear wall]]s, consisting of two [[wythe]]s of brick and a layer of [[shotcrete]] that carried the lateral load, peeled apart because of '''inadequate through-ties''' and failed.
+
+<!-- Image with unknown copyright status removed: [[File:Damaged buildings after Izmit-earthquake.jpg|thumb|700 × 469 px|left|Seismic effect of steep slope of construction site, [[Izmit Earthquake]] {{Deletable image-caption|date=May 2012}}]] -->7-story reinforced concrete '''buildings on steep slope collapse''' due to the following:<ref>http://www.eas.slu.edu/Earthquake_Center/TURKEY</ref>
+
+* Improper [[construction site]] on a [[foothill]].
+
+* Poor detailing of the [[rebar|reinforcement]] (lack of concrete confinement in the columns and at the beam-column joints, inadequate splice length).
+
+* Seismically weak [[soft story building|soft story]] at the first floor.
+
+* Long [[cantilever]]s with heavy [[dead load]].
+
+[[File:Shifting from foundation.jpg|thumb|271 × 410 px|right|Shifting from foundation, [[1987 Whittier Narrows earthquake|Whittier]]]]'''Sliding off foundations effect''' of a relatively rigid residential building structure during [[1987 Whittier Narrows earthquake]]. The magnitude 5.9 earthquake pounded the Garvey West Apartment building in Monterey Park, California and shifted its [[superstructure]] about 10&nbsp;inches to the east on its foundation.
+
+[[File:Casa en frente de Playa Principal de Pichilemu, destruida.jpg|thumb|left|Earthquake damage in [[Pichilemu]].]]
+If a superstructure is not mounted on a [[base isolation]] system, its shifting on the basement should be prevented.
+
+[[File:Northridge earthquake 10 frwy2.png|thumb|1,024 × 686 px|left|Insufficient shear reinforcement let main [[rebars]] to buckle, [[Northridge earthquake|Northridge]]]][[Reinforced concrete]] column burst at [[Northridge earthquake]] due to '''insufficient shear reinforcement mode''' which allows main reinforcement to [[buckle]] outwards. The deck unseated at the [[hinge]] and failed in shear. As a result, the La Cienega-Venice [[underpass]] section of the 10 Freeway collapsed.
+
+[[File:022srUSGSCyprusVia.jpg|thumb|758 × 512 px|right|Support-columns and upper deck failure, [[Loma Prieta earthquake]]]][[Loma Prieta earthquake]]: side view of reinforced concrete '''support-columns failure''' which trigged '''the upper deck collapse onto the lower deck''' of the two-level Cypress viaduct of Interstate Highway 880, Oakland, CA.
+
+[[File:Retaining wall failure.jpeg|thumb|755 × 512 px|left|Failure of [[retaining wall]] due to ground movement, [[Loma Prieta earthquake|Loma Prieta]]]]'''Retaining wall failure''' at [[Loma Prieta earthquake]] in Santa Cruz Mountains area: prominent northwest-trending extensional cracks up to 12&nbsp;cm (4.7&nbsp;in) wide in the concrete [[spillway]] to Austrian Dam, the north [[abutment]].
+
+[[File:Ground failure.jpeg|thumb|761 × 512 px|right|''Lateral spreading'' mode of ground failure, [[Loma Prieta earthquake|Loma Prieta]]]]Ground shaking triggered [[soil liquefaction]] in a subsurface layer of [[sand]], producing differential lateral and vertical movement in an overlying [[carapace]] of unliquified sand and [[silt]]. This '''mode of ground failure''', termed '''lateral spreading''', is a principal cause of liquefaction-related earthquake damage.<ref>http://www.youtube.com/watch?v=YlSuosOTAV0&feature=PlayList&p=660C7AFD70E81C12&index=53&playnext=2&playnext_from=PL</ref>
+
+[[File:ADBC Branch in BeiChuan after earthquake.jpg|thumb|2,816 × 2,112 px|left|Beams and pier columns diagonal cracking, [[2008 Sichuan earthquake]]]]Severely damaged building of Agriculture Development Bank of China after [[2008 Sichuan earthquake]]: most of the '''beams and pier columns are sheared'''. Large diagonal cracks in masonry and veneer are due to in-plane loads while abrupt [[Consolidation (soil)|settlement]] of the right end of the building should be attributed to a [[landfill]] which may be hazardous even without any earthquake, see video footage at.<ref>http://www.youtube.com/watch?v=uKeENdyIluI&NR=1</ref>
+
+[[File:2004-tsunami.jpg|thumb|800 × 580 px|right|[[Tsunami]] strikes [[Ao Nang]],<ref>http://www.youtube.com/watch?v=WOw151ElhvM&feature=PlayList&p=E386AF07A3FAA776&index=1</ref> ]]'''Twofold tsunami impact''': [[sea wave]]s hydraulic [[pressure]] and [[inundation]]. Thus, [[2004 Indian Ocean earthquake|the Indian Ocean earthquake]] of December 26, 2004, with the [[epicenter]] off the west coast of [[Sumatra]], Indonesia, triggered a series of devastating tsunamis, killing more than 230,000 people in eleven countries by '''inundating surrounding coastal communities with huge waves''' up to 30 meters (100&nbsp;feet) high. For a video footage of the tsunami propagation, click on.<ref>http://www.youtube.com/watch?v=w9ygYqj4rVM&feature=Pl</ref>
+
+== Earthquake-Resistant construction ==
+'''Earthquake construction''' means implementation of '''seismic design''' to enable building and non-building structures to live through the anticipated earthquake exposure up to the expectations and in compliance with the applicable [[building code]]s.[[File:2009 03 03 Pearl River Tower.jpg|thumb|left|Construction of [[Pearl River Tower]] X-bracing to resist lateral forces of earthquakes and winds]]
+
+Design and construction are intimately related. To achieve a good workmanship, detailing of the members and their connections should be as simple as possible. As any construction in general, earthquake construction is a process that consists of the building, retrofitting or assembling of infrastructure given the construction materials available.<ref name=BridgeDesign>{{cite book|title=Bridge Design, Construction and Maintenance
+|author=Edited by Dr. Robert Lark|year=2007|publisher=Thomas Telford|isbn=0-7277-3593-4}}</ref>
+
+The destabilizing action of an earthquake on constructions may be ''direct'' (seismic motion of the ground) or ''indirect'' (earthquake-induced landslides, [[soil liquefaction]] and waves of tsunami).
+
+A structure might have all the appearances of stability, yet offer nothing but danger when an earthquake occurs.<ref>http://www.msnbc.msn.com/id/24993357/</ref> The crucial fact is that, for safety, earthquake-resistant construction techniques are as important as [[quality control]] and using correct materials. ''Earthquake contractor'' should be [[registered company|registered]] in the state of the project location, [[bond (finance)|bonded]] and [[insured]].
+
+To minimize possible [[earthquake loss|losses]], construction process should be organized with keeping in mind that earthquake may strike any time prior to the end of construction.
+
+Each [[construction project]] requires a qualified team of professionals who understand the basic features of seismic performance of different structures as well as [[construction management]].
+
+=== Adobe structures ===
+[[File:Adobe structure.jpg|thumb|394 × 600 px|right|Partially collapsed adobe building in Westmorland, [[California]]]]Around thirty percent of the world's population lives or works in earth-made construction.<ref>{{cite web|url=http://www.eartharchitecture.org/|title=Earth Architecture - the Book, Synopsis|accessdate=21 January 2010}}</ref> [[Adobe]] type of [[mud brick]]s is one of the oldest and most widely used building materials. The use of [[adobe]] is very common in some of the world's most hazard-prone regions, traditionally across Latin America, Africa, Indian subcontinent and other parts of Asia, Middle East and Southern Europe.
+
+Adobe buildings are considered very vulnerable at strong quakes.<ref>http://nz.youtube.com/watch?v=AOiqGHEOmuA&feature=PlayList&p=F297EF2ADDEAD86C&index=16</ref> However, multiple ways of seismic strengthening of new and existing adobe buildings are available, see, e.g.,.<ref>http://www.world-housing.net/uploads/WHETutorial_Adobe_English.pdf</ref>
+
+Key factors for the improved seismic performance of
+adobe construction are:
+* Quality of construction.
+* Compact, box-type layout.
+* Seismic reinforcement.<ref>http://nz.youtube.com/watch?v=_EUOPY0OjlQ&feature=PlayList&p=F297EF2ADDEAD86C&index=21</ref>
+
+=== Limestone and sandstone structures ===
+[[File:SLCCityAndCountyBldg.jpg|thumb|650 × 443 px|left|Base-isolated City and County Building, Salt Lake City, [[Utah]]]][[Limestone]] is very common in architecture, especially in North America and Europe. Many landmarks across the world, including the pyramids in Egypt, are made of limestone. Many medieval churches and castles in Europe are made of [[limestone]] and [[sandstone]] masonry. They are the long-lasting materials but their rather heavy weight is not beneficial for adequate seismic performance.
+
+Application of modern technology to seismic retrofitting can enhance the survivability of unreinforced masonry structures. As an example, from 1973 to 1989, the [[Salt Lake City and County Building]] in [[Utah]] was exhaustively renovated and repaired with an emphasis on preserving historical accuracy in appearance. This was done in concert with a seismic upgrade that placed the weak sandstone structure on base isolation foundation to better protect it from earthquake damage.
+
+=== Timber frame structures ===
+[[File:Anne Hvides Gaard Svendborg.jpg|thumb|2,088 × 1,550 px|right|Half-timbered museum buildings, [[Denmark]], date from 1560]][[Timber framing]] dates back thousands of years, and has been used in many parts of the world during various periods such as ancient Japan, Europe and medieval England in localities where timber was in good supply and building stone and the skills to work it were not.
+
+The use of [[timber framing]] in buildings provides their complete skeletal framing which offers some structural benefits as the timber frame, if properly engineered, lends itself to better ''seismic survivability''.<ref name=Timber>{{cite book|title= Timber Design & Construction Sourcebook=Gotz, Karl-Heinz et al.|year=1989|publisher=McGraw-Hall |isbn=0-07-023851-0}}</ref>
+
+=== Light-frame structures ===
+[[File:Wood-framed house.jpg|thumb|1,083 × 546 px|left|A two-story wooden-frame for a residential building structure]][[Light-frame construction|Light-frame structures]] usually gain seismic resistance from rigid [[plywood]] shear walls and wood structural panel [[diaphragm (structural system)|diaphragms]].<ref>http://nees.buffalo.edu/projects/NEESWood/video.asp</ref> Special provisions for seismic load-resisting systems for all [[engineered wood]] structures requires consideration of diaphragm ratios, horizontal and vertical diaphragm shears, and [[connector]]{{Disambiguation needed|date=June 2011}}/[[fastener]] values. In addition, collectors, or drag struts, to distribute shear along a diaphragm length are required.
+
+=== Reinforced masonry structures ===
+[[File:Bond-beam.JPG|thumb|516 × 900 px|right|Reinforced hollow masonry wall]]
+A construction system where [[steel reinforcement]] is embedded in the [[mortar joint]]s of [[masonry]] or placed in holes and after filled with [[concrete]] or [[grout]] is called '''reinforced masonry'''.<ref>http://www.staff.city.ac.uk/earthquakes/MasonryBrick/ReinforcedBrickMasonry.htm</ref>
+
+The devastating [[1933 Long Beach earthquake]] revealed that masonry construction should be improved immediately. Then, the California State Code made the reinforced masonry mandatory.
+
+There are various practices and techniques to achieve reinforced masonry. The most common type is the reinforced hollow unit masonry. The effectiveness of both vertical and horizontal reinforcement strongly depends on the type and quality of the masonry, i.e. masonry units and [[Mortar (masonry)|mortar]].
+
+To achieve a [[ductile]] behavior of masonry, it is necessary that the [[shear strength]] of the wall is greater than the [[flexural strength]].<ref name=SeismicMasonry>{{cite book|title= Seismic Design of Masonry Using the 1997 UBC|author= Ekwueme, Chukwuma G.; Uzarski, Joe|year=2003|publisher=Concrete Masonry Association of California and Nevada}}</ref>
+
+=== Reinforced concrete structures ===
+[[File:StressedRibbonBridgeUnderside7138.JPG|thumb|2,048 × 1,536 px|left|Stressed Ribbon pedestrian bridge over the Rogue River, Grants Pass, [[Oregon]]]][[File:ThreeTwrBrCenter.jpg|thumb|800 x 600 px|left|Prestressed concrete [[cable-stayed bridge]] over [[Yangtze river]]]][[Reinforced concrete]] is concrete in which steel reinforcement bars ([[rebars]]) or [[fiber]]s have been incorporated to strengthen a material that would otherwise be [[brittle]]. It can be used to produce [[Beam (structure)|beams]], [[column]]s, floors or bridges.
+
+[[Prestressed concrete]] is a kind of [[reinforced concrete]] used for overcoming concrete's natural weakness in tension. It can be applied to [[beams]], floors or bridges with a longer span than is practical with ordinary reinforced concrete. Prestressing [[tendon]]s (generally of high tensile steel cable or rods) are used to provide a clamping load which produces a [[compressive stress]] that offsets the [[tensile stress]] that the concrete [[compression member]] would, otherwise, experience due to a bending load.
+
+To prevent catastrophic collapse in response earth shaking (in the interest of life safety), a traditional reinforced concrete frame should have [[ductile]] joints. Depending upon the methods used and the imposed seismic forces, such buildings may be immediately usable, require extensive repair, or may have to be demolished.
+
+=== Prestressed structures ===
+[[Prestressed structure]] is the one whose overall [[integrity]], [[Structural stability|stability]] and [[security]] depend, primarily, on a ''prestressing''. ''Prestressing'' means the intentional creation of permanent stresses in a structure for the purpose of improving its performance under various service conditions.<ref name=PrestressedConcreteDesign>{{cite book|title= Design of Prestressed Concrete|author=Nilson, Arthur H.|year=1987|publisher=John Wiley & Sons|isbn=0-471-83072-0}}</ref> [[File:Roman Colosseum With Moon.jpg|thumb|1,600 x 1,200 px|right|Naturally pre-compressed exterior wall of [[Colosseum]], Rome]]
+
+There are the following basic types of prestressing:
+* Pre-compression (mostly, with the own weight of a structure)
+* [[Prestressed concrete|Pretensioning]] with high-strength embedded tendons
+* [[Prestressed concrete|Post-tensioning]] with high-strength bonded or unbonded tendons
+Today, the concept of [[prestressed structure]] is widely engaged in design of [[building]]s, underground structures, TV towers, power stations, floating storage and offshore facilities, [[nuclear reactor]] vessels, and numerous kinds of [[bridge]] systems.<ref name=PrestressedConcrete>{{cite book|title= Prestressed Concrete|author=Nawy, Edward G.|year=1989|publisher=Prentice Hall|isbn=0-13-698375-8}}</ref>
+
+A beneficial idea of ''prestressing'' was, apparently, familiar to the ancient Rome architects; look, e.g., at the tall [[attic]] wall of [[Colosseum]] working as a stabilizing device for the wall [[pier]]s beneath.
+
+=== Steel structures ===
+[[File:LomaPrieta-BayBridge-collapsed-section.jpeg|thumb|340 × 512 px|right|Collapsed section of the [[San Francisco – Oakland Bay Bridge]] in response to [[Loma Prieta earthquake]]]]
+'''Steel structures''' are considered mostly earthquake resistant but this isn't always the case. A great number of welded [[Steel Moment Resisting Frame]] buildings, which looked earthquake-proof, surprisingly experienced brittle behavior and were hazardously damaged in the [[1994 Northridge earthquake]].<ref name=Reitherman>{{cite book|last=Reitherman|first=Robert|title=Earthquakes and Engineers: An International History|year=2012|publisher=ASCE Press|location=Reston, VA|isbn=9780784410714|pages=394-395|url=http://www.asce.org/Product.aspx?id=2147487208&productid=154097877}}</ref> After that, the [[Federal Emergency Management Agency]] (FEMA) initiated development of repair techniques and new design approaches to minimize damage to steel moment frame buildings in future earthquakes.<ref>http://www.sacsteel.org/index.html</ref>
+
+For [[structural steel]] seismic design based on [[Load and Resistance Factor Design]] (LRFD) approach, it is very important to assess ability of a structure to develop and maintain its bearing resistance in the [[inelastic]] range. A measure of this ability is [[ductility]], which may be observed in a ''material itself'', in a ''structural element'', or to a ''whole structure''.
+
+As a consequence of [[Northridge earthquake]] experience, the American Institute of Steel Construction has introduced AISC 358 "Pre-Qualified Connections for Special and intermediate Steel Moment Frames."  The AISC Seismic Design Provisions require that all [[Steel Moment Resisting Frame]]s employ either connections contained in AISC 358, or the use of connections that have been subjected to pre-qualifying cyclic testing.<ref>{{cite book|title=Seismic Design Manual|year=2006|publisher=American Institute of Steel Construction|location=Chicago|isbn=1-56424-056-8|pages=6.1-30}}</ref>
+
+== Prediction of earthquake losses ==
+
+'''Earthquake loss estimation''' is usually defined as a ''Damage Ratio'' ('''DR''') which is a ratio of the earthquake damage repair cost to the [[Total Economic Value|total value]] of a building.<ref name=SeismicRisk>{{cite book|title= Financial Management of Earthquake Risk|author=EERI Endowment Subcommittee|date=May 2000|publisher=EERI Publication|isbn=0-943198-21-6}}</ref>  ''Probable Maximum Loss'' ('''PML''') is a common term used for earthquake loss estimation, but it lacks a precise definition.  In 1999, ASTM E2026 'Standard Guide for the Estimation of Building Damageability in Earthquakes' was produced in order to standardize the nomenclature for seismic loss estimation, as well as establish guidelines as to the review process and qualifications of the reviewer.<ref>{{cite news|url=http://www.cccengr.com/cccengerwebpage_lossestimation.html|year=1999|title=Loss Estimation|author=Eugene Trahern}}</ref>
+
+Earthquake loss estimations are also referred to as ''Seismic Risk Assessments''.  The risk assessment process generally involves determining the probability of various ground motions coupled with the vulnerability or damage of the building under those ground motions.  The results are defined as a percent of building replacement value.<ref>{{cite book|title=Acceptable Risk Processes: Lifeline and Natural Hazards|year=2002|publisher=ASCE, TCLEE|location=Reston, VA|isbn=9780784406236|url=http://www.asce.org/Product.aspx?id=2147486137&productid=5260|editor=Craig Taylor and Erik VanMarcke}}</ref>
+
+== See also ==
+* [[List of international earthquake acceleration coefficients]]
+* [[Probabilistic risk assessment]]
+* [[Soil structure interaction]]
+* [[Spectral acceleration]]
+{{Commons category|Earthquake engineering}}
+* {{dmoz|Science/Technology/Structural_Engineering/Earthquake_Engineering}}
+{{SeismicStructNavTemplate}}
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+* [http://www.hazardmapping.com Seismic Risk Analysis using GIS: Evaluation of Structural Damage to Buildings and Loss Estimation]
+* [http://www.eeri.org/site/ EERI website]
+* [http://www.curee.org/ Consortium of Universities for Research in Earthquake Engineering (CUREE)]
+* [http://nees.org/ George E. Brown, Jr. Network for Earthquake Engineering Simulation]
+* [http://earthquake.usgs.gov/learning/topics/index.php?topicID=52&topic=Engineering,+Earthquake USGS Earthquake Hazards Program]
+* [http://www.loc.gov/rr/scitech/tracer-bullets/earthquakestb.html#intro Earthquakes and Earthquake Engineering in The Library of Congress]
+* [http://www.inrisk.ubc.ca/ Infrastructure Risk Research Project at The University of British Columbia, Vancouver, Canada]
+* [http://www.calcolostrutture.net/terremoto-ed-energia-sismica.html Earthquake engineering]
+
+{{Technology}}
+{{DEFAULTSORT:Earthquake Engineering}}
+[[Category:Civil engineering]]
+[[Category:Structural engineering]]
+[[Category:Earthquake engineering| ]]
+[[Category:Seismic vibration control]]
+[[Category:Engineering disciplines]]
+[[Category:Earthquakes]]
+[[Category:Seismology]]
+
+[[ar:هندسة زلازل]]
+[[ca:Enginyeria antisísmica]]
+[[de:Erdbebensicheres Bauen]]
+[[el:Αντισεισμικές κατασκευές]]
+[[es:Ingeniería sísmica]]
+[[fa:مهندسی زمین‌لرزه]]
+[[fr:Génie parasismique]]
+[[it:Ingegneria sismica]]
+[[ja:耐震]]
+[[pl:Zapobieganie skutkom trzęsień ziemi]]
+[[pt:Engenharia sísmica]]
+[[ru:Сейсмостойкое строительство]]
+[[simple:Earthquake engineering]]
+[[ckb:ئەندازیاریی بوومەلەرزە]]
+[[ta:நிலநடுக்க பொறியியல்]]
+[[th:วิศวกรรมแผ่นดินไหว]]
+[[tr:İnşaat mühendisliği#Deprem Mühendisliği]]
+[[uk:Антисейсмічне будівництво]]
+[[zh:地震工程]]
