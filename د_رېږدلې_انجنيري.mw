@@ -1,29 +1,5 @@
-==Member stiffness relations==
+'''زلزلې انجینري''' د انجینرۍ هغه څانګه ده چې د زلزلې او د هغه څخه د راولاړو طبیعي ناورینونو د څیړلو، مخنیوي، لاملونو، او نورو په برخه کې کار کوي. پخوا به د زلزلې انجینري داسې تعریف کیده چې د ودانیو او ځمکنیو جوړښتونو کړه د زلزلې پر وړاندې څیړي او را پیژني. لدې امله وروسته دغه څانګه د دواړو ودانیو انجینري[[structural engineering|structural]] او ځمکپیژندنې [[geotechnical engineering|geotechnical]] د ټولګې په توګه وپیژندل شوه.
 
-A typical member stiffness relation has the following general form:
-
-:<math>\mathbf{Q}^m = \mathbf{k}^m \mathbf{q}^m + \mathbf{Q}^{om} \qquad \qquad \qquad \mathrm{(1)}</math>
-where
-:''m'' = member number ''m''.
-:<math>\mathbf{Q}^m </math> = vector of member's characteristic forces, which are unknown internal forces.
-:<math>\mathbf{k}^m </math> = member stiffness matrix which characterises the member's resistance against deformations.
-:<math>\mathbf{q}^m </math> = vector of member's characteristic displacements or deformations.
-:<math>\mathbf{Q}^{om} </math> = vector of member's characteristic forces caused by external effects (such as known forces and temperature changes) applied to the member while <math>\mathbf{q}^m = 0 </math>).
-
-If <math>\mathbf{q}^m </math> are member deformations rather than absolute displacements, then <math>\mathbf{Q}^m </math> are independent member forces, and in such case (1) can be inverted to yield the so-called ''member flexibility matrix'', which is used in the [[flexibility method]].
- د ژباړې لپاره دلته ایښودل شوي.هیله ده لرې ېې نکړئ. کچیرې د ژباړلو نیت لرئ مهرباني وکړئ.
-
-{{Earthquakes}}
-'''Earthquake engineering''' is the scientific field concerned with protecting society, the natural and the man-made environment from earthquakes by limiting the seismic risk to socio-economically acceptable levels.<ref name=Bozorgnia2004>{{cite book
-|last1=Bozorgnia
-|first1= Yousef
-|last2= Bertero
-|first2=Vitelmo V.
-|title= Earthquake Engineering: From Engineering Seismology to Performance-Based Engineering
-|publisher=[[CRC Press]]
-|year=2004
-|isbn=978-0-8493-1439-1
-}}</ref> Traditionally, it has been narrowly defined as the study of the behavior of structures and geo-structures subject to [[seismic loading]], thus considered as a subset of both [[structural engineering|structural]] and  [[geotechnical engineering|geotechnical]] engineering.  However, the tremendous costs experienced in recent earthquakes have led to an expansion of its scope to encompass disciplines from the wider field of [[civil engineering]] and from the [[social sciences]], especially sociology, political sciences, economics and finance.
 
 The main objectives of earthquake engineering are:
 * Foresee the potential consequences of strong [[earthquakes]] on [[urban areas]] and civil infrastructure.
