@@ -48,14 +48,14 @@
 
 په اوسني وخت کې پورته یادو چارو لپاره کمپیوټري پروګرامونه ډیر زیات کار کولی شي. په بازار کې بې شمیره سوداګریز پوستکالي (software) شته چې ددې موخې لپاره کاریدی شي د بیلګې په توګه: CSI-SAP2000، CSI-PERFORM-3D او نور. همداراز پر څیړنه-ولاړ (research-based) کمپیوټري پوستکالي پدې برخه کې د لاس رسي وړ دي لکه :RUAUMOKO ،OpenSees او DRAIN-2D/3D، چې د پرانیستې سرچینې (open source) په ډول ورته لاس رسی کیدی شي.
 
-== Research for earthquake engineering ==
-[[File:FPB testing-1.jpg|thumb|800 × 1,183 px|left|[[Earthquake shaking table|Shake-table]] testing of [[Earthquake engineering#Friction pendulum bearing|Friction Pendulum Bearings]] at EERC]]Research for earthquake engineering means both field and analytical investigation or experimentation intended for discovery and scientific explanation of earthquake engineering related facts, revision of conventional concepts in the light of new findings, and practical application of the developed theories.
+== د زلزلې انجینرۍ اړوند څیړنې ==
 
-The [[National Science Foundation]] (NSF) is the main United States government agency that supports fundamental research and education in all fields of earthquake engineering. In particular, it focuses on experimental, analytical, and computational research on design and performance enhancement of structural systems.[[File:E-Defense Shake Table.jpg|thumb|E-Defense Shake Table<ref>{{cite web|author=Meld je aan of registreer je om een reactie te plaatsen! |url=http://www.youtube.com/watch?v=y-mEDsqZK-I&feature=PlayList&p=660C7AFD70E81C12&index=71 |title=Miki_house_test |publisher=YouTube |date=2007-07-02 |accessdate=2012-07-31}}</ref>]]
+[[File:FPB testing-1.jpg|thumb|800 × 1,183 px|left|د لړزونکي میز پر سر د یوې ودانۍ د موډل آزمایښت]]
+پدې برخه کې څیړنې او ګویږنې په شننیز او تجربي توګه ترسره کیږي ترڅو د زلزلې انجینرۍ اړوند بیلابیلو برخو کې ښه، کره، علمي موندنو لاس بري وشي. پدې توګه به د شته منل شوو معیارونو بیا کتنه او سمونه د نوو موندنو په رڼا کې ترسره او د پلي کیدو په ډګر کې پوره آسانتیاوې او کره توب رامنځ ته شي.
 
-The [[Earthquake Engineering Research Institute]] (EERI) is a leader in dissemination of [[earthquake engineering research]] related information both in the U.S. and globally.
 
-A definitive list of earthquake engineering research related [[Earthquake shaking table|shaking tables]] around the world may be found in [http://www.nea.fr/html/nsd/docs/2004/csni-r2004-10.pdf Experimental Facilities for Earthquake Engineering Simulation Worldwide]. The most prominent of them is now E-Defense Shake Table<ref>{{cite web|url=http://www.bosai.go.jp/hyogo/ehyogo/|title=The NIED ‘E-Defence’ Laboratory in Miki City]|accessdate=3 March 2008}}</ref> in [[Japan]].{{clear}}
+Earthquake Engineering Research Institute یا (EERI) د زلزلې انجینرۍ په څیړنیزو چارو کې مخکښه اداره ده چې هم په متحده ایالتونو او هم په نړیواله کچه فعالیت کوي.
+
 
 {{hidden begin|title = Major earthquake engineering research centers in the United States and worldwide | titlestyle = background:beige;}}<!-- external links to external links section per WP:EL ? -->
 Earthquake engineering research activities worldwide are mostly associated with the following centers:
@@ -78,25 +78,14 @@ Earthquake engineering research activities worldwide are mostly associated with 
 *[[National Center for Research on Earthquake Engineering]]
 {{hidden end}}
 
-=== Major U.S. research programs ===
-The NSF [[Hazard Mitigation and Structural Engineering]] program (HMSE) supports research on new technologies for improving the behavior and response of structural systems subject to earthquake hazards; fundamental research on safety and reliability of constructed systems; innovative developments in [[seismic performance analysis|analysis]] and model based simulation of structural behavior and response including soil-structure interaction; design concepts that improve [[seismic performance|structure performance]] and flexibility; and application of new control techniques for structural systems.<ref>{{cite web|url=http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13358&org=CMMI |title=CMMI - Funding - Hazard Mitigation and Structural Engineering - US National Science Foundation (NSF) |publisher=nsf.gov |date= |accessdate=2012-07-31}}</ref>
-[[File:Large High Performance Outdoor Shake Table.jpg|thumb|383 × 248 px|right|Large High Performance Outdoor [[Earthquake shaking table|Shake Table]], [[UCSD]], NEES network]] NSF also supports the George E. Brown, Jr. [[Network for Earthquake Engineering Simulation]] (NEES) that advances knowledge discovery and innovation for [[earthquakes]] and [[tsunami]] loss reduction of the nation's civil infrastructure, and new experimental simulation techniques and instrumentation.<ref name=nees>{{cite web |title= Network for Earthquake Engineering Simulation |url= http://www.nees.org/ |work= Official web site |accessdate= September 21, 2011 }}</ref>
-[[File:Seismic Testing of Crane.jpg|thumb|619 × 422 px|left|NEES at [[University at Buffalo, The State University of New York|Buffalo]] testing facility]]
-The NEES network features 14 geographically-distributed, shared-use laboratories that support several types of experimental work:<ref name="nees"/> geotechnical centrifuge research, [[earthquake shaking table|shake-table]] tests, large-scale structural testing, tsunami wave basin experiments, and field site research.<ref>[http://www.nees.org/5am/sessions.php ]{{dead link|date=July 2012}}</ref> Participating universities include: Cornell University; Lehigh University; Oregon State University; Rensselaer Polytechnic Institute; University at Buffalo, SUNY; University of California, Berkeley; University of California, Davis; University of California, Los Angeles; University of California, San Diego; University of California, Santa Barbara; University of Illinois, Urbana-Champaign; University of Minnesota; University of Nevada, Reno; and the  University of Texas, Austin.<ref name="nees"/>
 
-The equipment sites (labs) and a central data repository are connected to the global earthquake engineering community via the NEEShub website.  The NEES website is powered by HUBzero software developed at [[Purdue University]] for [[nanoHUB]] specifically to help the scientific community share resources and collaborate.  The cyberinfrastructure, connected via [[Internet2]], provides interactive simulation tools, a simulation tool development area, a curated central data repository, animated presentations, user support, telepresence, mechanism for uploading and sharing resources and statistics about users, and usage patterns.
+=== د زلزلې موډل کول ===
+د زلزلې موډل کول یا (Earthquake simulation) د لمړي ځل لپاره د یوې افقي قوې پر واردولو سره چې په واقعیت کې د ودانۍ د عطالت قوه  ده ترسره شو. پدې موډل کې د ځمکې د خوځښت تعجیل په سکیل شوې بڼه د ودانۍ پر ریاضیکي موډل وارد شوی و. را وروسته بیا د محاسبوي تکنالوژۍ د پرمختګ سره د ډینامیک شننې لپاره ګام واخیستل شو.
 
-This cyberinfrastructure allows researchers to: securely store, organize and share data within a standardized framework in a central location; remotely observe and participate in experiments through the use of synchronized real-time data and video; collaborate with colleagues to facilitate the planning, performance, analysis, and publication of research experiments; and conduct computational and hybrid simulations that may combine the results of multiple distributed experiments and link physical experiments with computer simulations to enable the investigation of overall system performance.
+د ودانیو ډینامیکي شننه کیدای شي تجربي وی لکه د لړزونکي میز پر سره د ودانیو د د موډلونو لړزول، او یا هم خیالي () لکه د ریاضیکي موډلونو شننه. په دواړو حالتونو کې موخه داده چې د ودانۍ کړه د زلزلې پر وړاندې ښکاره او و ارزوي. ځنې څیړونکي د 
 
-These resources jointly provide the means for collaboration and discovery to improve the seismic design and performance of civil and mechanical infrastructure systems.
+کله کله د زلزلې موډل کول یا (earthquake simulation) د ځواکمنې زلزلې د لړزې څخه د را ولاړو اغیزو د بیا جوړونې یا (re-creation) په ډول تعریف کیږي.
 
-=== Earthquake simulation ===
-
-The very first '''earthquake simulations''' were performed by statically applying some ''horizontal inertia forces'' based on [[scale factor|scaled]] [[peak ground acceleration]]s to a mathematical model of a building.<ref name=SeismicDesignOfBuildingStructures>{{cite book|title= Seismic Design of Building Structures|author=Lindeburg, Michael R.; Baradar, Majid|year=2001|publisher=Professional Publications|isbn=1-888577-52-5}}</ref> With the further development of computational technologies, [[statics|static]] approaches began to give way to [[dynamics (mechanics)|dynamic]] ones.
-
-Dynamic experiments on building and non-building structures may be physical, like [[Earthquake shaking table|shake-table testing]], or virtual ones. In both cases, to verify a structure's expected seismic performance, some researchers prefer to deal with so called "real time-histories" though the last cannot be "real" for a hypothetical earthquake specified by either a building code or by some particular research requirements. Therefore, there is a strong incentive to engage an earthquake simulation which is the seismic input that possesses only essential features of a real event.
-
-Sometimes, earthquake simulation is understood as a re-creation of local effects of a strong earth shaking.
 
 === Structure simulation ===
 
