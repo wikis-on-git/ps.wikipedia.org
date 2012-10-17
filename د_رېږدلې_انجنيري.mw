@@ -93,23 +93,16 @@ Earthquake Engineering Research Institute یا (EERI) د زلزلې انجینر
 
 د حرکي ورته والي تر ټولو لوړه کچه داده چې، د خوځښت پر مهال د ودانۍ او د هغه د موډل د هر پوړ اړخیز بیځایښت (lateral displacements) یوشان وي.
 
-== Seismic vibration control ==
+== د زلزلې د ږیدیدا کنټرول ==
+د زلزلې د ریږدیدا کنټرول د څو تخنیکي مفاهیمو ټولګه ده چې موخه ېې پر ودانیو باندې د زلزلې د اغیز کمول دي. هغه وسیلې چې د ریږدیدا د کنټرول لپاره کارول کیږي په لاندې دریو ډلو ویشل کیږي (۱) مړه، (۲) کارنده او (۳) هابرایډ (hybrid).
+٭مړه کنټرولونکي وسیله د بیرته ځواب یا [[feedback]] ځواک نلري
+٭ کارنده کنټرولونکي وسیله په ودانۍ کې د ننه په پرمختللو وسایلو سمبال ده چې د ځمکې ور کړ شوی خوځښت پروسس کوي.
+٭ هایبرایډ کنټرولونکې وسیله بیا د پورته یادو دواړو ځانګړتیاوې لري.
 
-'''Seismic vibration control''' is a set of technical means aimed to mitigate seismic impacts in building and [[non-building]] structures. All seismic vibration control  devices may be classified as ''passive'', ''active'' or ''hybrid''<ref>{{cite web|url=http://physics-animations.com/Physics/English/spri_txt.htm |title=Passive and active vibration isolation systems - Theory |publisher=Physics-animations.com |date= |accessdate=2012-07-31}}</ref> where:
-
-* ''passive control devices'' have no [[feedback]] capability between them, structural elements and the ground;
-* ''[[Active vibration control|active control devices]]'' incorporate real-time recording instrumentation on the ground integrated with earthquake input processing equipment and [[actuator]]s within the structure;
-* ''hybrid control devices'' have combined features of active and passive control systems.<ref name=ActiveHybrid>{{cite book|title= Active, Hybrid and Semi-Active Structural Control|author=Chu, S.Y.; Soong, T.T.; Reinhorn, A.M.|year=2005|publisher= John Wiley & Sons |isbn=0-470-01352-4}}</ref>
-
-When ground [[seismic waves]] reach up and start to penetrate a base of a building, their energy flow density, due to reflections, reduces dramatically: usually, up to 90%. However, the remaining portions of the incident waves during a major earthquake still bear a huge devastating potential.
-
-After the seismic waves enter a [[superstructure]], there are a number of ways to control them in order to soothe their damaging effect and improve the building's seismic performance, for instance:
-
-* to [[Dissipator (building design)|dissipate]] the wave energy inside a [[superstructure]] with properly engineered [[damper (mast)|damper]]s;
-
-* to disperse the wave energy between a wider range of frequencies;
-
-* to [[absorption (acoustics)|absorb]] the [[resonant]] portions of the whole wave frequencies band with the help of so-called ''[[mass damper]]s''.<ref>{{cite web|url=http://ffden-2.phys.uaf.edu/211_fall2002.web.dir/Eva_Burk/Eva's%201st%20page.htm |title=Slide 2 |publisher=Ffden-2.phys.uaf.edu |date= |accessdate=2012-07-31}}</ref>
+کله چې د ځمکې پر مخ د زلزلې څپې راشي، او هڅه کوي چې د ودانۍ بیخ ته ننوځي- د دغه څپو د انرژۍ د جریان تکاثف د انعکاس له امله په زیاته کچه معمولاً تر 90٪ پورې کمیږي. سره ددې هم په ډیرو ځواکمنو زلزلو کې دغه پاته انرژي د زیاتو ورانیو او خرابیو سبب کیږي.
+کله چې د ځمکې څپې یوې ودانۍ ته ننوځي، دلته زیاتې لارې چارې شتون لري چې دوی کنټرول کړي ترڅو د زیاتو ورانیو مخه ېې ونیول شي؛ د بیلګې په توګه د انرژي زبیښونکي یا (Energy Dissippator) ډمپر پوسیله د یادو څپو انرژي د ودانۍ په دننه کې زبیښي.
+او ځنې وسیلې د یادو څپو انرژي د زیات شمیر فریکونسیو ترمنځ ویشي چې پدې توګه ېې زور کمیږي.
+او کله کله هم د کتلوي ډمپر پوسیله د زلزلې د څپو د تکراري برخې د فریکونسیو بانډ زبیښي.
 
 [[File:Cyrus tomb.jpg|thumb|600 × 387 px|[[Mausoleum]] of Cyrus, the oldest [[base isolation|base-isolated]] structure in the world]]Devices of the last kind, abbreviated correspondingly as TMD for the tuned (''passive''), as AMD for the ''active'', and as HMD for the ''hybrid mass dampers'', have been studied and installed in [[high-rise building]]s, predominantly in Japan, for a quarter of a century.<ref>http://www.takenaka.co.jp/takenaka_e/quake_e/seishin/seishin.htm</ref>
 
