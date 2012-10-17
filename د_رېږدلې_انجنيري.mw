@@ -10,31 +10,30 @@
 
 
 
-[[File:101.portrait.altonthompson.jpg|thumb|415 × 795 px|right|د ټایپي 101 دنګه ودانۍ چې د ځوړنې کتلې ډمپر لري، د نړۍ دریمه دنګه ودانۍ ده]]
+[[File:101.portrait.altonthompson.jpg|thumb|415 × 795 px|right|د ټایپي 101 دنګه ودانۍ چې د ځوړندې کتلې ډمپر لري، د نړۍ دریمه دنګه ودانۍ ده]]
 
-[[Taipei 101]], equipped with a [[tuned mass damper]], is the 
 
-== Seismic loading ==
-{{main|Seismic loading}}
-'''Seismic loading''' means application of an earthquake-generated excitation on a structure (or geo-structure). It happens at contact surfaces of a structure either with the ground [http://earthquake.geoengineer.org/], or with adjacent structures,<ref>[http://www.civenv.unimelb.edu.au/ejse/Archives/Fulltext/2006/200608.pdf ]{{dead link|date=July 2012}}</ref> or with [[gravity wave]]s from [[tsunami]].
+== د زلزلې بار ==
 
-== Seismic performance ==
-{{Main|Seismic analysis}}
+د زلزلې بار اچونه '''یعنې ودانۍ یا بل هر سترکچر ته د زلزلې پوسیله د منځ ته راغلی خوځښت ورکول'''. دغه بار ودانۍ ته د ځمکې پر مخ،او یا هم د کوم بل سترکچر پرسر لکه پر پل د زلزلې بار د هغې د ستنو د پاسه ور تپل کیږي.
 
-'''Earthquake''' or '''seismic performance''' defines a structure's ability to sustain its main functions, such as its [[safety]] and [[Serviceability (structure)|serviceability]], ''at'' and ''after'' a particular earthquake exposure. A structure is, normally, considered ''safe'' if it does not endanger the lives and well-being of those in or around it by partially or completely collapsing. A structure may be considered ''serviceable'' if it is able to fulfill its operational functions for which it was designed.
 
-Basic concepts of the earthquake engineering, implemented in the major building codes, assume that a building should survive a rare, very severe earthquake by sustaining significant damage but without globally collapsing .<ref name=RecommendedLateralForce>{{cite book|title= Recommended Lateral Force Requirements and Commentary|author=Seismology Committee|year=1999|publisher= Structural Engineers Association of California}}</ref> On the other hand, it should remain operational for more frequent, but less severe seismic events.
+== د زلزلې پر وړاندې د ودانۍ کړه ==
+'''زلزله''' او یا د '''زلزلې پر وړاندې د ودانۍ کړه'''(seismic performance) د ودانۍ هغه ځواک ښيي چې د پیښې شوې زلزلې پرمهال خپل کړه څرګند کړي. د بیلګې په توګه د زلزلې د پیښیدو او د هغې وروسته باید ودانۍ خوندي، او د کارونې وړ وي. یوه ودانۍ هغه مهال خوندي ''safe'' بلل کیږي چې پکې استوګن او شاوخوا خلکو ژوند په خطر کې وا نه چوي. چې دا خطر د بشپړ او یا هم ځنو برخو د نړیدو له کبله وي.
+یوه ودانۍ هغه وخت د کارونې وړ ''serviceable'' بلل کیږي چې ورته پام کې نیولې ځانګړتیاوې ېې په پوره توګه د کار وړ وي او یا نه وي زیانمنې شوې.
 
 
 
-=== Seismic performance assessment ===
 
-Engineers need to know the quantified level of the actual or anticipated seismic performance associated with the direct damage to an individual building subject to a specified ground shaking.
-Such an assessment may be performed either experimentally or analytically.
+=== د زلزلې پر وړاندې د کړو ارزونه ===
+انجینران باید پوه شي چې د یوې ټاکلې زلزلې د خوځښت پر وړاندې یوه ودانۍ په څومره کچه خپل کړه ترسره کولی شي. دغه ارزونه هم په تجربي او هم په شننیزه یا تحلیلي توګه ترسره کیږي.
 
-====Experimental assessment====
-Experimental evaluations are expensive tests that are typically done by placing a (scaled) model of the structure on a [[earthquake shaking table|shake-table]] that simulates the earth shaking and observing its behavior.<ref>{{cite web|author=neesit |url=http://www.youtube.com/watch?v=kc652Zp5qWk&feature=PlayList&p=F297EF2ADDEAD86C&index=182 |title=Shaking Table Test on Conventional Wooden House (1) |publisher=YouTube |date=2007-11-17 |accessdate=2012-07-31}}</ref> Such kinds of experiments were first performed more than a century ago.<ref name=SeismicExperiments>{{cite book|title= Seismic Experiments on the Fracturing and Overturning of Columns|author=Omori, F.|year=1900|publisher=Publ. Earthquake Invest. Comm. In Foreign Languages, N.4, Tokyo}}</ref> Still only recently has it become possible to perform 1:1 scale testing on full structures.
-[[File:Shaking NDC.jpg|thumb|698 × 480 px|left|Snapshot from [[shake-table video]] of a 6-story non-ductile concrete building [[destructive testing]]]]
+
+====تجربي ارزونه====
+په تجربي ډول ارزونه تل زیات لګښت لري. پدې ډول ارزونه کې د یوې ودانۍ بیلګه یا ماډل د یو ځانګړي سکیل سره جوړیږي، او بیا په لړزونکي میز باندې مصنوعي زلزله ورکول کیږي، پدې توګه د زلزلې پر وړاندې د دغه ودانۍ کړه ارزوي.
+
+[[File:Shaking NDC.jpg|thumb|698 × 480 px|left|د وچ-کلک شپږ پوړیزه کانکریټي ودانۍ آزمایښت د لړزونکي میز پر سر]]
+
 
 Due to the costly nature of such tests, they tend to be used mainly for understanding the seismic behavior of structures, validating models and verifying analysis methods. Thus, once properly validated, computational models and numerical procedures tend to carry the major burden for the seismic performance assessment of structures.
 
