@@ -193,76 +193,78 @@ Earthquake Engineering Research Institute یا (EERI) د زلزلې انجینر
 
 د پورته یادو ډلو څخه هره یوه ېې بیلې ځانګړنې، ښه توبونه، او بد توبونه لري.
 
-== Seismic design ==
 
-'''Seismic design''' is based on authorized engineering procedures, principles and criteria meant to [[design]] or [[seismic retrofit|retrofit]] structures subject to earthquake exposure.<ref name=SeismicDesignOfBuildingStructures>{{cite book|title= Seismic Design of Building Structures|author=Lindeburg, Michael R.; Baradar, Majid|year=2001|publisher=Professional Publications|isbn=0-943198-23-2}}</ref> Those criteria are only consistent with the contemporary state of the knowledge about [[earthquake engineering structures]].<ref name=EarthquakeDesignCriteria>{{cite book|title= Earthquake Design Criteria|author=Housner, George W.; Jennings, Paul C.|year=1982|publisher=EERI|isbn=1-888577-52-5}}</ref> Therefore, a building design which exactly follows seismic code regulations does not guarantee safety against collapse or serious damage.<ref>{{cite web|url=http://nisee.berkeley.edu/bertero/html/earthquake-resistant_construction.html |title=Earthquake-Resistant Construction |publisher=Nisee.berkeley.edu |date= |accessdate=2012-07-31}}</ref>
+== د زلزلې پر وړاندې ډیزاین ==
+د زلزلې پر وړاندې ډیزاین یا د زلزلې لپاره ډیزاین د منل شوو انجینري کړنلارو یا (procedures)، ارونو (principles) او معیارونو (criteri) له مخې ترسره کیږي. 
 
-The price of poor seismic design may be enormous. Nevertheless, seismic design has always been a [[trial and error]] process whether it was based on physical laws or on empirical knowledge of the [[seismic performance|structural performance]] of different shapes and materials.
+دغه معیارونه د وخت د معلوماتو سره سم چې د زلزلې د انجینرۍ په برخه کې شته دی برابر ټاکل کیږي. نو پدې توګه د یوه ودانیز قانون (کوډ) سره سم ډیزاین شوی او ودان شوی تعمیر دا معنی نلري چې د هیڅ ډول باد یا زلزلې پر وړاندې باید تل کلک ودریږي. 
 
-[[File:San-Francisco City Hall 1906.jpg|thumb|513 × 409 px|right|[[San Francisco City Hall]] destroyed by [[1906 San Francisco earthquake|1906 earthquake]] and fire.]]To practice [[seismic design]], seismic analysis or seismic evaluation of new and existing civil engineering projects, an [[engineer]] should, normally, pass examination on ''Seismic Principles''<ref>http://www.pels.ca.gov/applicants/plan_civseism.pdf</ref> which, in the State of California, include:
-* Seismic Data and Seismic Design Criteria
-* Seismic Characteristics of Engineered Systems
-* Seismic Forces
-* Seismic Analysis Procedures
-* Seismic Detailing and Construction Quality Control
+د زلزلې د خوار ډیزاین بیه کیدای شي ډیره لوړه وي. سره لدې د زلزلې پر وړاندې ډیزاین تل د هڅې او تیروتنې (trial and error) یوه پروسه ده چې کیدای شي پر فزیکي قوانینو او یا هم د زلزلې پر وړاندې د ودانۍ د کړو په اړه پر تجربي پوهه ولاړه وي. 
 
-[[File:6a34659r.jpg|thumb|1046 × 420 px|left|[[San Francisco]] after the [[1906 San Francisco earthquake|1906 earthquake]]  and fire]]
-To build up complex structural systems,<ref name=SeismicDesignHandbook>{{cite book|title=Seismic Design Handbook|author=Edited by Farzad Naeim|year=1989|publisher=VNR|isbn=0-442-26922-6}}</ref> seismic design largely uses the same relatively small number of basic structural elements (to say nothing of vibration control devices) as any non-seismic design project.
 
-Normally, according to building codes, structures are designed to "withstand" the largest earthquake of a certain probability that is likely to occur at their location. This means the loss of life should be minimized by preventing collapse of the buildings.
+[[ د امریکا په سن فرانسیسکو کې د زلزلې له امله نړیدلې ودانۍFile:San-Francisco City Hall 1906.jpg|thumb|513 × 409 px|right|]]
 
-Seismic design is carried out by understanding the possible [[failure mode]]s of a structure and providing the structure with appropriate [[Strength of materials|strength]], [[stiffness]], [[ductility]], and [[configuration (geometry)|configuration]]<ref name=BuildingConfiguration>{{cite book|title= Building Configuration & Seismic Design|author=Arnold, Christopher; Reitherman, Robert|year=1982|publisher=A Wiley-Interscience Publication|isbn=0-471-86138-3}}</ref> to ensure those modes cannot occur.
+هغه څوک د نوې او شته ودانیو د زلزلې ډیزاین (seismic design)، یا د زلزلې شننه (seismic analysis) او یا هم د زلزلې ارزونه (seismic evaluation) کوي باید د انجینرۍ پدغه برخه کې د بریلیک ترڅنګ د زلزلې د آرونو (''Seismic Principles'') په برخه کې آزموینه په بریالیتوب سره تیره کړي. دغه آزموینه د امریکا په کلیفورنیا کې لاندې برخې را نغاړي:
 
-=== Seismic design requirements ===
-'''Seismic design requirements''' depend on the type of the structure, locality of the project and its authorities which stipulate applicable seismic design codes and criteria.<ref name="RecommendedLateralForce"/> For instance, [[California Department of Transportation]]'s requirements called ''The Seismic Design Criteria'' (SDC) and aimed at the design of new bridges in California<ref>{{cite web|url=http://www.dot.ca.gov/hq/esc/earthquake_engineering/SDC/SDCPage.html |title=Template for External Caltrans Pages |publisher=Dot.ca.gov |date= |accessdate=2012-07-31}}</ref> incorporate an innovative seismic performance based approach.
+٭ د زلزلې ډیټا او د زلزلې د ډیزاین معیارونه؛
 
-[[File:Metsamor aerien.jpg|thumb|[[Metsamor Nuclear Power Plant]] in [[Armenia]] was closed after the 1988 destructive earthquake<ref>{{cite web|url=http://www.asbarez.com/2007/12/07/strategy-to-close-metsamor-plant-presented |title=Strategy to Close Metsamor Plant Presented &#124; Asbarez Armenian News |publisher=Asbarez.com |date=1995-10-26 |accessdate=2012-07-31}}</ref> ]]The most significant feature in the SDC design philosophy is a shift from a ''force-based assessment'' of seismic demand to a ''displacement-based assessment'' of demand and capacity. Thus, the newly adopted displacement approach is based on comparing the ''elastic displacement'' demand to the ''inelastic displacement'' capacity of the primary structural components while ensuring a minimum level of inelastic capacity at all potential plastic hinge locations.
+٭ د انجینري سیستمونو یا ودانیو ځانګړتیاوې د زلزلې پر وړاندې؛
 
-In addition to the designed structure itself, seismic design requirements may include a ''ground stabilization'' underneath the structure: sometimes, heavily shaken ground breaks up which leads to collapse of the structure sitting upon it.<ref>{{cite web|author=neesit |url=http://es.youtube.com/watch?v=d316Wdgf16Y&feature=PlayList&p=F297EF2ADDEAD86C&index=63 |title=Niigita Earthquake 1964 - YouTube |publisher=Es.youtube.com |date= |accessdate=2012-07-31}}</ref>
-The following topics should be of primary concerns: liquefaction; dynamic lateral earth pressures on retaining walls; seismic slope stability; earthquake-induced settlement.<ref name=GeoEarthquakeEngineering>{{cite book|title= Geotechnical Earthquake Engineering Handbook|author=Robert W. Day|year=2007|publisher= McGraw Hill|isbn=0-07-137782-4}}</ref>
+٭ د زلزلې قوې؛
 
-[[Nuclear facility|Nuclear facilities]] should not jeopardise their safety in case of earthquakes or other hostile external events. Therefore, their seismic design is based on criteria far more stringent than those applying to non-nuclear facilities.<ref>[http://www.world-nuclear.org/info/inf18.html Nuclear Power Plants and Earthquakes]</ref> The [[Fukushima I nuclear accidents]] and [[2011 Japanese nuclear incidents|damage to other nuclear facilities]] that followed the [[2011 Tōhoku earthquake and tsunami]] have, however, drawn attention to ongoing concerns over [[Nuclear power in Japan#Seismicity|Japanese nuclear seismic design standards]] and caused other many governments to [[International reaction to Fukushima I nuclear accidents#Re-evaluation of existing nuclear energy programs|re-evaluate their nuclear programs]]. Doubt has also been expressed over the seismic evaluation and design of certain other plants, including the [[Fessenheim Nuclear Power Plant]] in France.
+٭ د زلزلې لپاره د ودانیو د شننې کړنلارې؛
 
-=== Failure modes ===
+٭ د زلزلې لپاره د ډیزاین رسمونه او د ودانیزې وړتیا کنټرول یا (Construction Quality Control).
 
-'''Failure mode''' is the manner by which an earthquake induced failure is observed. It, generally, describes the way the failure occurs. Though costly and time consuming, learning from each real earthquake failure remains a routine recipe for advancement in ''seismic design'' methods. Below, some typical modes of earthquake-generated failures are presented. For information on the photographer and/or the agency that released corresponding images, usually accompanied with brief comments which were used, with sincere gratitude, here and there in this section, click on the [[Thumbs.db|thumb]] nearby.[[File:LomaPrieta-SOMA.jpeg|thumb|231 × 152 px|left|Typical damage to [[unreinforced masonry building]]s at earthquakes]] The lack of [[rebar|reinforcement]] coupled with poor [[Mortar (masonry)|mortar]] and inadequate roof-to-wall ties can result in substantial damage to a '''unreinforced masonry building'''. Severely cracked or leaning walls are some of the most common earthquake damage. Also hazardous is the damage that may occur between the walls and roof or floor diaphragms. Separation between the framing and the walls can jeopardize the vertical support of roof and floor systems.
 
-[[File:LomaPrieta-Marina.jpeg|thumb|760 × 512 px|right|[[Soft story building|Soft story]] collapse due to inadequate shear strength at ground level, [[Loma Prieta earthquake]]]]'''[[Soft story building|Soft story effect]]'''. Absence of adequate [[shear wall]]s on the ground level caused damage to this structure. A close examination of the image reveals that the rough board siding, once covered by a [[brick veneer]], has been completely dismantled from the studwall. Only the [[Structural rigidity|rigidity]] of the floor above combined with the support on the two hidden sides by continuous walls, not penetrated with large doors as on the street sides, is preventing full collapse of the structure.
+د ودانیزو کوډونو له مخې ودانۍ داسې ډیزاین کیږي چې په سیمه کې د ممکنه پیښیدونکو زلزلو پر وړاندې ودریږي. د بیلګې په توګه په یوه سیمه کې یوه لویه ورانونکې زلزله هر شلو کاله کې یوځل پیښیږی. نو کچیرې د یوې ودانۍ عمر شل، دیرش یا زیات اټکل کیږي باید ددغه لوېې زلزلې لپاره ودانۍ ودانې شي. د زلزلې ډیزاین ددې لپاره ترسره کیږي ترڅو د امکان تر بریده د ودانۍ د نړیدو د مخنیوي له مخې د خلکو د ژوند ساتنه وکړي.
 
-[[File:Liquefaction at Niigata.JPG|thumb|500 × 297 px|left|Effects of [[soil liquefaction]] during the [[1964 Niigata earthquake]]]]'''[[Soil liquefaction]]'''. In the cases where the soil consists of loose granular deposited materials with the tendency to develop excessive hydrostatic pore water pressure of sufficient magnitude and compact, [[liquefaction]] of those loose saturated deposits may result in non-uniform [[Consolidation (soil)|settlements]] and tilting of structures. This caused major damage to thousands of buildings in Niigata, Japan during the [[1964 Niigata earthquake|1964 earthquake]].<ref>{{cite web|author=neesit |url=http://www.youtube.com/watch?v=d316Wdgf16Y&feature=PlayList&p=F297EF2ADDEAD86C&index=63 |title=Niigita Earthquake 1964 |publisher=YouTube |date= |accessdate=2012-07-31}}</ref>
+د زلزلې ډیزاین د ودانۍ د نړیدو د ممکنه موډونو د پیژندلو او ودانۍ ته د مناسب کلکوالي، سختۍ، نرمښت، او هندسي شکل په پام کې نیولو سره ترسره کیږي ترڅو د د یادو موډونو د منځ ته نه راتګ څخه ډاډ ترلاسه شي.
 
-[[File:Smashed Car in Dujiangyan - 2008 Sichuan earthquake (1).jpg|thumb|800 × 532 px|right|Car smashed by [[landslide]] rock, [[2008 Sichuan earthquake]]]]'''Landslide rock fall'''. A [[landslide]] is a geological phenomenon which includes a wide range of ground movement, including '''rock falls'''. Typically, the action of [[gravity]] is the primary driving force for a landslide to occur though in this case there was another contributing factor which affected the original [[slope stability]]: the landslide required an ''earthquake trigger'' before being released.
 
-[[File:St.Joseph'sSeminary Los Altos USGS.jpg|thumb|759 × 512 px|left|Effects of pounding against adjacent building, [[Loma Prieta earthquake|Loma Prieta]]]]'''Pounding against adjacent building'''. This is a photograph of the collapsed five-story tower, St. Joseph's Seminary, [[Los Altos, California]] which resulted in one fatality. During [[Loma Prieta earthquake]], the tower pounded against the independently vibrating adjacent building behind. A possibility of pounding depends on both buildings' lateral displacements which should be accurately estimated and accounted for.
+=== د زلزلې پر وړاندې د ډیزاین شرایط یا اړتیاوې ===
+د زلزلې پر وړاندې د ډیزاین شرایط د ودانۍ پر څرنګوالي، د پروژې ځای، او د ودانۍ د خاوند یا ښاروالۍ چې د زلزلې د ډیزاین لپاره قانون (کوډ) او معیارونه ټاکي، اړه لري.
 
-[[File:Kaiser Permanente Building After Northridge Earthquake.jpg|thumb|1,200 × 801 px|right|Effects of completely shattered joints of concrete frame, [[Northridge earthquake|Northridge]]]]At [[Northridge earthquake]], the Kaiser Permanente concrete frame office building had joints completely shattered, revealing '''inadequate confinement steel''', which resulted in the second story collapse. In the transverse direction, composite end [[shear wall]]s, consisting of two [[wythe]]s of brick and a layer of [[shotcrete]] that carried the lateral load, peeled apart because of '''inadequate through-ties''' and failed.
 
-<!-- Image with unknown copyright status removed: [[File:Damaged buildings after Izmit-earthquake.jpg|thumb|700 × 469 px|left|Seismic effect of steep slope of construction site, [[Izmit Earthquake]] {{Deletable image-caption|date=May 2012}}]] -->7-story reinforced concrete '''buildings on steep slope collapse''' due to the following:<ref>http://www.eas.slu.edu/Earthquake_Center/TURKEY</ref>
 
-* Improper [[construction site]] on a [[foothill]].
+[[File:Metsamor aerien.jpg|thumb| د مېڅمور اټومي بټۍ (Metsamor Nuclear Power Plant ) د 1988 کال د زلزلې وروسته وتړل شوه]]
+د امریکا په کالیفورنیا کې د زلزلې پر وړاندې د ډیزاین معیارونو یا (Seismic Design Criteria (SDC)) د پام وړ ټکی دادی چې په هغه کې د ډیزاین فلسفه د  زلزلې د غوښتنې (seismic demand) ارزونه د قوې پر بنسټ ولاړ (force-based assessment) حالت څخه د بیځایښت پر بنسټ ولاړې ارزونې (displacement-based assessment) ته اړوي. دغه نوې منل شوې (د بیځایښت پر بنسټ ولاړه) کړنلاره د ودانۍ د مهم غړو د ارتجاعي بیځایښت (elastic displacemen) د غوښتنې او غیر ارتجاعي بیځایښت (inelastic displacement) د ظرفیت د پرتله کولو پر بنسټ ولاړه ده.
 
-* Poor detailing of the [[rebar|reinforcement]] (lack of concrete confinement in the columns and at the beam-column joints, inadequate splice length).
+د ودانۍ پر ډیزاین سربیره، د زلزلې پر وړاندې ډیزاین ددې غوښتنه هم کوي چې کله کله د ودانۍ لاندې ځمکه پیاوړي شي. ځنې وخت د لویو زلزلو له کبله د ودانۍ لاندې ځمکه چوي او د ودانۍ د چپه کیدو لامل کیږي.
 
-* Seismically weak [[soft story building|soft story]] at the first floor.
+=== د ماتې موډونه===
+د ماتې ډول (Failure mode ) لکه د نامه څخه ېې چې ښکاري، د زلزلې له کبله د ودانۍ د ماتیدو یا چپه کیدو ډول ته وایي. د ماتې ډول په ټوله کې د ودانۍ د چپه کیدو څرنګوالی را ښيي. که څه هم د ماتې د ډول زده کړه ډیر لګښت او وخت غواړي، خو له کبله ېې په راتلونکې کې د زلزلې پر وړاندې د ډیزاین د ښه کولو لپاره ډیر څه ترلاسه کیدلی شي.
 
-* Long [[cantilever]]s with heavy [[dead load]].
+د زلزلې څخه د ماتې د را ولاړو ډولونو له ډلې څخه د څو ډولونو یادونه شویده:
 
-[[File:Shifting from foundation.jpg|thumb|271 × 410 px|right|Shifting from foundation, [[1987 Whittier Narrows earthquake|Whittier]]]]'''Sliding off foundations effect''' of a relatively rigid residential building structure during [[1987 Whittier Narrows earthquake]]. The magnitude 5.9 earthquake pounded the Garvey West Apartment building in Monterey Park, California and shifted its [[superstructure]] about 10&nbsp;inches to the east on its foundation.
+[[File:LomaPrieta-SOMA.jpeg|thumb|231 × 152 px|left|ښکارندیز ورانی چې یوې بې پولادو ودانۍ ته اوښتی دی]] 
+د پولادو کمښت یا نشتون د کمې مسالې سره یو ځاې او همدارنګه د بام او دیوال ترمنځ نا مناسب تړون ددې ودانۍ د ورانۍ سبب شویدی. د څنګ وهلي (کاږه شوي) درز شوو دیوالونو چپه کیدل هم د زلزلې د زیاتو پیښیدونکو ورانیو له دلې څخه دي. تر ټولو خطرناک ورانی چې پیښیږي هغه د بام یا چت او دیوالونو ترمنځ  دی. د دیوالونو او د ودانۍ د فرم () ترمنځ بیلتون د ودانۍ د باروړنې ځواک کموي او پدې توګه سیستم د عمودي بارونو پر وړاندې بې ځواکه کیږي.
 
-[[File:Casa en frente de Playa Principal de Pichilemu, destruida.jpg|thumb|left|Earthquake damage in [[Pichilemu]].]]
-If a superstructure is not mounted on a [[base isolation]] system, its shifting on the basement should be prevented.
 
-[[File:Northridge earthquake 10 frwy2.png|thumb|1,024 × 686 px|left|Insufficient shear reinforcement let main [[rebars]] to buckle, [[Northridge earthquake|Northridge]]]][[Reinforced concrete]] column burst at [[Northridge earthquake]] due to '''insufficient shear reinforcement mode''' which allows main reinforcement to [[buckle]] outwards. The deck unseated at the [[hinge]] and failed in shear. As a result, the La Cienega-Venice [[underpass]] section of the 10 Freeway collapsed.
 
-[[File:022srUSGSCyprusVia.jpg|thumb|758 × 512 px|right|Support-columns and upper deck failure, [[Loma Prieta earthquake]]]][[Loma Prieta earthquake]]: side view of reinforced concrete '''support-columns failure''' which trigged '''the upper deck collapse onto the lower deck''' of the two-level Cypress viaduct of Interstate Highway 880, Oakland, CA.
 
-[[File:Retaining wall failure.jpeg|thumb|755 × 512 px|left|Failure of [[retaining wall]] due to ground movement, [[Loma Prieta earthquake|Loma Prieta]]]]'''Retaining wall failure''' at [[Loma Prieta earthquake]] in Santa Cruz Mountains area: prominent northwest-trending extensional cracks up to 12&nbsp;cm (4.7&nbsp;in) wide in the concrete [[spillway]] to Austrian Dam, the north [[abutment]].
+[[File:LomaPrieta-Marina.jpeg|thumb|760 × 512 px|right| د نرم پوړ لرونکې ودانۍ چې لمړی پوړ ېې نرم دی چپه شویده]]
 
-[[File:Ground failure.jpeg|thumb|761 × 512 px|right|''Lateral spreading'' mode of ground failure, [[Loma Prieta earthquake|Loma Prieta]]]]Ground shaking triggered [[soil liquefaction]] in a subsurface layer of [[sand]], producing differential lateral and vertical movement in an overlying [[carapace]] of unliquified sand and [[silt]]. This '''mode of ground failure''', termed '''lateral spreading''', is a principal cause of liquefaction-related earthquake damage.<ref>http://www.youtube.com/watch?v=YlSuosOTAV0&feature=PlayList&p=660C7AFD70E81C12&index=53&playnext=2&playnext_from=PL</ref>
+نرم پوړ یا (Soft story) په یوه پوړ کې د پریکون د افقي قوې د زغملو لپاره د اړتیا وړ مقاومت او کلکوالي نشتون ته وايي. دغه راز ویلی شو چې یو پوړ هغه وخت نرم بلل کیږي چې اړخیز مقاومت ېې د همدې پوړ د پاسه یا تر هغه لاندې پوړ د اړخیز مقاومت څخه کم وي.
 
-[[File:ADBC Branch in BeiChuan after earthquake.jpg|thumb|2,816 × 2,112 px|left|Beams and pier columns diagonal cracking, [[2008 Sichuan earthquake]]]]Severely damaged building of Agriculture Development Bank of China after [[2008 Sichuan earthquake]]: most of the '''beams and pier columns are sheared'''. Large diagonal cracks in masonry and veneer are due to in-plane loads while abrupt [[Consolidation (soil)|settlement]] of the right end of the building should be attributed to a [[landfill]] which may be hazardous even without any earthquake, see video footage at.<ref>http://www.youtube.com/watch?v=uKeENdyIluI&NR=1</ref>
 
-[[File:2004-tsunami.jpg|thumb|800 × 580 px|right|[[Tsunami]] strikes [[Ao Nang]],<ref>http://www.youtube.com/watch?v=WOw151ElhvM&feature=PlayList&p=E386AF07A3FAA776&index=1</ref> ]]'''Twofold tsunami impact''': [[sea wave]]s hydraulic [[pressure]] and [[inundation]]. Thus, [[2004 Indian Ocean earthquake|the Indian Ocean earthquake]] of December 26, 2004, with the [[epicenter]] off the west coast of [[Sumatra]], Indonesia, triggered a series of devastating tsunamis, killing more than 230,000 people in eleven countries by '''inundating surrounding coastal communities with huge waves''' up to 30 meters (100&nbsp;feet) high. For a video footage of the tsunami propagation, click on.<ref>http://www.youtube.com/watch?v=w9ygYqj4rVM&feature=Pl</ref>
+[[File:Liquefaction at Niigata.JPG|thumb|500 × 297 px|left|د خاورې د خوړینیدو اغیز]]
+د خاورې خوړینېدل په هغه ځای کې چې خاوره له نرمو پرتو رسوبي موادو څخه جوړه وي د اوبو په رسیدو او ټکان ورکولو سره نوموړې خاوره خوړینیږي او خپل مقاومت له لاسه ورکوي. د خاورې د خوړینېدو له کبله ممکن ودانۍ نا منظمه ناسته وکړي او یا هم ټوله ودانۍ پر ځمکه ننوځي. دغه پیښې د نِي ګه ته (Niigata, Japan) په زلزله کې زرګونه ودانۍ زیانمنې کړې.
+
+ [[File:Smashed Car in Dujiangyan – 2008 Sichuan earthquake (1).jpg|thumb|800 × 532 px|right|د 2008 کال د سیچوان په زلزله کې د ځمکې ښویدنې له امله د ډبرې لاندې شوی موټر]]
+د ځمکې ښوییدنه یوه ځمکپوهنیزه پیښه ده چې د ځمکې د بیلابیلو خوځښتونو لکه د ډبرو را ښویېدل او نور پکې شامل دي. زیاتره وخت د ځمکې د جاذبې قوه پدې پیښه کې وتلی رول لوبوي. خو په پورته یاده پیښه کې ددې سربیره یو بل عامل هم و چې په سیمه کې ېې د مخ ځوړ ځای په ښوی والي کې رول درلود: د ځمکې ښویېدنې د زلزلې یو وړوکي ټکان ته اړتیا درلوده ترڅو په خوځښت پیل وکړي.
+
+ [[File:St.Joseph'sSeminary Los Altos USGS.jpg|thumb|759 × 512 px|left|د دوه څنګ په څنګ ودانیو ټکر]]
+
+د ترڅنګ ودانۍ سره لګیدل. دغه انځور یوه پنځه پوړیزه ودانۍ چې د ترڅنګ ودانۍ سره د ټکر له امله زیانمنه شویده په ګوته شویده. دغه دوه برجونو د خپلو جلا او نا ورته اړخیزو خوځښتونو له کبله یو له بل ټکر کړیدی. د دوه څنګ په څنګ ودانیو ترمنځ باید په کافي اندازه واټن په پام کې ونیول شي ترڅو د ټکر مخه ونیول شي.
+
+
+[[File:Kaiser Permanente Building After Northridge Earthquake.jpg|thumb|1,200 × 801 px|right| د نارثریج په زلزله کې د ګاګرې څخه د جوړې ودانۍ د غوټو (joints) بشپړ ورانی]]
+
+د غوټو د بشپړې ورانۍ مانا داده چې ددغه ودانۍ د ستنې او تیر غوټو کې د اړتیا سره سم پولادی سیخان نه و ځای پر ځای شوي. 
+
+د ودانۍ په دا بل اړخ کې شیر وال چې خښتو څخه جوړ او د شارټکټ پوښ ورکړ شوی و- د اړخیز بار د زغملو پر مهال ېې پوښ ترې بیل شوی او دیوال چپه شویدی، ځکه چې د اړتیا وړ پولادي سیخان ېې نه 
+درلودل
 
 == Earthquake-Resistant construction ==
 '''Earthquake construction''' means implementation of '''seismic design''' to enable building and non-building structures to live through the anticipated earthquake exposure up to the expectations and in compliance with the applicable [[building code]]s.[[File:2009 03 03 Pearl River Tower.jpg|thumb|left|Construction of [[Pearl River Tower]] X-bracing to resist lateral forces of earthquakes and winds]]
