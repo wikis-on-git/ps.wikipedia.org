@@ -1,10 +1,10 @@
 {{د توکميزې ډلې مالوماتبکس
-|group        = تاجيکان<br/>(تاجیک {{unicode|Тоҷик}})
-| image = [[File:8 Famous Tajik.png|300px]]
+|group        = تاجيکان<br />(تاجیک {{unicode|Тоҷик}})
+| image = [[دوتنه:8 Famous Tajik.png|300px]]
 '''1<sup>st</sup> row: [[اسماعيل ساماني]] • [[رودکي]] • [[ابوريحان بيروني]] • [[ابن سينا بلخي]]<br />'''
 '''2<sup>nd</sup> row: [[محمد بن موسی خوارزمي|الخوارزمي]] • [[مولانا جلال الدين محمد بلخي|رومي]] • [[امام علي رحمانوف]] • [[حماسه کوهستاني]]<br />'''
 |poptime   =  '''21 تر 29 ميليونه'''
-|region1      = {{flagcountry|افغانستان}}<br/>{{spaces|8}}<small>(بېلابېل اټکلونه)
+|region1      = {{flagcountry|افغانستان}}<br />{{spaces|8}}<small>(بېلابېل اټکلونه)
 |pop1         = 11,000,000
 |ref1         = <ref name=CIA-af/>
 |region2      = {{flagcountry|تاجکستان}}
@@ -13,7 +13,7 @@
 <ref name=CIA-tj/>
 |region3      = {{flagcountry|ازبکستان}}
 |pop3         = 1,406,000
-|ref3         = <ref name=CIA-uz/><br/>{{lower|0.80em|<ref name=Foltz>Richard Foltz, "The Tajiks of Uzbekistan", ''Central Asian Survey'', 15(2), 213-216 (1996).</ref>}}
+|ref3         = <ref name=CIA-uz/><br />{{lower|0.80em|<ref name=Foltz>Richard Foltz, "The Tajiks of Uzbekistan", ''Central Asian Survey'', 15(2), 213-216 (1996).</ref>}}
 |region4      = {{flagcountry|پاکستان}}
 |pop4         = 1,200,000
 |ref4         = <ref>There are 1,200,000 Persian-speakers native to Pakistan and 220,000 Tajik war-refugees from Afghanistan remain in Pakistan. [http://www.ethnologue.com/show_country.asp?name=Pakistan Ethnologue.com's entry for ''Languages of Pakistan''].</ref>
@@ -40,8 +40,8 @@
 |region12   = {{flagcountry|کاناډا}}
 |pop12      = 15,870 
 |ref12      = <ref>This figure only includes Tajiks from Afghanistan. The population of people with descent from Afghanistan in Canada is 48,090 according to Canada's 2006 Census.. Tajiks make up an estimated 33% of the population of Afghanistan. The Tajik population in Canada is estimated form these two figures. [http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 Ethnic origins, 2006 counts, for Canada].</ref>
-|langs   = [[پاړسي ژبه|پاړسي]] <br/>{{smaller|''varieties of [[دري (پاړسي)|دري]] او [[تاجکي ژپه|تاجکي]]}}
-|rels    = [[اسلام]] (اکثرا [[سني]] ([[خنفي]]), له [[شيعه]] ([[دولس امامي]] او [[اسماعيليي|اسماعيليي]]) په اقليت)
+|langs   = [[پاړسي ژبه|پاړسي]] <br />{{smaller|''varieties of [[دري (پاړسي)|دري]] او [[تاجکي ژپه|تاجکي]]}}
+|rels    = [[اسلام]] (اکثرا [[سني]] ([[خنفي]]), له [[شيعه]] ([[دولس امامي]] او [[اسماعيليي]]) په اقليت)
 |related = [[پاړسيوانان]], [[ايرانيان]]
 }}
 
@@ -118,6 +118,7 @@
 [[el:Τατζίκοι]]
 [[en:Tajik people]]
 [[es:Tayikos]]
+[[et:Tadžikid]]
 [[eu:Tajik etnia]]
 [[fa:تاجیک‌ها]]
 [[fi:Tadžikit]]
