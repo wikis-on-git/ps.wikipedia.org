@@ -1,0 +1,9 @@
+{{ورځ}}
+'''د افغانستان وخت''' (4.5+UTC)، 
+
+ګړيال: {{#time:G:i|now +4 hours+30 minutes}}
+
+ورخ: {{#ifeq:{{{پیوند|<noinclude>بله</noinclude>}}}|بله|{{#time:[[xij xiF|xij]] [[xiF  (مياشت)|xiF]] [[xiY لمريز|xiY ل]]}}|{{#time:xij xiF xiY}}}}
+
+[[وېشنيزه:وخت]]
+[[وېشنيزه:افغانستان]]
