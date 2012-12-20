@@ -3,7 +3,7 @@
 
 ګړيال: {{#time:G:i|now +4 hours+30 minutes}}
 
-ورخ: {{#ifeq:{{{پیوند|<noinclude>بله</noinclude>}}}|بله|{{#time:[[xij xiF|xij]] [[xiF  (مياشت)|xiF]] [[xiY لمريز|xiY ل]]}}|{{#time:xij xiF xiY}}}}
+ورخ: [[{{لمريز ورځ}} {{#time:xiF}}]] {{#time:[[xiY لمريز]]}}
 
 [[وېشنيزه:وخت]]
 [[وېشنيزه:افغانستان]]
