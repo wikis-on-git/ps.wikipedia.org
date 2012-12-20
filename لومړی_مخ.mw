@@ -36,6 +36,7 @@
 *********************************************************
 <inputbox>
 type=create
+width=65
 buttonlabel= نوې ليکنه ورګډول
 break=no
 </inputbox>
