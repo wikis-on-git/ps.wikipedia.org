@@ -111,8 +111,6 @@
 د ويکيپېډيا چلېدنه په [[ميډياويکي]] پورې اړه لري، ميډياويکي يو وړيا او د پرانيستې سرچينې د ويکي يو ساوتری دی چې په [[PHP]] کې ليکل شوی او په [[MySQL]] ډاټابېز باندې جوړ شوی دی. په همدغه ساوتری کې د ماکرو ژبې، د بېلابېلو واريابلونو، د کينډيو د ټرانسکلوژن د غونډال، د URL د بياسيخولو پروګرامي توکي سره راغونډشوي. ميډياويکي د جي ان يو (جنېرل پبلک لايسنس) د منښتليک له مخې د کارونکو مخ ته پروت ساوتری دی چې د ويکيپېډيا په ټولو پروژو کې او همدا شان د نورو ويکي ګانو په ګڼو پروژو هم کارېږي. په پيل کې ويکيپېډيا په [[UseModWiki]] چې په [[پېرل]] کې د کلېفورډ اډمز (I پړاو) لخوا ليکل شوی ؤ چلېده , 
 [[دوتنه:Wikimedia-servers-2006-05-09.svg|thumb|right|د غونډال د جوړښت يو منظر، د ۲۰۰۶ کال د می مياشت [[:meta:Server layout diagrams|په مېټاويکي کې د پالنګر د څېرو نخشه]].]]
 
-Wikipedia currently runs on dedicated [[computer cluster|clusters]] of [[Linux|GNU/Linux]] servers, 300 in [[Florida]], 26 in [[Amsterdam]] and 23 in Yahoo!'s Korean hosting facility in [[Seoul]].<ref name="servers">{{cite web|url=http://meta.wikimedia.org/wiki/Wikimedia_servers|title=Wikimedia servers at wikimedia.org|accessdate=2008-02-16}}</ref> Wikipedia employed a single server until 2004, when the server setup was expanded into a distributed [[multitier architecture]]. In January 2005, the project ran on 39 [[Dedicated hosting service|dedicated servers]] located in Florida. This configuration included a single master [[database server]] running [[MySQL]], multiple slave database servers, 21 [[web server]]s running the [[Apache HTTP Server]], and seven [[Squid cache]] servers.
-
 == په نورو ژبو ==
 {{see also|د ويکيپېډياګانو لړليک}}
 [[Image:English Wikipedia contributors by country.svg|thumb|د ۲۰۰۶ کال د سېپتمبر د احصايې له مخې د انګرېزي وېکيپېډيا د ونډه والو د ونډو ګراف<ref>{{cite web
