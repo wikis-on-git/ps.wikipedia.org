@@ -3,6 +3,105 @@
 د AML نښې نښانې د هډمغز د نورماله حالت د بدلېدلو په سبب راولاړېږي. په بله وينا په هډمغز کې د ليوکېميک ژونکو د حد څخه ډېره وده او خپرېدا د وينې د سرو توکو، سپينو توکو  اود پلېټلېټونو د نورمالې کچې څخه د ټيټېدو سبب ګرځي. د دغې ناروغۍ په نښو نښانو کې ستړيا، سالنډي، په آسانۍ د بدن شين کېدل او وينې بهېدل او په انتاني ناروغيو ژر اخته کېدل د پاموړ نښې او د خطر عاملين ګڼل کېږي. د کروموزومونو غيرنورمالتياوې او د خطر ډېر داسې عاملين پېژندل شوي چې دا ناروغي پېښوي، خو ځانګړی سبب يې لا نه دی روښانه پېژندل شوی. د حاد ليوکېمي په ډول، AML په چټکۍ سره وده کوي او که چېرته سمه او پر وخت درملنه يې و نه شي، نو په اونۍ او مياشتو کې مرګونې تمامېدلی شي.
 
 AML بېلابېل څېرمه ډولونه لري؛ او درملنه او وړاندوينه يې د بېلابېلو ډولونو له مخې له يو بل سره توپير لري. پينځه کلن پايښت په کې له 15–70% پېښو کې  او د بابېړون کچه هم په کې له 33–78% پورې ده, البته دا ټول د ناروغۍ په څېرمه ډول پورې اړه لري. په لومړي سر کې AML د [[کيميادرملنه|کيميادرملنې]] له مخې درملنه کېږي چې موخه په کې د اعراضو او علايمو کمېدنه او له مېنځه وړل دي. ناروغ ته اضافي کيميادرملنه او يا د هډمغز ټرانسپلانټ هم کېدای شي چې غوره درملنه کې وګڼل شي.  د حاد مايلوييډ ليوکېمي اړونده  جنېټيکي تازه څېړنو په پايله کې دا څرګنده شوې چې د يو ځانګړي ناروغ لپاره د کومو درملو درملنه اغېزمنه ده، همداراز دا څېړنه دا په ډاګه کوي چې د يوه ناروغ پايښت (ژوندی پاتې کېدل) تر څومره مودې پورې رسېدی شي.
+==ډلبندي==
+The two most commonly used classification schemata for AML are the older French-American-British (FAB) system and the newer [[World Health Organization]] (WHO) system.
+
+===روغتيا نړېوال تنظيم===
+The [[World Health Organization]] (WHO) classification of acute myeloid leukemia attempts to be more clinically useful and to produce more meaningful prognostic information than the FAB criteria. Each of the WHO categories contains numerous descriptive subcategories of interest to the [[hematopathologist]] and [[oncologist]]; however, most of the clinically significant information in the WHO schema is communicated via categorization into one of the subtypes listed below.
+
+The WHO subtypes of AML are:<ref name=Vardiman/>
+
+{| class="wikitable"
+|-
+! نوم
+! څرګندونې
+! [[ICD-O]]
+|-
+| '''Acute myeloid leukemia with recurrent genetic abnormalities'''
+| Includes:
+
+* AML with translocations between [[chromosome 8]] and 21 &#91;t(8;21)&#93; (ICD-O 9896/3); [[RUNX1]]/[[RUNX1T1]]
+* AML with inversions in [[chromosome 16]] &#91;inv(16)&#93; (ICD-O 9871/3); [[CBFB]]/[[MYH11]]
+* APL with translocations between [[chromosome 15]] and 17 &#91;t(15;17)&#93; (ICD-O 9866/3); [[Retinoic acid receptor alpha|RARA]];[[Promyelocytic leukemia protein|PML]]
+* AML with translocations in chromosomes 9 and 11 [t(9;11)]; MLLT3-MLL
+
+Patients with AML in this category generally have a high rate of remission and a better prognosis compared to other types of AML.
+| Multiple
+|-
+| '''AML with multilineage dysplasia'''
+| This category includes patients who have had a prior [[myelodysplastic syndrome]] (MDS) or [[myeloproliferative disease]] (MPD) that transforms into AML. This category of AML occurs most often in elderly patients and often has a worse prognosis.
+| {{ICDO|9895|3}}
+|-
+| '''AML and MDS, therapy-related'''
+| This category includes patients who have had prior chemotherapy and/or radiation and subsequently develop AML or MDS. These leukemias may be characterized by specific chromosomal abnormalities, and often carry a worse prognosis.
+| {{ICDO|9920|3}}
+|-
+| '''AML not otherwise categorized'''
+| Includes subtypes of AML that do not fall into the above categories.
+| {{ICDO|9861|3}}
+|}
+
+Acute leukemias of ambiguous lineage (also known as mixed phenotype or [[biphenotypic acute leukemia]]) occur when the leukemic cells can not be classified as either myeloid or lymphoid cells, or where both types of cells are present.
+
+===فرانسوي-امريکايي-برتانيوي===
+The [[French-American-British classification|French-American-British (FAB) classification]] system divides AML into eight subtypes, M0 through to M7, based on the type of cell from which the leukemia developed and its degree of maturity. This is done by examining the appearance of the [[Malignant|malignant cells]] with [[light microscopy]] and/or by using [[cytogenetics]] to characterize any underlying chromosomal abnormalities. The subtypes have varying prognoses and responses to therapy. Although the WHO classification (see above) may be more useful, the FAB system is still widely used.
+
+Eight FAB subtypes were proposed in 1976.<ref>{{cite journal | author = Bennett J, Catovsky D, Daniel M, Flandrin G, Galton D, Gralnick H, Sultan C | title = Proposals for the classification of the acute leukaemias. French-American-British (FAB) co-operative group | journal = Br J Haematol | volume = 33 | issue = 4 | pages = 451–8 | year = 1976 | pmid = 188440 | doi = 10.1111/j.1365-2141.1976.tb03563.x}}</ref>
+
+{| class="wikitable"
+|-
+! ډول
+! نوم
+! سايټوجېنېټېکس
+! په بالغانو کې د AML سلنه
+|-
+| M0 
+| [[minimally differentiated acute myeloblastic leukemia]]
+|  
+| 5%<ref name=medscape>{{Cite web  | last1 = Seiter | first1 = Karen | last2 = Jules | first2 = E Harris | title = Acute Myeloid Leukemia Staging | url = http://emedicine.medscape.com/article/2006750-overview | publisher =  | date = May 20, 2011 | accessdate = 26 August 2011 }}</ref>
+|-
+| M1
+| [[acute myeloblastic leukemia, without maturation]]
+|
+| 15%<ref name=medscape/>
+|-
+| M2 
+| [[acute myeloblastic leukemia, with granulocytic maturation]]
+| t(8;21)(q22;q22), t(6;9)
+| 25%<ref name=medscape/>
+|-
+| M3 
+| promyelocytic, or [[acute promyelocytic leukemia]] (APL)
+| t(15;17)
+| 10%<ref name=medscape/>
+|-
+| M4
+| [[acute myelomonocytic leukemia]]
+| inv(16)(p13q22), del(16q)
+| 20%<ref name=medscape/>
+|-
+| M4eo
+| myelomonocytic together with bone marrow [[eosinophil]]ia
+| inv(16), t(16;16)
+| 5%<ref name=medscape/>
+|-
+| M5 
+| [[acute monoblastic leukemia]] (M5a) or [[acute monocytic leukemia]] (M5b)
+| del (11q), t(9;11), t(11;19)
+| 10%<ref name=medscape/>
+|-
+| M6 
+| [[acute erythroid leukemia]]s, including erythroleukemia (M6a) and very rare pure erythroid leukemia (M6b)
+| 
+| 5%<ref name=medscape/>
+|-
+| M7 
+| [[acute megakaryoblastic leukemia]]
+| t(1;22)
+| 5%<ref name=medscape/>
+|}
+
+The morphologic subtypes of AML also include rare types not included in the FAB system, such as [[acute basophilic leukemia]], which was proposed as a ninth subtype, M8, in 1999.<ref>{{cite journal| pmid=10037024 |author=Duchayne E, Demur C, Rubie H, Robert A, Dastugue N| title=Diagnosis of acute basophilic leukemia|journal=Leuk Lymphoma|year=1999 |volume=32|pages=269–78| issue=3–4| doi=10.3109/10428199909167387}}</ref>
 
 
 
