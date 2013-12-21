@@ -1,34 +1,69 @@
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-|- style="background-color:orange;"
-! colspan="2" |RPG-29<br />آر پي جي - ۲۹<br />РПГ-29
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:RPG-29 USGov.JPG|350px]] <br />
-|-
-! align="right" valign="top" |وسله
-|راکت لانچر
-|-
-! align="right" valign="top" |هېواد
-|[[File:Flag of Russia.svg|20px]] <br />[[روسیه]] بالزاټ (تولیدونکی)
-|-
-! align="right" valign="top" |وزن
-|۱۸،۸ کیلوگرامو
-|-
-! align="right" valign="top" |اوږدوالی
-|۱۸۵۰ م.م.
-|-
-! align="right" valign="top" |کالبر
-|۱۰۵ م.م.
-|-
-! align="right" valign="top" |واټن ویشتونکی
-|۵۰۰ مترو
-|}
+{{وسله مالوماتبکس
+|name= RPG-29
+|image= [[Image:RPG-29 USGov.JPG|300px]]
+|caption= RPG-29 launcher with PG-29V rocket
+|origin= [[Soviet Union]] <!-- WP:INFOBOXFLAG -->
+|type= [[Rocket-propelled grenade]]
+<!-- Type selection -->
+|is_ranged=yes
+|is_bladed=
+|is_explosive=
+|is_artillery=
+|is_vehicle=
+|is_missile=yes
+<!-- Service history -->
+|service= 1989–present
+|used_by= [[Russia]], [[Mexico]], [[Hezbollah]], [[Ukraine]], [[Syria]], [[Pakistan]]
+|wars= [[2006 Lebanon War]], [[Syrian civil war]]
+<!-- Production history -->
+|designer= 
+|design_date=
+|manufacturer= [[Bazalt]], [[SEDENA]]
+|production_date=
+|number= 
+|variants= 
+<!-- General specifications -->
+|weight= {{convert|12.1|kg|abbr=on}} unloaded (with optical sight)<br> {{convert|18.8|kg|abbr=on}} loaded (ready to fire)
+|length= {{convert|1|m|abbr=on}} (disassembled for transportation)<br>{{convert|1.85|m|abbr=on}} (ready to fire)
+|part_length= 
+|crew= 
+<!-- Ranged weapon specifications -->
+|cartridge= PG-29V tandem rocket<br>TBG-29V thermobaric rounds
+|caliber= {{convert|105|mm|abbr=on}} barrel<br> {{convert|65|and|105|mm|abbr=on}} warheads
+|action=
+|rate of fire=2rpm
+|velocity= {{convert|280|m/s|abbr=on}}
+|range= {{convert|500|m|abbr=on}}<br>{{convert|800|m|abbr=on}} (with tripod and fire control unit)<ref name=weapon>{{cite book |title=Russian Close Combat Weapon |language=English |pages=444–447 |year=2010 |publisher=Association "Defense Enterprises Assistance League" |location=Moscow |isbn=978-5-904540-04-3}}</ref>
+
+|max_range= 
+|feed= 
+|sights= Iron, optical, and night sights available with ranges up to {{convert|450|m|abbr=on}}; automated day and day-night sights with laser rangefinder<ref name=weapon/>
+<!-- Artillery specifications -->
+|breech=
+|recoil=
+|carriage=
+|elevation=
+|traverse=
+<!-- Bladed weapon specifications -->
+|blade_type=
+|hilt_type=
+|head_type=
+|haft_type=
+<!-- Explosive specifications -->
+|diameter=
+|filling=
+|filling_weight=
+|detonation=
+|yield={{convert|750|mm|abbr=on}}: [[Rolled homogeneous armor|RHA]] ({{convert|600|mm|abbr=on}} after [[reactive armor]] effects)<br>{{convert|1500|mm|abbr=on}}: [[Reinforced concrete]] or brick<br>{{convert|3700|mm|abbr=on}}: Log and earth fortification
+}}
 '''آر پي جي – ۲۹''' ([[روسي ژبه|په روسي]]:''РПГ-29 Вампир'' ) د ټانک ماتونکي روسي راکټي لانچر دی چی د ټانکونو او نورو زره پوښو اهدافو د منځه وړولو لپاره ورڅخه کار اخیستل کېږي. دغه وسله کولای سی د ټانک ځانگړي زره پوښ چې د اېړا (ERA) په نوم یادېږي ویجاړ کړي. د آر پي جي راکټ لانچر په ۸۰ کلو کې په شوروي اتحاد کې د بالزاټ (Базальт) د طراحي شرکت لخوا جوړ شو. روسي پوځ په ۱۹۸۹ کال کې د دغې وسلې څخه په رسمي ډول کار واخیست. په اوس وخت کې دغه وسله د  [[روسیه|روسیې]]، [[اوکراین|اوکراین]]، [[ایران]] او [[سوریه|سوریې]] د پوځونو په جگړیزو تجهیزاتو کې شامله ده. مگر یو څو نیمه پوځي ډلې لکه  [[د حزب الله اسلامی غورځنګ|حزب الله]]، [[د مهدي پوځ]] او داسې نور هم د آر پي جي – ۲۹  وسله په واک کې لري.
 == د آر پي جي – ۲۹ مردک ==
 د آر پي جي – ۲۹  زره سوری کوونکی وسله ده چی د اوږې څخه د هدف په لور توغېږی. وزن یی ۱۸،۸ کیلوگرام دی او د مرمۍ کلیبر یې ۱۰۵ م.م. دی. دغه وسله ۵۰۰ متره واټن وهلی شي. د آر پي جي – ۲۹ مردک کولای شي د ۷۵۰ م.م. تر پلن زره پوښ یا د ۱۵۰۰ م.م. پورې پلن دیوال ویجاړ کړي. دغه وسله د [[عراق]] په تور بارار کې هم خرڅېږي. قیمت یی تقریبًا ۵۰۰ ډالړه ده او د آر پي جي – ۲۹ وسله د یو مردک قیمت ۳۰۰ ډالرو ته رسېږي. د [[عراق]] مخالفینو د عراقي جگړې په وخت کې (۲۰۰۳ – ۲۰۱۱) د هغو وسلو په مرسته ۷۰ امریکایي ټانکونه ویجاړ کړل او د [[د لبنان جګړه ۲۰۰۶|لبنان د جگړې]] په وخت کې (۲۰۰۶) د [[د حزب الله اسلامی غورځنګ|حزب الله]] ځواکونو ۲۰ [[اسرائیل|اسرائیلی]] ټانکونه ویجاړ کړل.
 ==امریکايي تانکونه==
 [[د امریکا متحده ایالات|امریکا]] د [[عراق]] په جکړې کې په ځانگړي ډول د [[ام۱ آبرامس]] ټانکونه کارول. دغه ټانکونه قوي زره پوښ لري چې د یورانیوم څخه جوړ شوي دي. دغه یورانیمی زره پوښ په ځانگړي ډول د ټانک پر برج  او د مخ پر برخې باندی پروت دی. مګر د ټانک پر اړخیزو ځایونو باندی یوازې کمزوری زره پوښ شته چی  ۱۵۰ م.م. پلن دی.  د دې په سبب دغه ټانک د اړخ لخوا حملې په مرسته ویجاړ کېدلای شي. د [[عراق|عراقي]] سرچینو له مخې دغه ټانک د [[آر پي جي-۷|آر بي جي – ۷]] د اوو مردکو په مرسته یا د آر پي جي – ۲۹ د دوو مردکو په مرسته ویجاړېدلی شي.
 
-
+== سرچينې ==
+{{Reflist}}
 
 
 
