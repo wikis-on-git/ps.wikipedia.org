@@ -1,9 +1,9 @@
 {{وسله مالوماتبکس
-|name= RPG-29
-|image= [[Image:RPG-29 USGov.JPG|300px]]
-|caption= RPG-29 launcher with PG-29V rocket
-|origin= [[Soviet Union]] <!-- WP:INFOBOXFLAG -->
-|type= [[Rocket-propelled grenade]]
+|نوم= RPG-29
+|انځور= [[انځور:RPG-29 USGov.JPG|300px]]
+|caption= RPG-29 غورځونکی د PG-29V راکټ سره
+|origin= [[سوسياليستي روسيه]] <!-- WP:INFOBOXFLAG -->
+|ډول= [[راکټ غورځونکی بم]]
 <!-- Type selection -->
 |is_ranged=yes
 |is_bladed=
@@ -11,19 +11,18 @@
 |is_artillery=
 |is_vehicle=
 |is_missile=yes
-<!-- Service history -->
+<!-- د خدمت تاريخ -->
 |service= 1989–present
-|used_by= [[Russia]], [[Mexico]], [[Hezbollah]], [[Ukraine]], [[Syria]], [[Pakistan]]
-|wars= [[2006 Lebanon War]], [[Syrian civil war]]
-<!-- Production history -->
-|designer= 
+|used_by= [[روسيه]], [[مېکسيکو]], [[حزب الله]], [[يوکراين]], [[سوريه]], [[پاکستان]]
+|جگړې= [[2006 لېبنان جگړه]], [[د سوريې کورنۍ جگړه]]
+<!-- د توليد تاريخ -->
+|سکښتگر= 
 |design_date=
 |manufacturer= [[Bazalt]], [[SEDENA]]
 |production_date=
 |number= 
 |variants= 
 <!-- General specifications -->
-|weight= {{convert|12.1|kg|abbr=on}} unloaded (with optical sight)<br> {{convert|18.8|kg|abbr=on}} loaded (ready to fire)
 |length= {{convert|1|m|abbr=on}} (disassembled for transportation)<br>{{convert|1.85|m|abbr=on}} (ready to fire)
 |part_length= 
 |crew= 
@@ -37,7 +36,7 @@
 
 |max_range= 
 |feed= 
-|sights= Iron, optical, and night sights available with ranges up to {{convert|450|m|abbr=on}}; automated day and day-night sights with laser rangefinder<ref name=weapon/>
+|sights= وسپنه، اوپټيکال او د شپې ليد آسانتياوې تر <br> {{convert|450|m|abbr=on}} پورې; د شپې او ورځې اتوماتيک ليد د لېزر حد موندونکي سره<ref name=weapon/>
 <!-- Artillery specifications -->
 |breech=
 |recoil=
@@ -54,7 +53,7 @@
 |filling=
 |filling_weight=
 |detonation=
-|yield={{convert|750|mm|abbr=on}}: [[Rolled homogeneous armor|RHA]] ({{convert|600|mm|abbr=on}} after [[reactive armor]] effects)<br>{{convert|1500|mm|abbr=on}}: [[Reinforced concrete]] or brick<br>{{convert|3700|mm|abbr=on}}: Log and earth fortification
+|yield={{convert|750|mm|abbr=on}}: [[Rolled homogeneous armor|RHA]] ({{convert|600|mm|abbr=on}} وروسته [[reactive armor]] effects)<br>{{convert|1500|mm|abbr=on}}: [[Reinforced concrete]] or brick<br>{{convert|3700|mm|abbr=on}}: Log and earth fortification
 }}
 '''آر پي جي – ۲۹''' ([[روسي ژبه|په روسي]]:''РПГ-29 Вампир'' ) د ټانک ماتونکي روسي راکټي لانچر دی چی د ټانکونو او نورو زره پوښو اهدافو د منځه وړولو لپاره ورڅخه کار اخیستل کېږي. دغه وسله کولای سی د ټانک ځانگړي زره پوښ چې د اېړا (ERA) په نوم یادېږي ویجاړ کړي. د آر پي جي راکټ لانچر په ۸۰ کلو کې په شوروي اتحاد کې د بالزاټ (Базальт) د طراحي شرکت لخوا جوړ شو. روسي پوځ په ۱۹۸۹ کال کې د دغې وسلې څخه په رسمي ډول کار واخیست. په اوس وخت کې دغه وسله د  [[روسیه|روسیې]]، [[اوکراین|اوکراین]]، [[ایران]] او [[سوریه|سوریې]] د پوځونو په جگړیزو تجهیزاتو کې شامله ده. مگر یو څو نیمه پوځي ډلې لکه  [[د حزب الله اسلامی غورځنګ|حزب الله]]، [[د مهدي پوځ]] او داسې نور هم د آر پي جي – ۲۹  وسله په واک کې لري.
 == د آر پي جي – ۲۹ مردک ==
