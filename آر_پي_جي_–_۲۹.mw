@@ -2,7 +2,7 @@
 |نوم= RPG-29
 |انځور= [[انځور:RPG-29 USGov.JPG|300px]]
 |caption= RPG-29 غورځونکی د PG-29V راکټ سره
-|origin= [[سوسياليستي روسيه]] <!-- WP:INFOBOXFLAG -->
+|آر= [[سوسياليستي روسيه]] <!-- WP:INFOBOXFLAG -->
 |ډول= [[راکټ غورځونکی بم]]
 <!-- Type selection -->
 |is_ranged=yes
@@ -12,8 +12,8 @@
 |is_vehicle=
 |is_missile=yes
 <!-- د خدمت تاريخ -->
-|service= 1989–present
-|used_by= [[روسيه]], [[مېکسيکو]], [[حزب الله]], [[يوکراين]], [[سوريه]], [[پاکستان]]
+|خدمت=له 1989–تر اوسه
+|used_by= [[روسيه]], [[مېکسيکو]], [[حزب الله]]<br>[[يوکراين]], [[سوريه]], [[پاکستان]]
 |جگړې= [[2006 لېبنان جگړه]], [[د سوريې کورنۍ جگړه]]
 <!-- د توليد تاريخ -->
 |سکښتگر= 
@@ -23,7 +23,7 @@
 |number= 
 |variants= 
 <!-- General specifications -->
-|length= {{convert|1|m|abbr=on}} (disassembled for transportation)<br>{{convert|1.85|m|abbr=on}} (ready to fire)
+|اوږدوالی= {{convert|1|m|abbr=on}} (disassembled for transportation)<br>{{convert|1.85|m|abbr=on}} (ready to fire)
 |part_length= 
 |crew= 
 <!-- Ranged weapon specifications -->
