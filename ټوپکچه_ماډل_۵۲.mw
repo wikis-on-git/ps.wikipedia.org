@@ -1,31 +1,38 @@
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-|- style="background-color:lightblue;"
-! colspan="2" |تومانچه ماډل ۵۲ <br />Pistole vz 52<br />
-|-
-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|<br />[[File:CZ52-slide-open-left.JPG|300px]]
-|-
-! align="right" valign="top" |هېواد
-|[[File:Flag of Czechoslovakia.svg|20px]] چکوسلواکیا
-|-
-! align="right" valign="top" |جوړونکی
-|Česká zbrojovka Uherský Brod
-|-
-! align="right" valign="top" |وزن
-|۹۵۰ گرامه
-|-
-! align="right" valign="top" |اوږدوالى
-|۲۰۹ م.م.
-|-
-! align="right" valign="top" |د برل اوږدوالی
-|۱۲۰ م.م.
-|-
-! align="right" valign="top" |کارتوس
-|  9x19 Parabellum /40 S&W<br />7,62x25 mm Tokarev
-|-
-|}
-
+{{وسله مالوماتبکس
+|name=CZ 52
+|image=[[Image:CZ_52_pistol.jpg|300px]] 
+|caption=CZ 52 pistol
+|origin=چکوسلواکیا
+|type=نیمه خپلکار تومانچه
+<!-- Type selection -->
+|is_ranged=yes
+<!-- Service history -->
+|service=۱۹۵۲- ۱۹۸۲ (چکوسلواکیا)
+|used_by=چکوسلواکيا
+|wars=
+<!-- Production history -->
+|designer=Jan and Jaroslav Kratochvíl
+|design_date=۱۹۵۲
+|manufacturer=
+|production_date=
+|number=Approx. ۲۰۰،۰۰۰
+|variants=
+<!-- General specifications -->
+|weight={{convert|0.95|kg|lb|2|abbr=on}}
+|length={{convert|210|mm|in|abbr=on}}
+|part_length={{convert|120|mm|abbr=on|1}}
+|crew=
+<!-- Ranged weapon specifications -->
+|cartridge=[[7.62×25mm Tokarev]]
+|caliber=
+|action=[[Recoil operation|Recoil operated, roller locked]]
+|rate=
+|velocity={{convert|500|m/s|0|abbr=on}}
+|range=50 m
+|max_range=
+|feed=8-round detachable box [[Magazine (firearm)|magazine]]
+|sights=Rear: notched and dovetailed<br/>front: fixed blade
+}}
 '''تومانچه مادل ۵۲''' (په [[چيکی ژبه|چېکي ژبې]] کې: '''Pistole vz 52''' ) یوه نیمه خپل کاري (اټو ماټيک) تومانچه ده چی د چکوسلواکیا په جمهوریت کی په ۱۹۵۲ کال کی طرح او جوړه شوه. دغه تومانچه د ۱۹۵۲ کال څخه تر ۱۹۸۲ کال پورې جوړېده. 
 تومانچه ماډل ۵۲ د چکوسلواکیا د پوځ لپاره جوړه شوه او د چکوسلواک پوځ د دغی تومانچې څخه د ۱۹۵۳ کال څخه تر ۱۹۸۵ پورې کار واخیست. خو په اوس وخت کی [[د چېک پوځ]] د تومانچې څو مادلونه لري. 
 ==توصیف==
