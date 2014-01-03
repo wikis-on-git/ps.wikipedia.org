@@ -1,27 +1,38 @@
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-
-|- style="background-color:lightblue;"
-! colspan="2" |د ټوپک مادل۵۷<br />Samopal vzor 58<br />
-|-
-|- id=infObrazek
-|style="text-align:center;" colspan="2"|[[File:Sa 58-JH01.jpg|500px]]<br />
-|-
-! align="right" valign="top" |هېواد
-|[[File:Flag of the Czech Republic.svg|20px]]
-|-
-! align="right" valign="top" |جوړونکی
-|Česká zbrojovka Uherský Brod 
-|-
-! align="right" valign="top" |وزن
-|۲۹۱۰ ګرامه
-|-
-! align="right" valign="top" |د توپک اوړدوالی
-|۸۴۵ م.م.
-|-
-! align="right" valign="top" |د مرمی کالیبر
-| <br /> ۳۹×۷،۶۲ <br /> 
-|-
-|}
+{{وسله مالوماتبکس
+|name=vz. 58
+|image=[[File:Sa 58-JH01.jpg|300px]]
+|caption=ټوپک مادل ٥٨ (د  ثابت قنداغ سره)
+|origin= چکوسلواکیا
+|type=[[Assault rifle]]
+<!-- Type selection -->
+|is_ranged=yes
+<!-- Service history -->
+|service=1959–present
+|used_by= 
+|wars=
+<!-- Production history -->
+|designer=Jiří Čermák
+|design_date=1956–1958
+|manufacturer=[[Česká zbrojovka Uherský Brod|Česká zbrojovka]]
+|production_date=1959–1984
+|number=Approx. 920,000
+|variants=See ''[[#Variants|Variants]]''
+<!-- General specifications -->
+|weight={{convert|3.1|kg|lb|2.2|abbr=on}}
+|length=vz. 58 P: {{convert|845|mm|in|abbr=on}}<br /> vz. 58 V {{convert|845|mm|abbr=on|1}} stock extended / {{convert|636|mm|abbr=on|1}} stock folded<br /> {{convert|1000|mm|abbr=on|1}} with [[bayonet]] fixed
+|part_length={{convert|390|mm|abbr=on|1}}
+|width={{convert|57|mm|abbr=on|1}} stock extended<br /> {{convert|72|mm|abbr=on|1}} stock folded
+|height={{convert|255|mm|abbr=on|1}}
+<!-- Ranged weapon specifications -->
+|cartridge=[[7.62×39mm|7.62×39mm M43]]
+|action=[[Gas-operated reloading|Gas-operated]], falling [[breechblock]]
+|rate=600 rounds/min
+|velocity={{convert|705|m/s|0|abbr=on}}<br /> [[Muzzle energy]]: 1988 [[Joule|J]]
+|range=100–800 m sight adjustments
+|max_range=2,800 m
+|feed=Staggered 30-round detachable box [[magazine (firearm)|magazine]], weight {{convert|0.19|kg|abbr=on}} unloaded
+|sights=Open-type [[iron sight]]s with sliding rear tangent and shrouded front post<br /> {{convert|353|mm|abbr=on|1}} sight radius
+}}
 
 
 '''د ټوپک مادل۵۷''' ( [[چیکی ژبه|په چکی]]: ''Samopal vzor 58'') یو ډول د بریدکونکي اوټوماټیک ټوپک دی چی د چکوسلواکیا په جمهوریت کښې د ۱۹۵۸ کال څخه تر ۱۹۸۸ کال پورې جوړېده. په اوس وخت کې دغه برید کونکي ټوپک [[د چېک پوځ|د چېک]] او د [[سلواکيا|سلواک]] د پوځونو لخوا استعمالېږی. د ۲۰۱۰ کال څخه  د [[ چېک جمهوريت|چېک]] په [[چېک جمهوريت|جمهوریت]] کښې نوي عضری توپک چی  [[د چې زېټ ۸۰۵ برېن توپک|CZ-805]] په نوم یادېږی، جوړېږی. دغه نوي توپک په ځانگړي ډول په [[د افغانستان جګړه (۲۰۰۱)|افغانستان]] کې د [[د چېک پوځ|چېک]] د عسکرانو لخوا کار شوي دی.
