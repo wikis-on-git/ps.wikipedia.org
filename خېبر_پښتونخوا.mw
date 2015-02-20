@@ -1,35 +1,89 @@
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-|- style="background-color:lightblue;"
-! colspan="2" | '''خيبر پښتونخوا '''<br /> خيبر پختونخوا<br />
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:KP-Montage.jpg|200px]]<br />
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:Flag of Khyber Pakhtunkhwa.svg|100px]]
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:PakistanNorthWestFrontier.png|200px]]<br />
-|-
-! align="right" valign="top" |پلازمېنه
-|[[پېښور|پېښور]]
-|-
-! align="right" valign="top" |مساحت
-|۷۴،۵۲۱ کلومترو مربع
-|-
-! align="right" valign="top" |د وگړو شمېر
-|۲۰،۲۱۵،۰۰۰
-|-
-! align="right" valign="top" |ژبې
-| ژبه|[[پښتو]]<br />
-|-
-! align="right" valign="top" |توکم
-|[[پښتانه]]
-|-
-! align="right" valign="top" |دود ارز
-| کلدارې
-|-
-|}
+{{Infobox settlement
+| name          = خیبر پښتونخوا
+| previous official_name  = صوبه سرحد
+| native_name       =  
+| native_name_lang  = pus<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| type          = [[د پالستان صوبې|صوبه]]
+| image_skyline     = KP-Montage.jpg
+| image_alt         = KP
+| image_caption     = Counter-clockwise from top left:
+[[:File:Peshawar Museum.JPG|Peshawar Museum]],
+[[:File:Malam Jabba Ski Resort.jpg|Malam Jabba Ski Resort]],
+[[:File:Pakistan Khyber Pass IMG 9928.jpg|Khyber Pass]],
+[[:File:Swatvalley x 104.JPG|Swat Valley]],
+[[:File:Islamia College Peshawar.jpg|Islamia College, Peshawar]],
+[[:File:Saiful muluk during June.JPG|Lake Saif ul Muluk, Naran]]
+| image_flag       = Khyber Pakhtunkhwa flag.png
+| flag_alt        =
+| image_seal   = KP logo.png
+| nickname        =
+| image_map        = Khyber Pakhtunkhwa in Pakistan (claims hatched).svg
+| map_alt         =
+| map_caption       =
+| latd          = 34.00
+| longd          = 71.32
+| coor_pinpoint      =
+| coordinates_type    =
+| coordinates_display   = inline,title
+| coordinates_footnotes  =
+| subdivision_type    = [[هېواد]]
+| subdivision_name    = {{flag|پاکستان}}
+| subdivision_type1    =
+| subdivision_name1    =
+| parts_style       = para
+| parts_type       = ايالتي سرښار
+| p1           = پېښور
+| established_title    = جوړيدل
+| established_date    = 1 جولاي 1970
+| seat_type        = سرښار
+| seat          = [[پېښور]]
+| blank_name_sec1     = ژبې
+| blank_info_sec1     = {{unbulleted list|[[اوردو]] <small>(قامي)</small> |[[پښتو]] <small>(ايالتي)</small> | [[انگرېزي]] <small>(دفتري)</small>}}
+نورې وړې ژبې:<br />پشتو, [[هندکو]], [[کهوار]]
+| blank_name_sec2     = د صوبائي جرګې سيټونه
+| blank_info_sec2     = 124
+| blank1_name_sec2    = [[د پاکستان ولسوالۍ|ولسوالو شمېر]]
+| blank1_info_sec2    = 25<ref name="dawn.com">http://www.dawn.com/news/1080683</ref>
+| blank2_name_sec2    =  
+| blank2_info_sec2    =
+| blank3_name_sec2    = یونین کونسلونه
+| blank3_info_sec2    = 986
+| government_footnotes  =
+| government_type     = صوبه (ايالت)
+| governing_body     = صوبائي اسمبلي
+| leader_party      =
+| leader_title      = گورنر
+| leader_name       = [[سردار مهتاب عباسی]]
+| leader_title1      = وزیر اعلیٰ
+| leader_name1      = [[پرویز خټک]] ([[تحریک انصاف]]) 
+| leader_title2       = چیف سکټری
+| leader_name2   = امجد علی خان
+| leader_title4      = هائي کورټ
+| leader_name4      = [[پېښور هائي کورټ]]
+| unit_pref        = Metric<!-- or US or UK -->
+| area_footnotes     =
+| area_total_km2     = 
+| area_note        =
+| elevation_footnotes   =
+| elevation_m       =
+| population_footnotes  =
+| population_total    = 22000000
+| population_as_of    = 2012
+| population_density_km2 = auto
+| population_demonym   =
+| population_note     =http://www.khyberpakhtunkhwa.gov.pk/aboutus/
+| timezone1        =  پاکستان معیاری وخت 
+| utc_offset1       = +5
+| postal_code_type    =
+| postal_code       =
+| area_code_type     =
+| area_code        =
+| website         = [http://www.khyberpakhtunkhwa.gov.pk/ khyberpakhtunkhwa.gov.pk]
+| footnotes        =
+|iso_code=PK-KP
+}}
+
+
 
 '''خيبر پښتونخوا'''<ref name="rename">{{cite web|url=http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/07-senate-begins-voting-on-18th-amendment-ha-02|title=NWFP officially renamed as Khyber-Pakhtunkhwa |date=15 April 2010 |publisher=[[Dawn (newspaper)|Dawn.com]]|accessdate=15 April 2010}}</ref>, چې پخوا په رسمي ډول د'''شمال لوېديځ ايالت''' يا ''NWFP'' پاکستان په نوم پيژندل کيده. د [[پاکستان]] [[د پاکستان اداري ويشنه|د څلورو اياليتونو]] .<ref>[http://www.ipdf.gov.pk/tmpnew/DF_NWFP.php NWFP]</ref> صوبې څخه يوه وه. مرکز يې [[پېښور|پېښور]] و. اوس خيبر پښتونخوا د [[پاکستان]] لخوا آزاده خاوره ومنل شوه . دغه ايالت په شمال لويديځ کې له [[افغانستان]] سره، په شمال ختيځ کې له [[گلگت بلتستان]] سره په لويديځ کي له [[مرکزي قبايلي سيمې|مرکزي قبايلي سيمو]] سره، په جنوب کي له [[اسلام آباد]] او [[پنجاب (پاکستان)|پنجاب]] سره گډې پولې لري. د خيبر پښتونجوا په ايالات کي يو مهم دره پرته ده چي د [[د خيبر درہ|خيبر دره]] په توم يادېږي. د خيبر دره د [[پاکستان]] څخه د [[افغانستان]] سرحد ته رسېږي.   
 
