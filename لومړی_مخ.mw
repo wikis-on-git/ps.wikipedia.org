@@ -1,23 +1,16 @@
-{| style="width:100%; background-color:transparent;"
+{| style="width:100%; margin-bottom:2px; background: -moz-linear-gradient(top, #fff, whitesmoke); -moz-border-radius: 15px; -webkit-border-radius: 15px; border-radius:15px;"
+| class="globegris" style="background-repeat:no-repeat; background-position: 42em -2.5em; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |
+{| style="width:100%; margin-bottom:2px; vertical-align:top; font-size:95%; background:transparent;"
 |-
-| width="70%" style="vertical-align:top; border:1px solid #cedff2; background:#fff; padding:.5em;" colspan="2" |
-
-<div id="لومړی مخ"></div><!--
-------------------------------د مخ سردره------------------------------>
-{| style="width:100%; text-align:right; background:#fcfcfc; margin-top:+.9em; border:1px solid #cedff2;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;"
-|style="width:56%; color:#000"| <!--
-
-<!----------"ويکيپېډيا ته ښه راغلئ او د ليکنو شمېر---------->
-{| style="width:280px; border:solid 0px; background-color:transparent;"
-|style="width:280px; text-align:center; white-space:nowrap; color:#000;"|
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">[[پښتو ژبه|پښتو]] [[ويکيپېډيا]] ته ښه راغلئ</div>
-<div style="top:+0.2em; font-size:95%;">يو وړيا پوهنغونډ چې [[ويکيپېډيا:پېژندنه|هرڅوک&nbsp;يې&nbsp;سمولای]] او نوې ليکنې په کې خپرولای شي.</div>
-تر دې دمه [[Special:Statistics|{{NUMBEROFARTICLES}}]] ليکنې لري</div>
-دا وخت {{داوخت}}، {{دننۍورځې_نوم}}، {{نن۲}} د {{دروانې_مياشت_نوم}} {{سږکال}} ز. کال
-|}<!--
-
-<!----------تانبې ---------->
-|style="width:11%; font-size:95%; color:#000;"|
+| style="height:1em; padding-right:100px" |<div style="font-size:185%;"><imagemap>
+انځور:Pashtowikipediawelcom.png|400px|
+rect 1 1 247 97 [[ویکیپیډيا]]
+desc none
+</imagemap>
+</div>
+<div style="padding-right:0px;">يو وړيا پوهنغونډ چې هرڅوک يې [[ويکيپېډيا:پېژندنه|سمولای  شي]] او نوې ليکنې په کې خپرولای شي.</div>
+تر دې دمه '''[[ځانګړی:شمار|{{NUMBEROFARTICLES}}]]''' ليکنې لري'''
+| colspan="2" style="font-size:110%;width:18%;"|
 *[[تانبه:فلسفه|فلسفه]]
 *[[تانبه:هنرونه|هنرونه]]
 *[[تانبه:ژوندليکونه|ژوندليکونه]]
@@ -32,33 +25,35 @@
 *[[تانبه:تخنيک|تخنيک]]
 *'''[[تانبه:مېنځپانگه/تانبې|ټولې&nbsp;تانبې]]'''
 |}
-</center>
+{| style="width:100%; background-color:transparent;"
+|-
+| width="100%" style="vertical-align:top;" |
+<!----------------------- د مخ سردره ----------------------->
+{| style="width:100%; text-align:right; background:#fcfcfc; margin-top:+.9em; border:1px solid #cedff2;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;"
+|style="width:56%; color:#000"| <!--
+
+<!----------"ويکيپېډيا ته ښه راغلئ او د ليکنو شمېر---------->
+
 *********************************************************
 <inputbox>
 type=create
-width=65
+width=70
 buttonlabel= نوې ليکنه ورگډول
 break=no
 </inputbox>
 *********************************************************
-{{__ليکلړ__}}
-|-<!-----------------------د ويکيپېډيا مېنځپانگه ------------------------>
-{|width="99%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:transparent;"
-! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #cedff2;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px; text-align:center; padding:0.2em 0.4em;">مېنځپانگه</h2>
+{|width="100%";"
+! <h2 style="background:#cedff2; text-align:center;">مېنځپانگه</h2>
 |-
-| {{د ويکيپېډيا مېنځپانگه}}
-|-
-|}
+| {{__ليکلړ__}}{{د ويکيپېډيا مېنځپانگه}}
+|-}
 <!--------------------------------د نن ورځې مستند انځور------------------------------->
-{| style="border-spacing:8px; margin:-8px -8px;"
-|class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;"|
-{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#faf5ff; color:#000"
-! <h2 style="margin:0; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px; text-align:right; color:#000; padding:0.2em 0.4em;">د نن ورځې مستند انځور</h2>
+{| cellpadding="2" style="vertical-align:top; background:#faf5ff; color:#000"
+! <h2 style="margin:0; background:#ddcef2; -moz-border-radius:4px; border-radius: 4px; text-align:right;">د نن ورځې مستند انځور</h2>
 |-
 |-
 |}
 |}
-
 {{ويکيپېډيا:لومړی مخ/سرليک|د ويکي مېډيا نورې پروژې}}
 {{ويکيپېډيا:لومړی مخ/نورې پروژې}}
 {{ويکيپېډيا:لومړی مخ/سرليک|د ويکيپېډيا نورې ژبې}}
