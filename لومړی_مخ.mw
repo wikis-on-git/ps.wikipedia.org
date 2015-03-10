@@ -42,11 +42,24 @@ buttonlabel= نوې ليکنه ورگډول
 break=no
 </inputbox>
 *********************************************************
+<!-- خبرونه او ټاکلې ليکنه-->
+{{په خبرونو کې}}
+{{ټاکلې ليکنه}}
+**********************************************************
 {|width="100%";"
 ! <h2 style="background:#cedff2; text-align:center;">مېنځپانگه</h2>
 |-
 | {{__ليکلړ__}}{{د ويکيپېډيا مېنځپانگه}}
 |-}
+<!--------------------------------خبرونه او ټاکلې دوتنه------------------------------->
+{| cellpadding="2" style="vertical-align:top; background:#faf5ff; color:#000"
+! <h2 style="margin:0; background:#ddcef2; -moz-border-radius:4px; border-radius: 4px; text-align:right;"></h2>
+{{په خبرونو کې}}
+{{ټاکلې ليکنه}}
+|-
+|-
+|}
+|}
 <!--------------------------------د نن ورځې مستند انځور------------------------------->
 {| cellpadding="2" style="vertical-align:top; background:#faf5ff; color:#000"
 ! <h2 style="margin:0; background:#ddcef2; -moz-border-radius:4px; border-radius: 4px; text-align:right;">د نن ورځې مستند انځور</h2>
