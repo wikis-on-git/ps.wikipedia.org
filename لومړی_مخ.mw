@@ -71,8 +71,8 @@ break=no
     <div style="padding: 0 0.5em;">{{ويکيپېډيا:لومړی مخ/نورې پروژې}}</div>
   </div>
   <!-- نورې ژبې -->
-  <div id="mp-ol">{{لومړی مخ/سرليک|title = ويکيپېډيا په نورو ژبو کې|image = Wikipedia's_W.svg}}
-    <div style="padding: 0 0.5em;">{{ويکيپېډيا په نورو ژبو کې}}</div>
+  <div id="mp-ol">{{لومړی مخ/سرليک|title = د ويکيپېډيا نورې ژبې|image = Wikipedia's_W.svg}}
+    <div style="padding: 0 0.5em;">{{د ويکيپېډيا نورې ژبې}}</div>
   </div>
 </div> __NOTOC__ __NOEDITSECTION__
 
