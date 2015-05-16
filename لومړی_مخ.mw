@@ -93,7 +93,7 @@ break=no
 | link = [https://ps.wikipedia.org/w/index.php?title=لومړی_مخ&action=purge بل انځور کتل]
 | ngjyra_vija =
 }}
-<!-- ================== KONFIGURIMI I SEKSIONIT DJATHTAS =========================== -->
+<!-- ================== ځانګړی =========================== -->
 
 |valign="top" style="padding-right:10px;border-right:1px solid #a7d7f9;"| 
 
@@ -107,19 +107,19 @@ break=no
 }}
 {{خړ سرليک
 | logosfond =
-| logo = HSSamarbete.svg
-| title = ويکيپېډيا څه دی؟
+| logo = HSTools.svg
+| title = ځانګړي غوره توبونه
 | item =
-{{ويکيپېډيا پېژندنه}}
+{{ځانګړي غوره توبونه}}
 | link =
 | ngjyra_vija =
 }}
 {{خړ سرليک
 | logosfond =
-| logo = HSTools.svg
-| title = ځانګړي غوره توبونه
+| logo = HSSamarbete.svg
+| title = ويکيپېډيا څه دی؟
 | item =
-{{ځانګړي غوره توبونه}}
+{{ويکيپېډيا پېژندنه}}
 | link =
 | ngjyra_vija =
 }}
