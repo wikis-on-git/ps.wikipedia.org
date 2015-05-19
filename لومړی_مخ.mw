@@ -26,7 +26,7 @@ desc none
 |}
 <div style=" padding: 5px 5px; margin: 0.3em; text-align: center" class="hlist">
 * [[ويکيپېډيا:په اړه|د ويکيپېډيا په اړه]]
-* [[لارښود:نيوليک|د سمولو اصول]]
+* [[لارښود:نيوليک|د سمولو چلندلار]]
 * [[لارښود:ونډه اخيستل|د ترسره کولو کارونه]]
 * [[ويکيپېډيا:کړنلارې او لارښوونې|کړنلارې او لارښوونې]]
 * [[ويکيپېډيا:چټک لړليک|د ابېڅو له مخې د ليکنو لړليک]]
@@ -79,10 +79,10 @@ break=no
 <div id="mf-Pervejtoret">{{خړ سرليک
 | logosfond =
 | logo = HSDagensdatum.svg
-| title = پېښې او لمانځې ([[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{color|#000|{{CURRENTDAY}} {{CURRENTMONTHNAME}}}}]])
+| title = پېښې او نمانځنې ([[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{color|#000|{{CURRENTDAY}} {{CURRENTMONTHNAME}}}}]])
 | item =
 {{{{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
-| link = [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|ننۍ پېښې او لمانځې]] 
+| link = [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|نننۍ پېښې او نمانځنې]] 
 }}</div>
 {{خړ سرليک
 | logosfond =
