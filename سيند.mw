@@ -54,6 +54,21 @@
 | [[Image:Acacia nilotica subsp. cupressiformis.jpg|50px]]
 |}
 
+== دينونه ==
+{{bar box
+|width=250px
+|barwidth=100px
+|title=په سند کې دينونه<ref name="1998 Census Data">[http://www.census.gov.pk/Religion.htm 1998 Census Data]</ref>
+|titlebar=#ddd
+|left1=دين
+|right1=په سلو کې
+|float=right
+|bars= 
+{{bar percent|مسلمانان|Green|91.31}}
+{{bar percent|هندوان|Orange|8.51}}
+{{bar percent|نور|Blue|0.18}}
+}}
+
 {{د پاکستان سياسي جغرافي وېش}}
 
 [[وېشنيزه:سنډ]]
