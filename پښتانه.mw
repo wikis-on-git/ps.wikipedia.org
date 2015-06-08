@@ -1,37 +1,72 @@
-{{د توکميزې ډلې مالوماتبکس
-|group=پښتانه<br /> پښتون {{unicode|''Paṣ̌tun''}}
-|image= <div style="white-space:nowrap;"><!--If you swap out an image, change the "x##px" entry for EACH image in the row so that the width of the row lines up with the others-->[[دوتنه:Sultan-Ibrahim-Lodhi 140x190.jpg|75px]][[دوتنه:Shershah 140x190.jpg|75px]][[دوتنه:Abdul-Rahman-Momand 140x190.jpg|75px]]<br />[[دوتنه:Mirwais-Hotak 140x190.jpg|75px]][[دوتنه:Ahmad-Shah-Durani 140x190.jpg|75px]]<br />[[دوتنه:MohammadAyoubKhan 140x190.jpg|75px]][[دوتنه:Ameer Abdurahman Khan 140x190.jpg|75px]][[دوتنه:King Amanullah Khan 140x190.jpg|75px]]<br />[[دوتنه:Khan Abdul Ghaffar Khan 140x190.jpg|75px]][[دوتنه:Abdul Ahad Momand 140x190.jpg|75px]][[دوتنه:Hamid Karzai 2004-06-14 140x190.jpg|75px]]
-|caption= <small>[[سلطان ابراهيم لودي]]{{·}}[[شېرشاه سوري]]{{·}}[[عبدالرحمان مومند]]<br />[[خوشحال خان خټک|خوشحال خان]]{{·}}[[ميرويس هوتک]]{{·}}[[احمد شاه دراني]]<br />[[غازي محمد ايوب خان|ايوب خان]]{{·}}[[امير عبدالرحمن خان]]{{·}}[[امير امان الله خان]]<br />[[خان عبد الغفار خان|خان عبدالغفار خان]]{{·}}[[عبدالاحد مومند]]{{·}}[[حامد کرزی]]</small>
-|poptime='''نژدې.''' '''42 ميليونه''' وګړي&nbsp;<ref name="ABC" />
-|regions =
-|region1 = {{flagcountry|پاکستان}}
-|pop1  = 30 ميليونه (۲۰۰۵)
-|ref1  = {{lower|<ref name="Pakistan census">[http://www.statpak.gov.pk/depts/pco/statistics/other_tables/pop_by_mother_tongue.pdf Population by Mother Tongue], ''Population Census Organization, Government of Pakistan'' . Retrieved 7 June 2006.</ref><ref name="UNHCR">[http://www.unhcr.org/cgi-bin/texis/vtx/home/opendoc.pdf?tbl=SUBSITES&page=SUBSITES&id=434fdc702 Census of Afghans in Pakistan], ''[[United Nations High Commissioner for Refugees|UNHCR]] Statistical Summary Report'' . Retrieved 10 October 2006.</ref>}}
-|region2 = {{flagcountry|افغانستان}}
-|pop2  = ۱۲ ميليونه (۲۰۰۹)
-|ref2  = {{lower|<ref name="CIA Afghanistan">[https://www.cia.gov/library/publications/the-world-factbook/geos/af.html Afghanistan], ''[[CIA World Factbook]]'' . Retrieved 7 June 2006.</ref>}}
-|region3 = {{flag|متحده عرب امارات}}
-|pop3  = 315,524 (2008)
-|ref3  = {{lower|<ref name="Pashto in UAE">[http://www.britannica.com/new-multimedia/pdf/wordat207.pdf United Arab Emirates: Demography], ''Britannica.com'' . Retrieved 15 March 2008.</ref>}}
-|region4 = {{flagcountry|بريتانيه}}
-|pop4  = 100,000 (2009)
-|ref4  = {{lower|<ref>{{cite news|url=http://www.reuters.com/article/latestCrisis/idUSL861250|title=Support for Taliban dives among British Pashtuns|first=William|last=Maclean|publisher=Reuters|date=2009-06-10|accessdate=2009-08-06}}</ref>}}
-|region5 = {{flagcountry|کاناډا}}
-|pop5  = 26,000 (2006)
-|ref5  = {{lower|<ref name="Canada 2006 Census">{{cite web|url=http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 |title=Ethnic origins, 2006 counts, for Canada |publisher=2.statcan.ca |date=2009-12-11 |accessdate=2010-04-17}}</ref>}}
-|region6 = {{flagcountry|هند}}
-|pop6  = 11,086 (2001)
-|ref6  = {{lower|<ref name="india">[http://www.censusindia.gov.in/Census_Data_2001/Census_Data_Online/Language/Statement1.htm Abstract of speakers’ strength of languages and mother tongues – 2001], ''Census of India'' . Retrieved 17 March 2008.</ref>}}
-|region8 = {{flagcountry|د امريکا متحده ايالات}}
-|pop8  = 7,710 (2000)
-|ref8  = {{lower|<ref name="US Census Pashto-speakers">[http://www.census.gov/mp/www/spectab/languagespokenSTP224.xls Language Spoken at Home] ''US Census Bureau'' . Retrieved 15 March 2008.</ref>}}
-|region9 = {{flagcountry|مالېزيا}} او {{flagcountry|سېنګاپور}}
-|pop9  = 5,100 (2008)
-|ref9  = {{lower|<ref name="Joshua Project">http://www.joshuaproject.net/peopctry.php . Retrieved 6 September 2008.</ref>}}
-|langs=[[پښتو]]<br />{{ووړ|''[[پارسي ژبه|پارسي]] يا [[اردو]] تر لويې کچې د دوهمې ژبې په توګه غږېږي''}}
-|rels=[[اسلام]]، اکثره پښتانه [[حنفي]] سني مسلمانان دي خو يوه وړه برخه د پښتنو د ۱۲ امامي شيعه ډله جوړوي
-|related-c=
+{{Infobox ethnic group
+ | group = Pashtuns<br/><small>{{lang|ps|پښتانه}}</small><br /><small>{{unicode|''Pax̌tānə''}}</small>
+ | image = {{image array|perrow=4|width=80|height=80
+ | image1 = سلطان_بهلول_لودي.jpg | caption1 = [[Bahlul Lodi]]
+ | image2 = Sher Shah Suri by Breshna-cropped.jpg | caption2 = [[شېرشاه سوري]]
+ | image3 = Dost Mohammad Khan, Nawab of Bhopal-cropped.jpg | caption3 = [[Dost Mohammad of Bhopal]]
+ | image4 = Mir Wais Hotak of Afghanistan.jpg | caption4 =[[ميرويس هوتک]]
+ | image5 = Portrait miniature of Ahmad Shah Durrani-cropped.jpg | caption5 = [[احمد شاه دراني]]
+ | image6 = Dost Mohammad Khan of Afghanistan-cropped.jpg | caption6 = [[امير دوست محمد خان]]
+ | image7 = Lithograph of Akbar Khan in 1842-cropped.jpg | caption7 = [[وزير محمد اکبر خان]]
+ | image8 = King Amanullah of Afghanistan-cropped.jpg | caption8 = [[امان الله خان]]
+ | image9 = Queen Soraya of Afghanistan-cropped.jpg | caption9 = [[Soraya Tarzi]]
+ | image10 = King Zahir Shah of Afghanistan in 1963-cropped.jpg | caption10 = [[Mohammed Zahir Shah|Zahir Shah]]
+ | image11 = Abdul Ghaffar Khan-cropped.jpg | caption11 = [[خان عبدالغفار خان|باچا خان]]
+ | image12 = Muhammed Ayub Khan.JPG| caption12 =[[ايوب خان (د پاکستان ولسمشر)|ايوب خان]]
+ | image13 = KaderKhan-cropped.jpg | caption13 = [[قادر خان]]
+ | image14 = AbdulMohmand.jpg | caption14 = [[Abdul Ahad Mohmand]]
+ | image15 = Ashraf Ghani Ahmadzai in July 2011-cropped.jpg | caption15 = [[اشرف غني]]
+ | image16 = Z Khalilzad-cropped.jpg | caption16 = [[زلمی خليلزاد]]
+ | image17 = Karzai in June 2014-cropped.jpg | caption17 = [[حامد کرزۍ]]
+ | image18 = Naghma 2010.jpg | caption18 = [[نغمه]]
+ | image19 = Shahid Afridi 2010-cropped.jpg | caption19 = [[شاهد آفريدي]]
+ | image20 = Malala Yousafzai at Girl Summit 2014-cropped.jpg | caption20 = [[ملاله يوسفزۍ]]
+ }}
+|poptime  = Approx. '''50&nbsp;million''' (2011)<ref name=Ethnologue/>
+ |regions  =
+ |region1  = {{flagcountry|Pakistan}}
+ |pop1     = 29,342,892 (2012)
+ |ref1     = <ref name="CIA-Pak-pop"/>
+ |region2  = {{flagcountry|Afghanistan}}
+ |pop2     = 12,776,369 (2012)
+ |ref2     = {{lower|<ref name="CIA-Afghan-pop"/>}}
+ |region3  = {{flagcountry|India}}
+ |pop3     = 11,323,000 (2009)
+ |ref3     = <ref>[http://joshuaproject.net/people_groups/14256/IN Pashtun, Pathan in India]</ref>
+ |region4  = {{flag|UAE}}
+ |pop4     = 338,315 (2009)
+ |ref4     = {{lower|<ref name="Pashto in UAE">{{cite web |url=http://www.britannica.com/new-multimedia/pdf/wordat207.pdf|title=United Arab Emirates: Demography|publisher=[[Encyclopædia Britannica]] Online|work=Encyclopædia Britannica World Data|accessdate=15 March 2008}}</ref>}}
+ |region5  = {{flagcountry|United States}}
+ |pop5     = 138,554 (2010)
+ |ref5     = {{lower|<ref name="Pashtuns in USA">42% of [http://www.usatoday.com/news/nation/2001/09/20/kabul.htm 200,000] [[Afghan American|Afghan-Americans]] = 84,000 and 15% of [http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_SF1_QTP8&prodType=table 363,699] [[Pakistani American|Pakistani-Americans]] = 54,554. Total Afghan and Pakistani Pashtuns in USA = 138,554.</ref>}}
+ |region6  = {{flag|Iran}}
+ |pop6     = 110,000 (1993)
+ |ref6     = {{lower|<ref name="Ethnologue-Pashto">{{cite web |url=http://www.ethnologue.com/show_language.asp?code=pbt|title=Ethnologue report for Southern Pashto: Iran (1993)|publisher=[[Ethnologue]]: Languages of the World|work=[[SIL International]]|accessdate=5 May 2012}}</ref>}}
+ |region7  = {{flagcountry|United Kingdom}}
+ |pop7     = 100,000 (2009)
+ |ref7     = {{lower|<ref>{{cite news |url=http://www.reuters.com/article/latestCrisis/idUSL861250|title=Support for Taliban dives among British Pashtuns|first=William|last=Maclean|publisher=Reuters|date=10 June 2009|accessdate=6 August 2009}}</ref>}}
+ |region8  = {{flagcountry|Germany}}
+ |pop8     = 37,800 (2012)
+ |ref8     = {{lower|<ref name=BMZ>[http://www.bmz.de/en/what_we_do/countries_regions/asien/afghanistan/index.html Relations between Afghanistan and Germany]: Germany is now home to almost 90,000 people of Afghan origin. 42% of 90,000 = 37,800</ref>}}
+ |pop9     = 26,000 (2006)
+ |region9  = {{flagcountry|Canada}}
+ |ref9     = {{lower|<ref name="Canada-census">{{cite web |url=http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 |title=Ethnic origins, 2006 counts, for Canada |publisher=2.statcan.ca |year=2006|accessdate=17 April 2010}}</ref>}}
+ |region10 = {{flagcountry|Russia}}
+ |pop10    = 9,800 (2002)
+ |ref10    = {{lower|<ref>{{cite web|url=http://www.perepis2002.ru/ct/doc/TOM_04_P1.doc|title=Perepis.ru|work=perepis2002.ru|language=ru}}</ref>}}
+ |region11 = {{flagcountry|Australia}}
+ |pop11    = 8,154 (2006)
+ |ref11    = {{lower|<ref name="Pashtuns in Australia">{{cite web |url=http://www.censusdata.abs.gov.au/ABSNavigation/prenav/ViewData?breadcrumb=POLTD&method=Place%20of%20Usual%20Residence&subaction=-1&issue=2006&producttype=Census%20Tables&documentproductno=0&textversion=false&documenttype=Details&collection=Census&javascript=true&topic=Ancestry&action=404&productlabel=Ancestry%20(full%20classification%20list)%20by%20Sex&order=1&period=2006&tabname=Details&areacode=0&navmapdisplayed=true& |title=20680-Ancestry (full classification list) by Sex – Australia |format=Microsoft Excel download |publisher=[[Australian Bureau of Statistics]] |work=2006 Census |accessdate=2 June 2008}} Total responses: 25,451,383 for total count of persons: 19,855,288.</ref>}}
+ |region12 = {{flagcountry|Malaysia}}
+ |pop12    = 5,500 (2008)
+ |ref12    =
+ |region13 = {{flag|Tajikistan}}
+ |pop13    = 4,000 (1970)
+ |ref13    = {{lower|<ref name="Ethnologue-Pashto"/>}}
+ |langs    = [[Pashto language|Pashto]]<br />{{smaller|''[[Urdu]], [[Dari language|Dari]] and [[English language|English]] as [[second language]]s''}}
+ |rels     = Islam ([[Sunni Islam|Sunni]])<br /> {{smaller|''with small [[Shia Islam|Shia]] minority''}}
 }}
+
 '''پښتانه''' (چې د '''پشتانه'''، '''پوختانه'''، '''پختانه'''، '''پټهان''' ([[هندي ژبه|هندي]]: ''पठान'') يا '''افغان''' په نومونو هم يادېږي.)<ref name="ISBN Social Politics">Banuazizi, Ali and Myron Weiner (eds.). 1994. ''The Politics of Social Transformation in Afghanistan, Iran, and Pakistan (Contemporary Issues in the Middle East)'', [[Syracuse University]] Press. ISBN 0-8156-2608-8 (retrieved 7 June 2006).</ref> يو ژبتوکميزه قوم دی چې ددې توکم وګړي په لويه کچه د [[افغانستان]] په ختيځ او سوېل کې په فډرالي قبايلي سيمو کې، د [[پاکستان]] په سهېل لويديځ ولايت کې او په [[بلوچستان]] کې مېشت دي. پښتانه په خپله ژبه او د [[پښتونولي|پښتونولۍ]] په ساتنه .<ref name="Women and Pashtunwali"> Kakar, Palwasha. [[Harvard University]] - School of Law - [http://www.law.harvard.edu/programs/ilsp/kakar.pdf ''Tribal Law of Pashtunwali and Women’s Legislative Authority''] (retrieved 7 June 2006)</ref> او اسلام باندې پېژندل کېږي.
 
 د لوديانو دور په تاريخ کې د پښتنو د پاچاهۍ لومړنی دور بلل کېږي چې د ډيلي سلطنت په نامه پاچاهي يې درلوده د دغه دور د مودې نېټه له ۱۴۵۱ زېږيز نه تر ۱۵۲۶ زېږيز کالونو پورې وه. تر دې وروسته د درانيانو دور د نوي تېرمهال پاچايي وه چې په ۱۷۴۷ زېږيز کال کې يې پيل شوی و. پښتنو له ۱۹۷۹ نه تر ۱۹۸۹ پورې په [[سړه جګړه]] کې هم ډېر ستر رول لوبولی و او ډېرو پښتنو د روسانو پر ضد په [[جهاد]] کې هم برخه اخيستې وه. پښتنو د طالبانو د واکمنۍ او راپرځېدو پر مهال د نړېوالو پام ځان پلو اړولی وه، دا ځکه چې د طالبانو د خوځښت ډېرکۍ ډله پښتنو جوړوله. پښتانه په پاکستان کې هم يوه اهمه توکمډله بلل کېږي، په کوم ځای کې چې دوی دوهم لوی توکميزه ډله جوړوي.
