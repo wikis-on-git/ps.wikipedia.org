@@ -1,3 +1,80 @@
+{{Infobox country
+|conventional_long_name = د هند جمهوريت
+|native_name = ''بهارت ګڼراجيه''<!--Do not add non-Latin scripts, per the consensus reached at [[WP:IN]].-->
+|common_name = هند
+|image_flag             = Flag of India.svg
+|alt_flag               = Horizontal tricolor flag bearing, from top to bottom, deep saffron, white, and green horizontal bands. In the center of the white band is a navy-blue wheel with 24 spokes.
+|image_coat             = Emblem of India.svg
+|alt_coat               = Three lions facing left, right, and toward viewer, atop a frieze containing a galloping horse, a 24-spoke wheel, and an elephant. Underneath is a motto: "सत्यमेव जयते".
+|symbol_type  = Emblem
+|national_motto         = {{native phrase|sa|"Satyameva Jayate"|italics=off}}<br />{{small|"رښتيا وېل فتحه ده"}}{{lower|0.2em|{{sfn|National Informatics Centre|2005}}}}
+|national_anthem  = ''Jana Gana Mana''<br />{{small|"د واکمنو رنګونه او د خلکو ذهنونه"}}{{lower|0.2em|{{sfn|Wolpert|2003|p=1}}}}<ref name="india.gov.in">{{cite web|url=http://india.gov.in/india-glance/national-symbols |title=National Symbols &#124; National Portal of India |publisher=India.gov.in |accessdate=6 July 2013}}</ref><br />[[File:Jana Gana Mana instrumental.ogg|center]]
+|other_symbol           = '''National song:'''<br />''[[Vande Mataram]]'' <br />{{small|"I Bow to Thee, Mother"}}{{lower|0.2em|{{efn|"[...] ''Jana Gana Mana'' is the National Anthem of India, subject to such alterations in the words as the Government may authorise as occasion arises; and the song ''Vande Mataram'', which has played a historic part in the struggle for Indian freedom, shall be honoured equally with ''Jana Gana Mana'' and shall have equal status with it." {{harv|Constituent Assembly of India|1950}}.<!--end efn:-->}}{{sfn|National Informatics Centre|2005}}<!--end lower:-->}}<ref name="india.gov.in"/><!-- Commented out because image was deleted: [[File:Vande Mataram - Instrumental.ogg|center]] -->
+|image_map              = India (orthographic projection).svg
+|alt_map                = Image of a globe centred on India, with India highlighted.
+|map_caption            =  
+|map_width              = 250px
+|capital                = [[نوې دلهي]]
+|latd=28 |latm=36.8 |latNS=N |longd=77 |longm=12.5 |longEW=E
+|largest_city           =[[ممبئ]]
+|largest_urban_agglomeration=[[Delhi NCR]]<ref>{{cite web |title=INDIA STATS : Million plus cities in India as per Census 2011 |url=http://pibmumbai.gov.in/scripts/detail.asp?releaseId=E2011IS3}}</ref>
+|official_languages     =
+ {{collapsible list
+  |title = {{hlist|[[هندي ژبه|هندي]]|[[انګريزي ژبه]]}}
+  | هندي (د اوردو ژبې يو بل شکل) کومه چې په ديوناګري ليکډول کې ليکلی کيږي د هند دفتري ژبه ده۔
+ }}
+
+|languages_type = قومي ژبه
+|languages              = None
+|demonym = انډين خلک
+|government_type        = {{nowrap|[[وفاقي]] [[پارلمان|پارلماني]]<br />[[آئيني جمهوريت]]{{sfn|National Informatics Centre|2005}}}}
+|leader_title1 = ولسمشر
+|leader_name1  = پراناب مُکهرجي
+|leader_title2 = نايب ولسمشر
+|leader_name2 = محمد حامد انصاري
+|leader_title3 = لومړی وزير
+|leader_name3 = [[نريندر مودي]]
+|leader_title4 = لويه قاضي
+|leader_name4 =  H. L. Dattu <ref>{{cite web|title=Justice HL Dattu sworn in as chief justice of Supreme Court|url=http://timesofindia.indiatimes.com/india/Justice-H-L-Dattu-sworn-in-as-Chief-Justice-of-India/articleshow/43703266.cms|work=IANS|publisher=Times of India|accessdate=29 September 2014}}</ref>
+|leader_title5          = قومي اسمبلۍ سپيکر
+|leader_name5  = سوميتر مهاجن
+|legislature   = [[د هند پارليمان]]
+|upper_house   = ''[[راجيه سبا]]''
+|lower_house   = ''[[لوک سبا]]''
+|sovereignty_type = خپلواکي
+|sovereignty_note = د [[برطانيه]] څخه
+|established_event1 = ډومينين
+|established_date1   = 15 اګست 1947
+|established_event2     = [[جمهوريت]]
+|established_date2  = 26  جنوري 1950
+|area_rank  = 7م
+|area_magnitude         = 1 E12
+|area_km2               = 3,287,590<ref>{{cite web|url=http://india.gov.in/india-glance/profile|title=Profile|work=india.gov.in}}</ref>
+|area_sq_mi             = 1,269,346
+|area_footnote          = {{efn|"The country's exact size is subject to debate because some borders are disputed. The Indian government lists the total area as {{convert|3287260|km2|sqmi|abbr=on}} and the total land area as {{convert|3060500|km2|sqmi|abbr=on}}; the United Nations lists the total area as {{convert|3287263|km2|sqmi|abbr=on}} and total land area as {{convert|2973190|km2|sqmi|abbr=on}}." {{harv|Library of Congress|2004}}.}}
+|percent_water = 9.6
+|population_census_rank = دوېم
+|population_census      = 1,210,193,422{{sfn|Provisional Population Totals, Census|2011|p=160}}
+|population_estimate_rank = 2nd
+|population_estimate_year = 2011
+|population_census_year = 2011
+
+|currency = انډينې روپۍ
+|currency_code  = INR
+|time_zone = د هند معياري وخت
+|utc_offset = +05:30
+|time_zone_DST =  
+|utc_offset_DST         = 
+|date_format =  
+|drives_on              = 
+|calling_code  = +91
+|cctld                  =  .in
+ {{collapsible list
+  |title = other TLDs
+  |[[.ভাৰত]] |[[.ভারত]] |[[.ભારત]] |[[.भारत]] |[[.ਭਾਰਤ]] |[[.இந்தியா]] |[[.భారత్]] |[[بھارت.]]
+ }}
+}}
+
 
 '''هند'''، (په انګرېزي: '''India''') چې په رسمي چارو کې د هند جمهوريت بلل کېږي، (په هندي: '''भारत गणराज्य''' بهارت ګناراجيا) د سوېلي آسيا يو هېواد دی. دا هېواد د جغرافيايي پراخوالي له مخې د نړۍ اووم لویې هېواد او د وګړو د شمېر له مخې د نړۍ دويم ګڼ مېشتی هېواد دی. يوه بله ځانګړتيا چې ددې هېواد په برخه ده هغه دا ده چې دا هېواد د نړۍ تر ټولو مشهوره ولسواکه (ډيموکراتيک) هېواد دی چې لسګونه توکمونه پکې د يوه بېرغ تر سيوري لاندې سره يوځای اوسېږي. د هند لوېديځه خوا هندي سمندر ته وتلې، د دغه هېواد په لوېديځ کې د عربو سمندرګی، په ختيځ کې يې د بنګال خليج پروت دی چې دا ټول د هند ۷۵۱۷ کيلومتره سمندري ساحل جوړوي<ref name=sanilkumar>{{cite journal|last=Kumar|first=V. Sanil|coauthors=K. C. Pathak, P. Pednekar, N. S. N. Raju|title=Coastal processes along the Indian coastline|journal=Current Science|volume=91|issue=4|year=2006|pages=530–536|format=PDF|url=http://drs.nio.org/drs/bitstream/2264/350/1/Curr_Sci_91_530.pdf}}</ref>. هند د نړۍ د نورو هېوادونو سره هم ګډې پولې لري. د دغه هېواد په لوېديځ کې [[پاکستان]] او [[افغانستان]] <ref name="Afghanistan">Footnote: The [[Government of India]] also considers Afghanistan to be a bordering country. This is because it considers the entire state of [[Jammu and Kashmir]] to be a part of India including the portion bordering Afghanistan. A ceasefire sponsored by the [[United Nations]] in 1948 froze the positions of Indian and Pakistani-held territory. As a consequence, the region bordering Afghanistan is in [[Pakistan-administered Kashmir]].</ref>په سهېل کې د [[چين]] د خلکو جمهوريت، [[نيپال]] او د [[بهوټان]] هېوادونه، په ختيځ کې د [[بنګله دېش]] او د [[ميانمار]] هېوادونه پراته دي. همداراز د هند په سوېل کې د هندي سمندر له لارې د [[سريلانکا]]، [[مالديپ]] او [[اندونيزيا]] سره د اوبو ګډې پولې لري.
 
