@@ -23,6 +23,7 @@ desc none
 *[[تانبه:تخنيک|تخنيک]]
 *'''[[تانبه:مېنځپانگه/تانبې|ټولې&nbsp;تانبې]]'''
 |}
+
 <div style=" padding: 5px 5px; margin: 0.3em; text-align: center" class="hlist">
 * [[ويکيپېډيا:په اړه|د ويکيپېډيا په اړه]]
 * [[لارښود:نيوليک|د سمولو چلندلار]]
@@ -35,6 +36,8 @@ desc none
 </div>
 </div>
 *********************************************************
+{| id="mp-columns" class="radius" cellspacing="5" style=" width:100%; background:none "
+|width=10% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .3em .3em 0em .3em; color: #000; background: #ffffff;" colspan=2|
 {{ليکلړ دړه}}
 {| id="mp-topbanner" style="width:100%; background:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd;"
 | style="width:61%; color:#000;" |
