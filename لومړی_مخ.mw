@@ -38,6 +38,9 @@ break=no
 | class="MainPageBG" style="width:100%; border-radius: 0.5em; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;" |
 {| id="mp-bottom" style="width:100%; vertical-align:top; background:#faf5ff; color:#000;"
 | style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border-radius: 0.5em; border:1px solid #afa3bf; text-align:right; color:#1485f6; padding:0.2em 0.4em">[[File:PL Wiki InM ikona.svg|30px]] غوره انځور </h2> {{غوره انځور}}
+<div style="text-align: left;">
+[https://ps.wikipedia.org/w/index.php?title=لومړی_مخ&action=purge بل انځور کتل]
+</div>
 |}
 |}
 {| id="mp-bottom" style="vertical-align:top; background:#fff7e6; color:#000; width:100%"
