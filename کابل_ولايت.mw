@@ -75,12 +75,13 @@
 
 === ولسوالۍ او د هغو توکميز جوړښت ===
 کابل د ۱۵ ولسواليو نه جوړ دی.
-{| class="wikitable"
-|-
-! ولسوالي
-! مرکز
-!د وکړو شمېر
-!ټبرونه
+{| class="wikitable sortable" width=90% style="font-size:90%;" align=center
+|+ align=center style="background:#BFD7FF"| '''د کابل ولايت ولسوالۍ'''
+|- bgcolor="#efefef"
+!style="width:125px" align="left"|ولسوالۍ
+!style="width:125px" align="left"|مرکز
+!style="width:100px" align="right"|آبادي/وګړو شمېر
+!style="width:100px" align="right"|خلک
 |-
 | [[استالف ولسوالۍ|استالف]]
 | [[استالف]]
