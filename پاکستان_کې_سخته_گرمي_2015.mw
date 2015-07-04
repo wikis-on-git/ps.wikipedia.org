@@ -136,7 +136,7 @@
 
 == ځپلې سيمې ==
 د بي بي سي اوردو وينه مطابق د مړو شمېر څه دا رنگې دی:
-{{stack begin|float=left}}
+
 {| class="wikitable" style="white-space: nowrap;"
 ! colspan="5" |جون 24 پورې شمېر
 |-
@@ -170,7 +170,7 @@
 |-
 |13|| کيماړي کا پي ټي هسپتال || 2
 |}
-{{stack end}}
+
 {| class="wikitable" style="float:left; clear:left; margin-right:0.5em"
 |-
 ! ښار !! صوبه !!د مړو شمېر
@@ -194,4 +194,5 @@
 === تهرپارکر ===
 
 === ملتان ===
+
 == سرچينې ==
