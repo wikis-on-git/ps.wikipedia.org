@@ -1,0 +1,44 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|name='''ډاکه ډويژن'''
+|native_name='''ঢাকা বিভাগ'''
+|native_name_lang=bn<!-- ISO 639-2 code -->
+|settlement_type=[[د بنگله دېش ډويژن]]
+|image_map=Dhaka in Bangladesh.svg
+|map_alt=
+|map_caption=Map of Bangladesh showing Dhaka division
+|latd=24|latm=10|latNS=N
+|longd=90|longm=25|longEW=E
+|coor_pinpoint=
+|coordinates_type=region:BD_type:adm1st_source:GNS-enwiki
+|coordinates_display=inline,title
+|coordinates_footnotes=
+|subdivision_type=هېواد
+|subdivision_name={{flag|Bangladesh}}
+|established_title=جوړښت
+|established_date=
+|seat_type=پلازمېنه
+|seat=[[ڈھاکہ]]
+|government_footnotes=
+|leader_party=
+|leader_title=
+|leader_name=
+|unit_pref=Metric<!-- or US or UK -->
+|area_footnotes=
+|area_total_km2= 
+|area_note=
+|elevation_footnotes=
+|elevation_m=
+|population_footnotes=
+|population_total=47424418
+|population_as_of=2011 census
+|population_density_km2= 
+|population_note=
+|postal_code_type=
+|postal_code=
+|timezone1= بنگلا دیش معیاری وخت
+|utc_offset1=+6
+|iso_code=BD-C
+|website=<!-- {{URL|example.com}} -->
+|footnotes=
+}}
