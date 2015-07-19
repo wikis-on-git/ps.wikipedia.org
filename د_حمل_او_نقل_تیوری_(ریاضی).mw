@@ -25,6 +25,39 @@
 |С<sub>33</sub>=2 Afg./kg
 |С<sub>34</sub>=6 Afg./kg
 |}
+
+
+مونږ باید خپل پلان داسی جوړ کړو ترڅو هغومره د موادو ذخیری چی په لاس کی لرو ، په هغه اندازه د غوښتونکو اړتیاوی پری پوره کرو.
+
+
+
+{| border="1" cellpadding="10" style="border-collapse: collapse; border: 1px solid black;"
+|-
+!style="width:70pt"|
+!style="width:70pt"|B<sub>1</sub>, 20 kg
+!style="width:70pt"|B<sub>2</sub>, 30 kg
+!style="width:70pt"|B<sub>3</sub>, 30 kg
+!style="width:70pt"|B<sub>4</sub>, 10 kg
+|-
+!A<sub>1</sub>, 30 kg
+|style="background:lightgreen"| X<sub>11</sub>=20 kg
+|style="background:lightgreen"| Х<sub>12</sub>=10 kg
+|
+|
+|-
+!A<sub>2</sub>, 40 kg
+|
+|style="background:lightgreen"|Х<sub>22</sub>=20 kg
+|style="background:lightgreen"|Х<sub>23</sub>=20 kg
+|
+|-
+!A<sub>3</sub>, 20 kg
+|
+|
+|style="background:lightgreen"|Х<sub>33</sub>=10 kg
+|style="background:lightgreen"|Х<sub>34</sub>=10 kg
+|}
+
 ==اخځلیک==
 * [http://vfrta.ru/apps/rta/add_files/files/doc_dep_management_trening.pdf]
 [[وېشنيزه:اقتصاد]] 
