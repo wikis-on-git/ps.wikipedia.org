@@ -57,7 +57,53 @@
 |style="background:lightgreen"|Х<sub>33</sub>=10 kg
 |style="background:lightgreen"|Х<sub>34</sub>=10 kg
 |}
+== د حمل او نقل د تیوری حل، د پټانسیل پواسطه ==
+=== 1. د حجم د ویښ د صحت تائید ===
 
+<ref>معادله از ردیف: <math>\sum^{n}_{j=1}{X_{ij}}=a_i ~ (i=1,2,...m)</math>; معادله از ستون: <math>\sum^{m}_{i=1}{X_{ij}}=b_j ~ (j=1,2,...n)</math>. </ref><ref name="d1966"/>{{rp|297}}
+
+В показанном выше примере,
+* Для 1-й строки: 30 кг = 20 + 10 кг
+* Для 2-й строки: 40 кг = 20 + 20 кг
+* Для 3-й строки: 20 кг = 10 + 10 кг
+* Для 1-го столбца: 20 кг = 20 кг
+* Для 2-го столбца: 30 кг = 10 + 20 кг
+* Для 3-го столбца: 30 кг = 20 + 10 кг
+* Для 4-го столбца: 10 кг = 10 кг
+=== 2. د حمل او نقل د ټول لګښت محاسبه ===
+ریاضی حساب کی داسی لیکل کیږی:
+<math>L(X)=\sum^{n}_{j=1}{ \sum^{m}_{i=1}{   C_{ij}X_{ij}    } }</math>
+
+{| border="1" cellpadding="10" style="border-collapse: collapse; border: 1px solid black;"
+|-
+!style="width:70pt"|
+!style="width:70pt"|B<sub>1</sub>, 20 kg
+!style="width:70pt"|B<sub>2</sub>, 30 kg
+!style="width:70pt"|B<sub>3</sub>, 30 kg
+!style="width:70pt"|B<sub>4</sub>, 10 kg
+|-
+!A<sub>1</sub>, 30 kg
+|style="background:lightgreen"| С<sub>11</sub>=2 Afg./kg, <br />X<sub>11</sub>=20 kg
+|style="background:lightgreen"| С<sub>12</sub>=3 Afg./kg, <br />Х<sub>12</sub>=10 kg
+|С<sub>13</sub>=2 Afg./kg
+|С<sub>14</sub>=4 Afg./kg
+|-
+!A<sub>2</sub>, 40 kg
+|С<sub>21</sub>=3 Afg./kg
+|style="background:lightgreen"|С<sub>22</sub>=2 Afg./kg, <br />Х<sub>22</sub>=20 kg
+|style="background:lightgreen"|С<sub>23</sub>=5 Afg./kg, <br />Х<sub>23</sub>=20 kg
+|С<sub>24</sub>=1 Afg./kg
+|-
+!A<sub>3</sub>, 20 kg
+|С<sub>31</sub>=4 Afg./kg
+|С<sub>32</sub>=3 Afg./kg
+|style="background:lightgreen"|С<sub>33</sub>=2 Afg./kg, <br />Х<sub>33</sub>=10 kg
+|style="background:lightgreen"|С<sub>34</sub>=6 Afg./kg, <br />Х<sub>34</sub>=10 kg
+|}
+
+زمونږ په دی مثال کښی د بار د انتقال لګښت برابر دی له:
+
+افغانی 290= 2×20 + 3×10 + 2×20 + 5×20 + 2×10 + 6×10.
 ==اخځلیک==
 * [http://vfrta.ru/apps/rta/add_files/files/doc_dep_management_trening.pdf]
 [[وېشنيزه:اقتصاد]] 
