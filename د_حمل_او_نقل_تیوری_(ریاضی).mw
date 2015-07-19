@@ -1,0 +1,33 @@
+'''د حمل او نقل تیوری''' - دا تیوری بیانوی چی مصرف کونکو ته د مصرفی موادو د لیږد پر محال څه رنګه وکوالای شو ددوی د غوښتني وړ توکی په کم لګښت ( کرایه) سره ددوی ځای ته په پوره توګه ورسو  . د دی مشکل د حل لپاره یو خاص پلان ته اړتیا شته چی په یو مستطیل شکل که ښودل کیږی ،  مثال په  لاندینۍ شکل کی شکل وګورۍ:
+{| border="1" cellpadding="5" style="border-collapse: collapse; border: 1px solid black;"
+|-
+!style="width:100pt"|
+!style="width:100pt"|B<sub>۱</sub>{{سور|مصرف کونکي}} , <br />ضرورت - ۲۰ kg
+!style="width:100pt"|B<sub>۲</sub>{{سور|مصرف کونکي}} , <br />ضرورت - ۳۰ kg
+!style="width:100pt"|B<sub>۳</sub>{{سور|مصرف کونکي}} ,<br />ضرورت - ۳۰ kg
+!style="width:100pt"|B<sub>۴</sub>{{سور|مصرف کونکي}} ,<br />ضرورت - ۱۰ kg
+|-
+!A<sub>1</sub>{{زرغون|وړاندی کونکي}},<br />ذخایر - 30 kg
+|С<sub>11</sub>=2 Afg./kg
+|С<sub>12</sub>=3 Afg./kg
+|С<sub>13</sub>=2 Afg./kg
+|С<sub>14</sub>=4 Afg./kg
+|-
+!A<sub>2</sub> {{زرغون|وړاندی کونکي}} , <br />ذخایر - 40 kg
+|С<sub>21</sub>=3 Afg./kg
+|С<sub>22</sub>=2 Afg./kg
+|С<sub>23</sub>=5 Afg./kg
+|С<sub>24</sub>=1 Afg./kg
+|-
+!A<sub>3</sub> {{زرغون|وړاندی کونکي}} , <br />ذخایر - 20 kg
+|С<sub>31</sub>=4 Afg./kg
+|С<sub>32</sub>=3 Afg./kg
+|С<sub>33</sub>=2 Afg./kg
+|С<sub>34</sub>=6 Afg./kg
+|}
+==اخځلیک==
+* [http://vfrta.ru/apps/rta/add_files/files/doc_dep_management_trening.pdf]
+[[وېشنيزه:اقتصاد]] 
+[[وېشنيزه:ریاضی]] 
+[[وېشنيزه:اقتصادی ریاضی]] 
+[[وېشنيزه:ټرانسورت]]
