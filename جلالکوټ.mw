@@ -1,29 +1,82 @@
-:''د قرغزېستان ښار لپاره, وگورئ [[جلال-اباد]].''
-:''د آزربایجان ښار لپاره, وگورئ [[جلیل اباد]].''
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-|- style="background-color:lightblue;"
-! colspan="2" |جلال آباد <br />جلالكوټ
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[دوتنه:Ghousejaa.jpg|250px]]<br />[[دوتنه:Mausoleum of Amanullah Khan in Jalalabad.jpg|250px]]
-|-
-! align="right" valign="top" |هېواد
-|[[دوتنه:Flag of Afghanistan.svg|20px]] [[افغانستان]]
-|-
-! align="right" valign="top" |ولایت
-|[[د ننگرهار ولايت]]
-|-
-! align="right" valign="top" |د اوسېدونکي شمیر
-|۲۰۵,۴۲۳
-|-
-! align="right" valign="top" |د بحر له سطحې لوړوالي
-|۵۵۳ متره
-|-
-! align="right" valign="top" |دین
-|[[اسلام]] 
-|-
-|}
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = جلالکوټ
+|other_name             =
+|native_name            = جلال آباد
+|nickname               = 
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image                  = {{Photomontage
+|photo1a = Jalalabad in January 2011.jpg{{!}}A panoramic view of a section of Jalalabad
+|photo2a = Bridge in Jalalabad in 2011.jpg{{!}}Jalalabad Bridge
+|photo2b = Jalalabad stadium in 2011.jpg{{!}}Jalalabad Cricket Stadium
+|photo3a = pchowkjaa.jpg{{!}}Pashtunistan Square
+|photo3b = Jalalabad minarets.jpg{{!}}Mosque in Jalalabad
+|photo4a = ghousejaa.jpg{{!}}Governor's House in Jalalabad
+|photo4b = Jalalabad2007.JPG{{!}}Building on a main road
+|size    = 300
+|border  = 0
+|color   = Gray
+|foot_montage =  }}
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x                  =  
+|dot_y                  =
+|pushpin_map            = Afghanistan <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300px
+|pushpin_map_caption    = افغانستان کې د جلال آباد ځای
+<!-- Location ------------------>
+|coordinates_display    = inline,title
+|coordinates_region     = AF
+|subdivision_type       = هېواد
+|subdivision_name       = [[افغانستان]]
+|subdivision_type1      = [[د افغانستان ولايتونه|ولايت]]
+|subdivision_name1      = [[ننگرهار ولايت]]
+|subdivision_type2      = ولسوالۍ
+|subdivision_name2      = جلال آباد ولسوالۍ
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          = 
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|established_title      = جوړښت
+|established_date       = 1570
 
+|population_as_of               = 2007
+|population_footnotes           =
+|population_note                =<ref name="mrrd">http://www.mrrd.gov.af/nabdp/Provincial%20Profiles/Nangarhar%20PDP%20Provincial%20profile.pdf</ref>
+|population_total               =205,423
+|population_blank1_title        = Ethnicities
+|population_blank1              =
+|population_blank2_title        = دين
+|population_blank2              = اسلام
+|latd=34|latm=26 |lats=03 |latNS=N
+|longd=70|longm=26|longs=52|longEW=E
+|website                = 
+|footnotes              = 
+}}}}
 
 
 '''جلالکوټ''' یا '''جلال آباد''' د کنړ او کابل سیند په نښلونې ځای کې پروت دی. جلالکوټ د ننگرهار ولایت منځۍ (مرکز) دی. دا ښار د یوې۹۰ کیلومتري لوی لاری په وسیله له کابل ښار سره نښلي. او د په همدې واټن سره په ختیځه برخه کې د گاونډي هېواد له پېښورښار سره نښلي.
