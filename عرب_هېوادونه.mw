@@ -1,3 +1,131 @@
 عرب هېوادونه هغه هېوادونه دي چې عربي ثبه وايي۔کوز د عرب هېوادونو لړليک دی کوم چې د [[عرب ليگ]] غړيتوب لري۔
 
 == لړليک ==
+{| class="sortable wikitable"
+|- 
+! width=175 | '''هېواد'''
+! ځمکه (درجه) 
+! ځمکه (کلوميټر<sup>2</sup>)'''
+! ځمکه (مربع ميل)
+! ځمکه (ټولو څخه په سلو کې)
+! ځمکه (نوټ)
+! آبادي
+! آبادي (نړۍ کې درجه)
+! گڼه گوڼه (درجه)
+! ګڼه گوڼه (/مربع کلوميټر)
+! گڼه گوڼه (/مربع ميل)
+|-
+| {{flag|الجزاير}} 
+| 1 ||  {{convert|2,381,741|km2|sqmi|disp=table}} || 18.1% || د افريقې او د عرب نړۍ له ټولو لوی هېواد
+| 37,100,000 || style="text-align:right;"| 34
+| 17 || {{convert|{{#expr: 37100000 / 2381741 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|بحرين}}
+| 22 || {{convert|758|km2|sqmi|disp=table}} || 0.005% ||
+| 1,234,596 || style="text-align:right;"| 155
+| 1 || {{convert|{{#expr: 1234596 / 750 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|اتحاد القمري}}
+| 21 || {{convert|2,235|km2|sqmi|disp=table}} || 0.01% ||
+| 691,000 || style="text-align:right;"| 163
+| 4 || {{convert|{{#expr: 691000 / 2235 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|جبوتي}}
+| 16 || {{convert|23,200|km2|sqmi|disp=table}} || 0.1% ||
+| 864,000 || style="text-align:right;"| 159
+| 15 || {{convert|{{#expr: 864000 / 23200 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|مصر}}
+| 6 || {{convert|1,002,000|km2|sqmi|disp=table}} || 7.6% || حلايب مثلث څخه علاوه (20,580 مربع کلوميټر/7,950 مربع ميل).
+| 81,650,212<ref>{{cite web|url=http://www.msrintranet.capmas.gov.eg/pls/fdl/tst12e?action=1&lname=|title=CAPMAS homepage|accessdate=15 August 2011}}</ref> || style="text-align:right;"| 16
+| 9 || {{convert|{{#expr:(81650212 + 4241 * {{Age in days|2006|11|11}}) / 1001449 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|عراق}}
+| 10 || {{convert|435,244|km2|sqmi|disp=table}} || 3.3% ||
+| 30,747,000 || style="text-align:right;"| 40
+| 12 || {{convert|{{#expr: 30747000 / 438317 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|اردن}}
+| 14 || {{convert|89,342|km2|sqmi|disp=table}} || 0.7% ||
+| 6,316,000 || style="text-align:right;"| 106
+| 11 || {{convert|{{#expr: 6316000 / 89342 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|کويت}}
+| 17 || {{convert|17,818|km2|sqmi|disp=table}} || 0.1% ||
+| 3,566,000 || style="text-align:right;"| 134
+| 5 || {{convert|{{#expr: 3566437 / 17818 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|لبنان}}
+| 19 || {{convert|10,452|km2|sqmi|disp=table}} || 0.08% ||
+| 4,224,000 || style="text-align:right;"| 125
+| 3 || {{convert|{{#expr: 4224000 / 10452 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|ليبيا}}
+| 4 || {{convert|1,759,540|km2|sqmi|disp=table}} || 11.4% ||
+| 6,420,000 || style="text-align:right;"| 103
+| 21 || {{convert|{{#expr: 6420000 / 1759540 round 1}}|/km2|1|disp=table}}
+|-
+| {{flag|موريتانيا}}
+| 5 || {{convert|1,025,520|km2|sqmi|disp=table}} || 7.8% ||
+| 3,291,000 || style="text-align:right;"| 138
+| 22 || {{convert|{{#expr: 3291000 / 1025520 round 1}}|/km2|1|disp=table}}
+|-
+| {{flag|مراکش}}
+| 9 || {{convert|446,550|km2|sqmi|disp=table}} || 3.4% || [[مغربي صحارا]] پکې شماله نه ده (266,000 مربع کلوميټر/103,000 مربع ميل).
+| 36,064,173 || style="text-align:right;"| 35
+| 10 || {{convert|{{#expr: (32487860 + 923 * {{Age in days|2009|7|1}}) / 446550 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|عمان}}
+| 11 || {{convert|309,500|km2|sqmi|disp=table}} || 2.4% ||
+| 2,845,000 || style="text-align:right;"| 139
+| 20 || {{convert|{{#expr: 2845000 / 309500 round 1}}|/km2|0|disp=table}}
+|-
+| {{flag|فلسطين}}
+| 20 || {{convert|6,020|km2|sqmi|disp=table}} || 0.05% ||
+| 4,136,540 (متنازعه) || style="text-align:right;"| 126
+| 2 || {{convert|{{#expr: 4136540 / 6020 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|قطر}}
+| 18 || {{convert|11,586|km2|sqmi|disp=table}} || 0.08% ||
+| 1,699,435 || style="text-align:right;"| 149
+| 6 || {{convert|{{#expr: 1699435 / 11000 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|سعودي عربستان}}
+| 2 ||  {{convert|2,149,690|km2|sqmi|disp=table}} || 16.4% || د [[منځنی ختيځ|منځني ختيځ]] له ټولو لوی هېواد
+| 28,146,658 || style="text-align:right;"| 45
+| 19 || {{convert|{{#expr: 281466900 / 2149690 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|سوماليه}}
+| 7 || {{convert|637,657|km2|sqmi|disp=table}} || 4.9% ||
+| 9,133,000 || style="text-align:right;"| 85
+| 18 || {{convert|{{#expr: 9133000 / 637657 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|سوډان}}
+| 3 || {{convert|1,861,484|km2|sqmi|disp=table}} || 14.2% || په افريقې مخکې له ټولو لوی هيواد وو خو بيا مات شو
+| 30,894,000 || style="text-align:right;"| 39
+| 16 || {{convert|{{#expr: 30894000 / 1886068 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|شام}}
+| 12 || {{convert|185,180|km2|sqmi|disp=table}} || 1.4% ||  
+| 21,906,000 || style="text-align:right;"| 55
+| 7 || {{convert|{{#expr: 21906000 / 185180 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|تونس}}
+| 13 || {{convert|163,610|km2|sqmi|disp=table}} || 1.2% ||
+| 10,673,800 || style="text-align:right;"| 77
+| 13 || {{convert|{{#expr: 10673800 / 163610 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|متحده عرب امارات}}
+| 15 || {{convert|83,600|km2|sqmi|disp=table}} || 0.6% ||
+| 8,264,070 || style="text-align:right;"| 93
+| 8 || {{convert|{{#expr: 8264070 / 83600 round 0}}|/km2|0|disp=table}}
+|-
+| {{flag|يمن}}
+| 8 || {{convert|527,968|km2|sqmi|disp=table}} || 4.0% ||
+| 23,580,000 || style="text-align:right;"| 49
+| 14 || {{convert|{{#expr: 23580000 / 527968 round 0}}|/km2|0|disp=table}}
+|-
+| کل {{flag|عرب ليگ}}
+| # || # || # || # || # 
+| '''349,870,608''' ||
+|}
