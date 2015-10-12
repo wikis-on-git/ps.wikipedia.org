@@ -39,11 +39,19 @@ desc none
 {| id="mp-columns" class="radius" cellspacing="5" style=" width:100%; background:none "
 |width=10% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .3em .3em 0em .3em; color: #000; background: #ffffff;" colspan=2|
 {{ليکلړ دړه}}
-
-
+{| id="mp-topbanner" style="width:100%; background:; margin:1.2em 0 6px 0; border:1px solid #ddd;"
+| style="width:61%; color:#000;" |
 <!------------------------------ "ويکيپېډيا ته ښه راغلئ" او د ليکنو شمېر--------------------------------->
-
 *********************************************************
+<inputbox>
+type=create
+width=70
+buttonlabel= نوې ليکنه ورگډول
+break=no
+</inputbox>
+|}<br />
+*********************************************************
+
 <!-- ============== TABEL UTAMA MULAI ================ -->
 {| style="margin-top:10px; background:none;"
 <!-- ============== KOLOM KIRI MULAI ================ -->
