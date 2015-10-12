@@ -39,56 +39,119 @@ desc none
 {| id="mp-columns" class="radius" cellspacing="5" style=" width:100%; background:none "
 |width=10% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .3em .3em 0em .3em; color: #000; background: #ffffff;" colspan=2|
 {{ليکلړ دړه}}
-{| id="mp-topbanner" style="width:100%; background:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd;"
-| style="width:61%; color:#000;" |
+
+
 <!------------------------------ "ويکيپېډيا ته ښه راغلئ" او د ليکنو شمېر--------------------------------->
 
 *********************************************************
-<inputbox>
-type=create
-width=70
-buttonlabel= نوې ليکنه ورگډول
-break=no
-</inputbox>
-*********************************************************
-<!--        د نن غوره مېنځپانگه        -->
+<!-- ============== TABEL UTAMA MULAI ================ -->
+{| style="margin-top:10px; background:none;"
+<!-- ============== KOLOM KIRI MULAI ================ -->
+| style="width:60%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; {{border-radius|10px}}" |
+{| cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;"
+<!-- ============== منتخب مضمون ================ -->
+!
+{{لومړی مخ/بکس
+|سرليک= ټاکلې ليکنه
+|id      = mf-artikelpilihan
+|انځور= HSutvald2.svg
+|متن = {{غوره ليکنه}}
+|orange = oLumiereSur
+}}
 
-{| id="mp-upper" style="width: 100%; margin:4px 0 0 0; background:none; border-radius: 0.5em; border-spacing: 0px;"
-<!--        ټاکلې ليکنه       -->
-| class="MainPageBG" style="width:55%; border-radius: 0.5em; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;" |
-{| id="mp-left" style="width:100%; vertical-align:top; background:#f5fffa;"
-| style="padding:2px;" | <h2 id="mp-tfa-h2" style="margin:3px; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border-radius: 0.5em; border:1px solid #a3bfb1; text-align:right; color:#1485f6; padding:0.2em 0.4em;">[[File:HSutvald3.svg|30px]]ټاکلې ليکنه</h2> {{غوره ليکنه}}
+<!-- ================== اوسنۍ پېښې=============== -->
+! {{لومړی مخ/بکس
+|سرليک   = اوسنۍ پېښې
+|id      = mf-peristiwaterkini
+|انځور   = HSAktuell.svg
+|متن = {{خبرونه}}</div> 
+}}
+<!-- ================== نن ورځ =============== -->
+! {{لومړی مخ/بکس
+|سرليک   = نن ورځ
+|id      = mf-hids
+|انځور   = HSDagensdatum.svg
+|متن = {{آج کا دن}}
+}}
+<!-- ============== ايا پدې پوهيدئ؟================= -->
+! {{لومړی مخ/بکس
+|سرليک   = آيا پدې پوهېدئ؟
+|id      = mf-tahukahanda
+|انځور   = HSVissteduatt.svg
+|متن =  {{clr}} {{ايا پدې پوهېدئ}}
+|lien    =  {{clear}}
+}}
+<!-- ============= TABEL KIRI SELESAI ================= -->
+|}
+| style="border:5px solid transparent;" |
+<!-- ============== KOLOM KANAN MULAI ================ -->
+| style="width:40%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; {{border-radius|10px}}"|
+<!--     =====================  TABEL DI KOLOM KANAN MULAI  ====================     -->
+{| id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent;"
+<!-- ========================= د گډون کولو لپاره دعوت =============== -->
+! {{لومړی مخ/بکس2
+| انځور   = W-circle.svg
+| سرليک   = ويکيپېډيا کې گډون وکړئ!
+| متن = {{لومړی مخ/ښه راغلئ}}
+}}
+<!-- ========================= وراشه/اقتباسات =============== -->
+! {{لومړی مخ/بکس2
+| انځور   = HSBook.svg
+| سرليک   = د نن ورځې وراشه
+| متن = {{/پیغام/4}}
+}}
+<!-- ========================= پروژه =============== -->
+! {{لومړی مخ/بکس2
+| انځور   = {{{img1|Text-x-generic with pencil-2.svg}}}
+| سرليک   = {{{jud1|درې مياشتيزه پروژه}}}
+| متن = {{لومړی مخ/هدف ليکنې}}
+}}
+<!-- ========================= اضافی =============== --
+{{#if:{{{cont2|}}}|
+! {{لومړی مخ/بکس2
+| انځور   = {{{img2|Text-x-generic with pencil-2.svg}}}
+| سرليک   = {{{jud2|Partisipasi}}}
+| متن = {{{cont2|Mari berpartisipasi dalam membangun ensiklopedia bebas terlengkap berbahasa Indonesia!}}}
+}}|}}
+<!-- =============  تصاویر ================== -->
+! {{لومړی مخ/بکس2
+|id      = mf-gambarpilihan
+|سرليک   = منتخب انځور
+|انځور   =  HSBild.svg
+|متن = {{اولرنگ-سوم}}
+|lien    =
+}}
+<!-- ========================= ټولنه =============== -->
+! {{لومړی مخ/بکس2
+| انځور   = HSSamarbete.svg
+| سرليک   = ويکيپېډيا کارنان
+| متن = {{ويکي ټولنه}}
+}}
+
+<!-- ================== خورلڼې پروژې  =============== -->
+! {{لومړی مخ/بکس2
+| انځور   = Wikimedia-logo-circle.svg
+| سرليک   = {{nobr|خورلڼې پروژې}}
+| متن = {{clr}} {{ويکيپېډيا:لومړی مخ/نورې پروژې2}}
+}}
+|}
+<!-- =========================  =============== -->
+<!-- =========================   =============== -->
+|}
+<!-- =========================   =============== -->
+<!-- ==========================   ========================== -->
+{| style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;"
+| style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; {{border-radius|10px}}" |
+{| width="100%" style=" padding:0px; margin-top:0px; margin-bottom:0px; background:transparent;"
 |-
-| style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border-radius: 0.5em; border:1px solid #a3bfb1; text-align:right; color:#1485f6; padding:0.2em 0.4em;">آيا پدې پوهېدئ[[File:Help-browser_-_ar.svg|30px]] </h2> {{ايا پدې پوهېدئ}}
-|}
-| style="border:1px solid transparent;" |
-<!--        خبرونه       -->
-| class="MainPageBG" style="width:45%; border-radius: 0.5em; border:1px solid #cedff2; background:#f5faff; vertical-align:top;"|
-{| id="mp-right" style="width:100%; vertical-align:top; background:#f5faff;"
-| style="padding:2px;" | <h2 id="mp-itn-h2" style="margin:3px; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border-radius: 0.5em; border:1px solid #a3b0bf; text-align:right; color:#1485f6; padding:0.2em 0.4em;">[[File:Globe-with-clock.svg|30px]] په خبرونو کې</h2>
-|-
-| style="color:#000; padding:2px 5px;" | <div id="mp-itn">{{خبرونه}}</div>
-|-
-| style="padding:2px;" | <h2 id="mp-otd-h2" style="margin:3px; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border-radius: 0.5em; border:1px solid #a3b0bf; text-align:right; color:#1485f6; padding:0.2em 0.4em;">[[File:HSUtvaldgrey.png|30px]]ټاکلی لړليک</h2> {{ټاکلی لړليک}}
+| align=center |[[ويکيپېډيا:General disclaimer|ويکيپېډيا د اتباري مېنځپانګې ګرنټي نه ورکوي]]۔<br><small>[[Wikimedia Foundation]] يعني په ويکيپيډيا کې چې څه ليکلی کيږي د هغه هر څه د کارنانو لخوا ليکلی شوي که څه مسئله وي نو ويکيميډيا د هغې ذمه واره نه ده
+</small>
 |}
 |}
-<!--       ټاکلی انځور        -->
-{| id="mp-lower" style="margin:4px 0 0 0; width:100%; background:none; border-radius: 0.5em;border-spacing: 0px;"
-| class="MainPageBG" style="width:100%; border-radius: 0.5em; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;" |
-{| id="mp-bottom" style="width:100%; vertical-align:top; background:#faf5ff; color:#000;"
-| style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border-radius: 0.5em; border:1px solid #afa3bf; text-align:right; color:#1485f6; padding:0.2em 0.4em">[[File:PL Wiki InM ikona.svg|30px]] غوره انځور </h2> {{غوره انځور}}
+{| style="margin: 0 auto;background-color:transparent"
+|[[دوتنه:Crystal 128 mail.png|24px|link=ويکيپېډيا:اړيکه|alt=Hubungi kami]]||''[[ويکيپېډيا:اړيکه|که چېري تاسې ته د مرستې اړتيا وي نو زمونږ سره اړيکې/رابطه وکړئ]]''
 |}
-|}
-{| id="mp-bottom" style="vertical-align:top; background:#fff7e6; color:#000; width:100%"
-! style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:#f2f8d1; font-size:120%; border-radius: 0.5em; border:1px solid #faaa00; text-align:right; color:#1485f6; padding:0.2em 0.4em">[[File:Contactus-wmcolors.svg|30px]] د ويکيپېډېا خورلڼې پروژې</h2>
-|-
-| style="color:#000; padding:2px;" | <div id="mp-tfp">{{ويکيپېډيا:لومړی مخ/نورې پروژې}}</div>
-|}
-==[[File:W-circle.svg|30px]]  ويکيپېډېا نورې ژبې ==
-{{د ويکيپېډيا نورې ژبې}}
-|}
+<!-- ========================== پای ========================== -->
+__NOTOC__
 __NOEDITSECTION__
-__NOTOC____NOEDITSECTION__
-
-<!--        INTERWIKI STRAPLINE        -->
-<noinclude> {{noexternallanglinks}}{{#if:{{Wikipedia:Main_Page/Tomorrow}}||}}</noinclude>__NOTOC____NOEDITSECTION__
+{{noexternallanglinks}}
