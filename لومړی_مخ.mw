@@ -1,5 +1,7 @@
 <!------------------------------- د مخ سردره  ---------------------------------------------->
-{|  class="globegris" style="background-repeat:no-repeat; background-position: 43em -3.5em; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:0.4em;" |
+{| id="mp-columns" class="radius" cellspacing="5" style=" width:100%; background:none "
+|width=10% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .3em .3em 0em .3em; color: #000; background: #ffffff;" colspan=2|
+{|  class="globegris" style="background-repeat:no-repeat; background-position: 43em -3.5em; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 30px; -webkit-border-radius: 10px; border-radius:0.4em;" |
 | style="height:1em; padding-right:45px" |<imagemap>
 انځور:PWWT.png|260px|
 rect 1 1 247 97 [[ویکیپېډيا]]
@@ -36,8 +38,7 @@ desc none
 </div>
 </div>
 *********************************************************
-{| id="mp-columns" class="radius" cellspacing="5" style=" width:100%; background:none "
-|width=10% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .3em .3em 0em .3em; color: #000; background: #ffffff;" colspan=2|
+
 {{ليکلړ دړه}}
 
 <!------------------------------ "ويکيپېډيا ته ښه راغلئ" او د ليکنو شمېر--------------------------------->
