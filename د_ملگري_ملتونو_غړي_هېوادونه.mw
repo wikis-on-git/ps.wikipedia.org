@@ -1,392 +1,785 @@
 [[ملگري ملتونه]] د نړۍ يو داسې تنظيم دي کوم چې د دوېم نړيوالې جګړې څخه وروستو جوړ شوي دي د دې لپاره چې په نړۍ کې جنګ جګړو باندې قابو وموندي شي۔ ددې تنظيم مقصد په نړۍ پ هر ګوټ کې امن راوستل دي ، هغه هېوادونه چې ددې تنظيم غړي دي د هغو لړليک دا دي:
 
 {| class="sortable wikitable"
-|+ د ملگري ملتونو غړي هېوادونه
-|- bgcolor=#efefef
-! شمار || هېواد ||style="width:350px"|د هېواد انگريزی نوم  || د غړي جوړېدلو نېټه
-|-													
-|	1	||	align=right	|	{{بېرغ|آذربايجان}}	||	align=left	|	Azerbaijan	||	align=center	|	02-03-1992
-|-													
-|	2	||	align=right	|	{{بېرغ|ارمينيا}}	||	align=left	|	Armenia	||	align=center	|	02-03-1992
-|-													
-|	3	||	align=right	|	{{بېرغ|اسټريا}}	||	align=left	|	Austria	||	align=center	|	14-12-1955
-|-													
-|	4	||	align=right	|	{{بېرغ|اسټريليا}}	||	align=left	|	Australia	||	align=center	|	01-11-1945
-|-													
-|	5	||	align=right	|	{{بېرغ|آيرلينډ}}	||	align=left	|	Ireland ''<span style='color: Green'>or</span> ''Republic of Ireland	||	align=center	|	14-12-1955
-|-													
-|	6	||	align=right	|	{{بېرغ|آيس لينډ}}	||	align=left	|	Iceland	||	align=center	|	19-11-1946
-|-													
-|	7	||	align=right	|	{{بېرغ|اتحاد القمري}}	||	align=left	|	Comoros	||	align=center	|	12-11-1975
-|-													
-|	8	||	align=right	|	{{بېرغ|ارجنټائن}}	||	align=left	|	Argentina	||	align=center	|	24-10-1945
-|-													
-|	9	||	align=right	|	{{بېرغ|اردن}}	||	align=left	|	Jordan	||	align=center	|	14-12-1955
-|-													
-|	10	||	align=right	|	{{بېرغ|اريتريا}}	||	align=left	|	Eritrea	||	align=center	|	28-05-1993
-|-													
-|	11	||	align=right	|	{{بېرغ|ازبکستان}}	||	align=left	|	Uzbekistan	||	align=center	|	02-03-1992
-|-													
-|	12	||	align=right	|	{{بېرغ|استوائي گني}}	||	align=left	|	Equatorial Guinea	||	align=center	|	12-11-1968
-|-													
-|	13	||	align=right	|	{{بېرغ|اسرائيل}}	||	align=left	|	Israel	||	align=center	|	11-05-1949
-|-													
-|	14	||	align=right	|	{{بېرغ|استونيا}}	||	align=left	|	Estonia	||	align=center	|	17-09-1991
-|-													
-|	15	||	align=right	|	{{بېرغ|اطاليه}}	||	align=left	|	Italy	||	align=center	|	14-12-1955
-|-													
-|	16	||	align=right	|	{{بېرغ|افغانستان}}	||	align=left	|	Afghanistan	||	align=center	|	19-11-1946
-|-													
-|	17	||	align=right	|	{{بېرغ|البانيه}}	||	align=left	|	Albania	||	align=center	|	14-12-1955
-|-													
-|	18	||	align=right	|	{{بېرغ|الجزائر}}	||	align=left	|	Algeria	||	align=center	|	08-10-1962
-|-													
-|	19	||	align=right	|	{{بېرغ|انډورا}}	||	align=left	|	Andorra	||	align=center	|	28-07-1993
-|-													
-|	20	||	align=right	|	{{بېرغ|انډونيشيا}}	||	align=left	|	Indonesia	||	align=center	|	28-09-1950
-|-													
-|	21	||	align=right	|	{{بېرغ|انگولا}}	||	align=left	|	Angola	||	align=center	|	01-12-1976
-|-													
-|	22	||	align=right	|	{{بېرغ|ايتھوپيا}}	||	align=left	|	Ethiopia	||	align=center	|	13-11-1945
-|-													
-|	23	||	align=right	|	{{بېرغ|ايران}}	||	align=left	|	Iran ''<span style='color: Green'>or</span> ''Islamic Republic of Iran	||	align=center	|	24-10-1945
-|-													
-|	24	||	align=right	|	{{بېرغ|ايکواډور}}	||	align=left	|	Ecuador	||	align=center	|	21-12-1945
-|-													
-|	25	||	align=right	|	{{بېرغ|ايل سيلواډور}}	||	align=left	|	El Salvador	||	align=center	|	24-10-1945
-|-													
-|	26	||	align=right	|	{{بېرغ|اينټيگوا و باربوډا}}	||	align=left	|	Antigua and Barbuda	||	align=center	|	11-11-1981
-|-													
-|	27	||	align=right	|	{{بېرغ|بارباډوس}}	||	align=left	|	Barbados	||	align=center	|	09-12-1966
-|-													
-|	28	||	align=right	|	{{بېرغ|بحرين}}	||	align=left	|	Bahrain	||	align=center	|	21-09-1971
-|-													
-|	29	||	align=right	|	{{بېرغ|برازيل}}	||	align=left	|	Brazil	||	align=center	|	24-10-1945
-|-													
-|	30	||	align=right	|	{{بېرغ|برطانيه}}	||	align=left	|	United Kingdom	||	align=center	|	24-10-1945
-|-													
-|	31	||	align=right	|	{{بېرغ|برکينا فاسو}}	||	align=left	|	Burkina Faso	||	align=center	|	20-09-1960
-|-													
-|	32	||	align=right	|	{{بېرغ|برونائي}}	||	align=left	|	Brunei Darussalam	||	align=center	|	21-09-1984
-|-													
-|	33	||	align=right	|	{{بېرغ|برونډي}}	||	align=left	|	Burundi	||	align=center	|	18-09-1962
-|-													
-|	34	||	align=right	|	{{بېرغ|بلجئيم}}	||	align=left	|	Belgium	||	align=center	|	27-12-1945
-|-													
-|	35	||	align=right	|	{{بېرغ|بلغاريه}}	||	align=left	|	Bulgaria	||	align=center	|	14-12-1955
-|-													
-|	36	||	align=right	|	{{بېرغ|بنگله ديش}}	||	align=left	|	Bangladesh	||	align=center	|	17-09-1974
-|-													
-|	37	||	align=right	|	{{بېرغ|بوسنيا و هرزيگووينا}}	||	align=left	|	Bosnia and Herzegovina	||	align=center	|	22-05-1992
-|-													
-|	38	||	align=right	|	{{بېرغ|بوليويا}}	||	align=left	|	Bolivia	||	align=center	|	14-11-1945
-|-													
-|	39	||	align=right	|	{{بېرغ|بوټسوانا}}	||	align=left	|	Botswana	||	align=center	|	17-10-1966
-|-													
-|	40	||	align=right	|	{{بېرغ|بھارت}}	||	align=left	|	India	||	align=center	|	30-10-1945
-|-													
-|	41	||	align=right	|	{{بېرغ|بھوټان}}	||	align=left	|	Bhutan	||	align=center	|	21-09-1971
-|-													
-|	42	||	align=right	|	{{بېرغ|بهاماس}}	||	align=left	|	Bahamas	||	align=center	|	18-09-1973
-|-													
-|	43	||	align=right	|	{{بېرغ|بيلاروس}}	||	align=left	|	Belarus	||	align=center	|	24-10-1945
-|-													
-|	44	||	align=right	|	{{بېرغ|بيليز}}	||	align=left	|	Belize	||	align=center	|	25-09-1981
-|-													
-|	45	||	align=right	|	{{بېرغ|بينن}}	||	align=left	|	Benin	||	align=center	|	20-09-1960
-|-													
-|	46	||	align=right	|	{{بېرغ|پاپوا نيو گني}}	||	align=left	|	Papua New Guinea	||	align=center	|	10-10-1975
-|-													
-|	47	||	align=right	|	{{بېرغ|پاکستان}}	||	align=left	|	  Pakistan ''<span style='color: Green'>or</span> ''Islamic Republic of Pakistan	||	align=center	|	30-09-1947
-|-													
-|	48	||	align=right	|	{{بېرغ|پالاؤ}}	||	align=left	|	Palau	||	align=center	|	15-12-1994
-|-													
-|	49	||	align=right	|	{{بېرغ|پاناما}}	||	align=left	|	Panama	||	align=center	|	13-11-1945
-|-													
-|	50	||	align=right	|	{{بېرغ|پرتگال}}	||	align=left	|	Portugal	||	align=center	|	14-12-1955
-|-													
-|	51	||	align=right	|	{{بېرغ|پولينډ}}	||	align=left	|	Poland	||	align=center	|	24-10-1945
-|-													
-|	52	||	align=right	|	{{بېرغ|پيراگوئے}}	||	align=left	|	Paraguay	||	align=center	|	24-10-1945
-|-													
-|	53	||	align=right	|	{{بېرغ|پيرو}}	||	align=left	|	Peru	||	align=center	|	31-10-1945
-|-													
-|	54	||	align=right	|	{{بېرغ|تاجکستان}}	||	align=left	|	Tajikistan	||	align=center	|	02-03-1992
-|-													
-|	55	||	align=right	|	{{بېرغ|ترکمانستان}}	||	align=left	|	Turkmenistan	||	align=center	|	02-03-1992
-|-													
-|	56	||	align=right	|	{{بېرغ|ترکي}}	||	align=left	|	Turkey	||	align=center	|	24-10-1945
-|-													
-|	57	||	align=right	|	{{بېرغ|تنزانيه}}	||	align=left	|	Tanzania	||	align=center	|	14-12-1961
-|-													
-|	58	||	align=right	|	{{بېرغ|تووالو}}	||	align=left	|	Tuvalu	||	align=center	|	05-09-2000
-|-													
-|	59	||	align=right	|	{{بېرغ|تھائي لينډ}}	||	align=left	|	Thailand	||	align=center	|	16-12-1946
-|-													
-|	60	||	align=right	|	{{بېرغ|تيونس}}	||	align=left	|	Tunisia	||	align=center	|	12-11-1956
-|-													
-|	61	||	align=right	|	{{بېرغ|ټرينيډاډ و ټوباگو}}	||	align=left	|	Trinidad and Tobago	||	align=center	|	18-09-1962
-|-													
-|	62	||	align=right	|	{{بېرغ|ټوگو}}	||	align=left	|	Togo	||	align=center	|	20-09-1960
-|-													
-|	63	||	align=right	|	{{بېرغ|ټونگا}}	||	align=left	|	Tonga	||	align=center	|	14-09-1999
-|-													
-|	64	||	align=right	|	{{بېرغ|جاپان}}	||	align=left	|	Japan	||	align=center	|	18-12-1956
-|-													
-|	65	||	align=right	|	{{بېرغ|جارجيا}}	||	align=left	|	Georgia	||	align=center	|	31-07-1992
-|-													
-|	66	||	align=right	|	{{بېرغ|جبوتي}}	||	align=left	|	Djibouti	||	align=center	|	20-09-1977
-|-													
-|	67	||	align=right	|	{{بېرغ|جرمني}}	||	align=left	|	Germany	||	align=center	|	18-09-1973
-|-													
-|	68	||	align=right	|	{{بېرغ|جزائر سليمان}}	||	align=left	|	Solomon Islands	||	align=center	|	19-09-1978
-|-													
-|	69	||	align=right	|	{{بېرغ|جزائر مارشل}}	||	align=left	|	Marshall Islands	||	align=center	|	17-09-1991
-|-													
-|	70	||	align=right	|	{{بېرغ|جمهوريه چيک}}	||	align=left	|	Czech Republic	||	align=center	|	19-01-1993
-|-													
-|	71	||	align=right	|	{{بېرغ|جمهوريه ډومينيکن }}	||	align=left	|	Dominican Republic	||	align=center	|	24-10-1945
-|-													
-|	72	||	align=right	|	{{بېرغ|جميکا}}	||	align=left	|	Jamaica	||	align=center	|	18-09-1962
-|-													
-|	73	||	align=right	|	{{بېرغ|جنوبي افريقه}}	||	align=left	|	South Africa	||	align=center	|	07-11-1945
-|-													
-|	74	||	align=right	|	{{بېرغ|جنوبي کوريا}}	||	align=left	|	South Korea 	||	align=center	|	17-09-1991
-|-													
-|	75	||	align=right	|	{{بېرغ|چاډ}}	||	align=left	|	Chad	||	align=center	|	20-09-1960
-|-													
-|	76	||	align=right	|	{{بېرغ|چلي}}	||	align=left	|	Chile	||	align=center	|	24-10-1945
-|-													
-|	77	||	align=right	|	{{بېرغ|چين}}	||	align=left	|	China	||	align=center	|	24-10-1945
-|-													
-|	78	||	align=right	|	{{بېرغ|ډنمارک}}	||	align=left	|	Denmark	||	align=center	|	24-10-1945
-|-													
-|	79	||	align=right	|	{{بېرغ|ډومينيکا}}	||	align=left	|	Dominica	||	align=center	|	18-12-1978
-|-													
-|	80	||	align=right	|	{{بېرغ|روانډا}}	||	align=left	|	Rwanda	||	align=center	|	18-09-1962
-|-													
-|	81	||	align=right	|	{{بېرغ|روس}}	||	align=left	|	Russian Federation	||	align=center	|	24-10-1945
-|-													
-|	82	||	align=right	|	{{بېرغ|رومانيه}}	||	align=left	|	Romania	||	align=center	|	14-12-1955
-|-													
-|	83	||	align=right	|	{{بېرغ|رياستهائے متحده امريکه}}	||	align=left	|	United States	||	align=center	|	24-10-1945
-|-													
-|	84	||	align=right	|	{{بېرغ|زمبابوے}}	||	align=left	|	Zimbabwe	||	align=center	|	25-08-1980
-|-													
-|	85	||	align=right	|	{{بېرغ|زيمبيا}}	||	align=left	|	Zambia	||	align=center	|	01-12-1964
-|-													
-|	86	||	align=right	|	{{بېرغ|ساؤټوم}}	||	align=left	|	Sao Tome & Principe	||	align=center	|	16-09-1975
-|-													
-|	87	||	align=right	|	{{بېرغ|سامووا}}	||	align=left	|	Samoa	||	align=center	|	15-12-1976
-|-													
-|	88	||	align=right	|	{{بېرغ|سان مارينو}}	||	align=left	|	San Marino	||	align=center	|	02-03-1992
-|-													
-|	89	||	align=right	|	{{بېرغ|سربيا}}	||	align=left	|	Serbia	||	align=center	|	01-11-2000
-|-													
-|	90	||	align=right	|	{{بېرغ|سري لنکا}}	||	align=left	|	Sri Lanka	||	align=center	|	14-12-1955
-|-													
-|	91	||	align=right	|	{{بېرغ|سرينام}}	||	align=left	|	Suriname	||	align=center	|	04-12-1975
-|-													
-|	92	||	align=right	|	{{بېرغ|سعودي عرب}}	||	align=left	|	Saudi Arabia	||	align=center	|	24-10-1945
-|-													
-|	93	||	align=right	|	{{بېرغ|سلوواکيه}}	||	align=left	|	Slovakia	||	align=center	|	19-01-1993
-|-													
-|	94	||	align=right	|	{{بېرغ|سلووينيا}}	||	align=left	|	Slovenia	||	align=center	|	22-05-1992
-|-													
-|	95	||	align=right	|	{{بېرغ|سنگاپور}}	||	align=left	|	Singapore	||	align=center	|	21-09-1965
-|-													
-|	96	||	align=right	|	{{بېرغ|سوازي لينډ}}	||	align=left	|	Swaziland	||	align=center	|	24-09-1968
-|-													
-|	97	||	align=right	|	{{بېرغ|سوډان}}	||	align=left	|	Sudan	||	align=center	|	12-11-1956
-|-													
-|	98	||	align=right	|	{{بېرغ|سويټزر لينډ}}	||	align=left	|	Switzerland	||	align=center	|	10-09-2002
-|-													
-|	99	||	align=right	|	{{بېرغ|سويډن}}	||	align=left	|	Sweden	||	align=center	|	19-11-1946
-|-													
-|	100	||	align=right	|	{{بېرغ|سيچيليس}}	||	align=left	|	Seychelles	||	align=center	|	21-09-1976
-|-													
-|	101	||	align=right	|	{{بېرغ|سيراليون}}	||	align=left	|	Sierra Leone	||	align=center	|	27-09-1961
-|-													
-|	102	||	align=right	|	{{بېرغ|سينټ کيټز}}	||	align=left	|	Saint Kitts and Nevis	||	align=center	|	23-09-1983
-|-													
-|	103	||	align=right	|	{{بېرغ|سينټ لوسيا}}	||	align=left	|	Saint Lucia	||	align=center	|	18-09-1979
-|-													
-|	104	||	align=right	|	{{بېرغ|سينټ وينسينټ و گريناډائنز}}	||	align=left	|	Saint Vincent and the Grenadines	||	align=center	|	16-09-1980
-|-													
-|	105	||	align=right	|	{{بېرغ|سينيگال}}	||	align=left	|	Senegal	||	align=center	|	28-09-1960
-|-													
-|	106	||	align=right	|	{{بېرغ|شام}}	||	align=left	|	Syria	||	align=center	|	24-10-1945
-|-													
-|	107	||	align=right	|	{{بېرغ|شمالي کوريا}}	||	align=left	|	North Korea 	||	align=center	|	17-09-1991
-|-													
-|	108	||	align=right	|	{{بېرغ|صوماليه}}	||	align=left	|	Somalia	||	align=center	|	20-09-1960
-|-													
-|	109	||	align=right	|	{{بېرغ|عراق}}	||	align=left	|	Iraq	||	align=center	|	21-12-1945
-|-													
-|	110	||	align=right	|	{{بېرغ|عمان}}	||	align=left	|	Oman	||	align=center	|	07-10-1971
-|-													
-|	111	||	align=right	|	{{بېرغ|فجي}}	||	align=left	|	Fiji	||	align=center	|	13-10-1970
-|-													
-|	112	||	align=right	|	{{بېرغ|فرانس}}	||	align=left	|	France	||	align=center	|	24-10-1945
-|-													
-|	113	||	align=right	|	{{بېرغ|فلپائن}}	||	align=left	|	Philippines	||	align=center	|	24-10-1945
-|-													
-|	114	||	align=right	|	{{بېرغ|فن لينډ}}	||	align=left	|	Finland	||	align=center	|	14-12-1955
-|-													
-|	115	||	align=right	|	{{بېرغ|قازقستان}}	||	align=left	|	Kazakhstan	||	align=center	|	02-03-1992
-|-													
-|	116	||	align=right	|	{{بېرغ|قبرص}}	||	align=left	|	Cyprus	||	align=center	|	20-09-1960
-|-													
-|	117	||	align=right	|	{{بېرغ|قطر}}	||	align=left	|	Qatar	||	align=center	|	21-09-1971
-|-													
-|	118	||	align=right	|	{{بېرغ|کانگو}}	||	align=left	|	Congo ''<span style='color: Green'>or</span> '' Republic of the Congo ||	align=center	|	20-09-1960
-|-													
-|	119	||	align=right	|	{{بېرغ|کانگو (زائر)}}	||	align=left	|	Congo ''<span style='color: Green'>or</span> ''<br />Democratic  Republic of Congo ''<span style='color: Green'>or old name:</span>''Zair	||	align=center	|	20-09-1960
-|-													
-|	120	||	align=right	|	{{بېرغ|کرغيزستان}}	||	align=left	|	Kyrgyzstan	||	align=center	|	02-03-1992
-|-													
-|	121	||	align=right	|	{{بېرغ|کروشيا}}	||	align=left	|	Croatia	||	align=center	|	22-05-1992
-|-													
-|	122	||	align=right	|	{{بېرغ|کمبوډيا}}	||	align=left	|	Cambodia	||	align=center	|	14-12-1955
-|-													
-|	123	||	align=right	|	{{بېرغ|کوت داوواغ}}	||	align=left	|	Côte d'Ivoire	||	align=center	|	20-09-1960
-|-													
-|	124	||	align=right	|	{{بېرغ|کوسټا ريکا}}	||	align=left	|	Costa Rica	||	align=center	|	02-11-1945
-|-													
-|	125	||	align=right	|	{{بېرغ|کولمبيا}}	||	align=left	|	Colombia	||	align=center	|	05-11-1945
-|-													
-|	126	||	align=right	|	{{بېرغ|کويت}}	||	align=left	|	Kuwait	||	align=center	|	14-05-1963
-|-													
-|	127	||	align=right	|	{{بېرغ|کيپ ورډي}}	||	align=left	|	Cape Verd	||	align=center	|	16-09-1975
-|-													
-|	128	||	align=right	|	{{بېرغ|کيريباتي}}	||	align=left	|	Kiribati	||	align=center	|	14-09-1999
-|-													
-|	129	||	align=right	|	{{بېرغ|کيمرون}}	||	align=left	|	Cameroon	||	align=center	|	20-09-1960
-|-													
-|	130	||	align=right	|	{{بېرغ|کينيا}}	||	align=left	|	Kenya	||	align=center	|	16-12-1963
-|-													
-|	131	||	align=right	|	{{بېرغ|کينيډا}}	||	align=left	|	Canada	||	align=center	|	09-11-1945
-|-													
-|	132	||	align=right	|	{{بېرغ|کيوبا}}	||	align=left	|	Cuba	||	align=center	|	24-10-1945
-|-													
-|	133	||	align=right	|	{{بېرغ|گريناډا}}	||	align=left	|	Grenada	||	align=center	|	17-09-1974
-|-													
-|	134	||	align=right	|	{{بېرغ|گني}}	||	align=left	|	Guinea	||	align=center	|	12-12-1958
-|-													
-|	135	||	align=right	|	{{بېرغ|گني بساؤ}}	||	align=left	|	Guinea-Bissau	||	align=center	|	17-09-1974
-|-													
-|	136	||	align=right	|	{{بېرغ|گوئټے مالا}}	||	align=left	|	Guatemala	||	align=center	|	21-11-1945
-|-													
-|	137	||	align=right	|	{{بېرغ|گھانا}}	||	align=left	|	Ghana	||	align=center	|	08-03-1957
-|-													
-|	138	||	align=right	|	{{بېرغ|گيانا}}	||	align=left	|	Guyana	||	align=center	|	20-09-1966
-|-													
-|	139	||	align=right	|	{{بېرغ|گيبون}}	||	align=left	|	Gabon	||	align=center	|	20-09-1960
-|-													
-|	140	||	align=right	|	{{بېرغ|گيمبيا}}	||	align=left	|	Gambia	||	align=center	|	21-09-1965
-|-													
-|	141	||	align=right	|	{{بېرغ|لاؤس}}	||	align=left	|	Laos	||	align=center	|	14-12-1955
-|-													
-|	142	||	align=right	|	{{بېرغ|لائبيريا}}	||	align=left	|	Liberia	||	align=center	|	02-11-1945
-|-													
-|	143	||	align=right	|	{{بېرغ|لبنان}}	||	align=left	|	Lebanon	||	align=center	|	24-10-1945
-|-													
-|	144	||	align=right	|	{{بېرغ|لتھووينيا}}	||	align=left	|	Lithuania	||	align=center	|	17-09-1991
-|-													
-|	145	||	align=right	|	{{بېرغ|لټويا}}	||	align=left	|	Latvia	||	align=center	|	17-09-1991
-|-													
-|	146	||	align=right	|	{{بېرغ|لکسمبرگ}}	||	align=left	|	Luxembourg	||	align=center	|	24-10-1945
-|-													
-|	147	||	align=right	|	{{بېرغ|ليبيا}}	||	align=left	|	Libya	||	align=center	|	14-12-1955
-|-													
-|	148	||	align=right	|	{{بېرغ|ليختينستائن}}	||	align=left	|	Liechtenstein	||	align=center	|	18-09-1990
-|-													
-|	149	||	align=right	|	{{بېرغ|ليسوتھو}}	||	align=left	|	Lesotho	||	align=center	|	17-10-1966
-|-													
-|	150	||	align=right	|	{{بېرغ|مالديپ}}	||	align=left	|	Maldives	||	align=center	|	21-09-1965
-|-													
-|	151	||	align=right	|	{{بېرغ|مالټا}}	||	align=left	|	Malta	||	align=center	|	01-12-1964
-|-													
-|	152	||	align=right	|	{{بېرغ|مالډووا}}	||	align=left	|	Moldova	||	align=center	|	02-03-1992
-|-													
-|	153	||	align=right	|	{{بېرغ|مالي}}	||	align=left	|	Mali	||	align=center	|	28-09-1960
-|-													
-|	154	||	align=right	|	{{بېرغ|مائکرونيشيا}}	||	align=left	|	Micronesia	||	align=center	|	17-09-1991
-|-													
-|	155	||	align=right	|	{{بېرغ|متحده عرب امارات}}	||	align=left	|	United Arab Emirates	||	align=center	|	09-12-1971
-|-													
-|	156	||	align=right	|	{{بېرغ|مډغاسکر}}	||	align=left	|	Madagascar	||	align=center	|	20-09-1960
-|-													
-|	157	||	align=right	|	{{بېرغ|مراکش}}	||	align=left	|	Morocco	||	align=center	|	12-11-1956
-|-													
-|	158	||	align=right	|	{{بېرغ|مشرقي تيمور}}	||	align=left	|	East Timor	||	align=center	|	27-09-2002
-|-													
-|	159	||	align=right	|	{{بېرغ|مصر}}	||	align=left	|	Egypt	||	align=center	|	24-10-1945
-|-													
-|	160	||	align=right	|	{{بېرغ|مقدونيه}}	||	align=left	|	  Macedonia '' <span style='color: Green'>or</span> '' Republic of Macedonia||	align=center	|	08-04-1993
-|-													
-|	161	||	align=right	|	{{بېرغ|ملائشيا}}	||	align=left	|	Malaysia	||	align=center	|	17-09-1957
-|-													
-|	162	||	align=right	|	{{بېرغ|ملاوي}}	||	align=left	|	Malawi	||	align=center	|	01-12-1964
-|-													
-|	163	||	align=right	|	{{بېرغ|مناکو}}	||	align=left	|	Monaco	||	align=center	|	28-05-1993
-|-													
-|	164	||	align=right	|	{{بېرغ|منگوليا}}	||	align=left	|	Mongolia	||	align=center	|	27-10-1961
-|-													
-|	165	||	align=right	|	{{بېرغ|موريتانيه}}	||	align=left	|	Mauritania '' <span style='color: Green'>or </span>''Islamic Republic of Mauritania	||	align=center	|	27-10-1961
-|-													
-|	166	||	align=right	|	{{بېرغ|موريشس}}	||	align=left	|	Mauritius	||	align=center	|	24-04-1968
-|-													
-|	167	||	align=right	|	{{بېرغ|موزمبيق}}	||	align=left	|	Mozambique	||	align=center	|	16-09-1975
-|-													
-|	168	||	align=right	|	{{بېرغ|مونټينيگرو}}	||	align=left	|	Montenegro	||	align=center	|	28-06-2006
-|-													
-|	169	||	align=right	|	{{بېرغ|ميانمار}}	||	align=left	|	Myanmar '' <span style='color: Green'>or old name:</span>''Burma	||	align=center	|	19-04-1948
-|-													
-|	170	||	align=right	|	{{بېرغ|ميکسيکو}}	||	align=left	|	Mexico	||	align=center	|	07-11-1945
-|-													
-|	171	||	align=right	|	{{بېرغ|ناروے}}	||	align=left	|	Norway	||	align=center	|	27-11-1945
-|-													
-|	172	||	align=right	|	{{بېرغ|ناورو}}	||	align=left	|	Nauru	||	align=center	|	14-09-1999
-|-													
-|	173	||	align=right	|	{{بېرغ|نائجر}}	||	align=left	|	Niger	||	align=center	|	20-09-1960
-|-													
-|	174	||	align=right	|	{{بېرغ|نائجيريا}}	||	align=left	|	Nigeria	||	align=center	|	07-10-1960
-|-													
-|	175	||	align=right	|	{{بېرغ|نکاراگوا}}	||	align=left	|	Nicaragua	||	align=center	|	24-10-1945
-|-													
-|	176	||	align=right	|	{{بېرغ|نميبيا}}	||	align=left	|	Namibia	||	align=center	|	23-04-1990
-|-													
-|	177	||	align=right	|	{{بېرغ|نيپال}}	||	align=left	|	Nepal	||	align=center	|	14-12-1955
-|-													
-|	178	||	align=right	|	{{بېرغ|نيدرلينډز}}	||	align=left	|	Netherlands	||	align=center	|	10-12-1945
-|-													
-|	179	||	align=right	|	{{بېرغ|نيوزي لينډ}}	||	align=left	|	New Zealand	||	align=center	|	24-10-1945
-|-													
-|	180	||	align=right	|	{{بېرغ|وانواتو}}	||	align=left	|	Vanuatu	||	align=center	|	15-09-1981
-|-													
-|	181	||	align=right	|	{{بېرغ|وسطي افريقي جمهوريه}}	||	align=left	|	Central African Republic	||	align=center	|	20-09-1960
-|-													
-|	182	||	align=right	|	{{بېرغ|ويتنام}}	||	align=left	|	Vietnam	||	align=center	|	20-09-1977
-|-													
-|	183	||	align=right	|	{{بېرغ|وينيزويلا}}	||	align=left	|	Venezuela	||	align=center	|	15-11-1945
-|-													
-|	184	||	align=right	|	{{بېرغ|هسپانيه}}	||	align=left	|	Spain	||	align=center	|	14-12-1955
-|-													
-|	185	||	align=right	|	{{بېرغ|هنگري}}	||	align=left	|	Hungary	||	align=center	|	14-12-1955
-|-													
-|	186	||	align=right	|	{{بېرغ|هونډوراس}}	||	align=left	|	Honduras	||	align=center	|	17-12-1945
-|-													
-|	187	||	align=right	|	{{بېرغ|هيټي}}	||	align=left	|	Haiti	||	align=center	|	24-10-1945
-|-													
-|	188	||	align=right	|	{{بېرغ|يمن}}	||	align=left	|	Yemen	||	align=center	|	30-09-1947
-|-													
-|	189	||	align=right	|	{{بېرغ|يوراگوئے}}	||	align=left	|	Uruguay	||	align=center	|	18-12-1945
-|-													
-|	190	||	align=right	|	{{بېرغ|يوکرين}}	||	align=left	|	Ukraine	||	align=center	|	24-10-1945
-|-													
-|	191	||	align=right	|	{{بېرغ|يوگنډا}}	||	align=left	|	Uganda	||	align=center	|	25-10-1962
-|-													
-|	192	||	align=right	|	{{بېرغ|يونان}}	||	align=left	|	Greece	||	align=center	|	25-10-1945
+|-
+!غړی هېواد<ref name=originalmembers/><ref name=accedingmembers>{{citeweb|url=https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=I-2&chapter=1&lang=en|title=CHAPTER I - CHARTER OF THE UNITED NATIONS AND STATUTE OF THE INTERNATIONAL COURT OF JUSTICE|accessdate=2015-10-07|publisher=[[ملگري ملتونه]]}}</ref>
+! د داخلېدو نېټه
+! نوټ
+|-
+| {{بېرغ|افغانستان}}
+| {{Dts|format=dmy|1946|11|19}}
+|  
+|-
+| {{بېرغ|البانیا}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|الجزاير}}
+| {{Dts|format=dmy|1962|10|8}}
+| {{sort|~|}}
+|-
+| {{بېرغ|اندورا}}
+| {{Dts|format=dmy|1993|7|28}}
+| {{sort|~|}}
+|-
+| {{بېرغ|آنگولا}}
+| {{Dts|format=dmy|1976|12|1}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Antigua and Barbuda}}
+| {{Dts|format=dmy|1981|11|11}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|ارجنټاین}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|ارمنستان}}
+| {{Dts|format=dmy|1992|3|2}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|اسټرېليا}}'''
+| {{Dts|format=dmy|1945|11|1}}
+|  
+|-
+| {{بېرغ|اتريش}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|آزربايجان}}
+| {{Dts|format=dmy|1992|3|2}}
+|  
+|-
+| {{بېرغ|Bahamas}}
+| {{Dts|format=dmy|1973|9|18}}
+| {{sort|~|}}
+|-
+| {{بېرغ|بحرین}}
+| {{Dts|format=dmy|1971|9|21}}
+| {{sort|~|}}
+|-
+| {{بېرغ|بنگله دېش}}
+| {{Dts|format=dmy|1974|9|17}}
+| {{sort|~|}}
+|-
+| {{بېرغ|باربادوس}}
+| {{Dts|format=dmy|1966|12|9}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|بېلاروس}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|بلجیم}}'''
+| {{Dts|format=dmy|1945|12|27}}
+| {{sort|~|}}
+|-
+| {{بېرغ|بېلیز}}
+| {{Dts|format=dmy|1981|9|25}}
+| {{sort|~|}}
+|-
+| {{بېرغ|بېنين}} <ref group="note">'''Benin''': Name was changed from '''[[Republic of Dahomey|Dahomey]]''' on 1 December 1975.</ref>
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|بوټان}}
+| {{Dts|format=dmy|1971|9|21}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|بولېویا}}''' <ref group="note">'''Bolivia (Plurinational State of)''': Previously referred to as '''Bolivia'''.</ref>
+| {{Dts|format=dmy|1945|11|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Bosnia and Herzegovina}}
+| {{Dts|format=dmy|1992|5|22}}
+|  
+|-
+| {{بېرغ|بوتسوانا}}
+| {{Dts|format=dmy|1966|10|17}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|برازیل}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|-
+| {{بېرغ|برونای}}
+| {{Dts|format=dmy|1984|9|21}}
+| {{sort|~|}}
+|-
+| {{بېرغ|بلغاریا}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|بورکینا فاسو}} <ref group="note">'''Burkina Faso''': Name was changed from '''[[Republic of Upper Volta|Upper Volta]]''' on 6 August 1984.</ref>
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|بروندي}}
+| {{Dts|format=dmy|1962|9|18}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Cape Verde|name=Cabo Verde}} {{refn|group="note"|'''Cabo Verde''': Previously referred to as '''Cape Verde'''. On 24 October 2013, Cabo Verde requested that its name no longer be translated into different languages.<ref>{{cite web|url=http://unterm.un.org/dgaacs/unterm.nsf/c2f5f1ea9d52ce7485256dc5006e5940/564216703eaddfae85257c1300729613/$FILE/Cabo%20Verde%20change%20of%20name.pdf|title=Change of name – Cape Verde|date=29 October 2013|accessdate=2 January 2014|publisher=United Nations}}</ref>}}
+| {{Dts|format=dmy|1975|9|16}}
+| {{sort|~|}}
+|-
+| {{بېرغ|کمبودیا}} <ref group="note">'''Cambodia''': Name was changed to the '''[[Khmer Republic]]''' on 7 October 1970, and back to Cambodia on 30 April 1975. Name was changed again to '''[[Democratic Kampuchea]]''' on 6 April 1976, and back to Cambodia on 3 February 1990.</ref>
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|کامرون}} <ref group="note">'''Cameroon''': Previously referred to as '''[[Cameroun]]''' (before merging with [[Southern Cameroons]] in 1961). By a letter of 4 January 1974, the Secretary-General was informed that Cameroon had changed its name to the '''United Republic of Cameroon'''. Name was changed back to Cameroon on 4 February 1984.</ref>
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|کاناډا}}'''
+| {{Dts|format=dmy|1945|11|9}}
+|  
+|-
+| {{بېرغ|د منځنی افريقا ولسمشريزه}} <ref group="note">'''Central African Republic''': By a letter of 20 December 1976, the Central African Republic advised that it had changed its name to the '''[[Central African Empire]]'''. Name was changed back to the Central African Republic on 20 September 1979.</ref>
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|چاډ}}
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|چېلي}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|چين د خلکو جمهوريت}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|Colombia}}'''
+| {{Dts|format=dmy|1945|11|5}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Comoros}}
+| {{Dts|format=dmy|1975|11|12}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Congo}} <ref group="note">'''Congo''': Previously referred to as '''Congo (Brazzaville)''' (to differentiate it from Congo (Leopoldville)) and the '''[[People's Republic of the Congo]]'''. Name was changed to Congo on 15 November 1971 (after the Democratic Republic of the Congo changed its name to Zaire). Also referred to as '''Congo (Republic of the)'''.</ref>
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+|- style="background:#ccddff;"
+| '''{{بېرغ|کوسټاریکا}}'''
+| {{Dts|format=dmy|1945|11|2}}
+| {{sort|~|}}
+|-
+| {{sort|Cote d'Ivoire|{{بېرغ|عاج ساحل}}}} <ref group="note">'''Côte d'Ivoire''': Previously referred to as '''Ivory Coast'''. On 6 November 1985, Côte d'Ivoire requested that its name no longer be translated into different languages; this became fully effective on 1 January 1986.</ref>
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|کروواسيا}}
+| {{Dts|format=dmy|1992|5|22}}
+| 
+|- style="background:#ccddff;"
+| '''{{بېرغ|Cuba}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Cyprus}}
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|چېک جمهوريت}}
+| {{Dts|format=dmy|1993|1|19}}
+|  
+|-
+| {{بېرغ|شمالي کوريا}}
+| {{Dts|format=dmy|1991|9|17}}
+|  
+|-
+| {{بېرغ|Democratic Republic of the Congo}} <ref group="note">'''Democratic Republic of the Congo''': Previously referred to as '''[[Republic of the Congo (Léopoldville)|Congo (Leopoldville)]]''' (to differentiate it from Congo (Brazzaville)). Name was changed from the Democratic Republic of the Congo to '''[[Zaire]]''' on 27 October 1971, and back to the Democratic Republic of the Congo on 17 May 1997.</ref>
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|ډېنمارک}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|جېبوتي}}
+| {{Dts|format=dmy|1977|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Dominica}}
+| {{Dts|format=dmy|1978|12|18}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|ډومنيکان جمهوريت}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|اېکوادور}}'''
+| {{Dts|format=dmy|1945|12|21}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|مصر}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|اېلسلوادور}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Equatorial Guinea}}
+| {{Dts|format=dmy|1968|11|12}}
+| {{sort|~|}}
+|-
+| {{بېرغ|اریتره}}
+| {{Dts|format=dmy|1993|5|28}}
+| {{sort|~|}}
+|-
+| {{بېرغ|اېسټونيا}}
+| {{Dts|format=dmy|1991|9|17}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|اېتوپیا}}'''
+| {{Dts|format=dmy|1945|11|13}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Fiji}}
+| {{Dts|format=dmy|1970|10|13}}
+|  
+|-
+| {{بېرغ|فېنلانډ}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|فرانس}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|-
+| {{بېرغ|گابن}}
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|گامبيا}} <ref group="note">'''Gambia''': Previously referred to as '''The Gambia'''.</ref>
+| {{Dts|format=dmy|1965|9|21}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Georgia}}
+| {{Dts|format=dmy|1992|7|31}}
+| 
+|-
+| {{بېرغ|آلمان}}
+| {{Dts|format=dmy|1973|9|18}}
+|  
+|-
+| {{بېرغ|گانا}}
+| {{Dts|format=dmy|1957|3|8}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|يونان}}'''
+| {{Dts|format=dmy|1945|10|25}}
+| {{sort|~|}}
+|-
+| {{بېرغ|گرېنادا}}
+| {{Dts|format=dmy|1974|9|17}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|گواتمالا}}'''
+| {{Dts|format=dmy|1945|11|21}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Guinea}}
+| {{Dts|format=dmy|1958|12|12}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Guinea-Bissau}}
+| {{Dts|format=dmy|1974|9|17}}
+| {{sort|~|}}
+|-
+| {{بېرغ|گويانا}}
+| {{Dts|format=dmy|1966|9|20}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|هایتي}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|هندوراس}}'''
+| {{Dts|format=dmy|1945|12|17}}
+| {{sort|~|}}
+|-
+| {{بېرغ|هنگري}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|آيسلېنډ}}
+| {{Dts|format=dmy|1946|11|19}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|هند}}'''
+| {{Dts|format=dmy|1945|10|30}}
+|  
+|-
+| {{بېرغ|اندونيزيا}}
+| {{Dts|format=dmy|1950|9|28}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|ايران}}''' <ref group="note">'''Iran (Islamic Republic of)''': Previously referred to as '''Iran'''. By a communication of 5 March 1981, Iran informed the Secretary-General that it should be referred to by its complete name of the Islamic Republic of Iran.</ref>
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|عراق}}'''
+| {{Dts|format=dmy|1945|12|21}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Ireland}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|اسرائيل}}
+| {{Dts|format=dmy|1949|5|11}}
+|  
+|-
+| {{بېرغ|اېټاليا}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|جمايکا}}
+| {{Dts|format=dmy|1962|9|18}}
+| {{sort|~|}}
+|-
+| {{بېرغ|جاپان}}
+| {{Dts|format=dmy|1956|12|18}}
+|  
+|-
+| {{بېرغ|اردن}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|قزاقستان}} <ref group="note">'''Kazakhstan''': Spelling was changed from '''{{sic|Kazakstan|hide=y}}''' on 20 June 1997.</ref>
+| {{Dts|format=dmy|1992|3|2}}
+| 
+|-
+| {{بېرغ|کېنيا}}
+| {{Dts|format=dmy|1963|12|16}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Kiribati}}
+| {{Dts|format=dmy|1999|9|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|کوېټ}}
+| {{Dts|format=dmy|1963|5|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|قرغزستان}}
+| {{Dts|format=dmy|1992|3|2}}
+|  
+|-
+| {{بېرغ|لاووس}} <ref group="note">'''Lao People's Democratic Republic''': Name was changed from '''Laos''' on 2 December 1975.</ref>
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Latvia}}
+| {{Dts|format=dmy|1991|9|17}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|لېبنان}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Lesotho}}
+| {{Dts|format=dmy|1966|10|17}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|لايبېريا}}'''
+| {{Dts|format=dmy|1945|11|2}}
+| {{sort|~|}}
+|-
+| {{بېرغ|لېبيا}}<ref>{{cite web| url=http://www.google.com/hostednews/ap/article/ALeqM5icXYt79s7IJJegE0iQ8CVQoiWl3A?docId=668f419b98cb446e81f2d5a226b96f9b| title=UN approves Libya seat for former rebels| publisher=[[Google News]]| agency=[[Associated Press]]| date=16 September 2011| accessdate=16 September 2011| last=Lederer| first=Edith M.}}</ref><ref group="note">'''Libya''': Formerly recognised as the '''Libyan Arab Republic''' from 1969 after originally being admitted as '''Libya'''. By notes verbales of 1 and 21 April 1977, the Libyan Arab Republic advised that it had changed its name to the '''[[History of Libya under Muammar Gaddafi#Great Socialist People's Libyan Arab Jamahiriya (1977–2011)|Libyan Arab Jamahiriya]]'''. On 16 September 2011, the UN General Assembly awarded the UN seat to the [[National Transitional Council]], thereby restoring the original name of '''Libya'''.</ref>
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Liechtenstein}}
+| {{Dts|format=dmy|1990|9|18}}
+| {{sort|~|}}
+|-
+| {{بېرغ|لېتوانيا}}
+| {{Dts|format=dmy|1991|9|17}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|لوگزامبورگ}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|-
+| {{بېرغ|مادغاسکر}} <ref group="note">'''Madagascar''': Previously referred to as the '''Malagasy Republic'''.</ref>
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|مالاوي}}
+| {{Dts|format=dmy|1964|12|1}}
+| {{sort|~|}}
+|-
+| {{بېرغ|مالیزیا}}
+| {{Dts|format=dmy|1957|9|17}}
+|  
+|- style="background:#ccddff;"
+|-
+| {{بېرغ|مالديپ}} <ref group="note">'''Maldives''': Previously referred to as the '''Maldive Islands'''.</ref>
+| {{Dts|format=dmy|1965|9|21}}
+| {{sort|~|}}
+|-
+| {{بېرغ|مالي}}
+| {{Dts|format=dmy|1960|9|28}}
+| {{sort|~|}}
+|-
+| {{بېرغ|مالټا}}
+| {{Dts|format=dmy|1964|12|1}}
+| {{sort|~|}}
+|-
+| {{بېرغ|مارشال ټاپووان}}
+| {{Dts|format=dmy|1991|9|17}}
+|  
+|-
+| {{بېرغ|موریتانيا}}
+| {{Dts|format=dmy|1961|10|27}}
+| {{sort|~|}}
+|-
+| {{بېرغ|ماوریتوس}}
+| {{Dts|format=dmy|1968|4|24}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|Mexico}}'''
+| {{Dts|format=dmy|1945|11|7}}
+|  
+|-
+| {{بېرغ|Federated States of Micronesia|name=<!--Official designation used by the UN-->Micronesia (Federated States of)}}
+| {{Dts|format=dmy|1991|9|17}}
+|  
+|-
+| {{بېرغ|Monaco}}
+| {{Dts|format=dmy|1993|5|28}}
+| {{sort|~|}}
+|-
+| {{بېرغ|مغولستان}}
+| {{Dts|format=dmy|1961|10|27}}
+| {{sort|~|}}
+|-
+| {{بېرغ|مانتېنېگرو}}
+| {{Dts|format=dmy|2006|6|28}}
+|  
+|-
+| {{بېرغ|مراکش}}
+| {{Dts|format=dmy|1956|11|12}}
+| {{sort|~|}}
+|-
+| {{بېرغ|موزمبيق}}
+| {{Dts|format=dmy|1975|9|16}}
+| {{sort|~|}}
+|-
+| {{بېرغ|ميانمار}} <ref group="note">'''Myanmar''': Name was changed from '''Burma''' on 18 June 1989.</ref>
+| {{Dts|format=dmy|1948|4|19}}
+| {{sort|~|}}
+|-
+| {{بېرغ|نېمبیا}}
+| {{Dts|format=dmy|1990|4|23}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Nauru}}
+| {{Dts|format=dmy|1999|9|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|نيپال}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|Kingdom of the Netherlands<!--Link to sovereign state instead of country-->|name=Netherlands}}'''
+| {{Dts|format=dmy|1945|12|10}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|New Zealand}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|نیکاراگوا}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|نایجېر}}
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|نايجېريا}}
+| {{Dts|format=dmy|1960|10|7}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|ناروی}}'''
+| {{Dts|format=dmy|1945|11|27}}
+| {{sort|~|}}
+|-
+| {{بېرغ|عمان}}
+| {{Dts|format=dmy|1971|10|7}}
+| {{sort|~|}}
+|-
+| {{بېرغ|پاکستان}}
+| {{Dts|format=dmy|1947|9|30}}
+|  
+|-
+| {{بېرغ|Palau}}
+| {{Dts|format=dmy|1994|12|15}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|پاناما}}'''
+| {{Dts|format=dmy|1945|11|13}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Papua New Guinea}}
+| {{Dts|format=dmy|1975|10|10}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|Paraguay}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|پيرو}}'''
+| {{Dts|format=dmy|1945|10|31}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|فلېپين}}''' <ref group="note">'''Philippines''': Previously referred to as the '''[[Commonwealth of the Philippines|Philippine Commonwealth]]''' (before becoming a republic in 1946) and as the '''Philippine Republic'''.</ref>
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|پولنډ}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|پرتگال}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|قطر}}
+| {{Dts|format=dmy|1971|9|21}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سوېلي کوريا}}
+| {{Dts|format=dmy|1991|9|17}}
+|  
+|-
+| {{بېرغ|مولدوا}} <ref group="note">'''Republic of Moldova''': Previously referred to as '''Moldova'''.</ref>
+| {{Dts|format=dmy|1992|3|2}}
+|  
+|-
+| {{بېرغ|رومانیا}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|روسیه}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|-
+| {{بېرغ|راونډا}}
+| {{Dts|format=dmy|1962|9|18}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Saint Kitts and Nevis}} <ref group="note">'''Saint Kitts and Nevis''': Name was changed officially from '''Saint Christopher and Nevis''' on 26 November 1986; the UN, however, continued to use the former name throughout the year.</ref>
+| {{Dts|format=dmy|1983|9|23}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سېنټ لوسیا}}
+| {{Dts|format=dmy|1979|9|18}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Saint Vincent and the Grenadines}}
+| {{Dts|format=dmy|1980|9|16}}
+| {{sort|~|}}
+|-
+| {{بېرغ|ساموا}}
+| {{Dts|format=dmy|1976|12|15}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سان مارینو}}
+| {{Dts|format=dmy|1992|3|2}}
+| {{sort|~|}}
+|-
+| {{بېرغ|São Tomé and Príncipe|name=<!--Official designation used by the UN-->Sao Tome and Principe}} <ref group="note">'''Sao Tome and Principe''': The official UN designation lacks [[diacritic]]s; however, the name is constitutionally defined as '''São Tomé and Príncipe''', with diacritics.</ref>
+| {{Dts|format=dmy|1975|9|16}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|سعودي عربستان}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سېنېگال}}
+| {{Dts|format=dmy|1960|9|28}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سربيا}}
+| {{Dts|format=dmy|2000|11|1}}
+| 
+|-
+| {{بېرغ|سیشل}}
+| {{Dts|format=dmy|1976|9|21}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سېرالیون}}
+| {{Dts|format=dmy|1961|9|27}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سينگاپور}}
+| {{Dts|format=dmy|1965|9|21}}
+|  
+|-
+| {{بېرغ|سلواکيا}}
+| {{Dts|format=dmy|1993|1|19}}
+|  
+|-
+| {{بېرغ|سلووانیا}}
+| {{Dts|format=dmy|1992|5|22}}
+|  
+|-
+| {{بېرغ|Solomon Islands}}
+| {{Dts|format=dmy|1978|9|19}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سومالیا}}
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|سویلي افریقا}}''' <ref group="note">'''South Africa''': Previously referred to as the '''[[Union of South Africa]]''' (before becoming a republic in 1961).</ref>
+| {{Dts|format=dmy|1945|11|7}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سوېلي سوډان}}
+| {{Dts|format=dmy|2011|07|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|اسپانیا}}
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سریلانکا}} <ref group="note">'''Sri Lanka''': Name was changed from '''[[Dominion of Ceylon|Ceylon]]''' on 22 May 1972.</ref>
+| {{Dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سوډان}}
+| {{Dts|format=dmy|1956|11|12}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سورينام}} <ref group="note">'''Suriname''': Name was changed from '''Surinam''' on 23 January 1978.</ref>
+| {{Dts|format=dmy|1975|12|4}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سوازيلانډ}}
+| {{Dts|format=dmy|1968|9|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سويډن}}
+| {{Dts|format=dmy|1946|11|19}}
+| {{sort|~|}}
+|-
+| {{بېرغ|سويس}}
+| {{Dts|format=dmy|2002|9|10}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|سوريه}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|-
+| {{بېرغ|تاجيکستان}}
+| {{Dts|format=dmy|1992|3|2}}
+| 
+|-
+| {{بېرغ|تايلنډ}} <ref group="note">'''Thailand''': Previously referred to as '''Siam'''.</ref>
+| {{Dts|format=dmy|1946|12|16}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Macedonia|name=<!--Official designation used by the UN-->The former Yugoslav Republic of Macedonia}}
+| {{Dts|format=dmy|1993|4|8}}
+|  
+|-
+| {{بېرغ|Timor-Leste}}
+| {{Dts|format=dmy|2002|9|27}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Togo}}
+| {{Dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Tonga}}
+| {{Dts|format=dmy|1999|9|14}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Trinidad and Tobago}}
+| {{Dts|format=dmy|1962|9|18}}
+|  
+|-
+| {{بېرغ|تونس}}
+| {{Dts|format=dmy|1956|11|12}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|ترکي}}'''
+| {{Dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+| {{بېرغ|تورکمنستان}}
+| {{Dts|format=dmy|1992|3|2}}
+|  
+|-
+| {{بېرغ|Tuvalu}}
+| {{Dts|format=dmy|2000|9|5}}
+| 
+|-
+| {{بېرغ|Uganda}}
+| {{Dts|format=dmy|1962|10|25}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|اوکراین}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|-
+| {{بېرغ|متحده عرب امارات}}
+| {{Dts|format=dmy|1971|12|9}}
+| {{sort|~|}}
+|- style="background:#ccddff;"
+| '''{{بېرغ|بريتانيا}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|-
+| {{بېرغ|تانزانیه}}
+| {{Dts|format=dmy|1961|12|14}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|امريکې متحده ايالتونه}}'''
+| {{Dts|format=dmy|1945|10|24}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|Uruguay}}'''
+| {{Dts|format=dmy|1945|12|18}}
+| {{sort|~|}}
+|-
+| {{بېرغ|اوزبکستان}}
+| {{Dts|format=dmy|1992|3|2}}
+|  
+|-
+| {{بېرغ|Vanuatu}}
+| {{Dts|format=dmy|1981|9|15}}
+|  
+|- style="background:#ccddff;"
+| '''{{بېرغ|Venezuela|state<!--Use state flag-->|name=<!--Official designation used by the UN-->Venezuela (Bolivarian Republic of)}}''' <ref group="note">'''Venezuela (Bolivarian Republic of)''': Previously referred to as '''Venezuela'''.</ref>
+| {{Dts|format=dmy|1945|11|15}}
+| {{sort|~|}}
+|-
+| {{بېرغ|Vietnam|name=Viet Nam<!--The space is included due to its use in the official UN designation-->}}
+| {{Dts|format=dmy|1977|9|20}}
+| {{sort|~|}}
+|-
+| {{بېرغ|يمن}}
+| {{Dts|format=dmy|1947|9|30}}
+|  
+|-
+| {{بېرغ|زېمبيا}}
+| {{Dts|format=dmy|1964|12|1}}
+| {{sort|~|}}
+|-
+| {{بېرغ|زېمبابوې}}
+| {{Dts|format=dmy|1980|8|25}}
+| {{sort|~|}}
 |}
-</center>
+
+
+==سرچينې==
