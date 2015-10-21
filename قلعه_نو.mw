@@ -31,7 +31,7 @@
 |dot_x =  |dot_y =
 |pushpin_map            = Afghanistan <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
 |pushpin_label_position =bottom
-|pushpin_map_caption    =Location in Afghanistan
+|pushpin_map_caption    =په افغانستان کې موقعيت
 |pushpin_mapsize        =300
 <!-- Location ------------------>
 |coordinates_display    = inline,title
@@ -109,7 +109,7 @@
 |latd=34|latm=59 |lats=12|latNS=N
 |longd=63|longm=7|longs=45|longEW=E
 |elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
-|elevation_m            = 967
+|elevation_m            =  
 |elevation_ft           =
 <!-- Area/postal codes & others -------->
 |postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
