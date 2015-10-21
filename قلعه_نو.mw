@@ -36,11 +36,11 @@
 <!-- Location ------------------>
 |coordinates_display    = inline,title
 |coordinates_region     = AF
-|subdivision_type       = Country
+|subdivision_type       = هېواد
 |subdivision_name       = [[افغانستان]]
-|subdivision_type1      = [[د افغانستان ولايتونه]]
-|subdivision_name1      = [[بادغيس ولايت]]
-|subdivision_type2      = District
+|subdivision_type1      = [[د افغانستان ولايتونه|ولايت]]
+|subdivision_name1      = [[بادغيس ولايت|بادغيس]]
+|subdivision_type2      = ولسوالۍ
 |subdivision_name2      = [[قلعه نو ولسوالۍ]]
 |subdivision_type3      = 
 |subdivision_name3      = 
@@ -87,7 +87,7 @@
 |population_footnotes           =
 |population_note                =
 |population_total               =64,125 <ref>{{cite web|title=The State of Afghan Cities Report 2015|url=http://unhabitat.org/books/soac2015/|accessdate=21 October 2015|ref=UN-Habitat}}</ref>
-|population_density_km2         =auto
+|population_density_km2         = 
 |population_density_sq_mi       =
 |population_metro               =
 |population_density_metro_km2   =
