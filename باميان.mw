@@ -37,9 +37,9 @@
 <!-- Location ------------------>
 |coordinates_display    = inline,title
 |coordinates_region     = AF
-|subdivision_type       = Country
-|subdivision_name       = {{بېرغ|Afghanistan}}
-|subdivision_type1      = [[د افغانستان ولايتونه]]
+|subdivision_type       = هېواد
+|subdivision_name       = {{بېرغ|افغانستان}}
+|subdivision_type1      = [[د افغانستان ولايتونه|ولايت]]
 |subdivision_name1      = [[باميان ولايت]]
 |subdivision_type2      = 
 |subdivision_name2      = 
@@ -109,17 +109,6 @@
 |utc_offset_DST         = 
 |latd=34 |latm=49|lats= |latNS=N
 |longd=67|longm=49|longs=|longEW=E
-|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
-|elevation_m            = 2550
-|elevation_ft           =
-<!-- Area/postal codes & others -------->
-|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
-|postal_code            =
-|area_code              =
-|blank_name             =
-|blank_info             =
-|blank1_name            =
-|blank1_info            =
 |website                = 
 |footnotes              = 
 }}
