@@ -1,0 +1,198 @@
+{{Navbox
+| name       = بیماری‌های خون
+| title      = پتالوجي یا [[زیانپوهنه]]: [[وینه پوهنه]], د [[سره گلبول]] او [[مېگاکاریوسیټ]] او اړوند ناروغۍ  [[Megakaryocyte-erythroid progenitor cell|MEP]] ([[ICD-10 Chapter II: Neoplasms%3B Chapter III: Diseases of the blood and blood-forming organs%2C and certain disorders involving the immune mechanism#D50-D89 - Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism|D50-69,74]], [[List of ICD-9 codes 280-289: Diseases of the blood and blood-forming organs|280-287]])
+| state      = {{{state|autocollapse}}}
+| listclass  = hlist
+| titlestyle = background:Silver
+| groupstyle = background:MistyRose;
+
+| group1  = [[سره گلبول]]
+| list1  =
+  {{Navbox|subgroup
+  | groupstyle = background-color: MistyRose;
+
+  | group1  = ↑
+  | list1  =
+    {{Navbox|subgroup
+    | groupstyle = background-color:MistyRose;width:6em;
+
+    | group1 = [[Polycythemia|Poly-<br>cythemia]]
+    | list1  = 
+* [[پولي سېتیمیا]]
+    }}
+
+  | group2  = ↓
+  | list2  =
+    {{Navbox|subgroup
+    | groupstyle = background-color:MistyRose;width:6em;
+
+    | group1  = [[کم‌خوني]]
+    | list1  =
+      {{Navbox|subgroup
+      | groupstyle = background-color:MistyRose;
+
+      | group1 = [[Nutritional anemia|Nutritional]]
+      | list1  = 
+* [[Microcytic anemia|ماینر-]]: [[د اوسپنې کمښت کم خوني]]
+** [[Plummer-Vinson syndrome]]
+
+* [[Macrocytic anemia|ماژور-]]: [[مېگالوبلاستیک وینې کمښت]]
+** [[کم‌خونی پرنیشیوز]]
+
+      | group2  = [[کم خونی همولیتیک]]<br>(mostly [[Normocytic anemia|Normo-]])
+      | list2  =
+        {{Navbox|subgroup
+        | groupstyle = background-color: MistyRose
+
+        | group1 = [[Congenital hemolytic anemia|Hereditary]]
+        | list1  = 
+* ''[[enzymopathy]]:'' [[فاویسم]]
+* ''[[قندکافت]]''
+** [[Pyruvate kinase deficiency|PK]]
+** [[Triosephosphate isomerase deficiency|TI]]
+** [[Hexokinase deficiency|HK]]
+
+* ''[[هموگلوبینوپاتی]]:'' [[تلاسېمیا]]
+** [[alpha-thalassemia|alpha]]
+** [[beta-thalassemia|beta]]
+** [[delta-thalassemia|delta]]
+* [[لور شکله وینې کمښت]]/[[Sickle cell trait|trait]]
+* [[Hereditary persistence of fetal hemoglobin|HPFH]]
+
+* ''[[گلبول قرمز]]:'' [[Hereditary spherocytosis]]
+** [[Minkowski-Chauffard syndrome]]
+* [[الیپتوسیتوز]]
+** [[Southeast Asian ovalocytosis]]
+* [[Hereditary stomatocytosis]]
+
+      | group2 = [[Acquired hemolytic anemia|Acquired]]
+      | list2  = 
+* [[کم‌خونی همولیتیک خود ایمنی]]
+** [[Warm autoimmune hemolytic anemia|WAHA]]
+** [[نشانگان آگلوتینین سرد]]
+** [[Paroxysmal cold hemoglobinuria|PCH]]
+
+* ''[[گلبول قرمز]]''
+** [[Paroxysmal nocturnal hemoglobinuria|PNH]]
+
+* [[Microangiopathic hemolytic anemia|MAHA]]
+* [[Thrombotic microangiopathy|TM]]
+** [[نشانگان همولیتیک اورمیک]]
+
+* [[Drug-induced autoimmune hemolytic anemia|Drug-induced autoimmune]]
+* [[Drug-induced nonautoimmune hemolytic anemia|Drug-induced nonautoimmune]]
+
+* [[Hemolytic disease of the newborn]]
+    }}
+
+  | group3 = [[کم‌خونی آپلاستیک]]<br>(mostly [[Normocytic anemia|Normo-]])
+  | list3  = 
+* [[Congenital hypoplastic anemia|Hereditary]]: [[آنمی فانکونی]]
+* [[کم خونی دیاموند-بلک فان]]
+
+* Acquired: [[pure red cell aplasia|PRCA]]
+* [[کم‌خونی سیدروبلاستیک]]
+* [[کم‌خونی میلوفیتزیک]]
+
+  | group4 = [[Red blood cell indices|Blood tests]]
+  | list4  = 
+* ''[[Mean corpuscular volume|MCV]]''
+** [[Normocytic anemia|Normocytic]]
+** [[Microcytic anemia|Microcytic]]
+** [[Macrocytic anemia|Macrocytic]]
+* ''[[Mean corpuscular hemoglobin concentration|MCHC]]''
+** [[Normochromic anemia|Normochromic]]
+** [[Hypochromic anemia|Hypochromic]]
+
+  }}
+
+  | group2 = Other
+  | list2  = 
+* [[متهموگلوبینمی]]
+* [[Sulfhemoglobinemia]]
+* [[Reticulocytopenia]]
+
+  }}
+}}
+
+| group2  = [[انعقاد خون]]/<br>[[اختلال انعقاد خون]]
+| list2  =
+  {{Navbox|subgroup
+  | groupstyle = background-color: MistyRose;
+
+  | group1  = ↑
+  | list1  =
+    {{Navbox|subgroup
+    | groupstyle = background-color: MistyRose
+
+    | group1 = [[Thrombophilia|Hyper-<br>coagulability]]
+    | list1  = 
+* ''primary:'' [[Antithrombin III deficiency]]
+* [[Protein C deficiency]]/[[Activated protein C resistance]]/[[Protein S deficiency]]/[[Factor V Leiden]]
+* [[Prothrombin G20210A]]
+* [[Sticky platelet syndrome]]
+
+* ''acquired:''[[ترومبوسیتوز]]
+** [[Essential thrombocytosis|essential]]
+* [[انعقاد درون‌رگی منتشر]]
+** [[Congenital afibrinogenemia]]
+** [[Purpura fulminans]]
+* ''[[خودایمنی]]''
+** [[Antiphospholipid syndrome|Antiphospholipid]]
+  }}
+
+| group2  = ↓
+| list2  =
+  {{Navbox|subgroup
+  | groupstyle = background-color: MistyRose;
+
+  | group1  = [[Bleeding diathesis|Hypo-<br>coagulability]]
+  | list1  =
+    {{Navbox|subgroup
+    | groupstyle = background-color:MistyRose;
+
+    | group1 = [[ترومبوسیتوپنی]]
+    | list1  = 
+
+* [[پورپورای ترومبوسیتوپنیک]]: [[پورپورای ناشناس کاهش پلاکت]]
+** [[Evans syndrome]]
+* [[Thrombotic microangiopathy|TM]]
+** [[پورپورای ترومبوتیک ترومبوسیتوپنیک]]
+
+* [[Heparin-induced thrombocytopenia]]
+* [[May-Hegglin anomaly]]
+
+    | group2 = [[پلاکت]]
+    | list2  = 
+* ''adhesion''
+** [[Bernard–Soulier syndrome]]
+* ''aggregation''
+** [[Glanzmann's thrombasthenia]]
+* ''[[platelet storage pool deficiency]]''
+** [[Hermansky–Pudlak syndrome]]
+** [[Gray platelet syndrome]]
+
+    | group3 = [[انعقاد خون]]
+    | list3  = 
+* [[هموفیلی]]
+** [[هموفیلی آ]]
+** [[هموفیلی بی]]
+** [[هموفیلی سی]]
+* [[بیماری فون‌ویلبراند]]
+* [[Hypoprothrombinemia|Hypoprothrombinemia/II]]
+* [[Factor XIII deficiency|XIII]]
+* [[Familial dysfibrinogenemia|Dysfibrinogenemia]]
+  }}
+}}
+}}
+
+| belowstyle = background: transparent; padding: 0px;
+| below = 
+
+}}<noinclude>
+{{جمع‌شوندگی}}
+{{توجه|این الگو بخشی از [[ویکی‌پدیا:الگوهای ناوبری]] است.}}
+
+
+[[رده:بیماری‌های خون]]
+</noinclude>
