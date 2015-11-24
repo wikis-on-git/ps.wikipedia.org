@@ -1,0 +1,189 @@
+<div id="mw-edittools-charinsert" class="mw-charinsert-buttons" title="روی الگو یا عبارت مورد نیاز خود کلیک کنید.">
+<span id="edittools_main">'''درج:''' <span title="سه‌چهارم خط"><charinsert>–</charinsert></span> <span title="تمام‌خط"><charinsert>—</charinsert></span> <charinsert>… ° ≈ ≠ ± ≤ ≥ − × ÷ √ ٪ → ← ↔ ↑ ↓ #</charinsert></span>&#32;<span id="edittools_name">'''امضاء:''' <charinsert>~~~~</charinsert></span>
+----
+<p class="mw-edittools-section" data-section-title="پیش‌فرض" style="display: none;">
+<small>'''نشانه‌های پرکاربرد:'''</small>
+<charinsert>'''+'''</charinsert>
+<charinsert>''+''</charinsert>
+<charinsert><nowiki>{{</nowiki>+<nowiki>}}</nowiki> </charinsert>
+<charinsert><nowiki>{{{</nowiki>+<nowiki>}}}</nowiki> </charinsert>
+<charinsert><nowiki>|</nowiki></charinsert>
+<charinsert>[+]</charinsert>
+<charinsert>[[|+]]</charinsert>
+<charinsert>[[+]]</charinsert>
+<charinsert>[[وېشنيزه:+]]</charinsert>
+<charinsert><nowiki>#تغییرمسیر [[+]]</nowiki></charinsert>
+<charinsert>{{پانویس}}</charinsert>
+<charinsert>{{مدرک}}</charinsert>
+<charinsert><ref>+</ref></charinsert>&lrm;<br />
+&lrm;<charinsert><s>+</s></charinsert>
+<charinsert><sup>+</sup></charinsert>
+<charinsert><sub>+</sub></charinsert>
+<charinsert><nowiki><!-- </nowiki>+<nowiki> --></nowiki></charinsert>&lrm;
+<charinsert><code>+</code></charinsert>
+<charinsert>&lt;nowiki>+</nowiki></charinsert>
+<charinsert><code>&lt;nowiki>+</nowiki></code></charinsert>
+<charinsert><pre>+</pre></charinsert>
+<charinsert><nowiki><source lang="">+</source></nowiki></charinsert>
+<charinsert><math>+</math></charinsert>
+<charinsert><blockquote>+</blockquote></charinsert>
+<charinsert><nowiki>{{خالی بماند}}</nowiki></charinsert>
+<charinsert><nowiki>{{سرخط}}</nowiki></charinsert>
+<charinsert><nowiki>{{بک}}</nowiki></charinsert>
+<charinsert><nowiki>{{جا:امضانشده|+}}</nowiki></charinsert>
+</span>
+</p>
+<p class="mw-edittools-section" data-section-title="یادکردها و منابع" style="display: none;">
+<small>'''ارجاع‌دهی''':</small>
+<charinsert><ref>+</ref></charinsert>
+<charinsert><nowiki><ref name="">+</ref></nowiki></charinsert>
+<charinsert><nowiki><ref name="+" /></nowiki></charinsert>
+<charinsert><nowiki><ref group="">+</ref></nowiki></charinsert>
+</br>
+<small>'''درخواست خط به خط:'''</small>
+<charinsert>&#123;&#123;<nowiki>تحقیق؟</nowiki>+&#125;&#125;</charinsert>
+<charinsert><nowiki>{{مدرک|+}}</nowiki></charinsert>
+<charinsert>&#123;&#123;<nowiki>چه کسی؟</nowiki>+&#125;&#125;</charinsert>
+<charinsert>&#123;&#123;<nowiki>چه زمانی؟</nowiki>+&#125;&#125;</charinsert>
+</br>
+<small>'''یادکردها:'''</small>
+<charinsert><nowiki><ref>{{یادکرد کتاب |نام خانوادگی= |نام= |کتاب=+ | ناشر= |سال= |شابک=}}</ref></nowiki></charinsert>
+<charinsert><nowiki><ref>{{یادکرد وب |نویسنده = |نشانی= |عنوان=+ | ناشر = |تاریخ = |تاریخ بازبینی= }}</ref></nowiki></charinsert>
+<charinsert><nowiki><ref>{{پک|نام خانوادگی+|سال|ک=کتاب|ص=صفحه}}</ref></nowiki></charinsert>
+</br>
+<small>'''پایین بخش منابع:'''</small>
+<charinsert><nowiki>{{پانویس}}</nowiki></charinsert>
+<charinsert><nowiki>{{پانویس|۲|چپ‌چین=بله}}</nowiki></charinsert>
+</p>
+<p class="mw-edittools-section" data-section-title="الگوهای عنوان و زبان" style="display: none;">
+<small>'''نام‌ها و عنوان‌ها:'''</small>
+<charinsert><nowiki>{{نام پیشین|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{اختصاری|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{نام علمی|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{مخفف|+|||}}</nowiki></charinsert>
+<charinsert><nowiki>{{نقل قول|+}}</nowiki></charinsert>
+<br/>
+<small>'''زبان‌ها:'''</small>
+<charinsert><nowiki>{{به انگلیسی|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{به فرانسوی|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{به آلمانی|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{به عربی|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{به ایتالیایی|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{به ترکی آذربایجانی|+}}</nowiki></charinsert>
+<br/>
+<small>'''سایر:'''</small>
+<charinsert><nowiki>{{مخفف انگلیسی|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{نشان زبان|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{اختصاری|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{مخفف|+|||}}</nowiki></charinsert>
+</p>
+<p class="mw-edittools-section" data-section-title="الگوهای پرکاربرد دیگر" style="display: none;">
+<small>'''اندازه و چینش:'''</small>
+<charinsert><nowiki>{{کوچک}}+{{پایان کوچک}}</nowiki></charinsert>
+<charinsert><nowiki>{{راست‌چین}}</nowiki>+<nowiki>{{پایان راست‌چین}}</nowiki></charinsert>
+<charinsert><nowiki>{{وسط‌چین}}</nowiki>+<nowiki>{{پایان وسط‌چین}}</nowiki></charinsert>
+<charinsert><nowiki>{{چپ‌چین}}</nowiki>+<nowiki>{{پایان چپ‌چین}}</nowiki></charinsert>
+<br/>
+<small>'''شعر:'''</small>
+<charinsert><nowiki>{{شعر}}</nowiki>{{ب|+}}<nowiki>{{پایان شعر}}</nowiki></charinsert>
+<charinsert><nowiki>{{شعر|نستعلیق}}</nowiki>{{ب|+}}<nowiki>{{پایان شعر}}</nowiki></charinsert>
+<charinsert><nowiki>{{دارای نستعلیق}}</nowiki></charinsert>
+<br/>
+<small>'''الگوهای سن:'''</small>
+<charinsert><nowiki>{{سن|سال|ماه|روز|از تاریخ=خورشیدی}}</nowiki></charinsert>
+<charinsert><nowiki>{{تاریخ تولد و سن|سال|ماه|روز}}</nowiki></charinsert>
+<charinsert><nowiki>{{تاریخ مرگ و سن|سال|ماه|روز|سال۲|ماه۲|روز۲}}</nowiki></charinsert>
+<br/>
+<small>'''مختصات:'''</small>
+<charinsert><nowiki>{{coord|طول|<!--E یا W-->|عرض|<!--N یا S-->|display=<!--title یا inline یا title,inline-->|type:landmark}}</nowiki></charinsert>
+<br/>
+<small>'''مختصات گوگل‌مپ:'''</small>
+<charinsert><nowiki>{{coord|طول+|عرض|display=<!--title یا inline یا title,inline-->|type:landmark}}</nowiki></charinsert>
+<br/>
+<small>'''دسته‌بندی:'''</small>
+<charinsert><nowiki>{{آغاز تاشو|عنوان|width=600px}}+{{پایان تاشو}}</nowiki></charinsert>
+<charinsert><nowiki>{{چندستونه|ستون‌ها=۳}}+{{پایان چندستونه}}</nowiki></charinsert>
+<charinsert><nowiki>{{رده بهتر|+}}</nowiki></charinsert>
+</p>
+<p class="mw-edittools-section" data-section-title="فرمول‌نویسی" style="display: none;">
+<charinsert>– —</charinsert>
+<charinsert>“+” ‘+’ «+» ‹+› „+“ ‚+‘</charinsert>
+<charinsert>… ~ | ° </charinsert>
+<charinsert>≈ ≠ ≤ ≥ ± − × ÷ ← → ² ³ ½ · §</charinsert>
+<charinsert><math>+</math></charinsert>
+<br/>
+<charinsert>− × ÷ ⋅ ° ∗ ∘ ± ∓ ≤ ≥ ≠ ≡ ≅ ≜ ≝ ≐ ≃ ≈ ⊕ ⊗ ⇐ ⇔ ⇒ ∞ ← ↔ → ≪ ≫ ∝ √ ∤ ≀ ◅ ▻ ⋉ ⋊ ⋈ ∴ ∵ ↦ ¬ ∧ ∨ ⊻ ∀ ∃ ∈ ∉ ∋ ⊆ ⊈ ⊊ ⊂ ⊄ ⊇ ⊉ ⊋ ⊃ ⊅ ∪ ∩ ∑ ∏ ∐ ′ ∫ ∬ ∭ ∮ ∇ ∂ ∆ ∅ ℂ ℍ ℕ ℙ ℚ ℝ ℤ ℵ ⌊ ⌋ ⌈ ⌉ ⊤ ⊥ ⊢ ⊣ ⊧ □ ∠ ⟨ ⟩ </charinsert>
+</p>
+<p class="mw-edittools-section" data-section-title="پیوندها و نگاره‌ها" style="display: none;">
+<small>'''پیوند پروژه‌های خواهر:'''</small>
+<charinsert>[[Commons:|+]]</charinsert>
+<charinsert>[[m:|+]]</charinsert>
+<charinsert>[[n:|+]]</charinsert>
+<charinsert>[[q:|+]]</charinsert>
+<charinsert>[[s:|+]]</charinsert>
+<charinsert>[[b:|+]]</charinsert>
+<charinsert>[[wikt:|+]]</charinsert>
+<charinsert>[[v:|+]]</charinsert>
+</br>
+<small>'''نگارخانه:'''</small>
+<charinsert><gallery>+</gallery></charinsert>
+<br/>
+<small>'''پرونده:'''</small>
+<charinsert>[[:پرونده:+]]</charinsert>
+<charinsert>[[پرونده:+|بندانگشتی|راست|150px|<!--توضیح-->]]</charinsert>
+<charinsert>[[پرونده:+|بندانگشتی|چپ|150px|<!--توضیح-->]]</charinsert>
+</p>
+<p class="mw-edittools-section" data-section-title="عبارت‌های خاص" style="display: none;">
+<small>'''زیربخش:'''</small>
+<charinsert>__NOTOC__</charinsert>
+<charinsert>__TOC__</charinsert>
+<charinsert>__NOEDITSECTION__</charinsert>
+<charinsert>__NOGALLERY__</charinsert>
+<br/>
+<small>'''قالب‌بندی اعداد و زمان:'''</small>
+<charinsert><nowiki>{{formatnum:+}}</nowiki></charinsert>
+<charinsert><nowiki>{{formatnum:+|R}}</nowiki></charinsert>
+<charinsert><nowiki>{{#time:format|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{#time:format|+|en}}</nowiki></charinsert>
+<br/>
+<small>'''تراگنجانش‌ها:'''</small>
+<charinsert><includeonly>+</includeonly></charinsert>
+<charinsert><noinclude>+</noinclude></charinsert>
+</p>
+<small>'''نویسه‌های استاندارد:'''</small>
+«ی» و «ک» فارسی: <charinsert>ی</charinsert> <charinsert>ک</charinsert>
+نقش‌نمای اضافه بعد از «ه»، مانند «خانهٔ»: <charinsert>هٔ</charinsert>
+تنوین نصب، مانند «غالباً»: <charinsert>اً</charinsert>
+نیم‌فاصله: <charinsert>‌</charinsert>
+<!--الگوی جایگزین فاصلهٔ مجازی: <charinsert><nowiki>{{فم}}</nowiki></charinsert>--><br />
+<small>'''نویسه‌های ویژه:'''</small>
+گیومه: <charinsert>«+»</charinsert>
+ممیّز فارسی: <charinsert>٫</charinsert>
+جداکنندهٔ هزارگان: <charinsert>٬</charinsert>
+ارقام فارسی: <charinsert>۱ ۲ ۳ ۴ ۵ ۶ ۷ ۸ ۹ ۰</charinsert>
+نقطه‌گذاری: <charinsert>، ؛</charinsert>
+----
+<small>
+'''سمبولونه:''' ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶ &nbsp; # ½ ⅓ ⅔ ¼ ¾ ⅛ ⅜ ⅝ ⅞ ∞ &nbsp; ‘ ’ “ ” «» &nbsp; ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥ &nbsp; ♠ ♣ ♥ ♦ &nbsp; m² m³ &nbsp; ♭ ♯ ♮ &nbsp; © ® ™<br />
+'''لاتين:''' A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ &nbsp; B b &nbsp; C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç &nbsp; D d Ď ď Đ đ Ḍ ḍ Ð ð &nbsp; E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ə ə &nbsp; F f &nbsp; G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ &nbsp; H h Ĥ ĥ Ħ ħ Ḥ ḥ &nbsp; I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į &nbsp; J j Ĵ ĵ &nbsp; K k Ķ ķ &nbsp; L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ &nbsp; M m Ṃ ṃ &nbsp; N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ &nbsp; O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ő ő Ø ø Œ œ &nbsp; P p &nbsp; Q q &nbsp; R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ &nbsp; S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß &nbsp; T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ &nbsp; U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ &nbsp; V v &nbsp; W w Ŵ ŵ &nbsp; X x &nbsp; Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ &nbsp; Z z Ź ź Ż ż Ž ž &nbsp; ß Ð ð Þ þ Ə ə &nbsp; <nowiki>{{Unicode|}}</nowiki> <br />
+'''يوناني:''' Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ &nbsp; Α α Β β Γ γ Δ δ &nbsp; Ε ε Ζ ζ Η η Θ θ &nbsp; Ι ι Κ κ Λ λ Μ μ &nbsp; Ν ν Ξ ξ Ο ο Π π &nbsp; Ρ ρ Σ σ ς Τ τ Υ υ &nbsp; Φ φ Χ χ Ψ ψ Ω ω &nbsp; <nowiki>{{Polytonic|}}</nowiki> <br />
+'''سېرېليک:''' А а Б б В в Г г &nbsp; Ґ ґ Ѓ ѓ Д д Ђ ђ &nbsp; Е е Ё ё Є є Ж ж &nbsp; З з Ѕ ѕ И и І і &nbsp; Ї ї Й й Ј ј К к &nbsp; Ќ ќ Л л Љ љ М м &nbsp; Н н Њ њ О о П п &nbsp; Р р С с Т т Ћ ћ &nbsp; У у Ў ў Ф ф Х х &nbsp; Ц ц Ч ч Џ џ Ш ш &nbsp; Щ щ Ъ ъ Ы ы Ь ь &nbsp; Э э Ю ю Я я &nbsp; ́ <br />
+'''IPA:''' t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ &nbsp; ɸ ʃ ʒ ɕ ʑ ʂ ʐ ʝ ɣ ʁ ʕ ʜ ʢ ɦ &nbsp; ɱ ɳ ɲ ŋ ɴ &nbsp; ʋ ɹ ɻ ɰ &nbsp; ʙ ʀ ɾ ɽ &nbsp; ɫ ɬ ɮ ɺ ɭ ʎ ʟ &nbsp; ɥ ʍ ɧ &nbsp; ɓ ɗ ʄ ɠ ʛ &nbsp; ʘ ǀ ǃ ǂ ǁ &nbsp; ɨ ʉ ɯ &nbsp; ɪ ʏ ʊ &nbsp; ɘ ɵ ɤ &nbsp; ə ɚ &nbsp; ɛ ɜ ɝ ɞ ʌ ɔ &nbsp; ɐ ɶ ɑ ɒ &nbsp; ʰ ʷ ʲ ˠ ˤ ⁿ ˡ &nbsp; ˈ ˌ ː ˑ ̪ &nbsp; <nowiki>{{IPA|}}</nowiki>
+</small>
+<!--
+Everything up to here gets automatically replaced with the JavaScript edit tools for users with JavaScript enabled.
+-->
+</div>
+
+<div style="margin-top: 1em;" id="editpage-copywarn2">
+<strong style="font-size: 130%;">پام مو وي چې:</strong>
+* کله چې تاسې د خوندي کولو تڼۍ کېښکاږۍ، نو ستاسې لخوا ترسره شوي بدلونونه به ټولو ته ښکاري. که تاسې غواړۍ چې د يو څه د خپرولو دمخه يې وآزمايۍ نو بيا خپل آزمېښتي متنونه په '''[[{{ns:project}}:د آزمېښت مخ|آزمېښت مخ]]''' کې ترسره کړۍ.
+* دلته يوازې [[ويکيپېډيا:ويکيپېډيا يو پوهنغونډ دی|پوهنغونډيز]] مالومات چې نورې باندنۍ سرچينې يې د کره توب [[ويکيپېډيا:Verifiability|پخلی کړی وي]] خپاره کولی شی چې د يوې [[ويکيپېډيا:بې پرې والی او ناپېيلتوب|بې پرې]] او ناپېيلي نظر دريځ پلي کړي.
+* د خبرواترو  په مخونو کې، د دغو (<code><nowiki>~~~~</nowiki></code>) نښو په ليکلو سره خپل پيغام لاسليک کړی.
+* د باندنيو وېبپاڼو د خوندي رښتو مالومات [[ويکيپېډيا:لمېسل-لېښل|دلته خپاره نه کړۍ]]  – تاسې يوازې د [[ويکيپېډيا:ټولگړی شپول|ټولگړي شپول]] مېنځپانگې پرته د اجازې نه خپرولی شی.
+</div>
+
+----
+* دلته ټول سمونونه او بدلونونه د [[ویکيپېډيا:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License|کريېټيف کامنز منښتليک اړوندېدنه/Share-Alike 3.0]] او همدا شان [[د گنو د خپلواکو لاسوندونو د منښتليک]] (GFDL) لخوا خپرېږي.
+* '''که چېرته تاسې نه غواړی چې ستاسې ليکنې د نورو لخوا بدلون او سمون ومومي او دلته خپرې شي نو دلته يې مه ځای پر ځای کوۍ.'''
+</div>
