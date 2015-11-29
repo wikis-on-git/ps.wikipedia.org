@@ -18,17 +18,17 @@
 |- bgcolor=#efefef
 ! شمار ||د ژبو کورنۍ|| انگرېزي نوم || د ژبو شمېر (ايتھنولوگ) || د دې ژبې ويونکو شمېر
 |-																	
-|	1	||	align=right	|	[[جنوبي ايشيای ژبې]]	||	align=left	|	Austro-Asiatic languages	||	align=center	|	169	||	align=center	|	9
+|	1	||	align=right	|	[[سویلي اسیايي ژبې]]	||	align=left	|	Austro-Asiatic languages	||	align=center	|	169	||	align=center	|	9
 |-																	
-|	2	||	align=right	|	[[جنوبي جزایري ژبې]]	||	align=left	|	Austronesian languages	||	align=center	|	1268	||	align=center	|	5
+|	2	||	align=right	|	[[سویلي جزایري ژبې]]	||	align=left	|	Austronesian languages	||	align=center	|	1268	||	align=center	|	5
 |-																	
-|	3	||	align=right	|	[[آسټريلوي ژبې]]	||	align=left	|	Australian languages	||	align=center	|	263	||	align=center	|	-
+|	3	||	align=right	|	[[اسټرالیایي ژبې]]	||	align=left	|	Australian languages	||	align=center	|	263	||	align=center	|	-
 |-																	
 |	4	||	align=right	|	[[اسکيمو۔اليوت ژبې]]	||	align=left	|	Eskimo-Aleut languages	||	align=center	|	11	||	align=center	|	-
 |-																	
-|	5	||	align=right	|	[[اشاراتي ژبې]]	||	align=left	|	Sign language	||	align=center	|	3	||	align=center	|	-
+|	5	||	align=right	|	[[اشاري ژبې]]	||	align=left	|	Sign language	||	align=center	|	3	||	align=center	|	-
 |-																	
-|	6	||	align=right	|	[[افرو۔ايشيای ژبې]]	||	align=left	|	Afro-Asiatic languages	||	align=center	|	375	||	align=center	|	4
+|	6	||	align=right	|	[[افرو۔اسیایي ژبې]]	||	align=left	|	Afro-Asiatic languages	||	align=center	|	375	||	align=center	|	4
 |-																	
 |	7	||	align=right	|	[[الطای ژبې]]	||	align=left	|	Altaic languages	||	align=center	|	66	||	align=center	|	7
 |-																	
@@ -60,13 +60,13 @@
 |-																	
 |	21	||	align=right	|	[[رطانه ژبې]]	||	align=left	|	Pidgin languages	||	align=center	|	18	||	align=center	|	-
 |-																	
-|	22	||	align=right	|	[[شمالي کاکيشيای ژبې]]	||	align=left	|	 North Caucasian languages	||	align=center	|	34	||	align=center	|	-
+|	22	||	align=right	|	[[شمالي قفقازي ژبې]]	||	align=left	|	 North Caucasian languages	||	align=center	|	34	||	align=center	|	-
 |-																	
 |	23	||	align=right	|	[[طرشي اشاراتي ژبې]]	||	align=left	|	Deaf sign language	||	align=center	|	121	||	align=center	|	-
 |-																	
-|	24	||	align=right	|	[[غير درجه بند ژبې]]	||	align=left	|	Unclassified languages	||	align=center	|	78	||	align=center	|	-
+|	24	||	align=right	|	[[نا ډلبندي ژبې]]	||	align=left	|	Unclassified languages	||	align=center	|	78	||	align=center	|	-
 |-																	
-|	25	||	align=right	|	[[قديم امريکي ژبې]]†	||	align=left	|	Amerind languages	||	align=center	|	993	||	align=center	|	-
+|	25	||	align=right	|	[[پخوانۍ امريکي ژبې]]†	||	align=left	|	Amerind languages	||	align=center	|	993	||	align=center	|	-
 |-																	
 |	26	||	align=right	|	[[کادای ژبې]]	||	align=left	|	Tai-Kadai languages	||	align=center	|	76	||	align=center	|	8
 |-																	
@@ -74,7 +74,7 @@
 |-																	
 |	28	||	align=right	|	[[کريول ژبې]]	||	align=left	|	Creole languages	||	align=center	|	86	||	align=center	|	-
 |-																	
-|	29	||	align=right	|	[[مخلوط ژبې]]	||	align=left	|	Mixed languages	||	align=center	|	21	||	align=center	|	-
+|	29	||	align=right	|	[[ګډې ژبې]]	||	align=left	|	Mixed languages	||	align=center	|	21	||	align=center	|	-
 |-																	
 |	30	||	align=right	|	[[مونگميای ژبې]]	||	align=left	|	Hmong-Mien Languages 	||	align=center	|	35	||	align=center	|	-
 |-																	
@@ -82,9 +82,9 @@
 |-																	
 |	32	||	align=right	|	[[ناديني ژبې]]	||	align=left	|	Na-Dene languages	||	align=center	|	47	||	align=center	|	-
 |-																	
-|	33	||	align=right	|	[[نيل۔صحرای ژبې]]	||	align=left	|	Nilo-Saharan languages	||	align=center	|	204	||	align=center	|	-
+|	33	||	align=right	|	[[نيلو۔صحرایي ژبې]]	||	align=left	|	Nilo-Saharan languages	||	align=center	|	204	||	align=center	|	-
 |-																	
-|	34	||	align=right	|	[[هند۔يورپي ژبې]]	||	align=left	|	Indo-European languages	||	align=center	|	463	||	align=center	|	1
+|	34	||	align=right	|	[[هندو۔اروپایي ژبې]]	||	align=left	|	Indo-European languages	||	align=center	|	463	||	align=center	|	1
 |-																	
 |	35	||	align=right	|	[[يانيسای ژبې]]	||	align=left	|	Yeniseian Languages 	||	align=center	|	2	||	align=center	|	-
 |}
