@@ -17,14 +17,14 @@ This list is organized by symbol type and is intended to facilitate finding an u
 * '''Letter-based symbols:''' Many mathematical symbols are based on, or closely resemble, a letter in some alphabet. This section includes such symbols, including symbols that resemble upside-down letters. Many letters have conventional meanings in various branches of mathematics and physics. These are not listed here. The [[#See also|See also]] section, below, has several lists of such usages.
 **'''Letter modifiers:''' Symbols that can be placed on or next to any letter to modify the letter's meaning.
 ** '''Symbols based on [[English alphabet|Latin letters]]''', including those symbols that resemble or contain an X
-** '''Symbols based on [[Hebrew alphabet|Hebrew]] or [[Greek alphabet|Greek]] letters''' e.g. <big> ב ,א, δ, Δ, π, Π, σ, Σ, Φ.</big> ''Note:'' symbols resembling  Λ are grouped with "V" under Latin letters.
+** '''Symbols based on [[Hebrew alphabet|Hebrew]] or [[Greek alphabet|Greek]] letters''' e.g. <big> ב ,א, δ, Δ, π, Π, σ, Σ, Φ.</big> ''Note:'' symbols resembling Λ are grouped with "V" under Latin letters.
 * '''Variations:''' Usage in languages written right-to-left
 
 ==Basic symbols==
 {| class="wikitable" style="margin:auto; width:100%; border:1px"
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[HTML]]</small>
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[TeX]]</small>
-! style="text-align:left;"  |Name
+! style="text-align:left;" |Name
 ! rowspan="3" style="font-size:130%;" |Explanation
 ! rowspan="3" style="font-size:130%;" |Examples
 |-
@@ -33,287 +33,287 @@ This list is organized by symbol type and is intended to facilitate finding an u
 ! style="text-align:right;" |Category
 
 {{row of table of mathematical symbols
- | symbol   =[[plus sign|+]]
- | tex      =<math>+ \!\,</math>
- | rowspan  =2
- | name     =[[addition]]
- | readas   =[[plus and minus signs|plus]];<br/>add
+ | symbol =[[plus sign|+]]
+ | tex =<math>+ \!\,</math>
+ | rowspan =2
+ | name =[[addition]]
+ | readas =[[plus and minus signs|plus]];<br/>add
  | category =[[arithmetic]]
- | explain  =4 + 6 means the sum of 4 and 6.
+ | explain =4 + 6 means the sum of 4 and 6.
  | examples =2 + 7 = 9
 }}
 
 {{row of table of mathematical symbols
- | name     =[[disjoint union]]
- | readas   =the disjoint union of ... and ...
+ | name =[[disjoint union]]
+ | readas =the disjoint union of ... and ...
  | category =[[naive set theory|set theory]]
- | explain  =''A''<sub>1</sub> + ''A''<sub>2</sub> means the disjoint union of sets ''A''<sub>1</sub> and ''A''<sub>2</sub>.
+ | explain =''A''<sub>1</sub> + ''A''<sub>2</sub> means the disjoint union of sets ''A''<sub>1</sub> and ''A''<sub>2</sub>.
  | examples =''A''<sub>1</sub> = {3, 4, 5, 6} ∧ ''A''<sub>2</sub> = {7, 8, 9, 10} ⇒<br/>''A''<sub>1</sub> + ''A''<sub>2</sub> = {(3,1), (4,1), (5,1), (6,1), (7,2), (8,2), (9,2), (10,2)}
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[minus sign|&minus;]]
- | tex      =<math>- \!\,</math>
- | rowspan  =3
- | name     =[[subtraction]]
- | readas   =[[plus and minus signs|minus]];<br/>take;<br/>subtract
+ | symbol =[[minus sign|&minus;]]
+ | tex =<math>- \!\,</math>
+ | rowspan =3
+ | name =[[subtraction]]
+ | readas =[[plus and minus signs|minus]];<br/>take;<br/>subtract
  | category =[[arithmetic]]
- | explain  =9 &minus; 4 means the subtraction of 4 from 9.
+ | explain =9 &minus; 4 means the subtraction of 4 from 9.
  | examples =8 &minus; 3 = 5
 }}
 
 {{row of table of mathematical symbols
- | name     =[[plus and minus signs|negative sign]]
- | readas   =negative;<br/>minus;<br/>the opposite of
+ | name =[[plus and minus signs|negative sign]]
+ | readas =negative;<br/>minus;<br/>the opposite of
  | category =[[arithmetic]]
- | explain  =&minus;3 means the [[additive inverse]] of the number 3.
+ | explain =&minus;3 means the [[additive inverse]] of the number 3.
  | examples =&minus;(&minus;5) = 5
 }}
 
 {{row of table of mathematical symbols
- | name     =[[complement (set theory)|set-theoretic complement]]
- | readas   =minus;<br/>without
+ | name =[[complement (set theory)|set-theoretic complement]]
+ | readas =minus;<br/>without
  | category =[[naive set theory|set theory]]
- | explain  =''A''&nbsp;&minus;&nbsp;''B'' means the set that contains all the elements of ''A'' that are not in ''B''.  <br/><br/>(∖ ''can also be used for set-theoretic complement as described below.'')
+ | explain =''A''&nbsp;&minus;&nbsp;''B'' means the set that contains all the elements of ''A'' that are not in ''B''. <br/><br/>(∖ ''can also be used for set-theoretic complement as described below.'')
  | examples ={1,2,4}&nbsp;&minus;&nbsp;{1,3,4}&nbsp;&nbsp;=&nbsp; {2}
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[plus-minus sign|&plusmn;]]
- | tex      =<math>\pm \!\,</math>
- | rowspan  =2
- | name     =[[plus-minus sign|plus-minus]]
- | readas   =plus or minus
+ | symbol =[[plus-minus sign|&plusmn;]]
+ | tex =<math>\pm \!\,</math>
+ | rowspan =2
+ | name =[[plus-minus sign|plus-minus]]
+ | readas =plus or minus
  | category =[[arithmetic]]
- | explain  =6 &plusmn; 3 means both 6 + 3 and 6 &minus; 3.
+ | explain =6 &plusmn; 3 means both 6 + 3 and 6 &minus; 3.
  | examples =The equation ''x'' = 5 &plusmn; √4, has two solutions, ''x'' = 7 and ''x'' = 3.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[plus-minus sign|plus-minus]]
- | readas   =plus or minus
+ | name =[[plus-minus sign|plus-minus]]
+ | readas =plus or minus
  | category =[[measurement]]
- | explain  =10 &plusmn; 2 or equivalently 10 &plusmn; 20%  means the range from 10 &minus; 2 to 10 + 2.
+ | explain =10 &plusmn; 2 or equivalently 10 &plusmn; 20% means the range from 10 &minus; 2 to 10 + 2.
  | examples =If ''a'' = 100 &plusmn; 1 [[millimetre|mm]], then ''a'' &ge; 99 mm and ''a'' &le; 101 mm.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[minus-plus sign|{{Unicode|&#x2213;}}]]
- | tex      =<math>\mp \!\,</math>
- | rowspan  =1
- | name     =[[Minus-plus sign#Minus-plus_sign|minus-plus]]
- | readas   =minus or plus
+ | symbol =[[minus-plus sign|{{Unicode|&#x2213;}}]]
+ | tex =<math>\mp \!\,</math>
+ | rowspan =1
+ | name =[[Minus-plus sign#Minus-plus sign|minus-plus]]
+ | readas =minus or plus
  | category =[[arithmetic]]
- | explain  =6 &plusmn; (3 {{Unicode|&#x2213;}} 5) means 6 + (3 &minus; 5) and 6 &minus; (3 + 5).
+ | explain =6 &plusmn; (3 {{Unicode|&#x2213;}} 5) means 6 + (3 &minus; 5) and 6 &minus; (3 + 5).
  | examples =cos(''x'' &plusmn; ''y'') = cos(''x'') cos(''y'') {{Unicode|&#x2213;}} sin(''x'') sin(''y'').
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[multiplication sign|×]]<br><br />[[middle dot|&middot;]]
- | tex      =<math>\times \!\,</math><br><br /><math>\cdot \!\,</math>
- | rowspan  =3
- | name     =[[multiplication]]
- | readas   =times;<br/>multiplied by
+ | symbol =[[multiplication sign|×]]<br><br />[[middle dot|&middot;]]
+ | tex =<math>\times \!\,</math><br><br /><math>\cdot \!\,</math>
+ | rowspan =3
+ | name =[[multiplication]]
+ | readas =times;<br/>multiplied by
  | category =[[arithmetic]]
- | explain  =3 × 4 or 3 &middot; 4 means the multiplication of 3 by 4.
+ | explain =3 × 4 or 3 &middot; 4 means the multiplication of 3 by 4.
  | examples =7 &middot; 8 = 56
 }}
 
 {{row of table of mathematical symbols
- | name     =[[dot product]]
- | readas   =dot
+ | name =[[dot product]]
+ | readas =dot
  | category =[[linear algebra]]
- | explain  ='''u''' &middot; '''v''' means the dot product of [[vector (geometry)|vector]]s '''u''' and '''v'''
+ | explain ='''u''' &middot; '''v''' means the dot product of [[vector (geometry)|vector]]s '''u''' and '''v'''
  | examples =(1,2,5) &middot; (3,4,&minus;1) = 6
 }}
 
 {{row of table of mathematical symbols
- | name     =placeholder
- | readas   =(silent)
+ | name =placeholder
+ | readas =(silent)
  | category =[[functional analysis]]
- | explain  = A &nbsp; &middot; &nbsp;  means a placeholder for an argument of a function. Indicates the functional nature of an expression without assigning a specific symbol for an argument.
+ | explain = A &nbsp; &middot; &nbsp; means a placeholder for an argument of a function. Indicates the functional nature of an expression without assigning a specific symbol for an argument.
  | examples = <math>\|\cdot\|</math> 
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[division sign|&divide;]]<br/><br/>[[fraction slash|&frasl;]]
- | tex      =<math>\div \!\,</math><br/><br/><math>/ \!\,</math>
- | rowspan  =3
- | name     =[[division (mathematics)|division]] ([[Obelus]])
- | readas   =divided by;<br/>over
+ | symbol =[[division sign|&divide;]]<br/><br/>[[fraction slash|&frasl;]]
+ | tex =<math>\div \!\,</math><br/><br/><math>/ \!\,</math>
+ | rowspan =3
+ | name =[[division (mathematics)|division]] ([[Obelus]])
+ | readas =divided by;<br/>over
  | category =[[arithmetic]]
- | explain  =6 &divide; 3 or 6 &frasl; 3 means the division of 6 by 3.
+ | explain =6 &divide; 3 or 6 &frasl; 3 means the division of 6 by 3.
  | examples =2 &divide; 4 = 0.5<br/><br/>12 &frasl; 4 = 3
 }}
 
 {{row of table of mathematical symbols
- | name     =[[quotient group]]
- | readas   =mod
+ | name =[[quotient group]]
+ | readas =mod
  | category =[[group theory]]
- | explain  =''G''&nbsp;/&nbsp;''H'' means the quotient of group ''G'' [[Ideal (ring theory)|modulo]] its subgroup ''H''.
+ | explain =''G''&nbsp;/&nbsp;''H'' means the quotient of group ''G'' [[Ideal (ring theory)|modulo]] its subgroup ''H''.
  | examples ={0, ''a'', 2''a'', ''b'', ''b''+''a'', ''b''+2''a''}&nbsp;/&nbsp;{0, ''b''}&nbsp;= <nowiki>{{</nowiki>0, ''b''}, {''a'', ''b''+''a''}, {2''a'', ''b''+2''a''<nowiki>}}</nowiki>
 }}
 
 {{row of table of mathematical symbols
- | name     =quotient set
- | readas   =mod
+ | name =quotient set
+ | readas =mod
  | category =[[set theory]]
- | explain  =''A''/~ means the set of all ~ [[equivalence class]]es in ''A''.
+ | explain =''A''/~ means the set of all ~ [[equivalence class]]es in ''A''.
  | examples =If we define ~ by x&nbsp;~&nbsp;y ⇔ x&nbsp;&minus;&nbsp;y&nbsp;∈ {{Unicode|&#x2124;}}, then <br/>{{Unicode|&#x211D;}}/~&nbsp;= <nowiki>{</nowiki> {''x''&nbsp;+&nbsp;''n''&nbsp;: ''n''&nbsp;∈&nbsp;{{Unicode|&#x2124;}} }&nbsp;: x&nbsp;∈&nbsp;[0,1) }
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[radical symbol|√]]
- | tex      =<math>\surd \!\,</math><br/><br/><math>\sqrt{\ } \!\,</math>
- | rowspan  =2
- | name     =[[square root]]
- | readas   =the (principal) square root of
+ | symbol =[[radical symbol|√]]
+ | tex =<math>\surd \!\,</math><br/><br/><math>\sqrt{\ } \!\,</math>
+ | rowspan =2
+ | name =[[square root]]
+ | readas =the (principal) square root of
  | category =[[real numbers]]
- | explain  =<math>\sqrt{x}</math> means the nonnegative number whose square is <math>x</math>.
+ | explain =<math>\sqrt{x}</math> means the nonnegative number whose square is <math>x</math>.
  | examples =<math>\sqrt{4}=2</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[square root#Square roots of complex numbers|complex square root]]
- | readas   =the (complex) square root of
+ | name =[[square root#Square roots of complex numbers|complex square root]]
+ | readas =the (complex) square root of
  | category =[[complex numbers]]
- | explain  =if <math>z=r\,\exp(i\phi)</math> is represented in [[polar coordinate system|polar coordinate]]s with <math>-\pi < \phi \le \pi</math>, then <math>\sqrt{z} = \sqrt{r} \exp(i \phi/2)</math>.
+ | explain =if <math>z=r\,\exp(i\phi)</math> is represented in [[polar coordinate system|polar coordinate]]s with <math>-\pi < \phi \le \pi</math>, then <math>\sqrt{z} = \sqrt{r} \exp(i \phi/2)</math>.
  | examples =<math>\sqrt{-1}=i</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Sigma (letter)|∑]]
- | tex      =<math>\sum</math>
- | rowspan  =1
- | name     =[[summation]]
- | readas   =sum over ... from ... to ... of
+ | symbol =[[Sigma (letter)|∑]]
+ | tex =<math>\sum</math>
+ | rowspan =1
+ | name =[[summation]]
+ | readas =sum over ... from ... to ... of
  | category =[[arithmetic]]
- | explain  =<math>\sum_{k=1}^{n}{a_k}</math> means <math>a_1 + a_2 + \cdots + a_n</math>.
+ | explain =<math>\sum_{k=1}^{n}{a_k}</math> means <math>a_1 + a_2 + \cdots + a_n</math>.
  | examples =<math>\sum_{k=1}^{4}{k^2} = 1^2 + 2^2 + 3^2 + 4^2 = 1 + 4 + 9 + 16 = 30</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Integral symbol|{{intmath}}]]
- | tex      =<math>\int \!\,</math>
- | rowspan  =3
- | name     =[[indefinite integral]] or [[antiderivative]]
- | readas   =indefinite integral of<br/>the antiderivative of
+ | symbol =[[Integral symbol|{{intmath}}]]
+ | tex =<math>\int \!\,</math>
+ | rowspan =3
+ | name =[[indefinite integral]] or [[antiderivative]]
+ | readas =indefinite integral of<br/>the antiderivative of
  | category =[[calculus]]
- | explain  ={{math|1={{intmath}} ''f''(''x'') d''x''}} means a function whose derivative is {{mvar|f}}.
+ | explain ={{math|1={{intmath}} ''f''(''x'') d''x''}} means a function whose derivative is {{mvar|f}}.
  | examples ={{math|1={{intmath}} ''x''<sup>2</sup> d''x'' = {{sfrac|''x''<sup>3</sup>|3}} + ''C''}}
 }}
 
 {{row of table of mathematical symbols
- | name     =[[definite integral]]
- | readas   =integral from ... to ... of ... with respect to
+ | name =[[definite integral]]
+ | readas =integral from ... to ... of ... with respect to
  | category =[[calculus]]
- | explain  ={{math|1={{intmath||''a''|''b''}} ''f''(''x'') d''x''}} means the signed [[area]] between the {{mvar|x}}-axis and the [[graph (functions)|graph]] of the [[function (mathematics)|function]] {{mvar|f}} between {{math|1=''x'' = ''a''}} and {{math|1=''x'' = ''b''}}.
+ | explain ={{math|1={{intmath||''a''|''b''}} ''f''(''x'') d''x''}} means the signed [[area]] between the {{mvar|x}}-axis and the [[graph (functions)|graph]] of the [[function (mathematics)|function]] {{mvar|f}} between {{math|1=''x'' = ''a''}} and {{math|1=''x'' = ''b''}}.
  | examples =<math>\int_a^b x^2 dx= \frac{b^3 - a^3}{3}</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[line integral]]
- | readas   =line/ path/ curve/ integral of ... along ...
+ | name =[[line integral]]
+ | readas =line/ path/ curve/ integral of ... along ...
  | category =[[calculus]]
- | explain  ={{math|1={{intmath||''C''}} ''f'' d''s''}} means the integral of {{mvar|f}} along the curve {{mvar|C}}, <math>\int_a^b f(\mathbf{r}(t)) |\mathbf{r}'(t)|\, dt</math>, where {{math|'''r'''}} is a parametrization of {{mvar|C}}. (If the curve is closed, the symbol {{intmath|oint}} may be used instead, as described below.)
+ | explain ={{math|1={{intmath||''C''}} ''f'' d''s''}} means the integral of {{mvar|f}} along the curve {{mvar|C}}, <math>\int_a^b f(\mathbf{r}(t)) |\mathbf{r}'(t)|\, dt</math>, where {{math|'''r'''}} is a parametrization of {{mvar|C}}. (If the curve is closed, the symbol {{intmath|oint}} may be used instead, as described below.)
  | examples =
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{intmath|oint}}
- | tex      =<math>\oint \!\,</math>
- | rowspan  =1
- | name     =Contour integral;<br/>closed [[line integral]]
- | readas   =contour integral of
+ | symbol ={{intmath|oint}}
+ | tex =<math>\oint \!\,</math>
+ | rowspan =1
+ | name =Contour integral;<br/>closed [[line integral]]
+ | readas =contour integral of
  | category =[[calculus]]
- | explain  =Similar to the integral, but used to denote a single integration over a closed curve or loop.  It is sometimes used in physics texts involving equations regarding [[Gauss's Law]], and while these formulas involve a closed [[surface integral]], the representations describe only the first integration of the volume over the enclosing surface.  Instances where the latter requires simultaneous double integration, the symbol {{intmath|oiint}} would be more appropriate.  A third related symbol is the closed [[volume integral]], denoted by the symbol {{intmath|oiiint}}.
+ | explain =Similar to the integral, but used to denote a single integration over a closed curve or loop. It is sometimes used in physics texts involving equations regarding [[Gauss's Law]], and while these formulas involve a closed [[surface integral]], the representations describe only the first integration of the volume over the enclosing surface. Instances where the latter requires simultaneous double integration, the symbol {{intmath|oiint}} would be more appropriate. A third related symbol is the closed [[volume integral]], denoted by the symbol {{intmath|oiiint}}.
 
-The contour integral can also frequently be found with a subscript capital letter C, {{math|{{intmath|oint}}<sub>''C''</sub>}}, denoting that a closed loop integral is, in fact, around a contour {{mvar|C}}, or sometimes dually appropriately, a circle {{mvar|C}}.  In representations of Gauss's Law, a subscript capital S, {{math|{{intmath|oint}}<sub>''S''</sub>}}, is used to denote that the integration is over a closed surface.
+The contour integral can also frequently be found with a subscript capital letter C, {{math|{{intmath|oint}}<sub>''C''</sub>}}, denoting that a closed loop integral is, in fact, around a contour {{mvar|C}}, or sometimes dually appropriately, a circle {{mvar|C}}. In representations of Gauss's Law, a subscript capital S, {{math|{{intmath|oint}}<sub>''S''</sub>}}, is used to denote that the integration is over a closed surface.
  | examples =If {{mvar|C}} is a [[Jordan curve]] about 0, then <math>\oint_C {1 \over z}\,dz = 2\pi i</math>.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[therefore sign|∴]]
- | tex      =<math>\therefore \!\,</math>
- | rowspan  =1
- | name     =[[therefore]]
- | readas   =therefore;<br/>so;<br/>hence
+ | symbol =[[therefore sign|∴]]
+ | tex =<math>\therefore \!\,</math>
+ | rowspan =1
+ | name =[[therefore]]
+ | readas =therefore;<br/>so;<br/>hence
  | category =everywhere
- | explain  =Sometimes used in proofs before [[logical consequence]]s.
+ | explain =Sometimes used in proofs before [[logical consequence]]s.
  | examples =All humans are mortal. Socrates is a human. ∴ Socrates is mortal.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[because sign|∵]]
- | tex      =<math>\because \!\,</math>
- | rowspan  =1
- | name     =[[wiktionary:because|because]]
- | readas   =because;<br/>since
+ | symbol =[[because sign|∵]]
+ | tex =<math>\because \!\,</math>
+ | rowspan =1
+ | name =[[wiktionary:because|because]]
+ | readas =because;<br/>since
  | category =everywhere
- | explain  =Sometimes used in proofs before reasoning.
+ | explain =Sometimes used in proofs before reasoning.
  | examples =11 is [[prime number|prime]] ∵ it has no positive integer factors other than itself and one.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[factorial]]
- | symbol   =[[exclamation mark|<nowiki>!</nowiki>]]
- | tex      =<math>! \!\,</math>
- | rowspan  =2
- | readas   =factorial
+ | name =[[factorial]]
+ | symbol =[[exclamation mark|<nowiki>!</nowiki>]]
+ | tex =<math>! \!\,</math>
+ | rowspan =2
+ | readas =factorial
  | category =[[combinatorics]]
- | explain  =''n''! means the product 1 × 2 × ... × ''n''.
+ | explain =''n''! means the product 1 × 2 × ... × ''n''.
  | examples =<math>4! = 1\times2\times3\times4 = 24</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[logical negation]]
- | readas   =not
+ | name =[[logical negation]]
+ | readas =not
  | category =[[propositional logic]]
- | explain  =The statement !''A'' is true if and only if ''A'' is false.<br/><br/>A slash placed through another operator is the same as "!" placed in front.<br/><br/>(''The symbol'' ! ''is primarily from computer science. It is avoided in mathematical texts, where the notation'' ¬''A'' ''is preferred.'')
+ | explain =The statement !''A'' is true if and only if ''A'' is false.<br/><br/>A slash placed through another operator is the same as "!" placed in front.<br/><br/>(''The symbol'' ! ''is primarily from computer science. It is avoided in mathematical texts, where the notation'' ¬''A'' ''is preferred.'')
  | examples =!(!''A'')&nbsp;⇔&nbsp;''A''&nbsp;<br/>''x''&nbsp;≠&nbsp;''y''&nbsp;&nbsp;⇔&nbsp; !(''x''&nbsp;=&nbsp;''y'')
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[not sign|¬]]<br/><br/>˜
- | tex      =<math>\neg \!\,</math><br/><br/><math>\sim \!\,</math>
- | rowspan  =1
- | name     =[[logical negation]]
- | readas   =not
+ | symbol =[[not sign|¬]]<br/><br/>˜
+ | tex =<math>\neg \!\,</math><br/><br/><math>\sim \!\,</math>
+ | rowspan =1
+ | name =[[logical negation]]
+ | readas =not
  | category =[[propositional logic]]
- | explain  =The statement ¬''A'' is true if and only if ''A'' is false.<br/><br/>A slash placed through another operator is the same as "¬" placed in front.<br/><br/>(''The symbol'' ~ ''has many other uses, so'' ¬ '' or the slash notation is preferred. Computer scientists will often use'' ! ''but this is avoided in mathematical texts.'')
+ | explain =The statement ¬''A'' is true if and only if ''A'' is false.<br/><br/>A slash placed through another operator is the same as "¬" placed in front.<br/><br/>(''The symbol'' ~ ''has many other uses, so'' ¬ '' or the slash notation is preferred. Computer scientists will often use'' ! ''but this is avoided in mathematical texts.'')
  | examples =¬(¬''A'')&nbsp;⇔ ''A'' <br/>''x''&nbsp;≠&nbsp;''y''&nbsp;&nbsp;⇔&nbsp; ¬(''x''&nbsp;=&nbsp; ''y'')
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Proportionality (mathematics)|∝]]
- | tex      =<math>\propto \!\,</math>
- | rowspan  =1
- | name     =[[proportionality (mathematics)|proportionality]]
- | readas   =is proportional to;<br/>varies as
+ | symbol =[[Proportionality (mathematics)|∝]]
+ | tex =<math>\propto \!\,</math>
+ | rowspan =1
+ | name =[[proportionality (mathematics)|proportionality]]
+ | readas =is proportional to;<br/>varies as
  | category =everywhere
- | explain  =''y'' ∝ ''x'' means that ''y'' = ''kx'' for some constant ''k''.
+ | explain =''y'' ∝ ''x'' means that ''y'' = ''kx'' for some constant ''k''.
  | examples =if ''y'' = 2''x'', then ''y'' ∝ ''x''.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Infinity|∞]]
- | tex      =<math>\infty \!\,</math>
- | rowspan  =1
- | name     =[[infinity]]
- | readas   =infinity
+ | symbol =[[Infinity|∞]]
+ | tex =<math>\infty \!\,</math>
+ | rowspan =1
+ | name =[[infinity]]
+ | readas =infinity
  | category =[[number]]s
- | explain  =∞ is an element of the [[extended real number line|extended number line]] that is greater than all real numbers; it often occurs in [[limit (mathematics)|limits]].
+ | explain =∞ is an element of the [[extended real number line|extended number line]] that is greater than all real numbers; it often occurs in [[limit (mathematics)|limits]].
  | examples =<math>\lim_{x\to 0} \frac{1}{|x|} = \infty</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[tombstone (typography)|■]]<br/><br/>□<br/><br/>∎<br/><br/>▮<br/><br/>‣
- | tex      =<math>\blacksquare \!\,</math><br/><br/><math>\Box \!\,</math><br/><br/><math>\blacktriangleright \!\,</math>
- | rowspan  =1
- | name     =[[end of proof]]
- | readas   =[[quod erat demonstrandum|QED]];<br/>[[tombstone (typography)|tombstone]];<br/>Halmos finality symbol
+ | symbol =[[tombstone (typography)|■]]<br/><br/>□<br/><br/>∎<br/><br/>▮<br/><br/>‣
+ | tex =<math>\blacksquare \!\,</math><br/><br/><math>\Box \!\,</math><br/><br/><math>\blacktriangleright \!\,</math>
+ | rowspan =1
+ | name =[[end of proof]]
+ | readas =[[quod erat demonstrandum|QED]];<br/>[[tombstone (typography)|tombstone]];<br/>Halmos finality symbol
  | category =everywhere
- | explain  =Used to mark the end of a proof.<br/><br/>(''May also be written'' Q.E.D.)
+ | explain =Used to mark the end of a proof.<br/><br/>(''May also be written'' Q.E.D.)
  | examples =
 }}
 
@@ -323,7 +323,7 @@ The contour integral can also frequently be found with a subscript capital lette
 {| class="wikitable" style="margin:auto; width:100%; border:1px"
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[HTML]]</small>
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[TeX]]</small>
-! style="text-align:left;"  |Name
+! style="text-align:left;" |Name
 ! rowspan="3" style="font-size:130%;" |Explanation
 ! rowspan="3" style="font-size:130%;" |Examples
 |-
@@ -332,61 +332,61 @@ The contour integral can also frequently be found with a subscript capital lette
 ! style="text-align:right;" |Category
 
 {{row of table of mathematical symbols
- |symbol   =[[equals sign|=]]
- |tex      =<math>=</math>
- |rowspan  =1
- |name     =[[equality (mathematics)|equality]]
- |readas   =is equal to;<br/>equals
+ |symbol =[[equals sign|=]]
+ |tex =<math>=</math>
+ |rowspan =1
+ |name =[[equality (mathematics)|equality]]
+ |readas =is equal to;<br/>equals
  |category =everywhere
- |explain  =<math>x = y</math> means <math>x</math> and <math>y</math> represent the same math object (Both symbols have the same value). |examples =<math>2 = 2</math><br/><math>1 + 1 = 2</math>
+ |explain =<math>x = y</math> means <math>x</math> and <math>y</math> represent the same math object (Both symbols have the same value). |examples =<math>2 = 2</math><br/><math>1 + 1 = 2</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[not equals sign|≠]]
- | tex      =<math>\ne</math>
- | rowspan  =1
- | name     =[[inequality (mathematics)|inequality]]
- | readas   =is not equal to;<br/>does not equal
+ | symbol =[[not equals sign|≠]]
+ | tex =<math>\ne</math>
+ | rowspan =1
+ | name =[[inequality (mathematics)|inequality]]
+ | readas =is not equal to;<br/>does not equal
  | category =everywhere
- | explain  = <math>x \ne y</math> means that <math>x</math> and <math>y</math> do not represent the same math object (Both symbols do not have the same value).<br/><br/>(''The forms'' !=, /= ''or'' <> ''are generally used in programming languages where ease of typing and use of [[ASCII]] text is preferred.'')
+ | explain = <math>x \ne y</math> means that <math>x</math> and <math>y</math> do not represent the same math object (Both symbols do not have the same value).<br/><br/>(''The forms'' !=, /= ''or'' <> ''are generally used in programming languages where ease of typing and use of [[ASCII]] text is preferred.'')
  | examples =<math>2 + 2 \ne 5</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Equals sign#Approximately equal|≈]]
- | tex      =<math>\approx</math>
- | rowspan  =2
- | name     =approximately equal
- | readas   =is approximately equal to
+ | symbol =[[Equals sign#Approximately equal|≈]]
+ | tex =<math>\approx</math>
+ | rowspan =2
+ | name =approximately equal
+ | readas =is approximately equal to
  | category =everywhere
- | explain  =''x''&nbsp;≈&nbsp;''y'' means ''x'' is approximately equal to ''y''.<br/><br/>''This may also be written'' ≃, ≅, ~, ♎ (Libra Symbol), ''or'' ≒.
+ | explain =''x''&nbsp;≈&nbsp;''y'' means ''x'' is approximately equal to ''y''.<br/><br/>''This may also be written'' ≃, ≅, ~, ♎ (Libra Symbol), ''or'' ≒.
  | examples =π&nbsp;≈&nbsp;3.14159
 }}
 
 {{row of table of mathematical symbols
- | name     =[[isomorphism]]
- | readas   =is isomorphic to
+ | name =[[isomorphism]]
+ | readas =is isomorphic to
  | category =[[group theory]]
- | explain  =''G''&nbsp;≈&nbsp;''H'' means that group ''G'' is isomorphic (structurally identical) to group ''H''.<br/><br/>({{Unicode|&cong;}} ''can also be used for isomorphic, as described below.'')
+ | explain =''G''&nbsp;≈&nbsp;''H'' means that group ''G'' is isomorphic (structurally identical) to group ''H''.<br/><br/>({{Unicode|&cong;}} ''can also be used for isomorphic, as described below.'')
  | examples =[[quaternion group|Q<sub>8</sub>]]&nbsp;/&nbsp;[[cyclic group|C<sub>2</sub>]]&nbsp;≈ [[Klein four-group|V]]
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[tilde|~]]
- | tex      =<math>\sim </math>
- | rowspan  =6
- | name     =[[probability distribution]]
- | readas   =has distribution
+ | symbol =[[tilde|~]]
+ | tex =<math>\sim </math>
+ | rowspan =6
+ | name =[[probability distribution]]
+ | readas =has distribution
  | category =[[statistics]]
- | explain  =''X ~ D'', means the [[random variable]] ''X'' has the probability distribution ''D''.
+ | explain =''X ~ D'', means the [[random variable]] ''X'' has the probability distribution ''D''.
  | examples =''X'' ~ ''N''(0,1), the [[standard normal distribution]]
 }}
 
 {{row of table of mathematical symbols
- | name     =[[elementary matrix transformations|row equivalence]]
- | readas   =is row equivalent to
+ | name =[[elementary matrix transformations|row equivalence]]
+ | readas =is row equivalent to
  | category =[[Matrix (mathematics)|matrix theory]]
- | explain  =''A'' ~ ''B'' means that ''B'' can be generated by using a series of [[elementary row operations]] on ''A''
+ | explain =''A'' ~ ''B'' means that ''B'' can be generated by using a series of [[elementary row operations]] on ''A''
  | examples =<math>\begin{bmatrix}
  1&2 \\
  2&4 \\
@@ -397,84 +397,84 @@ The contour integral can also frequently be found with a subscript capital lette
 }}
 
 {{row of table of mathematical symbols
- | name     =same [[order of magnitude]]
- | readas   =roughly similar;<br/>[[approximation|poorly approximates]]
+ | name =same [[order of magnitude]]
+ | readas =roughly similar;<br/>[[approximation|poorly approximates]]
  | category =[[approximation theory]]
- | explain  =''m''&nbsp;~&nbsp;''n'' means the quantities ''m'' and ''n'' have the same [[order of magnitude]], or general size. <br/><br/>(''Note that'' ~ ''is used for an approximation that is poor, otherwise use '' ≈&nbsp;.)
+ | explain =''m''&nbsp;~&nbsp;''n'' means the quantities ''m'' and ''n'' have the same [[order of magnitude]], or general size. <br/><br/>(''Note that'' ~ ''is used for an approximation that is poor, otherwise use '' ≈&nbsp;.)
  | examples =2&nbsp;~&nbsp;5<br/><br/>8&nbsp;×&nbsp;9&nbsp;~ 100<br/><br/>but π<sup>2</sup> ≈ 10
 }}
 
 {{row of table of mathematical symbols
- | name     =[[similarity (geometry)|similarity]]
- | readas   =is similar to<ref>{{cite web|url=http://www.mathsisfun.com/geometry/symbols.html|title=Math is Fun website}}</ref> 
+ | name =[[similarity (geometry)|similarity]]
+ | readas =is similar to<ref>{{cite web|url=http://www.mathsisfun.com/geometry/symbols.html|title=Math is Fun website}}</ref> 
  | category =[[geometry]]
- | explain  =△ABC ~ △DEF means triangle ABC is similar to (has the same shape) triangle DEF.
+ | explain =△ABC ~ △DEF means triangle ABC is similar to (has the same shape) triangle DEF.
  | examples =
 }}
 
 {{row of table of mathematical symbols
- | name     =[[asymptotic analysis|asymptotically equivalent]]
- | readas   =is asymptotically equivalent to
+ | name =[[asymptotic analysis|asymptotically equivalent]]
+ | readas =is asymptotically equivalent to
  | category =[[asymptotic analysis]]
- | explain  =''f''&nbsp;~&nbsp;''g'' means <math>\lim_{n\to\infty} \frac{f(n)}{g(n)} = 1</math>.
+ | explain =''f''&nbsp;~&nbsp;''g'' means <math>\lim_{n\to\infty} \frac{f(n)}{g(n)} = 1</math>.
  | examples =x&nbsp;~&nbsp;x+1}}
 
 {{row of table of mathematical symbols
- | name     =[[equivalence relation]]
- | readas   =are in the same equivalence class
+ | name =[[equivalence relation]]
+ | readas =are in the same equivalence class
  | category =everywhere
- | explain  =''a''&nbsp;~&nbsp;''b'' means <math>b \in [a]</math> (and equivalently <math>a \in [b]</math>).
+ | explain =''a''&nbsp;~&nbsp;''b'' means <math>b \in [a]</math> (and equivalently <math>a \in [b]</math>).
  | examples =1&nbsp;~&nbsp;5 mod 4}}
 
 {{row of table of mathematical symbols
- | symbol   ==:<br/><br/>:=<br/><br/>[[triple bar|≡]]<br/><br/>:⇔<br/><br/>≜<br/><br/>≝<br/><br/>≐
- | tex      =<math>=: </math><br/><br/><math>:= </math><br/><br/><math>\equiv </math><br/><br/><math>:\Leftrightarrow </math><br/><br/><math>\triangleq </math><br/><br/><math>\overset{\underset{\mathrm{def}}{}}{=} </math><br/><br/><math>\doteq </math>
- | rowspan  =1
- | name     =[[definition]]
- | readas   =is defined as;<br/>is equal by definition to
+ | symbol ==:<br/><br/>:=<br/><br/>[[triple bar|≡]]<br/><br/>:⇔<br/><br/>≜<br/><br/>≝<br/><br/>≐
+ | tex =<math>=: </math><br/><br/><math>:= </math><br/><br/><math>\equiv </math><br/><br/><math>:\Leftrightarrow </math><br/><br/><math>\triangleq </math><br/><br/><math>\overset{\underset{\mathrm{def}}{}}{=} </math><br/><br/><math>\doteq </math>
+ | rowspan =1
+ | name =[[definition]]
+ | readas =is defined as;<br/>is equal by definition to
  | category =everywhere
- | explain  =''x''&nbsp;:= ''y'', ''y''&nbsp;=: ''x'' or ''x''&nbsp;≡ ''y'' means ''x'' is defined to be another name for ''y'', under certain assumptions taken in context.<br/><br/>(''Some writers use'' ≡ ''to mean [[congruence (geometry)|congruence]]'').<br/><br/>''P'' ⇔ ''Q'' means ''P'' is defined to be [[Logical equivalence|logically equivalent]] to ''Q''.
+ | explain =''x''&nbsp;:= ''y'', ''y''&nbsp;=: ''x'' or ''x''&nbsp;≡ ''y'' means ''x'' is defined to be another name for ''y'', under certain assumptions taken in context.<br/><br/>(''Some writers use'' ≡ ''to mean [[congruence (geometry)|congruence]]'').<br/><br/>''P'' ⇔ ''Q'' means ''P'' is defined to be [[Logical equivalence|logically equivalent]] to ''Q''.
  | examples =<math>\cosh x := \frac{e^x + e^{-x}}{2}</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&cong;}}
- | tex      =<math>\cong </math>
- | rowspan  =2
- | name     =[[congruence (geometry)|congruence]]
- | readas   =is congruent to
+ | symbol ={{Unicode|&cong;}}
+ | tex =<math>\cong </math>
+ | rowspan =2
+ | name =[[congruence (geometry)|congruence]]
+ | readas =is congruent to
  | category =[[geometry]]
- | explain  =△ABC {{Unicode|&cong;}} △DEF means triangle ABC is congruent to (has the same measurements as) triangle DEF.
+ | explain =△ABC {{Unicode|&cong;}} △DEF means triangle ABC is congruent to (has the same measurements as) triangle DEF.
  | examples =
 }}
 
 {{row of table of mathematical symbols
- | name     =[[isomorphic]]
- | readas   =is isomorphic to
+ | name =[[isomorphic]]
+ | readas =is isomorphic to
  | category =[[abstract algebra]]
- | explain  =''G''&nbsp;{{Unicode|&cong;}}&nbsp;''H'' means that group ''G'' is isomorphic (structurally identical) to group ''H''.<br/><br/>(≈ ''can also be used for isomorphic, as described above.'')
+ | explain =''G''&nbsp;{{Unicode|&cong;}}&nbsp;''H'' means that group ''G'' is isomorphic (structurally identical) to group ''H''.<br/><br/>(≈ ''can also be used for isomorphic, as described above.'')
  | examples =[[Klein four-group|V]] ≅ [[Cyclic group|C<sub>2</sub>]] × C<sub>2</sub>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[triple bar|≡]]
- | tex      =<math>\equiv </math>
- | rowspan  =1
- | name     =[[congruence relation]]
- | readas   =... is congruent to ... modulo ...
+ | symbol =[[triple bar|≡]]
+ | tex =<math>\equiv </math>
+ | rowspan =1
+ | name =[[congruence relation]]
+ | readas =... is congruent to ... modulo ...
  | category =[[modular arithmetic]]
- | explain  =''a'' ≡ ''b'' (mod ''n'') means ''a'' &minus; ''b'' is divisible by ''n''
+ | explain =''a'' ≡ ''b'' (mod ''n'') means ''a'' &minus; ''b'' is divisible by ''n''
  | examples =5 ≡ 2 (mod 3)
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⇔<br/><br/>↔
- | tex      =<math>\Leftrightarrow </math><br/><br/><math>\leftrightarrow </math>
- | rowspan  =1
- | name     =[[material equivalence]]
- | readas   =if and only if;<br/>[[iff]]
+ | symbol =⇔<br/><br/>↔
+ | tex =<math>\Leftrightarrow </math><br/><br/><math>\leftrightarrow </math>
+ | rowspan =1
+ | name =[[material equivalence]]
+ | readas =if and only if;<br/>[[iff]]
  | category =[[propositional logic]]
- | explain  =''A''&nbsp;⇔ ''B'' means ''A'' is true if ''B'' is true and ''A'' is false if ''B'' is false.
+ | explain =''A''&nbsp;⇔ ''B'' means ''A'' is true if ''B'' is true and ''A'' is false if ''B'' is false.
  | examples =''x''&nbsp;+ 5&nbsp;= ''y''&nbsp;+ 2&nbsp;&nbsp;⇔&nbsp; ''x''&nbsp;+ 3&nbsp;= ''y''
 }}
 
@@ -484,7 +484,7 @@ The contour integral can also frequently be found with a subscript capital lette
 {| class="wikitable" style="margin:auto; width:100%; border:1px"
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[HTML]]</small>
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[TeX]]</small>
-! style="text-align:left;"  |Name
+! style="text-align:left;" |Name
 ! rowspan="3" style="font-size:130%;" |Explanation
 ! rowspan="3" style="font-size:130%;" |Examples
 |-
@@ -493,67 +493,67 @@ The contour integral can also frequently be found with a subscript capital lette
 ! style="text-align:right;" |Category
 
 {{row of table of mathematical symbols
- | symbol   =[[less-than sign|<]]<br/><br/>[[greater-than sign|>]]
- | tex      =<math><</math><br/><br/><math>></math>
- | rowspan  =2
- | name     =[[inequality (mathematics)|strict inequality]]
- | readas   =is less than,<br/>is greater than
+ | symbol =[[less-than sign|<]]<br/><br/>[[greater-than sign|>]]
+ | tex =<math><</math><br/><br/><math>></math>
+ | rowspan =2
+ | name =[[inequality (mathematics)|strict inequality]]
+ | readas =is less than,<br/>is greater than
  | category =[[order theory]]
- | explain  =<math>x < y</math> means <math>x</math> is less than <math>y</math>.<br/><br/><math>x > y</math> means <math>x</math> is greater than <math>y</math>.
+ | explain =<math>x < y</math> means <math>x</math> is less than <math>y</math>.<br/><br/><math>x > y</math> means <math>x</math> is greater than <math>y</math>.
  | examples =<math>3 < 4</math> <br/><math>5 > 4</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[proper subgroup]]
- | readas   =is a proper subgroup of
+ | name =[[proper subgroup]]
+ | readas =is a proper subgroup of
  | category =[[group theory]]
- | explain  =<math>H < G</math> means <math>H</math> is a proper subgroup of <math>G</math>.
+ | explain =<math>H < G</math> means <math>H</math> is a proper subgroup of <math>G</math>.
  | examples =<math>5\mathrm{Z} < \mathrm{Z}</math> <br/><math>\mathrm{A}_3 < \mathrm{S}_3</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[much-less-than sign|≪]]<br/><br/>[[much-greater-than sign|≫]]
- | tex      =<math>\ll \!\,</math><br/><br/><math>\gg \!\,</math>
- | rowspan  =2
- | name     =significant [[inequality (mathematics)|(strict) inequality]]
- | readas   =is much less than,<br/>is much greater than
+ | symbol =[[much-less-than sign|≪]]<br/><br/>[[much-greater-than sign|≫]]
+ | tex =<math>\ll \!\,</math><br/><br/><math>\gg \!\,</math>
+ | rowspan =2
+ | name =significant [[inequality (mathematics)|(strict) inequality]]
+ | readas =is much less than,<br/>is much greater than
  | category =[[order theory]]
- | explain  =''x''&nbsp;≪ ''y'' means ''x'' is much less than ''y''.<br/><br/>''x''&nbsp;≫ ''y'' means ''x'' is much greater than ''y''.
+ | explain =''x''&nbsp;≪ ''y'' means ''x'' is much less than ''y''.<br/><br/>''x''&nbsp;≫ ''y'' means ''x'' is much greater than ''y''.
  | examples =0.003&nbsp;≪ 1000000
 }}
 
 {{row of table of mathematical symbols
- | name     =asymptotic comparison
- | readas   =is of smaller order than,<br/>is of greater order than
+ | name =asymptotic comparison
+ | readas =is of smaller order than,<br/>is of greater order than
  | category =[[analytic number theory]]
- | explain  =''f''&nbsp;≪ ''g'' means the growth of ''f'' is asymptotically bounded by ''g''.<br/><br/>(''This is [[I. M. Vinogradov]]'s notation. Another notation is the [[Big O notation]], which looks like'' ''f''&nbsp;= O(''g'').)
+ | explain =''f''&nbsp;≪ ''g'' means the growth of ''f'' is asymptotically bounded by ''g''.<br/><br/>(''This is [[I. M. Vinogradov]]'s notation. Another notation is the [[Big O notation]], which looks like'' ''f''&nbsp;= O(''g'').)
  | examples =''x''&nbsp;≪ e<sup>''x''</sup>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[less than or equal to|≤]]<br/><br/>[[greater than or equal to|≥]]
- | tex      =<math>\le \!\,</math><br/><br/><math>\ge</math>
- | rowspan  =3
- | name     =[[inequality (mathematics)|inequality]]
- | readas   =is less than or equal to,<br/>is greater than or equal to
+ | symbol =[[less than or equal to|≤]]<br/><br/>[[greater than or equal to|≥]]
+ | tex =<math>\le \!\,</math><br/><br/><math>\ge</math>
+ | rowspan =3
+ | name =[[inequality (mathematics)|inequality]]
+ | readas =is less than or equal to,<br/>is greater than or equal to
  | category =[[order theory]]
- | explain  =''x''&nbsp;≤ ''y'' means ''x'' is less than or equal to ''y''.<br/><br/>''x''&nbsp;≥ ''y'' means ''x'' is greater than or equal to ''y''.<br/><br/>(The forms <= and >= are generally used in programming languages, where ease of typing and use of [[ASCII]] text is preferred.)
+ | explain =''x''&nbsp;≤ ''y'' means ''x'' is less than or equal to ''y''.<br/><br/>''x''&nbsp;≥ ''y'' means ''x'' is greater than or equal to ''y''.<br/><br/>(The forms <= and >= are generally used in programming languages, where ease of typing and use of [[ASCII]] text is preferred.)
  | examples =3&nbsp;≤&nbsp;4 and 5&nbsp;≤&nbsp;5<br/>5&nbsp;≥&nbsp;4 and 5&nbsp;≥&nbsp;5
 }}
 
 {{row of table of mathematical symbols
- | name     =[[subgroup]]
- | readas   =is a subgroup of
+ | name =[[subgroup]]
+ | readas =is a subgroup of
  | category =[[group theory]]
- | explain  =''H''&nbsp;≤&nbsp;''G'' means ''H'' is a subgroup of ''G''.
+ | explain =''H''&nbsp;≤&nbsp;''G'' means ''H'' is a subgroup of ''G''.
  | examples =Z&nbsp;≤&nbsp;Z<br/>[[Alternating group|A<sub>3</sub>]]&nbsp;≤&nbsp;[[Symmetric group|S<sub>3</sub>]]
 }}
 
 {{row of table of mathematical symbols
- | name     =[[reduction (complexity)|reduction]]
- | readas   =is reducible to
+ | name =[[reduction (complexity)|reduction]]
+ | readas =is reducible to
  | category =[[computational complexity theory]]
- | explain  =''A''&nbsp;≤ ''B'' means the [[computational problem|problem]] ''A'' can be reduced to the problem ''B''. Subscripts can be added to the ≤ to indicate what kind of reduction.
+ | explain =''A''&nbsp;≤ ''B'' means the [[computational problem|problem]] ''A'' can be reduced to the problem ''B''. Subscripts can be added to the ≤ to indicate what kind of reduction.
  | examples =If 
 :<math>\exists f \in F \mbox{ . } \forall x \in \mathbb{N} \mbox{ . } x \in A \Leftrightarrow f(x) \in B</math>
 
@@ -562,194 +562,194 @@ then
 }}
 
 {{row of table of mathematical symbols
- | symbol   =≦<br/><br/>≧
- | tex      =<math>\leqq \!\,</math><br/><br/><math>\geqq \!\,</math>
- | rowspan  =2
- | name     =[[congruence relation]]
- | readas   =... is less than ... is greater than ...
+ | symbol =≦<br/><br/>≧
+ | tex =<math>\leqq \!\,</math><br/><br/><math>\geqq \!\,</math>
+ | rowspan =2
+ | name =[[congruence relation]]
+ | readas =... is less than ... is greater than ...
  | category =[[modular arithmetic]]
- | explain  =7''k''&nbsp;≡ 28 (mod 2) is only true if ''k'' is an even integer. Assume that the problem requires ''k'' to be non-negative; the domain is defined as 0 ≦ ''k''&nbsp;≦ ∞.
+ | explain =7''k''&nbsp;≡ 28 (mod 2) is only true if ''k'' is an even integer. Assume that the problem requires ''k'' to be non-negative; the domain is defined as 0 ≦ ''k''&nbsp;≦ ∞.
  | examples =10''a''&nbsp;≡ 5 (mod 5)&nbsp;&nbsp;&nbsp;for 1 ≦ ''a''&nbsp;≦ 10
 }}
 
 {{row of table of mathematical symbols
- | name     =[[inequality (mathematics)#Vector inequalities|vector inequality]]
- | readas   =... is less than or equal... is greater than or equal...
+ | name =[[inequality (mathematics)#Vector inequalities|vector inequality]]
+ | readas =... is less than or equal... is greater than or equal...
  | category =[[order theory]]
- | explain  =''x''&nbsp;≦ ''y'' means that each component of vector ''x'' is less than or equal to each corresponding component of vector ''y''.<br/><br/>''x''&nbsp;≧ ''y'' means that each component of vector ''x'' is greater than or equal to each corresponding component of vector ''y''.<br/><br/>''It is important to note that ''x''&nbsp;≦ ''y'' remains true if every element is equal. However, if the operator is changed, ''x''&nbsp;≤ ''y'' is true if and only if ''x''&nbsp;≠ ''y'' is also true.''
+ | explain =''x''&nbsp;≦ ''y'' means that each component of vector ''x'' is less than or equal to each corresponding component of vector ''y''.<br/><br/>''x''&nbsp;≧ ''y'' means that each component of vector ''x'' is greater than or equal to each corresponding component of vector ''y''.<br/><br/>''It is important to note that ''x''&nbsp;≦ ''y'' remains true if every element is equal. However, if the operator is changed, ''x''&nbsp;≤ ''y'' is true if and only if ''x''&nbsp;≠ ''y'' is also true.''
  | examples =
 }}
 
 {{row of table of mathematical symbols
- | symbol   =≺<br/><br/>≻
- | tex      =<math>\prec \!\,</math><br/><br/><math>\succ \!\,</math>
- | rowspan  =2
- | name     =[[Karp reduction]]
- | readas   =is Karp reducible to;<br/>is polynomial-time many-one reducible to
+ | symbol =≺<br/><br/>≻
+ | tex =<math>\prec \!\,</math><br/><br/><math>\succ \!\,</math>
+ | rowspan =2
+ | name =[[Karp reduction]]
+ | readas =is Karp reducible to;<br/>is polynomial-time many-one reducible to
  | category =[[computational complexity theory]]
- | explain  =''L''<sub>1</sub>&nbsp;≺ ''L''<sub>2</sub> means that the problem ''L''<sub>1</sub> is Karp reducible to ''L''<sub>2</sub>.<ref>{{Citation|last=Rónyai|first=Lajos|title=Algoritmusok(Algorithms)|year=1998|publisher=TYPOTEX|isbn=963-9132-16-0}}</ref>
+ | explain =''L''<sub>1</sub>&nbsp;≺ ''L''<sub>2</sub> means that the problem ''L''<sub>1</sub> is Karp reducible to ''L''<sub>2</sub>.<ref>{{Citation|last=Rónyai|first=Lajos|title=Algoritmusok(Algorithms)|year=1998|publisher=TYPOTEX|isbn=963-9132-16-0}}</ref>
  | examples =If ''L''<sub>1</sub>&nbsp;≺ ''L''<sub>2</sub> and ''L''<sub>2</sub>&nbsp;∈ '''[[P (complexity)|P]]''', then ''L''<sub>1</sub>&nbsp;∈ '''P'''.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Nondominated order]]
- | readas   = is nondominated by
+ | name =[[Nondominated order]]
+ | readas = is nondominated by
  | category =[[Multi-objective optimization]]
- | explain  =''P''&nbsp;≺ ''Q'' means that the element ''P'' is nondominated by element ''Q''.<ref name="doi10.1109/4235.996017">{{Cite journal | doi = 10.1109/4235.996017| title = A fast and elitist multiobjective genetic algorithm: NSGA-II| journal = IEEE Transactions on Evolutionary Computation| volume = 6| issue = 2| pages = 182| year = 2002| last1 = Deb | first1 = K.| last2 = Pratap | first2 = A.| last3 = Agarwal | first3 = S.| last4 = Meyarivan | first4 = T.}}</ref>
- | examples =If ''P''<sub>1</sub>&nbsp;≺ ''Q''<sub>2</sub>  then <math>\forall_i P_i \leq Q_i \and \exists P_i < Q_i </math>
+ | explain =''P''&nbsp;≺ ''Q'' means that the element ''P'' is nondominated by element ''Q''.<ref name="doi10.1109/4235.996017">{{Cite journal | doi = 10.1109/4235.996017| title = A fast and elitist multiobjective genetic algorithm: NSGA-II| journal = IEEE Transactions on Evolutionary Computation| volume = 6| issue = 2| pages = 182| year = 2002| last1 = Deb | first1 = K.| last2 = Pratap | first2 = A.| last3 = Agarwal | first3 = S.| last4 = Meyarivan | first4 = T.}}</ref>
+ | examples =If ''P''<sub>1</sub>&nbsp;≺ ''Q''<sub>2</sub> then <math>\forall_i P_i \leq Q_i \and \exists P_i < Q_i </math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x25C5;}}<br/><br/>{{Unicode|&#x25BB;}}
- | tex      =<math>\triangleleft \!\,</math><br/><br/><math>\triangleright \!\,</math>
- | rowspan  =3
- | name     =[[normal subgroup]]
- | readas   =is a normal subgroup of
+ | symbol ={{Unicode|&#x25C5;}}<br/><br/>{{Unicode|&#x25BB;}}
+ | tex =<math>\triangleleft \!\,</math><br/><br/><math>\triangleright \!\,</math>
+ | rowspan =3
+ | name =[[normal subgroup]]
+ | readas =is a normal subgroup of
  | category =[[group theory]]
- | explain  =''N''&nbsp;{{Unicode|&#x25C5;}}&nbsp;''G'' means that ''N'' is a normal subgroup of group ''G''.
+ | explain =''N''&nbsp;{{Unicode|&#x25C5;}}&nbsp;''G'' means that ''N'' is a normal subgroup of group ''G''.
  | examples =Z(''G'')&nbsp;{{Unicode|&#x25C5;}}&nbsp;''G''
 }}
 
 {{row of table of mathematical symbols
- | name     =[[ideal of a ring|ideal]]
- | readas   =is an ideal of
+ | name =[[ideal of a ring|ideal]]
+ | readas =is an ideal of
  | category =[[ring theory]]
- | explain  =''I''&nbsp;{{Unicode|&#x25C5;}}&nbsp;''R'' means that ''I'' is an ideal of ring ''R''.
+ | explain =''I''&nbsp;{{Unicode|&#x25C5;}}&nbsp;''R'' means that ''I'' is an ideal of ring ''R''.
  | examples =(2)&nbsp;{{Unicode|&#x25C5;}}&nbsp;Z
 }}
 
 {{row of table of mathematical symbols
- | name     =[[antijoin]]
- | readas   =the antijoin of
+ | name =[[antijoin]]
+ | readas =the antijoin of
  | category =[[relational algebra]]
- | explain  =''R''&nbsp;{{Unicode|&#x25BB;}}&nbsp;''S'' means the antijoin of the relations ''R'' and ''S'', the tuples in ''R'' for which there is not a tuple in ''S'' that is equal on their common attribute names.
+ | explain =''R''&nbsp;{{Unicode|&#x25BB;}}&nbsp;''S'' means the antijoin of the relations ''R'' and ''S'', the tuples in ''R'' for which there is not a tuple in ''S'' that is equal on their common attribute names.
  | examples =''R'' <math>\triangleright</math> ''S'' = ''R'' - ''R'' <math>\ltimes</math> ''S''
 }}
 <!-- This non-TeX isosceles TriangleLeftSymbol was found in Mac : TextEdit : Edit->Special Characters => Character Palette : by Category->Symbols-> Geometrical Shapes. -->
 
 {{row of table of mathematical symbols
- | symbol   =⇒<br/><br/>→<br/><br/>⊃
- | tex      =<math>\Rightarrow \!\,</math><br/><br/><math>\rightarrow \!\,</math><br/><br/><math>\supset \!\,</math>
- | rowspan  =1
- | name     =[[material conditional|material implication]]
- | readas   =implies;<br/>if ... then
+ | symbol =⇒<br/><br/>→<br/><br/>⊃
+ | tex =<math>\Rightarrow \!\,</math><br/><br/><math>\rightarrow \!\,</math><br/><br/><math>\supset \!\,</math>
+ | rowspan =1
+ | name =[[material conditional|material implication]]
+ | readas =implies;<br/>if ... then
  | category =[[propositional logic]], [[Heyting algebra]]
- | explain  =''A'' ⇒ ''B'' means if ''A'' is true then ''B'' is also true; if ''A'' is false then nothing is said about ''B''.<br/><br/>(→ ''may mean the same as'' ⇒'', or it may have the meaning for [[function (mathematics)|function]]s given below.'')<br/><br/>(⊃ ''may mean the same as'' ⇒'',<ref name = "Copi" /> or it may have the meaning for [[superset]] given below.'')
+ | explain =''A'' ⇒ ''B'' means if ''A'' is true then ''B'' is also true; if ''A'' is false then nothing is said about ''B''.<br/><br/>(→ ''may mean the same as'' ⇒'', or it may have the meaning for [[function (mathematics)|function]]s given below.'')<br/><br/>(⊃ ''may mean the same as'' ⇒'',<ref name = "Copi" /> or it may have the meaning for [[superset]] given below.'')
  | examples =''x'' = 2&nbsp;&nbsp;⇒&nbsp; ''x''<sup>2</sup> = 4 is true, but ''x''<sup>2</sup> = 4 &nbsp;&nbsp;⇒&nbsp; ''x'' = 2 is in general false (since ''x'' could be &minus;2).
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⊆<br/><br/>⊂
- | tex      =<math>\subseteq \!\,</math><br/><br/><math>\subset \!\,</math>
- | rowspan  =1
- | name     =[[subset]]
- | readas   =is a subset of
+ | symbol =⊆<br/><br/>⊂
+ | tex =<math>\subseteq \!\,</math><br/><br/><math>\subset \!\,</math>
+ | rowspan =1
+ | name =[[subset]]
+ | readas =is a subset of
  | category =[[naive set theory|set theory]]
- | explain  =(subset) ''A''&nbsp;⊆&nbsp;''B'' means every element of ''A'' is also an element of ''B''.<ref name="d-goldrei-set-4">{{Citation | last1=Goldrei | first1=Derek | title=Classic Set Theory | page=4 | year=1996 | publisher=[[Chapman and Hall]] | isbn=0-412-60610-0 | location=London }}</ref><br/><br/>(proper subset) ''A''&nbsp;⊂&nbsp;''B'' means ''A''&nbsp;⊆&nbsp;''B'' but ''A''&nbsp;≠&nbsp;''B''. <br/><br/>(''Some writers use the symbol ''⊂'' as if it were the same as ''⊆.)
+ | explain =(subset) ''A''&nbsp;⊆&nbsp;''B'' means every element of ''A'' is also an element of ''B''.<ref name="d-goldrei-set-4">{{Citation | last1=Goldrei | first1=Derek | title=Classic Set Theory | page=4 | year=1996 | publisher=[[Chapman and Hall]] | isbn=0-412-60610-0 | location=London }}</ref><br/><br/>(proper subset) ''A''&nbsp;⊂&nbsp;''B'' means ''A''&nbsp;⊆&nbsp;''B'' but ''A''&nbsp;≠&nbsp;''B''. <br/><br/>(''Some writers use the symbol ''⊂'' as if it were the same as ''⊆.)
  | examples =(''A''&nbsp;∩&nbsp;''B'')&nbsp;⊆&nbsp;''A''<br/><br/>{{Unicode|&#x2115;}}&nbsp;⊂&nbsp;{{Unicode|&#x211A;}}<br/><br/>{{Unicode|&#x211A;}}&nbsp;⊂&nbsp;{{Unicode|&#x211D;}}
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⊇<br/><br/>⊃
- | tex      =<math>\supseteq \!\,</math><br/><br/><math>\supset \!\,</math>
- | rowspan  =1
- | name     =[[superset]]
- | readas   =is a superset of
+ | symbol =⊇<br/><br/>⊃
+ | tex =<math>\supseteq \!\,</math><br/><br/><math>\supset \!\,</math>
+ | rowspan =1
+ | name =[[superset]]
+ | readas =is a superset of
  | category =[[naive set theory|set theory]]
- | explain  =''A''&nbsp;⊇&nbsp;''B'' means every element of ''B'' is also an element of ''A''.<br/><br/>''A''&nbsp;⊃&nbsp;''B'' means ''A''&nbsp;⊇&nbsp;''B'' but ''A''&nbsp;≠&nbsp;''B''. <br/><br/>(''Some writers use the symbol ''⊃'' as if it were the same as ''⊇''.'')
+ | explain =''A''&nbsp;⊇&nbsp;''B'' means every element of ''B'' is also an element of ''A''.<br/><br/>''A''&nbsp;⊃&nbsp;''B'' means ''A''&nbsp;⊇&nbsp;''B'' but ''A''&nbsp;≠&nbsp;''B''. <br/><br/>(''Some writers use the symbol ''⊃'' as if it were the same as ''⊇''.'')
  | examples =(''A''&nbsp;∪&nbsp;''B'')&nbsp;⊇&nbsp;''B''<br/><br/>{{Unicode|&#x211D;}}&nbsp;⊃&nbsp;{{Unicode|&#x211A;}}
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Arrow (symbol)|→]]
- | tex      =<math>\to \!\,</math>
- | rowspan  =1
- | name     =[[function (mathematics)|function]] arrow
- | readas   =from ... to
+ | symbol =[[Arrow (symbol)|→]]
+ | tex =<math>\to \!\,</math>
+ | rowspan =1
+ | name =[[function (mathematics)|function]] arrow
+ | readas =from ... to
  | category =[[naive set theory|set theory]], [[Intuitionistic type theory|type theory]]
- | explain  =''f'':&nbsp;''X''&nbsp;→ ''Y'' means the function ''f'' maps the set ''X'' into the set ''Y''.
+ | explain =''f'':&nbsp;''X''&nbsp;→ ''Y'' means the function ''f'' maps the set ''X'' into the set ''Y''.
  | examples =Let ''f'':&nbsp;{{Unicode|&#x2124;}}&nbsp;→&nbsp;{{Unicode|&#x2115;}} ∪ {0} be defined by ''f''(''x'')&nbsp;:= ''x''<sup>2</sup>.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =↦
- | tex      =<math>\mapsto \!\,</math>
- | rowspan  =1
- | name     =[[function (mathematics)|function]] arrow
- | readas   =maps to
+ | symbol =↦
+ | tex =<math>\mapsto \!\,</math>
+ | rowspan =1
+ | name =[[function (mathematics)|function]] arrow
+ | readas =maps to
  | category =[[naive set theory|set theory]]
- | explain  =''f'':&nbsp;''a''&nbsp;↦ ''b'' means the function ''f'' maps the element ''a'' to the element ''b''.
+ | explain =''f'':&nbsp;''a''&nbsp;↦ ''b'' means the function ''f'' maps the element ''a'' to the element ''b''.
  | examples =Let ''f'':&nbsp;''x''&nbsp;↦&nbsp;''x'' + 1 (the successor function).
 }}
 
 {{row of table of mathematical symbols
- | symbol   =&lt;:<br/><br/>&lt;·
- | tex      =<math><: \!\,</math><br/><br/><math>{<}{\cdot} \!\,</math>
- | rowspan  =2
- | name     =[[subtype]]
- | readas   =is a subtype of
+ | symbol =&lt;:<br/><br/>&lt;·
+ | tex =<math><: \!\,</math><br/><br/><math>{<}{\cdot} \!\,</math>
+ | rowspan =2
+ | name =[[subtype]]
+ | readas =is a subtype of
  | category =[[type theory]]
- | explain  =''T''<sub>1</sub>&nbsp;<:&nbsp;''T''<sub>2</sub> means that ''T''<sub>1</sub> is a subtype of ''T''<sub>2</sub>.
+ | explain =''T''<sub>1</sub>&nbsp;<:&nbsp;''T''<sub>2</sub> means that ''T''<sub>1</sub> is a subtype of ''T''<sub>2</sub>.
  | examples =If ''S''&nbsp;<:&nbsp;''T'' and ''T''&nbsp;<:&nbsp;''U'' then ''S''&nbsp;<:&nbsp;''U'' ([[transitive relation|transitivity]]).
 }}
 
 {{row of table of mathematical symbols
- | name     =[[covering relation|cover]]
- | readas   =is covered by
+ | name =[[covering relation|cover]]
+ | readas =is covered by
  | category =[[order theory]]
- | explain  =''x''&nbsp;&lt;•&nbsp;''y'' means that ''x'' is covered by ''y''.
+ | explain =''x''&nbsp;&lt;•&nbsp;''y'' means that ''x'' is covered by ''y''.
  | examples ={1,&nbsp;8}&nbsp;&lt;•&nbsp;{1,&nbsp;3,&nbsp;8} among the subsets of {1,&nbsp;2,&nbsp;...,&nbsp;10} ordered by containment.
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x22A7;}}
- | tex      =<math>\vDash \!\,</math>
- | rowspan  =1
- | name     =[[entailment]]
- | readas   =entails
+ | symbol ={{Unicode|&#x22A7;}}
+ | tex =<math>\vDash \!\,</math>
+ | rowspan =1
+ | name =[[entailment]]
+ | readas =entails
  | category =[[model theory]]
- | explain  =''A''&nbsp;{{Unicode|&#x22A7;}}&nbsp;''B'' means the sentence ''A'' entails the sentence ''B'', that is in every model in which ''A'' is true, ''B'' is also true.
+ | explain =''A''&nbsp;{{Unicode|&#x22A7;}}&nbsp;''B'' means the sentence ''A'' entails the sentence ''B'', that is in every model in which ''A'' is true, ''B'' is also true.
  | examples =''A''&nbsp;{{Unicode|&#x22A7;}}&nbsp;''A''&nbsp;∨&nbsp;¬''A''
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x22A2;}}
- | tex      =<math>\vdash \!\,</math>
- | rowspan  =2
- | name     =[[inference]]
- | readas   =infers;<br/>is derived from
+ | symbol ={{Unicode|&#x22A2;}}
+ | tex =<math>\vdash \!\,</math>
+ | rowspan =2
+ | name =[[inference]]
+ | readas =infers;<br/>is derived from
  | category =[[propositional logic]], [[predicate logic]]
- | explain  =''x''&nbsp;{{Unicode|&#x22A2;}}&nbsp;''y'' means ''y'' is derivable from ''x''.
+ | explain =''x''&nbsp;{{Unicode|&#x22A2;}}&nbsp;''y'' means ''y'' is derivable from ''x''.
  | examples =''A''&nbsp;→&nbsp;''B''&nbsp;{{Unicode|&#x22A2;}} ¬''B''&nbsp;→&nbsp;¬''A''
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Partition (number theory)|partition]]
- | readas   =is a partition of
+ | name =[[Partition (number theory)|partition]]
+ | readas =is a partition of
  | category =[[number theory]]
- | explain  =''p''&nbsp;{{Unicode|&#x22A2;}}&nbsp;''n'' means that ''p'' is a partition of ''n''.
+ | explain =''p''&nbsp;{{Unicode|&#x22A2;}}&nbsp;''n'' means that ''p'' is a partition of ''n''.
  | examples = (4,3,1,1) &nbsp;{{Unicode|&#x22A2;}}&nbsp; 9, <math> \sum_{\lambda \vdash n} (f_\lambda)^2 = n!</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⟨<nowiki>|</nowiki>
- | tex      =<math>\langle\ | \!\,</math>
- | rowspan  =1
- | name     =[[bra vector]]
- | readas   =the bra ...;<br/>the dual of ...
+ | symbol =⟨<nowiki>|</nowiki>
+ | tex =<math>\langle\ | \!\,</math>
+ | rowspan =1
+ | name =[[bra vector]]
+ | readas =the bra ...;<br/>the dual of ...
  | category =[[Dirac notation]]
- | explain  =⟨''φ''<nowiki>|</nowiki> means the dual of the vector <nowiki>|</nowiki>''φ''⟩, a [[linear functional]] which maps a ket <nowiki>|</nowiki>''ψ''⟩ onto the inner product ⟨''φ''<nowiki>|</nowiki>''ψ''⟩.
+ | explain =⟨''φ''<nowiki>|</nowiki> means the dual of the vector <nowiki>|</nowiki>''φ''⟩, a [[linear functional]] which maps a ket <nowiki>|</nowiki>''ψ''⟩ onto the inner product ⟨''φ''<nowiki>|</nowiki>''ψ''⟩.
  | examples =
 }}
 
 {{row of table of mathematical symbols
- | symbol   =<nowiki>|</nowiki>⟩
- | tex      =<math>|\ \rangle \!\,</math>
- | rowspan  =1
- | name     =[[ket vector]]
- | readas   =the ket ...;<br/>the vector ...
+ | symbol =<nowiki>|</nowiki>⟩
+ | tex =<math>|\ \rangle \!\,</math>
+ | rowspan =1
+ | name =[[ket vector]]
+ | readas =the ket ...;<br/>the vector ...
  | category =[[Dirac notation]]
- | explain  =<nowiki>|</nowiki>''φ''⟩ means the vector with label ''φ'', which is in a [[Hilbert space]].
+ | explain =<nowiki>|</nowiki>''φ''⟩ means the vector with label ''φ'', which is in a [[Hilbert space]].
  | examples =A [[qubit]]'s state can be represented as ''α''<nowiki>|</nowiki>0⟩+ ''β''<nowiki>|</nowiki>1⟩, where ''α'' and ''β'' are complex numbers s.t. <nowiki>|</nowiki>''α''<nowiki>|</nowiki><sup>2</sup>&nbsp;+ <nowiki>|</nowiki>''β''<nowiki>|</nowiki><sup>2</sup>&nbsp;= 1.
 }}
 
@@ -759,7 +759,7 @@ then
 {| class="wikitable" style="margin:auto; width:100%; border:1px"
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[HTML]]</small>
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[TeX]]</small>
-! style="text-align:left;"  |Name
+! style="text-align:left;" |Name
 ! rowspan="3" style="font-size:130%;" |Explanation
 ! rowspan="3" style="font-size:130%;" |Examples
 |-
@@ -768,12 +768,12 @@ then
 ! style="text-align:right;" |Category
 
 {{row of table of mathematical symbols
- | tex      =<math>{\ \choose\ }</math>
- | rowspan  =1
- | name     =[[combination]]; <br/>[[binomial coefficient]]
- | readas   =''n'' choose ''k''
+ | tex =<math>{\ \choose\ }</math>
+ | rowspan =1
+ | name =[[combination]]; <br/>[[binomial coefficient]]
+ | readas =''n'' choose ''k''
  | category =[[combinatorics]]
- | explain  =<math>\begin{pmatrix} n \\ k \end{pmatrix}
+ | explain =<math>\begin{pmatrix} n \\ k \end{pmatrix}
 =\frac{n!/(n-k)!}{k!}
 = \frac{(n-k+1)\cdots(n-2)\cdot(n-1)\cdot n}{k!}
 </math><br/> means (in the case of ''n'' = positive integer) the number of combinations of ''k'' elements drawn from a set of ''n'' elements.<br/><br/>(''This may also be written as'' C(''n'', ''k''), C(''n''; ''k''), <sub>''n''</sub>''C''<sub>''k''</sub>, <sup>''n''</sup>'''C'''<sub>''k''</sub>, or <math>\left\langle\begin{matrix} n \\ k \end{matrix}\right\rangle</math>.)
@@ -785,12 +785,12 @@ then
 }}
 
 {{row of table of mathematical symbols
-  | tex      =<math>\left(\!\!{\ \choose\ }\!\!\right)</math>
- | rowspan  =1
- | name     =[[Multichoose#Counting multisets|multiset coefficient]]
- | readas   =''u'' multichoose ''k''
+ | tex =<math>\left(\!\!{\ \choose\ }\!\!\right)</math>
+ | rowspan =1
+ | name =[[Multichoose#Counting multisets|multiset coefficient]]
+ | readas =''u'' multichoose ''k''
  | category =[[combinatorics]]
- | explain  =<math>\left(\!\!{u\choose k}\!\!\right)={u+k-1\choose k}
+ | explain =<math>\left(\!\!{u\choose k}\!\!\right)={u+k-1\choose k}
 =\frac{(u+k-1)!/(u-1)!}{k!}
 </math> <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(when ''u'' is positive integer)<br/> means reverse or rising binomial coefficient.
  | examples =<math>
@@ -798,29 +798,29 @@ then
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{nowrap|<nowiki>|...|</nowiki>}}
- | tex      =<math>| \ldots | \!\,</math>
- | rowspan  =4
- | name     =[[absolute value]];<br/>modulus
- | readas   =absolute value of; modulus of
+ | symbol ={{nowrap|<nowiki>|...|</nowiki>}}
+ | tex =<math>| \ldots | \!\,</math>
+ | rowspan =4
+ | name =[[absolute value]];<br/>modulus
+ | readas =absolute value of; modulus of
  | category =[[number]]s
- | explain  =<nowiki>|</nowiki>''x''<nowiki>|</nowiki> means the distance along the [[real line]] (or across the [[complex plane]]) between ''x'' and [[0 (number)|zero]].
+ | explain =<nowiki>|</nowiki>''x''<nowiki>|</nowiki> means the distance along the [[real line]] (or across the [[complex plane]]) between ''x'' and [[0 (number)|zero]].
  | examples =<nowiki>|3|</nowiki>&nbsp;= 3<br/><br/><nowiki>|–5|</nowiki>&nbsp;= <nowiki>|5|</nowiki>&nbsp;= 5<br/><br/><nowiki>|</nowiki>&nbsp;''i''&nbsp;<nowiki>|</nowiki> = 1<br/><br/><nowiki>|</nowiki>&nbsp;3 + 4''i''&nbsp;<nowiki>|</nowiki>&nbsp;= 5
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Euclidean norm]] or Euclidean length or magnitude
- | readas   =Euclidean norm of
+ | name =[[Euclidean norm]] or Euclidean length or magnitude
+ | readas =Euclidean norm of
  | category =[[geometry]]
- | explain  =<nowiki>|</nowiki>'''x'''<nowiki>|</nowiki> means the (Euclidean) length of [[Euclidean vector|vector]] '''x'''.
+ | explain =<nowiki>|</nowiki>'''x'''<nowiki>|</nowiki> means the (Euclidean) length of [[Euclidean vector|vector]] '''x'''.
  | examples =For '''x'''&nbsp;= (3,&minus;4) <br/><math>|\textbf{x}| = \sqrt{3^2 + (-4)^2} = 5</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[determinant]]
- | readas   =determinant of
+ | name =[[determinant]]
+ | readas =determinant of
  | category =[[Matrix (mathematics)|matrix theory]]
- | explain  =<nowiki>|</nowiki>''A''<nowiki>|</nowiki> means the determinant of the matrix ''A''
+ | explain =<nowiki>|</nowiki>''A''<nowiki>|</nowiki> means the determinant of the matrix ''A''
  | examples =<math>\begin{vmatrix}
  1&2 \\
  2&9 \\
@@ -828,198 +828,198 @@ then
 }}
 
 {{row of table of mathematical symbols
- | name     =[[cardinality]]
- | readas   =cardinality of;<br/>size of;<br/>order of
+ | name =[[cardinality]]
+ | readas =cardinality of;<br/>size of;<br/>order of
  | category =[[set theory]]
- | explain  =<nowiki>|</nowiki>''X''<nowiki>|</nowiki> means the cardinality of the set ''X''.<br/><br/>(# <!--''or'' ♯ -->''may be used instead as described below.'')
+ | explain =<nowiki>|</nowiki>''X''<nowiki>|</nowiki> means the cardinality of the set ''X''.<br/><br/>(# <!--''or'' ♯ -->''may be used instead as described below.'')
  | examples =<nowiki>|{3, 5, 7, 9}|</nowiki>&nbsp;= 4.
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{nowrap|<nowiki>‖...‖</nowiki>}}
- | tex      =<math>\| \ldots \| \!\,</math>
- | rowspan  =2
- | name     =[[norm (mathematics)|norm]]
- | readas   =norm of;<br/>length of
+ | symbol ={{nowrap|<nowiki>‖...‖</nowiki>}}
+ | tex =<math>\| \ldots \| \!\,</math>
+ | rowspan =2
+ | name =[[norm (mathematics)|norm]]
+ | readas =norm of;<br/>length of
  | category =[[linear algebra]]
- | explain  =<nowiki>‖</nowiki>&nbsp;''x''&nbsp;<nowiki>‖</nowiki> means the [[norm (mathematics)|norm]] of the element ''x'' of a [[normed vector space]].<ref name="m-nielsen-quantum-66">{{citation | title=Quantum Computation and Quantum Information | last1=Nielsen | first1=Michael A | author1-link=Michael Nielsen | last2=Chuang | first2=Isaac L | year=2000 | publisher=[[Cambridge University Press]] | location=[[New York City|New York]] | isbn=0-521-63503-9 | oclc= 43641333 | page=66 }}</ref>
- | examples =<nowiki>‖</nowiki>&nbsp;''x''&nbsp;+ ''y''&nbsp;<nowiki>‖</nowiki> ≤&nbsp; <nowiki>‖</nowiki>&nbsp;''x''&nbsp;<nowiki>‖</nowiki>&nbsp; +&nbsp;  <nowiki>‖</nowiki>&nbsp;''y''&nbsp;<nowiki>‖</nowiki>
+ | explain =<nowiki>‖</nowiki>&nbsp;''x''&nbsp;<nowiki>‖</nowiki> means the [[norm (mathematics)|norm]] of the element ''x'' of a [[normed vector space]].<ref name="m-nielsen-quantum-66">{{citation | title=Quantum Computation and Quantum Information | last1=Nielsen | first1=Michael A | author1-link=Michael Nielsen | last2=Chuang | first2=Isaac L | year=2000 | publisher=[[Cambridge University Press]] | location=[[New York City|New York]] | isbn=0-521-63503-9 | oclc= 43641333 | page=66 }}</ref>
+ | examples =<nowiki>‖</nowiki>&nbsp;''x''&nbsp;+ ''y''&nbsp;<nowiki>‖</nowiki> ≤&nbsp; <nowiki>‖</nowiki>&nbsp;''x''&nbsp;<nowiki>‖</nowiki>&nbsp; +&nbsp; <nowiki>‖</nowiki>&nbsp;''y''&nbsp;<nowiki>‖</nowiki>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[nearest integer function]]
- | readas   =nearest integer to
+ | name =[[nearest integer function]]
+ | readas =nearest integer to
  | category =[[number]]s
- | explain  =<nowiki>‖</nowiki>''x''<nowiki>‖</nowiki> means the nearest integer to ''x''.<br/><br/>(''This may also be written'' [''x''], ⌊''x''⌉, nint(''x'') ''or'' Round(''x'').)
+ | explain =<nowiki>‖</nowiki>''x''<nowiki>‖</nowiki> means the nearest integer to ''x''.<br/><br/>(''This may also be written'' [''x''], ⌊''x''⌉, nint(''x'') ''or'' Round(''x'').)
  | examples =<nowiki>‖1‖ = 1, ‖1.6‖ = 2, ‖−2.4‖ = −2, ‖3.49‖ = 3</nowiki>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[curly brackets|{]]&nbsp;,&nbsp;[[curly brackets|}]]
- | tex      =<math>{\{\ ,\!\ \}} \!\,</math>
- | rowspan  =1
- | name     =[[set (mathematics)|set]] brackets
- | readas   =the set of ...
+ | symbol =[[curly brackets|{]]&nbsp;,&nbsp;[[curly brackets|}]]
+ | tex =<math>{\{\ ,\!\ \}} \!\,</math>
+ | rowspan =1
+ | name =[[set (mathematics)|set]] brackets
+ | readas =the set of ...
  | category =[[naive set theory|set theory]]
- | explain  ={''a'',''b'',''c''} means the set consisting of ''a'', ''b'', and ''c''.<ref name="d-goldrei-set-3">{{Citation | last1=Goldrei | first1=Derek | title=Classic Set Theory | page=3 | year=1996 | publisher=[[Chapman and Hall]] | isbn=0-412-60610-0 | location=London }}</ref>
+ | explain ={''a'',''b'',''c''} means the set consisting of ''a'', ''b'', and ''c''.<ref name="d-goldrei-set-3">{{Citation | last1=Goldrei | first1=Derek | title=Classic Set Theory | page=3 | year=1996 | publisher=[[Chapman and Hall]] | isbn=0-412-60610-0 | location=London }}</ref>
  | examples ={{Unicode|&#x2115;}}&nbsp;= {&nbsp;1, 2, 3, ... }
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={&nbsp;:&nbsp;}<br/><br/>{&nbsp;<nowiki>|</nowiki>&nbsp;}<br/><br/>{&nbsp;;&nbsp;}
- | tex      =<math>\{\ :\ \} \!\,</math><br/><br/><math>\{\ |\ \} \!\,</math><br/><br/><math>\{\ ;\ \} \!\,</math>
- | rowspan  =1
- | name     =[[set builder notation]]
- | readas   =the set of ... such that
+ | symbol ={&nbsp;:&nbsp;}<br/><br/>{&nbsp;<nowiki>|</nowiki>&nbsp;}<br/><br/>{&nbsp;;&nbsp;}
+ | tex =<math>\{\ :\ \} \!\,</math><br/><br/><math>\{\ |\ \} \!\,</math><br/><br/><math>\{\ ;\ \} \!\,</math>
+ | rowspan =1
+ | name =[[set builder notation]]
+ | readas =the set of ... such that
  | category =[[naive set theory|set theory]]
- | explain  ={''x''&nbsp;: ''P''(''x'')} means the set of all ''x'' for which ''P''(''x'') is true.<ref name="d-goldrei-set-3" /> {''x''&nbsp;<nowiki>|</nowiki> ''P''(''x'')} is the same as {''x''&nbsp;: ''P''(''x'')}.
+ | explain ={''x''&nbsp;: ''P''(''x'')} means the set of all ''x'' for which ''P''(''x'') is true.<ref name="d-goldrei-set-3" /> {''x''&nbsp;<nowiki>|</nowiki> ''P''(''x'')} is the same as {''x''&nbsp;: ''P''(''x'')}.
  | examples ={''n''&nbsp;∈&nbsp;{{Unicode|&#x2115;}}&nbsp;: ''n''<sup>2</sup>&nbsp;<&nbsp;20}&nbsp;= {&nbsp;1, 2, 3, 4 }
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⌊...⌋
- | tex      =<math>\lfloor \ldots \rfloor \!\,</math>
- | rowspan  =1
- | name     =[[floor and ceiling functions|floor]]
- | readas   =floor;<br/>greatest integer;<br/>entier
+ | symbol =⌊...⌋
+ | tex =<math>\lfloor \ldots \rfloor \!\,</math>
+ | rowspan =1
+ | name =[[floor and ceiling functions|floor]]
+ | readas =floor;<br/>greatest integer;<br/>entier
  | category =[[number]]s
- | explain  =⌊''x''⌋ means the floor of ''x'', i.e. the largest integer less than or equal to ''x''.<br/><br/>(''This may also be written'' [''x''], floor(''x'') ''or'' int(''x'').)
+ | explain =⌊''x''⌋ means the floor of ''x'', i.e. the largest integer less than or equal to ''x''.<br/><br/>(''This may also be written'' [''x''], floor(''x'') ''or'' int(''x'').)
  | examples =⌊4⌋ = 4, ⌊2.1⌋ = 2, ⌊2.9⌋ = 2, ⌊&minus;2.6⌋ = &minus;3
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⌈...⌉
- | tex      =<math>\lceil \ldots \rceil \!\,</math>
- | rowspan  =1
- | name     =[[floor and ceiling functions|ceiling]]
- | readas   =ceiling
+ | symbol =⌈...⌉
+ | tex =<math>\lceil \ldots \rceil \!\,</math>
+ | rowspan =1
+ | name =[[floor and ceiling functions|ceiling]]
+ | readas =ceiling
  | category =[[number]]s
- | explain  =⌈''x''⌉ means the ceiling of ''x'', i.e. the smallest integer greater than or equal to ''x''.<br/><br/>(''This may also be written'' ceil(''x'') ''or'' ceiling(''x'').)
+ | explain =⌈''x''⌉ means the ceiling of ''x'', i.e. the smallest integer greater than or equal to ''x''.<br/><br/>(''This may also be written'' ceil(''x'') ''or'' ceiling(''x'').)
  | examples =⌈4⌉ = 4, ⌈2.1⌉ = 3, ⌈2.9⌉ = 3, ⌈&minus;2.6⌉ = &minus;2
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⌊...⌉
- | tex      =<math>\lfloor \ldots \rceil \!\,</math>
- | rowspan  =1
- | name     =[[nearest integer function]]
- | readas   =nearest integer to
+ | symbol =⌊...⌉
+ | tex =<math>\lfloor \ldots \rceil \!\,</math>
+ | rowspan =1
+ | name =[[nearest integer function]]
+ | readas =nearest integer to
  | category =[[number]]s
- | explain  =⌊''x''⌉ means the nearest integer to ''x''.<br/><br/>(''This may also be written'' [''x''], <nowiki>||</nowiki>''x''<nowiki>||</nowiki>, nint(''x'') ''or'' Round(''x'').)
+ | explain =⌊''x''⌉ means the nearest integer to ''x''.<br/><br/>(''This may also be written'' [''x''], <nowiki>||</nowiki>''x''<nowiki>||</nowiki>, nint(''x'') ''or'' Round(''x'').)
  | examples =⌊2⌉ = 2, ⌊2.6⌉ = 3, ⌊-3.4⌉ = -3, ⌊4.49⌉ = 4
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[&nbsp;:&nbsp;]
- | tex      =<math>[\ :\ ] \!\,</math>
- | rowspan  =1
- | name     =[[degree of a field extension]]
- | readas   =the degree of
+ | symbol =[&nbsp;:&nbsp;]
+ | tex =<math>[\ :\ ] \!\,</math>
+ | rowspan =1
+ | name =[[degree of a field extension]]
+ | readas =the degree of
  | category =[[Field theory (mathematics)|field theory]]
- | explain  =[''K'' : ''F''] means the degree of the extension ''K'' : ''F''.
+ | explain =[''K'' : ''F''] means the degree of the extension ''K'' : ''F''.
  | examples =[ℚ(√2) : ℚ] = 2<br/><br/>[ℂ : ℝ] = 2<br/><br/>[ℝ : ℚ] = ∞
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Bracket|<nowiki>[&nbsp;]</nowiki>]]<br/><br/>[&nbsp;,&nbsp;]<br/><br/>[&nbsp;,&nbsp;,&nbsp;]
- | tex      =<math>[\ ] \!\,</math><br/><br/><math>[\ ,\ ] \!\,</math><br/><br/><math>[\ ,\ ,\ ] \!\,</math>
- | rowspan  =8
- | name     =[[equivalence class]]
- | readas   =the equivalence class of
+ | symbol =[[Bracket|<nowiki>[&nbsp;]</nowiki>]]<br/><br/>[&nbsp;,&nbsp;]<br/><br/>[&nbsp;,&nbsp;,&nbsp;]
+ | tex =<math>[\ ] \!\,</math><br/><br/><math>[\ ,\ ] \!\,</math><br/><br/><math>[\ ,\ ,\ ] \!\,</math>
+ | rowspan =8
+ | name =[[equivalence class]]
+ | readas =the equivalence class of
  | category =[[abstract algebra]]
- | explain  =[''a''] means the equivalence class of ''a'', i.e. {''x''&nbsp;: ''x''&nbsp;~ ''a''}, where ~ is an [[equivalence relation]].<br/><br/>[''a'']<sub>''R''</sub> means the same, but with ''R'' as the equivalence relation.
+ | explain =[''a''] means the equivalence class of ''a'', i.e. {''x''&nbsp;: ''x''&nbsp;~ ''a''}, where ~ is an [[equivalence relation]].<br/><br/>[''a'']<sub>''R''</sub> means the same, but with ''R'' as the equivalence relation.
  | examples =Let ''a''&nbsp;~ ''b'' be true [[iff]] ''a''&nbsp;≡ ''b''&nbsp;([[modular arithmetic|mod]]&nbsp;5).
 Then [2]&nbsp;= {..., &minus;8, &minus;3, 2, 7, ...}.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[floor and ceiling functions|floor]]
- | readas   =floor;<br/>greatest integer;<br/>entier
+ | name =[[floor and ceiling functions|floor]]
+ | readas =floor;<br/>greatest integer;<br/>entier
  | category =[[number]]s
- | explain  =[''x''] means the floor of ''x'', i.e. the largest integer less than or equal to ''x''.<br/><br/>(''This may also be written'' ⌊''x''⌋, floor(''x'') ''or'' int(''x''). ''Not to be confused with the nearest integer function, as described below.'')
+ | explain =[''x''] means the floor of ''x'', i.e. the largest integer less than or equal to ''x''.<br/><br/>(''This may also be written'' ⌊''x''⌋, floor(''x'') ''or'' int(''x''). ''Not to be confused with the nearest integer function, as described below.'')
  | examples =[3] = 3, [3.5] = 3, [3.99] = 3, [&minus;3.7] = &minus;4
 }}
 
 {{row of table of mathematical symbols
- | name     =[[nearest integer function]]
- | readas   =nearest integer to
+ | name =[[nearest integer function]]
+ | readas =nearest integer to
  | category =[[number]]s
- | explain  =[''x''] means the nearest integer to ''x''.<br/><br/>(''This may also be written'' ⌊''x''⌉, <nowiki>||</nowiki>''x''<nowiki>||</nowiki>, nint(''x'') ''or'' Round(''x''). ''Not to be confused with the floor function, as described above.'')
+ | explain =[''x''] means the nearest integer to ''x''.<br/><br/>(''This may also be written'' ⌊''x''⌉, <nowiki>||</nowiki>''x''<nowiki>||</nowiki>, nint(''x'') ''or'' Round(''x''). ''Not to be confused with the floor function, as described above.'')
  | examples =[2] = 2, [2.6] = 3, [-3.4] = -3, [4.49] = 4
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Iverson bracket]]
- | readas   =1 if true, 0 otherwise
+ | name =[[Iverson bracket]]
+ | readas =1 if true, 0 otherwise
  | category =[[propositional logic]]
- | explain  =[''S''] maps a true statement ''S'' to 1 and a false statement ''S'' to 0.
+ | explain =[''S''] maps a true statement ''S'' to 1 and a false statement ''S'' to 0.
  | examples =[0=5]=0, [7>0]=1, [2&nbsp;&isin;&nbsp;{2,3,4}]=1, [5&nbsp;&isin;&nbsp;{2,3,4}]=0
 }}
 
 {{row of table of mathematical symbols
- | name     =[[image (mathematics)|image]]
- | readas   =image of ... under ...
+ | name =[[image (mathematics)|image]]
+ | readas =image of ... under ...
  | category =everywhere
- | explain  =''f''[''X''] means { ''f''(''x'')&nbsp;: ''x''&nbsp;∈ ''X'' }, the image of the function ''f'' under the set ''X''&nbsp;⊆ [[domain of a function|dom]](''f'').<br/><br/>(''This may also be written as'' ''f''(''X'') ''if there is no risk of confusing the image of'' ''f'' ''under'' ''X'' ''with the function application'' ''f'' ''of'' ''X''. ''Another notation is'' Im&nbsp;''f'', ''the image of'' ''f'' ''under its domain.'')
+ | explain =''f''[''X''] means { ''f''(''x'')&nbsp;: ''x''&nbsp;∈ ''X'' }, the image of the function ''f'' under the set ''X''&nbsp;⊆ [[domain of a function|dom]](''f'').<br/><br/>(''This may also be written as'' ''f''(''X'') ''if there is no risk of confusing the image of'' ''f'' ''under'' ''X'' ''with the function application'' ''f'' ''of'' ''X''. ''Another notation is'' Im&nbsp;''f'', ''the image of'' ''f'' ''under its domain.'')
  | examples =<math>\sin [\mathbb{R}] = [-1, 1]</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[closed interval]]
- | readas   =closed interval
+ | name =[[closed interval]]
+ | readas =closed interval
  | category =[[order theory]]
- | explain  =<math>[a,b] = \{x \in \mathbb{R} : a \le x \le b \}</math>.
+ | explain =<math>[a,b] = \{x \in \mathbb{R} : a \le x \le b \}</math>.
  | examples = 0 and 1/2 are in the interval [0,1].
 }}
 
 {{row of table of mathematical symbols
- | name     =[[commutator]]
- | readas   =the commutator of
+ | name =[[commutator]]
+ | readas =the commutator of
  | category =[[group theory]], [[ring theory]]
- | explain  =[''g'',&nbsp;''h''] = ''g''<sup>&minus;1</sup>''h''<sup>&minus;1</sup>''gh'' (or ''ghg''<sup>&minus;1</sup>''h''<sup>&minus;1</sup>), if ''g'', ''h'' ∈ ''G'' (a [[group (mathematics)|group]]).<br/><br/>[''a'',&nbsp;''b'']&nbsp;= ''ab''&nbsp;&minus; ''ba'', if ''a'', ''b''&nbsp;∈ ''R'' (a [[ring (algebra)|ring]] or [[commutative algebra]]).
+ | explain =[''g'',&nbsp;''h''] = ''g''<sup>&minus;1</sup>''h''<sup>&minus;1</sup>''gh'' (or ''ghg''<sup>&minus;1</sup>''h''<sup>&minus;1</sup>), if ''g'', ''h'' ∈ ''G'' (a [[group (mathematics)|group]]).<br/><br/>[''a'',&nbsp;''b'']&nbsp;= ''ab''&nbsp;&minus; ''ba'', if ''a'', ''b''&nbsp;∈ ''R'' (a [[ring (algebra)|ring]] or [[commutative algebra]]).
  | examples =''x''<sup>''y''</sup> = ''x''[''x'',&nbsp;''y''] (group theory).<br/><br/>[''AB'',&nbsp;''C''] = ''A''[''B'',&nbsp;''C'']&nbsp;+ [''A'',&nbsp;''C'']''B'' (ring theory).
 }}
 
 {{row of table of mathematical symbols
- | name     =[[triple scalar product]]
- | readas   =the triple scalar product of
+ | name =[[triple scalar product]]
+ | readas =the triple scalar product of
  | category =[[vector calculus]]
- | explain  =['''a''',&nbsp;'''b''',&nbsp;'''c''']&nbsp;= '''a'''&nbsp;× '''b'''&nbsp;· '''c''', the [[scalar product]] of '''a'''&nbsp;[[cross product|×]]&nbsp;'''b''' with '''c'''.
+ | explain =['''a''',&nbsp;'''b''',&nbsp;'''c''']&nbsp;= '''a'''&nbsp;× '''b'''&nbsp;· '''c''', the [[scalar product]] of '''a'''&nbsp;[[cross product|×]]&nbsp;'''b''' with '''c'''.
  | examples =['''a''',&nbsp;'''b''',&nbsp;'''c''']&nbsp;= ['''b''',&nbsp;'''c''',&nbsp;'''a''']&nbsp;= ['''c''',&nbsp;'''a''',&nbsp;'''b'''].
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Bracket|(&nbsp;)]]<br/><br/>(, )
- | tex      =<math>(\ ) \!\,</math><br/><br/><math>(\ ,\ ) \!\,</math>
- | rowspan  =5
- | name     =[[function (mathematics)|function]] application
- | readas   =of
+ | symbol =[[Bracket|(&nbsp;)]]<br/><br/>(, )
+ | tex =<math>(\ ) \!\,</math><br/><br/><math>(\ ,\ ) \!\,</math>
+ | rowspan =5
+ | name =[[function (mathematics)|function]] application
+ | readas =of
  | category =[[naive set theory|set theory]]
- | explain  =''f''(''x'') means the value of the function ''f'' at the element ''x''.
+ | explain =''f''(''x'') means the value of the function ''f'' at the element ''x''.
  | examples =If ''f''(''x'')&nbsp;:= ''x''<sup>2</sup>, then ''f''(3)&nbsp;= 3<sup>2</sup>&nbsp;= 9.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[image (mathematics)|image]]
- | readas   =image of ... under ...
+ | name =[[image (mathematics)|image]]
+ | readas =image of ... under ...
  | category =everywhere
- | explain  =''f''(''X'') means { ''f''(''x'')&nbsp;: ''x''&nbsp;∈ ''X'' }, the image of the function ''f'' under the set ''X''&nbsp;⊆ [[domain of a function|dom]](''f'').<br/><br/>(''This may also be written as'' ''f''[''X''] ''if there is a risk of confusing the image of'' ''f'' ''under'' ''X'' ''with the function application'' ''f'' ''of'' ''X''. ''Another notation is'' Im&nbsp;''f'', ''the image of'' ''f'' ''under its domain.'')
+ | explain =''f''(''X'') means { ''f''(''x'')&nbsp;: ''x''&nbsp;∈ ''X'' }, the image of the function ''f'' under the set ''X''&nbsp;⊆ [[domain of a function|dom]](''f'').<br/><br/>(''This may also be written as'' ''f''[''X''] ''if there is a risk of confusing the image of'' ''f'' ''under'' ''X'' ''with the function application'' ''f'' ''of'' ''X''. ''Another notation is'' Im&nbsp;''f'', ''the image of'' ''f'' ''under its domain.'')
  | examples =<math>\sin (\mathbb{R}) = [-1, 1]</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =precedence grouping
- | readas   =parentheses
+ | name =precedence grouping
+ | readas =parentheses
  | category =everywhere
- | explain  =Perform the operations inside the parentheses first.
+ | explain =Perform the operations inside the parentheses first.
  | examples =(8/4)/2&nbsp;= 2/2&nbsp;= 1, but 8/(4/2)&nbsp;= 8/2&nbsp;= 4.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[tuple]]
- | readas   =tuple; ''n''-tuple;<br/>ordered pair/triple/etc;<br/>row vector; sequence
+ | name =[[tuple]]
+ | readas =tuple; ''n''-tuple;<br/>ordered pair/triple/etc;<br/>row vector; sequence
  | category =everywhere
- | explain  =An ordered list (or sequence, or horizontal vector, or row vector) of values.
+ | explain =An ordered list (or sequence, or horizontal vector, or row vector) of values.
 (''Note that the notation'' (''a'',''b'') ''is ambiguous: it could be an ordered pair or an open interval. Set theorists and computer scientists often use angle brackets'' ⟨&nbsp;⟩ ''instead of parentheses.'') 
  | examples =(''a'', ''b'') is an ordered pair (or 2-tuple).
 
@@ -1029,94 +1029,94 @@ Then [2]&nbsp;= {..., &minus;8, &minus;3, 2, 7, ...}.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[highest common factor]]
- | readas   =highest common factor;<br/>greatest common divisor; hcf; gcd
+ | name =[[highest common factor]]
+ | readas =highest common factor;<br/>greatest common divisor; hcf; gcd
  | category =number theory
- | explain  =(''a'', ''b'') means the highest common factor of ''a'' and ''b''.<br/><br/>(''This may also be written'' hcf(''a'', ''b'') ''or'' gcd(''a'', ''b'').)
+ | explain =(''a'', ''b'') means the highest common factor of ''a'' and ''b''.<br/><br/>(''This may also be written'' hcf(''a'', ''b'') ''or'' gcd(''a'', ''b'').)
  | examples =(3, 7) = 1 (they are coprime); (15, 25) = 5.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =(&nbsp;,&nbsp;)<br/><br/>]&nbsp;,&nbsp;[
- | tex      =<math>(\ ,\ ) \!\,</math><br/><br/><math>]\ ,\ [ \!\,</math>
- | rowspan  =1
- | name     =[[open interval]]
- | readas   =open interval
+ | symbol =(&nbsp;,&nbsp;)<br/><br/>]&nbsp;,&nbsp;[
+ | tex =<math>(\ ,\ ) \!\,</math><br/><br/><math>]\ ,\ [ \!\,</math>
+ | rowspan =1
+ | name =[[open interval]]
+ | readas =open interval
  | category =[[order theory]]
- | explain  =<math>(a,b) = \{x \in \mathbb{R} : a < x < b \}</math>.
+ | explain =<math>(a,b) = \{x \in \mathbb{R} : a < x < b \}</math>.
 (''Note that the notation'' (''a'',''b'') ''is ambiguous: it could be an ordered pair or an open interval. The notation'' ]''a'',''b''[ ''can be used instead.'')
  | examples = 4 is not in the interval (4, 18).
 (0, +∞) equals the set of positive real numbers.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =(&nbsp;,&nbsp;]<br/><br/>]&nbsp;,&nbsp;]
- | tex      =<math>(\ ,\ ] \!\,</math><br/><br/><math>]\ ,\ ] \!\,</math>
- | rowspan  =1
- | name     =[[half-open interval|left-open interval]]
- | readas   =half-open interval;<br/>left-open interval
+ | symbol =(&nbsp;,&nbsp;]<br/><br/>]&nbsp;,&nbsp;]
+ | tex =<math>(\ ,\ ] \!\,</math><br/><br/><math>]\ ,\ ] \!\,</math>
+ | rowspan =1
+ | name =[[half-open interval|left-open interval]]
+ | readas =half-open interval;<br/>left-open interval
  | category =[[order theory]]
- | explain  =<math>(a,b] = \{x \in \mathbb{R} : a < x \le b \}</math>.
+ | explain =<math>(a,b] = \{x \in \mathbb{R} : a < x \le b \}</math>.
  | examples =(&minus;1, 7] and (&minus;∞, &minus;1]
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[&nbsp;,&nbsp;)<br/><br/>[&nbsp;,&nbsp;[
- | tex      =<math>[\ ,\ ) \!\,</math><br/><br/><math>[\ ,\ [ \!\,</math>
- | rowspan  =1
- | name     =[[half-open interval|right-open interval]]
- | readas   =half-open interval;<br/>right-open interval
+ | symbol =[&nbsp;,&nbsp;)<br/><br/>[&nbsp;,&nbsp;[
+ | tex =<math>[\ ,\ ) \!\,</math><br/><br/><math>[\ ,\ [ \!\,</math>
+ | rowspan =1
+ | name =[[half-open interval|right-open interval]]
+ | readas =half-open interval;<br/>right-open interval
  | category =[[order theory]]
- | explain  =<math>[a,b) = \{x \in \mathbb{R} : a \le x < b \}</math>.
+ | explain =<math>[a,b) = \{x \in \mathbb{R} : a \le x < b \}</math>.
  | examples =[4, 18) and [1, +∞)
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⟨⟩<br/><br/>⟨,⟩
- | tex      =<math>\langle\ \rangle \!\,</math><br/><br/><math>\langle\ ,\ \rangle \!\,</math>
- | rowspan  =5
- | name     =[[inner product]]
- | readas   =inner product of
+ | symbol =⟨⟩<br/><br/>⟨,⟩
+ | tex =<math>\langle\ \rangle \!\,</math><br/><br/><math>\langle\ ,\ \rangle \!\,</math>
+ | rowspan =5
+ | name =[[inner product]]
+ | readas =inner product of
  | category =[[linear algebra]]
- | explain  =⟨''u'',''v''⟩ means the inner product of ''u'' and ''v'', where ''u'' and ''v'' are members of an [[inner product space]].<br ><br/>''Note that the notation'' ⟨''u'', ''v''⟩ ''may be ambiguous: it could mean the inner product or the [[linear span]].''<br/><br/>''There are many variants of the notation, such as'' ⟨''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''⟩ ''and'' (''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''), ''which are described below. For spatial vectors, the [[dot product]] notation'', ''x''&nbsp;·&nbsp;''y'' ''is common. For matrices, the colon notation'' ''A''&nbsp;:&nbsp;''B'' ''may be used. As'' ⟨ ''and'' ⟩ ''can be hard to type, the more "keyboard friendly" forms'' < ''and'' > ''are sometimes seen. These are avoided in mathematical texts.''
+ | explain =⟨''u'',''v''⟩ means the inner product of ''u'' and ''v'', where ''u'' and ''v'' are members of an [[inner product space]].<br ><br/>''Note that the notation'' ⟨''u'', ''v''⟩ ''may be ambiguous: it could mean the inner product or the [[linear span]].''<br/><br/>''There are many variants of the notation, such as'' ⟨''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''⟩ ''and'' (''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''), ''which are described below. For spatial vectors, the [[dot product]] notation'', ''x''&nbsp;·&nbsp;''y'' ''is common. For matrices, the colon notation'' ''A''&nbsp;:&nbsp;''B'' ''may be used. As'' ⟨ ''and'' ⟩ ''can be hard to type, the more "keyboard friendly" forms'' < ''and'' > ''are sometimes seen. These are avoided in mathematical texts.''
  | examples =The [[dot product|standard inner product]] between two vectors ''x''&nbsp;=&nbsp;(2,&nbsp;3) and ''y''&nbsp;=&nbsp;(&minus;1,&nbsp;5) is:<br/>⟨x,&nbsp;y⟩&nbsp;=&nbsp;2&nbsp;×&nbsp;&minus;1&nbsp;+&nbsp;3&nbsp;×&nbsp;5&nbsp;= 13
 }}
 
 {{row of table of mathematical symbols
 
- | name     =average
- | readas   = average of
+ | name =average
+ | readas = average of
  | category =[[statistics]]
- | explain  =let S be a subset of N for example, <math> \langle S \rangle </math> represents the average of all the element in S.
+ | explain =let S be a subset of N for example, <math> \langle S \rangle </math> represents the average of all the element in S.
  | examples =for a time series :''g''(''t'') (''t'' = 1, 2,...) 
 we can define the [[Algebraic structure|structure]] functions ''S<sub>q</sub>''(<math>\tau</math>):
-:<math>S_q = \langle |g(t + \tau) - g(t)|^q  \rangle_t </math>
+:<math>S_q = \langle |g(t + \tau) - g(t)|^q \rangle_t </math>
 
 }}
 
 {{row of table of mathematical symbols
- | name     =[[linear span]]
- | readas   =(linear) span of;<br/>linear hull of
+ | name =[[linear span]]
+ | readas =(linear) span of;<br/>linear hull of
  | category =[[linear algebra]]
- | explain  =⟨''S''⟩ means the span of ''S'' ⊆ ''V''. That is, it is the intersection of all subspaces of ''V'' which contain ''S''.<br/>⟨''u''<sub>1</sub>,&nbsp;''u''<sub>2</sub>,&nbsp;...⟩ is shorthand for ⟨{''u''<sub>1</sub>,&nbsp;''u''<sub>2</sub>,&nbsp;...}⟩.<br/>
+ | explain =⟨''S''⟩ means the span of ''S'' ⊆ ''V''. That is, it is the intersection of all subspaces of ''V'' which contain ''S''.<br/>⟨''u''<sub>1</sub>,&nbsp;''u''<sub>2</sub>,&nbsp;...⟩ is shorthand for ⟨{''u''<sub>1</sub>,&nbsp;''u''<sub>2</sub>,&nbsp;...}⟩.<br/>
 <br/>''Note that the notation'' ⟨''u'',&nbsp;''v''⟩ ''may be ambiguous: it could mean the [[inner product]] or the linear span.''<br/>
 <br/>''The span of'' ''S'' ''may also be written as'' Sp(''S'').
  | examples =<math>\left\lang \left( \begin{smallmatrix} 1 \\ 0 \\ 0 \end{smallmatrix} \right), \left( \begin{smallmatrix} 0 \\ 1 \\ 0 \end{smallmatrix} \right), \left( \begin{smallmatrix} 0 \\ 0 \\ 1 \end{smallmatrix} \right) \right\rang = \mathbb{R}^3</math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =subgroup [[generating set of a group|generated]] by a set
- | readas   =the subgroup generated by
+ | name =subgroup [[generating set of a group|generated]] by a set
+ | readas =the subgroup generated by
  | category =[[group theory]]
- | explain  =<math> \langle S \rangle </math> means the smallest subgroup of ''G'' (where ''S'' ⊆ ''G'', a group) containing every element of ''S''.<br/><math> \langle g_1, g_2, \ldots, \rangle </math> is shorthand for <math> \langle g_1, g_2, \ldots \rangle </math>.
- | examples =In [[dihedral group of order 6|S<sub>3</sub>]], <math> \langle(1 \; 2) \rangle  = \{id,\; (1 \; 2)\} </math> and <math> \langle (1 \; 2 \; 3) \rangle = \{id, \; (1 \; 2 \; 3),(1 \; 2 \; 3))\} </math>.
+ | explain =<math> \langle S \rangle </math> means the smallest subgroup of ''G'' (where ''S'' ⊆ ''G'', a group) containing every element of ''S''.<br/><math> \langle g_1, g_2, \ldots, \rangle </math> is shorthand for <math> \langle g_1, g_2, \ldots \rangle </math>.
+ | examples =In [[dihedral group of order 6|S<sub>3</sub>]], <math> \langle(1 \; 2) \rangle = \{id,\; (1 \; 2)\} </math> and <math> \langle (1 \; 2 \; 3) \rangle = \{id, \; (1 \; 2 \; 3),(1 \; 2 \; 3))\} </math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[tuple]]
- | readas   =tuple; ''n''-tuple;<br/>ordered pair/triple/etc;<br/>row vector; sequence
+ | name =[[tuple]]
+ | readas =tuple; ''n''-tuple;<br/>ordered pair/triple/etc;<br/>row vector; sequence
  | category =everywhere
- | explain  =An ordered list (or sequence, or horizontal vector, or row vector) of values.
+ | explain =An ordered list (or sequence, or horizontal vector, or row vector) of values.
 (''The notation'' (''a'',''b'') ''is often used as well.'') 
  | examples = <math> \langle a, b \rangle </math> is an ordered pair (or 2-tuple).
 <math> \langle a, b, c \rangle </math> is an ordered triple (or 3-tuple).
@@ -1125,13 +1125,13 @@ we can define the [[Algebraic structure|structure]] functions ''S<sub>q</sub>''(
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⟨<nowiki>|</nowiki>⟩<br/><br/>(<nowiki>|</nowiki>)
- | tex      =<math>\langle\ |\ \rangle \!\,</math><br/><br/><math>(\ |\ ) \!\,</math>
- | rowspan  =1
- | name     =[[inner product]]
- | readas   =inner product of
+ | symbol =⟨<nowiki>|</nowiki>⟩<br/><br/>(<nowiki>|</nowiki>)
+ | tex =<math>\langle\ |\ \rangle \!\,</math><br/><br/><math>(\ |\ ) \!\,</math>
+ | rowspan =1
+ | name =[[inner product]]
+ | readas =inner product of
  | category =[[linear algebra]]
- | explain  =⟨''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''⟩ means the inner product of ''u'' and ''v'', where ''u'' and ''v'' are members of an [[inner product space]].<ref name="m-nielsen-quantum-62">{{citation | title=Quantum Computation and Quantum Information | last1=Nielsen | first1=Michael A | author1-link=Michael Nielsen | last2=Chuang | first2=Isaac L | year=2000 | publisher=[[Cambridge University Press]] | location=[[New York City|New York]] | isbn=0-521-63503-9 | oclc= 43641333 | page=62 }}</ref> (''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v'') means the same.<br/><br/>''Another variant of the notation is'' ⟨''u'',&nbsp;''v''⟩ ''which is described above. For spatial vectors, the [[dot product]] notation'', ''x''&nbsp;·&nbsp;''y'' ''is common. For matrices, the colon notation'' ''A''&nbsp;:&nbsp;''B'' ''may be used. As'' ⟨ ''and'' ⟩ ''can be hard to type, the more "keyboard friendly" forms'' < ''and'' > ''are sometimes seen. These are avoided in mathematical texts.''
+ | explain =⟨''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''⟩ means the inner product of ''u'' and ''v'', where ''u'' and ''v'' are members of an [[inner product space]].<ref name="m-nielsen-quantum-62">{{citation | title=Quantum Computation and Quantum Information | last1=Nielsen | first1=Michael A | author1-link=Michael Nielsen | last2=Chuang | first2=Isaac L | year=2000 | publisher=[[Cambridge University Press]] | location=[[New York City|New York]] | isbn=0-521-63503-9 | oclc= 43641333 | page=62 }}</ref> (''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v'') means the same.<br/><br/>''Another variant of the notation is'' ⟨''u'',&nbsp;''v''⟩ ''which is described above. For spatial vectors, the [[dot product]] notation'', ''x''&nbsp;·&nbsp;''y'' ''is common. For matrices, the colon notation'' ''A''&nbsp;:&nbsp;''B'' ''may be used. As'' ⟨ ''and'' ⟩ ''can be hard to type, the more "keyboard friendly" forms'' < ''and'' > ''are sometimes seen. These are avoided in mathematical texts.''
  | examples =
 }}
 
@@ -1141,7 +1141,7 @@ we can define the [[Algebraic structure|structure]] functions ''S<sub>q</sub>''(
 {| class="wikitable" style="margin:auto; width:100%; border:1px"
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[HTML]]</small>
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[TeX]]</small>
-! style="text-align:left;"  |Name
+! style="text-align:left;" |Name
 ! rowspan="3" style="font-size:130%;" |Explanation
 ! rowspan="3" style="font-size:130%;" |Examples
 |-
@@ -1150,285 +1150,285 @@ we can define the [[Algebraic structure|structure]] functions ''S<sub>q</sub>''(
 ! style="text-align:right;" |Category
 
 {{row of table of mathematical symbols
- | symbol   =[[Asterisk|*]]
- | tex      =<math>* \!\,</math>
- | rowspan  =5
- | name     =[[convolution]]
- | readas   =convolution;<br/>convolved with
+ | symbol =[[Asterisk|*]]
+ | tex =<math>* \!\,</math>
+ | rowspan =5
+ | name =[[convolution]]
+ | readas =convolution;<br/>convolved with
  | category =[[functional analysis]]
- | explain  =''f''&nbsp;∗&nbsp;''g'' means the convolution of ''f'' and ''g''.
+ | explain =''f''&nbsp;∗&nbsp;''g'' means the convolution of ''f'' and ''g''.
  | examples =<math>(f * g)(t) = \int_{-\infty}^{\infty} f(\tau) g(t - \tau)\, d\tau</math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[complex conjugate]]
- | readas   =conjugate
+ | name =[[complex conjugate]]
+ | readas =conjugate
  | category =[[complex numbers]]
- | explain  =''z''<sup>∗</sup> means the complex conjugate of ''z''.<br/><br/>(<math>\bar{z}</math> ''can also be used for the conjugate of z, as described below.'')
+ | explain =''z''<sup>∗</sup> means the complex conjugate of ''z''.<br/><br/>(<math>\bar{z}</math> ''can also be used for the conjugate of z, as described below.'')
  | examples =<math>(3+4i)^\ast = 3-4i</math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[group of units]]
- | readas   =the group of units of
+ | name =[[group of units]]
+ | readas =the group of units of
  | category =[[ring theory]]
- | explain  =''R''<sup>∗</sup> consists of the set of units of the ring ''R'', along with the operation of multiplication.<br/><br/>''This may also be written'' ''R''<sup>×</sup> ''as described above, or'' U(''R'').
+ | explain =''R''<sup>∗</sup> consists of the set of units of the ring ''R'', along with the operation of multiplication.<br/><br/>''This may also be written'' ''R''<sup>×</sup> ''as described above, or'' U(''R'').
  | examples =<math>\begin{align} (\mathbb{Z} / 5\mathbb{Z})^\ast & = \{ [1], [2], [3], [4] \} \\ & \cong \mathrm{C}_4 \\ \end{align}</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[hyperreal number]]s
- | readas   = the (set of) hyperreals
+ | name =[[hyperreal number]]s
+ | readas = the (set of) hyperreals
  | category =[[non-standard analysis]]
- | explain  =<sup>∗</sup>'''R''' means the set of hyperreal numbers. Other sets can be used in place of '''R'''.
+ | explain =<sup>∗</sup>'''R''' means the set of hyperreal numbers. Other sets can be used in place of '''R'''.
  | examples =<sup>∗</sup>'''N''' is the [[hypernatural]] numbers.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Hodge dual]]
- | readas   =Hodge dual;<br/>Hodge star
+ | name =[[Hodge dual]]
+ | readas =Hodge dual;<br/>Hodge star
  | category =[[linear algebra]]
- | explain  = ∗''v'' means the Hodge dual of a vector ''v''. If ''v'' is a [[p-vector|''k''-vector]] within an [[dimension (vector space)|''n''-dimensional]] [[orientation (mathematics)|oriented]] [[inner product]] [[vector space|space]], then ∗''v'' is an (''n''&minus;''k'')-vector.
+ | explain = ∗''v'' means the Hodge dual of a vector ''v''. If ''v'' is a [[p-vector|''k''-vector]] within an [[dimension (vector space)|''n''-dimensional]] [[orientation (mathematics)|oriented]] [[inner product]] [[vector space|space]], then ∗''v'' is an (''n''&minus;''k'')-vector.
  | examples = If <math>\{e_i\}</math> are the [[standard basis]] vectors of <math>\mathbb{R}^5</math>, <math>*(e_1\wedge e_2\wedge e_3)= e_4\wedge e_5</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Proportionality (mathematics)|∝]]
- | tex      =<math>\propto \!\,</math>
- | rowspan  =2
- | name     =[[proportionality (mathematics)|proportionality]]
- | readas   =is proportional to;<br/>varies as
+ | symbol =[[Proportionality (mathematics)|∝]]
+ | tex =<math>\propto \!\,</math>
+ | rowspan =2
+ | name =[[proportionality (mathematics)|proportionality]]
+ | readas =is proportional to;<br/>varies as
  | category =everywhere
- | explain  =''y'' ∝ ''x'' means that ''y'' = ''kx'' for some constant ''k''.
+ | explain =''y'' ∝ ''x'' means that ''y'' = ''kx'' for some constant ''k''.
  | examples =if ''y'' = 2''x'', then ''y'' ∝ ''x''.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Karp reduction]]<ref>{{citation | title=Algorithms: Sequential, Parallel, and Distributed | last1=Berman | first1=Kenneth A | last2=Paul| first2=Jerome L. | year=2005| publisher=Course Technology | location=[[Boston]] | isbn=0-534-42057-5 |  page=822 }}</ref>
- | readas   =is Karp reducible to;<br/>is polynomial-time many-one reducible to
+ | name =[[Karp reduction]]<ref>{{citation | title=Algorithms: Sequential, Parallel, and Distributed | last1=Berman | first1=Kenneth A | last2=Paul| first2=Jerome L. | year=2005| publisher=Course Technology | location=[[Boston]] | isbn=0-534-42057-5 | page=822 }}</ref>
+ | readas =is Karp reducible to;<br/>is polynomial-time many-one reducible to
  | category =[[computational complexity theory]]
- | explain  =''A''&nbsp;∝ ''B'' means the [[computational problem|problem]] ''A'' can be polynomially reduced to the problem ''B''.
+ | explain =''A''&nbsp;∝ ''B'' means the [[computational problem|problem]] ''A'' can be polynomially reduced to the problem ''B''.
  | examples =If ''L''<sub>1</sub>&nbsp;∝ ''L''<sub>2</sub> and ''L''<sub>2</sub>&nbsp;∈ '''[[P (complexity)|P]]''', then ''L''<sub>1</sub>&nbsp;∈ '''P'''.
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x2216;}}
- | tex      =<math>\setminus \!\,</math>
- | rowspan  =1
- | name     =[[complement (set theory)|set-theoretic complement]]
- | readas   =minus;<br/>without
+ | symbol ={{Unicode|&#x2216;}}
+ | tex =<math>\setminus \!\,</math>
+ | rowspan =1
+ | name =[[complement (set theory)|set-theoretic complement]]
+ | readas =minus;<br/>without
  | category =[[naive set theory|set theory]]
- | explain  =''A''&nbsp;{{Unicode|&#x2216;}}&nbsp;''B'' means the set that contains all those elements of ''A'' that are not in ''B''.<ref name="d-goldrei-set-4" /> <br/><br/>(&minus; ''can also be used for set-theoretic complement as described above.'')
+ | explain =''A''&nbsp;{{Unicode|&#x2216;}}&nbsp;''B'' means the set that contains all those elements of ''A'' that are not in ''B''.<ref name="d-goldrei-set-4" /> <br/><br/>(&minus; ''can also be used for set-theoretic complement as described above.'')
  | examples ={1,2,3,4}&nbsp;{{Unicode|&#x2216;}}&nbsp;{3,4,5,6}&nbsp;= {1,2}
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[vertical bar|<nowiki>|</nowiki>]]
- | tex      =<math>| \!\,</math>
- | rowspan  =3
+ | symbol =[[vertical bar|<nowiki>|</nowiki>]]
+ | tex =<math>| \!\,</math>
+ | rowspan =3
  | name =[[conditional probability|conditional event]]
- | readas   =given
+ | readas =given
  | category =[[probability]]
- | explain  =P(''A''<nowiki>|</nowiki>''B'') means the probability of the event ''A'' occurring given that ''B'' occurs.
+ | explain =P(''A''<nowiki>|</nowiki>''B'') means the probability of the event ''A'' occurring given that ''B'' occurs.
  | examples =if X is a uniformly random day of the year P(X is May 25 <nowiki>|</nowiki> X is in May) = 1/31
 }}
 
 {{row of table of mathematical symbols
- | name     =[[restriction (mathematics)|restriction]]{{Anchor|notdivide}}
- | readas   =restriction of ... to ...;<br/>restricted to
+ | name =[[restriction (mathematics)|restriction]]{{Anchor|notdivide}}
+ | readas =restriction of ... to ...;<br/>restricted to
  | category =[[naive set theory|set theory]]
- | explain  =''f''<nowiki>|</nowiki><sub>''A''</sub> means the function ''f'' is restricted to the set ''A'', that is, it is the function with [[domain (function)|domain]] ''A''&nbsp;∩&nbsp;dom(''f'') that agrees with ''f''.
+ | explain =''f''<nowiki>|</nowiki><sub>''A''</sub> means the function ''f'' is restricted to the set ''A'', that is, it is the function with [[domain (function)|domain]] ''A''&nbsp;∩&nbsp;dom(''f'') that agrees with ''f''.
  | examples =The function ''f''&nbsp;:&nbsp;'''R'''&nbsp;→&nbsp;'''R''' defined by ''f''(''x'')&nbsp;= ''x''<sup>2</sup> is not injective, but ''f''<nowiki>|</nowiki><sub>'''R'''<sup>+</sup></sub> is injective.
 }}
 
 {{row of table of mathematical symbols
- | name     =such that
- | readas   =such that;<br/>so that
+ | name =such that
+ | readas =such that;<br/>so that
  | category =everywhere
- | explain  =<nowiki>|</nowiki> means "such that", see ":" (''described below'').
+ | explain =<nowiki>|</nowiki> means "such that", see ":" (''described below'').
  | examples =S = {(x,y) <nowiki>|</nowiki> 0 < y < f(x)} <br/>The set of (x,y) such that y is greater than 0 and less than f(x).
 }}
 
 {{row of table of mathematical symbols
- | symbol   =&#x2223;<br/><br/>&#x2224;
- | tex      =<math>\mid \!\,</math> <br/><br/><math> \nmid \!\,</math>
- | name     =[[divisor]], [[division (mathematics)|divides]]
- | readas   =divides
+ | symbol =&#x2223;<br/><br/>&#x2224;
+ | tex =<math>\mid \!\,</math> <br/><br/><math> \nmid \!\,</math>
+ | name =[[divisor]], [[division (mathematics)|divides]]
+ | readas =divides
  | category =[[number theory]]
- | explain  =''a'' &#x2223; ''b'' means ''a'' divides ''b''. <br/>''a'' &#x2224; ''b'' means ''a'' does not divide ''b''. <br/><br/>(''The symbol ''&#x2223;'' can be difficult to type, and its negation is rare, so a regular but slightly shorter vertical bar'' <nowiki>|</nowiki> ''character is often used instead.'')
+ | explain =''a'' &#x2223; ''b'' means ''a'' divides ''b''. <br/>''a'' &#x2224; ''b'' means ''a'' does not divide ''b''. <br/><br/>(''The symbol ''&#x2223;'' can be difficult to type, and its negation is rare, so a regular but slightly shorter vertical bar'' <nowiki>|</nowiki> ''character is often used instead.'')
  | examples =Since 15 = 3 &times; 5, it is true that 3 &#x2223; 15 and 5 &#x2223; 15.
 }}
 
 {{row of table of mathematical symbols
- | symbol   = &#x2223;&#x2223;
- | tex      =<math>\mid\mid \!\,</math>
- | name     =exact [[divisibility]]
- | readas   =exactly divides
+ | symbol = &#x2223;&#x2223;
+ | tex =<math>\mid\mid \!\,</math>
+ | name =exact [[divisibility]]
+ | readas =exactly divides
  | category =[[number theory]]
- | explain  =''p''<sup>''a''</sup>&nbsp;&#x2223;&#x2223;&nbsp;''n'' means ''p''<sup>''a''</sup> exactly divides ''n'' (i.e. ''p''<sup>''a''</sup> divides ''n'' but ''p''<sup>''a''+1</sup> does not).
+ | explain =''p''<sup>''a''</sup>&nbsp;&#x2223;&#x2223;&nbsp;''n'' means ''p''<sup>''a''</sup> exactly divides ''n'' (i.e. ''p''<sup>''a''</sup> divides ''n'' but ''p''<sup>''a''+1</sup> does not).
  | examples =2<sup>''3''</sup>&nbsp;&#x2223;&#x2223;&nbsp;360.
 }}
 
 {{row of table of mathematical symbols
- | symbol   = &#x2225;<br/><br/>&#x2226;<br/><br/>&#x22d5;
- | tex      =<math>\| \!\,</math>
- | rowspan  =2
- | name     =[[parallel (geometry)|parallel]]
- | readas   =is parallel to
+ | symbol = &#x2225;<br/><br/>&#x2226;<br/><br/>&#x22d5;
+ | tex =<math>\| \!\,</math>
+ | rowspan =2
+ | name =[[parallel (geometry)|parallel]]
+ | readas =is parallel to
  | category =[[geometry]]
- | explain  =''x''&nbsp;&#x2225;&nbsp;''y'' means ''x''&nbsp;is parallel to&nbsp;''y''.<br/>''x''&nbsp;&#x2226;&nbsp;''y'' means ''x''&nbsp;is not parallel to&nbsp;''y''.<br/>''x''&nbsp;&#x22d5;&nbsp;''y'' means ''x''&nbsp;is equal and parallel to&nbsp;''y''.<br/><br/>(''The symbol ''&#x2225;'' can be difficult to type, and its negation is rare, so two regular but slightly longer vertical bar'' <nowiki>||</nowiki> ''characters are often used instead.'')
+ | explain =''x''&nbsp;&#x2225;&nbsp;''y'' means ''x''&nbsp;is parallel to&nbsp;''y''.<br/>''x''&nbsp;&#x2226;&nbsp;''y'' means ''x''&nbsp;is not parallel to&nbsp;''y''.<br/>''x''&nbsp;&#x22d5;&nbsp;''y'' means ''x''&nbsp;is equal and parallel to&nbsp;''y''.<br/><br/>(''The symbol ''&#x2225;'' can be difficult to type, and its negation is rare, so two regular but slightly longer vertical bar'' <nowiki>||</nowiki> ''characters are often used instead.'')
  | examples =If ''l''&nbsp;&#x2225;&nbsp;''m'' and ''m'' ⊥ ''n'' then ''l''&nbsp;⊥&nbsp;''n''. 
 }}
 
 {{row of table of mathematical symbols
- | name     =[[comparability|incomparability]]
- | readas   =is incomparable to
+ | name =[[comparability|incomparability]]
+ | readas =is incomparable to
  | category =[[order theory]]
- | explain  =''x''&nbsp;&#x2225;&nbsp;''y'' means ''x'' is incomparable to ''y''.
+ | explain =''x''&nbsp;&#x2225;&nbsp;''y'' means ''x'' is incomparable to ''y''.
  | examples ={1,2}&nbsp;&#x2225;&nbsp;{2,3} under set containment.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[number sign|#]]<!--<br/><br/>[[sharp symbol|♯]] {{citation needed|date=December 2009}}-->
- | tex      =<math>\# \!\,</math><!--<br/><br/><math>\sharp \!\,</math>-->
- | rowspan  =3
- | name     =[[cardinality]]
- | readas   =cardinality of;<br/>size of;<br/>order of
+ | symbol =[[number sign|#]]<!--<br/><br/>[[sharp symbol|♯]] {{citation needed|date=December 2009}}-->
+ | tex =<math>\# \!\,</math><!--<br/><br/><math>\sharp \!\,</math>-->
+ | rowspan =3
+ | name =[[cardinality]]
+ | readas =cardinality of;<br/>size of;<br/>order of
  | category =[[set theory]]
- | explain  =#''X'' means the cardinality of the set ''X''.<br/><br/>(<nowiki>|...|</nowiki> ''may be used instead as described above.'')
+ | explain =#''X'' means the cardinality of the set ''X''.<br/><br/>(<nowiki>|...|</nowiki> ''may be used instead as described above.'')
  | examples =#{4, 6, 8}&nbsp;= 3
 }}
 
 {{row of table of mathematical symbols
- | name     =[[connected sum]]
- | readas   =connected sum of;<br/>knot sum of;<br/>knot composition of
+ | name =[[connected sum]]
+ | readas =connected sum of;<br/>knot sum of;<br/>knot composition of
  | category =[[topology]], [[knot theory]]
- | explain  =''A''#''B'' is the connected sum of the manifolds ''A'' and ''B''. If ''A'' and ''B'' are knots, then this denotes the knot sum, which has a slightly stronger condition.
+ | explain =''A''#''B'' is the connected sum of the manifolds ''A'' and ''B''. If ''A'' and ''B'' are knots, then this denotes the knot sum, which has a slightly stronger condition.
  | examples =''A''#''S''<sup>''m''</sup> is [[homeomorphic]] to ''A'', for any manifold ''A'', and the sphere ''S''<sup>''m''</sup>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[primorial]]
- | readas   =primorial
+ | name =[[primorial]]
+ | readas =primorial
  | category =[[number theory]]
- | explain  =''n''# is product of all prime numbers less than or equal to ''n''.
+ | explain =''n''# is product of all prime numbers less than or equal to ''n''.
  | examples =12# = 2 × 3 × 5 × 7 × 11 = 2310
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[colon (punctuation)|:]]
- | tex      =<math>: \!\,</math>
- | rowspan  =5
- | name     =such that
- | readas   =such that;<br/>so that
+ | symbol =[[colon (punctuation)|:]]
+ | tex =<math>: \!\,</math>
+ | rowspan =5
+ | name =such that
+ | readas =such that;<br/>so that
  | category =everywhere
- | explain  =: means "such that", and is used in proofs and the [[set-builder notation]] (''described below'').
+ | explain =: means "such that", and is used in proofs and the [[set-builder notation]] (''described below'').
  | examples =∃ ''n'' ∈ ℕ: ''n'' is even.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[field extension]]
- | readas   =extends;<br/>over
+ | name =[[field extension]]
+ | readas =extends;<br/>over
  | category =[[Field theory (mathematics)|field theory]]
- | explain  =''K'' : ''F'' means the field ''K'' extends the field ''F''.<br/><br/>''This may also be written as'' ''K'' ≥ ''F''.
+ | explain =''K'' : ''F'' means the field ''K'' extends the field ''F''.<br/><br/>''This may also be written as'' ''K'' ≥ ''F''.
  | examples =ℝ : ℚ
 }}
 
 {{row of table of mathematical symbols
- | name     =[[inner product]] of matrices
- | readas   =inner product of
+ | name =[[inner product]] of matrices
+ | readas =inner product of
  | category =[[linear algebra]]
- | explain  =''A'' : ''B'' means the Frobenius inner product of the matrices ''A'' and ''B''.<br/><br/>''The general inner product is denoted by'' ⟨''u'',&nbsp;''v''⟩, ⟨''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''⟩ ''or'' (''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''), ''as described below. For spatial vectors, the [[dot product]] notation'', ''x''·''y'' ''is common.'' See also [[bra–ket notation]].
+ | explain =''A'' : ''B'' means the Frobenius inner product of the matrices ''A'' and ''B''.<br/><br/>''The general inner product is denoted by'' ⟨''u'',&nbsp;''v''⟩, ⟨''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''⟩ ''or'' (''u''&nbsp;<nowiki>|</nowiki>&nbsp;''v''), ''as described below. For spatial vectors, the [[dot product]] notation'', ''x''·''y'' ''is common.'' See also [[bra–ket notation]].
  | examples =<math>A:B = \sum_{i,j} A_{ij}B_{ij}</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[index of a subgroup]]
- | readas   =index of subgroup
+ | name =[[index of a subgroup]]
+ | readas =index of subgroup
  | category =[[group theory]]
- | explain  =The index of a subgroup ''H'' in a group ''G'' is the "relative size" of ''H'' in ''G'': equivalently, the number of "copies" ([[coset]]s) of ''H'' that fill up ''G''
+ | explain =The index of a subgroup ''H'' in a group ''G'' is the "relative size" of ''H'' in ''G'': equivalently, the number of "copies" ([[coset]]s) of ''H'' that fill up ''G''
  | examples =<math>|G:H| = \frac{|G|}{|H|}</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[division (mathematics)|division]]
- | readas   =divided by<br />over
+ | name =[[division (mathematics)|division]]
+ | readas =divided by<br />over
  | category =everywhere
- | explain  =''A'' : ''B'' means the division of ''A'' with ''B'' (dividing ''A'' by ''B'')
+ | explain =''A'' : ''B'' means the division of ''A'' with ''B'' (dividing ''A'' by ''B'')
  | examples =10 : 2 = 5
 }}
 
 {{row of table of mathematical symbols
- | symbol   = ⋮
- | tex      =<math>\vdots \!\,</math>
- | rowspan  =1
- | name     =[[vertical ellipsis]]
- | readas   =vertical ellipsis
+ | symbol = ⋮
+ | tex =<math>\vdots \!\,</math>
+ | rowspan =1
+ | name =[[vertical ellipsis]]
+ | readas =vertical ellipsis
  | category = everywhere
- | explain  = Denotes that certain constants and terms are missing out (e.g. for clarity) and that only the important terms are being listed.
+ | explain = Denotes that certain constants and terms are missing out (e.g. for clarity) and that only the important terms are being listed.
  | examples =<math> P(r,t) = \chi \vdots E(r,t_1)E(r,t_2)E(r,t_3) </math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =≀ <!-- x2240 Wreath product -->
- | tex      =<math>\wr \!\,</math>
- | rowspan  =1
- | name     =[[wreath product]]
- | readas   =wreath product of ... by ...
+ | symbol =≀ <!-- x2240 Wreath product -->
+ | tex =<math>\wr \!\,</math>
+ | rowspan =1
+ | name =[[wreath product]]
+ | readas =wreath product of ... by ...
  | category =[[group theory]]
- | explain  =''A''&nbsp;≀&nbsp;''H'' means the wreath product of the group ''A'' by the group ''H''.<br/><br/>''This may also be written'' ''A''<sub>&nbsp;wr </sub>''H''.
+ | explain =''A''&nbsp;≀&nbsp;''H'' means the wreath product of the group ''A'' by the group ''H''.<br/><br/>''This may also be written'' ''A''<sub>&nbsp;wr </sub>''H''.
  | examples =<math>\mathrm{S}_n \wr \mathrm{Z}_2</math> is isomorphic to the [[graph automorphism|automorphism]] group of the [[complete bipartite graph]] on (''n'',''n'') vertices.
 }}
 
 {{row of table of mathematical symbols
- | symbol   = ↯ <br/><br/> ※
- | tex      = &nbsp;
- | rowspan  = 1
- | name     = [[↯|downwards zigzag arrow]]
- | readas   = contradiction; this contradicts that
+ | symbol = ↯ <br/><br/> ※
+ | tex = &nbsp;
+ | rowspan = 1
+ | name = [[↯|downwards zigzag arrow]]
+ | readas = contradiction; this contradicts that
  | category = everywhere
- | explain  = Denotes that contradictory statements have been inferred. For clarity, the exact point of contradiction can be appended.
+ | explain = Denotes that contradictory statements have been inferred. For clarity, the exact point of contradiction can be appended.
  | examples = x + 4 = x - 3 ※<br/><br/>Statement: Every finite, non-empty, ordered set has a largest element. Otherwise, let's assume that <math>X</math> is a finite, non-empty, ordered set with no largest element. Then, for some <math>x_1 \in X</math>, there exists an <math>x_2 \in X</math> with <math>x_1 < x_2</math>, but then there's also an <math>x_3 \in X</math> with <math>x_2 < x_3</math>, and so on. Thus, <math>x_1, x_2, x_3, ...</math> are distinct elements in <math>X</math>. ↯ <math>X</math> is finite.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =⊕<br/><br/>{{Unicode|&#x22BB;}}
- | tex      =<math>\oplus \!\,</math><br/><br/><math>\veebar \!\,</math>
- | rowspan  =2
- | name     =[[exclusive or]]
- | readas   =xor
+ | symbol =⊕<br/><br/>{{Unicode|&#x22BB;}}
+ | tex =<math>\oplus \!\,</math><br/><br/><math>\veebar \!\,</math>
+ | rowspan =2
+ | name =[[exclusive or]]
+ | readas =xor
  | category =[[propositional logic]], [[Boolean algebra (logic)|Boolean algebra]]
- | explain  =The statement ''A'' ⊕ ''B'' is true when either A or B, but not both, are true. ''A'' {{Unicode|&#x22BB;}} ''B'' means the same.
+ | explain =The statement ''A'' ⊕ ''B'' is true when either A or B, but not both, are true. ''A'' {{Unicode|&#x22BB;}} ''B'' means the same.
  | examples =(¬''A'') ⊕ ''A'' is always true, ''A'' ⊕ ''A'' is always false.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[direct sum]]
- | readas   =direct sum of
+ | name =[[direct sum]]
+ | readas =direct sum of
  | category =[[abstract algebra]]
- | explain  =The direct sum is a special way of combining several objects into one general object.<br/><br/>(''The bun symbol'' ⊕, ''or the [[coproduct]] symbol {{Unicode|&#x2210;}}, ''is used;'' {{Unicode|&#x22BB;}} ''is only for logic.'')
+ | explain =The direct sum is a special way of combining several objects into one general object.<br/><br/>(''The bun symbol'' ⊕, ''or the [[coproduct]] symbol {{Unicode|&#x2210;}}, ''is used;'' {{Unicode|&#x22BB;}} ''is only for logic.'')
  | examples =Most commonly, for vector spaces ''U'', ''V'', and ''W'', the following consequence is used:<br/>''U'' = ''V'' ⊕ ''W'' ⇔ (''U'' = ''V'' + ''W'') ∧ (''V'' ∩ ''W'' = {0})
 }}
 
 {{row of table of mathematical symbols
- | symbol   =&nbsp;
- | tex      =<math>{~\wedge\!\!\!\!\!\!\bigcirc~}</math>
- | rowspan  =1
- | name     =[[Kulkarni–Nomizu product]]
- | readas   =Kulkarni–Nomizu product
+ | symbol =&nbsp;
+ | tex =<math>{~\wedge\!\!\!\!\!\!\bigcirc~}</math>
+ | rowspan =1
+ | name =[[Kulkarni–Nomizu product]]
+ | readas =Kulkarni–Nomizu product
  | category =[[tensor algebra]]
- | explain  =Derived from the [[tensor product]] of two symmetric type (0,2) [[tensor]]s; it has the algebraic symmetries of the [[Riemann tensor]]. <math>f=g{\,\wedge\!\!\!\!\!\!\bigcirc\,}h</math> has components <math>f_{\alpha\beta\gamma\delta}=g_{\alpha\gamma}h_{\beta\delta}+g_{\beta\delta}h_{\alpha\gamma}-g_{\alpha\delta}h_{\beta\gamma}-g_{\beta\gamma}h_{\alpha\delta}</math>.
+ | explain =Derived from the [[tensor product]] of two symmetric type (0,2) [[tensor]]s; it has the algebraic symmetries of the [[Riemann tensor]]. <math>f=g{\,\wedge\!\!\!\!\!\!\bigcirc\,}h</math> has components <math>f_{\alpha\beta\gamma\delta}=g_{\alpha\gamma}h_{\beta\delta}+g_{\beta\delta}h_{\alpha\gamma}-g_{\alpha\delta}h_{\beta\gamma}-g_{\beta\gamma}h_{\alpha\delta}</math>.
  | examples =
 }}
 
 {{row of table of mathematical symbols
-  | symbol   = □
- | tex      =<math>\Box \!\,</math>
- | rowspan  =1
-| name     =[[D'Alembertian]]
- | readas   =non-Euclidean Laplacian
+ | symbol = □
+ | tex =<math>\Box \!\,</math>
+ | rowspan =1
+| name =[[D'Alembertian]]
+ | readas =non-Euclidean Laplacian
  | category =[[vector calculus]]
- | explain  =It is the generalisation of the [[Laplace operator]] in the sense that it is the differential operator which is invariant under the isometry group of the underlying space and it reduces to the Laplace operator if restricted to time independent functions.
+ | explain =It is the generalisation of the [[Laplace operator]] in the sense that it is the differential operator which is invariant under the isometry group of the underlying space and it reduces to the Laplace operator if restricted to time independent functions.
  | examples =<math>\square = \frac{1}{c^2}{\partial^2 \over \partial t^2 } - {\partial^2 \over \partial x^2 } - {\partial^2 \over \partial y^2 } - {\partial^2 \over \partial z^2 } </math>
 }}
 
@@ -1441,7 +1441,7 @@ we can define the [[Algebraic structure|structure]] functions ''S<sub>q</sub>''(
 {| class="wikitable" style="margin:auto; width:100%; border:1px"
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[HTML]]</small>
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[TeX]]</small>
-! style="text-align:left;"  |Name
+! style="text-align:left;" |Name
 ! rowspan="3" style="font-size:130%;" |Explanation
 ! rowspan="3" style="font-size:130%;" |Examples
 |-
@@ -1451,86 +1451,86 @@ we can define the [[Algebraic structure|structure]] functions ''S<sub>q</sub>''(
 
 <!--Letter modifiers-->
 {{row of table of mathematical symbols
- | symbol   =[[overline|{{overline|''a''}}]]
- | tex      =<math>\bar{a} \!\,</math>
- | rowspan  =5
- | name     =[[mean]]
- | readas   =overbar;<br/>... bar
+ | symbol =[[overline|{{overline|''a''}}]]
+ | tex =<math>\bar{a} \!\,</math>
+ | rowspan =5
+ | name =[[mean]]
+ | readas =overbar;<br/>... bar
  | category =[[statistics]]
- | explain  =<math>\bar{x}</math> (often read as "x bar") is the [[mean]] (average value of <math>x_i</math>).
+ | explain =<math>\bar{x}</math> (often read as "x bar") is the [[mean]] (average value of <math>x_i</math>).
  | examples =<math>x = \{1,2,3,4,5\}; \bar{x} = 3</math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Sequence|finite sequence]], [[tuple]]
- | readas   =finite sequence, tuple
+ | name =[[Sequence|finite sequence]], [[tuple]]
+ | readas =finite sequence, tuple
  | category =[[model theory]]
- | explain  =<math>\overline{a}</math> means the finite sequence/tuple <math>(a_1,a_2, ... ,a_n).</math>.
+ | explain =<math>\overline{a}</math> means the finite sequence/tuple <math>(a_1,a_2, ... ,a_n).</math>.
  | examples = <math>\overline{a}:=(a_1,a_2, ... ,a_n)</math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[algebraic closure]]
- | readas   =algebraic closure of
+ | name =[[algebraic closure]]
+ | readas =algebraic closure of
  | category =[[Field theory (mathematics)|field theory]]
- | explain  = <math>\overline{F}</math> is the algebraic closure of the field ''F''.
+ | explain = <math>\overline{F}</math> is the algebraic closure of the field ''F''.
  | examples =The field of [[algebraic number]]s is sometimes denoted as <math>\overline{\mathbb{Q}}</math> because it is the algebraic closure of the [[rational numbers]] <math>{\mathbb{Q}}</math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[complex conjugate]]
- | readas   =conjugate
+ | name =[[complex conjugate]]
+ | readas =conjugate
  | category =[[complex numbers]]
- | explain  =<math>\overline{z}</math> means the complex conjugate of ''z''.<br/><br/>(''z''<sup>∗</sup> ''can also be used for the conjugate of z, as described above.'')
+ | explain =<math>\overline{z}</math> means the complex conjugate of ''z''.<br/><br/>(''z''<sup>∗</sup> ''can also be used for the conjugate of z, as described above.'')
  | examples =<math>\overline{3+4i} = 3-4i</math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[topological closure]]
- | readas   =(topological) closure of
+ | name =[[topological closure]]
+ | readas =(topological) closure of
  | category =[[topology]]
- | explain  = <math>\overline{S}</math> is the topological closure of the set ''S''.<br/><br/>''This may also be denoted as'' cl(''S'') ''or'' Cl(''S'').
+ | explain = <math>\overline{S}</math> is the topological closure of the set ''S''.<br/><br/>''This may also be denoted as'' cl(''S'') ''or'' Cl(''S'').
  | examples =In the space of the real numbers, <math>\overline{\mathbb{Q}} = \mathbb{R}</math> (the rational numbers are [[dense (topology)|dense]] in the real numbers).
 }}
 
 {{row of table of mathematical symbols
- | symbol   =â
- | tex      =<math>\hat a</math>
- | rowspan  =2
- | name     =[[unit vector]]
- | readas   =hat
+ | symbol =â
+ | tex =<math>\hat a</math>
+ | rowspan =2
+ | name =[[unit vector]]
+ | readas =hat
  | category =[[geometry]]
- | explain  =<math>\mathbf{\hat a}</math> (pronounced "a hat") is the [[unit vector|normalized version]] of vector <math>\mathbf a</math>, having length 1.
+ | explain =<math>\mathbf{\hat a}</math> (pronounced "a hat") is the [[unit vector|normalized version]] of vector <math>\mathbf a</math>, having length 1.
  | examples =
 }}
 
 {{row of table of mathematical symbols
- | name     =[[estimator]]
- | readas   =estimator for
+ | name =[[estimator]]
+ | readas =estimator for
  | category =[[statistics]]
- | explain  =<math>\hat \theta</math> is the estimator or the estimate for the parameter <math>\theta</math>.
+ | explain =<math>\hat \theta</math> is the estimator or the estimate for the parameter <math>\theta</math>.
  | examples =The estimator <math>\mathbf{\hat \mu} = \frac {\sum_i x_i} {n}</math> produces a sample estimate <math>\mathbf{\hat \mu} (\mathbf x)</math> for the mean <math>\mu</math>.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Prime (symbol)|′]]
- | tex      =<math>' \!\,</math>
- | rowspan  =1
- | name     =[[derivative]]
- | readas   =... prime;<br/>derivative of
+ | symbol =[[Prime (symbol)|′]]
+ | tex =<math>' \!\,</math>
+ | rowspan =1
+ | name =[[derivative]]
+ | readas =... prime;<br/>derivative of
  | category =[[calculus]]
- | explain  =''f''&nbsp;′(''x'') means the derivative of the function ''f'' at the point ''x'', i.e., the [[slope]] of the [[tangent]] to ''f'' at ''x''.<br/><br/>(''The single-quote character'' ' ''is sometimes used instead, especially in ASCII text.'')
+ | explain =''f''&nbsp;′(''x'') means the derivative of the function ''f'' at the point ''x'', i.e., the [[slope]] of the [[tangent]] to ''f'' at ''x''.<br/><br/>(''The single-quote character'' ' ''is sometimes used instead, especially in ASCII text.'')
  | examples =If ''f''(''x'')&nbsp;:=&nbsp;''x''<sup>2</sup>, then ''f''&nbsp;′(''x'')&nbsp;=&nbsp;2''x''.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Newton's notation|<sup>•</sup>]]
- | tex      =<math>\dot{\,} \!\,</math>
- | rowspan  =1
- | name     =[[derivative]]
- | readas   =... dot;<br/>time derivative of
+ | symbol =[[Newton's notation|<sup>•</sup>]]
+ | tex =<math>\dot{\,} \!\,</math>
+ | rowspan =1
+ | name =[[derivative]]
+ | readas =... dot;<br/>time derivative of
  | category =[[calculus]]
- | explain  =<math>\dot{x}</math> means the derivative of ''x'' with respect to time. That is <math>\dot{x}(t)=\frac{\partial}{\partial t}x(t)</math>.
+ | explain =<math>\dot{x}</math> means the derivative of ''x'' with respect to time. That is <math>\dot{x}(t)=\frac{\partial}{\partial t}x(t)</math>.
  | examples =If ''x''(''t'')&nbsp;:=&nbsp;''t''<sup>2</sup>, then <math>\dot{x}(t)=2t</math>.
 }}
 
@@ -1540,7 +1540,7 @@ we can define the [[Algebraic structure|structure]] functions ''S<sub>q</sub>''(
 {| class="wikitable" style="margin:auto; width:100%; border:1px"
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[HTML]]</small>
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[TeX]]</small>
-! style="text-align:left;"  |Name
+! style="text-align:left;" |Name
 ! rowspan="3" style="font-size:130%;" |Explanation
 ! rowspan="3" style="font-size:130%;" |Examples
 |-
@@ -1552,176 +1552,176 @@ we can define the [[Algebraic structure|structure]] functions ''S<sub>q</sub>''(
 <!--A-->
 
 {{row of table of mathematical symbols
- | symbol   =[[turned a|&forall;]]
- | tex      =<math>\forall \!\,</math>
- | rowspan  =1
- | name     =[[universal quantification]]
- | readas   =for all;<br/>for any;<br/>for each
+ | symbol =[[turned a|&forall;]]
+ | tex =<math>\forall \!\,</math>
+ | rowspan =1
+ | name =[[universal quantification]]
+ | readas =for all;<br/>for any;<br/>for each
  | category =[[predicate logic]]
- | explain  =&forall;&nbsp;''x'': ''P''(''x'') means ''P''(''x'') is true for all ''x''.
+ | explain =&forall;&nbsp;''x'': ''P''(''x'') means ''P''(''x'') is true for all ''x''.
  | examples =&forall;&nbsp;''n''&nbsp;∈&nbsp;{{Unicode|&#x2115;}}: ''n''<sup>2</sup>&nbsp;≥ ''n''.
 }}
 
 <!--C-->
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x2102;}}<br/><br/>'''[[C]]'''
- | tex      =<math>\mathbb{C} \!\,</math><br/><br/><math>\mathbf{C} \!\,</math>
- | rowspan  =1
- | name     =[[complex number]]s
- | readas   =C;<br/>the (set of) complex numbers
+ | symbol ={{Unicode|&#x2102;}}<br/><br/>'''[[C]]'''
+ | tex =<math>\mathbb{C} \!\,</math><br/><br/><math>\mathbf{C} \!\,</math>
+ | rowspan =1
+ | name =[[complex number]]s
+ | readas =C;<br/>the (set of) complex numbers
  | category =[[number]]s
- | explain  ={{Unicode|&#x2102;}} means {''a''&nbsp;+&nbsp;''b''&nbsp;''i''&nbsp;: ''a'',''b''&nbsp;∈&nbsp;{{Unicode|&#x211D;}}}.
+ | explain ={{Unicode|&#x2102;}} means {''a''&nbsp;+&nbsp;''b''&nbsp;''i''&nbsp;: ''a'',''b''&nbsp;∈&nbsp;{{Unicode|&#x211D;}}}.
  | examples =''i''&nbsp;= √(&minus;1)&nbsp;∈ {{Unicode|&#x2102;}}
 }}
 
 {{row of table of mathematical symbols
- | symbol   =&#x1D520;
- | tex      =<math>\mathfrak c \!\,</math>
- | rowspan  =1
- | name     =[[cardinality of the continuum]]
- | readas   =cardinality of the continuum;<br/>c;<br/>cardinality of the real numbers
+ | symbol =&#x1D520;
+ | tex =<math>\mathfrak c \!\,</math>
+ | rowspan =1
+ | name =[[cardinality of the continuum]]
+ | readas =cardinality of the continuum;<br/>c;<br/>cardinality of the real numbers
  | category =[[set theory]]
- | explain  =The cardinality of <math>\mathbb R</math> is denoted by <math>|\mathbb R|</math> or by the symbol <math>\mathfrak c</math> (a lowercase [[Fraktur (script)|Fraktur]] letter C).
+ | explain =The cardinality of <math>\mathbb R</math> is denoted by <math>|\mathbb R|</math> or by the symbol <math>\mathfrak c</math> (a lowercase [[Fraktur (script)|Fraktur]] letter C).
  | examples =<math>\mathfrak c = {\beth}_{1}</math>
 }}
 
 <!--D-->
 
 {{row of table of mathematical symbols
- | symbol   =[[Rounded d|∂]]
- | tex      =<math>\partial \!\,</math>
- | rowspan  =3
- | name     =[[partial derivative]]
- | readas   =partial;<br/>d
+ | symbol =[[Rounded d|∂]]
+ | tex =<math>\partial \!\,</math>
+ | rowspan =3
+ | name =[[partial derivative]]
+ | readas =partial;<br/>d
  | category =[[calculus]]
- | explain  =∂''f''/∂''x''<sub>''i''</sub> means the partial derivative of ''f'' with respect to ''x''<sub>''i''</sub>, where ''f'' is a function on (''x''<sub>1</sub>, ..., ''x''<sub>''n''</sub>).
+ | explain =∂''f''/∂''x''<sub>''i''</sub> means the partial derivative of ''f'' with respect to ''x''<sub>''i''</sub>, where ''f'' is a function on (''x''<sub>1</sub>, ..., ''x''<sub>''n''</sub>).
  | examples =If ''f''(''x'',''y'') := ''x''<sup>2</sup>''y'', then ∂''f''/∂''x'' = 2''xy'',
 }}
 
 {{row of table of mathematical symbols
- | name     =[[boundary (topology)|boundary]]
- | readas   =boundary of
+ | name =[[boundary (topology)|boundary]]
+ | readas =boundary of
  | category =[[topology]]
- | explain  =∂''M'' means the boundary of ''M''
+ | explain =∂''M'' means the boundary of ''M''
  | examples =∂{''x'' : <nowiki>||</nowiki>''x''<nowiki>||</nowiki> ≤ 2} = {''x'' : <nowiki>||</nowiki>''x''<nowiki>||</nowiki> = 2}
 }}
 
 {{row of table of mathematical symbols
- | name     =[[degree of a polynomial]]
- | readas   =degree of
+ | name =[[degree of a polynomial]]
+ | readas =degree of
  | category =[[algebra]]
- | explain  =∂''f'' means the degree of the polynomial ''f''. <br/><br/>(''This may also be written'' deg ''f''.)
+ | explain =∂''f'' means the degree of the polynomial ''f''. <br/><br/>(''This may also be written'' deg ''f''.)
  | examples =∂(''x''<sup>2</sup> &minus; 1) = 2
 }}
 
 <!--E-->
 {{row of table of mathematical symbols
- | symbol   = [[𝔼]]<br/><br/>E
- | tex      =<math>\mathbb E</math><br/><br/><math>\mathrm{E}</math>
- | rowspan  =1
- | name     =[[expected value]]
- | readas   =expected value
+ | symbol = [[𝔼]]<br/><br/>E
+ | tex =<math>\mathbb E</math><br/><br/><math>\mathrm{E}</math>
+ | rowspan =1
+ | name =[[expected value]]
+ | readas =expected value
  | category =[[probability theory]]
- | explain  =  the value of a random variable one would "expect" to find if one could repeat the random variable process an infinite number of times and take the average of the values obtained
+ | explain = the value of a random variable one would "expect" to find if one could repeat the random variable process an infinite number of times and take the average of the values obtained
  | examples =<math>\mathbb{E}[X] = \frac{x_1p_1 + x_2p_2 + \dotsb + x_kp_k}{p_1 + p_2 + \dotsb + p_k}</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =&exist;
- | tex      =<math>\exists \!\,</math>
- | rowspan  =1
- | name     =[[existential quantification]]
- | readas   =there exists;<br/>there is;<br/>there are
+ | symbol =&exist;
+ | tex =<math>\exists \!\,</math>
+ | rowspan =1
+ | name =[[existential quantification]]
+ | readas =there exists;<br/>there is;<br/>there are
  | category =[[predicate logic]]
- | explain  =&exist;&nbsp;''x'': ''P''(''x'') means there is at least one ''x'' such that ''P''(''x'') is true.
+ | explain =&exist;&nbsp;''x'': ''P''(''x'') means there is at least one ''x'' such that ''P''(''x'') is true.
  | examples =&exist;&nbsp;''n''&nbsp;∈&nbsp;{{Unicode|&#x2115;}}: ''n'' is even.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =&exist;!
- | tex      =<math>\exists! \!\,</math>
- | rowspan  =1
- | name     =[[uniqueness quantification]]
- | readas   =there exists exactly one
+ | symbol =&exist;!
+ | tex =<math>\exists! \!\,</math>
+ | rowspan =1
+ | name =[[uniqueness quantification]]
+ | readas =there exists exactly one
  | category =[[predicate logic]]
- | explain  =&exist;!&nbsp;''x'': ''P''(''x'') means there is exactly one ''x'' such that ''P''(''x'') is true.
+ | explain =&exist;!&nbsp;''x'': ''P''(''x'') means there is exactly one ''x'' such that ''P''(''x'') is true.
  | examples =&exist;!&nbsp;''n''&nbsp;∈&nbsp;{{Unicode|&#x2115;}}: ''n''&nbsp;+ 5&nbsp;= 2''n''.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =∈<br/><br/>{{Unicode|&notin;}}
- | tex      =<math>\in \!\,</math><br/><br/><math>\notin \!\,</math>
- | rowspan  =1
- | name     =[[Element (mathematics)|set membership]]
- | readas   =is an element of;<br/>is not an element of
+ | symbol =∈<br/><br/>{{Unicode|&notin;}}
+ | tex =<math>\in \!\,</math><br/><br/><math>\notin \!\,</math>
+ | rowspan =1
+ | name =[[Element (mathematics)|set membership]]
+ | readas =is an element of;<br/>is not an element of
  | category =everywhere, [[naive set theory|set theory]]
- | explain  =''a''&nbsp;∈ ''S'' means ''a'' is an element of the set ''S'';<ref name="d-goldrei-set-3" /> ''a''&nbsp;{{Unicode|&notin;}} ''S'' means ''a'' is not an element of ''S''.<ref name="d-goldrei-set-3" />
+ | explain =''a''&nbsp;∈ ''S'' means ''a'' is an element of the set ''S'';<ref name="d-goldrei-set-3" /> ''a''&nbsp;{{Unicode|&notin;}} ''S'' means ''a'' is not an element of ''S''.<ref name="d-goldrei-set-3" />
  | examples =(1/2)<sup>&minus;1</sup>&nbsp;∈&nbsp;{{Unicode|&#x2115;}}<br/><br/>2<sup>&minus;1</sup>&nbsp;{{Unicode|&notin;}}&nbsp;{{Unicode|&#x2115;}}
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x220C;}}
- | tex      =<math>\not\ni</math>
- | rowspan  =1
- | name     =[[Element (mathematics)|set membership]]
- | readas   =does not contain as an element
+ | symbol ={{Unicode|&#x220C;}}
+ | tex =<math>\not\ni</math>
+ | rowspan =1
+ | name =[[Element (mathematics)|set membership]]
+ | readas =does not contain as an element
  | category =[[set theory]]
- | explain  =''S'' {{Unicode|&#x220C;}} ''e'' means the same thing as ''e'' {{Unicode|&#x2209;}} ''S'', where ''S'' is a set and ''e'' is not an element of ''S''.
+ | explain =''S'' {{Unicode|&#x220C;}} ''e'' means the same thing as ''e'' {{Unicode|&#x2209;}} ''S'', where ''S'' is a set and ''e'' is not an element of ''S''.
  | examples =
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x220B;}}
- | tex      =<math>\ni</math>
- | rowspan  =2
- | name     =such that symbol
- | readas   =such that
+ | symbol ={{Unicode|&#x220B;}}
+ | tex =<math>\ni</math>
+ | rowspan =2
+ | name =such that symbol
+ | readas =such that
  | category =[[mathematical logic]]
- | explain  =often abbreviated as "s.t."; : and <nowiki>|</nowiki> are also used to abbreviate "such that".  The use of {{Unicode|&#x220B;}} goes back to early mathematical logic and its usage in this sense is declining.
- | examples =Choose <math>x</math> {{Unicode|&#x220B;}} 2<nowiki>|</nowiki><math>x</math> and 3<nowiki>|</nowiki><math>x</math>.  (Here <nowiki>|</nowiki> is used in the sense of "divides".)
+ | explain =often abbreviated as "s.t."; : and <nowiki>|</nowiki> are also used to abbreviate "such that". The use of {{Unicode|&#x220B;}} goes back to early mathematical logic and its usage in this sense is declining.
+ | examples =Choose <math>x</math> {{Unicode|&#x220B;}} 2<nowiki>|</nowiki><math>x</math> and 3<nowiki>|</nowiki><math>x</math>. (Here <nowiki>|</nowiki> is used in the sense of "divides".)
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Element (mathematics)|set membership]]
- | readas   =contains as an element
+ | name =[[Element (mathematics)|set membership]]
+ | readas =contains as an element
  | category =[[set theory]]
- | explain  =''S'' {{Unicode|&#x220B;}} ''e'' means the same thing as ''e'' {{Unicode|&#x2208;}} ''S'', where ''S'' is a set and ''e'' is an element of ''S''.
+ | explain =''S'' {{Unicode|&#x220B;}} ''e'' means the same thing as ''e'' {{Unicode|&#x2208;}} ''S'', where ''S'' is a set and ''e'' is an element of ''S''.
  | examples =
 }}
 
 <!--H-->
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x210D;}}<br/><br/>'''[[H]]'''
- | tex      =<math>\mathbb{H} \!\,</math><br/><br/><math>\mathbf{H} \!\,</math>
- | rowspan  =1
- | name     =[[quaternion]]s or Hamiltonian quaternions
- | readas   =H;<br/>the (set of) quaternions
+ | symbol ={{Unicode|&#x210D;}}<br/><br/>'''[[H]]'''
+ | tex =<math>\mathbb{H} \!\,</math><br/><br/><math>\mathbf{H} \!\,</math>
+ | rowspan =1
+ | name =[[quaternion]]s or Hamiltonian quaternions
+ | readas =H;<br/>the (set of) quaternions
  | category =[[number]]s
- | explain  ={{Unicode|&#x210D;}} means {''a''&nbsp;+&nbsp;''b''&nbsp;'''i'''&nbsp;+&nbsp;''c''&nbsp;'''j'''&nbsp;+&nbsp;''d''&nbsp;'''k'''&nbsp;: ''a'',''b'',''c'',''d''&nbsp;∈&nbsp;{{Unicode|&#x211D;}}}.
+ | explain ={{Unicode|&#x210D;}} means {''a''&nbsp;+&nbsp;''b''&nbsp;'''i'''&nbsp;+&nbsp;''c''&nbsp;'''j'''&nbsp;+&nbsp;''d''&nbsp;'''k'''&nbsp;: ''a'',''b'',''c'',''d''&nbsp;∈&nbsp;{{Unicode|&#x211D;}}}.
  | examples =
 }}
 
 <!--N=-->
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x2115;}}<br/><br/>'''[[N]]'''
- | tex      =<math>\mathbb{N} \!\,</math><br/><br/><math>\mathbf{N} \!\,</math>
- | rowspan  =1
- | name     =[[natural number]]s
- | readas   =the (set of) natural numbers
+ | symbol ={{Unicode|&#x2115;}}<br/><br/>'''[[N]]'''
+ | tex =<math>\mathbb{N} \!\,</math><br/><br/><math>\mathbf{N} \!\,</math>
+ | rowspan =1
+ | name =[[natural number]]s
+ | readas =the (set of) natural numbers
  | category =[[number]]s
- | explain  ='''N''' means either {&nbsp;0, 1, 2, 3, ...} or {&nbsp;1, 2, 3, ...}. <br/><br/>''The choice depends on the area of mathematics being studied; e.g. [[number theory|number theorists]] prefer the latter; [[analysis (mathematics)|analysts]], [[set theory|set theorists]] and [[computer science|computer scientists]] prefer the former. To avoid confusion, always check an author's definition of'' '''N'''.<br/><br/>''Set theorists often use the notation ''ω'' (for [[least infinite ordinal]]) to denote the set of natural numbers (including zero), along with the standard ordering relation'' ≤.
+ | explain ='''N''' means either {&nbsp;0, 1, 2, 3, ...} or {&nbsp;1, 2, 3, ...}. <br/><br/>''The choice depends on the area of mathematics being studied; e.g. [[number theory|number theorists]] prefer the latter; [[analysis (mathematics)|analysts]], [[set theory|set theorists]] and [[computer science|computer scientists]] prefer the former. To avoid confusion, always check an author's definition of'' '''N'''.<br/><br/>''Set theorists often use the notation ''ω'' (for [[least infinite ordinal]]) to denote the set of natural numbers (including zero), along with the standard ordering relation'' ≤.
  | examples ={{Unicode|&#x2115;}}&nbsp;= <nowiki>{|</nowiki>''a''<nowiki>|</nowiki>&nbsp;: ''a''&nbsp;∈ {{Unicode|&#x2124;}}} '''or''' {{Unicode|&#x2115;}}&nbsp;= <nowiki>{|</nowiki>''a''<nowiki>|</nowiki>&nbsp;&gt;&nbsp;0: ''a''&nbsp;∈ {{Unicode|&#x2124;}}}
 }}
 
 <!--O-->
 {{row of table of mathematical symbols
- | symbol   =o
- | tex      =<math>\circ \!\,</math>
- | rowspan  =1
- | name     =[[Hadamard product (matrices)|Hadamard product]]
- | readas   =entrywise product
+ | symbol =o
+ | tex =<math>\circ \!\,</math>
+ | rowspan =1
+ | name =[[Hadamard product (matrices)|Hadamard product]]
+ | readas =entrywise product
  | category =[[linear algebra]]
- | explain  = For two matrices (or vectors) of the same dimensions <math> A, B \in {\mathbb R}^{m \times n} </math> the Hadamard product is a matrix of the same dimensions <math> A \circ B \in {\mathbb R}^{m \times n} </math> with elements given by <math> (A \circ B)_{i,j} = (A)_{i,j} \cdot (B)_{i,j}</math>.<br/>In [[MATLAB]] this operation is expressed by A.*B.
+ | explain = For two matrices (or vectors) of the same dimensions <math> A, B \in {\mathbb R}^{m \times n} </math> the Hadamard product is a matrix of the same dimensions <math> A \circ B \in {\mathbb R}^{m \times n} </math> with elements given by <math> (A \circ B)_{i,j} = (A)_{i,j} \cdot (B)_{i,j}</math>.<br/>In [[MATLAB]] this operation is expressed by A.*B.
  | examples = <math>\begin{bmatrix}
  1&2 \\
  2&4 \\
@@ -1735,53 +1735,53 @@ we can define the [[Algebraic structure|structure]] functions ''S<sub>q</sub>''(
 }}
 
 {{row of table of mathematical symbols
- | symbol   =∘ <!-- x2218 Ring operator -->
- | tex      =<math>\circ \!\,</math>
- | rowspan  =1
- | name     =[[function composition]]
- | readas   =composed with
+ | symbol =∘ <!-- x2218 Ring operator -->
+ | tex =<math>\circ \!\,</math>
+ | rowspan =1
+ | name =[[function composition]]
+ | readas =composed with
  | category =[[naive set theory|set theory]]
- | explain  =''f'' ∘ ''g'' is the function such that (''f'' ∘ ''g'')(''x'') = ''f''(''g''(''x'')).<ref name="d-goldrei-set-5">{{Citation | last1=Goldrei | first1=Derek | title=Classic Set Theory | page=5 | year=1996 | publisher=[[Chapman and Hall]] | isbn=0-412-60610-0 | location=London }}</ref>
- | examples =if ''f''(''x'') := 2''x'', and ''g''(''x'') := ''x'' + 3, then  (''f'' ∘ ''g'')(''x'') = 2(''x'' + 3).
+ | explain =''f'' ∘ ''g'' is the function such that (''f'' ∘ ''g'')(''x'') = ''f''(''g''(''x'')).<ref name="d-goldrei-set-5">{{Citation | last1=Goldrei | first1=Derek | title=Classic Set Theory | page=5 | year=1996 | publisher=[[Chapman and Hall]] | isbn=0-412-60610-0 | location=London }}</ref>
+ | examples =if ''f''(''x'') := 2''x'', and ''g''(''x'') := ''x'' + 3, then (''f'' ∘ ''g'')(''x'') = 2(''x'' + 3).
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[O]]
- | tex      =<math>O</math>
- | rowspan  =1
- | name     =[[Big O notation]]
- | readas   =big-oh of
+ | symbol =[[O]]
+ | tex =<math>O</math>
+ | rowspan =1
+ | name =[[Big O notation]]
+ | readas =big-oh of
  | category =[[Computational complexity theory]]
- | explain  =The [[Big O notation]] describes the [[asymptotic analysis|limiting behavior]] of a [[function (mathematics)|function]], when the argument tends towards a particular value or [[infinity]].
+ | explain =The [[Big O notation]] describes the [[asymptotic analysis|limiting behavior]] of a [[function (mathematics)|function]], when the argument tends towards a particular value or [[infinity]].
  | examples = If f(x) = 6x<sup>4</sup> − 2x<sup>3</sup> + 5 and g(x) = x<sup>4</sup>, then <math>f(x)=O(g(x))\mbox{ as }x\to\infty\,</math>
 }}
 
 <!--P-->
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x2119;}}<br/><br/>'''[[P]]'''
- | tex      =<math>\mathbb{P} \!\,</math><br/><br/><math>\mathbf{P} \!\,</math>
- | rowspan  =3
- | name     =[[Projective plane|projective space]]
- | readas   =P;<br/>the projective space;<br/>the projective line;<br/>the projective plane
+ | symbol ={{Unicode|&#x2119;}}<br/><br/>'''[[P]]'''
+ | tex =<math>\mathbb{P} \!\,</math><br/><br/><math>\mathbf{P} \!\,</math>
+ | rowspan =3
+ | name =[[Projective plane|projective space]]
+ | readas =P;<br/>the projective space;<br/>the projective line;<br/>the projective plane
  | category =[[topology]]
- | explain  ={{Unicode|&#x2119;}} means a space with a point at infinity.
+ | explain ={{Unicode|&#x2119;}} means a space with a point at infinity.
  | examples =<math>\mathbb{P}^1</math>,<math>\mathbb{P}^2</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[probability]]
- | readas   =the probability of
+ | name =[[probability]]
+ | readas =the probability of
  | category =[[probability theory]]
- | explain  ={{Unicode|&#x2119;}}(''X'') means the probability of the event ''X'' occurring.<br/><br/>''This may also be written as'' P(''X''),  Pr(''X''), P[''X''] or Pr[''X''].
+ | explain ={{Unicode|&#x2119;}}(''X'') means the probability of the event ''X'' occurring.<br/><br/>''This may also be written as'' P(''X''), Pr(''X''), P[''X''] or Pr[''X''].
  | examples =If a fair coin is flipped, {{Unicode|&#x2119;}}(Heads)&nbsp;= {{Unicode|&#x2119;}}(Tails)&nbsp;= 0.5.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Power set]]
- | readas   =the Power set of
+ | name =[[Power set]]
+ | readas =the Power set of
  | category =[[Powerset]]
- | explain  =Given a set ''S'', the power set of ''S'' is the set of all subsets of the set ''S''. The power set of ''S''0 is
+ | explain =Given a set ''S'', the power set of ''S'' is the set of all subsets of the set ''S''. The power set of ''S''0 is
 denoted by P(''S'').
  | examples =The power set P({0, 1, 2}) is the set of all subsets of {0, 1, 2}. Hence,
 P({0, 1, 2}) = {∅, {0}, {1}, {2}, {0, 1}, {0, 2}, {1, 2}, {0, 1, 2}}.
@@ -1789,26 +1789,26 @@ P({0, 1, 2}) = {∅, {0}, {1}, {2}, {0, 1}, {0, 2}, {1, 2}, {0, 1, 2}}.
 
 <!--Q-->
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x211A;}}<br/><br/>'''[[Q]]'''
- | tex      =<math>\mathbb{Q} \!\,</math><br/><br/><math>\mathbf{Q} \!\,</math>
- | rowspan  =1
- | name     =[[rational number]]s
- | readas   =Q;<br/>the (set of) rational numbers;<br/>the rationals
+ | symbol ={{Unicode|&#x211A;}}<br/><br/>'''[[Q]]'''
+ | tex =<math>\mathbb{Q} \!\,</math><br/><br/><math>\mathbf{Q} \!\,</math>
+ | rowspan =1
+ | name =[[rational number]]s
+ | readas =Q;<br/>the (set of) rational numbers;<br/>the rationals
  | category =[[number]]s
- | explain  ={{Unicode|&#x211A;}} means {''p''/''q''&nbsp;: ''p''&nbsp;∈&nbsp;{{Unicode|&#x2124;}}, ''q''&nbsp;∈&nbsp;{{Unicode|&#x2115;}}}.
+ | explain ={{Unicode|&#x211A;}} means {''p''/''q''&nbsp;: ''p''&nbsp;∈&nbsp;{{Unicode|&#x2124;}}, ''q''&nbsp;∈&nbsp;{{Unicode|&#x2115;}}}.
  | examples =3.14000...&nbsp;∈ {{Unicode|&#x211A;}}<br/><br/>π&nbsp;{{Unicode|&notin;}} {{Unicode|&#x211A;}}
 }}
 
 <!--R-->
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x211D;}}<br/><br/>'''[[R]]'''
- | tex      =<math>\mathbb{R} \!\,</math><br/><br/><math>\mathbf{R} \!\,</math>
- | rowspan  =1
- | name     =[[real number]]s
- | readas   =R;<br/>the (set of) real numbers;<br/>the reals
+ | symbol ={{Unicode|&#x211D;}}<br/><br/>'''[[R]]'''
+ | tex =<math>\mathbb{R} \!\,</math><br/><br/><math>\mathbf{R} \!\,</math>
+ | rowspan =1
+ | name =[[real number]]s
+ | readas =R;<br/>the (set of) real numbers;<br/>the reals
  | category =[[number]]s
- | explain  ={{Unicode|ℝ}} means the set of real numbers.
+ | explain ={{Unicode|ℝ}} means the set of real numbers.
 <!-- Old definition: {lim<sub>n→∞</sub>&nbsp;''a''<sub>''n''</sub>&nbsp;: &forall;&nbsp;''n''&nbsp;∈&nbsp;'''N''': ''a''<sub>''n''</sub>&nbsp;∈ {{Unicode|&#x211A;}}, the limit exists}. -->
  | examples =π&nbsp;∈ {{Unicode|&#x211D;}}<br/><br/>√(&minus;1)&nbsp;{{Unicode|&notin;}} {{Unicode|&#x211D;}}
 }}
@@ -1816,275 +1816,275 @@ P({0, 1, 2}) = {∅, {0}, {1}, {2}, {0, 1}, {0, 2}, {1, 2}, {0, 1, 2}}.
 <!--T-->
 
 {{row of table of mathematical symbols
- | symbol   =[[Dagger (typography)|<sup>†</sup>]]
- | tex      =<math>{}^\dagger \!\,</math>
- | rowspan  =1
- | name     =[[conjugate transpose]]
- | readas   =conjugate transpose;<br/>adjoint;<br/>Hermitian adjoint/conjugate/transpose
+ | symbol =[[Dagger (typography)|<sup>†</sup>]]
+ | tex =<math>{}^\dagger \!\,</math>
+ | rowspan =1
+ | name =[[conjugate transpose]]
+ | readas =conjugate transpose;<br/>adjoint;<br/>Hermitian adjoint/conjugate/transpose
  | category =[[matrix operation]]s
- | explain  =''A''<sup>†</sup> means the transpose of the complex conjugate of ''A''.<ref name="m-nielsen-quantum-69-70">{{citation | title=Quantum Computation and Quantum Information | last1=Nielsen | first1=Michael A | author1-link=Michael Nielsen | last2=Chuang | first2=Isaac L | year=2000 | publisher=[[Cambridge University Press]] | location=[[New York City|New York]] | isbn=0-521-63503-9 | oclc= 43641333 | pages=69–70 }}</ref><br/><br/>''This may also be written'' ''A''<sup>∗T</sup>, ''A''<sup>T∗</sup>, ''A''<sup>∗</sup>, {{overline|''A''}}<sup>T</sup> ''or'' {{overline|''A''<sup>T</sup>}}.
+ | explain =''A''<sup>†</sup> means the transpose of the complex conjugate of ''A''.<ref name="m-nielsen-quantum-69-70">{{citation | title=Quantum Computation and Quantum Information | last1=Nielsen | first1=Michael A | author1-link=Michael Nielsen | last2=Chuang | first2=Isaac L | year=2000 | publisher=[[Cambridge University Press]] | location=[[New York City|New York]] | isbn=0-521-63503-9 | oclc= 43641333 | pages=69–70 }}</ref><br/><br/>''This may also be written'' ''A''<sup>∗T</sup>, ''A''<sup>T∗</sup>, ''A''<sup>∗</sup>, {{overline|''A''}}<sup>T</sup> ''or'' {{overline|''A''<sup>T</sup>}}.
  | examples =If ''A'' = (''a''<sub>''ij''</sub>) then ''A''<sup>†</sup> = ({{overline|''a''<sub>''ji''</sub>}}).
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[T|<sup>T</sup>]]
- | tex      =<math>{}^{\mathsf{T}} \!\,</math>
- | rowspan  =1
- | name     =[[transpose]]
- | readas   =transpose
+ | symbol =[[T|<sup>T</sup>]]
+ | tex =<math>{}^{\mathsf{T}} \!\,</math>
+ | rowspan =1
+ | name =[[transpose]]
+ | readas =transpose
  | category =[[matrix operation]]s
- | explain  =''A''<sup>T</sup> means ''A'', but with its rows swapped for columns. <br/><br/>''This may also be written'' ''A''&prime;, ''A''<sup>t</sup> ''or'' ''A''<sup>tr</sup>.
+ | explain =''A''<sup>T</sup> means ''A'', but with its rows swapped for columns. <br/><br/>''This may also be written'' ''A''&prime;, ''A''<sup>t</sup> ''or'' ''A''<sup>tr</sup>.
  | examples =If ''A'' = (''a''<sub>''ij''</sub>) then ''A''<sup>T</sup> = (''a''<sub>''ji''</sub>).
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Tee (symbol)|⊤]]
- | tex      =<math>\top \!\,</math>
- | rowspan  =2
- | name     =[[Greatest element|top element]]
- | readas   =the top element
+ | symbol =[[Tee (symbol)|⊤]]
+ | tex =<math>\top \!\,</math>
+ | rowspan =2
+ | name =[[Greatest element|top element]]
+ | readas =the top element
  | category =[[lattice (order)|lattice theory]]
- | explain  =⊤ means the largest element of a lattice.
+ | explain =⊤ means the largest element of a lattice.
  | examples =∀''x''&nbsp;: ''x''&nbsp;∨&nbsp;⊤&nbsp;= ⊤
 }}
 
 {{row of table of mathematical symbols
- | name     =[[top type]]
- | readas   =the top type; top
+ | name =[[top type]]
+ | readas =the top type; top
  | category =[[type theory]]
- | explain  =⊤ means the top or universal type; every type in the [[type system]] of interest is a subtype of top.
+ | explain =⊤ means the top or universal type; every type in the [[type system]] of interest is a subtype of top.
  | examples =∀ types ''T'', ''T'' <: ⊤
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Up tack|⊥]]
- | tex      =<math>\bot \!\,</math>
- | rowspan  =7
- | name     =[[perpendicular]]
- | readas   =is perpendicular to
+ | symbol =[[Up tack|⊥]]
+ | tex =<math>\bot \!\,</math>
+ | rowspan =7
+ | name =[[perpendicular]]
+ | readas =is perpendicular to
  | category =[[geometry]]
- | explain  =''x''&nbsp;⊥&nbsp;''y'' means ''x'' is perpendicular to ''y''; or more generally ''x'' is [[orthogonal]] to ''y''.
+ | explain =''x''&nbsp;⊥&nbsp;''y'' means ''x'' is perpendicular to ''y''; or more generally ''x'' is [[orthogonal]] to ''y''.
  | examples =If ''l''&nbsp;⊥&nbsp;''m'' and ''m''&nbsp;⊥&nbsp;''n'' in the plane, then ''l''&nbsp;<nowiki>||</nowiki>&nbsp;''n''.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[orthogonal complement]]
- | readas   =orthogonal/ perpendicular complement of;<br/>perp
+ | name =[[orthogonal complement]]
+ | readas =orthogonal/ perpendicular complement of;<br/>perp
  | category =[[linear algebra]]
- | explain  =''W''<sup>⊥</sup> means the orthogonal complement of ''W'' (where ''W'' is a subspace of the [[inner product space]] ''V''), the set of all vectors in ''V'' orthogonal to every vector in ''W''.
+ | explain =''W''<sup>⊥</sup> means the orthogonal complement of ''W'' (where ''W'' is a subspace of the [[inner product space]] ''V''), the set of all vectors in ''V'' orthogonal to every vector in ''W''.
  | examples =Within <math>\mathbb{R}^3</math>, <math>(\mathbb{R}^2)^{\perp} \cong \mathbb{R}</math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[coprime]]
- | readas   =is coprime to
+ | name =[[coprime]]
+ | readas =is coprime to
  | category =[[number theory]]
- | explain  =''x''&nbsp;⊥&nbsp;''y'' means ''x'' has no factor greater than 1 in common with ''y''.
+ | explain =''x''&nbsp;⊥&nbsp;''y'' means ''x'' has no factor greater than 1 in common with ''y''.
  | examples =34 &nbsp;⊥&nbsp; 55
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Independence (probability theory)|independent]]
- | readas   =is independent of
+ | name =[[Independence (probability theory)|independent]]
+ | readas =is independent of
  | category =[[probability]]
- | explain  =''A''&nbsp;⊥&nbsp;''B'' means ''A'' is an event whose probability is independent of event ''B''.
+ | explain =''A''&nbsp;⊥&nbsp;''B'' means ''A'' is an event whose probability is independent of event ''B''.
  | examples =If ''A''&nbsp;⊥&nbsp;''B'', then [[conditional probability|P(''A''<nowiki>|</nowiki>''B'')]] = P(''A'').
 }}
 
 {{row of table of mathematical symbols
- | name     =[[bottom element]]
- | readas   =the bottom element
+ | name =[[bottom element]]
+ | readas =the bottom element
  | category =[[lattice (order)|lattice theory]]
- | explain  =⊥ means the smallest element of a lattice.
+ | explain =⊥ means the smallest element of a lattice.
  | examples =∀''x''&nbsp;: ''x''&nbsp;∧&nbsp;⊥&nbsp;= ⊥
 }}
 
 {{row of table of mathematical symbols
- | name     =[[bottom type]]
- | readas   =the bottom type;<br/>bot
+ | name =[[bottom type]]
+ | readas =the bottom type;<br/>bot
  | category =[[type theory]]
- | explain  =⊥ means the bottom type (a.k.a. the zero type or empty type); bottom is the subtype of every type in the [[type system]].
+ | explain =⊥ means the bottom type (a.k.a. the zero type or empty type); bottom is the subtype of every type in the [[type system]].
  | examples =∀ types ''T'', ⊥ <: ''T''
 }}
 
 {{row of table of mathematical symbols
- | name     =[[comparability]]
- | readas   =is comparable to
+ | name =[[comparability]]
+ | readas =is comparable to
  | category =[[order theory]]
- | explain  =''x'' ⊥ ''y'' means that ''x'' is comparable to ''y''.
+ | explain =''x'' ⊥ ''y'' means that ''x'' is comparable to ''y''.
  | examples ={''e'',&nbsp;''π''}&nbsp;⊥&nbsp;{1,&nbsp;2,&nbsp;''e'',&nbsp;3,&nbsp;''π''} under set containment.
 }}
 
 <!--U-->
 {{row of table of mathematical symbols
- | symbol   =∪
- | tex      =<math>\cup \!\,</math>
- | rowspan  =1
- | name     =[[union (set theory)|set-theoretic union]]
- | readas   =the union of ... or ...;<br/>union
+ | symbol =∪
+ | tex =<math>\cup \!\,</math>
+ | rowspan =1
+ | name =[[union (set theory)|set-theoretic union]]
+ | readas =the union of ... or ...;<br/>union
  | category =[[naive set theory|set theory]]
- | explain  =''A''&nbsp;∪&nbsp;''B'' means the set of those elements which are either in ''A'', or in ''B'', or in both.<ref name="d-goldrei-set-4" />
+ | explain =''A''&nbsp;∪&nbsp;''B'' means the set of those elements which are either in ''A'', or in ''B'', or in both.<ref name="d-goldrei-set-4" />
  | examples =''A''&nbsp;⊆&nbsp;''B''&nbsp;&nbsp;⇔&nbsp; (''A''&nbsp;∪&nbsp;''B'')&nbsp;=&nbsp;''B''
 }}
 
 {{row of table of mathematical symbols
- | symbol   =∩
- | tex      =<math>\cap \!\,</math>
- | rowspan  =1
- | name     =[[intersection (set theory)|set-theoretic intersection]]
- | readas   =intersected with;<br/>intersect
+ | symbol =∩
+ | tex =<math>\cap \!\,</math>
+ | rowspan =1
+ | name =[[intersection (set theory)|set-theoretic intersection]]
+ | readas =intersected with;<br/>intersect
  | category =[[naive set theory|set theory]]
- | explain  =''A''&nbsp;∩&nbsp;''B'' means the set that contains all  those elements that ''A'' and ''B'' have in common.<ref name="d-goldrei-set-4" />
+ | explain =''A''&nbsp;∩&nbsp;''B'' means the set that contains all those elements that ''A'' and ''B'' have in common.<ref name="d-goldrei-set-4" />
  | examples ={''x''&nbsp;∈&nbsp;{{Unicode|&#x211D;}}&nbsp;: ''x''<sup>2</sup>&nbsp;= 1}&nbsp;∩&nbsp;{{Unicode|&#x2115;}}&nbsp;= {1}
 }}
 
 <!--V-->
 {{row of table of mathematical symbols
- | symbol   =∨
- | tex      =<math>\or \!\,</math>
- | rowspan  =1
- | name     =[[logical disjunction]] or '''join''' in a [[lattice (order)|lattice]]
- | readas   =or;<br/>max;<br/>join
+ | symbol =∨
+ | tex =<math>\or \!\,</math>
+ | rowspan =1
+ | name =[[logical disjunction]] or '''join''' in a [[lattice (order)|lattice]]
+ | readas =or;<br/>max;<br/>join
  | category =[[propositional logic]], [[lattice (order)|lattice theory]]
- | explain  =The statement ''A'' ∨ ''B'' is true if ''A'' or ''B'' (or both) are true; if both are false, the statement is false. <br/><br/>For functions ''A''(x) and ''B''(x), ''A''(x) ∨ ''B''(x) is used to mean max(A(x), B(x)).
+ | explain =The statement ''A'' ∨ ''B'' is true if ''A'' or ''B'' (or both) are true; if both are false, the statement is false. <br/><br/>For functions ''A''(x) and ''B''(x), ''A''(x) ∨ ''B''(x) is used to mean max(A(x), B(x)).
  | examples =''n''&nbsp;≥ 4&nbsp;&nbsp;∨&nbsp; ''n''&nbsp;≤ 2&nbsp;&nbsp;⇔ ''n''&nbsp;≠ 3 when ''n'' is a [[natural number]].
 }}
 
 {{row of table of mathematical symbols
- | symbol   =∧
- | tex      =<math>\and \!\,</math>
- | rowspan  =3
- | name     =[[logical conjunction]] or [[meet (mathematics)|meet]] in a [[lattice (order)|lattice]]
- | readas   =and;<br/>[[Maxima and minima|min]];<br/>meet
+ | symbol =∧
+ | tex =<math>\and \!\,</math>
+ | rowspan =3
+ | name =[[logical conjunction]] or [[meet (mathematics)|meet]] in a [[lattice (order)|lattice]]
+ | readas =and;<br/>[[Maxima and minima|min]];<br/>meet
  | category =[[propositional logic]], [[lattice (order)|lattice theory]]
- | explain  =The statement ''A'' ∧ ''B'' is true if ''A'' and ''B'' are both true; else it is false. <br/><br/>For functions ''A''(x) and ''B''(x), ''A''(x) ∧ ''B''(x) is used to mean min(A(x), B(x)).
+ | explain =The statement ''A'' ∧ ''B'' is true if ''A'' and ''B'' are both true; else it is false. <br/><br/>For functions ''A''(x) and ''B''(x), ''A''(x) ∧ ''B''(x) is used to mean min(A(x), B(x)).
  | examples =''n''&nbsp;<&nbsp;4&nbsp;&nbsp;∧&nbsp;''n''&nbsp;>&nbsp;2&nbsp;⇔&nbsp;''n''&nbsp;=&nbsp;3 when ''n'' is a [[natural number]].
 }}
 
 {{row of table of mathematical symbols
- | name     =[[wedge product]]
- | readas   =wedge product;<br/>exterior product
+ | name =[[wedge product]]
+ | readas =wedge product;<br/>exterior product
  | category =[[exterior algebra]]
- | explain  =''u'' ∧ ''v'' means the wedge product of any [[multivector]]s ''u'' and ''v''. In three-dimensional [[Euclidean space]] the wedge product and the cross product of two [[vector (geometry)|vector]]s are each other's [[Hodge dual]].
+ | explain =''u'' ∧ ''v'' means the wedge product of any [[multivector]]s ''u'' and ''v''. In three-dimensional [[Euclidean space]] the wedge product and the cross product of two [[vector (geometry)|vector]]s are each other's [[Hodge dual]].
  | examples =<math>u \wedge v = *(u \times v)\ \text{ if } u, v \in \mathbb{R}^3</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[exponentiation]]
- | readas   =... (raised) to the power of ...
+ | name =[[exponentiation]]
+ | readas =... (raised) to the power of ...
  | category =everywhere
- | explain  =''a'' ^ ''b'' means ''a'' raised to the power of ''b''<br/><br/>(''a'' ^ ''b'' ''is more commonly written'' ''a''<sup>''b''</sup>. ''The symbol'' ^ ''is generally used in programming languages where ease of typing and use of plain ASCII text is preferred.'')
+ | explain =''a'' ^ ''b'' means ''a'' raised to the power of ''b''<br/><br/>(''a'' ^ ''b'' ''is more commonly written'' ''a''<sup>''b''</sup>. ''The symbol'' ^ ''is generally used in programming languages where ease of typing and use of plain ASCII text is preferred.'')
  | examples =2^3 = 2<sup>3</sup> = 8
 }}
 
 <!--X-->
 {{row of table of mathematical symbols
- | symbol   =[[multiplication sign|&times;]]
- | tex      =<math>\times \!\,</math>
- | rowspan  =4
- | name     =[[multiplication]]
- | readas   =times;<br/>multiplied by
+ | symbol =[[multiplication sign|&times;]]
+ | tex =<math>\times \!\,</math>
+ | rowspan =4
+ | name =[[multiplication]]
+ | readas =times;<br/>multiplied by
  | category =[[arithmetic]]
- | explain  =3 &times; 4 means the multiplication of 3 by 4.<br/><br/>(The symbol * is generally used in programming languages, where ease of typing and use of [[ASCII]] text is preferred.)
+ | explain =3 &times; 4 means the multiplication of 3 by 4.<br/><br/>(The symbol * is generally used in programming languages, where ease of typing and use of [[ASCII]] text is preferred.)
  | examples =7 &times; 8 = 56
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Cartesian product]]
- | readas   =the Cartesian product of ... and ...;<br/>the direct product of ... and ...
+ | name =[[Cartesian product]]
+ | readas =the Cartesian product of ... and ...;<br/>the direct product of ... and ...
  | category =[[naive set theory|set theory]]
- | explain  =''X'' &times; ''Y'' means the set of all [[ordered pairs]] with the first element of each pair selected from X and the second element selected from Y.
+ | explain =''X'' &times; ''Y'' means the set of all [[ordered pairs]] with the first element of each pair selected from X and the second element selected from Y.
  | examples ={1,2} &times; {3,4} = {(1,3),(1,4),(2,3),(2,4)}
 }}
 
 {{row of table of mathematical symbols
- | name     =[[cross product]]
- | readas   =cross
+ | name =[[cross product]]
+ | readas =cross
  | category =[[linear algebra]]
- | explain  ='''u''' &times; '''v''' means the cross product of [[vector (geometry)|vector]]s '''u''' and '''v'''
+ | explain ='''u''' &times; '''v''' means the cross product of [[vector (geometry)|vector]]s '''u''' and '''v'''
  | examples =(1,2,5) &times; (3,4,&minus;1) = <br/>(&minus;22, 16, &minus; 2)
 }}
 
 {{row of table of mathematical symbols
- | name     =[[group of units]]
- | readas   =the group of units of
+ | name =[[group of units]]
+ | readas =the group of units of
  | category =[[ring theory]]
- | explain  =''R''<sup>×</sup> consists of the set of units of the ring ''R'', along with the operation of multiplication.<br/><br/>''This may also be written'' ''R''<sup>∗</sup> ''as described below, or'' U(''R'').
+ | explain =''R''<sup>×</sup> consists of the set of units of the ring ''R'', along with the operation of multiplication.<br/><br/>''This may also be written'' ''R''<sup>∗</sup> ''as described below, or'' U(''R'').
  | examples =<math>\begin{align} (\mathbb{Z} / 5\mathbb{Z})^\times & = \{ [1], [2], [3], [4] \} \\ & \cong \mathrm{C}_4 \\ \end{align}</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x2297;}}
- | tex      =<math>\otimes \!\,</math>
- | rowspan  =1
- | name     =[[tensor product]], [[tensor product of modules]]
- | readas   =tensor product of
+ | symbol ={{Unicode|&#x2297;}}
+ | tex =<math>\otimes \!\,</math>
+ | rowspan =1
+ | name =[[tensor product]], [[tensor product of modules]]
+ | readas =tensor product of
  | category =[[linear algebra]]
- | explain  =<math>V \otimes U</math> means the tensor product of ''V'' and ''U''.<ref name="m-nielsen-quantum-71-72">{{citation | title=Quantum Computation and Quantum Information | last1=Nielsen | first1=Michael A | author1-link=Michael Nielsen | last2=Chuang | first2=Isaac L | year=2000 | publisher=[[Cambridge University Press]] | location=[[New York City|New York]] | isbn=0-521-63503-9 | oclc= 43641333 | pages=71–72 }}</ref> <math>V \otimes_R U</math> means the tensor product of modules ''V'' and ''U'' over the [[Ring (mathematics)|ring]] ''R''.
+ | explain =<math>V \otimes U</math> means the tensor product of ''V'' and ''U''.<ref name="m-nielsen-quantum-71-72">{{citation | title=Quantum Computation and Quantum Information | last1=Nielsen | first1=Michael A | author1-link=Michael Nielsen | last2=Chuang | first2=Isaac L | year=2000 | publisher=[[Cambridge University Press]] | location=[[New York City|New York]] | isbn=0-521-63503-9 | oclc= 43641333 | pages=71–72 }}</ref> <math>V \otimes_R U</math> means the tensor product of modules ''V'' and ''U'' over the [[Ring (mathematics)|ring]] ''R''.
  | examples ={1, 2, 3, 4}&nbsp;{{Unicode|&#x2297;}}&nbsp;{1, 1, 2}&nbsp;= <br/>{{1, 1, 2}, {2, 2, 4}, {3, 3, 6}, {4, 4, 8}}
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x22c9;}}<br/><br/>{{Unicode|&#x22ca;}}
- | tex      =<math>\ltimes \!\,</math><br/><br/><math>\rtimes \!\,</math>
- | rowspan  =2
- | name     =[[semidirect product]]
- | readas   =the semidirect product of
+ | symbol ={{Unicode|&#x22c9;}}<br/><br/>{{Unicode|&#x22ca;}}
+ | tex =<math>\ltimes \!\,</math><br/><br/><math>\rtimes \!\,</math>
+ | rowspan =2
+ | name =[[semidirect product]]
+ | readas =the semidirect product of
  | category =[[group theory]]
- | explain  =''N'' &#x22ca;<sub>φ</sub>&nbsp;''H'' is the semidirect product of ''N'' (a normal subgroup) and ''H'' (a subgroup), with respect to φ. Also, if ''G''&nbsp;= ''N''&nbsp;{{Unicode|&#x22ca;}}<sub>φ</sub> ''H'', then ''G'' is said to split over ''N''.<br/><br/>({{Unicode|&#x22ca;}} ''may also be written the other way round, as'' {{Unicode|&#x22c9;}}, ''or as'' ×.)
+ | explain =''N'' &#x22ca;<sub>φ</sub>&nbsp;''H'' is the semidirect product of ''N'' (a normal subgroup) and ''H'' (a subgroup), with respect to φ. Also, if ''G''&nbsp;= ''N''&nbsp;{{Unicode|&#x22ca;}}<sub>φ</sub> ''H'', then ''G'' is said to split over ''N''.<br/><br/>({{Unicode|&#x22ca;}} ''may also be written the other way round, as'' {{Unicode|&#x22c9;}}, ''or as'' ×.)
  | examples =<math>D_{2n} \cong \mathrm{C}_n \rtimes \mathrm{C}_2</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[semijoin]]
- | readas   =the semijoin of
+ | name =[[semijoin]]
+ | readas =the semijoin of
  | category =[[relational algebra]]
- | explain  =''R'' &#x22c9;&nbsp;''S'' is the semijoin of the relations ''R'' and ''S'', the set of all tuples in ''R'' for which there is a tuple in ''S'' that is equal on their common attribute names.
+ | explain =''R'' &#x22c9;&nbsp;''S'' is the semijoin of the relations ''R'' and ''S'', the set of all tuples in ''R'' for which there is a tuple in ''S'' that is equal on their common attribute names.
  | examples =''R'' <math>\ltimes</math> ''S'' = <math>\Pi</math><sub>''a<sub>1</sub>'',..,''a<sub>n</sub>''</sub>(''R'' <math>\bowtie</math> ''S'')
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x22c8;}}
- | tex      =<math>\bowtie \!\,</math>
- | rowspan  =1
- | name     =[[natural join]]
- | readas   =the natural join of
+ | symbol ={{Unicode|&#x22c8;}}
+ | tex =<math>\bowtie \!\,</math>
+ | rowspan =1
+ | name =[[natural join]]
+ | readas =the natural join of
  | category =[[relational algebra]]
- | explain  =''R'' &#x22c8;&nbsp;''S'' is the natural join of the relations ''R'' and ''S'', the set of all combinations of tuples in ''R'' and ''S'' that are equal on their common attribute names.
+ | explain =''R'' &#x22c8;&nbsp;''S'' is the natural join of the relations ''R'' and ''S'', the set of all combinations of tuples in ''R'' and ''S'' that are equal on their common attribute names.
  | examples =
 }}
 
 <!--Z-->
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x2124;}}<br/><br/>'''[[Z]]'''
- | tex      =<math>\mathbb{Z} \!\,</math><br/><br/><math>\mathbf{Z} \!\,</math>
- | rowspan  =1
- | name     =[[integer]]s
- | readas   =the (set of) integers
+ | symbol ={{Unicode|&#x2124;}}<br/><br/>'''[[Z]]'''
+ | tex =<math>\mathbb{Z} \!\,</math><br/><br/><math>\mathbf{Z} \!\,</math>
+ | rowspan =1
+ | name =[[integer]]s
+ | readas =the (set of) integers
  | category =[[number]]s
- | explain  ={{Unicode|&#x2124;}} means {..., &minus;3, &minus;2, &minus;1, 0, 1, 2, 3, ...}.
+ | explain ={{Unicode|&#x2124;}} means {..., &minus;3, &minus;2, &minus;1, 0, 1, 2, 3, ...}.
 {{Unicode|&#x2124;}}<sup>+</sup> or {{Unicode|&#x2124;}}<sup>></sup> means {1, 2, 3, ...}&nbsp;.<br/>
 {{Unicode|&#x2124;}}<sup>*</sup> or {{Unicode|&#x2124;}}<sup>≥</sup> means {0, 1, 2, 3, ...}&nbsp;.
  | examples ={{Unicode|&#x2124;}}&nbsp;= {''p'',&nbsp;&minus;''p''&nbsp;: ''p''&nbsp;∈ {{Unicode|&#x2115;}}&nbsp;∪&nbsp;{0}&#8203;}
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x2124;}}<sub>''n''</sub><br/><br/>{{Unicode|&#x2124;}}<sub>''p''</sub><br/><br/>'''Z'''<sub>''n''</sub><br/><br/>'''Z'''<sub>''p''</sub>
- | tex      =<math>\mathbb{Z}_n \!\,</math><br/><br/><math>\mathbb{Z}_p \!\,</math><br/><br/><math>\mathbf{Z}_n \!\,</math><br/><br/><math>\mathbf{Z}_p \!\,</math>
- | rowspan  =2
- | name     =[[modular arithmetic|integers mod ''n'']]
- | readas   =the (set of) integers modulo ''n''
+ | symbol ={{Unicode|&#x2124;}}<sub>''n''</sub><br/><br/>{{Unicode|&#x2124;}}<sub>''p''</sub><br/><br/>'''Z'''<sub>''n''</sub><br/><br/>'''Z'''<sub>''p''</sub>
+ | tex =<math>\mathbb{Z}_n \!\,</math><br/><br/><math>\mathbb{Z}_p \!\,</math><br/><br/><math>\mathbf{Z}_n \!\,</math><br/><br/><math>\mathbf{Z}_p \!\,</math>
+ | rowspan =2
+ | name =[[modular arithmetic|integers mod ''n'']]
+ | readas =the (set of) integers modulo ''n''
  | category =[[number]]s
- | explain  ={{Unicode|&#x2124;}}<sub>''n''</sub> means {[0], [1], [2], ...[''n''&minus;1]} with addition and multiplication modulo ''n''.<br/><br/>''Note that any letter may be used instead of'' ''n'', ''such as'' ''p''. ''To avoid confusion with p-adic numbers, use'' {{Unicode|&#x2124;}}/''p''{{Unicode|&#x2124;}} ''or'' {{Unicode|&#x2124;}}/(''p'') ''instead.''
+ | explain ={{Unicode|&#x2124;}}<sub>''n''</sub> means {[0], [1], [2], ...[''n''&minus;1]} with addition and multiplication modulo ''n''.<br/><br/>''Note that any letter may be used instead of'' ''n'', ''such as'' ''p''. ''To avoid confusion with p-adic numbers, use'' {{Unicode|&#x2124;}}/''p''{{Unicode|&#x2124;}} ''or'' {{Unicode|&#x2124;}}/(''p'') ''instead.''
  | examples ={{Unicode|&#x2124;}}<sub>3</sub>&nbsp;= {[0], [1], [2]}
 }}
 
 {{row of table of mathematical symbols
- | name     =[[p-adic integers|''p''-adic integers]]
- | readas   =the (set of) ''p''-adic integers
+ | name =[[p-adic integers|''p''-adic integers]]
+ | readas =the (set of) ''p''-adic integers
  | category =[[number]]s
- | explain  =<br/><br/>''Note that any letter may be used instead of'' ''p'', ''such as'' ''n'' ''or'' ''l''.
+ | explain =<br/><br/>''Note that any letter may be used instead of'' ''p'', ''such as'' ''n'' ''or'' ''l''.
  | examples =
 }}
 
@@ -2094,7 +2094,7 @@ P({0, 1, 2}) = {∅, {0}, {1}, {2}, {0, 1}, {0, 2}, {1, 2}, {0, 1, 2}}.
 {| class="wikitable" style="margin:auto; width:100%; border:1px"
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[HTML]]</small>
 ! rowspan="3" style="font-size:130%;" |Symbol<br/><small>in [[TeX]]</small>
-! style="text-align:left;"  |Name
+! style="text-align:left;" |Name
 ! rowspan="3" style="font-size:130%;" |Explanation
 ! rowspan="3" style="font-size:130%;" |Examples
 |-
@@ -2104,52 +2104,52 @@ P({0, 1, 2}) = {∅, {0}, {1}, {2}, {0, 1}, {0, 2}, {1, 2}, {0, 1, 2}}.
 
 <!--Hebrew letter symbols-->
 {{row of table of mathematical symbols
- | symbol   =[[aleph (letter)|&#x2135;]]
- | tex      =<math>\aleph \!\,</math>
- | rowspan  =1
- | name     =[[aleph number]]
- | readas   =aleph
+ | symbol =[[aleph (letter)|&#x2135;]]
+ | tex =<math>\aleph \!\,</math>
+ | rowspan =1
+ | name =[[aleph number]]
+ | readas =aleph
  | category =[[set theory]]
- | explain  =&#x2135;<sub>''α''</sub> represents an infinite cardinality (specifically, the ''α''-th one, where ''α'' is an ordinal).
+ | explain =&#x2135;<sub>''α''</sub> represents an infinite cardinality (specifically, the ''α''-th one, where ''α'' is an ordinal).
  | examples =<nowiki>|ℕ|</nowiki> = &#x2135;<sub>0</sub>, which is called aleph-null.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[beth (letter)|&#x2136;]]
- | tex      =<math>\beth \!\,</math>
- | rowspan  =1
- | name     =[[beth number]]
- | readas   =beth
+ | symbol =[[beth (letter)|&#x2136;]]
+ | tex =<math>\beth \!\,</math>
+ | rowspan =1
+ | name =[[beth number]]
+ | readas =beth
  | category =[[set theory]]
- | explain  =&#x2136;<sub>''α''</sub> represents an infinite cardinality (similar to &#x2135;, but &#x2136; does not necessarily index all of the numbers indexed by &#x2135;. ).
+ | explain =&#x2136;<sub>''α''</sub> represents an infinite cardinality (similar to &#x2135;, but &#x2136; does not necessarily index all of the numbers indexed by &#x2135;. ).
  | examples =<math>\beth_1 = |P(\mathbb{N})| = 2^{\aleph_0}.</math>
 }}
 
 <!--Greek letter symbols-->
 {{row of table of mathematical symbols
- | symbol   =[[Delta (letter)|δ]]
- | tex      =<math>\delta \!\,</math>
- | rowspan  =3
- | name     =[[Dirac delta function]]
- | readas   =Dirac delta of
+ | symbol =[[Delta (letter)|δ]]
+ | tex =<math>\delta \!\,</math>
+ | rowspan =3
+ | name =[[Dirac delta function]]
+ | readas =Dirac delta of
  | category =[[hyperfunction]]
- | explain  =<math>\delta(x) = \begin{cases} \infty, & x = 0 \\ 0, & x \ne 0 \end{cases}</math>
+ | explain =<math>\delta(x) = \begin{cases} \infty, & x = 0 \\ 0, & x \ne 0 \end{cases}</math>
  | examples =δ(x)
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Kronecker delta]]
- | readas   =Kronecker delta of
+ | name =[[Kronecker delta]]
+ | readas =Kronecker delta of
  | category =[[hyperfunction]]
- | explain  =<math>\delta_{ij} = \begin{cases} 1, & i = j \\ 0, & i \ne j \end{cases}</math>
+ | explain =<math>\delta_{ij} = \begin{cases} 1, & i = j \\ 0, & i \ne j \end{cases}</math>
  | examples =δ<sub>ij</sub>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Functional derivative]]
- | readas   =Functional derivative of
+ | name =[[Functional derivative]]
+ | readas =Functional derivative of
  | category =[[Differential operators]]
- | explain  =<math>
+ | explain =<math>
 \begin{align}
 \left\langle \frac{\delta F[\varphi(x)]}{\delta\varphi(x)}, f(x) \right\rangle 
 &= \int \frac{\delta F[\varphi(x)]}{\delta\varphi(x')} f(x')dx' \\
@@ -2163,150 +2163,150 @@ P({0, 1, 2}) = {∅, {0}, {1}, {2}, {0, 1}, {0, 2}, {1, 2}, {0, 1, 2}}.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =∆<br/><br/>{{Unicode|&#x2296;}}
- | tex      =<math>\vartriangle \!\,</math><br/><br/><math>\ominus \!\,</math>
- | rowspan  =1
- | name     =[[symmetric difference]]
- | readas   =symmetric difference
+ | symbol =∆<br/><br/>{{Unicode|&#x2296;}}
+ | tex =<math>\vartriangle \!\,</math><br/><br/><math>\ominus \!\,</math>
+ | rowspan =1
+ | name =[[symmetric difference]]
+ | readas =symmetric difference
  | category =[[naive set theory|set theory]]
- | explain  =A ∆ B (or A {{Unicode|&#x2296;}} B) means the set of elements in exactly one of ''A'' or ''B''.<br/><br/>(''Not to be confused with delta'', Δ, ''described below.'')
+ | explain =A ∆ B (or A {{Unicode|&#x2296;}} B) means the set of elements in exactly one of ''A'' or ''B''.<br/><br/>(''Not to be confused with delta'', Δ, ''described below.'')
  | examples ={1,5,6,8} ∆ {2,5,8} = {1,2,6}<br/><br/>{3,4,5,6} {{Unicode|&#x2296;}} {1,2,5,6} = {1,2,3,4}
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Delta (letter)|Δ]]
- | tex      =<math>\Delta \!\,</math>
- | rowspan  =2
- | name     =[[delta (letter)|delta]]
- | readas   =delta;<br/>change in
+ | symbol =[[Delta (letter)|Δ]]
+ | tex =<math>\Delta \!\,</math>
+ | rowspan =2
+ | name =[[delta (letter)|delta]]
+ | readas =delta;<br/>change in
  | category =[[calculus]]
- | explain  =Δ''x'' means a (non-infinitesimal) change in ''x''.<br/><br/>(''If the change becomes infinitesimal'', δ ''and even'' d ''are used instead. Not to be confused with the symmetric difference, written'' ∆, ''above.'')
+ | explain =Δ''x'' means a (non-infinitesimal) change in ''x''.<br/><br/>(''If the change becomes infinitesimal'', δ ''and even'' d ''are used instead. Not to be confused with the symmetric difference, written'' ∆, ''above.'')
  | examples =<math>\tfrac{\Delta y}{\Delta x}</math> is the gradient of a straight line.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Laplacian]]
- | readas   =Laplace operator
+ | name =[[Laplacian]]
+ | readas =Laplace operator
  | category =[[vector calculus]]
- | explain  =The Laplace operator is a second order differential operator in n-dimensional [[Euclidean space]]
+ | explain =The Laplace operator is a second order differential operator in n-dimensional [[Euclidean space]]
  | examples =If ''ƒ'' is a [[derivative|twice-differentiable]] [[real-valued function]], then the Laplacian of ''ƒ'' is defined by <math> \Delta f = \nabla^2 f = \nabla \cdot \nabla f </math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Nabla symbol|∇]]
- | tex      =<math>\nabla \!\,</math>
- | rowspan  =3
- | name     =[[gradient]]
- | readas   =[[del]];<br/>[[nabla symbol|nabla]];<br/>[[gradient]] of
+ | symbol =[[Nabla symbol|∇]]
+ | tex =<math>\nabla \!\,</math>
+ | rowspan =3
+ | name =[[gradient]]
+ | readas =[[del]];<br/>[[nabla symbol|nabla]];<br/>[[gradient]] of
  | category =[[vector calculus]]
- | explain  =∇''f'' (x<sub>1</sub>, ..., x<sub>''n''</sub>) is the vector of partial derivatives (''∂f'' / ''∂x''<sub>1</sub>, ..., ''∂f'' / ''∂x''<sub>''n''</sub>).
+ | explain =∇''f'' (x<sub>1</sub>, ..., x<sub>''n''</sub>) is the vector of partial derivatives (''∂f'' / ''∂x''<sub>1</sub>, ..., ''∂f'' / ''∂x''<sub>''n''</sub>).
  | examples =If ''f'' (''x'',''y'',''z'') := 3''xy'' + ''z''², then ∇''f''&nbsp;=&nbsp;(3''y'', 3''x'', 2''z'')
 }}
 
 {{row of table of mathematical symbols
- | name     =[[divergence]]
- | readas   =del dot;<br/>divergence of
+ | name =[[divergence]]
+ | readas =del dot;<br/>divergence of
  | category =[[vector calculus]]
- | explain  =<math> \nabla \cdot \vec v = {\partial v_x \over \partial x} + {\partial v_y \over \partial y} + {\partial v_z \over \partial z} </math>
+ | explain =<math> \nabla \cdot \vec v = {\partial v_x \over \partial x} + {\partial v_y \over \partial y} + {\partial v_z \over \partial z} </math>
  | examples =If <math> \vec v := 3xy\mathbf{i}+y^2 z\mathbf{j}+5\mathbf{k} </math>, then <math> \nabla \cdot \vec v = 3y + 2yz </math>.
 }}
 
 {{row of table of mathematical symbols
- | name     =[[curl (mathematics)|curl]]
- | readas   =curl of
+ | name =[[curl (mathematics)|curl]]
+ | readas =curl of
  | category =[[vector calculus]]
- | explain  =<math> \nabla \times \vec v = \left( {\partial v_z \over \partial y} - {\partial v_y \over \partial z} \right) \mathbf{i}</math><br/><math> + \left( {\partial v_x \over \partial z} - {\partial v_z \over \partial x} \right) \mathbf{j} + \left( {\partial v_y \over \partial x} - {\partial v_x \over \partial y} \right) \mathbf{k} </math>
+ | explain =<math> \nabla \times \vec v = \left( {\partial v_z \over \partial y} - {\partial v_y \over \partial z} \right) \mathbf{i}</math><br/><math> + \left( {\partial v_x \over \partial z} - {\partial v_z \over \partial x} \right) \mathbf{j} + \left( {\partial v_y \over \partial x} - {\partial v_x \over \partial y} \right) \mathbf{k} </math>
  | examples =If <math> \vec v := 3xy\mathbf{i}+y^2 z\mathbf{j}+5\mathbf{k} </math>, then <math> \nabla\times\vec v = -y^2\mathbf{i} - 3x\mathbf{k} </math>.
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Pi (letter)|π]]
- | tex      =<math>\pi \!\,</math>
- | rowspan  =3
- | name     =[[Pi]]
- | readas   =pi;<br/>3.1415926...;<br/>≈22÷7
+ | symbol =[[Pi (letter)|π]]
+ | tex =<math>\pi \!\,</math>
+ | rowspan =3
+ | name =[[Pi]]
+ | readas =pi;<br/>3.1415926...;<br/>≈22÷7
  | category =[[mathematical constant]]
- | explain  =Used in [[List of formulae involving pi|various formulas]] involving circles; π is equivalent to the amount of area a circle would take up in a square of equal width with an area of 4 square units, roughly 3.14159. It is also the ratio of the [[circumference]] to the diameter of a circle.
+ | explain =Used in [[List of formulae involving pi|various formulas]] involving circles; π is equivalent to the amount of area a circle would take up in a square of equal width with an area of 4 square units, roughly 3.14159. It is also the ratio of the [[circumference]] to the diameter of a circle.
  | examples =[[Area|A]] = π[[radius|R]]<sup>[[squaring|2]]</sup> = 314.16 → R = 10
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Projection (relational algebra)|projection]]
- | readas   =Projection of
+ | name =[[Projection (relational algebra)|projection]]
+ | readas =Projection of
  | category =[[relational algebra]]
- | explain  =<math>\pi_{a_1, \ldots,a_n}( R )</math> restricts <math>R</math> to the <math>\{a_1,\ldots,a_n\}</math> attribute set.
+ | explain =<math>\pi_{a_1, \ldots,a_n}( R )</math> restricts <math>R</math> to the <math>\{a_1,\ldots,a_n\}</math> attribute set.
  | examples =<math>\pi_{\text{Age,Weight}}(\text{Person})</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Homotopy group]]
- | readas   =the ''n''th Homotopy group of
+ | name =[[Homotopy group]]
+ | readas =the ''n''th Homotopy group of
  | category =[[Homotopy theory]]
- | explain  =<math>\pi_n( X )</math> consists of homotopy equivalence classes of base point preserving maps from an n-dimensional sphere (with base point) into the pointed space X.
+ | explain =<math>\pi_n( X )</math> consists of homotopy equivalence classes of base point preserving maps from an n-dimensional sphere (with base point) into the pointed space X.
  | examples =<math>\pi_i(S^4)= \pi_i(S^7)\oplus \pi_{i-1}(S^3) </math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Pi (letter)|∏]]
- | tex      =<math>\prod</math>
- | rowspan  =2
- | name     =[[multiplication|product]]
- | readas   =product over ... from ... to ... of
+ | symbol =[[Pi (letter)|∏]]
+ | tex =<math>\prod</math>
+ | rowspan =2
+ | name =[[multiplication|product]]
+ | readas =product over ... from ... to ... of
  | category =[[arithmetic]]
- | explain  =<math>\prod_{k=1}^na_k</math> means <math>a_1 a_2 \dots a_n</math>.
+ | explain =<math>\prod_{k=1}^na_k</math> means <math>a_1 a_2 \dots a_n</math>.
  | examples =<math>\prod_{k=1}^4(k+2) = (1+2)(2+2)(3+2)(4+2) = 3 \times 4 \times 5 \times 6 = 360</math>
 }}
 
 {{row of table of mathematical symbols
- | name     =[[Cartesian product]]
- | readas   =the Cartesian product of;<br/>the direct product of
+ | name =[[Cartesian product]]
+ | readas =the Cartesian product of;<br/>the direct product of
  | category =[[naive set theory|set theory]]
- | explain  =<math>\prod_{i=0}^{n}{Y_i}</math> means the set of all [[n-tuple|(n+1)-tuples]]
+ | explain =<math>\prod_{i=0}^{n}{Y_i}</math> means the set of all [[n-tuple|(n+1)-tuples]]
 ::(''y''<sub>0</sub>, ..., ''y''<sub>''n''</sub>).
  | examples =<math>\prod_{n=1}^{3}{\mathbb{R}} = \mathbb{R}\times\mathbb{R}\times\mathbb{R} = \mathbb{R}^3</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   ={{Unicode|&#x2210;}}
- | tex      =<math>\coprod \!\,</math>
- | rowspan  =1
- | name     =[[coproduct]]
- | readas   =coproduct over ... from ... to ... of
+ | symbol ={{Unicode|&#x2210;}}
+ | tex =<math>\coprod \!\,</math>
+ | rowspan =1
+ | name =[[coproduct]]
+ | readas =coproduct over ... from ... to ... of
  | category =[[category theory]]
- | explain  =A general construction which subsumes the [[disjoint union|disjoint union of sets]] and [[disjoint union (topology)|of topological spaces]], the [[free product|free product of groups]], and the [[direct sum]] of modules and vector spaces.  The coproduct of a family of objects is essentially the "least specific" object to which each object in the family admits a [[morphism]].
+ | explain =A general construction which subsumes the [[disjoint union|disjoint union of sets]] and [[disjoint union (topology)|of topological spaces]], the [[free product|free product of groups]], and the [[direct sum]] of modules and vector spaces. The coproduct of a family of objects is essentially the "least specific" object to which each object in the family admits a [[morphism]].
  | examples =
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Sigma|σ]]
- | tex      =<math> \sigma \!\,</math>
- | rowspan  =1
- | name     =[[Selection (relational algebra)|selection]]
- | readas   =Selection of
+ | symbol =[[Sigma|σ]]
+ | tex =<math> \sigma \!\,</math>
+ | rowspan =1
+ | name =[[Selection (relational algebra)|selection]]
+ | readas =Selection of
  | category =[[relational algebra]]
- | explain  =The selection <math>\sigma_{a \theta b}( R )</math> selects all those [[tuple]]s in <math>R</math> for which <math>\theta</math> holds between the <math>a</math> and the <math>b</math> attribute. The selection <math>\sigma_{a \theta v}( R )</math> selects all those tuples in <math>R</math> for which <math>\theta</math> holds between the <math>a</math> attribute and the value <math>v</math>.
+ | explain =The selection <math>\sigma_{a \theta b}( R )</math> selects all those [[tuple]]s in <math>R</math> for which <math>\theta</math> holds between the <math>a</math> and the <math>b</math> attribute. The selection <math>\sigma_{a \theta v}( R )</math> selects all those tuples in <math>R</math> for which <math>\theta</math> holds between the <math>a</math> attribute and the value <math>v</math>.
  | examples =<math>\sigma_{Age \ge 34}( Person )</math> <br/> <math>\sigma_{Age = Weight}( Person )</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Sigma (letter)|∑]]
- | tex      =<math>\sum</math>
- | rowspan  =1
- | name     =[[summation]]
- | readas   =sum over ... from ... to ... of
+ | symbol =[[Sigma (letter)|∑]]
+ | tex =<math>\sum</math>
+ | rowspan =1
+ | name =[[summation]]
+ | readas =sum over ... from ... to ... of
  | category =[[arithmetic]]
- | explain  =<math>\sum_{k=1}^{n}{a_k}</math> means <math>a_1 + a_2 + \cdots + a_n</math>.
+ | explain =<math>\sum_{k=1}^{n}{a_k}</math> means <math>a_1 + a_2 + \cdots + a_n</math>.
  | examples =<math>\sum_{k=1}^{4}{k^2} = 1^2 + 2^2 + 3^2 + 4^2 = 1 + 4 + 9 + 16 = 30</math>
 }}
 
 {{row of table of mathematical symbols
- | symbol   =[[Ø (disambiguation)|{{unicode|&empty;}}]]<br/><br/>{&nbsp;}
- | tex      =<math>\empty \!\,</math><br/><br/><math>\varnothing \!\,</math><br/><br/><math>\{\} \!\,</math>
- | rowspan  =1
- | name     =[[empty set]]
- | readas   =the empty set
+ | symbol =[[Ø (disambiguation)|{{unicode|&empty;}}]]<br/><br/>{&nbsp;}
+ | tex =<math>\empty \!\,</math><br/><br/><math>\varnothing \!\,</math><br/><br/><math>\{\} \!\,</math>
+ | rowspan =1
+ | name =[[empty set]]
+ | readas =the empty set
  | category =[[naive set theory|set theory]]
- | explain  ={{unicode|&empty;}} means the set with no elements.<ref name="d-goldrei-set-3" /> {&nbsp;} means the same.
+ | explain ={{unicode|&empty;}} means the set with no elements.<ref name="d-goldrei-set-3" /> {&nbsp;} means the same.
  | examples ={''n''&nbsp;∈&nbsp;{{Unicode|&#x2115;}}&nbsp;: 1&nbsp;<&nbsp;''n''<sup>2</sup>&nbsp;<&nbsp;4}&nbsp;= {{unicode|&empty;}}
 }}
 
@@ -2382,9 +2382,9 @@ Some Unicode cross-references:
 * [http://svn.ghostscript.com/ghostscript/branches/gs-db/Resource/Decoding/Unicode Unicode values and Postscript names] from the source code for [[Ghostscript]]
 
 {{DEFAULTSORT:Mathematical Symbols}}
-[[Category:Mathematical notation|*]]
-[[Category:Mathematics-related lists|Symbols]]
-[[Category:Mathematical symbols| ]]
-[[Category:Mathematical tables|Symbols]]
-[[Category:Mathematical logic|Symbols]]
-[[Category:Lists of symbols|Mathematics]]
+[[وېشنيزه:Mathematical notation|*]]
+[[وېشنيزه:Mathematics-related lists|Symbols]]
+[[وېشنيزه:Mathematical symbols| ]]
+[[وېشنيزه:Mathematical tables|Symbols]]
+[[وېشنيزه:Mathematical logic|Symbols]]
+[[وېشنيزه:Lists of symbols|Mathematics]]
