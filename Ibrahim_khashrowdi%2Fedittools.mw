@@ -15,7 +15,7 @@
 <charinsert><nowiki>#تغییرمسیر [[+]]</nowiki></charinsert>
 <charinsert>{{پانویس}}</charinsert>
 <charinsert>{{مدرک}}</charinsert>
-<charinsert><ref>+</ref></charinsert>&lrm;<br />
+<charinsert><ref name="ReferenceA">+</ref></charinsert>&lrm;<br />
 &lrm;<charinsert><s>+</s></charinsert>
 <charinsert><sup>+</sup></charinsert>
 <charinsert><sub>+</sub></charinsert>
@@ -32,29 +32,33 @@
 <charinsert><nowiki>{{بک}}</nowiki></charinsert>
 <charinsert><nowiki>{{جا:امضانشده|+}}</nowiki></charinsert>
 </span>
-</p>
+
+
+
 <p class="mw-edittools-section" data-section-title="یادکردها و منابع" style="display: none;">
 <small>'''ارجاع‌دهی''':</small>
-<charinsert><ref>+</ref></charinsert>
+<charinsert><ref name="ReferenceA"/></charinsert>
 <charinsert><nowiki><ref name="">+</ref></nowiki></charinsert>
 <charinsert><nowiki><ref name="+" /></nowiki></charinsert>
 <charinsert><nowiki><ref group="">+</ref></nowiki></charinsert>
-</br>
+<br />
 <small>'''درخواست خط به خط:'''</small>
 <charinsert>&#123;&#123;<nowiki>تحقیق؟</nowiki>+&#125;&#125;</charinsert>
 <charinsert><nowiki>{{مدرک|+}}</nowiki></charinsert>
 <charinsert>&#123;&#123;<nowiki>چه کسی؟</nowiki>+&#125;&#125;</charinsert>
 <charinsert>&#123;&#123;<nowiki>چه زمانی؟</nowiki>+&#125;&#125;</charinsert>
-</br>
+<br />
 <small>'''یادکردها:'''</small>
 <charinsert><nowiki><ref>{{یادکرد کتاب |نام خانوادگی= |نام= |کتاب=+ | ناشر= |سال= |شابک=}}</ref></nowiki></charinsert>
 <charinsert><nowiki><ref>{{یادکرد وب |نویسنده = |نشانی= |عنوان=+ | ناشر = |تاریخ = |تاریخ بازبینی= }}</ref></nowiki></charinsert>
 <charinsert><nowiki><ref>{{پک|نام خانوادگی+|سال|ک=کتاب|ص=صفحه}}</ref></nowiki></charinsert>
-</br>
+<br />
 <small>'''پایین بخش منابع:'''</small>
 <charinsert><nowiki>{{پانویس}}</nowiki></charinsert>
 <charinsert><nowiki>{{پانویس|۲|چپ‌چین=بله}}</nowiki></charinsert>
-</p>
+
+
+
 <p class="mw-edittools-section" data-section-title="الگوهای عنوان و زبان" style="display: none;">
 <small>'''نام‌ها و عنوان‌ها:'''</small>
 <charinsert><nowiki>{{نام پیشین|+}}</nowiki></charinsert>
@@ -76,7 +80,9 @@
 <charinsert><nowiki>{{نشان زبان|+}}</nowiki></charinsert>
 <charinsert><nowiki>{{اختصاری|+}}</nowiki></charinsert>
 <charinsert><nowiki>{{مخفف|+|||}}</nowiki></charinsert>
-</p>
+
+
+
 <p class="mw-edittools-section" data-section-title="الگوهای پرکاربرد دیگر" style="display: none;">
 <small>'''اندازه و چینش:'''</small>
 <charinsert><nowiki>{{کوچک}}+{{پایان کوچک}}</nowiki></charinsert>
@@ -104,7 +110,9 @@
 <charinsert><nowiki>{{آغاز تاشو|عنوان|width=600px}}+{{پایان تاشو}}</nowiki></charinsert>
 <charinsert><nowiki>{{چندستونه|ستون‌ها=۳}}+{{پایان چندستونه}}</nowiki></charinsert>
 <charinsert><nowiki>{{رده بهتر|+}}</nowiki></charinsert>
-</p>
+
+
+
 <p class="mw-edittools-section" data-section-title="فرمول‌نویسی" style="display: none;">
 <charinsert>– —</charinsert>
 <charinsert>“+” ‘+’ «+» ‹+› „+“ ‚+‘</charinsert>
@@ -124,7 +132,7 @@
 <charinsert>[[b:|+]]</charinsert>
 <charinsert>[[wikt:|+]]</charinsert>
 <charinsert>[[v:|+]]</charinsert>
-</br>
+<br />
 <small>'''نگارخانه:'''</small>
 <charinsert><gallery>+</gallery></charinsert>
 <br/>
@@ -132,7 +140,9 @@
 <charinsert>[[:پرونده:+]]</charinsert>
 <charinsert>[[پرونده:+|بندانگشتی|راست|150px|<!--توضیح-->]]</charinsert>
 <charinsert>[[پرونده:+|بندانگشتی|چپ|150px|<!--توضیح-->]]</charinsert>
-</p>
+
+
+
 <p class="mw-edittools-section" data-section-title="عبارت‌های خاص" style="display: none;">
 <small>'''زیربخش:'''</small>
 <charinsert>__NOTOC__</charinsert>
@@ -149,7 +159,9 @@
 <small>'''تراگنجانش‌ها:'''</small>
 <charinsert><includeonly>+</includeonly></charinsert>
 <charinsert><noinclude>+</noinclude></charinsert>
-</p>
+
+
+
 <small>'''نویسه‌های استاندارد:'''</small>
 «ی» و «ک» فارسی: <charinsert>ی</charinsert> <charinsert>ک</charinsert>
 نقش‌نمای اضافه بعد از «ه»، مانند «خانهٔ»: <charinsert>هٔ</charinsert>
@@ -179,8 +191,8 @@ Everything up to here gets automatically replaced with the JavaScript edit tools
 <strong style="font-size: 130%;">پام مو وي چې:</strong>
 * کله چې تاسې د خوندي کولو تڼۍ کېښکاږۍ، نو ستاسې لخوا ترسره شوي بدلونونه به ټولو ته ښکاري. که تاسې غواړۍ چې د يو څه د خپرولو دمخه يې وآزمايۍ نو بيا خپل آزمېښتي متنونه په '''[[{{ns:project}}:د آزمېښت مخ|آزمېښت مخ]]''' کې ترسره کړۍ.
 * دلته يوازې [[ويکيپېډيا:ويکيپېډيا يو پوهنغونډ دی|پوهنغونډيز]] مالومات چې نورې باندنۍ سرچينې يې د کره توب [[ويکيپېډيا:Verifiability|پخلی کړی وي]] خپاره کولی شی چې د يوې [[ويکيپېډيا:بې پرې والی او ناپېيلتوب|بې پرې]] او ناپېيلي نظر دريځ پلي کړي.
-* د خبرواترو  په مخونو کې، د دغو (<code><nowiki>~~~~</nowiki></code>) نښو په ليکلو سره خپل پيغام لاسليک کړی.
-* د باندنيو وېبپاڼو د خوندي رښتو مالومات [[ويکيپېډيا:لمېسل-لېښل|دلته خپاره نه کړۍ]]  – تاسې يوازې د [[ويکيپېډيا:ټولگړی شپول|ټولگړي شپول]] مېنځپانگې پرته د اجازې نه خپرولی شی.
+* د خبرواترو په مخونو کې، د دغو (<code><nowiki>~~~~</nowiki></code>) نښو په ليکلو سره خپل پيغام لاسليک کړی.
+* د باندنيو وېبپاڼو د خوندي رښتو مالومات [[ويکيپېډيا:لمېسل-لېښل|دلته خپاره نه کړۍ]] – تاسې يوازې د [[ويکيپېډيا:ټولگړی شپول|ټولگړي شپول]] مېنځپانگې پرته د اجازې نه خپرولی شی.
 </div>
 
 ----
