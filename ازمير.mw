@@ -1,7 +1,7 @@
 {{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
 |name = Bursa 
 |settlement_type =  ښار
-|official_name = ##city##
+|official_name = زمير
 |coordinates_display = inline,title
 |coordinates_region = TR
 |subdivision_type = [[د هېوادونو لړليک|هېواد]]
@@ -26,11 +26,9 @@
 |population_density_km2 =  
 |population_title = City
 |area_blank1_title = City
-|area_blank1_km2 = 1036
-|elevation_m = 100
 |pushpin_map = Turkey
 |pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
-|pushpin_map_caption    = په تورکيه کې د ##city## ځای
+|pushpin_map_caption    = په تورکيه کې د ښار ځای
 |pushpin_mapsize        =260px
 |established_title = 
 |established_date =  
