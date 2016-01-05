@@ -1,0 +1,16 @@
+: <math>\begin{align}
+& DW=\frac{\sum\limits_{t=2}^T(e_t-e_{t-1})^2}{\sum\limits^T_{t=1}e_t^2} =  \frac{\sum\limits_{t=2}^T e_t^2 + \sum\limits_{t=2}^{T} e^2_{t-1} - 2\sum\limits_{t=2}^T e_t e_{t-1}}{\sum\limits_{t=1}^T e_t^2} = \\
+& = 2 - 2\frac{\sum\limits_{t=2}^T e_t e_{t-1}}{\sum\limits_{t=1}^T e_t^2} \approx2(1-\rho_1),\end{align}</math>
+где <math>\rho_1</math> — коэффициент автокорреляции первого порядка.
+
+Подразумевается, что в модели регрессии <math>\vec Y = \boldsymbol{X}\vec \beta + \vec\varepsilon</math> ошибки специфицированы как <math>\varepsilon_t = \rho\varepsilon_{t-1} + v_t</math>, где <math>v_t</math> распределено, как [[белый шум]]. <math>\mathbb{E}(\varepsilon_t) = 0</math>, <math>\mathop{\mathrm{Var}}(\varepsilon_t) = \frac{\sigma^2_v}{1-\rho^2}</math>, а <math>\mathop{\mathrm{Corr}}(\varepsilon_t,\varepsilon_{t-1}) = \rho</math>, где  <math>|\rho|<1</math>.
+
+В случае отсутствия автокорреляции <math>DW=2</math>; при положительной автокорреляции <math>DW</math> стремится к нулю, а при отрицательной — к 4:
+: <math>\begin{cases}\rho_1=0\Rightarrow DW=2; \\
+\rho_1=1\Rightarrow DW=0; \\
+\rho_1=-1\Rightarrow DW=4.\end{cases}</math>
+На практике применение критерия Дарбина—Уотсона основано на сравнении величины <math>DW</math> с теоретическими значениями <math>d_L</math> и <math>d_U</math> для заданного числа наблюдений <math>n</math>, числа [[независимая переменная|независимых переменных]] модели <math>k</math> и [[уровень значимости|уровня значимости]] <math>\alpha</math>.
+# Если <math>DW<d_L</math>, то [[гипотеза]] о независимости случайных отклонений отвергается (следовательно, присутствует положительная автокорреляция);
+# Если <math>DW>d_U</math>, то гипотеза не отвергается;
+# Если <math>d_L<DW<d_U</math>, то нет достаточных оснований для принятия решений.
+Когда расчётное значение <math>DW</math> превышает 2, то с <math>d_L</math> и <math>d_U</math> сравнивается не сам коэффициент <math>DW</math>, а выражение <math>(4-DW)</math><ref name = "eliseeva"/>.
