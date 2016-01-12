@@ -1,29 +1,26 @@
 <!------------------------------- د مخ سردره  ---------------------------------------------->
-{| id="mp-columns" class="radius" cellspacing="5" style=" width:100%; background:none "
-|width=10% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .3em .3em 0em .3em; color: #000; background: #ffffff;" colspan=2|
-{|  class="globegris" style="background-repeat:no-repeat; background-position: 43em -3.5em; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 30px; -webkit-border-radius: 10px; border-radius:0.4em;" |
-| style="height:1em; padding-right:45px" |<imagemap>
-انځور:PWWT.png|260px|
-rect 1 1 247 97 [[ویکیپېډيا]]
-desc none
-</imagemap>
-</div>
-<div style="padding-right:0px;">يو وړيا پوهنغونډ چې هرڅوک يې [[ويکيپېډيا:پېژندنه|سمولای]] او نوې ليکنې په کې خپرولای شي.</div>
-تر دې دمه '''[[ځانګړی:شمار|{{NUMBEROFARTICLES}}]]''' ليکنې لري.'''
-| colspan="2" style="font-size:110%;width:15%;"|
-*[[تانبه:فلسفه|فلسفه]]
-*[[تانبه:هنرونه|هنرونه]]
-*[[تانبه:ژوندليکونه|ژوندليکونه]]
-*[[تانبه:ځمکپوهنه|ځمکپوهنه]]
-|style="width:15%; font-size:110%;"|
-*[[تانبه:مذهب|دينونه]]
-*[[تانبه:پېښليک|پېښليک]]
-*[[تانبه:شمېرپوهنه|شمېرپوهنه]]
-*[[تانبه:پوهنه|پوهنه]]
-|style="width:15%; font-size:110%;"|
-*[[تانبه:ټولنه|ټولنه]]
-*[[تانبه:تخنيک|تخنيک]]
-*'''[[تانبه:مېنځپانگه/تانبې|ټولې&nbsp;تانبې]]'''
+{|  class="globegris" style="background-repeat:no-repeat; background-position: 40em -3.5em; width:100%; border:0px ; 
+|-
+| style="vertical-align: top; width:100%;" |<div style="border:1px solid #abd5f5;">
+{|  style="width:100%; margin-bottom:1px; vertical-align:top; font-size:95%; background:transparent;"
+|-
+| style="padding: .4em 1.6em 1em;" | <span style="font-size: 220%; color: #484848">{{{sitename_localized|ويکيپېډيا}}}</strong><br/><span style="color: #666666;">{{{tagline|يو وړيا پوهنغونډ چې هرڅوک يې [[ويکيپېډيا:پېژندنه|سمولای]] او نوې ليکنې په کې خپرولای شي.
+تر دې دمه '''[[ځانګړی:شمار|{{NUMBEROFARTICLES}}]]''' ليکنې لري.''' }}}</span>
+| style="width:10%;padding:0.5em;" |
+'''[[ويکيپېډيا|ويکيپېډيا څه ده؟]]'''
+| style="width:4%;padding:0.5em;" |
+'''[[لارښود:محتویات|محتويات]]'''
+| style="width:4%;padding:0.5em;" |
+'''[[ويکيپېډيا:بنډارځای|بنډارځای]]'''
+| style="width:6%;padding:0.5em;" |
+'''[[ويکيپېډيا:چای ځی|چای ځای]]'''
+| style="width:7%;padding:0.5em;" |
+'''[[تانبه:د تانبو لړليک|تانبې]]'''
+| style="width:7%;padding:0.5em;" |
+[[ځانګړی:ننوتل|<span class="mw-ui-button">{{{Entrar|ننوتل}}}</span>]]
+| style="width:15%;padding:0.5em;" |
+[[لارښود:ستاسې لومړۍ ليکنه|<span class="mw-ui-button mw-ui-progressive">{{{Contribuir|ليکنه شروع کړئ}}}</span>]]
+|}
 |}
 
 <div style=" padding: 5px 5px; margin: 0.3em; text-align: center" class="hlist">
