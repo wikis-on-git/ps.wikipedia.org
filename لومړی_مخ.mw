@@ -22,7 +22,8 @@
 [[لارښود:ستاسې لومړۍ ليکنه|<span class="mw-ui-button mw-ui-progressive">{{{Contribuir|ليکنه شروع کړئ}}}</span>]]
 |}
 |}
-
+{| id="mp-columns" class="radius" cellspacing="5" style=" width:100%; background:none "
+|width=10% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .3em .3em 0em .3em; color: #000; background: #ffffff;" colspan=2|
 <div style=" padding: 5px 5px; margin: 0.3em; text-align: center" class="hlist">
 * [[ويکيپېډيا:په اړه|د ويکيپېډيا په اړه]]
 * [[لارښود:نيوليک|د سمولو چلندلار]]
