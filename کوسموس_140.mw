@@ -1,0 +1,38 @@
+{{Infobox spaceflight
+| name                  = Kosmos 140
+| image                 = 
+| image_caption         = 
+| insignia              =
+
+| mission_type          = Test flight
+| operator              = 
+| COSPAR_ID             = 
+| SATCAT                = 
+| mission_duration      = approximately 48hr
+| distance_travelled    = 
+| orbits_completed      =
+
+| spacecraft            = 
+| spacecraft_type       = [[Soyuz 7K-OK]]
+| manufacturer          = [[OKB-1]]
+| launch_mass           = {{convert|6450|kg|lb}}
+| landing_mass          =
+
+| launch_date           = {{start-date|7 February 1967, 03:21|timezone=yes}}&nbsp;UTC
+| launch_rocket         = [[Soyuz (rocket)|Soyuz]]
+| launch_site           = [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]<ref>{{cite web |url=http://www.astronautix.com/sites/baiurlc1.htm |title=Baikonur LC1 |accessdate=2009-04-16 |work=[[Encyclopedia Astronautica]]}}</ref>
+
+| landing_date          = {{end-date|9 February 1967}}
+| landing_site          = [[Aral Sea]]
+
+| orbit_epoch           = 
+| orbit_reference       = [[Geocentric orbit|Geocentric]]
+| orbit_regime          = [[Low Earth orbit|Low Earth]]<ref name="nssdc_stats">{{cite web |url=http://nssdc.gsfc.nasa.gov/nmc/spacecraftOrbit.do?id=1967-009A |title=Cosmos 140 Trajectory Details |work=National Space Science Data Center Master Catalog |publisher= NASA |accessdate=2009-04-16}}</ref>
+| orbit_periapsis       = {{convert|165|km|mi}}
+| orbit_apoapsis        = {{convert|218|km|mi}}
+| orbit_inclination     = 51.7&nbsp;degrees
+| orbit_period          = 88.5&nbsp;minutes
+| apsis                 = gee
+}}
+
+'''کوسموس 140''' ({{lang-ru|Космос 140}} په معنی د ''فضا 140'') was an unmanned flight of the [[Soyuz spacecraft]].<ref>{{cite web |url=http://www.energia.ru/english/energia/history/flights_soyuz.html |title=Soyuz spacecraft flights |accessdate=2009-04-16 |publisher=S.P.Korolev RSC Energia}}</ref> It was the third attempted test flight of the [[Soyuz 7K-OK]] model, after orbital ([[Kosmos 133]]) and launch ([[List of R-7 launches (1965–1969)#1967|Soyuz 11A511]]) failures of the first two Soyuz spacecraft.<ref>{{ws |[[s:Mir Hardware Heritage/Part 1 - Soyuz|Part 1 - Soyuz]] in ''Mir Hardware Heritage'' by David S. F. Portree}}</ref>
