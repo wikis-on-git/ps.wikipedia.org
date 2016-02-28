@@ -1,0 +1,41 @@
+<center>
+{| class="wikitable" style="color:black" border="1"
+|-
+|bgcolor="#E2E7FF" width="450" height="81" |<center><span style="font-size:17pt; font-weight: bold;">ویکي پروژې پاکولو کینډۍ ته ښه راغلئ</span></center>
+|bgcolor="#E2E7FF" width="105" height="81" |[[Image:Edit-clear.svg|frameless|center|80px]]
+|bgcolor="#E2E7FF" width="105" height="81" |<center>'''<small>[[Wikipedia:Shortcut|Shortcuts:]]<br>[[WP:CLEAN]]<br>[[WP:CLEANUP]]</small>'''</center>
+|-
+| colspan="3" style="text-align: center;" bgcolor="#E2E7FF" width="auto" | <center>{{WikiProject Status|Active}}</center>
+|-
+|}
+</center>
+<center>
+{| class="wikitable" width=95% cellpadding=8 style="border: 0px solid #fff; background-color: #dff2ff" align=center
+|-
+|'''WikiProject Cleanup''' is a resource for Wikipedia cleanup information and discussion. This project covers cleanup issues including page layout, [[Wikipedia:Glossary#Wikification|wikification]], spelling, grammar and typographical errors, tone, and [[Wikipedia:Identifying reliable sources|sourcing]]. ''All'' users are welcome to help edit or fix ''any'' page on these lists. Please remove the appropriate tag(s) from the article after cleaning it, then strike-through the entry on this page using '''<nowiki><s> </s></nowiki>''', which produces: '''<s>(sample text)</s>'''. Do not strike the user signature and timestamp; this retains the listing for historical reference of the project's accomplishments. Please also consider documenting improvements on the article's talk page or in edit summaries for the benefit of other editors.
+|}
+<div style="float:right">
+{{archives|archivelist = /archivelist |auto = short |index =  |search = yes |list = |collapsible = yes |collapsed = yes |style = |bot = |age =}}
+</div>
+{|cellpadding=4 style="border: 1px solid #fff; background-color: #dff2f3" align=center width=auto
+|
+:''For cleanup templates see [[Wikipedia:Template messages/Cleanup|Template messages/Cleanup]] ([[WP:TC]])''<br>
+:''For information about cleaning up vandalism, see [[Wikipedia:Cleaning up vandalism|Cleaning up vandalism]]''
+|}
+</center>
+
+==[[Image:Gtk-dialog-info.svg|20px]] Information==
+{{resources for collaboration}}
+'''For comprehensive lists of pages requiring cleanup''', which are automatically generated from the {{tlx|cleanup}} banners placed on articles, please refer to:
+* '''[[:Category:All pages needing cleanup|Category: All pages needing cleanup]]''' 
+* '''[[:Category:Articles needing cleanup|Category: Articles needing cleanup]]''' 
+
+For older articles with issues that have not been dealt with in some time, refer to:
+* '''[[Wikipedia:BACKLOG|Wikipedia: BACKLOG]]'''  
+
+If you've arrived at this page from a link on a {{tlc|cleanup}} template that someone placed on an article, it was most likely placed because the article does not meet one or more of Wikipedia's standards on [[Wikipedia:List of guidelines#Content|content]] and [[Wikipedia:Manual of Style|style]]. Read [[Wikipedia:Writing better articles]] to learn about Wikipedia's standards; the advice on that page should help editors to effectively clean up any article.
+
+Information on the cleanup process may be found at [[Wikipedia:Cleanup process]]. Other resources are located at [[Wikipedia:Cleanup resources]] and [[Wikipedia:Template messages/Cleanup]], for help on posting problems with Wikipedia pages or to use as a guide. If the article requires expert attention see [[template:Expert]]. For older entries, please refer to the project's archives.
+<div style="float:right">
+{{navbar|Template:Wikipedia:Cleanup\Header|mini=1}}</div>
+<noinclude>[[Category:WikiProject Cleanup]]</noinclude>
