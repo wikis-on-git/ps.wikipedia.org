@@ -1,0 +1,16 @@
+[[File:White-noise-sound-20sec-mono-44100Hz.ogg|left|thumb|د سپين اوځوږ آواز.]]
+[[File:White noise.svg|thumb|left|Plot of a Gaussian white noise signal.]]
+
+'''سپين اوځوږ''' یا سپين شور د یو  سيګنال د پروسس په نتیجه کې رامېنځته کېږي، سپين شور یو سيګنال دی چې د ثابت قدرت او ناټاکلې تراکم سره ترسره کېږی..<ref>{{cite book|last=Carter,Mancini|first=Bruce,Ron|title=Op Amps for Everyone|year=2009|publisher=Texas Instruments|isbn=0080949487|pages=10–11}}</ref>
+
+<syntaxhighlight lang="cpp">
+x[i] = 2 * ((rand()/((double)RAND_MAX)) — 0.5)
+</syntaxhighlight>
+==سرچینې==
+روسی ویکی «[[w:ru:Белый шум|Белый шум]]»
+
+{{DEFAULTSORT:White Noise}}
+[[Category:Stochastic processes]]
+[[Category:Noise]]
+[[Category:Time series analysis]]
+[[Category:Data compression]]
