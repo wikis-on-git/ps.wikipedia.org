@@ -3,11 +3,11 @@
 {|  class="globegris" style="background-repeat:no-repeat; background-position: 40em -3.5em; width:100%; border:0px ; 
 |-
 | style="vertical-align: top; width:100%;" |<div style="border:1px solid #abd5f5;">
-{|  style="width:100%; margin-bottom:1px; vertical-align:top; font-size:95%; background:transparent;"
+{|  style="width:100%; margin-bottom:1px; vertical-align:top; font-size:90%; background:transparent;"
 |-
-| style="padding: .4em 1.6em 1em;" | <span style="font-size: 220%; color: #484848">{{{sitename_localized|
-<font color="#000000"> '''پښتو ويکيپېډيا ته ښه  راغلاست'''.}}}</strong><br/><span style="color: #666666;">{{{tagline|يو وړيا پوهنغونډ چې هرڅوک يې [[ويکيپېډيا:پېژندنه|سمولای]] او نوې ليکنې په کې خپرولای شي.
-تر دې دمه'''[[ځانګړی:شمار|{{NUMBEROFARTICLES}}]]''' ليکنې لري.'''}}}</span>
+| style="padding: .4em 1.6em 1em;" | <span style="font-size: 110%; color: #484848">{{{sitename_localized|
+<font color="#000000"> <big><big>'''پښتو ويکيپېډيا ته ښه  راغلاست.'''</big></big>}}}</strong><br/><span style="color: #666666;">{{{tagline|يو وړيا پوهنغونډ چې هرڅوک يې [[ويکيپېډيا:پېژندنه|سمولای]] او نوې ليکنې په کې خپرولای شي.
+تر دې دمه[[ځانګړی:شمار|{{NUMBEROFARTICLES}}]] ليکنې لري.}}}</span>
 | style="width:10%;padding:0.5em;" |
 '''[[ويکيپېډيا|ويکيپېډيا څه ده؟]]'''
 | style="width:4%;padding:0.5em;" |
