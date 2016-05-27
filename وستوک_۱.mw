@@ -1,3 +1,50 @@
+{{Use mdy dates|date=September 2012}}
+{{Infobox spaceflight
+| name                  = Vostok 1
+| image                 = Vostok1.jpg
+| image_caption         = Yuri Gagarin aboard Vostok 1, as televised to launch control
+| insignia              = Vostok-1 patch.svg
+
+| mission_type          = 
+| operator              = [[Soviet space program]]
+| Harvard_designation   = 1961 Mu 1
+| SATCAT                = 103
+| mission_duration      = 1&nbsp;hour, 48&nbsp;minutes<ref name="fai">{{cite web |url=http://records.fai.org/pilot.asp?from=astronautics&id=4791 |title=Aviation and Space World Records |accessdate=2009-03-12 |publisher=[[Fédération Aéronautique Internationale]] (FAI)}}</ref>
+| orbits_completed      = 1
+| distance_travelled    =
+
+| spacecraft            = [[Vostok (spacecraft)|Vostok-3KA]] No.3
+| manufacturer          = Experimental Design Bureau [[OKB-1]]
+| launch_mass           = {{convert|4725|kg|lb}}<ref name="fai" />
+| landing_mass          = {{convert|5290|lb|kg|order=flip}}
+| dimensions            = {{convert|90.5|in|m|sp=us|order=flip}} diameter
+
+| launch_date           = {{start-date|April 12, 1961, 06:07|timezone=yes}}&nbsp;UTC<ref name=NASAorbit>{{cite web|url=http://nssdc.gsfc.nasa.gov/nmc/spacecraftOrbit.do?id=1961-012A|title=Vostok 1 – NSSDC ID: 1961-012A|publisher=NASA}}</ref>
+| launch_rocket         = [[Vostok-K]] 8K72K
+| launch_site           = [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]<br>{{coord|45.920278|N|63.342222|E}}<ref>{{cite web|url = http://maps.google.com/maps?ll=45.922229,63.342469&spn=0.007329,0.02075&t=h&z=16&iwloc=lyrftr:com.panoramio.all,3206309305601131508,45.92014,63.342297&lci=com.panoramio.all|title = Google Maps – Vostok 1 Launch Pad – Gagarin's Start photo|accessdate = 2010-12-25}}</ref>
+
+| landing_date          = {{end-date|April 12, 1961, 07:55|timezone=yes}}&nbsp;UTC 
+| landing_site          = {{coord|51.270682|N|45.99727|E|}}<ref>{{cite web|url = http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=51.270682+N,+45.99727+E&sll=51.270689,45.997599&sspn=0.003296,0.00868&ie=UTF8&ll=51.270716,45.997385&spn=0.003296,0.00868&t=k&z=17|title = Google Maps – Vostok 1 Landing Site – Monument|accessdate = 2010-12-25}}</ref><ref>{{cite web|url = http://maps.google.com/maps?ll=51.271501,45.997385&spn=0.003296,0.010375&t=k&z=17&iwloc=lyrftr:com.panoramio.all,14192239399743350815,51.270776,45.997868&lci=com.panoramio.all|title = Google Maps – Vostok 1 Landing Site – Monument Photo|accessdate = 2010-12-25}}</ref>
+
+| orbit_epoch           = 12 April 1961
+| orbit_reference       = [[geocentric orbit|Geocentric]]
+| orbit_regime          = [[low Earth orbit|Low Earth]]
+| orbit_periapsis       = {{convert|169|km|nmi|sp=us|abbr=off}}<ref name=NASAorbit/> 
+| orbit_apoapsis        = {{convert|327|km|nmi|sp=us|abbr=off}}<ref name="fai" /> 
+| orbit_inclination     = 64.95&nbsp;degrees<ref name=NASAorbit/>
+| orbit_period          = 89.1&nbsp;minutes 
+| apsis                 = gee
+
+| crew_size             = 1
+| crew_members          = [[Yuri Gagarin]]
+| crew_callsign         = {{lang|ru|Кедр}} ({{lang|ru-Latn|''Kedr''}} – [[Siberian Pine]])<ref name=p275>Siddiqi, p.275</ref>
+| crew_photo            = Gagarin in Sweden.jpg
+| crew_photo_caption    = Yuri Gagarin in Sweden
+
+| next_mission          = [[Vostok 2]]
+| programme             = [[Vostok programme]]<br/><small>Manned flights</small>
+}}
+
 '''وستوک ۱''' (انګليسي: Vostok 1، روسي: Восто́к-1) د وستوک پروګرام لومړنۍ تشیال‌الوتنه او د نړۍ په تاریخ کې تشیال ته د انسانانو لومړنی ماموریت دی. د وستوک ۳کې‌اې (Vostok 3KA) تشیالي کپسول د ۱۹۶۱ د اپرېل پر ۱۲مه له بایکونور الوتځای (Baikonur Cosmodrome) څخه وتوغول شو. روسي ستورمزلی یوري ګاګارین په دې کپسول کې وو او په نړۍ کې لومړنی کس شو چې تشیال ته ولاړی.
 
 دې ماموریت له الوتنې څخه تر ناستې پورې ټول ۱۰۸ دقیقې وخت واخیست چې په دې موده کې د یوري ګاګارین تشیال‌بېړۍ له پاسنۍ هواوېجې (upper atmosphere) څخه کابو ۱۶۹ کیلومټره لوړ یوه پلا پر ځمکې را وڅرخېده. د بېرته راتګ پر مهال، یوري ګاګارين له ۷ کیلومټره (۲۳۰۰۰ ګامه) لوړوالي څخه ځان په پراشوټ کې ارتاو کړ.
