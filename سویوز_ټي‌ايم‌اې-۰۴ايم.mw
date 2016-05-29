@@ -1,3 +1,60 @@
+{{Infobox spaceflight
+| name                  = Soyuz TMA-04M 
+| image                 = Soyuz TMA-04M spacecraft departs from the ISS a.jpg
+| image_caption         = Soyuz TMA-04M departs the ISS
+| insignia              = Soyuz-TMA-04M-Mission-Patch.png
+
+| mission_type          = 
+| operator              = [[Roskosmos]]
+| COSPAR_ID             = 2012-022A
+| SATCAT                = 38291
+| mission_duration      = 4&nbsp;months, 2&nbsp;days
+| distance_travelled    = 
+| orbits_completed      = ~1,945<ref name="heavens-above"/><!--1,944 about 90 minutes (~1 rev) before decay-->
+
+| spacecraft            = 
+| spacecraft_type       = [[Soyuz-TMA]] 11F747
+| manufacturer          = [[RKK Energia]]
+| launch_mass           = 
+| landing_mass          =
+
+| launch_date           = {{start-date|15 May 2012, 03:01:23|timezone=yes}}&nbsp;UTC<ref name="delay">{{Cite web|url=http://www.spaceflightnow.com/station/exp30/120202/|title=Russia Orders Soyuz Delays In Wake Of Test Mishap|accessdate=February 12, 2012|publisher=SpaceflightNow.com|author=William Harwood|date=February 12, 2012}}</ref><ref name=NasaNews>{{cite web|accessdate=May 14, 2012|url=http://www.nasa.gov/mission_pages/station/living/index.html|title=Three New Crew Members En Route to Station |work=Latest News|publisher=NASA}}</ref>
+| launch_rocket         = [[Soyuz-FG]]
+| launch_site           = [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+| landing_date          = {{end-date|17 September 2012, 02:53|timezone=yes}}&nbsp;UTC<ref name=landing>{{cite web|title=Expedition 32 Lands Safely in Kazakhstan|url=http://www.nasa.gov/mission_pages/station/living/index.html|publisher=National Aeronautics and Space Administration|accessdate=17 September 2012}}</ref>
+| landing_site          =
+
+| crew_size             = 3
+| crew_members          = [[Gennady Padalka]]<br/>[[Sergei Revin]]<br/>[[Joseph M. Acaba]]
+| crew_callsign         = Altair
+| crew_photo            = Soyuz TMA-04M crew.jpg
+| crew_photo_caption    = (l-r) Acaba, Padalka and Revin
+
+| orbit_epoch           = 17 September 2012, 01:22:43&nbsp;UTC<ref name="heavens-above">{{cite web|url=http://www.heavens-above.com/orbit.aspx?satid=38291|title=SOYUZ-TMA 4M - Orbit|first=Chris|last=Peat|work=Heavens Above|date=17 September 2012|accessdate=31 October 2013}}</ref>
+| orbit_reference       = [[Geocentric orbit|Geocentric]]
+| orbit_regime          = [[Low Earth orbit|Low Earth]]
+| orbit_periapsis       = {{convert|410|km|mi}}
+| orbit_apoapsis        = {{convert|433|km|mi}}
+| orbit_inclination     = 51.64&nbsp;degrees
+| orbit_period          = 92.86&nbsp;minutes
+| apsis                 = gee
+
+| docking               = 
+ {{Infobox spaceflight/Dock
+   | docking_target     = [[International Space Station|ISS]]
+   | docking_type       = dock
+   | docking_port       = ''[[Poisk (ISS module)|Poisk]]'' zenith
+   | docking_date       = 17 May 2012, 04:36&nbsp;UTC
+   | undocking_date     = 16 September 2012, 23:09&nbsp;UTC
+   | time_docked        = 4&nbsp;months
+ }}
+
+| previous_mission      = [[Soyuz TMA-03M]]
+| next_mission          = [[Soyuz TMA-05M]]
+| programme             = [[Soyuz programme]]<br/><small>(Manned missions)</small>
+}}
+
 سویوز ټي‌ايم‌اې-۰۴ايم (انګليسي: Soyuz TMA-04M) ټیټ ځمکني چورلېځ (Low Earth Orbit) ته یوه تشیال‌الوتنه وه چې د لېږد ۳۱ درې ستورمزلي یې نړیوال تشیال تمځای ته ورسول. دا ماموریت د ۲۰۱۲ د می پر ۱۵مه پیل او ۲۰۱۲ د سپټمبر پر ۱۷مه پای ته ورسېد. سویوز تشیال‌بېړۍ په ۱۹۶۷ کې پیل شوې او ټي‌ايم‌اې-۰۴ايم یې له پیل راهیسې ۱۱۳مه الوتنه وه، او د پرمختللي سویوز ټي‌ايم‌اې-ايم (Soyuz TMA-M) لړۍ، چې د ۲۰۱۰ د اکټوبر پر ۷مه پیل شوه، څلورمه الوتنه وه. د ماموریت له پلان سره سم، تشیال‌بېړۍ تر پایه پورې له تشیال تمځای سره په دې موخه نښتې وه چې د لېږد ۳۱ ماموریت پر مهال د بېړنۍ تېښتې لپاره کار ځنې واخیستل شي.
 
 دا ماموریت د ۲۰۱۲ د می پر ۱۵مه په قزاقستان کې له بایکونور الوتځای (Baikonur Cosmodrome) څخه پر ۳: ۱:۲۳ ن.هـ.م بجو پیل شو. سویوز د می پر ۱۷مه پر ۴:۳۶ ن.هـ.م. بجو په بریالیتوب سره له نړیوال تشیال تمځای سره و نښتی او درې ستورمزلي لکه ګېنادي پدلکا، سرګې رېوين او جوزف اکابا یې تشیال تمځای ته ورسول. دا ماموریت د ۲۰۱۲ د سپټمبر پر ۱۷مه پای ته ورسېد او پر ۲:۵۳ ن.هـ.م. بجو یې په قزاقستان کې بریالۍ ناسته ترسره کړه.
