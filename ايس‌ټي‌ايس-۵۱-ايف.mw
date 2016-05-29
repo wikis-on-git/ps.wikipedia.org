@@ -1,3 +1,47 @@
+{{Use mdy dates|date=March 2014}}
+{{Infobox spaceflight
+| name                  = STS-51-F
+| image                 = STS-51-F Instrument Pointing System.jpg
+| image_caption         = Experiments in ''Challenger''<nowiki>'</nowiki>s payload bay.
+| insignia              = STS-51-F patch.svg
+
+| spacecraft            = {{OV|099}}
+| mission_type          = Astronomical observations
+| operator              = [[NASA]]
+| COSPAR_ID             = 1985-063A
+| SATCAT                = 15925
+| orbits_completed      = 127
+| distance_travelled    = {{convert|3283543|mi|km|disp=flip}}
+| mission_duration      = 7 days, 22 hours, 45 minutes, 26 seconds
+| launch_mass           = {{convert|252855|lbs|kg|disp=flip}}
+| landing_mass          = {{convert|216735|lbs|kg|disp=flip}}
+| payload_mass          = {{convert|35955|lbs|kg|disp=flip}}
+
+| launch_site           = [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+| launch_date           = {{start-date|July 29, 1985, 21:00:00|timezone=yes}}&nbsp;UTC
+
+| landing_date          = {{end-date|August 6, 1985, 19:45:26|timezone=yes}}&nbsp;UTC
+| landing_site          = [[Edwards Air Force Base|Edwards]] Runway&nbsp;23
+
+| crew_size             = 7
+| crew_members          = [[C. Gordon Fullerton]]<br/>[[Roy D. Bridges, Jr.]]<br/>[[Karl G. Henize]]<br/>[[Story Musgrave|F. Story Musgrave]]<br/>[[Anthony W. England]]<br/>[[Loren Acton|Loren W. Acton]]<br/>[[John-David F. Bartoe]]
+| crew_photo            = STS-51-F crew.jpg
+| crew_photo_caption    = Front row (seated) L-R: Fullerton, Bridges, Back row (standing) L-R: England, Henize, Musgrave, Acton, Bartoe
+
+| apsis                 = gee
+| orbit_epoch           = 
+| orbit_reference       = [[geocentric orbit|Geocentric]]
+| orbit_regime          = [[Low Earth orbit|Low Earth]]
+| orbit_periapsis       = {{convert|193.9|mi|km|disp=flip}}
+| orbit_apoapsis        = {{convert|199.5|mi|km|disp=flip}}
+| orbit_period          = 90.9 min
+| orbit_inclination     = 49.5 degrees
+
+| programme             = [[Space Shuttle program]]
+| previous_mission      = [[STS-51-G]]
+| next_mission          = [[STS-51-I]]
+}}
+
 ايس‌ټي‌ايس-۵۱-ايف (انګليسي: STS-51-F)، چې سپېس‌لېب ۲ (Spacelab 2) هم بلل کېږي، د ناسا د تشیال ماکو پروګرام نولسمه او د چېلنجر په نامه تشیال ماکو اتمه الوتنه وه. دا ماموریت په فلوریډا کې له کېنډي تشیال منځۍ (Kennedy Space Center) څخه د ۱۹۸۵ د جولايي پر ۲۹مه پیل او اته ورځې وروسته د ۱۹۸۵ د اګسټ پر ۶مه پای ته ورسېد.
 
 که څه هم د ايس‌ټي‌ايس-۵۱-ايف اصلي موخه سپېس‌لېب ۲ لابراتوار وو خو د دې ماموریت یوه بله برخه ډېره مشهوره شوه او هغه دا چې کوکا کولا او پیپسي دواړو شرکتونو ستورمزلو ته د ازمېښت لپاره کاربوني څښکتوکي ور کړي ول.
