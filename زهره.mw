@@ -1,3 +1,127 @@
+{{About|the planet}}
+{{pp-move-indef}}
+{{pp-semi-indef}}
+{{Use dmy dates|date=January 2016}}
+{{Use British (Oxford) English|date=May 2013}}
+{{Infobox planet
+| name = زهره
+| symbol = [[File:Venus symbol.svg|25px|alt=The Venusian symbol, a circle with a small equal-armed cross beneath it|Astronomical symbol of Venus]]
+| image = [[File:Venus-real color.jpg|260px|alt=Venus in approximately true colour, a nearly uniform pale cream, although the image has been processed to bring out details.<ref name="Lakdawalla2009">{{cite web |url=http://www.planetary.org/blog/article/00002105/ |title=Venus Looks More Boring Than You Think It Does |work=The Planetary Society |first=Emily |last=Lakdawalla |date=21 September 2009 |accessdate=4 December 2011}}</ref> The planet's disc is about three-quarters illuminated. Almost no variation or detail can be seen in the clouds.|Venus]]
+| caption = A real-colour image of Venus taken by ''[[Mariner 10]]'' processed from two filters. The surface is obscured by thick [[sulfuric acid]] clouds.
+| orbit_ref =<ref name="fact" /><ref name="horizons" />
+| epoch = [[J2000]]
+| aphelion =
+  {{plainlist |
+* {{val|0.728213|ul=AU}}
+* {{nowrap|{{val|fmt=commas|108939000|u=km}}}}
+  }}
+| perihelion =
+  {{plainlist |
+* {{val|0.718440|u=AU}}
+* {{nowrap|{{val|fmt=commas|107477000|u=km}}}}
+  }}
+| semimajor =
+  {{plainlist |
+* {{val|0.723332|u=AU}}
+* {{nowrap|{{val|fmt=commas|108208000|u=km}}}}
+  }}
+| eccentricity = 0.006772<ref name="VSOP87" />
+| period =
+  {{plainlist |
+* {{val|224.701|u=day}}<ref name="fact" />
+* {{val|0.615198|u=[[julian year (astronomy)|yr]]}}
+* 1.92 Venus [[solar day]]
+  }}
+| synodic_period = 583.92 days<ref name="fact" />
+| avg_speed = 35.02&nbsp;km/s
+| inclination =
+  {{plainlist |
+* {{val|3.39458|u=°}} to [[ecliptic]]
+* 3.86° to [[Sun]]'s [[equator]]
+* 2.19° to [[invariable plane]]<ref name="meanplane" />
+  }}
+| asc_node = 76.680°<ref name="VSOP87" />
+| arg_peri = 54.884°
+| mean_anomaly = 50.115°
+| satellites = None
+| allsatellites=yes
+| physical_characteristics = yes
+| mean_radius =
+  {{plainlist |
+* {{nowrap|{{val|fmt=commas|6051.8|1.0|u=km}}}}<ref name="Seidelmann2007" />
+* {{val|0.9499|u=Earths}}
+  }}
+| flattening = 0<ref name="Seidelmann2007" />
+| surface_area =
+  {{plainlist |
+* {{val|4.6023|e=8|u=km2}}
+* 0.902 Earths
+  }}
+| volume =
+  {{plainlist |
+* {{val|9.2843|e=11|u=km3}}
+* 0.866 Earths
+  }}
+| mass =
+  {{plainlist |
+* {{val|4.8675|e=24|u=kg}}<ref name="Konopliv1999" />
+* 0.815 Earths
+  }}
+| density = {{val|5.243|u=g/cm3}}
+| surface_grav =
+  {{plainlist |
+* {{val|8.87|u=m/s2}}
+* {{nowrap|0.904 ''[[g-force|g]]''}}
+  }}
+| escape_velocity = {{convert|10.36|km/s|abbr=on}}<ref>{{cite web |url=http://ssd.jpl.nasa.gov/?planet_phys_par |title=Planets and Pluto: Physical Characteristics |publisher=[[NASA]] |date=5 November 2008 |accessdate=26 August 2015}}</ref>
+| sidereal_day = {{val|-243.025|u=day}} <small>([[Retrograde motion|retrograde]])</small><ref name="fact" />
+| rot_velocity = {{convert|6.52|km/h|m/s|abbr=on}}<!--Since rot. vel. = circumference/sidereal day, and circumference is 2πr, rot. vel. = 2π6051km/243.025*24h = 6.52 km/h-->
+| axial_tilt = 2.64° <small>(for [[Retrograde motion|retrograde]] rotation)</small><br />177.36° (to orbit)<ref name=fact/><ref group=note>Defining the rotation as retrograde, as done by NASA space missions and the USGS, puts [[Ishtar Terra]] in the northern hemisphere and makes the axial tilt 2.64°. Following the [[right-hand rule]] for prograde rotation puts Ishtar Terra in the southern hemisphere and makes the axial tilt 177.36°.</ref>
+| right_asc_north_pole =
+  {{plainlist |
+* {{RA|18|11|2}}
+* 272.76°<ref name="iauwg_ccrsps2000" />
+  }}
+| declination = 67.16°
+| albedo =
+  {{plainlist |
+* 0.67 ([[Geometric albedo|geometric]])<ref name="MallamaVenus" />
+* 0.90 ([[Bond albedo|Bond]])<ref name="MallamaVenus" />
+  }}
+| magnitude =
+  {{plainlist |
+* brightest −4.9<ref name="MallamaSky" /><ref name="JPL-Horizons" /> (crescent)
+* −3.8<ref name="ephemeris" /> (full)
+  }}
+| angular_size = {{nowrap|9.7″ to 66.0″}}<ref name="fact" />
+| temperatures = yes
+| temp_name1 = [[Kelvin]]
+| mean_temp_1 = 737&nbsp;K<ref name="fact" />
+| temp_name2 = Celsius
+| mean_temp_2 = 462&nbsp;°C
+| mean_name3 = [[Fahrenheit]]
+| mean_temp_3 = {{convert|864|°F|°C|abbr=on}}
+| pronounced = {{IPAc-en|audio=en-us-Venus.ogg|ˈ|v|iː|n|ə|s}}
+| adjectives = [[Venusian (disambiguation)|Venusian]] or (rarely) [[Cytherean]], Venerean
+| atmosphere = yes
+| surface_pressure = 92&nbsp;[[bar (unit)|bar]] (9.2&nbsp;[[Pascal (unit)|MPa]])
+| atmosphere_composition =
+  {{plainlist |
+* 96.5% [[carbon dioxide]]
+* 3.5% [[nitrogen]]
+* 0.015% [[sulfur dioxide]]
+* 0.007% [[argon]]
+* 0.002% [[water vapour]]
+* 0.0017% [[carbon monoxide]]
+* 0.0012% [[helium]]
+* 0.0007% [[neon]]
+* trace [[carbonyl sulfide]]
+* trace [[hydrogen chloride]]
+* trace [[hydrogen fluoride]]
+  }}
+}}
+
+
 زهره د [[لمریز غونډال]] دوهمه سیاره ده چې په ۲۲۴،۷ ځمکنیو ورځو کې یوه پلا پر لمر را چورلي. دا سیاره کومه پنځیزه (طبیعي) سپوږمۍ نه لري. د روم له لرغوني ادبیاتو څخه یې د مینې او ښکلا د خدایګوټې نوم پر ایښی دی. تر لمر او سپوږمۍ وروسته، زهره د شپې په اسمان کې تر ټولو روښانه طبیعي توکی دی چې د ځلا درجه یې -۴،۶ ته رسېږي--- یانې دومره ځلا لري چې سیوری جوړ کړي. په دې خاطر چې زهره د ځمکې یوه لاندېنۍ سیاره (inferior planet) ده،  نو ځکه دا هیڅکله هم له لمر څخه لیرې نه مالومېږي. د دې سیارې غځېدنه (elongation) چې ډېر شي ۴۷،۸ درجو ته رسېږي. د دې سیارې په اړه ځینې لنډ مالومات په لاندې ډول دي:
 
 ۱- زهره تر ځمکې یو لږ نوکي کوشنۍ ده؛ او په لوی سر کې د لمریز غونډال شپږمه لویه سیاره ده.
