@@ -7,7 +7,7 @@ desc none
 </imagemap>
 </div>
 <div style="padding-right:0px;">يو وړيا پوهنغونډ چې هرڅوک يې [[ويکيپېډيا:پېژندنه|سمولای]] او نوې ليکنې په کې خپرولای شي.</div>
-تر دې دمه '''[[ځانګړی:شمار|{{NUMBEROFARTICLES}}]]''' ليکنې لري.'''
+تر دې دمه '''[[ځانگړی:شمار|{{NUMBEROFARTICLES}}]]''' ليکنې لري.'''
 | colspan="2" style="font-size:110%;width:15%;"|
 *[[تانبه:فلسفه|فلسفه]]
 *[[تانبه:هنرونه|هنرونه]]
@@ -48,7 +48,7 @@ width=70
 buttonlabel= نوې ليکنه ورگډول
 break=no
 </inputbox>
-<br />
+
 *********************************************************
 
 <!-- ============== TABEL UTAMA MULAI ================ -->
@@ -151,7 +151,7 @@ break=no
 | style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; {{border-radius|10px}}" |
 {| width="100%" style=" padding:0px; margin-top:0px; margin-bottom:0px; background:transparent;"
 |-
-| align=center |[[ويکيپېډيا:General disclaimer|ويکيپېډيا د اتباري مېنځپانګې ګرنټي نه ورکوي]]۔<br><small>    په ويکيپيډيا کې چې څه ليکلی کيږي د هغه هر څه د کارنانو لخوا ليکلی شوي که څه مسئله وي نو ويکيميډيا د هغې ذمه واره نه ده
+| align=center |[[ويکيپېډيا:General disclaimer|ويکيپېډيا د اتباري مېنځپانگې گرنټي نه ورکوي]]۔<br><small>    په ويکيپيډيا کې چې څه ليکلی کيږي د هغه هر څه د کارنانو لخوا ليکلی شوي که څه مسئله وي نو ويکيميډيا د هغې ذمه واره نه ده
 </small>
 |}
 |}
