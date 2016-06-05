@@ -1,66 +1,63 @@
-'''د حمل او نقل تیوری''' - دا تیوری بیانوی چی مصرف کونکو ته د مصرفی موادو د لیږد پر محال څه رنګه وکوالای شو ددوی د غوښتني وړ توکی په کم لګښت ( کرایه) سره ددوی ځای ته په پوره توګه ورسو  . د دی مشکل د حل لپاره یو خاص پلان ته اړتیا شته چی په یو مستطیل شکل که ښودل کیږی ،  مثال په  لاندینۍ شکل کی شکل وګورۍ:
+'''د حمل او نقل تیوری''' - دا تیوری بیانوی چی مصرف کونکو ته د مصرفی موادو د لیږد پر محال څه رنگه وکوالای شو ددوی د غوښتني وړ توکی په کم لگښت ( کرایه) سره ددوی ځای ته په پوره توگه ورسو  . د دی مشکل د حل لپاره یو خاص پلان ته اړتیا شته چی په یو مستطیل شکل که ښودل کیږی ،  مثال په  لاندینۍ شکل کی شکل وگورۍ:
 {| border="1" cellpadding="5" style="border-collapse: collapse; border: 1px solid black;"
 |-
 !style="width:100pt"|
-!style="width:100pt"|B<sub>۱</sub>{{سور|مصرف کونکي}} , <br />ضرورت - ۲۰ kg
-!style="width:100pt"|B<sub>۲</sub>{{سور|مصرف کونکي}} , <br />ضرورت - ۳۰ kg
-!style="width:100pt"|B<sub>۳</sub>{{سور|مصرف کونکي}} ,<br />ضرورت - ۳۰ kg
-!style="width:100pt"|B<sub>۴</sub>{{سور|مصرف کونکي}} ,<br />ضرورت - ۱۰ kg
+!style="width:100pt"|B<sub>۱</sub>{{سور|مصرف کونکي}} , <br />ضرورت - ۲۰&nbsp;kg
+!style="width:100pt"|B<sub>۲</sub>{{سور|مصرف کونکي}} , <br />ضرورت - ۳۰&nbsp;kg
+!style="width:100pt"|B<sub>۳</sub>{{سور|مصرف کونکي}} ,<br />ضرورت - ۳۰&nbsp;kg
+!style="width:100pt"|B<sub>۴</sub>{{سور|مصرف کونکي}} ,<br />ضرورت - ۱۰&nbsp;kg
 |-
-!A<sub>1</sub>{{زرغون|وړاندی کونکي}},<br />ذخایر - 30 kg
+!A<sub>1</sub>{{زرغون|وړاندی کونکي}},<br />ذخایر - 30&nbsp;kg
 |С<sub>11</sub>=2 Afg./kg
 |С<sub>12</sub>=3 Afg./kg
 |С<sub>13</sub>=2 Afg./kg
 |С<sub>14</sub>=4 Afg./kg
 |-
-!A<sub>2</sub> {{زرغون|وړاندی کونکي}} , <br />ذخایر - 40 kg
+!A<sub>2</sub> {{زرغون|وړاندی کونکي}} , <br />ذخایر - 40&nbsp;kg
 |С<sub>21</sub>=3 Afg./kg
 |С<sub>22</sub>=2 Afg./kg
 |С<sub>23</sub>=5 Afg./kg
 |С<sub>24</sub>=1 Afg./kg
 |-
-!A<sub>3</sub> {{زرغون|وړاندی کونکي}} , <br />ذخایر - 20 kg
+!A<sub>3</sub> {{زرغون|وړاندی کونکي}} , <br />ذخایر - 20&nbsp;kg
 |С<sub>31</sub>=4 Afg./kg
 |С<sub>32</sub>=3 Afg./kg
 |С<sub>33</sub>=2 Afg./kg
 |С<sub>34</sub>=6 Afg./kg
 |}
 
-
 مونږ باید خپل پلان داسی جوړ کړو ترڅو هغومره د موادو ذخیری چی په لاس کی لرو ، په هغه اندازه د غوښتونکو اړتیاوی پری پوره کرو.
-
-
 
 {| border="1" cellpadding="10" style="border-collapse: collapse; border: 1px solid black;"
 |-
 !style="width:70pt"|
-!style="width:70pt"|B<sub>1</sub>, 20 kg
-!style="width:70pt"|B<sub>2</sub>, 30 kg
-!style="width:70pt"|B<sub>3</sub>, 30 kg
-!style="width:70pt"|B<sub>4</sub>, 10 kg
+!style="width:70pt"|B<sub>1</sub>, 20&nbsp;kg
+!style="width:70pt"|B<sub>2</sub>, 30&nbsp;kg
+!style="width:70pt"|B<sub>3</sub>, 30&nbsp;kg
+!style="width:70pt"|B<sub>4</sub>, 10&nbsp;kg
 |-
-!A<sub>1</sub>, 30 kg
-|style="background:lightgreen"| X<sub>11</sub>=20 kg
-|style="background:lightgreen"| Х<sub>12</sub>=10 kg
+!A<sub>1</sub>, 30&nbsp;kg
+|style="background:lightgreen"| X<sub>11</sub>=20&nbsp;kg
+|style="background:lightgreen"| Х<sub>12</sub>=10&nbsp;kg
 |
-|
-|-
-!A<sub>2</sub>, 40 kg
-|
-|style="background:lightgreen"|Х<sub>22</sub>=20 kg
-|style="background:lightgreen"|Х<sub>23</sub>=20 kg
 |
 |-
-!A<sub>3</sub>, 20 kg
+!A<sub>2</sub>, 40&nbsp;kg
+|
+|style="background:lightgreen"|Х<sub>22</sub>=20&nbsp;kg
+|style="background:lightgreen"|Х<sub>23</sub>=20&nbsp;kg
+|
+|-
+!A<sub>3</sub>, 20&nbsp;kg
 |
 |
-|style="background:lightgreen"|Х<sub>33</sub>=10 kg
-|style="background:lightgreen"|Х<sub>34</sub>=10 kg
+|style="background:lightgreen"|Х<sub>33</sub>=10&nbsp;kg
+|style="background:lightgreen"|Х<sub>34</sub>=10&nbsp;kg
 |}
 == د حمل او نقل د تیوری حل، د پټانسیل پواسطه ==
 === 1. د حجم د ویښ د صحت تائید ===
 
-<ref>معادله از ردیف: <math>\sum^{n}_{j=1}{X_{ij}}=a_i ~ (i=1,2,...m)</math>; معادله از ستون: <math>\sum^{m}_{i=1}{X_{ij}}=b_j ~ (j=1,2,...n)</math>. </ref><ref name="d1966"/>{{rp|297}}
+<ref>معادله از ردیف: <math>\sum^{n}_{j=1}{X_{ij}}=a_i ~ (i=1,2,...m)</math>; معادله از ستون: <math>\sum^{m}_{i=1}{X_{ij}}=b_j ~ (j=1,2,...n)</math>.</ref><ref name="d1966"/>{{rp|297}}
 
 В показанном выше примере,
 * Для 1-й строки: 30 кг = 20 + 10 кг
@@ -70,43 +67,44 @@
 * Для 2-го столбца: 30 кг = 10 + 20 кг
 * Для 3-го столбца: 30 кг = 20 + 10 кг
 * Для 4-го столбца: 10 кг = 10 кг
-=== 2. د حمل او نقل د ټول لګښت محاسبه ===
+=== 2. د حمل او نقل د ټول لگښت محاسبه ===
 ریاضی حساب کی داسی لیکل کیږی:
 <math>L(X)=\sum^{n}_{j=1}{ \sum^{m}_{i=1}{   C_{ij}X_{ij}    } }</math>
 
 {| border="1" cellpadding="10" style="border-collapse: collapse; border: 1px solid black;"
 |-
 !style="width:70pt"|
-!style="width:70pt"|B<sub>1</sub>, 20 kg
-!style="width:70pt"|B<sub>2</sub>, 30 kg
-!style="width:70pt"|B<sub>3</sub>, 30 kg
-!style="width:70pt"|B<sub>4</sub>, 10 kg
+!style="width:70pt"|B<sub>1</sub>, 20&nbsp;kg
+!style="width:70pt"|B<sub>2</sub>, 30&nbsp;kg
+!style="width:70pt"|B<sub>3</sub>, 30&nbsp;kg
+!style="width:70pt"|B<sub>4</sub>, 10&nbsp;kg
 |-
-!A<sub>1</sub>, 30 kg
-|style="background:lightgreen"| С<sub>11</sub>=2 Afg./kg, <br />X<sub>11</sub>=20 kg
-|style="background:lightgreen"| С<sub>12</sub>=3 Afg./kg, <br />Х<sub>12</sub>=10 kg
+!A<sub>1</sub>, 30&nbsp;kg
+|style="background:lightgreen"| С<sub>11</sub>=2 Afg./kg, <br />X<sub>11</sub>=20&nbsp;kg
+|style="background:lightgreen"| С<sub>12</sub>=3 Afg./kg, <br />Х<sub>12</sub>=10&nbsp;kg
 |С<sub>13</sub>=2 Afg./kg
 |С<sub>14</sub>=4 Afg./kg
 |-
-!A<sub>2</sub>, 40 kg
+!A<sub>2</sub>, 40&nbsp;kg
 |С<sub>21</sub>=3 Afg./kg
-|style="background:lightgreen"|С<sub>22</sub>=2 Afg./kg, <br />Х<sub>22</sub>=20 kg
-|style="background:lightgreen"|С<sub>23</sub>=5 Afg./kg, <br />Х<sub>23</sub>=20 kg
+|style="background:lightgreen"|С<sub>22</sub>=2 Afg./kg, <br />Х<sub>22</sub>=20&nbsp;kg
+|style="background:lightgreen"|С<sub>23</sub>=5 Afg./kg, <br />Х<sub>23</sub>=20&nbsp;kg
 |С<sub>24</sub>=1 Afg./kg
 |-
-!A<sub>3</sub>, 20 kg
+!A<sub>3</sub>, 20&nbsp;kg
 |С<sub>31</sub>=4 Afg./kg
 |С<sub>32</sub>=3 Afg./kg
-|style="background:lightgreen"|С<sub>33</sub>=2 Afg./kg, <br />Х<sub>33</sub>=10 kg
-|style="background:lightgreen"|С<sub>34</sub>=6 Afg./kg, <br />Х<sub>34</sub>=10 kg
+|style="background:lightgreen"|С<sub>33</sub>=2 Afg./kg, <br />Х<sub>33</sub>=10&nbsp;kg
+|style="background:lightgreen"|С<sub>34</sub>=6 Afg./kg, <br />Х<sub>34</sub>=10&nbsp;kg
 |}
 
-زمونږ په دی مثال کښی د بار د انتقال لګښت برابر دی له:
+زمونږ په دی مثال کښی د بار د انتقال لگښت برابر دی له:
 
 افغانی 290= 2×20 + 3×10 + 2×20 + 5×20 + 2×10 + 6×10.
 ==اخځلیک==
 * [http://vfrta.ru/apps/rta/add_files/files/doc_dep_management_trening.pdf]
-[[وېشنيزه:اقتصاد]] 
-[[وېشنيزه:ریاضی]] 
-[[وېشنيزه:اقتصادی ریاضی]] 
+
+[[وېشنيزه:اقتصاد]]
+[[وېشنيزه:ریاضی]]
+[[وېشنيزه:اقتصادی ریاضی]]
 [[وېشنيزه:ټرانسورت]]
