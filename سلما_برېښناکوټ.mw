@@ -1,9 +1,9 @@
 {{Infobox dam
-| name                 = Salma Dam
-| name_official        = 
+| name                 = سلما بند
+| name_official        = افغان-هند دوستي بند
 | image                =
-| image_size           = 300
-| image_caption        =Salma Dam's progress in 2012
+| image_size           = 
+| image_caption        = 
 | image_alt            = 
 | location_map         = Afghanistan
 | location_map_size    = 
@@ -17,26 +17,26 @@
 | long_s               = 31
 | long_EW              = E
 | coordinates_type     = type:landmark
-| coordinates_display  = inline,title
-| coordinates_ref      = 
-| country              = [[Afghanistan]]
-| location             = [[Chishti sharif District]], [[Herat Province]]
-| status               =UC 
-| construction_began   = 1976<ref name="embassyjap">http://www.afghanembassyjp.com/en/news/947</ref>
-| opening              = 2015 (est.)
+| coordinates_display  = title
+| country              = [[افغانستان]]
+| location             = [[چشت شریف ولسوالۍ]], [[هرات ولايت]]
+| status               = بشپړ شوي
+| construction_began   = 1976
+| opening              = 4 جون 2016
 | demolished           = 
-| cost                 = US$200&nbsp;million
-| owner                = WAPCOS
-| dam_type             = 
+| cost                 = ۲۹۰&nbsp;میلیونه&nbsp;امریکایی ډالره
+| owner                = 
+| operator             = WAPCOS
+| dam_type             = Embankment, earth and rock-fill
+| dam_crosses          = [[هریرود|هریرود]]
 | dam_height           = {{convert|107.5|m|ft|0|abbr=on}}
-| dam_height_thalweg   =
-| dam_height_foundation=
+| dam_height_foundation= 
+| dam_height_thalweg   = 
 | dam_length           = {{convert|551|m|ft|0|abbr=on}}
+| dam_elevation_crest  = 
 | dam_width_crest      = 
 | dam_width_base       = 
 | dam_volume           = 
-| dam_elevation_crest  =
-| dam_crosses          = [[Hari River, Afghanistan|Hari River]]
 | spillway_count       = 
 | spillway_type        = 
 | spillway_capacity    = 
@@ -46,18 +46,28 @@
 | res_capacity_inactive= {{convert|633|e6m3|acre feet|0|abbr=on}}
 | res_catchment        = {{convert|11700|km2|sqmi|-2|abbr=on}}
 | res_surface          = 
-| res_elevation        =
+| res_max_length       = 
+| res_max_width        = 
 | res_max_depth        = 
-| res_max_length       =
-| res_max_width        =
+| res_elevation        = 
 | res_tidal_range      = 
+| plant_name           = 
+| plant_lat_d   = 
+| plant_lat_m   = 
+| plant_lat_s   = 
+| plant_lat_NS  = 
+| plant_long_d  = 
+| plant_long_m  = 
+| plant_long_s  = 
+| plant_long_EW = 
 | plant_operator       = 
 | plant_commission     = 
 | plant_decommission   = 
 | plant_type           = 
-| plant_turbines       = 3 X 14&nbsp;MW
-| plant_capacity       = 
-| max_planned_cap      = 42&nbsp;MW
+| plant_hydraulic_head = 
+| plant_turbines       = 3 × 14&nbsp;MW
+| plant_capacity       = 42&nbsp;MW 
+| plant_capacity_factor= 
 | plant_annual_gen     = 86.6&nbsp;GWh
 | website              = 
 | extra                = 
