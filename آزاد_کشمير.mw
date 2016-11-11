@@ -1,36 +1,99 @@
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-|- style="background-color:lightblue;"
-! colspan="2" | ''' آزاد کشمیر '''<br /> آزاد جموں و کشمیر <br />
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:Kashmir map.jpg|200px]]<br />
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:Flag of Azad Kashmir.svg|100px]]
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:Azad Kashmir in Pakistan (disputed hatched) (claims hatched).svg|200px]]<br />
-|-
-! align="right" valign="top" |مرکز
-|[[مظفرآباد]]  
-|-
-! align="right" valign="top" |مساخت
-|۱۳،۲۹۷
-|-
-! align="right" valign="top" |د نفوس شمېر
-|۳،۹۶۵،۹۹۹
-|-
-! align="right" valign="top" |ژبې
-|[[اوردو ژبه|اردو]]<br />پنجابی ژبه<br />کشميری ژبه 
-|-
-! align="right" valign="top" |رایجې پیسې
-|پاکستانی روپیه
-|-
-|}
+{{Infobox settlement
+| name                   = آزاد جمو او کشمیر
+| native_name            = {{Nastaliq|آزاد جموں و کشمیر}}<br/>''Āzād Jammū̃ o Kaśmīr''
+| native_name_lang       = ur<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = [[د پاکستان تر ولکې لاندي کشمير]]
+| image_skyline          = 
+{{Photomontage
+| photo1a = Azad kashmir.jpg
+| photo2a = Azad kashmir PAKISTAN.jpg
+| photo2b = Toli Peer, Rawlakot, Azad Kashmir, Pakistan.jpg
+| photo3a = Neelum Jehlum Project (cropped).jpg
+| photo3b = 
+| photo4a = 
+| size = 250
+| position = center
+| spacing = Number indicating width of spacing between the images (default: 1)
+| color = Color of spacing between the images (default: black)
+| border = Number indicating width of border surrounding the montage (default: 1)
+| color_border = Color of border surrounding the montage (default: black)
+| text =
+| text_background = Color of background behind text (default: #F8F8FF)
+| foot_montage = Top Left to Right: [[Neelam Valley]], [[Leepa Valley]], [[Toli Pir]], [[Neelum–Jhelum Hydropower Plant]], [[Neelam Valley]] and [[Muzafarabad]]
+}}
+| image_alt              = 
+| image_caption          =
+| image_flag             = Flag of Azad Kashmir.svg
+| flag_alt               = 
+| image_seal             =
+| nickname               = 
+| image_map              = Azad Kashmir in Pakistan (claims hatched).svg
+| map_alt                = 
+| map_caption            = Azad Jammu and Kashmir (AJK) is shown in red. Rest of Pakistan is shown in white and rest of Jammu and Kashmir is hatched showing area with Pakistan's territorial claim
+| latd                   = 34.22
+| longd                  = 73.28
+| coor_pinpoint          = 
+| coordinates_type       = 
+| coordinates_display    = inline,title
+| coordinates_footnotes  = 
+| subdivision_type       = هېواد
+| subdivision_name       = {{flag|Pakistan}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| established_title      = جوړېدنه
+| established_date       = اکتوبر 24, 1947 ([[Azad Kashmir Day]] ({{Nastaliq|یوم تاسیس}}))
+| seat_type              = پلازمېنه
+| seat                   = [[مظفر آباد]]
+| parts_type             = لوي ښار
+| parts_style            = پارا
+| p1                     = [[w:Mirpur, Azad Kashmir|مېرپور]]
+| government_footnotes   = 
+| government_type        = [[Self-governance|Self-governing]] state under Pakistani administration<ref name=brit/><ref name="BBC">{{cite news|title=Kashmir profile |url=http://www.bbc.com/news/world-south-asia-11693674 |date=26 November 2014 |work=BBC |accessdate=July 24, 2015 |archiveurl=http://www.webcitation.org/6aGhgieMq?url=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-south-asia-11693674 |archivedate=July 24, 2015 |deadurl=no |df=mdy }}</ref><ref name="GBOOK"/><ref name="BirdVaillancourt2008">{{cite book|author1=Richard M. Bird|author2=François Vaillancourt|title=Fiscal Decentralization in Developing Countries|url=https://books.google.com/books?id=_wraZ5HEMasC&pg=PA127|date=4 December 2008|publisher=Cambridge University Press|isbn=978-0-521-10158-5|pages=127–}}</ref><ref name="Herald">{{cite news|title=Territorial limits |url=http://herald.dawn.com/news/1153046 |date=May 7, 2015 |work=Herald |accessdate=July 24, 2015 |quote=These are self-ruled autonomous regions. |archiveurl=http://www.webcitation.org/6aGjS9OQz?url=http%3A%2F%2Fherald.dawn.com%2Fnews%2F1153046 |archivedate=July 24, 2015 |deadurl=no |df=mdy }}</ref>
+| governing_body         = [[Azad Jammu & Kashmir Legislative Assembly]]
+| leader_party           = 
+| leader_title           = [[w:List of Governors of Pakistan|مشر]]
+| leader_name            = [[مسعود خان]]
+| leader_title1          = [[List of Chief Ministers in Pakistan|لمړی&nbsp;وزیر]]
+| leader_name1           = [[فاروق حیدر خان]] ([[Pakistan Muslim League (N)]])
+| unit_pref              = Metric<!-- or US or UK -->
+| area_footnotes         = 
+| area_total_km2         = 13,297
+| area_note              = 
+| elevation_footnotes    = 
+| elevation_m            = 
+| population_total       = 4,567,982
+| population_as_of       = 2008; est.
+| population_footnotes   = 
+| population_density_km2 = auto
+| population_demonym     = 
+| population_note        = 
+| timezone1              = [[w:Time in Pakistan|PKT]]
+| utc_offset1            = +5
+| postal_code_type       = 
+| postal_code            = 
+| area_code              = 
+| area_code_type         = 
+| iso_code               = PK-JK
+| blank_name_sec1        = [[w:Languages of Pakistan|ژبې]]
+| blank_info_sec1        = {{vunblist|[[اردو]] (رسمي ژبه)|[[پاراهي ژبه|پوتوهوري]]|[[پوتوهوري ژبه|مېرپوري]]|[[ګوجري]]|[[هېندکو]]|[[پنجابي ژبه|پنجابي]]|[[پښتو ژبه|پښتو]]}}
+| blank_name_sec2        = Assembly seats
+| blank_info_sec2        = 49
+| blank1_name_sec2       = [[w:Districts of Pakistan|ولسوالۍ]]
+| blank1_info_sec2       = 10
+| website                = [http://www.ajk.gov.pk/ www.ajk.gov.pk]
+| footnotes              = 
+|image emblem            =  BTA_ajk1.svg
+| coordinates_region     = PK
+| blank2_name_sec2       = ښارګوټي
+| blank2_info_sec2       = 19
+| blank3_name_sec2       = [[w:Union Councils of Pakistan|اتحادي شوراګانې]]
+| blank3_info_sec2       = 182
+}}
 ''' آزاد کشمير''' یا '''د پاکستان تر ولکې لاندي کشمير''' د [[کشمیر]] هغه سیمه چې د پاکستان دولت د واکمنۍ لاندې  ده . دې سیمې ته آزاد جمو او کشمیر (اردو: {{Nastaliq|آزاد جموں و کشمیر}} ) هم ویل کیږي . دا سیمه هغه وخت د هندوستان څخه پاکستان ته ورکړل شوه ، کله چې په ۱۹۴۷ زږدیزکال کې د دواړو هیوادونو تر منځ د لومړۍ کشمیر جنګ وشو. که څه دغه سیمه د پاکستان د اداري کړنو له لاندې راځي خو دا یو خپلواکه سیمه ده .
 
 
-
+==سرچينې==
+{{Reflist|2}}
 
 
 {{د پاکستان سياسي جغرافي وېش}}
