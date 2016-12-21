@@ -33,4 +33,18 @@
 ! align="right" valign="top" |وېبسایټ
 | www.hedmark.org
 |-
-|}هدمارک د ناروی هیوادد ۱۹ برخو سه یوه برخه ده
+|}
+
+{{bar box
+|title=مذهب یا نور سه 
+|titlebar=#ddddd
+|left1=مذهب
+|right31=فیصد
+|float=right
+|bars=
+{{bar percent|[[مسيحيت]]|Purple|89.10}}
+{{bar percent|[[اسلام]]|Green|0.75}}
+{{bar percent|[[بوديزم]]|Red|0.18}}
+{{bar percent|اونور|Blue|9.97}} 
+}} 
+هدمارک د ناروی هیوادد ۱۹ برخو سه یوه برخه ده
