@@ -1,43 +1,41 @@
 {{Infobox settlement
 <!--See the Table at Infobox settlement for all fields and descriptions of usage-->
 <!-- Basic info  ---------------->
-|name                   = Kabul.
-|native_name            = کابل
+|name                   = کابل
+|native_name            = kabul
 |settlement_type        = [[دافغانستان ښارونه|ښار]]
 <!-- images and maps  ----------->
 |image                  = {{Photomontage
-|photo1a = Section of Kabul in October 2011.jpg{{!}}Overview of a section of Kabul City
-|photo2a = Atlas Air flying off from Kabul Airport in 2010.jpg{{!}}Kabul International Airport
-|photo2b = Abdul Rahman Mosque in March 2010.jpg{{!}}Abdul Rahman Mosque
-|photo3a = GOB-September 2011.jpg{{!}}Babur Gardens
-|photo3b = Garden area of the Serena Hotel in Kabul.jpg{{!}}Serena Hotel
-|photo4a = A view from Kabul InterContinental.jpg{{!}}Inter-Continental Hotel
-|photo4b = Wazir Akbar Khan neighborhood.jpg{{!}}Wazir Akbar Khan
+|photo1a = Section of Kabul in October 2011.jpg
+|photo2a = Atlas Air flying off from Kabul Airport in 2010.jpg
+|photo2b = Abdul Rahman Mosque in March 2010.jpg
+|photo3a = GOB-September 2011.jpg 
+|photo3b = Garden area of the Serena Hotel in Kabul.jpg
+|photo4a = A view from Kabul InterContinental.jpg
+|photo4b = Wazir Akbar Khan neighborhood.jpg
 |size    = 300
-|border  = 0
-|color   =
-|foot_montage = From top left to right: Overview of a section of Kabul City; [[Kabul International Airport]]; [[Abdul Rahman Mosque]]; [[Gardens of Babur]]; [[Kabul Serena Hotel|Serena Hotel]]; [[Hotel Inter-Continental Kabul|Inter-Continental Hotel]]; [[Wazir Akbar Khān]]}}
-|image_flag             =
-|flag_size              =
-|image_seal             =
-|seal_size              =
-|image_shield           =
-|shield_size            =
-|image_blank_emblem     =
-|blank_emblem_type      =
-|blank_emblem_size      =
-|image_map              =
-|mapsize                =
-|map_caption            =
-|pushpin_map            = Afghanistan
-|pushpin_label_position = Above
-|pushpin_label          = '''کابل'''
-|pushpin_mapsize        = 300px
-|pushpin_map_caption    = د افغانستان په نخشه کې کابل 
+|border  = 0 
+|color   =white
+|foot_montage = د چپه طرف څخه راسته طرف ته: د کابل ښار په يوه برخه کې کتنه؛ [[حامد کرزی نړيوال هوايي ډگر]]. [[د عبدالرحمان جومات]]. [[بابر بڼ]]. [[د کابل سرینا هوټل]]. [[ انټرکانټنينټال هوټل کابل]].[[وزیر آکبر خان]]}}
+| image_flag             = 
+| image_seal             = 
+| image_shield           = 
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Afghanistan#Asia
+| pushpin_label_position = above
+| pushpin_mapsize        = 300
+| pushpin_map_caption    = 
+| pushpin_relief         = 1
+| latd = 34 | latm = 32| latNS = N
+| longd = 69 | longm = 10| longEW = E
+<!-- Location ------------------>
+| coordinates_display    = inline,title
+| coordinates_region     = AF
 <!-- Location ------------------>
 |coordinates_region     = AF
 |subdivision_type       = هېواد
-|subdivision_name       = {{Flag|افغانستان}}
+|subdivision_name       ={{افغانستان}}
 |subdivision_type1      = [[د افغانستان ولايتونه|ولايت]]
 |subdivision_name1      = [[کابل ولايت|کابل]]
 |subdivision_type2      =
