@@ -1,56 +1,83 @@
-{{Infobox
-|نوم =د هېوادمشر مالوماتبکس
-|title   ={{{ډونلډ ټرمپ|}}}
-|image ={{{انځور|}}}
-
-|caption ={{{د انځور څرگندونې|{{{د انځور څرگندونې|}}}}}}
-
-|headerstyle  = background:#ccf;
-
-|header1 =پېژنليک
-|label2  =بشپړ نوم
-|data2   ={{{بشپړ نوم|}}}
-|label3  =مشهور په
-|data3   ={{{مشهور په|}}}
-|label4  =د زېږېدو نېټه
-|data4   ={{{د زېږېدو نېټه|}}}
-|نيو يارک  =د زېږېدنې ځای
-|data5   ={{{د زېږېدنې ځای|}}}
-|label6  =د مړينې نېټه
-|data6   ={{{د مړينې نېټه|}}}
-|label7  =د مړينې ځای
-|data7   ={{{د مړينې ځای|}}}
-|label8  =ماندينه
-|data8   ={{{ماندينې|{{{ماندينه|}}}}}}
-|label9  =اولادونه
-|data9   ={{{اولادونه|}}}
-|label10  =دين
-|data10   ={{{دين|}}}
-|label11  =مور او پلار
-|data11   ={{{مور او پلار|}}}
-
-|header12 = سياسي مالومات
-|label13  = د کار موده
-|data13   = {{{د کار موده|}}}
-|label14  = ترتيب
-|data14   = {{باراک اوباما  = مخکينی هېوادمشر
-|data15   = {{{مخکينی هېوادمشر|}}}
-|label16  = وروستنی هېوادمشر
-|data16   = {{{وروستنی هې  = لومړی مرستيال
-|data17   = {{{لومړی مرستيال|}}}
-|label18  = سياسي اړخ
-|data18   = {{{سياسي اړخ|}}}
-|ريپبليک = گوند
-|data19   = {{{گوند|}}}
-|label20  = نورې دندې
-|data20   = {{{نورې دندې|}}}
-|label21  = رسمي وېبپاڼه
-|data21   = {{{رسمي وېبپاڼه|}}}
-
-|belowstyle = background:#ddf;
-|below = 
-}}<noinclude>{{لاسوند}}</noinclude>
-
-
-
-ډونلډ ټرمپ د امريکا متحده ايالاتو ټاکل شوی ولسمشر دی. هغوی د ۲۰۱۶ کال ولسمشرۍ ټاکنې وګټلی.
+{| class=infobox <!-- helpdocs:  https://en.wikipedia.org/wiki/WP:OUTBOX --> 
+|-
+| colspan=2 | <center><big><big>'''ډونلډ ټرمپ'''</big></big></center>
+|-
+| colspan=2 | <center>{{#invoke:InfoboxImage | InfoboxImage
+  | image = Donald Trump August 19, 2015 (cropped).jpg<!-- DO NOT CHANGE without prior consensus, see [[Talk:Donald Trump#Current consensuses and RfCs]]. -->
+  | upright = 1
+  | alt = Portrait of Donald Trump during a campaign event on August 19, 2015
+}}</center>
+|-
+| colspan=2 style="background:#E6E6FA" | <center>'''[[د امریکا د متحده ایالاتو  نوي ټاکل شوي ولسمشر]]'''</center>
+|-
+| colspan=2 |<center>''' اخلي دفتر'''<br/>جنوري 20, 2017</center>
+|-
+| '''د ولسمشر مرستیال''' || [[مایک پینس]] (ټاکل سوی)
+|-
+| '''برياليتوب''' || [[باراک حسين اوباما]]
+|-
+| colspan=2 style="background:#E6E6FA" | <center>'''[[ د ټرمپ سازمان مشر]]'''</center>	
+|-
+| '''وظيفه''' || [[منقوله پرمختګ]]
+|-
+| '''کلونو کې فعال''' || 1971&ndash;2017
+|-
+| '''وو- له خوا''' || [[فرید ټرمپ]]
+|-
+| ''' پیژندل سوی''' || [[ټرمپ برج]], [[مارا لوګو]]
+|-
+| '''خالص ارزښت''' || 3.7 میلیارده امریکایی ډالر
+|-	
+| '''[[ټرامپ: د معاملې هنر|کتابونه]]''' || [[ټرامپ: د معاملې هنر]]
+|-
+| '''[[ډونلډ ټرمپ ټلويزيونی پیژندنه]]'''
+ |[[ډونلډ ټرمپ ټلويزيونی پیژندنه]] ''' || 
+|-	
+| '''وېب پاڼه''' || {{URL|https://Trump.com/biography|trump.com}}
+|-
+| colspan=2 style="background:#E6E6FA" | <center>'''شخصي معلومات'''</center>
+|- 
+|'''زېږېدل''' || ډونلد جان ټرمپ<br>{{Birth date and age|mf=yes|1946|6|14}}<br>[[نيويارک (ښار)|نيويارک]]
+|-
+| '''ګوند''' || {{ubl
+   | [[د جمهوريت ګوند (متحده ايالات)]]<br>{{*}}2012–present<br>{{*}}2009–11<br>{{*}}1987–99<ref name="politifact">{{cite news|last=Gillin|first=Joshua|title=Bush says Trump was a Democrat longer than a Republican 'in the last decade'|work=[[PolitiFact]]|date=August 24, 2015|url=http://www.politifact.com/florida/statements/2015/aug/24/jeb-bush/bush-says-trump-was-democrat-longer-republican-las/|access-date=October 21, 2015}}</ref><ref name="sargent">{{cite news|url=http://archive.boston.com/news/local/massachusetts/blogs/hilary-sargent/2014/01/22/the-man-responsible-for-donald-trump-never-ending-presidential-campaign/95LunCt63n3xKoq5DyJNFI/blog.html|title=The Man Responsible for Donald Trump's Never-Ending Presidential Campaign|last=Sargent|first=Hilary|date=January 22, 2014|website=[[Boston.com]]|quote=A New Hampshire Republican activist named Mike Dunbar dreamed up the idea of a Donald Trump presidency [in] early summer of 1987... Dunbar launched a 'Draft Trump' campaign... Stories about a possible Trump presidency ran in newspapers across the country... (Trump was registered as a Democrat at the time...)}}</ref>}}
+|-
+|'''نور ګوندونه ''' || {{ubl
+   | [[Reform Party of the United States of America|Reform]] (1999–2001)
+   | [[Democratic Party (United States)|Democratic]] (2001–09)
+   | [[Independent politician|Independent]] (2011–12)
+}}
+|-
+| '''ودونه''' || {{unbulleted list|{{marriage|[[Ivana Trump|Ivana Zelníčková]]|April 7, 1977|1992}}|{{marriage|[[Marla Maples]]|December 20, 1993|1999}}|{{marriage|[[Melania Trump|Melania Knauss]]|January 22, 2005}}}}
+|-
+| '''ماشومان''' || {{plainlist|
+* [[Donald Trump Jr.]] {{b.|1977}}
+* [[Ivanka Trump]] {{b.|1981}}
+* [[Eric Trump]] {{b.|1984}}
+* [[Tiffany Trump]] {{b.|1993}}
+* [[Barron Trump]] {{b.|2006}}
+}}
+|-
+| '''رابطه''' || [[Trump family]]
+|-
+| ''' اقامت''' || [[Trump Tower]], New York City <!-- [[White House]], Washington D.C. (do not reveal until Trump moves in) -->
+|-
+| '''[[د تحصيل ځاۍ]]''' || [[University of Pennsylvania]] ([[Bachelor of Science|BS]])
+|-
+| '''وظيفه''' || {{unbulleted list| [[The Trump Organization|Real estate developer]] | [[The Apprentice (TV series)|Television producer and host]]}}
+|-
+| '''خالص ارزښت''' || [[USD|$]]4.5 billion<!-- DO NOT CHANGE without prior consensus, see [[Talk:Donald Trump#Current consensuses and RfCs]]. --><ref name="forbes-2016-billionaires" />
+|-
+| '''لاسلیک''' || {{#invoke:InfoboxImage | InfoboxImage
+  | image = Donald Trump Signature.svg
+  | alt = Donald J Trump stylized autograph, in ink
+  | size = 120
+}}
+|-
+| '''وېب پاڼه''' || {{URL|https://greatagain.gov}}<!-- https://www.whitehouse.gov   (do not reveal until Trump is inaugurated please) --> 
+<!-- hide pending further discussion
+| '''Campaign''' || {{URL|https://donaldjtrump.com}}
+-->
+|-
+| '''ټویټر''' || [https://twitter.com/realDonaldTrump @realDonaldTrump]
+|}
