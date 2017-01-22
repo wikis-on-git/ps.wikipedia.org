@@ -1,4 +1,39 @@
-[[دوتنه:Facebook.svg|کيڼ|250px|بټنوک|فېس بوک]]
+
+{{مالوماتبکس ويب سايټ
+| name                   =فېس بوک
+| logo                   = Facebook New Logo (2015).svg
+| collapsible            = yes
+| collapsetext           = سکریت شاټ
+| screenshot             = Facebook user page (2014).jpg
+| screenshot size        = 300px
+| caption                = سکریت شاټ
+| company_type           = [[Public company|Public]]
+| website_type           = [[Social networking service]]
+| language               = [[Multilingualism|Multilingual]] (140)
+| traded_as              = {{unbulleted list|{{NASDAQ|FB}}|[[NASDAQ-100|NASDAQ-100 Component]]|[[S&P 100|S&P 100 Component]]|[[S&P 500 Index|S&P 500 Component]]}}
+| foundation             = {{Start date and age|2004|02|04|df=no|p=no|br=no}}
+| location               = 
+| location_city          = [[Menlo Park, California]]
+| location_country       = [[United States]]
+| area_served            = United States (2004–05)<br />Worldwide, except [[Censorship of Facebook|blocking countries]] (2005–present)
+| coordinates            = {{coord|37.4848|-122.1484|type:landmark_region:US-CA|display=inline,title}}
+| founder                = {{Unbulleted list|[[Mark Zuckerberg]]|[[Eduardo Saverin]]|[[Andrew McCollum]]|[[Dustin Moskovitz]]|[[Chris Hughes]]}}
+| key_people             = Mark Zuckerberg<br />([[Chairman]] and [[Chief executive officer|CEO]])<br />[[Sheryl Sandberg]]<br />([[Chief operating officer|COO]])
+| industry               = [[Internet]]
+| revenue                = {{increase}} {{امریکايي ډالر|17.928 بیلیون|link=yes}} (2015)<ref name="10k2015">{{cite web |url=https://www.bamsec.com/filing/132680116000043?cik=1326801|title=10-K Annual Report|work=SEC Filings |publisher=Facebook |accessdate=March 26, 2016|date=January 28, 2016}}</ref>
+| operating_income       = {{increase}} {{امریکايي ډالر|6.225 billion}} (2015)<ref name="10k2015" />
+| net_income             = {{increase}} {{امریکايي ډالر|3.688 billion}} (2015)<ref name="10k2015" />
+| assets                 = {{increase}} {{امریکايي ډالر|49.407 billion}} (2015)<ref name="10k2015" />
+| equity                 = {{increase}} {{امریکايي ډالر|44.218 billion}} (2015)<ref name="10k2015" />
+| num_employees          = 15,724 (September 30, 2016)<ref name=CoInfo>{{cite web | url=http://newsroom.fb.com/company-info/ | title=Company Info {{!}} Facebook Newsroom | publisher=Facebook |date=June 30, 2016}}</ref>
+| subsid                 = [[Instagram]]<br />[[WhatsApp]]<br />[[Oculus VR]]
+| url                    = {{URL|https://www.facebook.com/}} or<br />{{URL|https://www.fb.com/}}
+| alexa                  = {{steady}} 3 ({{as of|2017|01|05|alt=January 2017}})<ref name="alexa">{{cite web|url= http://www.alexa.com/siteinfo/facebook.com |title= Facebook.com Site Info | publisher= [[Alexa Internet]] |accessdate= January 5, 2017 }}</ref>
+| registration           = Required
+| num_users              = {{increase}} 1.79 billion monthly active users (September 30, 2016)<ref name="CoInfo"/>
+| current_status         = فعال
+| programming_language   = [[C++]], [[PHP]] (as [[HipHop Virtual Machine|HHVM]])<ref>{{cite news |url= http://www.theregister.co.uk/2010/02/02/facebook_hiphop_unveiled/ |title=Facebook re-write takes PHP to an enterprise past |last=Clarke |first=Gavin |work=The Register |location =London |date=February 2, 2010}}</ref> and [[D (programming language)|D language]]<ref>{{cite news |url=http://www.drdobbs.com/mobile/facebook-adopts-d-language/240162694|title=Facebook Adopts D Language|last=Bridgwater|first=Adrian |work=Dr Dobb's |location =San Francisco|date=October 16, 2013}}</ref>
+}}
 '''فېسبوک''' (په [[انگريزي]]: '''Facebook''') د [[انټرنټ]] د ټولنيزو وېبځايونو په کتار کې يوه وېبپاڼه ده چې، د نړۍ د بېلابېلو هېوادونو وگړي پکې ځانونه ثبتوي او يو د بل سره اړيکې ټينگوي. د دې وېبځي بنسټ د لومړي ځل لپاره په ۲۰۰۴ ز. کال کې ايښودل شوی. دم مهال له ۶۰۰ ميليونو نه ډېرو وگړو په فېس بوک کې ځانته پاڼې جوړې کړي. دا وېبپاڼه په بشپړ توگه وړيا او ليدنمخ يې په گڼ شمېر ژبو کې ژباړل شوی.
 [[مارک زوکربرگ]] د دې پاڼې جوړوونکى دى، چې د ١٩٨٤م کال د مې پر ١٤ مه په امريکا کې زېږېدلى، چې په ٢٠١٠ م کال کې د ټايم مجلې د کال غوره شخصيت و. د نوموړي شخصي شتمني دا مهال تر ١٣ نيم مليارده ډالرو اوښتې ده.
 
@@ -6,6 +41,7 @@
 [[وېشنيزه:ټولنيزې وېبپاڼې]]
 [[وېشنيزه:انټرنیټ]]
 [[وېشنيزه:د انټرنېټ ټولنيزې وېبپاڼې]]
+
 ==د فېسبوک زیانونه==
 فېسبوک د ځوانانو د خپګان سبب شوی
 که ستاسو زړه تل خپه وي او یا د ستړیا احساس کوئ، نو د دې لوی علت دا دی چې له فېسبوکه ډېر کار اخلئ.
