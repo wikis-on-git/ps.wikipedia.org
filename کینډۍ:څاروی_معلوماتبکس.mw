@@ -1,1 +1,111 @@
 {{لاسوند}}
+{{Infobox
+| bodyclass  = biography biota
+
+| title      = {{{name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image size|{{{image_size|{{{imagesize|}}}}}}}}}|upright={{{image_upright|1}}}|alt={{{alt|}}}}}
+| caption    = {{{caption|}}}
+
+| label1     = Other name(s)
+| data1      = {{{othername|}}}
+
+| label2     = [[Species]]
+| class2     = binominal
+| data2      = {{{species|}}}<includeonly>{{#if:{{{species|}}}|{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Category:Articles with 'species' microformats]]}}}}</includeonly>
+
+| label3     = [[Breed]]
+| class3     = breed
+| data3      = {{{breed|}}}<includeonly>{{#if:{{{breed|}}}|{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Category:Articles with 'species' microformats]]}}}}</includeonly>
+
+| label4     = جنسي اړيکي
+| data4      = {{{جنس|}}}
+
+| label5     = Born
+| data5      = {{br separated entries|{{#if:{{{birth_name|}}}|<span class="nickname">{{{birth_name|}}}</span>}}|{{{birth_date|}}}|{{{birth_place|}}}}}
+
+| label6     = Hatched
+| data6      = {{br separated entries|{{#if:{{{hatch_name|}}}|<span class="nickname">{{{hatch_name|}}}</span>}}|{{{hatch_date|}}}|{{{hatch_place|}}}}}
+
+| label7     = Died
+| data7      = {{br separated entries|{{{death_date|}}}|{{{death_place|}}}}}
+
+| label8     = Resting place
+| class8     = label
+| data8      = {{br separated entries|{{{resting_place|}}}|{{{resting_place_coordinates|}}}}}
+
+| class9     = category
+| label9     = Nation from
+| data9      = {{{nationality|}}}
+
+| label10    = وظيفه
+| class10    = role
+| data10     = {{{وظيفه|}}}
+
+| label11    = Employer
+| class11    = org
+| data11     = {{{employer|}}}
+
+| label12    = د يادولو وړ رول
+| data12     = {{{رول|}}}
+
+| label13    = د فعالیت کال
+| data13     = {{{فعالیت کال|}}}
+
+| label14    = Known&nbsp;for
+| data14     = {{{known_for|{{{known|}}}}}}
+
+| label15    = [[حیواناتو روزنه| روزنې]]
+| data15     = {{{چلونه|}}}
+
+| label16    =[[ نوم (څاروي) | عنوان]]
+| data16     = {{{سرليک|}}}
+
+| label17    = اصطلاح
+| data17     = {{{اصطلاح|}}}
+
+| label18    = Predecessor
+| data18     = {{{predecessor|}}}
+
+| label19    = Successor
+| data19     = {{{successor|}}}
+
+| label20    = Owner
+| data20     = {{{owner|}}}
+
+| label21    = Residence
+| data21     = {{{residence|}}}
+
+| label22    = Parents
+| data22     = {{{parents|}}}
+
+| label23    = Offspring
+| data23     = {{{children|}}}
+
+| label24    = وزن
+| data24     = {{convinfobox|{{{weight_kg|}}}|kg|{{{weight_st|}}}|st|{{{weight_lb|}}}|lb|{{#if:{{{weight_kg|}}}|0}}}}{{{weight|}}}
+
+| label25    = لوړوالی
+| data25     = {{convinfobox|{{{height_cm|}}}|cm|{{{height_ft|}}}|ft|{{{height_in|}}}|in|{{#if:{{{height_in|}}}|0}}}}{{{height|}}}
+
+| label26    = [[Coat (animal)|Appearance]]
+| data26     = {{{appearance|}}}
+
+| label27    = Named after
+| data27     = {{{namedafter|}}}
+
+| label28    = Awards
+| data28     = {{{awards|}}}
+
+| data30     = {{{misc|{{{module|}}}}}}
+| data31     = {{{misc|{{{module2|}}}}}}
+| data32     = {{{misc|{{{module3|}}}}}}
+| data33     = {{{misc|{{{module4|}}}}}}
+| data34     = {{{misc|{{{module5|}}}}}}
+
+| data35   = {{#if:{{{website|}}}|{{{website|}}}}}
+
+| below      = {{#if:{{{footnotes|}}}|'''Notes'''<div style="line-height:1.2em;">{{{footnotes}}}</div>}}
+| belowstyle = border-top:1px solid #aaaaaa; text-align:left
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox animal with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox animal]] with unknown parameter "_VALUE_"|ignoreblank=y| alt | appearance | awards | birth_date | birth_name | birth_place | breed | caption | children | death_date | death_place | employer | footnotes | gender | hatch_date | hatch_name | hatch_place | height | height_cm | height_ft | height_in | image | image size | image_size | image_upright | imagesize | known | known_for | misc | module | module2 | module3 | module4 | module5 | name | namedafter | nationality | occupation | othername | owner | parents | predecessor | residence | resting_place | resting_place_coordinates | role | species | successor | term | title | tricks | website | weight | weight_kg | weight_lb | weight_st | years_active }}<noinclude>{{Documentation}}{{purge}}<!-- Add categories and inter-wikis to the /doc subpage, not here! --></noinclude>
