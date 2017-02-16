@@ -1,0 +1,1 @@
+<includeonly>! scope=col colspan="{{#if:{{{5|}}}|{{{5|}}}|2}}" class="{{#if:{{{3|}}}|{{{3|}}}|entete map}}" style="line-height:1.5em; background-color:#{{#if:{{{2|}}}|{{بدل|{{{2|}}}|#|}}|E1E1E1}};color:#{{#if:{{{4|}}}|{{بدل|{{{4|}}}|#|}}|000000}}" | {{#if:{{{1|}}}|{{{1|}}}|{{PageNameBase}}}} |-</includeonly><noinclude>{{لاسوند}}</noinclude>
