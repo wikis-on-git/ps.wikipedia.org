@@ -1,0 +1,7 @@
+<includeonly>{{#if: {{#invoke:String|match|s={{{1}}}|pattern=^#.|nomatch=}}
+  | <nowiki />#{{#invoke:String|sub|s={{{1}}}|i=2}}
+  | {{#if: {{#invoke:String|match|s={{{1}}}|pattern=^%x%x%x%x%x%x$|nomatch=}}
+           {{#invoke:String|match|s={{{1}}}|pattern=^%x%x%x$|nomatch=}}
+      | <nowiki />#
+    }}{{trim|{{{1}}}}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>
