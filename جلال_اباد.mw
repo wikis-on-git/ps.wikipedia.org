@@ -1,81 +1,76 @@
 {{Infobox settlement
-<!-- Basic info  ---------------->
-|official_name          = جلالکوټ
-|other_name             =
-|native_name            = جلال آباد
-|nickname               = 
-|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
-|motto                  =
-<!-- images and maps  ----------->
-|image                  = {{Photomontage
-|photo1a = Jalalabad in January 2011.jpg{{!}}A panoramic view of a section of Jalalabad
-|photo2a = Bridge in Jalalabad in 2011.jpg{{!}}Jalalabad Bridge
-|photo2b = Jalalabad stadium in 2011.jpg{{!}}Jalalabad Cricket Stadium
-|photo3a = pchowkjaa.jpg{{!}}Pashtunistan Square
-|photo3b = Jalalabad minarets.jpg{{!}}Mosque in Jalalabad
-|photo4a = ghousejaa.jpg{{!}}Governor's House in Jalalabad
-|photo4b = Jalalabad2007.JPG{{!}}Building on a main road
-|size    = 300
-|border  = 0
-|color   = Gray
-|foot_montage =  }}
-|image_flag             = 
-|flag_size              =
-|image_seal             = 
-|seal_size              =
-|image_shield           = 
-|shield_size            =
-|image_blank_emblem     =
-|blank_emblem_type      =
-|blank_emblem_size      =
-|image_map              = 
-|mapsize                = 
-|map_caption            = 
-|image_map1             = 
-|mapsize1               = 
-|map_caption1           = 
-|image_dot_map          =
-|dot_mapsize            =
-|dot_map_caption        =
-|dot_x                  =  
-|dot_y                  =
-|pushpin_map            = Afghanistan <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
-|pushpin_label_position = bottom
-|pushpin_mapsize        = 300px
-|pushpin_map_caption    = افغانستان کې د جلال آباد ځای
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+|name =  جلال آباد<br>جلالکوټ
+ |native_name   =جلال اباد
+|  nickname = 
+|other_name =
+|settlement_type =ښار
+<!-- images and maps ----------->
+|image =<div style="white-space:nowrap;"><!--If you swap out an image, change the "x##px" entry for EACH image in the row so that the width of the row lines up with the others-->[[File:Jalalabad in January 2011.jpg|300px|]] <br/>[[File:Jalalabad stadium in 2011.jpg|150px]] [[File:Bridge in Jalalabad in 2011.jpg|150px]]<br/>[[File:Jalalabad minarets.jpg|150px]] [[File:Pchowkjaa.jpg|150px|باچا خان چوک]]<br/>[[File:Jalalabad - Spīn Ghar Range.JPG|150px]] [[File:Kabulriverinjaa.jpg|150px]] </div>
+|imagesize =
+|image_caption =  
+|image_flag   =
+|flag_size =
+|image_seal =
+|seal_size =
+|image_shield =
+|shield_size =
+|image_blank_emblem =
+|blank_emblem_type =
+|blank_emblem_size =
+|image_map =
+|mapsize =
+|map_caption =
+|pushpin_map = Afghanistan
+|pushpin_label_position = above
+|pushpin_mapsize = 300px
+|pushpin_map_caption =افغانستان کې د جلال آباد ځای
 <!-- Location ------------------>
-|coordinates_display    = inline,title
-|coordinates_region     = AF
-|subdivision_type       = هېواد
-|subdivision_name       = [[افغانستان]]
-|subdivision_type1      = [[د افغانستان ولايتونه|ولايت]]
-|subdivision_name1      = [[ننگرهار ولايت]]
-|subdivision_type2      = ولسوالۍ
-|subdivision_name2      = جلال آباد ولسوالۍ
-|government_footnotes   =
-|government_type        =
-|leader_title           =
-|leader_name            =
-|leader_title1          = 
-|leader_name1           =
-|leader_title2          =
-|leader_name2           =
+|coordinates_display = inline,title
+|coordinates_region = AF
+|subdivision_type =   '''ھیواد'''
+|subdivision_name = {{flag|Afghanistan }}
+|subdivision_type1 = [[دافغانستان ښارونه|ښار]]
+|subdivision_name1 = [[ ننگرهار ولايت|جلال آباد ]]
+|subdivision_type2 = ولايت 
+|subdivision_name2 = جلال آباد 
+<!-- Politics ----------------->
+|government_footnotes =
+|government_type =حکومت
+|leader_title =والی
+|leader_name = [[ھمایون عزیزی]]
 |established_title      = جوړښت
 |established_date       = 1570
 
-|population_as_of               = 2007
+|population_as_of               = ۲۰۰۷
 |population_footnotes           =
 |population_note                =<ref name="mrrd">http://www.mrrd.gov.af/nabdp/Provincial%20Profiles/Nangarhar%20PDP%20Provincial%20profile.pdf</ref>
-|population_total               =205,423
+|population_total               =۲۰۵,۴۲۳
 |population_blank1_title        = Ethnicities
 |population_blank1              =
 |population_blank2_title        = دين
 |population_blank2              = اسلام
+|timezone =د افغانستان معياري وخت
+|utc_offset = +4:30
+|timezone_DST =
+|utc_offset_DST =
 |latd=34|latm=26 |lats=03 |latNS=N
 |longd=70|longm=26|longs=52|longEW=E
-|website                = 
-|footnotes              = 
-}} 
+|elevation_footnotes = <!--for references: use<ref> </ref> tags-->
+|elevation_m =
+|elevation_ft =
+<!-- Area/postal codes & others -------->
+|postal_code_type = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code =
+|area_code =
+|blank_name =
+|blank_info =
+|blank1_name =
+|blank1_info =
+ Website =
+|footnotes =
+}}
 '''جلالکوټ''' یا '''جلال آباد''' د کنړ او کابل سیند په نښلونې ځای کې پروت دی. جلالکوټ د [[ننگرهار ولایت]] منځی (مرکز) دی. دا ښار د یوې۹۰ کیلومتري لوی لاری په وسیله له کابل ښار سره نښلي. او د په همدې واټن سره په ختیځه برخه کې د گاونډي هېواد له پېښورښار سره نښلي.
 
 دا رنگه جلالکوټ د ختیځو سیمو ستر سوداگریز او ټولنیز منځۍ هم دی. 
@@ -87,6 +82,7 @@
 جلال اباد د ننگرهار په شمالي برخه کې پروت دی او ۲۷ کیلو متره مربع مساحت لري. د یادولو وړ ده چې دجلال اباد ښار له څلورو خواوو څخه ۱۳ کیلو متره مربع غیر پلاني پراختیا کړې او ماستر پلان یې یواځي ۷۰٪ پلی شوی.
 
 دجلال اباد ښار جلال اباد ښار (۱۴۲ کیلومتره) او دتورخم دپولې (۷۵ کیلومتره) په عمومي لاره پروت دی. په تیرو اوس وخت کې جلال اباد یو لوی سوداگریز ښار دی او دمربا، غیر الکولي مشروباتو، دشړشم تیلو، دزیتون غوړیو، المونیمو، مرمر تیږو، المونیمي لوښو، څپلیو گڼډلو، بوټ گنډلو، قالین بافۍ او کنجد په تولید کې شهرت لري. خو دجنگ او کورنیو شخړو کلونو او همداډول څو کلنې وچکالۍ دښار په اقتصادي وضعیت خپل منفې اغیز ښندلی. مالداري، کرنه، سوداگري، خدمات او دکوچنیو لاسي صنایعو صنعت دښاریانو دژوندانه دتیرولو اصلي سرچینې تشکیلوي.
+
 == دنفوسو شمیر ==
 
 دښاروالۍ ناحیه
