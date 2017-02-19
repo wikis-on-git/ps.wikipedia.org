@@ -1,5 +1,1 @@
-<includeonly>{{#if:{{{1|}}}|
-<td colspan="{{#if:{{{5|}}}|{{{5}}}|2}}" style="text-align:center; line-height: 1.5em;">[[Fichier:{{trim|{{{1}}}}}|lang=fr|{{#if:{{{3|}}}|{{#ifexpr: {{{3}}} <= 280|{{{3}}}|280}} |280}}px|alt={{#if:{{{4|}}}|{{{4}}}|Image illustrative de l'article {{PAGENAME}}}}{{#if:{{{6|}}}|{{!}}link={{trim|{{{6}}}}}|}}|]] {{#if:{{{3|}}}|{{#ifexpr: {{{3}}} <= 280| |<br /><span class="error">La taille de l'image doit être modifiée, celle-ci ne doit pas dépasser 280 px.</span>[[Catégorie:Erreur d'Infobox/Image trop grande]]}}}}{{#if:{{{2|}}}|<br />{{trim|{{{2}}}}}|}}</td>
-}}{{#if:{{NAMESPACE}}{{{nocat|}}}||{{#switch:{{{1|}}}|Defaut.svg|defaut.svg|=<td style="display:none;">[[Catégorie:Article à illustrer {{trim|{{{7|}}}}}]]</td>}}}}
-</tr>
-<tr></includeonly><noinclude>{{Documentation}}</noinclude>
+#REDIRECT [[کينډۍ:Infobox/Image]]
