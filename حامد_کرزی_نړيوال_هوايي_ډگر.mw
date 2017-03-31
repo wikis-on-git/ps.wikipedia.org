@@ -37,7 +37,14 @@
 | r1-length-f  = 11520
 | r1-length-m  = 3511
 | r1-surface   = پوخوالی
-| footnotes    = سرچینه: لانډینګ.کام,<ref name="Landings">[http://aerobaticsweb.org/cgi-bin/search_apt?OAKB Airport record for Kabul Khwaja Rawash International Airport] at Landings.com. Retrieved 2013-08-01</ref> افغانستان انټرنیشنل هوایی میدان<ref>[http://acaa.gov.af/en/page/civil-aviation-authority/atm/aip---important-information AIP Afghanistan - Important Information]</ref>
+| footnotes    =
+{{Location map|Afghanistan|width=240|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=کابل|position=right
+| latd  = 34 | latm  = 33 | lats  = 57 | latNS  = N
+| longd = 069 | longm = 12 | longs = 44 | longEW = E
+}}<small>د هوایی ډګر نښان په افغانستان کی</small></center>
+سرچینه: لانډینګ.کام,<ref name="Landings">[http://aerobaticsweb.org/cgi-bin/search_apt?OAKB Airport record for Kabul Khwaja Rawash International Airport] at Landings.com. Retrieved 2013-08-01</ref> افغانستان انټرنیشنل هوایی میدان<ref>[http://acaa.gov.af/en/page/civil-aviation-authority/atm/aip---important-information AIP Afghanistan - Important Information]</ref>
 |     website =http://hamidkarzaiairport.com/
 }}
 
