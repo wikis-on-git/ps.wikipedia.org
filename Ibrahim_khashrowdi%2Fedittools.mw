@@ -1,5 +1,5 @@
-<div id="mw-edittools-charinsert" class="mw-charinsert-buttons" title="روی الگو یا عبارت مورد نیاز خود کلیک کنید.">
-<span id="edittools_main">'''درج:''' <span title="سه‌چهارم خط"><charinsert>–</charinsert></span> <span title="تمام‌خط"><charinsert>—</charinsert></span> <charinsert>… ° ≈ ≠ ± ≤ ≥ − × ÷ √ ٪ → ← ↔ ↑ ↓ #</charinsert></span>&#32;<span id="edittools_name">'''امضاء:''' <charinsert>~~~~</charinsert></span>
+<div id="mw-edittools-charinsert" class="mw-charinsert-buttons" title="د اړتیا وړ نمونې یا عبارت کلیک کړی.">
+<span id="edittools_main">'''درج:''' <span title="څلوردیرشم خط"><charinsert>–</charinsert></span> <span title="تمام‌خط"><charinsert>—</charinsert></span> <charinsert>… ° ≈ ≠ ± ≤ ≥ − × ÷ √ ٪ → ← ↔ ↑ ↓ #</charinsert></span>&#32;<span id="edittools_name">'''امضاء:''' <charinsert>~~~~</charinsert></span>
 ----
 <p class="mw-edittools-section" data-section-title="پیش‌فرض" style="display: none;">
 <small>'''نشانه‌های پرکاربرد:'''</small>
@@ -12,7 +12,7 @@
 <charinsert>[[|+]]</charinsert>
 <charinsert>[[+]]</charinsert>
 <charinsert>[[وېشنيزه:+]]</charinsert>
-<charinsert><nowiki>#تغییرمسیر [[+]]</nowiki></charinsert>
+<charinsert><nowiki>#اړونه [[+]]</nowiki></charinsert>
 <charinsert>{{پانویس}}</charinsert>
 <charinsert>{{مدرک}}</charinsert>
 <charinsert><ref name="ReferenceA">+</ref></charinsert>&lrm;<br />
