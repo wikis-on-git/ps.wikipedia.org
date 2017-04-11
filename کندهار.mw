@@ -1,8 +1,6 @@
 {{ټاکلې ليکنه}}
-{{غوره لیکنه}}
+{{غوره لیکنه}}{{Coord|31|36|N|65|42|E|display=title}}
 {{Infobox settlement
-<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
-<!-- Basic info ---------------->
 |name = کندھار<br>لوی کندھار 
  |native_name   =اراکوزيا
 |  nickname = لوی کندھار 
@@ -10,26 +8,33 @@
 |settlement_type =ښار
 <!-- images and maps ----------->
 |image =<div style="white-space:nowrap;"><!--If you swap out an image, change the "x##px" entry for EACH image in the row so that the width of the row lines up with the others-->[[File:Aerial photograph of Kandahar Province in 2011.jpg|150px|]] [[File:Aerial view of a section of Kandahar in 2013.jpg|150px|Aerial view of a section of Kandahar]]<br/>[[File:Mausoleum of Baba Wali in 2011.jpg|150px|Mausoleum of Baba Wali]] [[File:View of Arghandab Valley.jpg|150px|Arghandab Valley]]<br/>[[File:Aerial view of Kandahar Airport in 2005.jpg|150px|Kandahar International Airport]] [[File:KandaharMosque02.JPG|150px|Mausoleum of Mirwais Hotak]]<br/>[[File:Mosque in Kandahar.jpg|150px|Mausoleum of Ahmad Shah Durrani]] [[File:Governor's courtyard in Kandahar.jpg|150px|Governor's Mansion]]</div>
-|imagesize =
-|image_caption =  
-|image_flag   =
-|flag_size =
-|image_seal =
-|seal_size =
-|image_shield =
-|shield_size =
-|image_blank_emblem =
-|blank_emblem_type =
-|blank_emblem_size =
-|image_map =Kandahar districts.png
-|mapsize =300px
-|map_caption =د کندهار نقشه پر ولسوالی تقسیم باندی
-|pushpin_map = Afghanistan
-|pushpin_label_position = above
-|pushpin_mapsize = 300px
-|pushpin_map_caption =په افغانستان کی نښان
+|size    = 300
+|border  = 0 
+|color   =white
+| image_flag             = 
+| image_seal             = 
+| image_shield           = 
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Afghanistan#Asia
+|pushpin_caption =په افغانستان کی نښان
+| pushpin_label_position = above
+| pushpin_mapsize        = 300
+| pushpin_map_caption    = 
+| pushpin_relief         = 1
+| latd = 31 | latm = 37| latNS = N
+| longd = 65 | longm = 43| longEW = E
 <!-- Location ------------------>
-{{Coord|31|36|N|65|42|E|display=title}}
+<!-- Location ------------------>
+|subdivision_type2      =
+|subdivision_name2      =
+|latd  =31 |latm  =37 | latNS  = N
+|longd =65 |longm =43 | longEW = E
+|coordinates_display    = inline,title
+|image_map =Kandahar districts.png
+|map_caption2 =په رنګی نخشه کی د کندهار ولسوالی ښکاری
+|image_map_size =300px
+<!-- Location ------------------>
 |subdivision_type =   '''ھیواد'''
 |subdivision_name = {{flag|Afghanistan }}
 |subdivision_type1 = [[دافغانستان ښارونه|ښار]]
@@ -75,8 +80,6 @@
 |utc_offset = +4:30
 |timezone_DST =
 |utc_offset_DST =
-|latd =31 |latm =37 | latNS = N
-|longd =65 |longm =43 | longEW = E
 |elevation_footnotes = 
 |elevation_m =۱۰۱۰
 |elevation_ft =۳۳۱۰
@@ -107,7 +110,7 @@
 | river    = [[File:Aerial photograph of Kandahar Province in 2011.jpg|50px|left| Srisailam Dam ارغنداب رود]] '''[[ارغنداب رود]]'''
 | fruit    = [[File:Granatäpfel.JPG|50px|left|د کندھار انار]] '''[[د کندھار انار|انار]]'''
 }}
-}} 
+}}
 '''کندهار'''   ({{IPAc-en|ک|ا|ن|ده|ها|ر}})    (په [[فارسي|دري]]: ''قندهار'') د [[افغانستان]] دويم لوی ښار دی چې د افغانستان په جنوب کې د [[ارغنداب رود]] په دره کې پروت دی او [[ کندهار ولايت|د کندهار د ولايت]] مرکز دی. دغه ښار  تقريبًا ۴۵۰،۳۰۰ نفوس لري. کندهار د افغانستان لمړنۍ [[پلازمینه]] او د تجارتي مرکزونو څخه يو مهم مرکز دی او د مالوچو (پنبې، پختې) او وچو مېوو د برار (توليد) هم ښار دی. په کندهار کې يو نړيوال [[د کندهار نړيوال هوايي ډگر|هوايي ډگر]] هم شته.چی د[[ د کندهار نړيوال هوايي ډگر]] په نامه دی  . په اوس وخت کې دغه هوايي ډگر د [[ناټو]]  هډه ده. دغه هوايي ډگر چې په ۷۰ کلونو کې جوړ شوی او په [[منځنۍ آسيا]] کې تر ټولو لوی هوايي ډگر دی  .
 
 ==تاريخ==
