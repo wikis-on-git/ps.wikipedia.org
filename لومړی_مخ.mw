@@ -3,13 +3,6 @@
 
 <!------------------------------ "ويکيپېډيا ته ښه راغلئ" او د ليکنو شمېر--------------------------------->
 ----
-<inputbox>
-type=create
-width=70
-buttonlabel= نوې ليکنه ورگډول
-break=no
-</inputbox>
-
 <!-- ============== TABEL UTAMA MULAI ================ -->
 {| style="margin-top:10px; background:none;"
 <!-- ============== KOLOM KIRI MULAI ================ -->
@@ -98,7 +91,6 @@ break=no
 | سرليک   = {{nobr|<big>خورلڼې پروژې</big>}}
 | متن = {{clr}} {{ويکيپېډيا:لومړی مخ/نورې پروژې2}}
 }}
-
 |}
 <!-- =========================  =============== -->
 <!-- =========================   =============== -->
@@ -108,12 +100,19 @@ break=no
 {| style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;"
 | style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; {{border-radius|10px}}" |
 
-|}
+|}<inputbox>
+type=create
+width=70
+buttonlabel= نوې ليکنه ورگډول
+break=no
+</inputbox>
+
 {{لومړي مخ لره دړه}}
 {| style="margin: 0 auto;background-color:transparent"
 |[[دوتنه:Crystal 128 mail.png|24px|link=ويکيپېډيا:اړيکه|alt=Hubungi kami]]||''[[ويکيپېډيا:له موږ سره اړيکه|که تاسې په يو شي کې مرسته غواړئ نو زمونږ سره اړيکه ټينگه کړئ]]''
-|}
+
 <!-- ========================== پای ========================== -->
+
 __NOTOC__
 __NOEDITSECTION__
 {{noexternallanglinks}}
