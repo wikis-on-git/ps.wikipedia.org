@@ -3,10 +3,9 @@
 
 <!------------------------------ "ويکيپېډيا ته ښه راغلئ" او د ليکنو شمېر--------------------------------->
 ----
-<!-- ============== TABEL UTAMA MULAI ================ -->
 {| style="margin-top:10px; background:none;"
 <!-- ============== KOLOM KIRI MULAI ================ -->
-| style="width:60%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; {{border-radius|10px}}" |
+| style="width:50%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 5px 5px 0px; {{border-radius|10px}}" |
 
 {| cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;"
 <!-- ============== منتخب مضمون ================ -->
@@ -46,9 +45,8 @@
 |}
 | style="solid transparent;" |
 <!-- ============== KOLOM KANAN MULAI ================ -->
-| style="width:40%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; {{border-radius|10px}}"|
-<!--     =====================  TABEL DI KOLOM KANAN MULAI  ====================     -->
-{| id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent;"
+| style="width:50%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 5px 5px 0px; {{border-radius|5px }}"|
+{| id="mp-right" cellpadding="2" cellspacing="4" style="width:50%; vertical-align:top; background:#f5faff; background:transparent;"
 <!-- ========================= د گډون کولو لپاره دعوت =============== -->
 ! {{لومړی مخ/بکس2
 | انځور   = W-circle.svg
