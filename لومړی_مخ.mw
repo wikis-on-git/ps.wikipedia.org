@@ -1,46 +1,4 @@
 {{لومړی مخ/سر لیک}}
-
-
-<!------------------------------- د مخ سردره  ---------------------------------------------->
-{|  class="globegris" style="background-repeat:no-repeat; background-position: 40em -3.5em; width:100%; border:0px ; 
-|-
-| style="vertical-align: top; width:100%;" |<div style="border:1px solid #abd5f5;">
-{|  style="width:100%; margin-bottom:1px; vertical-align:top; font-size:90%; background:transparent;"
-|-
-| style="padding: .4em 1.6em 1em;" | <span style="font-size: 110%; color: #0000000">{{{sitename_localized|
-په خپلو ليکنو کې مو املايي تېروتنو ته پام ونيسئ! همداراز د سمو '''ياگانو''' او '''گافونو''' کارول دود کړئ.}}}</strong><br/><span style="color: #666666;">{{{tagline|
-}}}</span>
-| style="width:10%;padding:0.5em;" |
-'''[[ويکيپېډيا|ويکيپېډيا څه ده؟]]'''
-| style="width:4%;padding:0.5em;" |
-'''[[لارښود:محتویات|مېنځپانگه]]'''
-| style="width:4%;padding:0.5em;" |
-'''[[ويکيپېډيا:بنډارځای|بنډارځای]]'''
-| style="width:6%;padding:0.5em;" |
-'''[[ويکيپېډيا:چای ځی|چای ځای]]'''
-| style="width:7%;padding:0.5em;" |
-'''[[تانبه:د تانبو لړليک|تانبې]]'''
-| style="width:7%;padding:0.5em;" |
-[[ځانګړی:ننوتل|<span class="mw-ui-button">{{{Entrar|ننوتل}}}</span>]]
-| style="width:15%;padding:0.5em;" |
-[[ويکيپېډيا:ليکنه ورگډول|<span class="mw-ui-button mw-ui-progressive">{{{Contribuir|ليکنه مو پيل کړئ}}}</span>]]
-|}
-|}
-{| id="mp-columns" class="radius" cellspacing="5" style=" width:100%; background:none "
-|width=10% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .3em .3em 0em .3em; color: #000; background: #ffffff;" colspan=2|
-<div style=" padding: 5px 5px; margin: 0.3em; text-align: center" class="hlist">
-* [[ويکيپېډيا:په اړه|د ويکيپېډيا په اړه]]
-* [[لارښود:نيوليک|د سمولو چلندلار]]
-* [[لارښود:ونډه اخيستل|د ترسره کولو کارونه]]
-* [[ويکيپېډيا:کړنلارې او لارښوونې|کړنلارې او لارښوونې]]
-* [[ويکيپېډيا:چټک لړليک|د ابېڅو له مخې د ليکنو لړليک]]
-* <span class="plainlinks">[http://ps.m.wikipedia.org د موبايل بڼه]
-<div style="border-top: 1px solid {{{1|#a7d7f9}}};">
-</span>
-</div>
-</div>
-----
-
 {{ليکلړ دړه}}
 
 <!------------------------------ "ويکيپېډيا ته ښه راغلئ" او د ليکنو شمېر--------------------------------->
