@@ -30,10 +30,10 @@
     {{خبرونه}}
     </div>
   </div>
-  <!-- یادبودها -->
-  <div id="mf-otd">{{لومړی مخ/سرليک|title= یادبودها|image = Nuvola apps date-fa.png|ویرایش = {{ميډياويکي:ffeed-onthisday-page}} }}
+  <!-- نن ورځ-->
+  <div id="mf-otd">{{لومړی مخ/سرليک|title= نن ورځ|image = Nuvola apps date-fa.png|ویرایش = {{ميډياويکي:ffeed-onthisday-page}} }}
     <div style="padding: 0 0.5em;">
-'''امروز''': {{#time: l|now}}، {{#time:[[j F]] [[Y "(میلادی)"|Y]]}} [[تقویم میلادی|میلادی]] برابر {{#time:[[xij xiF]] [[xiY]]}} [[گاهشماری هجری خورشیدی|هجری خورشیدی]] و {{#time: [[xmj xmF]] [[xmY (قمری)|xmY]] [[گاه‌شماری هجری قمری قراردادی|هجری قمری]]}} ([[ساعت هماهنگ جهانی|UTC]])
+'''نن ورځ''': {{#time: l|now}}، {{#time:[[j F]] [[Y "(عيسوي)"|Y]]}} [[تقویم عيسوي|عيسوي]] برابر {{#time:[[xij xiF]] [[xiY]]}} [[جنتري هجری لمریز|هجری لمریز]] و {{#time: [[xmj xmF]] [[xmY (قمری)|xmY]] [[ تړون په اسلامي کليز|هجري قمری]]}} ([[UTC]])
 
 {{ {{ميډياويکي:ffeed-onthisday-page}} }}
     </div>
