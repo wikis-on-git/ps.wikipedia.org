@@ -1,6 +1,6 @@
 <div id="mp-header" class="header" style="margin-bottom: 1em;">
   {{لومړی مخ پيغام}}
-{{لومړی مخ/سر لیک2}}
+{{لومړی مخ/سر لیک}}
 </div>
 <div id="mp-right" class="content" style="width: 57%; float: right; padding-top: 1px;">
   <!-- نوشتار پیشنهادی هفته -->
