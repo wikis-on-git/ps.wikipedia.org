@@ -5,8 +5,8 @@
 <div id="mp-right" class="content" style="width: 57%; float: right; padding-top: 1px;">
   <!-- نوشتار پیشنهادی هفته -->
   <div id="mf-ps">{{لومړی مخ/سرليک|title = مقالهٔ برگزیده|image = Symbol_star_gold.svg|ویرایش = {{ميډياويکي:ffeed-featured-page}} }}
-    <div>{{ {{ميډياويکي:ffeed-featured-page}} }}
-      <div style="text-align: end"><small>[[دوتنه:Symbol star gold.svg|15px|alt=|پیوند=]]&nbsp;'''[[ویکی‌پدیا:مقاله‌های برگزیده|مقاله‌های برگزیده]]''' &ndash; '''[[ویکی‌پدیا:مقاله پیشنهادی هفته|مقالهٔ پیشنهادی هفته]]'''</small></div>
+    <div>{{غوره ليکنه}}
+      <div style="text-align: end"><small>[[دوتنه:Symbol star gold.svg|15px|alt=|پیوند=]]&nbsp;'''</small></div>
     </div>
   </div>
   <!-- آیا می‌دانستید که …؟ -->
