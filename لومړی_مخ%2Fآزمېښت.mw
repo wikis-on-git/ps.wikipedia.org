@@ -1,6 +1,6 @@
 <div id="mp-header" class="header" style="margin-bottom: 1em;">
   {{لومړی مخ پيغام}}
- {{لومړی مخ/سر لیک}}
+ {{لومړی مخ/سر لیک2}}
 </div>
 <div id="mp-right" class="content" style="width: 57%; float: right; padding-top: 1px;">
   <!-- ټاکلې ليکنه-->
@@ -60,3 +60,5 @@
     <div style="padding: 0 0.5em;">{{زبان‌های ویکی‌پدیا}}</div>
   </div>
 </div> __NOTOC__ __NOEDITSECTION__
+
+[[وېشنيزه:My own work]]
