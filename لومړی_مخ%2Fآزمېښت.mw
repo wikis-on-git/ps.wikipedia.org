@@ -3,15 +3,15 @@
 </div>
 <div id="mp-right" class="content" style="width: 57%; float: right; padding-top: 1px;">
   <!-- نوشتار پیشنهادی هفته -->
-  <div id="mf-fa">{{لومړی مخ/سرليک|title = مقالهٔ برگزیده|image = Symbol_star_gold.svg|ویرایش = {{مدیاویکی:ffeed-featured-page}} }}
-    <div>{{ {{مدیاویکی:ffeed-featured-page}} }}
+  <div id="mf-fa">{{لومړی مخ/سرليک|title = مقالهٔ برگزیده|image = Symbol_star_gold.svg|ویرایش = {{ميډياويکي:ffeed-featured-page}} }}
+    <div>{{ {{ميډياويکي:ffeed-featured-page}} }}
       <div style="text-align: end"><small>[[پرونده:Symbol star gold.svg|15px|alt=|پیوند=]]&nbsp;'''[[ویکی‌پدیا:مقاله‌های برگزیده|مقاله‌های برگزیده]]''' &ndash; '''[[ویکی‌پدیا:مقاله پیشنهادی هفته|مقالهٔ پیشنهادی هفته]]'''</small></div>
     </div>
   </div>
   <!-- آیا می‌دانستید که …؟ -->
-  <div id="mf-con">{{لومړی مخ/سرليک|title = آیا می‌دانستید که …؟|image = Help-browser - ar.svg|ویرایش = {{مدیاویکی:ffeed-dyk-page}} }}
+  <div id="mf-con">{{لومړی مخ/سرليک|title = آیا می‌دانستید که …؟|image = Help-browser - ar.svg|ویرایش = {{ميډياويکي:ffeed-dyk-page}} }}
     <div style="padding: 0 0.5em;">
-{{ {{مدیاویکی:ffeed-dyk-page}} }}
+{{ {{ميډياويکي:ffeed-dyk-page}} }}
     </div>
   </div>
   <!-- دربارهٔ ویکی‌پدیا -->
@@ -31,21 +31,21 @@
     </div>
   </div>
   <!-- یادبودها -->
-  <div id="mf-otd">{{لومړی مخ/سرليک|title= یادبودها|image = Nuvola apps date-fa.png|ویرایش = {{مدیاویکی:ffeed-onthisday-page}} }}
+  <div id="mf-otd">{{لومړی مخ/سرليک|title= یادبودها|image = Nuvola apps date-fa.png|ویرایش = {{ميډياويکي:ffeed-onthisday-page}} }}
     <div style="padding: 0 0.5em;">
 '''امروز''': {{#time: l|now}}، {{#time:[[j F]] [[Y "(میلادی)"|Y]]}} [[تقویم میلادی|میلادی]] برابر {{#time:[[xij xiF]] [[xiY]]}} [[گاهشماری هجری خورشیدی|هجری خورشیدی]] و {{#time: [[xmj xmF]] [[xmY (قمری)|xmY]] [[گاه‌شماری هجری قمری قراردادی|هجری قمری]]}} ([[ساعت هماهنگ جهانی|UTC]])
 
-{{ {{مدیاویکی:ffeed-onthisday-page}} }}
+{{ {{ميډياويکي:ffeed-onthisday-page}} }}
     </div>
     <div style="text-align: left; font-size: smaller;">[[ویکی‌پدیا:یادبودهای برگزیده/{{#time:j F|-1 day}}|→ روز قبل]] &ndash; [[ویکی‌پدیا:یادبودهای برگزیده/{{#time:j F|+1 day}}|روز بعد ←]]{{سخ}}'''[[ویکی‌پدیا:یادبودهای برگزیده/{{CURRENTMONTHNAME}}|یادبودهای {{CURRENTMONTHNAME}}]]''' &ndash; '''[[ویکی‌پدیا:یادبودهای برگزیده|یادبودهای بیشتر...]]'''</div>
   </div>
 </div>
 <div class="footer" style="clear: both; padding-top: 1em;">
   <!-- نگارهٔ برگزیده -->
-  <div id="mf-fp">{{لومړی مخ/سرليک|title = نگارهٔ برگزیدهٔ امروز|image = Symbol_star6.svg|ویرایش = {{مدیاویکی:ffeed-potd-page}} }}
+  <div id="mf-fp">{{لومړی مخ/سرليک|title = نگارهٔ برگزیدهٔ امروز|image = Symbol_star6.svg|ویرایش = {{ميډياويکي:ffeed-potd-page}} }}
     <div style="padding: 0 0.5em;">
       <div class="center">
-{{ {{مدیاویکی:ffeed-potd-page}} }}</div>
+{{ {{ميډياويکي:ffeed-potd-page}} }}</div>
       <div style="font-size: 85%; text-align: left;">
         <div>[[پرونده:Cscr-featured.svg|15px|link=]] '''[[ویکی‌پدیا:نگاره روز/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}|بایگانی {{CURRENTMONTHNAME}} {{CURRENTYEAR}}]]''' &ndash; '''[[ویکی‌پدیا:نگاره‌های برگزیده|نگاره‌های برگزیدهٔ بیشتر]]'''</div>
       </div>
