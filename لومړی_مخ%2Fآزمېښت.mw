@@ -1,164 +1,63 @@
-<!------------------------------- د مخ سردره  ---------------------------------------------->
-{|  class="globegris" style="background-repeat:no-repeat; background-position: 43em -3.5em; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:0.4em;" |
-| style="height:1em; padding-right:45px" |<imagemap>
-انځور:PWWT.png|260px|
-rect 1 1 247 97 [[ویکیپېډيا]]
-desc none
-</imagemap>
+<div id="mp-header" class="header" style="margin-bottom: 1em;">
+  {{لومړی مخ/سر لیک}}
+  {{لومړی مخ پيغام}}
 </div>
-<div style="padding-right:0px;">يو وړيا پوهنغونډ چې هرڅوک يې [[ويکيپېډيا:پېژندنه|سمولای]] او نوې ليکنې په کې خپرولای شي.</div>
-تر دې دمه '''[[ځانگړی:شمار|{{NUMBEROFARTICLES}}]]''' ليکنې لري.'''
-| colspan="2" style="font-size:110%;width:15%;"|
-*[[تانبه:فلسفه|فلسفه]]
-*[[تانبه:هنرونه|هنرونه]]
-*[[تانبه:ژوندليکونه|ژوندليکونه]]
-*[[تانبه:ځمکپوهنه|ځمکپوهنه]]
-|style="width:15%; font-size:110%;"|
-*[[تانبه:مذهب|دينونه]]
-*[[تانبه:پېښليک|پېښليک]]
-*[[تانبه:شمېرپوهنه|شمېرپوهنه]]
-*[[تانبه:پوهنه|پوهنه]]
-|style="width:15%; font-size:110%;"|
-*[[تانبه:ټولنه|ټولنه]]
-*[[تانبه:تخنيک|تخنيک]]
-*'''[[تانبه:مېنځپانگه/تانبې|ټولې&nbsp;تانبې]]'''
-|}
-
-<div style=" padding: 5px 5px; margin: 0.3em; text-align: center" class="hlist">
-* [[ويکيپېډيا:په اړه|د ويکيپېډيا په اړه]]
-* [[لارښود:نيوليک|د سمولو چلندلار]]
-* [[لارښود:ونډه اخيستل|د ترسره کولو کارونه]]
-* [[ويکيپېډيا:کړنلارې او لارښوونې|کړنلارې او لارښوونې]]
-* [[ويکيپېډيا:چټک لړليک|د ابېڅو له مخې د ليکنو لړليک]]
-* <span class="plainlinks">[http://ps.m.wikipedia.org د موبايل بڼه]
-<div style="border-top: 1px solid {{{1|#a7d7f9}}};">
-</span>
+<div id="mp-right" class="content" style="width: 57%; float: right; padding-top: 1px;">
+  <!-- نوشتار پیشنهادی هفته -->
+  <div id="mf-fa">{{لومړی مخ/بکس2|title = مقالهٔ برگزیده|image = Symbol_star_gold.svg|ویرایش = {{مدیاویکی:ffeed-featured-page}} }}
+    <div>{{ {{مدیاویکی:ffeed-featured-page}} }}
+      <div style="text-align: end"><small>[[پرونده:Symbol star gold.svg|15px|alt=|پیوند=]]&nbsp;'''[[ویکی‌پدیا:مقاله‌های برگزیده|مقاله‌های برگزیده]]''' &ndash; '''[[ویکی‌پدیا:مقاله پیشنهادی هفته|مقالهٔ پیشنهادی هفته]]'''</small></div>
+    </div>
+  </div>
+  <!-- آیا می‌دانستید که …؟ -->
+  <div id="mf-con">{{لومړی مخ/بکس2|title = آیا می‌دانستید که …؟|image = Help-browser - ar.svg|ویرایش = {{ميډياويکي:ffeed-dyk-page}} }}
+    <div style="padding: 0 0.5em;">
+{{ {{ميډياويکي:ffeed-dyk-page}} }}
+    </div>
+  </div>
+  <!-- دربارهٔ ویکی‌پدیا -->
+  <div id="mf-aw">{{لومړی مخ/بکس2|title = دربارهٔ ویکی‌پدیا|image = W-circle.svg|ویرایش = الگو:دربارهٔ ویکی‌پدیا}}
+    <div>{{دربارهٔ ویکی‌پدیا}}</div>
+  </div>
+  <!-- درون‌مایه -->
+  <div id="mf-fc">{{لومړی مخ/بکس2|title = درون‌مایه|image = Text-x-generic.svg|ویرایش = الگو:درون‌مایه/۳}}
+    <div style="padding: 0 0.5em;">{{درون‌مایه/۳}}</div>
+  </div>
 </div>
+<div id="mp-left" class="aside" style="border-radius: 0.5em; width: 41%; float: left; border: 1px solid #dbe7ff; box-sizing: border-box; padding: 0 1em 1em; background: #eaf3ff;">
+  <!-- از میان خبرها -->
+  <div id="mf-itn">{{لومړی مخ/بکس2|title = از میان خبرها |image = Ambox_globe.svg|image_size=35px|ویرایش = الگو:از میان خبرها/پیش‌نویس }}
+    <div style="padding: 0 0.5em;">
+    {{از میان خبرها}}
+    </div>
+  </div>
+  <!-- یادبودها -->
+  <div id="mf-otd">{{لومړی مخ/بکس2|title= یادبودها|image = Nuvola apps date-fa.png|ویرایش = {{ميډياويکي:ffeed-onthisday-page}} }}
+    <div style="padding: 0 0.5em;">
+'''امروز''': {{#time: l|now}}، {{#time:[[j F]] [[Y "(میلادی)"|Y]]}} [[تقویم میلادی|میلادی]] برابر {{#time:[[xij xiF]] [[xiY]]}} [[گاهشماری هجری خورشیدی|هجری خورشیدی]] و {{#time: [[xmj xmF]] [[xmY (قمری)|xmY]] [[گاه‌شماری هجری قمری قراردادی|هجری قمری]]}} ([[ساعت هماهنگ جهانی|UTC]])
+
+{{ {{مدیاویکی:ffeed-onthisday-page}} }}
+    </div>
+    <div style="text-align: left; font-size: smaller;">[[ویکی‌پدیا:یادبودهای برگزیده/{{#time:j F|-1 day}}|→ روز قبل]] &ndash; [[ویکی‌پدیا:یادبودهای برگزیده/{{#time:j F|+1 day}}|روز بعد ←]]{{سخ}}'''[[ویکی‌پدیا:یادبودهای برگزیده/{{CURRENTMONTHNAME}}|یادبودهای {{CURRENTMONTHNAME}}]]''' &ndash; '''[[ویکی‌پدیا:یادبودهای برگزیده|یادبودهای بیشتر...]]'''</div>
+  </div>
 </div>
-*********************************************************
-{| id="mp-columns" class="radius" cellspacing="5" style=" width:100%; background:none "
-|width=10% style="border: 1px solid #c6c9ff; border-radius:5px; padding: .3em .3em 0em .3em; color: #000; background: #ffffff;" colspan=2|
-{{ليکلړ دړه}}
-
-<!------------------------------ "ويکيپېډيا ته ښه راغلئ" او د ليکنو شمېر--------------------------------->
-*********************************************************
-<inputbox>
-type=create
-width=70
-buttonlabel= نوې ليکنه ورگډول
-break=no
-</inputbox>
-
-*********************************************************
-
-<!-- ============== TABEL UTAMA MULAI ================ -->
-{| style="margin-top:10px; background:none;"
-<!-- ============== KOLOM KIRI MULAI ================ -->
-| style="width:60%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; {{border-radius|10px}}" |
-{| cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;"
-<!-- ============== منتخب مضمون ================ -->
-!
-{{لومړی مخ/بکس
-|سرليک= ټاکلې ليکنه
-|id      = mf-artikelpilihan
-|انځور= HSutvald2.svg
-|متن = {{غوره ليکنه}}
-|orange = oLumiereSur
-}}
-
-<!-- ================== اوسنۍ پېښې=============== -->
-! {{لومړی مخ/بکس
-|سرليک   = اوسنۍ پېښې
-|id      = mf-peristiwaterkini
-|انځور   = HSAktuell.svg
-|متن = {{خبرونه}}</div> 
-}}
-<!-- ================== نن ورځ =============== -->
-! {{لومړی مخ/بکس
-|سرليک   = نن ورځ
-|id      = mf-hids
-|انځور   = HSDagensdatum.svg
-|متن = {{نن ورځ}}
-}}
-<!-- ============== ايا پدې پوهيدئ؟================= -->
-! {{لومړی مخ/بکس
-|سرليک   = آيا پدې پوهېدئ؟
-|id      = mf-tahukahanda
-|انځور   = HSVissteduatt.svg
-|متن =  {{clr}} {{ايا پدې پوهېدئ}}
-|lien    =  {{clear}}
-}}
-<!-- ============= TABEL KIRI SELESAI ================= -->
-|}
-| style="border:5px solid transparent;" |
-<!-- ============== KOLOM KANAN MULAI ================ -->
-| style="width:40%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; {{border-radius|10px}}"|
-<!--     =====================  TABEL DI KOLOM KANAN MULAI  ====================     -->
-{| id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent;"
-<!-- ========================= د گډون کولو لپاره دعوت =============== -->
-! {{لومړی مخ/بکس2
-| انځور   = W-circle.svg
-| سرليک   = ويکيپېډيا کې گډون وکړئ!
-| متن = {{لومړی مخ/ښه راغلئ}}
-}}
-<!-- ========================= وراشه/اقتباسات =============== -->
-! {{لومړی مخ/بکس2
-| انځور   = HSBook.svg
-| سرليک   = د نن ورځې وراشه
-| متن = {{/پیغام/4}}
-}}
-<!-- ========================= پروژه =============== -->
-! {{لومړی مخ/بکس2
-| انځور   = {{{img1|Text-x-generic with pencil-2.svg}}}
-| سرليک   = {{{jud1|درې مياشتيزه پروژه}}}
-| متن = {{لومړی مخ/هدف ليکنې}}
-}}
-<!-- ========================= اضافی =============== --
-{{#if:{{{cont2|}}}|
-! {{لومړی مخ/بکس2
-| انځور   = {{{img2|Text-x-generic with pencil-2.svg}}}
-| سرليک   = {{{jud2|Partisipasi}}}
-| متن = {{{cont2|Mari berpartisipasi dalam membangun ensiklopedia bebas terlengkap berbahasa Indonesia!}}}
-}}|}}
-<!-- =============  تصاویر ================== -->
-! {{لومړی مخ/بکس2
-|id      = mf-gambarpilihan
-|سرليک   = غوره انځور
-|انځور   =  HSBild.svg
-|متن = {{غوره انځور}}
-|lien    =
-}}
-<!-- ========================= ټولنه =============== -->
-! {{لومړی مخ/بکس2
-| انځور   = HSSamarbete.svg
-| سرليک   = ويکيپېډيا کارنان
-| متن = {{ويکي ټولنه}}
-}}
-
-<!-- ================== خورلڼې پروژې  =============== -->
-! {{لومړی مخ/بکس2
-| انځور   = Wikimedia-logo-circle.svg
-| سرليک   = {{nobr|خورلڼې پروژې}}
-| متن = {{clr}} {{ويکيپېډيا:لومړی مخ/نورې پروژې2}}
-}}
-|}
-<!-- =========================  =============== -->
-<!-- =========================   =============== -->
-|}
-<!-- =========================   =============== -->
-<!-- ==========================   ========================== -->
-{| style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;"
-| style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; {{border-radius|10px}}" |
-{| width="100%" style=" padding:0px; margin-top:0px; margin-bottom:0px; background:transparent;"
-|-
-| align=center |[[ويکيپېډيا:General disclaimer|ويکيپېډيا د اتباري مېنځپانگې گرنټي نه ورکوي]]۔<br><small>    په ويکيپيډيا کې چې څه ليکلی کيږي د هغه هر څه د کارنانو لخوا ليکلی شوي که څه مسئله وي نو ويکيميډيا د هغې ذمه واره نه ده
-</small>
-|}
-|}
-{| style="margin: 0 auto;background-color:transparent"
-|[[دوتنه:Crystal 128 mail.png|24px|link=ويکيپېډيا:اړيکه|alt=Hubungi kami]]||''[[ويکيپېډيا:اړيکه|که چېري تاسې ته د مرستې اړتيا وي نو زمونږ سره اړيکې/رابطه وکړئ]]''
-|}
-<!-- ========================== پای ========================== -->
-__NOTOC__
-__NOEDITSECTION__
-{{noexternallanglinks}}
+<div class="footer" style="clear: both; padding-top: 1em;">
+  <!-- نگارهٔ برگزیده -->
+  <div id="mf-fp">{{لومړی مخ/بکس2|title = نگارهٔ برگزیدهٔ امروز|image = Symbol_star6.svg|ویرایش = {{ميډياويکي:ffeed-potd-page}} }}
+    <div style="padding: 0 0.5em;">
+      <div class="center">
+{{ {{ميډياويکي:ffeed-potd-page}} }}</div>
+      <div style="font-size: 85%; text-align: left;">
+        <div>[[پرونده:Cscr-featured.svg|15px|link=]] '''[[ویکی‌پدیا:نگاره روز/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}|بایگانی {{CURRENTMONTHNAME}} {{CURRENTYEAR}}]]''' &ndash; '''[[ویکی‌پدیا:نگاره‌های برگزیده|نگاره‌های برگزیدهٔ بیشتر]]'''</div>
+      </div>
+    </div>
+  </div>
+  <!-- پروژه‌های خواهر -->
+  <div id="mf-sp" style="clear: both;">{{لومړی مخ/بکس2|title = دیگر پروژه‌های بنیاد ویکی‌مدیا|image = Wikimedia-logo.svg|ویرایش = الگو:صفحهٔ اصلی/پروژه‌های خواهر}}
+    <div style="padding: 0 0.5em;">{{صفحهٔ اصلی/پروژه‌های خواهر}}</div>
+  </div>
+  <!-- زبان‌های دیگر -->
+  <div id="mp-ol">{{لومړی مخ/بکس2|title = ویکی‌پدیا در زبان‌های دیگر|image = Wikipedia's_W.svg}}
+    <div style="padding: 0 0.5em;">{{زبان‌های ویکی‌پدیا}}</div>
+  </div>
+</div> __NOTOC__ __NOEDITSECTION__
