@@ -42,13 +42,13 @@
   </div>
 </div>
 <div class="footer" style="clear: both; padding-top: 1em;">
-  <!-- نگارهٔ برگزیده -->
-  <div id="mf-fp">{{لومړی مخ/سرليک|title = نگارهٔ برگزیدهٔ امروز|image = Symbol_star6.svg|ویرایش = {{ميډياويکي:ffeed-potd-page}} }}
+  <!-- غوره انځور-->
+  <div id="mf-fp">{{لومړی مخ/سرليک|title = غوره انځور|image = Symbol_star6.svg|ویرایش = {{ميډياويکي:ffeed-potd-page}} }}
     <div style="padding: 0 0.5em;">
       <div class="center">
-{{ {{ميډياويکي:ffeed-potd-page}} }}</div>
+{{ميډياويکي:ffeed-potd-page}}</div>
       <div style="font-size: 85%; text-align: left;">
-        <div>[[دوتنه:Cscr-featured.svg|15px|link=]] '''[[ویکی‌پدیا:نگاره روز/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}|بایگانی {{CURRENTMONTHNAME}} {{CURRENTYEAR}}]]''' &ndash; '''[[ویکی‌پدیا:نگاره‌های برگزیده|نگاره‌های برگزیدهٔ بیشتر]]'''</div>
+        <div>{{غوره انځور}}</div>
       </div>
     </div>
   </div>
