@@ -15,10 +15,7 @@
     {{خبرونه}}
     </div>
   </div>
-  <!-- نن ورځ-->
-  <div id="mf-otd">{{لومړی مخ/سرليک|title= نن ورځ|image = Nuvola apps date-fa.png|ویرایش = {{ميډياويکي:ffeed-onthisday-page}} }}
-    <div style="padding: 0 0.5em;">
-'''نن ورځ''': {{#time: l|now}}، {{#time:[[j F]] [[Y "(عيسوي)"|Y]]}} [[تقویم عيسوي|عيسوي]] برابر {{#time:[[xij xiF]] [[xiY]]}} [[جنتري هجری لمریز|هجری لمریز]] و {{#time: [[xmj xmF]] [[xmY (قمری)|xmY]] [[ تړون په اسلامي کليز|هجري قمری]]}} ([[UTC]])
+{{نن ورځ تاريخ}}
 
 {{ {{ميډياويکي:ffeed-onthisday-page}} }}
     </div>
