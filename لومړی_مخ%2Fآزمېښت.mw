@@ -11,11 +11,11 @@
     {{لومړی مخ اوسنۍ پېښې}}
     </div>
   </div>
-{{نن ورځ تاريخ}}
+{{نن ورځ تاريخ}} 
 
-{{ {{ميډياويکي:ffeed-onthisday-page}} }}
+{{ميډياويکي:ffeed-onthisday-page}}
     </div>
-    <div style="text-align: left; font-size: smaller;">[[ویکی‌پدیا:یادبودهای برگزیده/{{#time:j F|-1 day}}|→ روز قبل]] &ndash; [[ویکی‌پدیا:یادبودهای برگزیده/{{#time:j F|+1 day}}|روز بعد ←]]{{سخ}}'''[[ویکی‌پدیا:یادبودهای برگزیده/{{CURRENTMONTHNAME}}|یادبودهای {{CURRENTMONTHNAME}}]]''' &ndash; '''[[ویکی‌پدیا:یادبودهای برگزیده|یادبودهای بیشتر...]]'''</div>
+    <div style="text-align: left; font-size: smaller;">[[ويکيپېډيا: نن ورځ/{{#time:j F|-1 day}}|→ ورځې مخکې]] &ndash; [[ويکيپېډيا: نن ورځ/{{#time:j F|+1 day}}|ورځې وروسته ←]]{{سخ}}'''[[ويکيپېډيا: د ن ورځي لیکني/{{CURRENTMONTHNAME}}|یاداښتونه {{CURRENTMONTHNAME}}]]''' &ndash; '''[[ويکيپېډيا: نن ورځ|نور  یاداښتونه...]]'''</div>
   </div>
 </div>
 {{لومړی مخ غوره انځور}}
