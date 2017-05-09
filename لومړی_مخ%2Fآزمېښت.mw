@@ -1,10 +1,4 @@
-<div id="mp-header" class="header" style="margin-bottom: 1em;">
-  {{لومړی مخ پيغام}}
-{{لومړی مخ/سر لیک}}
-</div>
-<!-- غوره ليکنه-->
-  <div id="mp-ol">{{لومړی مخ/سرليک|title =غوره ليکنه|image = Symbol_star_gold.svg}}
-    <div style="padding: 0 0.5em;">{{غوره ليکنه}}</div>
+{{غوره لیکنه لمړي مخ}}</div>
   </div>
   </div>
   <!-- آیا می‌دانستید که …؟ -->
