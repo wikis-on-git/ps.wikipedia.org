@@ -1,118 +1,24 @@
+{{لومړی مخ/سر لیک2}}
+{{غوره لیکنه لمړي مخ}}</div>
+  </div>
+  </div> 
+{{ ايا پدې پوهېدئ لمړی مخ}}
+  </div>
+{{د نن ورځې وراشه لمړی مخ}}
+{{  ویکیپېډیا څه ده لمړي مخ}}
+  </div>
+{{لومړی مخ/ښه راغلئ۲}}
+</div>
+    {{لومړی مخ اوسنۍ پېښې}}
+    </div>
+  </div>
+{{نن ورځ تاريخ}} 
+    </div>
+{{لومړی مخ غوره انځور}}
+{{لومړی مخ/نورې پروژې}}
+{{لومړی مخ نور معلومات}}
+{{لومړی مخ ژبي}}
 
-{{لومړی مخ/سر لیک}}
-{{ليکلړ دړه}}
-
-<!------------------------------ "ويکيپېډيا ته ښه راغلئ" او د ليکنو شمېر--------------------------------->
-----
-{| style="margin-top:10px; background:none;"
-<!-- ============== KOLOM KIRI MULAI ================ -->
-| style="width:50%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 5px 5px 0px; {{border-radius|10px}}" |
-
-{| cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;"
-<!-- ============== منتخب مضمون ================ -->
-!
-{{لومړی مخ/بکس
-|سرليک= <big>ټاکلې ليکنه</big>
-|id      = mf-artikelpilihan
-|انځور= HSutvald2.svg
-|متن = {{غوره ليکنه}}
-|orange = oLumiereSur
-}}
-
-<!-- ================== اوسنۍ پېښې=============== -->
-! {{لومړی مخ/بکس
-|سرليک   = <big>اوسنۍ پېښې</big>
-|id      = mf-peristiwaterkini
-|انځور   = HSAktuell.svg
-|متن = {{خبرونه}}</div> 
-}}
-
-<!-- ============== ايا پدې پوهيدئ؟================= -->
-! {{لومړی مخ/بکس
-|سرليک   = <big>آيا پدې پوهېدئ؟</big>
-|id      = mf-tahukahanda
-|انځور   = HSVissteduatt.svg
-|متن =  {{clr}} {{ايا پدې پوهېدئ}}
-|lien    =  {{clear}}
-}}
-<!-- =============  انځورونه ================== -->
-! {{لومړی مخ/بکس2
-|id      = mf-gambarpilihan
-|سرليک   = <big>غوره انځور</big>
-|انځور   =  HSBild.svg
-|متن = {{غوره انځور}}
-}}
-<!-- ============= TABEL KIRI SELESAI ================= -->
-|}
-| style="solid transparent;" |
-<!-- ============== KOLOM KANAN MULAI ================ -->
-| style="width:50%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 5px 5px 0px; {{border-radius|5px }}"|
-{| id="mp-right" cellpadding="2" cellspacing="4" style="width:50%; vertical-align:top; background:#f5faff; background:transparent;"
-<!-- ========================= د گډون کولو لپاره دعوت =============== -->
-! {{لومړی مخ/بکس2
-| انځور   = W-circle.svg
-| سرليک   = <big>ويکيپېډيا کې گډون وکړئ!</big>
-| متن = {{لومړی مخ/ښه راغلئ}}
-}}
-<!-- ========================= وراشه/اقتباسات =============== -->
-! {{لومړی مخ/بکس2
-| انځور   = HSBook.svg
-| سرليک   = <big>د نن ورځې وراشه</big>
-| متن = {{لومړی مخ/پيغام}}
-}}
-
-<!-- ========================= اضافی =============== --
-{{#if:{{{cont2|}}}|
-! {{لومړی مخ/بکس2
-| انځور   = {{{img2|Text-x-generic with pencil-2.svg}}}
-| سرليک   = <big>{{{jud2|Partisipasi}}}</big>
-| متن = {{{cont2|Mari berpartisipasi dalam membangun ensiklopedia bebas terlengkap berbahasa Indonesia!}}}
-}}|}}
-
-<!-- ========================= ټولنه =============== -->
-! {{لومړی مخ/بکس2
-| انځور   = HSSamarbete.svg
-| سرليک   = <big>ويکيپېډيا کارنان</big>
-| متن = {{ويکي ټولنه}}
-}}
-
-<!-- ================== نن ورځ =============== -->
-! {{لومړی مخ/بکس
-|سرليک   = <big>نن ورځ</big>
-|id      = mf-hids
-|انځور   = HSDagensdatum.svg
-|متن = {{نن ورځ}}
-}}
-
-<!-- ================== خورلڼې پروژې  =============== -->
-! {{لومړی مخ/بکس2
-| انځور   = Wikimedia-logo-circle.svg
-| سرليک   = {{nobr|<big>خورلڼې پروژې</big>}}
-| متن = {{clr}} {{ويکيپېډيا:لومړی مخ/نورې پروژې2}}
-}}
-|}
-<!-- =========================  =============== -->
-<!-- =========================   =============== -->
-|}
-<!-- =========================   =============== -->
-<!-- ==========================   ========================== -->
-{| style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;"
-| style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; {{border-radius|10px}}" |
-
-|}<inputbox>
-type=create
-width=70
-buttonlabel= نوې ليکنه ورگډول
-break=no
-</inputbox>
-
-{{لومړي مخ لره دړه}}
-{| style="margin: 0 auto;background-color:transparent"
-|[[دوتنه:Crystal 128 mail.png|24px|link=ويکيپېډيا:اړيکه|alt=Hubungi kami]]||''[[ويکيپېډيا:له موږ سره اړيکه|که تاسې په يو شي کې مرسته غواړئ نو زمونږ سره اړيکه ټينگه کړئ]]''
-
-<!-- ========================== پای ========================== -->
-
-__NOTOC__
-__NOEDITSECTION__
-{{noexternallanglinks}}
-{{ لمړی مخ مېنځپاڼه}}
+  </div>
+</div> __NOTOC__ __NOEDITSECTION__
+[[وېشنيزه:My own work]]
