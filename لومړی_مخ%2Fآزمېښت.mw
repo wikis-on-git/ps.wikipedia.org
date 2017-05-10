@@ -1,8 +1,8 @@
   </div>
 </div>
 <div class="footer" style="clear: both; padding-top: 1em;">
-  <!-- نگارهٔ برگزیده -->
-  <div id="mf-fp">{{صفحهٔ اصلی/عنوان|title = نگارهٔ برگزیدهٔ امروز|image = Symbol_star6.svg|ویرایش = {{مدیاویکی:ffeed-potd-page}} }}
+  <!-- نگارهٔ برگزیده --> 
+  <div id="mf-fp">{{لومړی مخ/سرليک|title = نگارهٔ برگزیدهٔ امروز|image = Symbol_star6.svg|ویرایش = {{مدیاویکی:ffeed-potd-page}} }}
     <div style="padding: 0 0.5em;">
       <div class="center">
 {{ {{مدیاویکی:ffeed-potd-page}} }}</div>
