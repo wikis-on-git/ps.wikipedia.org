@@ -12,8 +12,8 @@
 |{{#ifexpr:300 < 400|style="padding:0 0 0 0.9em;"|}}| {{#if: 
   |{{wide image-noborder|Female impala.jpg|300px|4=550px|alt=ایمپالا }}
   |{{#if: 
-    |{{tall image|Female impala.jpg|300|alt={{{alttext}}} }}
-    |[[File:Female impala.jpg|300px {{ #if:| {{!}} thumbtime={{{thumbtime}}} }}|ایمپالا {{#if:|{{!}}link=File:{{{imagelink}}}|}}]]
+    |{{tall image|Aerial photograph of Kandahar Province in 2011.jpg|300|alt={{{alttext}}} }}
+    |[[File:Aerial photograph of Kandahar Province in 2011.jpg|300px {{ #if:| {{!}} thumbtime={{{thumbtime}}} }}|ایمپالا {{#if:|{{!}}link=File:{{{imagelink}}}|}}]]
     }}
   }}
 {{#ifexpr:300 >= 400|
@@ -25,6 +25,8 @@
 
 {{#if:کارن:Bloch khan|<small>:کارن Bloch khan</small>|}}
 |}<noinclude>[[وېشنيزه:د نن غوره انځور {{#time:F Y|{{SUBPAGENAME}}}}]]
+File:Aerial photograph of Kandahar Province in 2011.jpg
+
 ==داهم وګوري==
 *[[الگو:نر{{#ifeq:{{BASEPAGENAME}}|نر محافظت شده||_محافظت شده}}/{{SUBPAGENAME}}]]</noinclude>
 
