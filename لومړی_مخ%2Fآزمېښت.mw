@@ -1,11 +1,13 @@
+    </div>
+</div>
+<div class="footer" style="clear: both; padding-top: 1em;">
   <!-- نگارهٔ برگزیده -->
-  <div id="mf-fp">{{صفحهٔ اصلی/عنوان|title = نگارهٔ برگزیدهٔ امروز|image = Symbol_star6.svg|ویرایش =
- {{ {{ميډياويکي:Ffeed-potd-page}} }}
+  <div id="mf-fp">{{صفحهٔ اصلی/عنوان|title = نگارهٔ برگزیدهٔ امروز|image = Symbol_star6.svg|ویرایش = {{ميډياويکي:Ffeed-potd-page}} }}
     <div style="padding: 0 0.5em;">
       <div class="center">
-{{ {{مدیاویکی:ffeed-potd-page}} }}</div>
+{{ {{ميډياويکي:Ffeed-potd-page}} }}</div>
       <div style="font-size: 85%; text-align: left;">
-        <div>[[پرونده:Cscr-featured.svg|15px|link=]] '''[[ویکی‌پدیا:نگاره روز/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}|بایگانی {{CURRENTMONTHNAME}} {{CURRENTYEAR}}]]''' &ndash; '''[[ویکی‌پدیا:نگاره‌های برگزیده|نگاره‌های برگزیدهٔ بیشتر]]'''</div>
+        <div>[[دوتنه:Cscr-featured.svg|15px|link=]] '''[[ویکی‌پدیا:نگاره روز/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}|بایگانی {{CURRENTMONTHNAME}} {{CURRENTYEAR}}]]''' &ndash; '''[[ویکی‌پدیا:نگاره‌های برگزیده|نگاره‌های برگزیدهٔ بیشتر]]'''</div>
       </div>
     </div>
   </div>
