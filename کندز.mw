@@ -1,27 +1,92 @@
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-|- style="background-color:lightblue;"
-! colspan="2" |کندز <br />قندوز
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[دوتنه:Afghan Business School Kunduz.jpg|250px]]<br />[[دوتنه:Kunduz.JPG|250px]]
-|-
-! align="right" valign="top" |هېواد
-|[[دوتنه:Flag of Afghanistan.svg|20px]] [[افغانستان]]
-|-
-! align="right" valign="top" |ولایت
-|[[د کندز ولايت|د کندز ولایت]]
-|-
-! align="right" valign="top" |د اوسېدونکي شمیر
-|۲۴۷،۴۵۰
-|-
-! align="right" valign="top" |د بحر له سطحې لوړوالي
-|۳۹۱ متره
-|-
-! align="right" valign="top" |دین
-|[[اسلام]] 
-|-
-|}
-
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   =کندز
+|native_name            = کندوز
+|settlement_type        = ښار
+<!-- images and maps  ----------->
+|image_skyline          = Kunduz city map - 01.png
+|imagesize              =
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Afghanistan
+|pushpin_label_position = above
+|pushpin_mapsize        =
+|pushpin_map_caption    = ځاي په افغانستان کې 
+<!-- Location ------------------>
+|subdivision_type       = هيواد
+|subdivision_name       = {{flag|Afghanistan}}
+|subdivision_type1      = [[د افغانستان ولايتونه |ولايت]]
+|subdivision_name1      = [[کندوز ولايت]]
+|subdivision_type2      = [[د افغانستان ولسوالیانۍ|ولسوالۍ]]
+|subdivision_name2      = [[کندوز ولسوالۍ]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      = لومړی ذکر
+|established_date       = له 329 عيسوي کال څخه مخکي
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = 
+|area_footnotes           =
+|area_total_km2
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+<!-- Population   ----------------------->
+|population_as_of               =2012
+|population_footnotes           =<ref name=cso/>
+|population_note                =
+|population_total               =268,893
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =268,893
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+<!-- General information  --------------->
+|timezone               =د افغانستان معياري وخت
+|utc_offset             = +4:30
+|timezone_DST           = 
+|utc_offset_DST         =  
+|coordinates            = {{coord|36|43|43|N|68|52|5|E|region:AF-KDZ|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use  tags-->
+|elevation_m            =391
+|elevation_ft           =
+|blank1_name_sec2       = [[دين]]
+|blank1_info_sec2       = [[اسلام]]
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              =
+}}
 '''کندز''' (په دري کې: '''قندوز''') د [[افغانستان]] پنځم لوي ښار دي چې د [[افغانستان]] په شمال کې پروت دي او [[د کندز ولايت|د کندز د ولایت]] مرکز دي. دغه ښار ۲۴۷،۴۵۰ نفوس لري. په دي ښار کې په ځانگړي ډول [[پښتانه]]، هزارگان، تاجکان، [[ازبکان]] او [[عرب|عربان]] ژوند کوي.
 
 == نور ولولئ ==
