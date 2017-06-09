@@ -1,16 +1,15 @@
-{{ښار-مالوماتبکس
+{{Infobox settlement
 | نوم               = د نيويارک ښار
-| رسمي نوم      = ښار د نيويارک
-| ولسي نوم       = <!-- for cities whose native name is not in English -->
+| name      = ښار د نيويارک
+| official_name       = <!-- for cities whose native name is not in English -->
 | کورنی نوم      = <br>The [[Big Apple]], [[Gotham]], [[Center of the universe|Center of The Universe]], The City That Never Sleeps
 | settlement_type    = ښار
 | motto              =
 | image_skyline      = NYC Montage 12 by Jleon.jpg
 | imagesize           = 315px
 | image_caption      = له کيڼ لورې: [[د ښارمېنځ مانهاتان]], د [[ملگرو ملتونو مرکز]]، [[د خپلواکۍ پژۍ]], [[د ټايم څلورلارې]], [[يونيسفيير]] په کوينز کې، [[د بروکلين پول]], او [[کوز مانهاتان]] [[د آيالتي ټاپو بېړۍ]] سره
-| image_flag         = Flag of New York City.svg
-| flag_size          =
-| image_seal         = Seal of the City of New York.svg
+| image_flag = Flag of New York City.svg
+| image_seal = Seal_of_New_York_City_BW.svg
 | seal_size          =
 | image_shield       =
 | shield_size        =
@@ -25,7 +24,7 @@
 | dot_map_caption    =
 | dot_x              =
 | dot_y              =
-|pushpin_map=USA2
+|pushpin_map=| pushpin_map = USA#New York
 |pushpin_map_caption=Location in the United States
 | mapsize            = 160px
 | main lenguages     = [[انگرېزي ژبه|انگرېزي]] او [[اسپانيوي ژبه|اسپانيوي]]
@@ -88,7 +87,7 @@
 | population_urban                = 18223567
 | population_density_urban_km2    = auto
 | population_density_urban_sq_mi  = auto
-| population_blank1_title         = [[Demonym]]
+| population_blank1_title         = [[د خلکو نوم]]
 | population_blank1               = New Yorker
 | population_density_blank1_km2   =
 | population_density_blank1_sq_mi =
@@ -101,7 +100,7 @@
 | elevation_footnotes             = <!-- for references: use tags -->
 | elevation_m                     = 10
 | elevation_ft                    = 33
-| postal_code_type                = ZIP codes
+| postal_code_type                = زيپ کوډ
 | postal_code                     = 100xx-104xx, 11004-05, 111xx-114xx, 116xx
 | area_code                       = [[Area code 212|212]], [[Area code 718|718]], [[Area code 917|917]], [[Area code 347|347]], [[Area code 646|646]]
 | blank_name                      =
