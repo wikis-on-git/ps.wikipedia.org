@@ -1,28 +1,57 @@
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-|- style="background-color:lightgreen;"
-! colspan="2" |غزني <br />
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:Ghazni City, 2010.jpg|400px]]
-|-
-! align="right" valign="top" |هېواد
-|[[File:Flag of Afghanistan.svg|20px]] [[افغانستان]]
-|-
-! align="right" valign="top" |ولایت
-|[[د غزني ولايت|د غزني ولایت]]
-|-
-! align="right" valign="top" |د اوسېدونکي شمیر
-|۱۴۱،۰۰۰
-|-
-! align="right" valign="top" |د بحر له سطحې لوړوالي
-|۲،۲۱۹ متره
-|-
-! align="right" valign="top" |دین
-|[[اسلام]] 
-|-
-|}
-
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                   = غزني
+| native_name            = 
+| settlement_type        = ښار
+| image_caption          =
+<!-- images and maps  ----------->
+| image_skyline          = {{Photomontage|location=center|size=300|spacing=3
+| photo1a=130422-A-TB205-027.jpg{{!}}Residents of Ghazni City walk past newly constructed gates and monuments in Ghazni
+| photo1b=Ghazni City, 2010.jpg{{!}}Ghazni City}}
+| image_flag             = 
+| image_seal             = 
+| image_shield           = 
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Afghanistan
+| pushpin_label_position = above
+| pushpin_mapsize        = 300px
+| pushpin_map_caption    = ځاي په افغانستان کې 
+| coordinates            = {{coord|33|33|N|68|25|E|region:AF|display=inline,title}}
+| subdivision_type       = هيواد
+| subdivision_name       = {{AFG}}
+| subdivision_type1      = [[د افغانستان ولايتونه |ولايت]]
+| subdivision_name1      = [[غزني ولایت]]
+| subdivision_type2      = [[د افغانستان د|ولسوالۍ]]
+| subdivision_name2      = غزني ولسوالۍ
+| established_title      = 
+| established_date       = 
+| leader_title           = 
+| leader_name            = 
+| area_total_km2         = 
+| area_land_km2          = 
+| area_water_km2         = 
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            = 2219
+<!-- Population   ----------------------->
+| population_footnotes   = <ref>{{cite web|title=The State of Afghan Cities Report 2015 |url=http://unhabitat.org/books/soac2015/ |accessdate=21 October 2015 |ref=UN-Habitat |deadurl=yes |archiveurl=https://web.archive.org/web/20151031111515/http://unhabitat.org/books/soac2015/ |archivedate=31 October 2015 |df= }}</ref>
+| population_total       = 143,379
+| population_as_of       = 2015
+| population_urban       = 143,379
+<!-- General information  --------------->
+| timezone               = [[د افغانستان معياري وخت|UTC]]
+| utc_offset             = +4:30
+| timezone_DST           = 
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              = 
+| website                = 
+}}
 '''غزني''' یو مهم ښار دي چې د [[افغانستان]] په ختیځ کې پروت دي. دغه ښار [[د غزني ولايت|د غزني د ولایت]] مرکز دي او تقریبًا ۱۴۱،۰۰۰ نفوس لري.
+
 ==تاریخ==
 د تاریخ پوهانو په نظر غزني په ۱۵۰۰ کال کې عیسوی سنې مخکې د [[هندوستان|هندوستاني]] راج (پاچا) لخوا جوړ شو. په ۶ پیړۍ عیسوی سنې مخکې دغه ښار د [[کوروش ۲]] د پوځونو لخوا ونیول شو. 
 د غزني ښار تر ۷ پیړۍ پورې د بودهزم د مرکزونو څخه وو. په ۶۸۳ کال کې د عرب اردو غرني ونیو او خلکو اسلامي مذهب قابل کړل. په ۹ پيړۍ کې  غزني د غزنوي سلطنت پایتخت شو.
