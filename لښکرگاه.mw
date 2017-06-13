@@ -1,33 +1,71 @@
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-|- style="background-color:lightgreen;"
-! colspan="2" |لښکر گاه <br />لشکر گاه
-|-
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:Mosque in Lashkar Gah.jpg|300px]]
-|-
-! align="right" valign="top" |هېواد
-|[[File:Flag of Afghanistan.svg|20px]] [[افغانستان]]
-|-
-! align="right" valign="top" |ولایت
-|[[د هلمند ولايت]]
-|-
-! align="right" valign="top" |د اوسېدونکي شمیر
-|۲۰۱،۵۴۶
-|-
-! align="right" valign="top" |د بحر له سطحې لوړوالي
-|۷۷۳ متره
-|-
-! align="right" valign="top" |دین
-|[[اسلام]] 
-|-
-|}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name            = لښکرګاه
+| native_name              = لشکرگاه<!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = ښار
+<!-- images and maps  ----------->
+| image_skyline            = {{Photomontage
+|photo1a = Sunset over Helmand River.JPG{{!}}Sunset over the Helman River
+|photo1b = Mosque in Lashkar Gah.jpg{{!}}Lashkar Gah Mosque
+|photo2a = Houses near to the River.jpg{{!}}Lashkar Gah streets
+|photo2b = Mirwais Neka Park.JPG{{!}}Mirwais Nikka Park
+|size    = 300
+|border  = 0
+|color   = Gray }}
+| image_caption            = له کيڼي لوري څخه ښي لوري ته: دمازيګر په وخت کي د هلمند سيند ; د لښکرګاه جومات; د لښکرګاه کوڅۍ; د میرویس نیکه پارک.
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| image_map                = 
+| map_caption              = 
+| pushpin_map              = Afghanistan <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position   = bottom
+| pushpin_mapsize          = 300
+| pushpin_map_caption      = ځاي په افغانستان کې 
+| coordinates              = {{coord|31|34|59|N|64|22|9|E|region:AF|display=inline,title}}
+<!-- Location ------------------>
+| subdivision_type         = هيواد
+| subdivision_name         = {{flag|Afghanistan}}
+| subdivision_type1        = [[د افغانستان ولايتونه |ولایت ]]
+| subdivision_name1        = [[هلمند ولايت ]]
+| subdivision_type2        = ولسوالۍ 
+| subdivision_name2        = 
+| established_title        = <!-- Settled -->
+| established_date         = 
+| leader_title             = ښاروال
+| leader_name              = مطيع الله بشير 
+| area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi         = 
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_land_sq_mi          = 
+| area_water_km2           = 
+| area_water_sq_mi         = 
+| elevation_footnotes      = <!--for references: use<ref> </ref> tags-->
+| elevation_m              = 773
+| elevation_ft             =
+<!-- Population   ----------------------->
+| population_footnotes     = 
+| population_total         = 201,546
+| population_as_of         = 2006
+| population_density_km2   = 
+| population_density_sq_mi = 
+| population_urban         = 276,831<ref>{{cite web|title=The State of Afghan Cities report2015 |url=http://unhabitat.org/books/soac2015/ |ref=UN-Habitat |deadurl=yes |archiveurl=https://web.archive.org/web/20151031111515/http://unhabitat.org/books/soac2015/ |archivedate=31 October 2015 |df= }}</ref>
+| population_note          = <ref name=demography/>
+<!-- General information  --------------->
+| timezone                 = [[UTC]] +4:30
+| utc_offset               = 
+| timezone_DST             = 
+| utc_offset_DST           =
+<!-- Area/postal codes & others -------->
+| postal_code_type         = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code              = 
+| area_code                = 
+| website                  = {{URL|http://www.lashkargahmun.gov.af}}
+}}
 
 '''لښکرگاه''' (په دري کې: '''لشکر گاه''') [[د هلمند ولايت|د هلمند د ولایت]] مرکز دي چي د [[افغانستان]] په جنوب کې پروت ري. دغه ښار د هلمند او  ارغنداو د سیندونو په منځ کې وجود لري. د لښکر گاه په ښار کې هوایی ډگر شته.
-
-
-
-
-
 
 == نور ولولئ ==
 * [[د افغانستان ولسوالۍ]]
