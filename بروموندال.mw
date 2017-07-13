@@ -36,8 +36,13 @@
 |pushpin_map_caption    =
 |pushpin_mapsize        =
 <!-- Location ------------------>
-|coordinates_display       = inline,title
-|coordinates_region     = NO
+| pushpin_map            = Norway Hedmark
+| pushpin_label_position = above
+| pushpin_mapsize        = 300px
+| pushpin_map_caption    = ځاي په افغانستان کې 
+<!-- Location ------------------>
+| coordinates            = {{coord|60|53|N|10|56|E|region:NO_type:city|display=inline,title}}
+
 |subdivision_type       = هیواد
 |subdivision_name       = [[ناروی]]
 |subdivision_type1      = [[ولایت]]
@@ -53,5 +58,6 @@
 بروموندال یو ښار دی  په رینګساکېر ولایات کی 
 او شاوخوا ۱۰۰۰۰ خلک پکی اوسی
 [[File:Brumunddal 1.jpg|thumb| بروموندال ښار ]]
+
 ==سرچینۍ==
 [[وېشنيزه:ناروې]]
