@@ -1,23 +1,16 @@
 {{About}}
 {{Infobox settlement
-|name = کندھار<br>لوی کندھار 
+|name = کندھار<br>لوی کندھار  
  |native_name   =اراکوزيا
 |  nickname = لوی کندھار 
 |other_name =
 |settlement_type =ښار
-<!-- images and maps ----------->
-|image =<div style="white-space:nowrap;"><!--If you swap out an image, change the "x##px" entry for EACH image in the row so that the width of the row lines up with the others-->[[File:Aerial photograph of Kandahar Province in 2011.jpg|150px|]] [[File:Aerial view of a section of Kandahar in 2013.jpg|150px|Aerial view of a section of Kandahar]]<br/>[[File:Mausoleum of Baba Wali in 2011.jpg|150px|Mausoleum of Baba Wali]] [[File:View of Arghandab Valley.jpg|150px|Arghandab Valley]]<br/>[[File:Aerial view of Kandahar Airport in 2005.jpg|150px|Kandahar International Airport]] [[File:KandaharMosque02.JPG|150px|Mausoleum of Mirwais Hotak]]<br/>[[File:Mosque in Kandahar.jpg|150px|Mausoleum of Ahmad Shah Durrani]] [[File:Governor's courtyard in Kandahar.jpg|150px|Governor's Mansion]]</div>
+<!-- انځورونه او نقشي ----------->
+|image =[[File:Aerial photograph of Kandahar Province in 2011.jpg|150px|]] [[File:Aerial view of a section of Kandahar in 2013.jpg|150px|Aerial view of a section of Kandahar]]<br/>[[File:Mausoleum of Baba Wali in 2011.jpg|150px|Mausoleum of Baba Wali]] [[File:View of Arghandab Valley.jpg|150px|Arghandab Valley]]<br/>[[File:Aerial view of Kandahar Airport in 2005.jpg|150px|Kandahar International Airport]] [[File:KandaharMosque02.JPG|150px|Mausoleum of Mirwais Hotak]]<br/>[[File:Mosque in Kandahar.jpg|150px|Mausoleum of Ahmad Shah Durrani]] [[File:Governor's courtyard in Kandahar.jpg|150px|Governor's Mansion]]</div>
 |size    = 300
 
-|border  = 0 
-|color   =white
-| image_flag             = 
-| image_seal             = 
-| image_shield           = 
-| image_map              = 
-| map_caption            = 
 | pushpin_map            =  Afghanistan 
-|pushpin_caption =په افغانستان کی نښان
+|pushpin_caption =ځاي په افغانستان کې 
 | pushpin_label_position = above
 | pushpin_mapsize        = 300
 | pushpin_map_caption    = 
@@ -25,49 +18,28 @@
 |image_map =Kandahar districts.png
 |map_caption2 =په رنګی نخشه کی د کندهار ولسوالی ښکاری
 |image_map_size =300px
-<!-- Location ------------------>
+<!-- ځاي ------------------>
 |subdivision_type =   '''ھیواد'''
-|subdivision_name = {{flag|Afghanistan }}
+|subdivision_name = {{افغانستان }}
 |subdivision_type1 = [[دافغانستان ښارونه|ښار]]
 |subdivision_name1 = [[ کندهار ولايت|کندهار]]
 |subdivision_type2 = ولايت 
 |subdivision_name2 = کندھار
-<!-- Politics ----------------->
+<!-- سياست ----------------->
 |government_footnotes =
 |government_type =حکومت
 |leader_title =والی
 |leader_name = [[زلمی ویسا]]
-|established_title =
-ښاروال
+|established_title =ښاروال
+
 |established_date =[[روښان ولسمل]]
-<!-- Area --------------------->
-|area_magnitude =
-|unit_pref =
-|area_footnotes =
-|area_total_km2
-<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
-|area_land_km2 = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
-|area_water_km2 =
-|area_total_sq_mi =
-|area_land_sq_mi =
-|area_water_sq_mi =
-|area_water_percent =
-|area_metro_km2 =
-|area_metro_sq_mi =
-<!-- Population ----------------------->
+<!-- نفوس ----------------------->
 |population_as_of = ۲۰۱۲
 |population_footnotes =
 |population_note = 
 |population_total = ۴۹۱،۵۰۰
-|population_density_km2 =
-|population_density_sq_mi =
-|population_metro =
-|population_density_metro_km2 =
-|population_density_metro_sq_mi =
-|population_urban =
-|population_density_urban_km2 =
-|population_density_urban_sq_mi =
-<!-- General information --------------->
+
+<!-- عمومي معلومات --------------->
 |timezone =د افغانستان معياري وخت
 |utc_offset = +4:30
 |timezone_DST =
@@ -75,8 +47,6 @@
 |elevation_footnotes = 
 |elevation_m =۱۰۱۰
 |elevation_ft =۳۳۱۰
-<!-- Area/postal codes & others -------->
-|postal_code_type = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
 |postal_code =
 |area_code =
 |blank_name =مهمه ژبه
@@ -84,16 +54,15 @@
 |blank1_name =پیدا کونکی
 |blank1_info =[[مقدوني سکندر]]
 |blank2_name =په فخر یادونه
-|blank2_info =زما کندهاره دزمرو وطنه
+|blank2_info =لوي کندهار 
 | website          = {{URL|http://kicd.gov.af/}}
-|footnotes =په ۱۷۴۷ زېږدیز كال كې<br> د افغانستان جوړیدو اعلان د کندهار نه وسو<br> او په ۱۹۹۶ زیږدیز کال کی <br> [[د افغانستان اسلامي امارت]] <br> جوړیدنی اعلان  بیا هم دکندهار نه وسو
-او کندهار د<br> افغانستان لمړنی پلازمېنه وه
+|footnotes =آيا خبر ياست کندهار د افغانستان لمړي پلازمېنه وه
 {{Infobox region symbols    
 | embedded = هو
 | region   = کندهار
 | country  = {{افغانستان}}
-| emblem = [[زوړ کندهار]], [[چل زينه]]
-| song = زما کندهاره د زمرو وطنه،<br />زما د سرکښو پښتنو وطنه،<br />سونی یاغی یی صدقه دی سمه،<br />دنافرمانو جنګیالو وطنه
+| emblem = [[زوړ کندهار]]، [[چل زينه]]
+| song = 
 | language = [[File:Pashto.svg|50px|left|پښتو]] '''[[پښتو ژبه|پښتو]]'''<br />
              [[File:Dari.png|50px|left|دري]] <br />'''[[دري ژبه|دری]]'''   [[File:Balochi.svg|50px|left|بلوڅي ژبه]] <br />'''[[بلوڅي ژبه|بلوڅي]]'''
 | animal   = [[File:Afghanistan 12.jpg|50px|left|Chital]] '''پسه'''
