@@ -1,52 +1,92 @@
-{{ښار-مالوماتبکس
-| نوم               =  اوسلو
-| رسمي نوم      = ښار د اوسلو
-| ولسي نوم       = <!-- for cities whose native name is not in English -->
-| کورنی نوم      = 
-| settlement_type    = ښار
-| motto              =
-| image_skyline      =Oslo newer montage 2013.png|Oslo newer montage 2013
-| imagesize           = 315px
-| image_caption      = 
-| image_flag         =Flag of Oslo.svg|Flag of Oslo
-| flag_size          =
-|image_seal                       = Oslo komm.svg
-| seal_size          =
-| image_shield       =
-| shield_size        =
-| image_map          = Norway Counties Oslo Position.svg
-| mapsize            = 120px
-| map_caption        = Location in the state of New York
-  | mapsize            = 120px
-| map_caption        =  دا اوسلونښان په ناروی کی
-| image_map1         =
-| mapsize1           =
-| map_caption1       =
-| image_dot_map      =
-| dot_mapsize        =
-<!-- Population ------------>
-|population_as_of       = 2013
-|population_footnotes   =
-|population_total       =
-|population_density_km2 =  
-|population_metro       =۶۵۸۳۹۰
-|population_density_metro_km2 =
-|population_blank1_title = خلک بللي کيږي
-|population_blank1       =نورمان
-<!-- General information  --------------->
-|timezone_DST           =
-|utc_offset_DST         =
-|elevation_m            =  
-|elevation_ft           =
-| main lenguages     = 
-| blank_name                      =
-| blank_info                      =
-| blank1_name                     =
-| blank1_info                     =
-| website                         =  {{URL|http://www.oslo.kommune.no}}
+{{Infobox settlement
+|official_name      = اوسلو
+|settlement_type    = ښار 
+|image_skyline      = {{Photomontage
+|photo1a =Downtown Oslo Norway skyline.png
+|photo2a =Oslo - Parliament (14131199086).jpg
+|photo2b =NO-oslo-akershus-blick-von-schiff.jpg
+|photo3a =Astrup Museum.jpg
+|photo4a =SL79 112 at Uranienborgveien holdeplass.jpg
+|photo4b =Oslo Royal Palace 01.JPG
+|size = 275
+|position = center
+|spacing = Number indicating width of spacing between the images (default: 1)
+|color = Color of spacing between the images (default: black)
+|border = Number indicating width of border surrounding the montage (default: 1)
+|color_border = Color of border surrounding the montage (default: black)
+|text =
+|text_background = Color of background behind text (default: #F8F8FF)
+|foot_montage = 
 }}
-'''اوسلو''' د ناروې تر ټولو لوی ښار او د دې هېواد 
-[[پلازمېنه]] ده.
+|imagesize          = 260px
+|image_caption      = {{small|'''د لوړ چپه اړخ څخه:''' [[Barcode Project|بارکوډ]] په [[بيورويکا]] کښي،  [[Parliament of Norway Building|ستورتينګه]]، [[اکيرشهوس ماڼۍ]]،  [[Astrup Fearnley Museum of Modern Art|د معاصر هنر ميوزيم ]] په [[Tjuvholmen|تيووهولمين]] کي، [[بريسکيبي ميټرو لائن|بريسکيبي لائن]] په [[Uranienborg, Norway|اورانينبورګ]] کښي،  [[Royal Palace, Oslo|شاهي ماڼۍ]]}}
+|image_flag         = Flag of Oslo.svg
+|image_blank_emblem = Oslo komm.svg
+|blank_emblem_type  = د اسلو مهر (نښان)
+|shield_size        =
+|pushpin_map        = <!-- Norway -->
+|pushpin_map_caption= Location of Oslo in Norway
+|subdivision_type   = هيواد 
+|subdivision_name   = [[ناروی]]
+|subdivision_type1  = [[د ناروی د ولسوالیو لړليک |ولسوالۍ]]
+|subdivision_name1  = [[ختیځه ناروې|اوستلاند]]
+|subdivision_type2  = [[د ناروې فیلکی|فيلکه]]
+|subdivision_name2  = اوسلو
+|subdivision_type3  = [[List of municipalities of Norway|ښاروالۍ]]
+|subdivision_name3  =
+|leader_title       = [[List of mayors of Oslo|والۍ]]
+|leader_name        = [[ماريننه بورګين]] ([[سوسیالیست کيڼ ګوند (ناروې)|سوسياليست ګوند]])
+|leader_title1      = [[د اوسلو د ښاروال حکومت کونه| ښارواليز حکومت]]
+|leader_name1       = [[ریمون جوهانسن]] ([[د کارګر ګوند (ناروې)|کارګر ګوند ]])
+|established_title  = تاسیس کيدل
+|established_date   = ١٠٤٨
+|area_footnotes     = <ref name=AreaStats>{{cite web|title=Arealstatistikk for Norge|url=http://kartverket.no/Kunnskap/Fakta-om-Norge/Arealstatistikk/Oversikt/|website=Kartverket.no|publisher=Kartverket|accessdate=13 October 2015|date=16 October 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20160419002302/http://kartverket.no/kunnskap/fakta-om-norge/Arealstatistikk/Oversikt/|archivedate=19 April 2016|df=dmy-all}}</ref>
+|area_total_km2     = 480.76
+|area_land_km2      = 454.08
+|area_water_km2     = 26.68
+|elevation_m        = 23
+|population_footnotes= <ref name="Stats2016 a">{{cite web |url=http://www.ssb.no/befolkning/statistikker/folkemengde/aar-per-1-januar/2016-02-19?fane=tabell&sort=nummer&tabell=256001 |title=Population 1 جنوري 2016 |date=February 19, 2016 |work=Statistics Norway |accessdate=March 28, 2016}}</ref><ref name="Stats2015 b">{{cite web |url=http://www.ssb.no/en/befolkning/statistikker/beftett/aar/2015-04-09?fane=tabell&sort=nummer&tabell=222371 |title=Population and land area in urban settlements, 1 January 2014 |date=April 9, 2015 |work=Statistics Norway |accessdate=September 6, 2015}}</ref><ref name="Pop2015Q2">{{cite web|title=Population and population changes, Q2 2015|url=http://www.ssb.no/en/befolkning/statistikker/folkendrkv/kvartal/2015-08-20?fane=tabell&sort=nummer&tabell=236795|publisher=Statistics Norway|accessdate=13 October 2015|date=20 August 2015}}</ref>
+|population_as_of   =١ جنوري  ٢٠١٦
+|population_total   = 658,390
+|population_density_km2= auto
+|population_urban   = 942,084
+|population_density_urban_km2 = auto
+|population_metro = 1,717,900
+| population_metro_footnotes = {{Citation needed|reason=The previous reference was just to a SSB sheet of population within 100 km from Oslo. There is no claim that this is the metropolitan area of Oslo, someone has probably linked to it because they feel that 100 km radius is a metropolitan area. Non-scientific.|date=January 2017}}<ref name="regjeringen2010">{{cite web |url=https://www.ssb.no/a/samfunnsspeilet/utg/201005/02/tab-2010-12-06-01.html |title=Demografi innenfor ti mil fra Oslo. 1. januar 2010 og endringer 2000–2009. Antall og prosent |accessdate=15 January 2016 |trans-title=Demographics within a hundred kilometers from Oslo. 1 January 2010 and changes 2000–2009. Number and percent |work=Statistics Norway |language=Norwegian}}</ref>
+<!-- demographics (section 1) -->
+|demographics_type1  = تر ټولو لوي کډوال ګروپونه
+|demographics1_footnotes = <ref>{{cite web|url=https://www.ssb.no/en/befolkning/statistikker/innvbef|title=
+Immigrants and Norwegian-born to immigrant parents, 1 January 2017
+|publisher=Statistics Norway|accessdate=2 June 2017}}</ref>{{refn|As of 1 January 2017. Includes immigrants and children of two immigrants. Does not include children of one immigrant, or grandchildren, great grandchildren etc. of immigrants. No statistic exists which accounts for ethnicity or race. The share of the population which was not counted as immigrant or as children of two immigrants was 67.2%.|group=يادونه}}
+|demographics1_title1 = [[پاکستانيان]]
+|demographics1_info1  = 3.5%
+|demographics1_title2 = [[پوليش]]
+|demographics1_info2  = 2.5%
+|demographics1_title3 = [[سوماليايان]]
+|demographics1_info3  = 2.3%
+|demographics1_title4 = [[سويډنيان]]
+|demographics1_info4  = 2.0%
+|demographics1_title5 = [[عراقيان]]
+|demographics1_info5  = 1.2%
+|demographics1_title6 = [[سريلانکايان]]
+|demographics1_info6  = 1.1%
+|demographics1_title7 = [[ماروکن خلګ|ماروکن]]
+|demographics1_info7  = 1.0%
+|timezone       = [[Central European Time|ثيټ]]
+|utc_offset      = +1
+|timezone_DST     = [[Central European Summer Time|ثيټ]]
+|utc_offset_DST    = +2
+|coordinates        = {{coord|59|57|N|10|45|E|region:NO-03|display=inline,title}}
+|postal_code_type=د پوسټ کوډ
+|postal_code     = 0001 – 1299<ref>{{cite web|url=http://adressesok.posten.no/nb/postal_codes/search?utf8=%E2%9C%93&q=oslo|title=Finn postnummer og adresser i Norge og utlandet|publisher=}}</ref>
+|area_code       = (+47) 00
+|website       = {{URL|http://www.oslo.kommune.no}}
+|motto        = متحد او دوامداره <br /><small>(لاتين: ''United and constant'')</small>
+}}
+'''اوسلو''' چي د ناروې پلازمېنه ده، او همدارنګه د وړوکوالي سره سره بيا هم د [[ناروی]] هيواد يوه [[فيلکه]] يا ولايت دي، چي ددي هيواد تر ټولو لوي او د خلګو ډک ښار دي. ددي هيواد دا ښار چي د سمندر غاړې ته پروت دي، د ښار د ښکلا د لاسه هر کال په لکونو انسان ددي ښار د ليدو لپاره [[ناروی]] ته راځي.
+==تاریخ==
+==بل نوم==
+==سرچينې==  
 [[وېشنيزه:د ناروې ښارونه]]
 [[وېشنيزه:د نړۍ ښارونه]]
 [[وېشنيزه:ناروې]]
