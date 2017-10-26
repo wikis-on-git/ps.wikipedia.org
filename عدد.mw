@@ -240,7 +240,7 @@
 </big>
 
 == ''<span style="font-family:Arial;"> <span style="color:green;"> د تام (پوره يا نــِــټـوټـېـګي) عددونو (شمېرو يا نومرو) مــَــجموعه (ډَله يا سېټ) Integer number’s set </span> </span>'' ==
-''<span style="font-family:Arial;">تام (پوره يا نټوټېګي) عددونه (شمېرونه يا نومرونه) ، ټول طبيعي (پنځونيځ يا پیداشوِښتين) عددونه (شمېرونه يا نومرونه) دي اَو ټول د طبيعي (پنځونيځ يا پيداشوِښتين) عددونو (شمېرو يا نومرو) آپــِــضــِــد ، يعني چې ټول تام (پوره يا نټوټېګي) منفي (نغوښتـشويځ) عددونه (شمېرونه يا نومرونه) هم دي . د تام (پوره يا نټوټېګي) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) د «زِد» يا د «زي» په حرف (توري) داسې ښودل کيږي :</span>''
+<big>''<span style="font-family:Arial;">تام (پوره يا نټوټېګي) عددونه (شمېرونه يا نومرونه) ، ټول طبيعي (پنځونيځ يا پیداشوِښتين) عددونه (شمېرونه يا نومرونه) دي اَو ټول د طبيعي (پنځونيځ يا پيداشوِښتين) عددونو (شمېرو يا نومرو) آپــِــضــِــد ، يعني چې ټول تام (پوره يا نټوټېګي) منفي (نغوښتـشويځ) عددونه (شمېرونه يا نومرونه) هم دي . د تام (پوره يا نټوټېګي) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) د «زِد» يا د «زي» په حرف (توري) داسې ښودل کيږي :</span>''
 
 <math display="block">\mathbb{Z}</math>
 
@@ -257,7 +257,7 @@
 
 <math display="block">\mathbb{Z}^-\subset \mathbb{Z}    \qquad ; \qquad \mathbb{Z}^-\subseteq \mathbb{Z}</math><math display="block">\mathbb{Z}^+\subset \mathbb{Z}    \qquad ; \qquad \mathbb{Z}^+\subseteq \mathbb{Z}</math><math display="block">\{0\}\subset \mathbb{Z}    \qquad ; \qquad \{0\}\subseteq \mathbb{Z}</math><math display="block">\mathbb{N}\subset \mathbb{Z}    \qquad ; \qquad \mathbb{N}\subseteq \mathbb{Z}</math>
 
-''<span style="font-family:Arial;">درېيم :</span>''
+''<span style="font-family:Arial;">درېيم :</span>''</big>
 
 == ''<span style="font-family:Arial;"><span style="color:green;"> د نــِــسبــَــتي (بــَــرخړيکي) عددونو (شمېرو يا نومرو) مــَــجموعه (ډَله يا سېټ) Rational numbers’ set </span> </span>'' == 
 ''<span style="font-family:Arial;">نــِــسبــَــتي (برخړيکي) عددونه (شمېرونه يا نومرونه) هاغه دي چې د نسبت (برخړيک) په ډَول ليکل کېدی شي ، يعني چې لکه داسې يو نسبت (برخړيک) :</span>''
