@@ -347,7 +347,7 @@
 </big>
 
 == ''<span style="font-family:Arial;"><span style="color:green;"> د مــُــختــَــلــَــط (هــَــمپـېـلايـېـځ يا هــَــمپـېـچــِــلي) عــَــدَدونو (شمېرو يا نومرو) مــَــجموعه (ډَله يا سېټ) Complex numbers’ set </span> '' ==
-''<span style="font-family:Arial;">يو مختلط (همپېلايېځ يا همپېچلي) complex عدد (شمېر يا نومر) په عمومي (ټولونوال) ډَول داسې شکل (بڼه يا جوړون) form  لري :</span>''
+<big>''<span style="font-family:Arial;">يو مختلط (همپېلايېځ يا همپېچلي) complex عدد (شمېر يا نومر) په عمومي (ټولونوال) ډَول داسې شکل (بڼه يا جوړون) form  لري :</span>''
 
 <math display="block">a+b\, i</math><math display="block">a\in \mathbb{R}  \qquad ; \qquad b\in \mathbb{R}</math>
 
@@ -364,6 +364,7 @@
 ''<span style="font-family:Arial;">نو د عددونو (شمېرو يا نومرو) مجموعې (ډلې يا سېټونه) چې مونږ ولوستل هاغه د فرعي (څانګي يا برخي) مجموعو (ډلو) يا د ســَــبسېټـونو subsets   په ډَول داسې ليکلي شو :</span>''
 
 <math display="block">\mathbb{N}\subset \mathbb{Z}\subset \mathbb{Q} \subset \mathbb{R}\subset \mathbb{C}</math><math display="block">\mathbb{N}\subseteq \mathbb{Z}\subseteq \mathbb{Q}\subseteq \mathbb{R}\subseteq \mathbb{C}</math>
+</big>
 
 == ''<span style="font-family:Arial;"><span style="color:green;">   اَوَّلـــِـــيـــَّـــه (ړومبيځ) عــَــدَدونه (شمېرونه يا نومرونه) Prime numbers </span> </span>'' ==
 ''<span style="font-family:Arial;">يو عدد (شمېر يا نومر) چې يوازې اَو يوازې پر «خپل ځان» باندې اَو د «يو» پر عدد (شمېر يا نومر) باندې پوره د تقسيم (وېش) وَړ وي هاغه عدد (شمېر يا نومر) ته اَوَّلــِــيــَّــه (ړومبيځ) عدد (شمېر يا نومر) وَیل کيږي . دا لاندې عددونه (شمېرونه يا نومرونه) د اَوليه (ړومبيځ) عددونو (شمېرو يا نومرو) مثالونه (بېلګونه) دي :</span>''
