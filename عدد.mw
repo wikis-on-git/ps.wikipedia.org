@@ -226,26 +226,26 @@
 
 ''د ټولو طــَــبيعي (پنځونيځ يا پیداشوِښتين) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) د «اِن» په حرف (توري) داسې ښودل کیږي :''
 
-<math display="block">N</math>''يعني چې :''<math display="block">N=\{0\ ;\  1\  ;\  2\  ;\  3\  ;\  4\  ;\  5\  ;\  6\  ;\  7\ ;\  8\  ;\  9\  ;\  10\  ;\  11\  ;\  12\  ;\  ...\} </math>
+<math display="block">\mathbb{N}</math>''يعني چې :''<math display="block">\mathbb{N}=\{0\ ;\  1\  ;\  2\  ;\  3\  ;\  4\  ;\  5\  ;\  6\  ;\  7\ ;\  8\  ;\  9\  ;\  10\  ;\  11\  ;\  12\  ;\  ...\} </math>
 
 ''دوَهم :''
 
 == ''د تام (پوره يا نــِــټـوټـېـګي) عددونو (شمېرو يا نومرو) مــَــجموعه (ډَله يا سېټ) Integer number’s set'' ==
 ''تام (پوره يا نټوټېګي) عددونه (شمېرونه يا نومرونه) ، ټول طبيعي (پنځونيځ يا پیداشوِښتين) عددونه (شمېرونه يا نومرونه) دي اَو ټول د طبيعي (پنځونيځ يا پيداشوِښتين) عددونو (شمېرو يا نومرو) آپــِــضــِــد ، يعني چې ټول تام (پوره يا نټوټېګي) منفي (نغوښتـشويځ) عددونه (شمېرونه يا نومرونه) هم دي . د تام (پوره يا نټوټېګي) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) د «زِد» يا د «زي» په حرف (توري) داسې ښودل کيږي :''
 
-<math display="block">Z</math>
+<math display="block">\mathbb{Z}</math>
 
 ''ویل کيږي ځکه چې په آلماني (جـېـرمــَــني يا دويچلــَــندي) ژِبې کښې عدد (شمېر يا نومر) ته Zahl (څال) ويل کيږي .''
 
 ''د تام (پوره يا نټوټېګي) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) دوې برخې لري :''
 
-<math display="block">Z^+=N-\{0\}=\{+1\ ;\  +2\  ;\  +3\  ;\  +4\  ;\  +5\  ;\  +6\  ;\  ...\}</math><math display="block">Z^-=\{-1\  ;\  -2\  ;\  -3\  ;\  -4\  ;\  -5\  ;\  -6\  ;\  ...\}</math>
+<math display="block">\mathbb{Z}^+=\mathbb{N}-\{0\}=\{+1\ ;\  +2\  ;\  +3\  ;\  +4\  ;\  +5\  ;\  +6\  ;\  ...\}</math><math display="block">\mathbb{Z}^-=\{-1\  ;\  -2\  ;\  -3\  ;\  -4\  ;\  -5\  ;\  -6\  ;\  ...\}</math>
 
-''د «''<math>-</math>''» علامه (نښه) يعني چې د مجموعې (ډَلې يا سېټ) څخه تفريق (کمتر) کول . که د مجموعو (ډَلو يا سېټونو) اِتــّــِــحاد (يوون) union ته د «''<math>\cup</math>''» علامه (نښه) وکاروو ، نو مونږ داسې ليکلي شو :''<math display="block">Z=Z^-\cup\{0\}\cup Z^+</math>
+''د «''<math>-</math>''» علامه (نښه) يعني چې د مجموعې (ډَلې يا سېټ) څخه تفريق (کمتر) کول . که د مجموعو (ډَلو يا سېټونو) اِتــّــِــحاد (يوون) union ته د «''<math>\cup</math>''» علامه (نښه) وکاروو ، نو مونږ داسې ليکلي شو :''<math display="block">\mathbb{Z}=\mathbb{Z}^-\cup\{0\}\cup \mathbb{Z}^+</math>
 
 ''که د «''<math>\subset</math>''» يا د «''<math>\subseteq</math>''» د فــَــرعي (څانګي يا بــَــرخيځ) مجموعې (ډَلې يا سېټ) يا «لانديني سېټ» subset  لپاره وکاروو ، نو ليکلي شو چې :'' 
 
-<math display="block">Z^-\subset Z    \qquad ; \qquad Z^-\subseteq Z</math><math display="block">Z^+\subset Z    \qquad ; \qquad Z^+\subseteq Z</math><math display="block">\{0\}\subset Z    \qquad ; \qquad \{0\}\subseteq Z</math><math display="block">N\subset Z    \qquad ; \qquad N\subseteq Z</math>
+<math display="block">\mathbb{Z}^-\subset \mathbb{Z}    \qquad ; \qquad \mathbb{Z}^-\subseteq \mathbb{Z}</math><math display="block">\mathbb{Z}^+\subset \mathbb{Z}    \qquad ; \qquad \mathbb{Z}^+\subseteq \mathbb{Z}</math><math display="block">\{0\}\subset \mathbb{Z}    \qquad ; \qquad \{0\}\subseteq \mathbb{Z}</math><math display="block">\mathbb{N}\subset \mathbb{Z}    \qquad ; \qquad \mathbb{N}\subseteq \mathbb{Z}</math>
 
 ''درېيم :''
 
@@ -262,17 +262,17 @@
 
 ''د نسبتي (برخړيکي) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) د «کيو» حرف (توري) سره داسې ښودل کيږي :''
 
-<math display="block">Q</math>
+<math display="block">\mathbb{Q}</math>
 
 ''ځکه چې د تقسيم (وېش) لاستراوړ ته quotient  هم ويل کيږي چې د لاتیني ژبې څخه کلمه (وَيــَــی) ده چې په اِنګليسي ژِبې کښې کاروله کيږي .''
 
 ''د نسبتي (برخړيکي) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) هم مثبت (پځيشويځ) اَو منفي (نغوښتـشويځ) برخې يا فرعي (څانګي يا برخيځ) مجموعې (ډَلې يا سېټونه) يا ســَــبـسېټونه subsets لري :''
 
-<math display="block">Q=Q^-\cup\{0\}\cup Q^+</math>
+<math display="block">\mathbb{Q}=\mathbb{Q}^-\cup\{0\}\cup \mathbb{Q}^+</math>
 
 ''اَو ليکلي شو چې :''
 
-<math display="block">N\subset Z\subset Q \qquad ; \qquad N\subseteq Z\subseteq Q</math>
+<math display="block">\mathbb{N}\subset \mathbb{Z}\subset \mathbb{Q} \qquad ; \qquad \mathbb{N}\subseteq \mathbb{Z}\subseteq \mathbb{Q}</math>
 
 ''څلورم :''
 
@@ -291,30 +291,28 @@
 
 ''په ځينو کتابونو کښې د غيرنسبتي (نابرخړيکي) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) د «کيو ميله» يا «کيو تير» يا Q bar په حرف (توري) داسې ښودل کيږي :''
 
-<math display="block">\bar{Q}</math>
+<math display="block">\bar{\mathbb{Q}}</math>
 
 ''يعني چې د تقسيم (وېش) د حاصل (لاستراوړ) يا د  quotient په ډَول دا عددونه (شمېرونه يا نومرونه) نــِــه شي ليکل کېدی ، اَو پې باندې يو «خــَــنډ» يا «مانــِــع» يا «میله» يا «تير» bar  شته دئ . ''
 
 == ''د حــَــقـيـقـي (رِښتين) عــَــدَدونو (شمېرو يا نومرو) مــَــجموعه (ډَله يا سېټ) Real numbers’ set'' ==
 ''ټول نسبتي (برخړيکي) rational اَو غيرنسبتي (نابرخړيکي) irrational  عددونه (شمېرونه يا نومرونه) چې سره په يوې مجموعې (ډَلې يا سېټ) کښې ونيول شي ، هاغې مجموعې (ډَلې يا سېټ) ته د حــَــقيقي (رِښتين) real عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) ويل کيږي . د حقيقي (رِښتين) real عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) داسې ښودل کيږي :''
 
-<math display="block">R</math>
+<math display="block">\mathbb{R}</math>
 
 ''اَو داسې لرو چې :''
 
-<math display="block">R=Q\cup \bar{Q}</math>
+<math display="block">\mathbb{R}=\mathbb{Q}\cup \bar{\mathbb{Q}}</math>
 
 ''د مثبت (پځيشويځ) حقيقي (رِښتین) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) داسې ښودله کيږي :''
 
-<math display="block">R^+</math>
+<math display="block">\mathbb{R}^+</math>
 
 ''اَو د منفي (نغوښتـشويځ) حقيقي (رِښتین) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) داسې ښودله کيږي :''
 
-'' ''<math display="block">R^-</math>
+<math display="block">\mathbb{R}^-</math>
 
-''نو د دې درې مجموعو (ډَلو يا سېټونو)  اِتــّــِــحاد (يوون) union هم د حقيقي (رِښتين) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) راکوي :''
-
-<math display="block">R=R^- \cup \{0\}\cup R^+</math>
+''نو د دې درې مجموعو (ډَلو يا سېټونو)  اِتــّــِــحاد (يوون) union هم د حقيقي (رِښتين) عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) راکوي :''<math display="block">\mathbb{R}=\mathbb{R}^- \cup \{0\}\cup \mathbb{R}^+</math>
 
 == ''مــَــوهومي («آندجوړګــَــريځ» يا «سوچــَــنځورګــَــريځ» يا «تــَــصــَــوُّري» يا «خــَــيالي») عــَــدَدونو (شمېرو يا نومرو) مــَــجموعه (ډَله يا سېټ) Imaginary numbers’ set'' ==
 ''مونږ داسې يو عدد دلته پېژندوو چې :''
@@ -323,30 +321,30 @@
 
 ''نو هر حقيقي (رِښتين) عدد (شمېر يا نومر) چې «''<math>i</math>''» د ضريب (څوپلاګر) په ډَول د ځان سره ولري ، هاغه يو «موهومي» («آندجوړګــَــريځ» يا «سوچنځورګريځ» يا «تصوري» يا «خــَــيالي») عدد (شمېر يا نومر) وي ، لکه :''
 
-<math display="block">a\, i</math><math display="block">a\in R</math>
+<math display="block">a\, i</math><math display="block">a\in \mathbb{R}</math>
 
 ''د «موهومي» («آندځورګريزو» يا «سوچنځورګريزو» يا «تصوري» يا «خــَــيالي») عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) set of imaginary numbers  د «آي» د حرف (توري) سره داسې ښودل کېدی شي :''
 
-<math display="block">I</math>
+<math display="block">\mathbb{I}</math>
 
 ''نو ليکلي شو چې :''
 
-<math display="block">a\, i\in I \qquad ; \qquad a\in R</math>
+<math display="block">a\, i\in \mathbb{I} \qquad ; \qquad a\in \mathbb{R}</math>
 
 == ''د مــُــختــَــلــَــط (هــَــمپـېـلايـېـځ يا هــَــمپـېـچــِــلي) عــَــدَدونو (شمېرو يا نومرو) مــَــجموعه (ډَله يا سېټ) Complex numbers’ set'' ==
 ''يو مختلط (همپېلايېځ يا همپېچلي) complex عدد (شمېر يا نومر) په عمومي (ټولونوال) ډَول داسې شکل (بڼه يا جوړون) form  لري :''
 
-<math display="block">a+b\, i</math><math display="block">a\in R  \qquad ; \qquad b\in R</math>
+<math display="block">a+b\, i</math><math display="block">a\in \mathbb{R}  \qquad ; \qquad b\in \mathbb{R}</math>
 
-''که چېرې په داسې عدد (شمېر يا نومر) کښې ، «» صفر (هېڅ) وي ، نو مختلط (همپېلايېځ يا همپېچلی) عدد (شمېر يا نومر) سوچه حقيقي (رِښتين)real  عدد وي ، اَو که چېرې په داسې عدد (شمېر يا نومر) کښې ، «» صفر (هېڅ) وي ، نو مختلط (همپېلايېځ يا همپېچلی) عدد (شمېر يا نومر) سوچه موهومي (آندجوړګــَــريځ يا سوچنځورګريځ يا تصوري يا خيالي)imaginary  وي .  ''
+''که چېرې په داسې عدد (شمېر يا نومر) کښې ، «''<math>b</math>''» صفر (هېڅ) وي ، نو مختلط (همپېلايېځ يا همپېچلی) عدد (شمېر يا نومر) سوچه حقيقي (رِښتين)real  عدد وي ، اَو که چېرې په داسې عدد (شمېر يا نومر) کښې ، «''<math>a</math>''» صفر (هېڅ) وي ، نو مختلط (همپېلايېځ يا همپېچلی) عدد (شمېر يا نومر) سوچه موهومي (آندجوړګــَــريځ يا سوچنځورګريځ يا تصوري يا خيالي)imaginary  وي .  ''
 
 ''د مختلطو (همپېلايېځو يا همپېچليو)  complex عددونو (شمېرو يا نومرو) مجموعه (ډَله يا سېټ) د «سي» د حرف (توري) سره داسې ښودل کيږي :''
 
- <math display="block">C</math><math display="block">R\subset C \qquad ; \qquad R\subseteq C</math>
+ <math display="block">\mathbb{C}</math><math display="block">\mathbb{R}\subset \mathbb{C} \qquad ; \qquad \mathbb{R}\subseteq \mathbb{C}</math>
 
 ''نو د عددونو (شمېرو يا نومرو) مجموعې (ډلې يا سېټونه) چې مونږ ولوستل هاغه د فرعي (څانګي يا برخي) مجموعو (ډلو) يا د ســَــبسېټـونو subsets   په ډَول داسې ليکلي شو :''
 
-<math display="block">N\subset Z\subset Q \subset R\subset C</math><math display="block">N\subseteq Z\subseteq Q\subseteq R\subseteq C</math>
+<math display="block">\mathbb{N}\subset \mathbb{Z}\subset \mathbb{Q} \subset \mathbb{R}\subset \mathbb{C}</math><math display="block">\mathbb{N}\subseteq \mathbb{Z}\subseteq \mathbb{Q}\subseteq \mathbb{R}\subseteq \mathbb{C}</math>
 
 == ''اَوَّلـــِـــيـــَّـــه (ړومبيځ) عــَــدَدونه (شمېرونه يا نومرونه) Prime numbers'' ==
 ''يو عدد (شمېر يا نومر) چې يوازې اَو يوازې پر «خپل ځان» باندې اَو د «يو» پر عدد (شمېر يا نومر) باندې پوره د تقسيم (وېش) وَړ وي هاغه عدد (شمېر يا نومر) ته اَوَّلــِــيــَّــه (ړومبيځ) عدد (شمېر يا نومر) وَیل کيږي . دا لاندې عددونه (شمېرونه يا نومرونه) د اَوليه (ړومبيځ) عددونو (شمېرو يا نومرو) مثالونه (بېلګونه) دي :''
