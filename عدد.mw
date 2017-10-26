@@ -260,7 +260,7 @@
 ''<span style="font-family:Arial;">درېيم :</span>''</big>
 
 == ''<span style="font-family:Arial;"><span style="color:green;"> د نــِــسبــَــتي (بــَــرخړيکي) عددونو (شمېرو يا نومرو) مــَــجموعه (ډَله يا سېټ) Rational numbers’ set </span> </span>'' == 
-''<span style="font-family:Arial;">نــِــسبــَــتي (برخړيکي) عددونه (شمېرونه يا نومرونه) هاغه دي چې د نسبت (برخړيک) په ډَول ليکل کېدی شي ، يعني چې لکه داسې يو نسبت (برخړيک) :</span>''
+<big>''<span style="font-family:Arial;">نــِــسبــَــتي (برخړيکي) عددونه (شمېرونه يا نومرونه) هاغه دي چې د نسبت (برخړيک) په ډَول ليکل کېدی شي ، يعني چې لکه داسې يو نسبت (برخړيک) :</span>''
 
 <math display="block">{p \over q}</math>
 
@@ -285,6 +285,7 @@
 <math display="block">\mathbb{N}\subset \mathbb{Z}\subset \mathbb{Q} \qquad ; \qquad \mathbb{N}\subseteq \mathbb{Z}\subseteq \mathbb{Q}</math>
 
 ''<span style="font-family:Arial;">څلورم :</span>''
+</big>
 
 == ''<span style="font-family:Arial;"><span style="color:green;"> د غــَــيرِ نــِــسبــَــتي (نابــَــرخړيکي) عــَــدَدونو (شمېرو يا نومرو) مــَــجموعه (ډَله يا سېټ) Irrational numbers’ set </span> </span>'' ==
 ''<span style="font-family:Arial;">غیرنسبتي (نابرخړیکي) عددونه (شمېرونه يا نومرونه) هاغه اَعشاري (لــَــســِــمانيځ) عددونه (شمېرونه يا نومرونه) دي چې د دوو عددونو (شمېرو يا نومرو) د نسبت (برخړيک) په ډَول نه شي ليکل کېدی ، ځکه چې د اَعشاريې (لسمانيزې) د علامې څخه وروسته رقمونه (شمېربڼې يا دِګوتونه) يې په کوم ترتيبي (اُوډني) تــَــکراري (بياځلي) نه دي . </span>'' 
