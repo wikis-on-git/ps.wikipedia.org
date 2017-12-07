@@ -1,23 +1,65 @@
-{{لومړی مخ/سر لیک2}}
-{{غوره لیکنه لمړي مخ}}</div>
-  </div>
-  </div> 
-{{ ايا پدې پوهېدئ لمړی مخ}}
-  </div>
-{{د نن ورځې وراشه لمړی مخ}}
-{{  ویکیپېډیا څه ده لمړي مخ}}
-  </div>
-{{لومړی مخ/ښه راغلئ۲}}
+{{hidden title}}   
+<div id="mp-header" style="margin-bottom: 1em;">
+  {{لومړی مخ/سر لیک}}
+  {{لومړی مخ پيغام}}
 </div>
-    {{لومړی مخ اوسنۍ پېښې}}
+<div id="mp-right" class="content" style="width: 57%; float: right; padding-top: 1px;">
+  <!-- نوشتار پیشنهادی هفته -->
+  <div id="mf-fa">{{لومړی مخ/سرليک|title = مقالهٔ برگزیده|image = Symbol_star_gold.svg|ویرایش = {{ميډياويکي:Ffeed-featured-page}} }}
+    <div>{{ {{ميډياويکي:Ffeed-featured-page}} }}
+      <div style="text-align: end"><small>[[File :Symbol star gold.svg|15px|alt=|link=]]&nbsp;'''[[ویکی‌پدیا:مقاله‌های برگزیده|مقاله‌های برگزیده]]''' &ndash; '''[[ویکی‌پدیا:مقاله پیشنهادی هفته|مقالهٔ پیشنهادی هفته]]'''</small></div>
     </div>
   </div>
-{{نن ورځ تاريخ}} 
+  <!-- آیا می‌دانستید که …؟ -->
+  <div id="mf-con">{{لومړی مخ/سرليک|title = آیا می‌دانستید که …؟|image = Help-browser - ar.svg|ویرایش = {{ميډياويکي:Ffeed-dyk-page}} }}
+    <div style="padding: 0 0.5em;">
+{{ {{ميډياويکي:Ffeed-dyk-page}} }}
     </div>
-{{لومړی مخ غوره انځور}}
-{{لومړی مخ/نورې پروژې}}
-{{لومړی مخ نور معلومات}}
-{{لومړی مخ ژبي}}
+  </div>
+  <!-- دربارهٔ ویکی‌پدیا -->
+  <div id="mf-aw">{{لومړی مخ/سرليک|title = دربارهٔ ویکی‌پدیا|image = W-circle.svg|ویرایش = الگو:دربارهٔ ویکی‌پدیا}}
+    <div>{{دربارهٔ ویکی‌پدیا}}</div>
+  </div>
+  <!-- درون‌مایه -->
+  <div id="mf-fc">{{لومړی مخ/سرليک|title = درون‌مایه|image = Text-x-generic.svg|ویرایش = الگو:درون‌مایه/۳}}
+    <div style="padding: 0 0.5em;">{{درون‌مایه/۳}}</div>
+  </div>
+</div>
+<div id="mp-left" class="aside" style="border-radius: 0.5em; width: 41%; float: left; border: 1px solid #dbe7ff; box-sizing: border-box; padding: 0 1em 1em; background: #eaf3ff;">
+  <!-- از میان خبرها -->
+  <div id="mf-itn">{{لومړی مخ/سرليک|title = از میان خبرها |image = Ambox_globe.svg|image_size=35px|ویرایش = الگو:از میان خبرها/پیش‌نویس }}
+    <div style="padding: 0 0.5em;">
+    {{از میان خبرها}}
+    </div>
+  </div>
+  <!-- یادبودها -->
+  <div id="mf-otd">{{لومړی مخ/سرليک|title= یادبودها|image = Nuvola apps date-fa.png|ویرایش = {{ميډياويکي:ffeed-onthisday-page}} }}
+    <div style="padding: 0 0.5em;">
+'''امروز''': {{#time: l|now +210 minutes}}، {{#time:[[j F]] [[Y "(میلادی)"|Y]]|+210 minutes}} [[تقویم میلادی|میلادی]] برابر {{#time:[[xij xiF]] [[xiY (خورشیدی)|xiY]]|+210 minutes}} [[گاه‌شماری هجری خورشیدی|هجری خورشیدی]] و {{#time: [[xmj xmF]] [[xmY (قمری)|xmY]] [[گاه‌شماری هجری قمری قراردادی|هجری قمری]]| +210 minutes}} ([[ساعت هماهنگ جهانی|UTC]])
 
+{{ {{ميډياويکي:ffeed-onthisday-page}} }}
+    </div>
+    <div style="text-align: left; font-size: smaller;">[[ویکی‌پدیا:یادبودهای برگزیده/{{#time:j F|-1 day +210 minutes}}|→ روز قبل]] &ndash; [[ویکی‌پدیا:یادبودهای برگزیده/{{#time:j F|+1 day +210 minutes}}|روز بعد ←]]{{سخ}}'''[[ویکی‌پدیا:یادبودهای برگزیده/{{#time: F| +210 minutes}}|یادبودهای {{#time: F| +210 minutes}}]]''' &ndash; '''[[ویکی‌پدیا:یادبودهای برگزیده|یادبودهای بیشتر...]]'''</div>
+  </div>
+</div>
+<div class="footer" style="clear: both; padding-top: 1em;">
+  <!-- نگارهٔ برگزیده -->
+  <div id="mf-fp">{{لومړی مخ/سرليک|title = نگارهٔ برگزیدهٔ امروز|image = Symbol_star6.svg|ویرایش = {{ميډياويکي:Ffeed-potd-page}} }}
+    <div style="padding: 0 0.5em;">
+      <div class="center">
+{{ {{ميډياويکي:Ffeed-potd-page}} }}</div>
+      <div style="font-size: 85%; text-align: left;">
+        <div>[[پرونده:Cscr-featured.svg|15px|link=]] '''[[ویکی‌پدیا:نگاره روز/{{#time: F| +210 minutes}} {{#time: Y| +210 minutes}}|بایگانی {{#time: F| +210 minutes}} {{#time: Y| +210 minutes}}]]''' &ndash; '''[[ویکی‌پدیا:نگاره‌های برگزیده|نگاره‌های برگزیدهٔ بیشتر]]'''</div>
+      </div>
+    </div>
+  </div>
+  <!-- پروژه‌های خواهر -->
+  <div id="mf-sp" style="clear: both;">{{لومړی مخ/سرليک|title = دیگر پروژه‌های بنیاد ویکی‌مدیا|image = Wikimedia-logo.svg|ویرایش = الگو:صفحهٔ اصلی/پروژه‌های خواهر}}
+    <div style="padding: 0 0.5em;">{{صفحهٔ اصلی/پروژه‌های خواهر}}</div>
+  </div>
+  <!-- زبان‌های دیگر -->
+  <div id="mp-ol">{{لومړی مخ/سرليک|title = ویکی‌پدیا در زبان‌های دیگر|image = Wikipedia's_W.svg}}
+    <div style="padding: 0 0.5em;">{{زبان‌های ویکی‌پدیا}}</div>
   </div>
 </div> __NOTOC__ __NOEDITSECTION__
+<noinclude>{{میان‌ویکی صفحهٔ اصلی}}</noinclude>
