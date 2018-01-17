@@ -1,13 +1,13 @@
 <!--        BANNER ACROSS TOP OF PAGE         -->
-<div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;">
+<div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:50%; margin:1.2em 0 6px; min-width:17.90em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;">
 <!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
-<div style="margin:0.4em; width:22em; text-align:center;">
+<div style="margin:0.4em; width:17em; text-align:center;">
 <div style="font-size:162%; padding:.1em;">Welcome to [[Wikipedia]],</div>
 <div style="font-size:95%;">the [[free content|free]] [[encyclopedia]] that [[Wikipedia:Introduction|anyone can edit]].</div>
 <div id="articlecount" style="font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] articles in [[English language|English]]</div>
 </div>
 <!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
-<ul style="position:absolute; right:-1em; top:50%; margin-top:-2.4em; width:38%; min-width:25em; font-size:95%;">
+<ul style="position:absolute; right:-1em; top:50%; margin-top:-2.4em; width:38%; min-width:17.5em; font-size:95%;">
 <li style="position:absolute; left:0; top:0;">[[Portal:Arts|Arts]]</li>
 <li style="position:absolute; left:0; top:1.6em;">[[Portal:Biography|Biography]]</li>
 <li style="position:absolute; left:0; top:3.2em;">[[Portal:Geography|Geography]]</li>
