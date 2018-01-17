@@ -21,35 +21,35 @@
 </div>
 <!--        MAIN PAGE BANNER        -->
 {{#if:{{Main Page banner}}|
-<div id="mp-banner" class="MainPageBG" style="margin-top:4px; padding:0.5em; background-color:#fffaf5; border:1px solid #f2e0ce;">
+<div id="mp-banner" class="MainPage" style="margin-top:4px; padding:0.5em; background-color:#fffaf5; border:1px solid #f2e0ce;">
 {{Main Page banner}}
 </div>
 }}
 <!--        TODAY'S FEATURED CONTENT        -->
 {| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
 <!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
-| id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
+| id="mp-left" class="MainPage" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
 <h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article|Featured article <span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
 <div id="mp-tfa" style="padding:0.1em 0.6em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|{{Wikipedia:Today's featured article/{{#time:F j, Y}}}}|{{Wikipedia:Today's featured article/{{#time:F j, Y|-1 day}}}}}}</div>
 <h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">Did you know...</h2>
 <div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">{{Did you know}}</div>
 | style="border:1px solid transparent;" |
 <!--        IN THE NEWS and ON THIS DAY        -->
-| id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
+| id="mp-right" class="Mainpage-wikis" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
 <h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">In the news</h2>
 <div id="mp-itn" style="padding:0.1em 0.6em;">{{In the news}}</div>
 <h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">On this day...</h2>
 <div id="mp-otd" style="padding:0.1em 0.6em 0.5em;">{{Wikipedia:Selected anniversaries/{{#time:F j}}}}</div>
 |}
 <!--        TODAY'S FEATURED LIST        --><!-- CONDITIONAL SHOW -->{{#switch:{{CURRENTDAYNAME}}|Monday|Friday=
-<div id="mp-middle" class="MainPageBG" style="margin-top:4px; border:1px solid #f2cedd; background:#fff5fa; overflow:auto;">
+<div id="mp-middle" class="MainPage" style="margin-top:4px; border:1px solid #f2cedd; background:#fff5fa; overflow:auto;">
 <div id="mp-center">
 <h2 id="mp-tfl-h2" style="margin:0.5em; background:#f2cedd; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #bfa3af; color:#000; padding:0.2em 0.4em">From today's featured list</h2>
 <div id="mp-tfl" style="padding:0.3em 0.7em;">{{#ifexist:Wikipedia:Today's featured list/{{#time:F j, Y}}|{{Wikipedia:Today's featured list/{{#time:F j, Y}}}}|{{TFLempty}}}}</div>
 </div>
 </div>|}}<!-- END CONDITIONAL SHOW -->
 <!--        TODAY'S FEATURED PICTURE        -->
-<div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
+<div id="mp-lower" class="MainPage" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
 <div id="mp-bottom">
 <h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|Today's featured picture | Featured picture&ensp;<span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
 <div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|{{POTD protected/{{#time:Y-m-d}}}}|{{POTD protected/{{#time:Y-m-d|-1 day}}}}}}</div>
