@@ -1,5 +1,10 @@
-{{#ifeq:{{PAGENAME}}|Community portal|{{Protected}}}}
-<br/>
+{{Main Page/Frame
+ | color = 069 
+|title = 
+The title of this frame in your language 
+|content
+ = * Bullet 1 * Bullet 2 * Bullet 3
+ }}
 
 <div style="box-shadow: 0 0 .3em #999999; border-radius: .2em; margin: 0 0 2em 0; padding: 1px;">
 <div style="background: #339966; border-radius: .2em; color: #FFFFFF; padding: .4em .8em .5em; text-align: center;">
