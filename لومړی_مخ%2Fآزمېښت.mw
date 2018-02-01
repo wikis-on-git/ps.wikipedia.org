@@ -1,5 +1,5 @@
 {{Main Page Template
-|langcode=en
+|langcode=ps
 
 |Announcement Title=Photo challenge
 |Announcement Text= [[File:Generic Camera Icon.svg|100px|right]] <div style="margin-left: 0.3em; padding-right: 0.6em; line-height: 1.3; color: #000; font-size: 1.4em">Take some photos and upload them to meet our monthly thematic challenge, get inspiration and try new subjects! [[Commons:Photo challenge|'''Learn more about the challenges!''']]</div> <div align="center" style="margin: 1em;"> {{Clickable button|Commons:Photo challenge#Challenges_open_for_submission|'''Check out this month's challenges'''|iconPrimary=ui-icon-circle-arrow-n|class=ui-button-green ui-button-large}}
