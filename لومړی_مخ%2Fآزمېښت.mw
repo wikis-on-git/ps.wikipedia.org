@@ -1,76 +1,146 @@
-{{Main Page/Frame
- | color = 069 
-|title = 
-The title of this frame in your language 
-|content
- = * Bullet 1 * Bullet 2 * Bullet 3
- }}
+{{Main Page Template
+|langcode=en
 
-<div style="box-shadow: 0 0 .3em #999999; border-radius: .2em; margin: 0 0 2em 0; padding: 1px;">
-<div style="background: #339966; border-radius: .2em; color: #FFFFFF; padding: .4em .8em .5em; text-align: center;">
-<span style="font-size: 1.3em;">ښه راغلئ</span>
-</div>
-<div style="text-align: center; padding: 1em; font-size: 1.1em;">د ويکيډاټا ټولنې تانبې ته ښه راغلئ</div>
+|Announcement Title=Photo challenge
+|Announcement Text= [[File:Generic Camera Icon.svg|100px|right]] <div style="margin-left: 0.3em; padding-right: 0.6em; line-height: 1.3; color: #000; font-size: 1.4em">Take some photos and upload them to meet our monthly thematic challenge, get inspiration and try new subjects! [[Commons:Photo challenge|'''Learn more about the challenges!''']]</div> <div align="center" style="margin: 1em;"> {{Clickable button|Commons:Photo challenge#Challenges_open_for_submission|'''Check out this month's challenges'''|iconPrimary=ui-icon-circle-arrow-n|class=ui-button-green ui-button-large}}
 </div>
 
-{| style="width: 48%; box-shadow: 0 0 .3em #999999; border-radius: .2em;" cellpadding="0" cellspacing="0" align="{{Dir|{{int:lang}}|right|left}}"
-| style="padding: 1px 1px 0 1px; vertical-align: top;" |
-<div style="background: #006699; border-radius: .2em; color: #FFFFFF; padding: .4em .8em .5em; text-align: center;">ټولگړی بحث</div>
-<div style="padding: 1em; margin: 0.5em 0 0.5em 0; text-align: center;">
-<div style="margin-bottom: 1em;">'''[[Wikidata:Project chat|د پروژې بانډار]]'''<br />د پروژې په اړه ټولگړی بحث</div>
-<div style="margin-bottom: 1em;">'''[[Wikidata:Requests for Comment|{{ {{TNTN|Translations:Wikidata:Requests for comment/Header/2}} }}]]'''<br />Discussion requests for specific topics</div>
-<div style="margin-bottom: 1em;">'''[[Wikidata:Contact the development team|{{ {{TNTN|Translations:Wikidata:Contact the development team/Header/text/2}} }}]]'''<br />Bug reports to the developers</div>
-</div>
-|-
-| style="padding: 1px 1px 0 1px; vertical-align: top;" |
-<div style="background: #006699; border-radius: .2em; color: #FFFFFF; padding: .4em .8em .5em; text-align: center;">غوښتنې</div>
-<div style="padding: 1em; margin: 0.5em 0 0.5em 0; text-align: center;">
-<div style="margin-bottom: 1em;">'''[[Wikidata:Administrators' noticeboard|{{ {{TNTN|Translations:Wikidata:Administrators' noticeboard/Header/text/1}} }}]]'''<br />Reporting vandalism, requesting page protections, etc.</div>
-<div style="margin-bottom: 1em;">'''[[Wikidata:Bureaucrats' noticeboard|{{ {{TNTN|Translations:Wikidata:Bureaucrats' noticeboard/Header/text/1}} }}]]'''<br />نوم بدلون غوښتنې، او نور</div>
-<div style="margin-bottom: 1em;">'''[[Wikidata:Bot requests|{{ {{TNTN|Translations:Wikidata:Bot requests/Header/1}} }}]]'''<br />د باټ لخوا د دندو ترسره کېدو لپاره غوښتنې</div>
-<div style="margin-bottom: 1em;">'''[[Wikidata:Interwiki conflicts|{{ {{TNTN|Translations:Wikidata:Interwiki conflicts/Header/7}} }}]]'''<br />Report problems with content on other wikis</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Property proposal}}'''<br />د يوې ځانتيا د جوړولو وړانديز</div>
-<div style="margin-bottom: 1em;">'''[[Wikidata:Properties for deletion|{{ {{TNTN|Translations:Wikidata:Properties for deletion/Header/12}} }}]]'''<br />د ځانتياوو د ړنگولو غوښتنې</div>
-<div style="margin-bottom: 1em;">'''[[Wikidata:Request a query|Request a query]]'''<br />Requests for Wikidata SPARQL queries</div>
-<div style="margin-bottom: 1em;">'''[[Wikidata:Requests for deletions|{{ {{TNTN|Translations:Wikidata:Requests for deletions/Header/15}} }}]]'''<br />د مخونو او توکو د ړنگولو غوښتنې</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Requests for permissions}}'''<br />Permissions requests for trusted users in the community</div>
-</div>
-|-
-| style="padding: 1px 1px 0 1px; vertical-align: top;" |
-<div style="background: #006699; border-radius: .2em; color: #FFFFFF; padding: .4em .8em .5em; text-align: center;">نور</div>
-<div style="padding: 1em; margin: 0.5em 0 0.5em 0; text-align: center;">
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:List of properties}}''' ({{Ll|Wikidata:List of properties/Summary table|2=د لنډيز لښتيال}})<br />د ځانگړنو لړليک</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:List of policies and guidelines}}'''<br />د تگلارو او لارښودکرښو لړليک</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Tools|{{ {{TNTN|Translations:Wikidata:Tools/150}} }} }}'''<br />د ويکيډاټا شاوخوا کارولو اوزارونه او سکرېپټونه</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Accessibility}}'''<br />د لاسرسي سپارښتنې</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Events}}'''<br />Contributor meetings, workshops, conferences</div>
-</div>
-|}
+|tagline=a collection of [[Special:Statistics|{{NUMBEROFFILES}}]] [[Commons:Reusing content outside Wikimedia|freely usable]] media files to which [[Commons:Welcome|anyone can contribute]]
+|Images=Images
+|Sounds=Sounds
+|Videos=Videos
 
-{| style="width: 49%; box-shadow: 0 0 .3em #999999; border-radius: .2em;" cellpadding="0" cellspacing="0" align="{{Dir|{{int:lang}}|left|right}}"
-| style="padding: 1px 1px 0 1px; vertical-align: top;" |
-<div style="background: #990000; border-radius: .2em; color: #FFFFFF; padding: .4em .8em .5em; text-align: center;">پرې پيل کول</div>
-<div style="padding: 1em; text-align: center;">
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Introduction}}'''<br />د ويکيډاټا په اړه ځينې ټولگړي مالومات</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Glossary}}'''<br />عام پوهېدونکي اصطلاحگانې زده کړئ</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Tours|{{ {{TNTN|Translations:Wikidata:Tours/6}} }} }}'''<br />د ليدنمخ سمون سره بلدېدل</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Contribute}}'''<br />ونډه ترسره کول زده کړئ</div>
-<div style="margin-bottom: 1em;">'''{{Ll|Wikidata:Data donation}}'''<br />Data donations</div>
-</div>
-|-
-| style="padding: 1px 1px 0 1px; vertical-align: top;" |
-<div style="background: #990000; border-radius: .2em; color: #FFFFFF; padding: .4em .8em .5em; text-align: center;">ويکيپروژې</div>
-<div style="padding: 1em; text-align: center;">
-'''{{Ll|Wikidata:WikiProjects}}'''<div style="margin-bottom: 1em;">{{clear}}WikiProjects are groups of contributors who want to work together as a team to improve Wikidata! </div>
-Groups can focus on a specific topic area (for example, astronomy) or a specific kind of task (for example, solving problems related to disambiguation pages). Join an existing WikiProject or start your own.</div>
-|-
-| style="padding: 1px 1px 0 1px; vertical-align: top;" |
-<div style="background: #990000; border-radius: .2em; color: #FFFFFF; padding: .4em .8em .5em; text-align: center;">
-خورلڼې پروژې</div>
-<div style="padding: 1em; text-align: center;">'''{{Ll|Wikidata:Sister projects}}'''<div style="margin-bottom: 1em;">د ويکيډاټا:خورلڼو پروژو تانبه په خورلڼو پروژو باندې د ويکيډاټا د پلانونو پلي کېدنې او خبرو اترو لپاره ده.</div>
-<div style="padding: 1em; text-align: center;">Here for a specific project? Looking for ways to get involved? Click on a project below to get started: {{Sister projects on Wikidata/alternative}}</div>
-|-
-|}
-{{clear}}
+|Picture of the day=Picture of the day
+|RSS feed=RSS feed
+|By email=By email
+|Previous Pictures of the day=Previous ''Pictures of the day''
 
-{{Translation categories}}
+|Media of the day=Media of the day
+|Previous Media of the day=Previous ''Media of the day''
+
+|AnonLogin=Log&nbsp;in
+|AnonCreateAcct=Create&nbsp;account
+
+|Participating=Participating
+|Browsing=
+;Browsing?
+:Please use the search box at the top of this page or the links to the right. Feel free to subscribe to our [[Commons:Feeds|syndicated feeds]].
+|Using=
+;Using?
+:To fulfill the free license requirements, please read our [[Commons:Reusing content outside Wikimedia|Reuse]] guide. You can also [[Commons:Picture requests|request a picture]].
+|Identifying=
+;Identifying?
+:Have a browse through [[:Category:Unidentified subjects]]. If you find something you can identify, write a note on the item's talk page.
+|Creating=
+;Creating?
+:Check out all you need to know at our [[Commons:Contributing your own work|Contributing your own work]] guide.
+;and more!
+|Explore=
+:To explore more ways you can contribute to this project, check out the [[Commons:Community portal|Community Portal]].
+
+|Content=Content
+|Content Text=
+<div class="hlist">
+;By topic
+'''[[:Category:Nature|Nature]]'''
+* [[:Category:Animalia|Animalia]]
+* [[:Category:Fossils|Fossils]]
+* [[:Category:Landscapes|Landscapes]]
+* {{nowrap|[[:Category:Marine life|Marine life]]}}
+* [[:Category:Plantae|Plantae]]
+* [[:Category:Weather|Weather]]
+
+'''[[:Category:Society|Society]]'''&nbsp;&nbsp;'''[[:Category:Culture|Culture]]'''
+* [[:Category:Art|Art]]
+* [[:Category:Belief|Belief]]
+* [[:Category:Entertainment|Entertainment]]
+* [[:Category:Events|Events]]
+* [[:Category:Flags|Flags]]
+* [[:Category:Food|Food]]
+* [[:Category:History|History]]
+* [[:Category:Language|Language]]
+* [[:Category:Literature|Literature]]
+* [[:Category:Music|Music]]
+* [[:Category:Objects|Objects]]
+* [[:Category:People|People]]
+* [[:Category:Places|Places]]
+* [[:Category:Politics|Politics]]
+* [[:Category:Sports|Sports]]
+
+'''[[:Category:Science|Science]]'''
+* [[:Category:Astronomy|Astronomy]]
+* [[:Category:Biology|Biology]]
+* [[:Category:Chemistry|Chemistry]]
+* [[:Category:Earth sciences|Earth sciences]]
+* [[:Category:Mathematics|Mathematics]]
+* [[:Category:Medicine|Medicine]]
+* [[:Category:Physics|Physics]]
+* [[:Category:Technology|Technology]]
+
+'''[[:Category:Engineering|Engineering]]'''
+* [[:Category:Architecture|Architecture]]
+* [[:Category:Chemical engineering|Chemical]]
+* [[:Category:Civil engineering|Civil]]
+* [[:Category:Electrical engineering|Electrical]]
+* [[:Category:Environmental engineering|Environmental]]
+* [[:Category:Geophysical engineering|Geophysical]]
+* [[:Category:Mechanical engineering|Mechanical]]
+* [[:Category:Process engineering|Process]]
+</div>
+{{Hidden|toggle=left|1=By location|hlist=true|2=
+'''[[:Category:Earth|Earth]]'''
+* [[:Category:Oceans|Oceans]]
+* [[:Category:Islands|Islands]]
+* [[:Category:Archipelagoes|Archipelagoes]]
+* [[:Category:Continents|Continents]]
+* [[:Category:Countries|Countries]]
+* [[:Category:Country subdivisions by country|Subdivisions]]
+
+'''[[:Category:Outer space|Space]]'''
+* [[:Category:Asteroids|Asteroids]]
+* {{nowrap|[[:Category:Natural satellites|Natural satellites]]}}
+* [[:Category:Comets|Comets]]
+* [[:Category:Planets|Planets]]
+* [[:Category:Stars|Stars]]
+* [[:Category:Galaxies|Galaxies]]
+}}
+{{Hidden|toggle=left|hlist=true|1=By type|2=
+'''[[:Category:Images|Images]]'''
+* [[:Category:Animations|Animations]]
+* [[:Category:Diagrams|Diagrams]]
+* [[:Category:Drawings|Drawings]]
+* [[:Category:Maps|Maps]] <small>([[Atlas]])</small>
+* [[:Category:Paintings|Paintings]]
+* [[:Category:Photographs|Photos]]
+* [[:Category:Symbols|Symbols]]
+
+'''[[:Category:Sound|Sounds]]'''
+* [[:Category:Audio files of music|Music]]
+* [[:Category:Pronunciation|Pronunciation]]
+* [[:Category:Audio files of speeches|Speeches]]
+* [[:Category:Spoken Wikipedia|Spoken Wikipedia]]
+
+'''[[:Category:Videos|Videos]]'''
+}}
+{{Hidden|toggle=left|hlist=true|1=By author|2=
+* [[:Category:Buildings by architect|Architects]]
+* [[:Category:Compositions by composer|Composers]]
+* [[:Category:Paintings by painter|Painters]]
+* [[:Category:Photographs by photographer|Photographers]]
+* [[:Category:Sculptures by sculptor|Sculptors]]
+}}
+{{Hidden|toggle=left|hlist=true|1=By license|2=
+'''[[:Category:Copyright statuses|Copyright statuses]]'''
+* {{nowrap|[[:Category:Creative Commons licenses|Creative Commons licenses]]}}
+* [[:Category:GFDL|GFDL]]
+* [[:Category:Public domain|Public domain]]
+}}
+{{Hidden|toggle=left|hlist=true|1=By source|2=
+'''[[:Category:Image sources|Image sources]]'''
+* [[:Category:Images from encyclopedias|Encyclopedias]]
+* [[:Category:Media from scholarly journals|Scholarly journals]]
+* [[:Category:Self-published work|Self-published work]]
+}}
+;[[{{#timel:F j}}|Images from {{#timel:F j}}]]'''
+|Sister projects=Sister projects
+}}
