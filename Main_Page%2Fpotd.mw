@@ -1,0 +1,10 @@
+<div class="{{#switch:{{{float|center}}}|left=floatleft|right=floatright|center=center}}" style="margin:0 auto; margin-top: 1em; " id="mainpage-potd"><!--
+--><div style="width:100%;  height: auto!important; max-width: 500px!important;">[[File:{{Potd/{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}}}}|{{{width|500}}}px|]]</div>
+<div style="max-width: 400px"><br /> {{lang|{{{lang|en}}}|{{ {{#ifexist:Template:Potd/{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}} ({{#ifeq:{{{lang}}}|no|nb|{{{lang|en}}}}})|Potd/{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}} ({{#ifeq:{{{lang}}}|no|nb|{{{lang|en}}}}})|{{#ifexist:Template:Potd/{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}} ({{#ifeq:{{{fallback_lang}}}|no|nb|{{{fallback_lang|en}}}}})|Potd/{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}} ({{#ifeq:{{{fallback_lang}}}|no|nb|{{{fallback_lang|en}}})}}|empty}}}}}} }}&nbsp;
+{{#ifeq:{{{lang|en}}}|en||<sup dir="ltr">{{edit|Template:Potd/{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}} ({{{lang|en}}})|preload=Template:Potd/{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}} (en)}}&nbsp;({{{lang|en}}}){{#if:
+{{{fallback_lang|}}} |,&nbsp;{{edit|Template:Potd/{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}} ({{{fallback_lang}}})}}&nbsp;({{{fallback_lang}}}) |}}{{#ifeq:
+{{{lang|en}}} | en | |,&nbsp;{{edit|Template:Potd/{{LOCALYEAR}}-{{LOCALMONTH}}-{{LOCALDAY2}} (en)}}&nbsp;(en)}}</sup>}}
+</div>
+</div>
+
+<noinclude>[[Category:Featured pictures on Wikimedia Commons]]</noinclude>
