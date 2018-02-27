@@ -1,167 +1,24 @@
-{{Main Page Template
-|langcode=ps
-|Upload = پورته کول
-|sitename_localized=ویکی‌ خونديځ 
-|tagline=ورکونکي د {{NUMBEROFARTICLES}}  رسنیزو انځورونو  د وړیا کارونې وړ چي [[Commons:Welcome|هرڅوک کولای شي ددي سره مرسته وکړي]]
-|Images=انځورونه
-|Sounds=غږونه
-|Videos=ویډیو
-|Picture of the day=د نن ورځې انځور
-|RSS feed=کوکيز آراس‌اس
-|Tweet = ټويټ
-|Subscribe = يو ځاې کيدنه
-|By email=د بریښنالیک له لارې
-|Previous Pictures of the day='' د تيري ورځي'' انځور
-|Media of the day=د ورځې رسنۍ
-|Previous Media of the day='' د تيري ورځي'' رسنۍ
-|Participating=ملګرتیا
-|Browsing=
-{{Clickable button|Special:UserLogin|{{{Log in|ننوتل}}}|iconPrimary=ui-icon-key}}{{Clickable button|Special:UserLogin/signup|{{{Create acct|ګڼون جوړول}}}|iconPrimary=ui-icon-plus}}{{Clickable button|Special:UploadWizard|{{{Upload|پورته کول}}}|class=ui-button-blue|iconPrimary=ui-icon-arrowthick-1-n}}
-;لټون؟
-:لطفا پورته د پلټنې صندوق د دې مخ څخه د لينک په چپه اړخ کې کاروئ. کولی شي په [[Commons:Feeds|خوراکهايمان]] هم وکاروي.
-|Using=
-;کارول؟
-:د وړیا جوازونو اړتیاوو پوره کولو لپاره، د [[Commons:Reusing content outside Wikimedia|بیا کارولو لارښود]] ولولئ. تاسو همدارنګه کولی شئ[[Commons:Picture requests|د انځور غوښتنه]].
-|Identifying=
-;پیژندنه؟
-:په منځ کې [[:Category:Unidentified subjects|ناپېژندلي شيان]]  لټون وکړې. که تاسو هغه څه ومومئ چې تاسو یې پیژندلی شئ، د توکو د بحث پاڼې کې يي یادښت وليکي.
-|Creating=
-;جوړول؟
-:په لارښود کې [[Commons:Contributing your own work|د خپل کار ونډي]] وپلټي .که تاسو هغه شی ومومئ چې تاسو یې پیژندلی شئ، د خپل کارن بحث په پاڼې کی يي وليکي.
-;او نور!
-|Explore=
-:په دې پروژه کې د ګډون لپاره نورې لارې وپلټئ. [[Commons:Community portal|د ټولنې تانبه]] هم وپلټي.
-
-
-|Announcement Title=د عکاسي سیالۍ
-|Announcement Text= [[File:Camera2_mgx.svg|100px|left]] 
-<div style="margin-left: 0.3em; padding-left: 0.6em; line-height: 1.5; color: #000; font-size: 1.6em">
-انځورونه واخلئ او زموږ میاشتني سیالیو ته لاسرسی ومومئ، نوي مضمونونه وڅیړئ او ازموینه وکړئ!  [[Commons:Photo challenge|'''د سیالۍ په اړه نور معلومات ترلاسه کړئ !''']]</div> <div align="center" style="margin: 1em;"> {{Clickable button|Commons:Photo_challenge#Challenges_open_for_submission|'''د دې میاشتې سیالۍ وګورئ' '''|iconPrimary=ui-icon-circle-arrow-n|class=ui-button-green ui-button-large}}
+  {{لومړی مخ/سر لیک}}
+  {{لومړی مخ پيغام}}
+{{غوره لیکنه لمړي مخ}}</div>
+  </div>
+  </div> 
+{{ ايا پدې پوهېدئ لمړی مخ}}
+  </div>
+{{د نن ورځې وراشه لمړی مخ}}
+{{  ویکیپېډیا څه ده لمړي مخ}}
+  </div>
+{{لومړی مخ/ښه راغلئ۲}}
 </div>
+    {{لومړی مخ اوسنۍ پېښې}}
+    </div>
+  </div>
+{{نن ورځ تاريخ}} 
+    </div>
+{{لومړی مخ غوره انځور}}
+{{لومړی مخ/نورې پروژې}}
+{{لومړی مخ نور معلومات}}
+{{لومړی مخ ژبي}}
 
-
-|Highlights=وړاندیزونه
-|Highlights Text=
-که چېرته دا ستاسې لومړی ځل وي چې تاسې دلته راغلي ياست، , کېدای شي تاسې غواړئ چې لومړی زموږ د '''[[Commons:Featured pictures|مستنده انځورونه]]''' کې پېل کړی، او يا هم '''[[Commons:Quality images|باکيفيته انځورونه]]''', کوم چې د ټولگړو ټولنې لخوا د ځانگړي ارزښت له امله ټاکل شوي. تاسې کولای شی چې زموږ د تکړه ونډوالو هغه ارزښتناکه کارونه چې دوي پخپله جوړ کړي په '''[[commons:Meet our photographers|زموږ عکاسان]]''' او '''[[Commons:Meet our illustrators|زموږ رسامان]]''' په څانگو کې هم وگورئ .
-
-|Content=منځپانګې
-|Content Text=
-{{search box|search-width=number|search-button-label=لټون}}
-<div id="mf-content-links" dir="rtl" class="mw-content-rtl">
-<div class="hlist">
-;د وينا له مخې
-'''[[:Category:Nature|طبیعت]]'''<br />
-* [[:Category:Animalia|حيوانات]]
-* [[:Category:Fossils|فوسیلونه]]
-* [[:Category:Landscapes|طبیعي منظري]]
-* {{nowrap|[[:Category:Marine life| سمندری ژوند]]}}
-* [[:Category:Plantae|نباتات]]
-* [[:Category:Weather|هوا]]
- 
-'''[[:Category:Society|ټولنه]]'''&nbsp;&nbsp;'''[[:Category:Culture|فرهنگ]]'''<br />
-* [[:Category:Art|هنر]]
-* [[:Category:Belief|عقیدې]]
-* [[:Category:Entertainment|ساعتېري]]
-* [[:Category:Events|پیښې]]
-* [[:Category:Flags|بيرغونه]]
-* [[:Category:Food|خواړه]]
-* [[:Category:History|تاریخ]]
-* [[:Category:Language|ژبه]]
-* [[:Category:Literature|ادبیات]]
-* [[:Category:Music|موسیقی]]
-* [[:Category:Objects|توکي]]
-* [[:Category:People|خلک]]
-* [[:Category:Places|ځایونه]]
-* [[:Category:Politics|سیاست]]
-* [[:Category:Sports|ورزش]]
-
-'''[[:Category:Science|پوهه]]'''<br />
-* [[:Category:Astronomy|ستورپوهنه]]
-* [[:Category:Biology|بیولوژي]]
-* [[:Category:Chemistry|کیمیا]]
-* [[:Category:Earth sciences|ځمکه پيژندنه]]
-* [[:Category:Mathematics|ریاضي]]
-* [[:Category:Medicine|درمل]]
-* [[:Category:Physics|فزیک]]
-* [[:Category:Technology|ټیکنالوژي]]
-
-'''[[:Category:Engineering|انجنیری]]'''<br />
-* [[:Category:Architecture|معماري]]
-* [[:Category:Chemical engineering|کیمیاوي انجنیري]]
-* [[:Category:Civil engineering|ساختماني انجینري]]
-* [[:Category:Electrical engineering|برقي انجینري]]
-* [[:Category:Environmental engineering|چاپیریال انجنیري]]
-* [[:Category:Geophysical engineering|ځمکه پيژندنه انجنیري]]
-* [[:Category:Mechanical engineering|میخانیکي انجینري]]
-* [[:Category:Process engineering|پروسس انجینري]]
-</div>
-{{Hidden|toggle=start|1=د ځای ډولونه|2=
-<div class="hlist">
-'''[[:Category:Earth|ځمکه]]'''<br />
-* [[:Category:Oceans|سمندرونه]]
-* [[:Category:Islands|ټاپوګان]]
-* [[:Category:Archipelagoes|آرکیپیلگو]]
-* [[:Category:Continents|وچی]]
-* [[:Category:Countries|هیوادونه]]
-* [[:Category:Subdivisions by country|د هېوادونو فرعي برخي]]
-
-'''[[:Category:Outer space|فضا]]'''<br />
-* [[:Category:Asteroids|اسټریوډس]]
-* {{nowrap|[[:Category:Natural satellites|میاشتې]]}}
-* [[:Category:Comets|کمټونه]]
-* [[:Category:Planets|سیاري]]
-* [[:Category:Stars|ستوري]]
-* [[:Category:Galaxies|ګلاکسونه]]
-</div>
-}}
-{{Hidden|toggle=start|1=د ډول له مخې|2=
-<div class="hlist">
-'''[[:Category:Images|انځورونه]]'''<br />
-* [[:Category:Animations|متحرکونه]]
-* [[:Category:Diagrams|چارټونه]]
-* [[:Category:Drawings|پلانونه]]
-* [[:Category:Maps|نقشي]] <small>([[Atlas|اطلسونه]])</small>
-* [[:Category:Paintings|رسامياني]]
-* [[:Category:Photographs|انځورګران]]
-* [[:Category:Symbols|سمبولونه]]
-
-'''[[:Category:Sound|غږونه]]'''<br />
-* [[:Category:Audio files of music|موسیقی]]
-* [[:Category:Pronunciation|ژباړه]]
-* [[:Category:Audio files of speeches|لیکچرونه]]
-* [[:Category:Spoken Wikipedia|د ويکيپېډيا لېکل شوي خبرېز متنونه]]
-
-'''[[:Category:Videos|ویډیو]]'''
-</div>
-}}
-{{Hidden|toggle=start|1=د لیکوال د وينا له مخې|2=
-<div class="hlist">
-* [[:Category:Buildings by architect|معماران]]
-* [[:Category:Compositions by composer|هنرمندان]]
-* [[:Category:Paintings by painter|رسامان]]
-* [[:Category:Photographs by photographer|انځورګران]]
-* [[:Category:Sculptures by sculptor|مجسمه ګران]]
-</div>
-}}
-{{Hidden|toggle=start|1=د جواز له مخې|2=
-<div class="hlist">
-'''[[:Category:Copyright statuses|د چاپ حق حالت]]'''<br />
-* {{nowrap|[[:Category:Creative Commons licenses|د کريټيف کامنز جواز]]}}
-* [[:Category:GFDL|جی‌اف‌ډی‌ال]]
-* [[:Category:Public domain|عامه ملکیت]]
-</div>
-}}
-{{Hidden|toggle=start|1=د سرچينې د معلوماتو له مخې|2=
-<div class="hlist">
-'''[[:Category:Image sources|د انځورونو سرچیني]]'''<br />
-* [[:Category:Images from encyclopedias|پوهنغونډونه]]
-* [[:Category:Media from scholarly journals|سائنسي ژورنالونه]]
-* [[:Category:Self-published work|د ځان لخوا خپاره شوي اثار]]
-</div>
-}}
-;[[{{#timel:F j}}| انځورونه د{{#timel:j F||fa}}]]'''
-
-</div>
-
-|Sister projects=خورلڼې پروژې
-}}
+  </div>
+</div> __NOTOC__ __NOEDITSECTION__
