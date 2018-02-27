@@ -1,0 +1,9 @@
+<div class="{{#switch:{{{float|center}}}|left=floatleft|right=floatright|center=center}}" style="margin:0 auto; margin-top: 1em; " id="mainpage-potd"><!--
+--><div style="width:100%;  height: auto!important; max-width: 500px!important;">[[File:{{لما/{{LOCALYEAR}}-{{LOCALMONTH}}}}|{{{width|500}}}px|]]</div>
+<center>
+{{Potd/2018-02 (ps)}} 
+<div style="max-width: 400px"><br /> 
+</div>
+</div>
+
+<noinclude>[[Category:Featured pictures on Wikimedia Commons]]</noinclude>
