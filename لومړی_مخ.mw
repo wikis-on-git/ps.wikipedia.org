@@ -1,215 +1,167 @@
-<!--  Do not remove -->
-<div style="margin: 0 auto; max-width: 1040px;" lang="{{{langcode|en}}}" dir="{{dir|{{{langcode|en}}}}}" class="mw-content-{{dir|{{{langcode|en}}}}}"><!--------------------------------------Main heading----------------------------------------->
-{| style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 1.7em 0 1em" lang="{{{langcode|en}}}"
-| style="padding: .4em 1.6em 1em;" | <span style="font-size: 220%; color: #484848">{{{sitename_localized|Wikimedia Commons}}}</strong><br/><span style="color: #666666;">{{{tagline|a collection of [[Special:Statistics|{{NUMBEROFFILES}}]] [[Commons:Reusing content outside Wikimedia|freely usable]] media files to which [[Commons:Welcome|anyone can contribute]]}}}</span>
-| style="width:7%;padding:0.5em;" |
-'''[[:Category:Images|{{{Images|Images}}}]]'''
-| style="width:7%;padding:0.5em;" |
-'''[[:Category:Sound|{{{Sounds|Sounds}}}]]'''
-| style="width:7%;padding:0.5em;" |
-'''[[:Category:Videos|{{{Videos|Videos}}}]]'''
-| style="width:10%;padding:0.5em;" |
-[[Special:UploadWizard|<span class="mw-ui-button mw-ui-progressive">{{{Upload|Upload}}}</span>]]
-|}
+{{Main Page Template
+|langcode=ps
+|Upload = پورته کول
+|sitename_localized=ویکی‌ خونديځ 
+|tagline=ورکونکي د {{NUMBEROFARTICLES}}  رسنیزو انځورونو  د وړیا کارونې وړ چي [[Commons:Welcome|هرڅوک کولای شي ددي سره مرسته وکړي]]
+|Images=انځورونه
+|Sounds=غږونه
+|Videos=ویډیو
+|Picture of the day=د نن ورځې انځور
+|RSS feed=کوکيز آراس‌اس
+|Tweet = ټويټ
+|Subscribe = يو ځاې کيدنه
+|By email=د بریښنالیک له لارې
+|Previous Pictures of the day='' د تيري ورځي'' انځور
+|Media of the day=د ورځې رسنۍ
+|Previous Media of the day='' د تيري ورځي'' رسنۍ
+|Participating=ملګرتیا
+|Browsing=
+{{Clickable button|Special:UserLogin|{{{Log in|ننوتل}}}|iconPrimary=ui-icon-key}}{{Clickable button|Special:UserLogin/signup|{{{Create acct|ګڼون جوړول}}}|iconPrimary=ui-icon-plus}}{{Clickable button|Special:UploadWizard|{{{Upload|پورته کول}}}|class=ui-button-blue|iconPrimary=ui-icon-arrowthick-1-n}}
+;لټون؟
+:لطفا پورته د پلټنې صندوق د دې مخ څخه د لينک په چپه اړخ کې کاروئ. کولی شي په [[Commons:Feeds|خوراکهايمان]] هم وکاروي.
+|Using=
+;کارول؟
+:د وړیا جوازونو اړتیاوو پوره کولو لپاره، د [[Commons:Reusing content outside Wikimedia|بیا کارولو لارښود]] ولولئ. تاسو همدارنګه کولی شئ[[Commons:Picture requests|د انځور غوښتنه]].
+|Identifying=
+;پیژندنه؟
+:په منځ کې [[:Category:Unidentified subjects|ناپېژندلي شيان]]  لټون وکړې. که تاسو هغه څه ومومئ چې تاسو یې پیژندلی شئ، د توکو د بحث پاڼې کې يي یادښت وليکي.
+|Creating=
+;جوړول؟
+:په لارښود کې [[Commons:Contributing your own work|د خپل کار ونډي]] وپلټي .که تاسو هغه شی ومومئ چې تاسو یې پیژندلی شئ، د خپل کارن بحث په پاڼې کی يي وليکي.
+;او نور!
+|Explore=
+:په دې پروژه کې د ګډون لپاره نورې لارې وپلټئ. [[Commons:Community portal|د ټولنې تانبه]] هم وپلټي.
 
-{| border="0" cellspacing="0" cellpadding="0" style="margin:1em 0; background:transparent; width:100%;"
-|-
-|valign="top" style="width:60%;" |<div style="border:1px solid #fad67d;">
-<!-----------------------------------Picture of the day------------------------------------->
-<div id="mf-picture-title" class="bg-orange" style="border-bottom:1px solid #fad67d; padding:0.2em 0.5em; font-size:125%; font-weight:bold;">{{{ورځنې انځور|د نن ورځې انځور}}}</div>
-<div id="mf-picture-picture" style="padding:0.4em 1em 0.3em;">
 
-{{:Main_Page/potd-ps|float=center|lang={{{langcode|en}}}}}
-
-<div class="plainlinks hlist" style="clear:both; border-top:1px solid #fad67d; padding-top:0.4em; margin-top:0.8em; text-align:end; font-size:95%; font-weight:bold;">
-{{ps|آر اس اس کوکیز}} 
-* [https://lists.wikimedia.org/mailman/listinfo/daily-image-l {{{Subscribe|Subscribe}}}]
-* [[{{{Previous Pictures of the day link|Special:MyLanguage/Commons:Picture of the day}}}|{{{Previous Pictures of the day|Previous ''Pictures of the day''}}}]]
-</div></div>
-</div><br />
-<!------------------------------------Media of the day-------------------------------------->
-<div style="border:1px solid #fad67d;">
-<div class="bg-orange" style="border-bottom:1px solid #fad67d; padding:0.2em 0.5em; font-size:125%; font-weight:bold;">{{{Media of the day|Media of the day}}}</div>
-<div style="padding:0.4em 1em 0.3em;">
-
-{{:Main_Page/motd-ps|width=450px|float=center|lang={{{langcode|en}}}}}
-
-<div class="plainlinks hlist" style="clear:both; border-top:1px solid #fad67d; padding-top:0.4em; margin-top:0.8em; text-align:end; font-size:95%; font-weight:bold;">
-* [//commons.wikimedia.org/w/api.php?action=featuredfeed&feed=motd&feedformat=rss&language= {{{RSS feed|RSS feed}}}]
-* [[{{{Previous Media of the day link|Special:MyLanguage/Commons:Media of the day}}}|{{{Previous Media of the day|Previous ''Media of the day''}}}]]
-</div></div>
-</div><br />
-<!------------------------------------Participating-------------------------------------->
-<div style="border:1px solid #fad67d;">
-<div style="border:1px solid #fad67d; border-left:none; border-right:none; padding:0.2em 0.5em; font-size:125%; line-height:1.2; font-weight:bold;" class="bg-orange">{{{Participating|Participating}}}</div>
-<div class="plainlinks" style="padding:0.4em 1em 0.3em;">
-{{{Browsing|
-;Browsing?
-:Please use the search box at the top of this page or the links to the right.}}}
-{{{Using|
-;Using?
-:To fulfill the free license requirements, please read our [[Commons:Reusing content outside Wikimedia|Reuse]] guide. You can also [[Commons:Picture requests|request a picture]].}}}
-{{{Identifying|
-;Identifying?
-:Have a browse through [[:Category:Unidentified subjects]]. If you find something you can identify, write a note on the item's talk page.}}}
-{{{Creating|
-;Creating?
-:Check out all you need to know at our [[Commons:Contributing your own work|Contributing your own work]] guide.
-;and more!}}}
-{{{Explore|
-:To explore more ways you can contribute to this project, check out the [[Commons:Community portal|Community Portal]].}}}
+|Announcement Title=د عکاسي سیالۍ
+|Announcement Text= [[File:Camera2_mgx.svg|100px|left]] 
+<div style="margin-left: 0.3em; padding-left: 0.6em; line-height: 1.5; color: #000; font-size: 1.6em">
+انځورونه واخلئ او زموږ میاشتني سیالیو ته لاسرسی ومومئ، نوي مضمونونه وڅیړئ او ازموینه وکړئ!  [[Commons:Photo challenge|'''د سیالۍ په اړه نور معلومات ترلاسه کړئ !''']]</div> <div align="center" style="margin: 1em;"> {{Clickable button|Commons:Photo_challenge#Challenges_open_for_submission|'''د دې میاشتې سیالۍ وګورئ' '''|iconPrimary=ui-icon-circle-arrow-n|class=ui-button-green ui-button-large}}
 </div>
-</div>{{#ifeq: {{{extraboxleft}}} | yes | <br />
-<!------------------------------------Extra Box-------------------------------------->
-<div style="border:1px solid #fad67d;">
-<div style="border:1px solid #fad67d; border-left:none; border-right:none; padding:0.2em 0.5em; font-size:125%; line-height:1.2; font-weight:bold;" class="bg-orange">{{{ExtraBoxLeft}}}</div>
-<div class="plainlinks" style="padding:0.4em 1em 0.3em;">
-{{{ExtraBoxLeft-Content}}}
-</div></div>
-| &nbsp; }}
-|style="padding:0 0.5em;"|
-|style="width:50%;  vertical-align:top;" | <div style="border:1px solid #BBFA7C;">
-<div style="background:#BBFA7C; border-bottom:1px solid #BBFA7C; padding:0.2em 0.5em; font-size:125%; font-weight:bold;">{{{Announcement Title}}}</div>
-<div style="padding:0.4em 1em 0.3em;">
-{{{Announcement Text}}}</div></div><br />
-<!-------------------------Highlights---------------------------------->
-<div style=" border:1px solid #abd5f5; vertical-align:top; ">
-<div style="background:#abd5f5; border-bottom:1px solid #abd5f5; padding:0.2em 0.5em; font-size:125%; font-weight:bold;">{{{Highlights|Highlights}}}</div>
-<div style="padding:0.4em 1em 0.3em;">
-{{{Highlights Text|
-If you are browsing Commons for the first time, you may want to start with '''[[Commons:Featured pictures|Featured pictures]]''',  '''[[Commons:Quality images|Quality images]]''' or '''[[Commons:Valued images|Valued images]]'''.<br /><br />You can also see some work created by our highly skilled contributors in '''[[commons:Meet our photographers|Meet our photographers]]''' and '''[[Commons:Meet our illustrators|Meet our illustrators]]'''. You may also be interested in '''[[Commons:Picture of the Year|Picture of the Year]]'''.
-}}}
-</div></div><br />
-<!----------------------------------------Content------------------------------------------->
-<div style="border:1px solid #abd5f5; vertical-align:top; ">
-<div id="mf-content-title" style="background:#abd5f5; border-bottom:1px solid #abd5f5; padding:0.2em 0.5em; font-size:125%; font-weight:bold;">{{{Content|Content}}}</div>
-<div style="padding:0.4em 1em 0.3em;">{{{Content Text|
-<div id="mf-content-links">
+
+
+|Highlights=وړاندیزونه
+|Highlights Text=
+که چېرته دا ستاسې لومړی ځل وي چې تاسې دلته راغلي ياست، , کېدای شي تاسې غواړئ چې لومړی زموږ د '''[[Commons:Featured pictures|مستنده انځورونه]]''' کې پېل کړی، او يا هم '''[[Commons:Quality images|باکيفيته انځورونه]]''', کوم چې د ټولگړو ټولنې لخوا د ځانگړي ارزښت له امله ټاکل شوي. تاسې کولای شی چې زموږ د تکړه ونډوالو هغه ارزښتناکه کارونه چې دوي پخپله جوړ کړي په '''[[commons:Meet our photographers|زموږ عکاسان]]''' او '''[[Commons:Meet our illustrators|زموږ رسامان]]''' په څانگو کې هم وگورئ .
+
+|Content=منځپانګې
+|Content Text=
+{{search box|search-width=number|search-button-label=لټون}}
+<div id="mf-content-links" dir="rtl" class="mw-content-rtl">
 <div class="hlist">
-;By topic
-'''[[:Category:Nature|Nature]]'''<br />
-* [[:Category:Animalia|Animalia]]
-* [[:Category:Fossils|Fossils]]
-* [[:Category:Landscapes|Landscapes]]
-* {{nowrap|[[:Category:Marine life|Marine life]]}}
-* [[:Category:Plantae|Plantae]]
-* [[:Category:Weather|Weather]]
+;د وينا له مخې
+'''[[:Category:Nature|طبیعت]]'''<br />
+* [[:Category:Animalia|حيوانات]]
+* [[:Category:Fossils|فوسیلونه]]
+* [[:Category:Landscapes|طبیعي منظري]]
+* {{nowrap|[[:Category:Marine life| سمندری ژوند]]}}
+* [[:Category:Plantae|نباتات]]
+* [[:Category:Weather|هوا]]
  
-'''[[:Category:Society|Society]]'''&nbsp;&nbsp;'''[[:Category:Culture|Culture]]'''<br />
-* [[:Category:Art|Art]]
-* [[:Category:Belief|Belief]]
-* [[:Category:Entertainment|Entertainment]]
-* [[:Category:Events|Events]]
-* [[:Category:Flags|Flags]]
-* [[:Category:Food|Food]]
-* [[:Category:History|History]]
-* [[:Category:Language|Language]]
-* [[:Category:Literature|Literature]]
-* [[:Category:Music|Music]]
-* [[:Category:Objects|Objects]]
-* [[:Category:People|People]]
-* [[:Category:Places|Places]]
-* [[:Category:Politics|Politics]]
-* [[:Category:Sports|Sports]]
+'''[[:Category:Society|ټولنه]]'''&nbsp;&nbsp;'''[[:Category:Culture|فرهنگ]]'''<br />
+* [[:Category:Art|هنر]]
+* [[:Category:Belief|عقیدې]]
+* [[:Category:Entertainment|ساعتېري]]
+* [[:Category:Events|پیښې]]
+* [[:Category:Flags|بيرغونه]]
+* [[:Category:Food|خواړه]]
+* [[:Category:History|تاریخ]]
+* [[:Category:Language|ژبه]]
+* [[:Category:Literature|ادبیات]]
+* [[:Category:Music|موسیقی]]
+* [[:Category:Objects|توکي]]
+* [[:Category:People|خلک]]
+* [[:Category:Places|ځایونه]]
+* [[:Category:Politics|سیاست]]
+* [[:Category:Sports|ورزش]]
 
-'''[[:Category:Science|Science]]'''<br />
-* [[:Category:Astronomy|Astronomy]]
-* [[:Category:Biology|Biology]]
-* [[:Category:Chemistry|Chemistry]]
-* [[:Category:Earth sciences|Earth sciences]]
-* [[:Category:Mathematics|Mathematics]]
-* [[:Category:Medicine|Medicine]]
-* [[:Category:Physics|Physics]]
-* [[:Category:Technology|Technology]]
+'''[[:Category:Science|پوهه]]'''<br />
+* [[:Category:Astronomy|ستورپوهنه]]
+* [[:Category:Biology|بیولوژي]]
+* [[:Category:Chemistry|کیمیا]]
+* [[:Category:Earth sciences|ځمکه پيژندنه]]
+* [[:Category:Mathematics|ریاضي]]
+* [[:Category:Medicine|درمل]]
+* [[:Category:Physics|فزیک]]
+* [[:Category:Technology|ټیکنالوژي]]
 
-'''[[:Category:Engineering|Engineering]]'''<br />
-* [[:Category:Architecture|Architecture]]
-* [[:Category:Chemical engineering|Chemical]]
-* [[:Category:Civil engineering|Civil]]
-* [[:Category:Electrical engineering|Electrical]]
-* [[:Category:Environmental engineering|Environmental]]
-* [[:Category:Geophysical engineering|Geophysical]]
-* [[:Category:Mechanical engineering|Mechanical]]
-* [[:Category:Process engineering|Process]]
+'''[[:Category:Engineering|انجنیری]]'''<br />
+* [[:Category:Architecture|معماري]]
+* [[:Category:Chemical engineering|کیمیاوي انجنیري]]
+* [[:Category:Civil engineering|ساختماني انجینري]]
+* [[:Category:Electrical engineering|برقي انجینري]]
+* [[:Category:Environmental engineering|چاپیریال انجنیري]]
+* [[:Category:Geophysical engineering|ځمکه پيژندنه انجنیري]]
+* [[:Category:Mechanical engineering|میخانیکي انجینري]]
+* [[:Category:Process engineering|پروسس انجینري]]
 </div>
-{{Hidden|toggle=left|1=By location|2=
+{{Hidden|toggle=start|1=د ځای ډولونه|2=
 <div class="hlist">
-'''[[:Category:Earth|Earth]]'''<br />
-* [[:Category:Oceans|Oceans]]
-* [[:Category:Islands|Islands]]
-* [[:Category:Archipelagoes|Archipelagoes]]
-* [[:Category:Continents|Continents]]
-* [[:Category:Countries|Countries]]
-* [[:Category:Subdivisions by country|Subdivisions]]
+'''[[:Category:Earth|ځمکه]]'''<br />
+* [[:Category:Oceans|سمندرونه]]
+* [[:Category:Islands|ټاپوګان]]
+* [[:Category:Archipelagoes|آرکیپیلگو]]
+* [[:Category:Continents|وچی]]
+* [[:Category:Countries|هیوادونه]]
+* [[:Category:Subdivisions by country|د هېوادونو فرعي برخي]]
 
-'''[[:Category:Outer space|Space]]'''<br />
-* [[:Category:Asteroids|Asteroids]]
-* {{nowrap|[[:Category:Natural satellites|Natural satellites]]}}
-* [[:Category:Comets|Comets]]
-* [[:Category:Planets|Planets]]
-* [[:Category:Stars|Stars]]
-* [[:Category:Galaxies|Galaxies]]
+'''[[:Category:Outer space|فضا]]'''<br />
+* [[:Category:Asteroids|اسټریوډس]]
+* {{nowrap|[[:Category:Natural satellites|میاشتې]]}}
+* [[:Category:Comets|کمټونه]]
+* [[:Category:Planets|سیاري]]
+* [[:Category:Stars|ستوري]]
+* [[:Category:Galaxies|ګلاکسونه]]
 </div>
 }}
-{{Hidden|toggle=left|1=By type|2=
+{{Hidden|toggle=start|1=د ډول له مخې|2=
 <div class="hlist">
-'''[[:Category:Images|Images]]'''<br />
-* [[:Category:Animations|Animations]]
-* [[:Category:Diagrams|Diagrams]]
-* [[:Category:Drawings|Drawings]]
-* [[:Category:Maps|Maps]] <small>([[Atlas]])</small>
-* [[:Category:Paintings|Paintings]]
-* [[:Category:Photographs|Photos]]
-* [[:Category:Symbols|Symbols]]
+'''[[:Category:Images|انځورونه]]'''<br />
+* [[:Category:Animations|متحرکونه]]
+* [[:Category:Diagrams|چارټونه]]
+* [[:Category:Drawings|پلانونه]]
+* [[:Category:Maps|نقشي]] <small>([[Atlas|اطلسونه]])</small>
+* [[:Category:Paintings|رسامياني]]
+* [[:Category:Photographs|انځورګران]]
+* [[:Category:Symbols|سمبولونه]]
 
-'''[[:Category:Sound|Sounds]]'''<br />
-* [[:Category:Audio files of music|Music]]
-* [[:Category:Pronunciation|Pronunciation]]
-* [[:Category:Audio files of speeches|Speeches]]
-* [[:Category:Spoken Wikipedia|Spoken Wikipedia]]
+'''[[:Category:Sound|غږونه]]'''<br />
+* [[:Category:Audio files of music|موسیقی]]
+* [[:Category:Pronunciation|ژباړه]]
+* [[:Category:Audio files of speeches|لیکچرونه]]
+* [[:Category:Spoken Wikipedia|د ويکيپېډيا لېکل شوي خبرېز متنونه]]
 
-'''[[:Category:Videos|Videos]]'''
+'''[[:Category:Videos|ویډیو]]'''
 </div>
 }}
-{{Hidden|toggle=left|1=By author|2=
+{{Hidden|toggle=start|1=د لیکوال د وينا له مخې|2=
 <div class="hlist">
-* [[:Category:Buildings by architect|Architects]]
-* [[:Category:Compositions by composer|Composers]]
-* [[:Category:Paintings by painter|Painters]]
-* [[:Category:Photographs by photographer|Photographers]]
-* [[:Category:Sculptures by sculptor|Sculptors]] 
+* [[:Category:Buildings by architect|معماران]]
+* [[:Category:Compositions by composer|هنرمندان]]
+* [[:Category:Paintings by painter|رسامان]]
+* [[:Category:Photographs by photographer|انځورګران]]
+* [[:Category:Sculptures by sculptor|مجسمه ګران]]
 </div>
 }}
-{{Hidden|toggle=left|1=By license|2=
+{{Hidden|toggle=start|1=د جواز له مخې|2=
 <div class="hlist">
-'''[[:Category:Copyright statuses|Copyright statuses]]'''<br />
-* {{nowrap|[[:Category:Creative Commons licenses|Creative Commons licenses]]}}
-* [[:Category:GFDL|GFDL]]
-* [[:Category:Public domain|Public domain]]
+'''[[:Category:Copyright statuses|د چاپ حق حالت]]'''<br />
+* {{nowrap|[[:Category:Creative Commons licenses|د کريټيف کامنز جواز]]}}
+* [[:Category:GFDL|جی‌اف‌ډی‌ال]]
+* [[:Category:Public domain|عامه ملکیت]]
 </div>
 }}
-{{Hidden|toggle=left|1=By source|2=
+{{Hidden|toggle=start|1=د سرچينې د معلوماتو له مخې|2=
 <div class="hlist">
-'''[[:Category:Image sources|Image sources]]'''<br />
-* [[:Category:Images from encyclopedias|Encyclopedias]]
-* [[:Category:Media from scholarly journals|Scholarly journals]]
-* [[:Category:Self-published work|Self-published work]]
+'''[[:Category:Image sources|د انځورونو سرچیني]]'''<br />
+* [[:Category:Images from encyclopedias|پوهنغونډونه]]
+* [[:Category:Media from scholarly journals|سائنسي ژورنالونه]]
+* [[:Category:Self-published work|د ځان لخوا خپاره شوي اثار]]
 </div>
 }}
-;[[{{#timel:F j}}|Images from {{#timel:F j}}]]'''
+;[[{{#timel:F j}}| انځورونه د{{#timel:j F||fa}}]]'''
 
 </div>
-}}}
-</div></div>
-|}
 
-<!------------------------------------Sister projects--------------------------------------->
-{{Sisterprojects-{{{langcode|ps}}}}}
-
-<!-----------------------------This page in other languages--------------------------------->
-<div style="padding: 2em; text-align: center;">
-{{Lang-mp}}
-</div>
-
-<includeonly>[[Category:Commons-{{{langcode|ps}}}]]</includeonly>
-</div>
+|Sister projects=خورلڼې پروژې
+}}
