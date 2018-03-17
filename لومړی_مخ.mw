@@ -1,24 +1,128 @@
-  {{لومړی مخ/سر لیک}}
-  {{لومړی مخ پيغام}}
-{{غوره لیکنه لمړي مخ}}</div>
-  </div>
-  </div> 
-{{ ايا پدې پوهېدئ لمړی مخ}}
-  </div>
-{{د نن ورځې وراشه لمړی مخ}}
-{{  ویکیپېډیا څه ده لمړي مخ}}
-  </div>
-{{لومړی مخ/ښه راغلئ۲}}
-</div>
-    {{لومړی مخ اوسنۍ پېښې}}
-    </div>
-  </div>
-{{نن ورځ تاريخ}} 
-    </div>
-{{لومړی مخ غوره انځور}}
-{{لومړی مخ/نورې پروژې}}
-{{لومړی مخ نور معلومات}}
-{{لومړی مخ ژبي}}
+{|id="mp-sp" cellpadding="2" cellspacing="5" style="margin: 1px 2px; width:99.5%; vertical-align:top; background:#:#F8F8F8; border:1px solid #a7d7f9; border-radius:5px; color:#000;"
+|{{پہلا صفہ}}
+|-
+|{{مضمون}}
+|-
+|{{Shahmukhi}}
+|}
+<!-- ============== ستون  شروع================ -->
+{| style="margin-top:10px; background:none;"
+<!-- ============== سجا ستون شروع ================ -->
+| style="width:60%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; {{border-radius|7px}}" |
+{| id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;"
+<!-- ============== منتخب مضمون ================ -->
+{{عنوان بتدرج لوني |title=چونواں مضمون |File=HSutvald3.svg}}
+<div id="mf-ur" style="margin-bottom: auto;" title="چونواں مضمون">{{چونواں مضمون}}</div>
+{{عنوان بتدرج لوني |title=اج کل دیاں خبراں|File=HSAktuell.svg}}
+<div id="mf-ur" style="margin-bottom: auto;" title="اج کل دیاں خبراں">{{خبراں چ}}</div>
+{{عنوان بتدرج لوني |title=پنجابی بولی|File=Datum{{LOCALDAY2}}.svg}}
+{{پنجابی لوک}}
+{{عنوان بتدرج لوني |title=تسیں جاندے او|File=HS RTL Exclamation.svg}}
+{{تسیں جاندے او|}}
 
-  </div>
-</div> __NOTOC__ __NOEDITSECTION__
+</div>
+<!-- ============= دایاں ستون کا اختتام ================= -->
+|}
+| style="solid transparent;" |
+<!-- ============== کھبا ستون  شروع ================ -->
+| style="width:40%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; {{border-radius|7px}}"|
+<!--     =====================  ستون شروع  ====================     -->
+{| id="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent;"
+<!-- ===================== دعوت شرکت =============== -->
+! {{پہلا صفہ/خانہ2
+| فائل= W-circle.svg
+| عنوان   = ویکیپیڈیا   دا حصہ بنو!
+| متن = <div id="mf-ur" style="margin-bottom: auto;" title="">{{پہلا صفہ/جی آیاں نوں}}</div>
+}}
+<!-- ====================== لفظ تے قول/ اقتباس =============== -->
+! {{پہلا صفہ/خانہ2
+| فائل= HS Korganizer.svg
+| عنوان   = اج دا شبد
+| متن = {{پنجابی دے لفظ}}
+}}
+<!-- {{آسان خط|[[wikt:|ویکشنری]] '''·''' [[ویکیپیڈیا:آج کے الفاظ/جملہ الفاظ کی نمائش|مکمل فہرست اغلاط]]}} -->
+! {{پہلا صفہ/خانہ2
+| فائل= HSBook.svg
+| عنوان   = اج دی گل
+| متن = {{/پیغام/4}}
+}}
+<!-- ===================== منصوبہ =============== -->
+! {{پہلا صفہ/خانہ2
+| فائل= {{{img1|Text-x-generic with pencil-2.svg}}}
+| عنوان   = {{{jud1|سہ ماہی منصوبہ}}}
+| متن = {{پہلا صفہ/ہدف لیکھ|}}
+}}
+<!-- ========================= اضافی ===============
+{{#if:{{{cont2|}}}|
+! {{پہلا صفہ/خانہ2
+| فائل= {{{img2|Text-x-generic with pencil-2.svg}}}
+| عنوان   = {{{jud2|Partisipasi}}}
+| متن = {{{cont2|Mari berpartisipasi dalam membangun ensiklopedia bebas terlengkap berbahasa Indonesia!}}}
+}}|}}
+
+<!-- ====================== برادری =============== -->
+! {{پہلا صفہ/خانہ2
+| فائل= HSSamarbete.svg
+| عنوان   = ویکیپیڈیا ورتن والے
+| متن = {{ویکی برادری}}
+}}
+</div>
+<!-- ============== اج دا دن ================= -->
+! {{پہلا صفہ/خانہ2
+| فائل= HS Korganizer.svg
+| عنوان   = اج دا دن
+| متن = <div id="mf-ur">{{اج دے دن}}</div>
+}}
+</div>
+<!-- ================== خانہ تخلیق مضمون  =============== -->
+<!--
+! {{پہلا صفہ/خانہ2
+| فائل= Wikimedia-logo-circle.svg
+| عنوان   = کیہ تسیں وی لکھنا چاہندے او؟
+| متن = {{صاف}} {{خانہ تخلیق مضمون}}
+}}
+</div> -->
+|}
+<!-- ================= ستون کے بائیں سرے میں میز=============== -->
+<!-- ======================== کھباستون ختم =============== -->
+|}
+{|id="mp-sp" cellpadding="2" cellspacing="5" style="margin: 1px 2px; width:99.5%; vertical-align:top;  border:1px solid #a7d7f9; background:#f5faff; border-radius:5px; color:#000;"
+{{عنوان بتدرج لوني |title=اج دی مورت|File=HSBild.svg}}
+{{اج دی مورت}}
+ 
+|}<!-- =========================  ہور بولیاں=============== -->
+{|id="mp-sp" cellpadding="2" cellspacing="5" style="margin: 1px 2px; width:99.5%; vertical-align:top; border:1px solid #a7d7f9; background:#f5faff; border-radius:5px; color:#000;"
+|{{عنوان بتدرج لوني |title=کیہ تسیں لکھنا چاہندے او؟|File=HSEditor.svg}}
+{{خانہ تخلیق لیکھ}}
+
+{{عنوان بتدرج لوني |title=ویکیپیڈیا  چ لبھو|File=HSCategory.svg}}
+{{موضوعات لبھو}}
+
+|}
+|}
+</div>
+{|id="mp-sp" cellpadding="2" cellspacing="5" style="margin: 1px 2px; width:99.5%; vertical-align:top;  border:1px solid #a7d7f9; background:#f5faff; border-radius:5px; color:#000;"
+|{{عنوان بتدرج لوني |title='''[[m:List of Wikipedias|سارے وکیپیڈیا دی لسٹ]]'''|File=Wikimedia Community Logo.svg}}
+|-
+|{{عنوان بتدرج لوني |title=ویکیپیڈیا ہور  بولیاں چ|File=Wikimedia-logo-circle.svg}}
+{{ویکیپیڈیا  بولیاں}}
+|}
+<!----------------------------------------------------------------------- OTHER WIKIMEDIA PROJECTS ----------------------------------------------------------------------------------------------------------------------------------------------------->
+ </div>
+{|id="mp-sp" cellpadding="2" cellspacing="5" style="margin: 1px 2px; width:99.5%; vertical-align:top;  border:1px solid #a7d7f9; background:#f5faff; border-radius:5px; color:#000;"
+|{{عنوان بتدرج لوني |title='''ہور وکیمیڈیا منصوبے'''|File=Wikimedia-logo.svg}}
+
+{{ہور ویکیپیڈیا منصوبے}}
+|}
+ 
+{| style="margin: 0 auto;background-color:transparent"
+|[[File:Crystal 128 mail.png|24px|link=ویکیپیڈیا:ساڈے نال رابطہ کرو|alt=ساڈے نال رابطہ کرو]]||''[[ویکیپیڈیا:ساڈے نال رابطہ کرو|مدد  دی  لوڑ اے؟ ساڈے نال رابطہ کرو!]]''
+|}
+{{سماجی رابطےآں اتے پنجابی و یکیپیڈیا}}
+<!-- ===================== دستبرداری اختتام ====================== -->
+{{رابطے پہلا صفہ}}
+{{noexternallanglinks}}
+{{پہلے صفے در جوڑ}}
+{{Nobots}}
+__NOTOC__
+__NOEDITSECTION__
