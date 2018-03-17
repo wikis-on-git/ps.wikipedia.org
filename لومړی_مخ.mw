@@ -32,24 +32,6 @@
 </div>
 |allimages={{{dyk-allimages|no}}} }}
 </div>
-<!-- =====优良条目開始===== -->
-<div id="mp-2012-column-good-block" class="mp-2012-column-left-block">
-<h2>优良条目</h2>
-{{Good|class=mp-2012-text|footer=<div class="mp-2012-block-nav-footer hlist">
-* [[Wikipedia:優良條目候選|候选]]
-* [[Wikipedia:優良條目/存檔|存档]]
-* [[Wikipedia:優良條目|所有優良條目]]
-</div>
-|{{{timecorrection|}}}}}
-</div>
-<!-- =======每日圖片開始====== -->
-<div id="mp-2012-column-featurepic-block" class="mp-2012-column-left-block nomobile">
-<h2>每日图片</h2>
-{{Featurepic|footer=<div class="mp-2012-block-nav-footer hlist">
-* [[Wikipedia:每日圖片|更多每日圖片]]
-</div>
-|{{{timecorrection|}}}}}
-</div>
 <!-- ================左欄关闭================-->
 </div></div>
 <!-- ================右欄開始================ -->
@@ -66,22 +48,6 @@
 * [[Portal:新聞動態|更多新闻]]
 </div>
 }}
-</div>
-<!-- =======历史上的今天開始======== -->
-<div id="mp-2012-column-otd-block" class="mp-2012-column-right-subblock">
-<h2>历史上的今天</h2>
-{{Otd|class=mp-2012-text|footer=<div class="mp-2012-block-nav-footer hlist">
-* [[Wikipedia:历史上的今天|存档]]
-* [[{{CURRENTMONTHNAME}}{{CURRENTDAY}}日|更多历史事件]]
-</div>
-|{{{timecorrection|}}}}}
-</div>
-<!-- ======動態热门开始===== -->
-<div id="mp-2012-column-uptrends-block" class="mp-2012-column-right-subblock nomobile">
-<h2>動態热门</h2>
-<div id="column-uptrends" class="hlist mp-2012-text">{{Uptrends}}</div>
-</div>
-<!-- ===========右欄第一个框关闭=========== -->
 </div>
 <!-- ===========右欄第二个框開始=========== -->
 <div id="mp-2012-column-right-block-b" class="mp-2012-column-right-block nomobile">
