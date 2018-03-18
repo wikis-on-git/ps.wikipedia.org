@@ -1,4 +1,8 @@
 <!--        BANNER ACROSS TOP OF PAGE        -->
+<noinclude>
+<div id="mp-2012">
+</noinclude><div id="mp-2012-banner" class="nomobile">
+    <div id="mp-2012-banner-logo"><!-- &#x200B; --></div>
 {| id="mp-topbanner" style="width:100%; background:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd;"
 | style="width:61%; color:#000;" |
 <!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
