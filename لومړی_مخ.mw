@@ -32,23 +32,6 @@
 </div>
 |allimages={{{dyk-allimages|no}}} }}
 </div>
-<!-- ================左欄关闭================-->
-</div></div>
-<!-- ================右欄開始================ -->
-<div id="mp-2012-column-right"><div>
-<!-- ===========右欄第一个框開始=========== -->
-<div id="mp-2012-column-right-block-a" class="mp-2012-column-right-block">
-<!-- ======新聞動態開始====== -->
-<div id="mp-2012-column-itn-block" class="mp-2012-column-right-subblock">
-<h2>新闻动态</h2>
-{{Itn|class=mp-2012-text|footer=<div class="mp-2012-block-nav-footer hlist">
-* [[Wikipedia:新闻动态候选|候選]]
-* [[n:Wikinews:首页|維基新聞]]
-* [[Portal:讣闻|讣闻]]
-* [[Portal:新聞動態|更多新闻]]
-</div>
-}}
-</div>
 <!-- ===========右欄第二个框開始=========== -->
 <div id="mp-2012-column-right-block-b" class="mp-2012-column-right-block nomobile">
 <!-- =====參與維基百科開始======= -->
