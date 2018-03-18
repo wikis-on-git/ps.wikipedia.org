@@ -1,103 +1,24 @@
-{{noedit0}} __NOTOC__ __NOEDITSECTION__
-<!-- global wrapper -->
-<div id="mp-2012">
-<!-- 頂欄開始 -->
-{{Wikipedia:首页/banner}}
-<!-- 內容開始 -->
-<div id="mp-2012-body">
-<!-- ================左欄開始================ -->
-<div id="mp-2012-column-left"><div>
-<!-- ====== 典范条目開始 ======= -->
-<div id="mp-2012-column-feature-block" class="mp-2012-column-left-block">
-<h2>{{#ifeq:{{FeaturedContentType}}|1|特色列表|ټاکلي ليکنه}}</h2>
-{{Feature|class=mp-2012-text|footer=
-<div id="column-feature-more">
-* <span class="column-feature-more-header">[[Wikipedia:典範條目|其他典範條目]]</span>：{{#invoke:首页2|list|title=Wikipedia:典範條目/列表|pattern=%[%[(.-)%]%]}}
-* <span class="column-feature-more-header">[[Wikipedia:特色列表|其他特色列表]]</span>：{{#invoke:首页2|list|title=Wikipedia:特色列表/列表|pattern=%[%[:(.-)%]%]}}
+  {{لومړی مخ/سر لیک}}
+  {{لومړی مخ پيغام}}
+{{غوره لیکنه لمړي مخ}}</div>
+  </div>
+  </div> 
+{{ ايا پدې پوهېدئ لمړی مخ}}
+  </div>
+{{د نن ورځې وراشه لمړی مخ}}
+{{  ویکیپېډیا څه ده لمړي مخ}}
+  </div>
+{{لومړی مخ/ښه راغلئ۲}}
 </div>
-<div class="mp-2012-block-nav-footer hlist">
-* [[Wikipedia:典范条目|典范条目]]（[[Wikipedia:典范条目候选|候选]]）
-* [[Wikipedia:特色列表|特色列表]]（[[Wikipedia:特色列表候选|候选]]）
-* [[Wikipedia:典范条目/存档|存档]]
-</div>
-|{{{timecorrection|}}}}}
-</div>
-<!-- =====你知道吗開始==== -->
-<div id="mp-2012-column-dyk-block" class="mp-2012-column-left-block">
-<h2>آیا پوهيږي؟</h2>
-{{Dyk|class=mp-2012-text|footer=<div class="mp-2012-block-nav-footer hlist">
-* [[Wikipedia:新条目推荐/候选|候选]]
-* [[Wikipedia:新条目推荐|存档]]
-* [[Special:Newpages|更多新条目]]
-</div>
-|allimages={{{dyk-allimages|no}}} }}
-</div>
-<!-- ===========右欄第二个框開始=========== -->
-<div id="mp-2012-column-right-block-b" class="mp-2012-column-right-block nomobile">
-<!-- =====參與維基百科開始======= -->
-<div id="mp-2012-column-participate-block" class="mp-2012-column-right-subblock nomobile">
-<h2>參與维基百科</h2>
-<div id="column-participate" class="mp-2012-text">
-[[File:Applications-office.svg|70px|right]]
-'''[[Wikipedia:关于|维基百科]]'''是一个[[维基百科:维基百科语言列表|多语言]]、[[Wikipedia:版权信息|内容自由]]、[[Wikipedia:誰在寫維基百科|任何人都能参与]]的协作计划，其目标是建立一个完整、准确且中立的百科全书。
+    {{لومړی مخ اوسنۍ پېښې}}
+    </div>
+  </div>
+{{نن ورځ تاريخ}} 
+    </div>
+{{لومړی مخ غوره انځور}}
+{{لومړی مخ/نورې پروژې}}
+{{لومړی مخ نور معلومات}}
+{{لومړی مخ ژبي}}
 
-中文维基百科的成长依靠您的参与，無論是[[帮助:创建新页面|创建新条目]]、[[帮助:编辑页面|编辑现有条目]]，或者[[Wikipedia:图片教程|为条目增加插图]]，您都可以为维基百科作出贡献。
-<div id="column-participate-button">{{Clickable button 2|Wikipedia:參與貢獻|开始参与维基百科|class=mw-ui-progressive}}</div>
-</div>
-</div>
-<!-- ===========右欄第二个框关闭=========== -->
-</div>
-<!-- ===========右欄第三个框開始=========== -->
-<div id="mp-2012-column-right-block-c" class="mp-2012-column-right-block nomobile">
-<!-- ======隨機提示開始======= -->
-<div id="mp-2012-column-tips-block" class="mp-2012-column-right-subblock nomobile">
-<h2>维基百科提醒您</h2>
-<div id="column-tips" class="plainlinks mp-2012-text">
-[[File:Dialog-information_on.svg|70px|right]]
-{{#invoke:首页|tips_show}}
-</div>
-</div>
-<!-- ===========右欄第三个框关闭=========== -->
-</div>
-<!-- ================右欄关闭================-->
-</div></div>
-<!-- =======連結開始====== -->
-<div id="mp-2012-links" class="nomobile">
-<table><tr>
-<td>
-<h3>站点-{zh-cn:链接;zh-hant:連結}-</h3>
-*[[Wikipedia:WAP存取|-{zh-cn:移动访问;zh-tw:行動瀏覽;zh-hk:流動瀏覽}-]]
-*[[Wikipedia:新聞|站点新闻]]
-*[[Wikipedia:联络我们|联络我们]]
-*[[Wikipedia:联合供稿|{{lang|en|RSS}}]]
-*[[Wikipedia_talk:Guestbook for non-Chinese speakers|{{lang|en|Guestbook}}]]
-</td>
-<td>
-<h3>认识维基百科</h3>
-*[[Wikipedia:誰在寫維基百科|谁在撰写]]
-*[[Wikipedia:五大支柱|五大支柱]]
-*[[Wikipedia:常见问题解答|常见问题]]
-*[[Wikipedia:维基百科不是什么|常见-{zh-cn:误区; zh-hant:誤解;}-]]
-*[[Wikipedia:简要规则集|简要规则集]]
-</td>
-<td>
-<h3>常用工具</h3>
-*[[Wikipedia:備忘單|备忘单]]
-*[[Wikipedia:简明版权信息|版权守则]]
-*[[Wikipedia:格式手冊|格式手冊]]
-*[[Wikipedia:版面指南|版面指南]]
-*[[Wikipedia:术语表|术语表]]
-</td>
-</tr></table>
-</div>
-<!--  =======维基媒体基金会其他計劃========   -->
-<div id="mp-2012-sisters" class="nomobile">
-<div>[[File:Wikimedia-logo black.svg|45px|center|link=]]</div>
-{{Wikipediasister}}
-</div>
-<!-- 內容关闭 -->
-</div>
-<!-- global wrapper end -->
-</div>
-{{لومړی مخ مېنځپاڼه}}
-{{noexternallanglinks}}
+  </div>
+</div> __NOTOC__ __NOEDITSECTION__
