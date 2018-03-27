@@ -1,27 +1,39 @@
-  {{لومړی مخ/سر لیک}}
-  {{لومړی مخ پيغام}}
-</div>
-{{غوره لیکنه لمړي مخ}}</div>
-  </div>
-  </div> 
-{{ ايا پدې پوهېدئ لمړی مخ}}
-  </div>
-{{د نن ورځې وراشه لمړی مخ}}
-{{  ویکیپېډیا څه ده لمړي مخ}}
-  </div>
-{{لومړی مخ/ښه راغلئ۲}}
-</div>
-    {{لومړی مخ اوسنۍ پېښې}}
-    </div>
-  </div>
-    </div>
-{{لومړی مخ غوره انځور}}
-<noinclude>
-<div id="mp-2012">
-</noinclude><div id="mp-2012-banner" class="nomobile">
-{{لومړی مخ/نورې پروژې}}
-{{لومړی مخ نور معلومات}}
-{{لومړی مخ ژبي}}
+__NOTOC__ __NOEDITSECTION__
+<!--header-->
+{{Main Page header}}
 
-  </div>
-</div> __NOTOC__ __NOEDITSECTION__
+<!--left column-->
+<div style="float:left; width:55%"><div style="border:1px solid #5090C0; padding-bottom:1em">
+
+<h2 style="background-color:#5090C0; font-weight:bold; color:white; padding:0.3em 1em; margin:1em 0; font-size:inherit; text-align:center">{{uc:{{CURRENTMONTHNAME}} }}’S FEATURED TEXT</h2>
+
+<div id="mf-featured-text" title="{{CURRENTMONTHNAME}}’s featured text" style="margin:0 1em">{{featured text}}</div><div style="clear:both"></div>
+
+<h2 style="background-color:#5090C0; font-weight:bold; color:white; padding:0.3em 1em; margin:1em 0; font-size:inherit; text-align:center">CURRENT COLLABORATIONS</h2>
+
+<div style="margin:0 1em">{{Collaboration}}</div>
+
+</div></div>
+
+<!--right column-->
+<div style="float:right; width:45%"><div style="border:1px solid #5090C0; padding-bottom:1em; margin-left:1em">
+
+<h2 style="background-color:#5090C0; font-weight:bold; color:white; padding:0.3em 1em; margin:1em 0; font-size:inherit; text-align:center">NEW TEXTS</h2>
+
+<div id="mf-new-texts" title="New texts" style="margin:0 1em">{{new texts}}</div>
+
+<h2 style="background-color:#5090C0; font-weight:bold; color:white; padding:0.3em 1em; margin:1em 0; font-size:inherit; text-align:center">HIGHLIGHTS</h2>
+
+<div id="mf-highlights" title="Highlights" style="margin:0 1em">{{Highlights}}</div>
+
+<h2 style="background-color:#5090C0; font-weight:bold; color:white; padding:0.3em 1em; margin:1em 0; font-size:inherit; text-align:center">EXPLORE WIKISOURCE</h2>
+
+<div id="mf-explore-wikisource" title="Explore Wikisource" style="margin:0 1em">{{Explore Wikisource}}</div>
+
+</div></div><div style="clear:both"></div>
+
+<!--bottom-->
+{{Sisterprojects}}
+
+<!-- {{Interwiki Wikisource}} -->
+[[mul:]]
