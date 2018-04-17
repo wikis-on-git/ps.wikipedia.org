@@ -1,0 +1,59 @@
+Given that the topic of this paper addresses both computer and legal agency, we believe an examination of the usage of the terms "agent" and "proxy" within each field is instructive. The technical use of the term agent can be characterized into three overlapping periods. During the earliest period (1960 onward) the term was used by the artificial intelligence community. During the same period, the community of Internet network designers used the term in a way similar to our own: a service that acted on the behalf of another. Finally, the 1990's has been the decade of the agents: where the concept of potentially intelligent, autonomous computer programs that interact with each other within a networked community is hyped. It was also during this latter period that the term proxy became widely used.
+
+The technical concept of an agent was apparently first used in the artificial intelligence community in 1959 to describe the constituents (agents or demons) of a larger self-organizing behavior. [RR, Self] However, within AI its usage did not always relate to computer programs, but to linguistic analysis, particularly in Fillmore's case grammar [Fill]:
+با توجه به اینکه موضوع این مقاله به هر دو رایانه و قانون حقوقی مربوط می شود، ما معتقدیم بررسی استفاده از اصطلاحات "عامل" و "پروکسی" در هر زمینه آموزنده است. استفاده فنی عامل اصطلاح می تواند به سه دوره همپوشانی مشخص شود. در طول اولین دوره (1960 تا بعد) این اصطلاح توسط جامعه هوش مصنوعی استفاده شد. در طول همان دوره، جامعه طراحان شبکه اینترنت این اصطلاح را به شیوه ای مشابه با خودمان استفاده کرد: سرویسی که از طرف دیگر عمل می کرد. در نهایت، دهه 1990 دهه مأمورین بوده است: مفهوم برنامه های کامپیوتری بالقوه هوشمند و مستقل که با یکدیگر در یک شبکه ارتباط برقرار می کنند، بسیار مبهم است. همچنین در طول این دوره اخیر، اصطلاح پروکسی به طور گسترده ای مورد استفاده قرار گرفت.
+
+مفهوم فنی یک عامل در ابتدا در سال 1959 در جامعه اطلاعات هوش مصنوعی برای توصیف اجزاء (عوامل یا شیاطین) یک رفتار سازمانی بزرگتر ظاهر شد. [RR، Self] با این حال، در داخل AI، استفاده از آن همیشه به برنامه های کامپیوتری مربوط نیست، بلکه به تجزیه و تحلیل زبانی، به ویژه در دستور زبان Fillmore [Fill]:
+
+
+
+
+
+
+
+
+
+An agent is one who performs a particular action and this can be reflected in syntax. In English, in an active sentence, the agent is usually referred to by the subject.... A form used to indicate the agent is called 'agentive.' In case grammar, agentive or agent is one of the specified sets of cases. [Bear]
+
+Agents were the subject of papers on intelligent information sharing systems and artificial intelligence throughout the 70 and 80s'. Occasionally, IT related papers used the term as any other discipline would, such as "Computers as an Agent of Change." [Dieb]. Consequently, the use of the term to denote an initiator of action both within the AI/linguistic community and its typical English usage led the term to be used as a substitute of the term "program" when the connotation of autonomy and network interaction were required.
+عامل یک کسی است که یک عمل خاص را انجام می دهد و این می تواند در نحو منعکس شود. به زبان انگلیسی، در یک جمله فعال، عامل معمولا توسط موضوع مورد اشاره قرار می گیرد .... فرم استفاده شده برای نشان دادن عامل به نام "عامل" نامیده می شود. در صورت گرامر، عامل یا عامل یکی از مجموعه های مشخص شده از موارد است. [خرس]
+
+نمایندگان موضوع مقالات در مورد سیستم های به اشتراک گذاری اطلاعات هوشمند و هوش مصنوعی در سراسر 70 و 80 بود. گاهی اوقات، مقالات مرتبط با فناوری اطلاعات این اصطلاح را مانند سایر رشته ها مانند "رایانه به عنوان عامل تغییر" مورد استفاده قرار داد. [دیب] به همین ترتیب، استفاده از اصطلاح برای نشان دادن یک اقدام در داخل جامعه AI / زبان زبانی و استفاده از زبان انگلیسی آن، این اصطلاح را به عنوان جایگزین واژه "برنامه" به کار برد زمانی که نیاز به تعریف مستقل و تعامل شبکه .
+
+
+
+
+
+
+
+
+
+
+<networking> In the client-server model, the part of the system that performs information preparation and exchange on behalf of a client or server. Especially in the phrase "intelligent agent" it implies some kind of automatic process which can communicate with other agents to perform some collective task on behalf of one or more humans. [Free On-line Dictionary of Computing]
+
+While computer agents were the subject of papers for nearly two decades, it was in the 1990's that the term became worthy of appearing in the title. Previously, the key words of related publications were information sharing, computer mediation, collaboration, and cooperation. [Wood] Starting in 1994, specific venues for agent research and discussion, [EWMA, CIKM] as well as a special issue of the Communications of the ACM placed the term prominently in popular discourse. [Comm]
+
+One of the best sources of information on how the terms agents and proxies came to be used in the context of the Internet and Web is the IETF's Request for Comments (RFC) archive. While the first occurrence of agent in an RFC was administrative, [RFC95] its technical debut was instructive in its use with respect to qualifying an agent as a program that resides on and communicates with other programs on a network.
+<networking> در مدل client-server، بخشی از سیستم که تهیه و تبادل اطلاعات را از طرف مشتری یا سرور انجام می دهد. به ویژه در عبارت «عامل هوشمند»، این نوع فرآیند اتوماتیک را نشان می دهد که می تواند با عوامل دیگر برای انجام یک کار جمعی از طرف یک یا چند انسان، ارتباط برقرار کند. [رایگان دیکشنری آنلاین کامپیوتری]
+
+در حالی که تقریبا دو دهه مورد استفاده قرار گرفت، در سالهای دهه 1990 موضوعهای مربوط به مقالات رایانه ای بود که این اصطلاح ارزش دیدن در عنوان را داشت. پیش از این، واژه های کلیدی انتشارات مربوطه عبارت بودند از: اشتراک گذاری اطلاعات، میانجیگری رایانه ای، همکاری و همکاری. [Wood] از سال 1994، مکان های ویژه ای برای تحقیق و بحث در مورد عامل، [EWMA، CIKM] و همچنین یک شماره ویژه از ارتباطات ACM، این واژه را برجسته در گفتمان مردمی قرار داد. [کام]
+
+یکی از بهترین منابع اطلاعاتی در مورد چگونگی استفاده از اصطلاحات عامل ها و پروکسی ها در زمینه اینترنت و وب، آرشیو Request for Comments (RFC) IETF است. در حالی که اولین رخداد عامل در RFC اداری بود، [RFC95] اولین دوره فنی آن در استفاده از آن در رابطه با واجد شرایط بودن یک عامل به عنوان یک برنامه کاربردی بود که در ارتباط با دیگر برنامه ها در شبکه مشارکت داشت.
+
+
+
+
+
+
+
+
+
+
+
+
+4.3. Proxy Management
+
+Proxy is a term that originated in the legal community to indicate an entity empowered to perform actions on behalf of another. In our context, a proxy is a manager empowered to perform actions on behalf of another manager. This may be necessary because the manager cannot communicate directly with the managed devices either for security or other administrative reasons or because of incompatible communication mechanisms or protocols. In either case, the proxy assumes the agent role with respect to the requesting manager and the manager role with respect to the managed device. [RFC1090]
+4.3. مدیریت پروکسی
+
+پروکسی یک اصطلاح است که در جامعه حقوقی ایجاد شده است تا نشان دهد یک نهاد که توانایی انجام اعمال را از طرف دیگری دارد. در متن ما یک پروکسی یک مدیر است که توانایی انجام اعمال را از طرف مدیر دیگری دارد. این ممکن است لازم باشد زیرا مدیر نمی تواند به طور مستقیم با دستگاه های مدیریت شده برای امنیت یا دیگر دلایل اداری یا به دلیل مکانیسم های ارتباطی ناسازگار یا پروتکل ها ارتباط برقرار کند. در هر صورت، پروکسی نقش عامل را با توجه به مدیر درخواست کننده و نقش مدیر در رابطه با دستگاه مدیریت شده فرض می کند. [RFC1090]
