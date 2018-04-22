@@ -24,10 +24,7 @@
 | pushpin_label_position = bottom
 | pushpin_map_caption    =موقیعت په افغانستان کی (نه دارغنداب په مرکز کی)
 <!-- ځاي ------------------>
-| latd = 31 | latm = 39| lats = 17| latNS = N
-| longd = 65 | longm = 38| longs = 58| longEW = E
-| coordinates_display    = inline,title
-| coordinates_region     = AF
+| coordinates            = {{coord|31|39|17|N|65|38|58|E|region:AF|display=inline,title}}
 | subdivision_type       = هیواد
 | subdivision_name       = {{افغانستان}}
 | subdivision_type1      = [[کندهار ولايت|ولایت]]
