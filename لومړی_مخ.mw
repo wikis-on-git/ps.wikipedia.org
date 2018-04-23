@@ -1,100 +1,81 @@
-{{Página principal/Cabeçalho}}
-<!-- PARTE UM INÍCIO -->
-{|style="width:100%;"
-<!-- ARTIGO DESTACADO INÍCIO -->
-{|style="width:100%;"
-{{Página principal/conteúdo1
-| largura=56%
-| título=Artigo em destaque
+{{سانچو:سماجي ڳنڍڻن تي سنڌي وڪيپيڊيا}}
+{{Wikipedia:ڀلي ڪري آيا}}
+<!-- ============== ڀليڪار پيغام ================ -->
+ <center>
+<div class="inputbox-hidecheckboxes">
+Welcome to Sindhi Wikipedia. 
+If you can speak Sindhi well but are unable to Read Sindhi-Arabic script, [https://vimeo.com/89280930 watch this video] to quickly learn reading Sindhi-Arabic Script.
+</center>
+-----
+<!--        MAIN PAGE BANNER        -->
+{{#if:{{Main Page banner}}|
+<table id="mp-banner" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;">
+<tr><td class="MainPageBG" style="padding:2px 8px; background-color:#fffaf5; border:1px solid #f2e0ce; color:#000; font-size:100%;">{{Main Page banner}}
+</td></tr>
+</table>
 }}
-<!-- SOBRE A WIKIPÉDIA INÍCIO -->
-{{Página principal/conteúdo1
-| largura=44%
-| título=Apresentação
-}}
+<!--        TODAY'S FEATURED CONTENT        -->
+{| id="mp-upper" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;"
+<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
+<!-- ============== چونڊ مضمون ================ -->
+| class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;" |
+{| id="mp-left" style="width:100%; vertical-align:top; background:#f5fffa;"
+| style="padding:2px;" | <h2 id="mp-tfa-h2" style="margin:3px; background:#cef2e0; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:right; color:#000; padding:0.2em 0.4em;">[[File:Symbol_star_gold.svg|40px]]{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article| چونڊ مضمون <span style="font-size:85%; font-weight:normal;"></span>}}</h2>
 |-
-{{Página principal/conteúdo2
-|fundo=#F9F9F0
-|conteúdo=<div id="mf-artigos-destacados" title="Artigo em destaque">{{Em destaque}}
-<!-- REDES SOCIAIS INÍCIO -->
-<div class="plainlinks hlist" style="clear:both; border-top:1px; padding-top:0.4em; margin-top:0.8em; text-align:end; font-size:95%; font-weight:bold;">
-<div style="width:35%; float:left;">
-Compartilhe: [[Imagem:Icon Facebook.svg|18px|alt=Compartilhe via Facebook|link=http://www.facebook.com/sharer.php?u=http:{{fullurl:{{Em destaque/listagem|{{Em destaque/contador}}}}}}]]
-[[File:Icon Twitter.svg|18px|alt=Compartilhe via Twitter|link=https://twitter.com/share?url=http:{{fullurl:{{Em destaque/listagem|{{Em destaque/contador}}}}}}&via=Wikipedia&text={{urlencode:Dê uma olhada no #ArtigoEmDestaque da Wikipédia em português em}}&related=Wikipedia]]
-[[Imagem:Icon Google+.svg|18px|alt=Compartilhe via Google+|link=https://plus.google.com/share?url=http:{{fullurl:{{Em destaque/listagem|{{Em destaque/contador}}}}}}]]
-</div>
-{{nobr|[[Wikipédia:Artigos destacados|Artigos destacados]]: [[:Categoria:!Artigos destacados|{{número de artigos destacados}}]]}} •
-{{nobr|[[Wikipédia:Artigos bons|Artigos bons]]: [[:Categoria:!Artigos bons|{{número de artigos bons}}]]}}
-</div></div></div></div>
-<!-- REDES SOCIAIS FIM -->
-}}
-<!-- ARTIGO DESTACADO FIM -->
-{{Página principal/conteúdo2
-|fundo=#F9F9F0
-|conteúdo=<div id="mf-apresentação" title="Apresentação">{{Página principal/Apresentação}}</div>
-}}
+| style="color:#000;" | <div id="mp-tfa" style="padding:2px 5px">{{#ifexpr:{{formatnum:{{PAGESIZE:سانچو:مقالو مُک صفحو}}|R}}>150|{{سانچو:مقالو مُک صفحو}}}}</div>
 |-
-|}
-<!-- SOBRE A WIKIPÉDIA FIM -->
-<!-- PARTE UM FIM -->
+| style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:right; color:#000; padding:0.2em 0.4em;"> ڇا توھان ڄاڻو ٿا؟  [[عڪس:Help-browser - ar.svg|40px]]
 
-<!-- PARTE DOIS INÍCIO -->
-{|style="width:100%;"
-<!-- EVENTO ATUAL INICIO -->
-{{Página principal/conteúdo1
-| largura=56%
-| título=Eventos atuais
-}}
-{{Página principal/conteúdo1
-| largura=44%
-| título={{CURRENTDAY}} de {{CURRENTMONTHNAME}} na história
-}}
+</h2>
 |-
-{{Página principal/conteúdo2
-|fundo=#F4F9F0
-|conteúdo=<div id="mf-eventos-atuais" title="Eventos atuais">{{Eventos atuais}}</div></span>
-}}
-<!-- EVENTO ATUAL FIM -->
-{{Página principal/conteúdo2
-|fundo=#F4F9F0
-|conteúdo=<div id="mf-efemérides" title="Neste dia...">{{Wikipédia:Efemérides/{{CURRENTDAY}} de {{CURRENTMONTHNAME}}}}</div>
-}}
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{ڇا توھان کي خبر آھي}}</div>
 |}
-<!-- PARTE DOIS FIM -->
+| style="border:1px solid transparent;" |
+<!--        IN THE NEWS; ON THIS DAY        -->
+| class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top;"|
+{| id="mp-right" style="width:100%; vertical-align:top; background:#f5faff;"
+| style="padding:2px;" | <h2 id="mp-itn-h2" style="margin:3px; background:#cedff2; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:right; color:#000; padding:0.2em 0.4em;">[[عڪس:HSAktuell.svg|40px]] خبرون</h2>
+|-
+| style="color:#000; padding:2px 5px;" | <div id="mp-itn">{{سانچو:In the news1}}</div>
+|-
+| style="padding:2px;" | <h2 id="mp-otd-h2" style="margin:3px; background:#cedff2; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:right; color:#000; padding:0.2em 0.4em;">[[File:Sindh in Pakistan (claims hatched).svg|40px]] سنڌ بابت</h2>
+|-
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-otd">{{سانچو:سنڌ بابت}}</div>
+|}
+|}
+<!--        TODAY'S FEATURED LIST        --><!-- CONDITIONAL SHOW -->{{#switch:{{CURRENTDAYNAME}}|Monday|Friday=
+<table id="mp-middle" style="width:100%; margin:4px 0 0 0; background:none; border-spacing: 0px;">
+<tr>
+<td class="MainPageBG" style="width:100%; border:1px solid #f2cedd; background:#fff5fa; vertical-align:top; color:#000;">
+<table id="mp-center" style="width:100%; vertical-align:top; background:#fff5fa; color:#000;">
+<tr>
+<td style="padding:2px;"><h2 id="mp-tfl-h2" style="margin:3px; background:#f2cedd; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #bfa3af; text-align:right; color:#000; padding:0.2em 0.4em"> ''چونڊ فھرست''</h2></td>
+</tr><tr>
+<td style="color:#000;"><div id="mp-tfl" style="padding:2px 5px;">{{#ifexist:Wikipedia:Today's featured list/{{#time:F j, Y}}|{{Wikipedia:Today's featured list/{{#time:F j, Y}}}}|{{TFLempty}}}}</div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>|}}<!-- END CONDITIONAL SHOW -->
+<!--        TODAY'S FEATURED PICTURE        -->
+{| id="mp-lower" style="margin:4px 0 0 0; width:100%; background:none; border-radius: 0.5em;border-spacing: 0px;"
+| class="MainPageBG" style="width:100%; border-radius: 0.5em; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;" |
+{| id="mp-bottom" style="width:100%; vertical-align:top; background:#faf5ff; color:#000;"
+| style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:#ddcef2; font-family:MB Lateefi; font-size:120%; font-weight:bold; border-radius: 0.5em; border:1px solid #afa3bf; text-align:right; color:#1485f6; padding:0.2em 0.4em">[[File:PL Wiki InM ikona.svg|30px]] چونڊ تصوير </h2> {{اولرنگ-سوم}}
 
-<!-- PARTE TRÊS INÍCIO -->
-{|style="width:100%;"
-<!-- NESTE DIA... INICIO -->
-{{Página principal/conteúdo1
-| largura=56%
-| título=<div id="mf-ImagemdoDia">Imagem do dia</div>
-}}
-<!-- MORTES RECENTES INÍCIO -->
-<!-- SABIA QUE... INÍCIO -->
-{{Página principal/conteúdo1
-| largura=44%
-| título=Sabia que...
-}}
-|-
-{{Página principal/conteúdo2
-|fundo=#F9F0F0
-|conteúdo=<div id="mf-ImagemdoDia">{{Wikipédia:Imagem em destaque/{{CURRENTDAY}} de {{CURRENTMONTHNAME}} de {{CURRENTYEAR}}}}
-<!-- COMPARTILHAR IMAGEM INICIO -->
-<div class="plainlinks hlist" style="clear:both; border-top:1px; padding-top:0.4em; margin-top:0.8em; text-align:end; font-size:95%; font-weight:bold;"><div style="width:35%; float:left;">Compartilhe: [[Imagem:Icon Facebook.svg|18px|alt=Compartilhe via Facebook|link=http://www.facebook.com/sharer.php?u=https://pt.wikipedia.org/wiki/Wikipédia:Imagem_em_destaque/{{CURRENTDAY/UTC}}_de_{{CURRENTMONTHNAME/UTC-2}}_de_{{CURRENTYEAR/UTC-2}}]] [[File:Icon Twitter.svg|18px|alt=Compartilhe via Twitter|link=https://twitter.com/share?url=https://pt.wikipedia.org/wiki/Wikipédia:Imagem_em_destaque/{{CURRENTDAY/UTC}}_de_{{CURRENTMONTHNAME/UTC-2}}_de_{{CURRENTYEAR/UTC-2}}&via=Wikipedia&text={{urlencode:Dê uma olhada na #ImagemDoDia da Wikipédia em português em}}&related=Wikipedia]] [[Imagem:Icon Google+.svg|18px|alt=Compartilhe via Google+|link=https://plus.google.com/share?url=https://pt.wikipedia.org/wiki/Wikipédia:Imagem_em_destaque/{{CURRENTDAY/UTC}}_de_{{CURRENTMONTHNAME/UTC-2}}_de_{{CURRENTYEAR/UTC-2}}]]
-</div>
-{{nobr|[[Wikipédia:Imagem em destaque|Índice geral]] • [[:Commons:Commons:Imagens de qualidade|Imagens de qualidade no Commons]]}}</span></div></div></div></div>
-<!-- COMPARTILHAR IMAGEM FIM -->
-<!-- NESTE DIA... FIM -->
-}}
-{{Página principal/conteúdo2
-|fundo=#F9F0F0
-|conteúdo={{sabia que}}
-<!-- SABIA QUE... FIM -->
-}}
 |}
-<!-- PARTE TRÊS FIM -->
-<!-- RODAPÉ INÍCIO -->
-<div id="mf-projetosirmãos">{{Página principal/Projetos irmãos}}</div>
-<!-- RODAPÉ FIM -->
-<!-- Comandos para remover o índice e a opção de editar em seções: -->
-__NOTOC__<!-- -->__NOEDITSECTION__
+|}
+{{Index}}
+{| id="mp-bottom" style="vertical-align:top; background:#fff7e6; color:#000; width:100%"
+{{نئون مضمون}}
+
+! style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:#FFBF00; font-size:120%; border-radius: 0.5em; border:1px solid #faaa00; text-align:right; color:#1485f6; padding:0.2em 0.4em">[[File:Contactus-wmcolors.svg|30px]] وڪيپيڊيا برادر رٿائون</h2>
+|-
+| style="color:#000; padding:2px;" | <div id="mp-tfp">{{وڪيپيڊيا جون ڀينر رٿائون}}</div>
+|}
+{| id="mp-bottom" style="vertical-align:top; background:#fff7e6; color:#000; width:100%"
+! style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:yellow; font-size:120%; border-radius: 0.5em; border:1px solid #faaa00; text-align:right; color:#1485f6; padding:0.2em 0.4em"> [[File:W-circle.svg|30px]]  وڪيپيڊيا ٻوليون</h2>
+|-
+| style="color:#000 ; padding:2px;" | <div id="mp-tfp">{{Wikipedialang}}</div>
+|}
+{{Main Page interwikis}}
