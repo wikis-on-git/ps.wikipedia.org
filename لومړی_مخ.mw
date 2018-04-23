@@ -1,81 +1,27 @@
-{{سانچو:سماجي ڳنڍڻن تي سنڌي وڪيپيڊيا}}
-{{Wikipedia:ڀلي ڪري آيا}}
-<!-- ============== ڀليڪار پيغام ================ -->
- <center>
-<div class="inputbox-hidecheckboxes">
-Welcome to Sindhi Wikipedia. 
-If you can speak Sindhi well but are unable to Read Sindhi-Arabic script, [https://vimeo.com/89280930 watch this video] to quickly learn reading Sindhi-Arabic Script.
-</center>
------
-<!--        MAIN PAGE BANNER        -->
-{{#if:{{Main Page banner}}|
-<table id="mp-banner" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;">
-<tr><td class="MainPageBG" style="padding:2px 8px; background-color:#fffaf5; border:1px solid #f2e0ce; color:#000; font-size:100%;">{{Main Page banner}}
-</td></tr>
-</table>
-}}
-<!--        TODAY'S FEATURED CONTENT        -->
-{| id="mp-upper" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;"
-<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
-<!-- ============== چونڊ مضمون ================ -->
-| class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;" |
-{| id="mp-left" style="width:100%; vertical-align:top; background:#f5fffa;"
-| style="padding:2px;" | <h2 id="mp-tfa-h2" style="margin:3px; background:#cef2e0; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:right; color:#000; padding:0.2em 0.4em;">[[File:Symbol_star_gold.svg|40px]]{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article| چونڊ مضمون <span style="font-size:85%; font-weight:normal;"></span>}}</h2>
-|-
-| style="color:#000;" | <div id="mp-tfa" style="padding:2px 5px">{{#ifexpr:{{formatnum:{{PAGESIZE:سانچو:مقالو مُک صفحو}}|R}}>150|{{سانچو:مقالو مُک صفحو}}}}</div>
-|-
-| style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:right; color:#000; padding:0.2em 0.4em;"> ڇا توھان ڄاڻو ٿا؟  [[عڪس:Help-browser - ar.svg|40px]]
+  {{لومړی مخ/سر لیک}}
+  {{لومړی مخ پيغام}}
+</div>
+{{غوره لیکنه لمړي مخ}}</div>
+  </div>
+  </div> 
+{{ ايا پدې پوهېدئ لمړی مخ}}
+  </div>
+{{د نن ورځې وراشه لمړی مخ}}
+{{  ویکیپېډیا څه ده لمړي مخ}}
+  </div>
+{{لومړی مخ/ښه راغلئ۲}}
+</div>
+    {{لومړی مخ اوسنۍ پېښې}}
+    </div>
+  </div>
+    </div>
+{{لومړی مخ غوره انځور}}
+<noinclude>
+<div id="mp-2012">
+</noinclude><div id="mp-2012-banner" class="nomobile">
+{{لومړی مخ/نورې پروژې}}
+{{لومړی مخ نور معلومات}}
+{{لومړی مخ ژبي}}
 
-</h2>
-|-
-| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{ڇا توھان کي خبر آھي}}</div>
-|}
-| style="border:1px solid transparent;" |
-<!--        IN THE NEWS; ON THIS DAY        -->
-| class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top;"|
-{| id="mp-right" style="width:100%; vertical-align:top; background:#f5faff;"
-| style="padding:2px;" | <h2 id="mp-itn-h2" style="margin:3px; background:#cedff2; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:right; color:#000; padding:0.2em 0.4em;">[[عڪس:HSAktuell.svg|40px]] خبرون</h2>
-|-
-| style="color:#000; padding:2px 5px;" | <div id="mp-itn">{{سانچو:In the news1}}</div>
-|-
-| style="padding:2px;" | <h2 id="mp-otd-h2" style="margin:3px; background:#cedff2; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:right; color:#000; padding:0.2em 0.4em;">[[File:Sindh in Pakistan (claims hatched).svg|40px]] سنڌ بابت</h2>
-|-
-| style="color:#000; padding:2px 5px 5px;" | <div id="mp-otd">{{سانچو:سنڌ بابت}}</div>
-|}
-|}
-<!--        TODAY'S FEATURED LIST        --><!-- CONDITIONAL SHOW -->{{#switch:{{CURRENTDAYNAME}}|Monday|Friday=
-<table id="mp-middle" style="width:100%; margin:4px 0 0 0; background:none; border-spacing: 0px;">
-<tr>
-<td class="MainPageBG" style="width:100%; border:1px solid #f2cedd; background:#fff5fa; vertical-align:top; color:#000;">
-<table id="mp-center" style="width:100%; vertical-align:top; background:#fff5fa; color:#000;">
-<tr>
-<td style="padding:2px;"><h2 id="mp-tfl-h2" style="margin:3px; background:#f2cedd; font-family:MB Lateefi; font-size:120%; font-weight:bold; border:1px solid #bfa3af; text-align:right; color:#000; padding:0.2em 0.4em"> ''چونڊ فھرست''</h2></td>
-</tr><tr>
-<td style="color:#000;"><div id="mp-tfl" style="padding:2px 5px;">{{#ifexist:Wikipedia:Today's featured list/{{#time:F j, Y}}|{{Wikipedia:Today's featured list/{{#time:F j, Y}}}}|{{TFLempty}}}}</div></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>|}}<!-- END CONDITIONAL SHOW -->
-<!--        TODAY'S FEATURED PICTURE        -->
-{| id="mp-lower" style="margin:4px 0 0 0; width:100%; background:none; border-radius: 0.5em;border-spacing: 0px;"
-| class="MainPageBG" style="width:100%; border-radius: 0.5em; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;" |
-{| id="mp-bottom" style="width:100%; vertical-align:top; background:#faf5ff; color:#000;"
-| style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:#ddcef2; font-family:MB Lateefi; font-size:120%; font-weight:bold; border-radius: 0.5em; border:1px solid #afa3bf; text-align:right; color:#1485f6; padding:0.2em 0.4em">[[File:PL Wiki InM ikona.svg|30px]] چونڊ تصوير </h2> {{اولرنگ-سوم}}
-
-|}
-|}
-{{Index}}
-{| id="mp-bottom" style="vertical-align:top; background:#fff7e6; color:#000; width:100%"
-{{نئون مضمون}}
-
-! style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:#FFBF00; font-size:120%; border-radius: 0.5em; border:1px solid #faaa00; text-align:right; color:#1485f6; padding:0.2em 0.4em">[[File:Contactus-wmcolors.svg|30px]] وڪيپيڊيا برادر رٿائون</h2>
-|-
-| style="color:#000; padding:2px;" | <div id="mp-tfp">{{وڪيپيڊيا جون ڀينر رٿائون}}</div>
-|}
-{| id="mp-bottom" style="vertical-align:top; background:#fff7e6; color:#000; width:100%"
-! style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:yellow; font-size:120%; border-radius: 0.5em; border:1px solid #faaa00; text-align:right; color:#1485f6; padding:0.2em 0.4em"> [[File:W-circle.svg|30px]]  وڪيپيڊيا ٻوليون</h2>
-|-
-| style="color:#000 ; padding:2px;" | <div id="mp-tfp">{{Wikipedialang}}</div>
-|}
-{{Main Page interwikis}}
+  </div>
+</div> __NOTOC__ __NOEDITSECTION__
