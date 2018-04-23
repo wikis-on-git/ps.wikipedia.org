@@ -1,135 +1,63 @@
-__NOTOC__ __NOEDITSECTION__
-<!--Hordhaca-->
-{{Hordhaca Cusub ee Bogga Hore}}
-<!--Tiirka Bidix-->
-{|id="mp-columns" style="margin:0 0 4px 0; background:transparent;"
-| style="width:52%; border:1px solid #badecc; vertical-align:top; color:#000;  background:#f5fffa;" |
-{|id="mp-left" cellpadding="2" cellspacing="6" style="width:100%; vertical-align:top; "
-!id="mp-fa"  style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[file:Cscr-featured1.png|Link=Wikipedia:Maqaallo Xul Ah|30px]] Maqaal Xul ah</div>
-|-               
-| style="color:#000;" |
-<div id="mf-fa" style="margin-bottom: auto;" title="Maqaal Xul Ah">{{Maqaal Xul Ah Bogga Hore}}</div>
+__لافهرس__ __لاتحريرقسم__
+{| id="mp-columns" class="radius" style=" width:100%; background:none;border-spacing:5px;"
+|style="width:65%;border: 1px solid #c6c9ff; border-radius:5px; padding:.5em.5em 0em.5em; color: #000; background: #F8F8F8;" colspan=2|
+{{مقدمة الصفحة الرئيسية 2}}
 |-
-!id="mp-ga"  style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[file:Cscr-featured2.png|Link=Wikipedia:Maqaallo Cusub|30px]] Maqaal Cusub</div>
+|style="vertical-align: text-top;width:65%;border:1px solid #c6c9ff;  border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=مقالة اليوم المختارة|صورة=HSutvald3.svg}}
+<div id="mf-fa" style="margin-bottom: auto;" title="مقالة مختارة">{{مقالة الصفحة الرئيسية المختارة}}</div>
+| rowspan=7  style="vertical-align: text-top;border:1px solid #c6c9ff; border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=في الأخبار|صورة=HSAktuell.svg}}
+<div id="mf-fb" style="margin-bottom: auto;" title="في الأخبار"><div>{{في الأخبار}}</div></div>
+{{ذيل أيسر|[[وفيات {{عام_حالي}}|وفيات حديثة]] '''·''' [[n:|ويكي الأخبار]]}}
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=في هذا اليوم|صورة=Datum{{LOCALDAY2}}.svg}}</div>
+<div id="mf-mw" style="margin-bottom: auto;" title="في هذا اليوم">{{في هذا اليوم}}</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني |عنوان=هل تعلم|صورة=HS RTL Exclamation.svg}}
+{{هل تعلم}}
+{{ذيل أيسر|[[ويكيبيديا:هل تعلم#اقتراح معلومة|رشح معلومة جديدة]] '''·''' [[ويكيبيديا:هل تعلم/أرشيف|الأرشيف]]}}
+</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=قيل|صورة=HSBook.svg}}
+{{كلمة الصفحة الرئيسية}}
+{{ذيل أيسر|[[q:|ويكي الاقتباس]] '''·''' [[ويكيبيديا:جدول كلمة اليوم/عرض الكلمات كلها|قائمة الأقوال]]}}
+</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=الصحيح في [[اللغة العربية|اللغة]]|صورة=HS Korganizer.svg}}
+{{ملاحظات في اللغة العربية}}
+{{ذيل أيسر|[[wikt:|ويكاموس]] '''·''' [[ويكيبيديا:جدول ملاحظة اليوم/عرض الملاحظات كلها|قائمة الملاحظات]]}}
+</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=هل ترغب في إنشاء مقالة؟|صورة=HSEditor.svg}}
+{{صندوق إنشاء مقالة}}
+{{ذيل أيسر|[[مساعدة:الفيديوهات الإرشادية|شاهد بعض الفيديوهات الإرشادية]]}}
+</div>
 |-
-| style="color:#000;" |
-<div id="mf-fa" style="margin-bottom: auto;" title="Maqaal Cusub">{{Maqaalka Cusub Bogga Hore}}</div>
+|style="vertical-align: text-top;width:65%;border:1px solid #c6c9ff;  border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=مقالة اليوم الجيدة|صورة=HSUtvaldgrey.png}}
+{{مقالة الصفحة الرئيسية الجيدة}}
 |-
-!id="mp-wm"  style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[file:Orologio rosa.svg|Link=|30px]] Xusuusta Wikipedia</div>
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=قائمة اليوم المختارة|صورة=HS Liste.svg}}
+{{قائمة اليوم المختارة}}
 |-
-| style="color:#000;" |
-<div id="mf-mw" style="margin-bottom: auto;" title="Xusuusta Wikipedia">{{Xusuusta Wikipedia}}</div>
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=صورة اليوم المختارة|صورة=HSBild.svg}}
+{{صورة اليوم المختارة}}
+{{ذيل أيسر|[[ويكيبيديا:صور مختارة|معرض الصور المختارة]] '''·''' [[ويكيبيديا:ترشيحات الصور المختارة|رشح صورك لتكون مختارة]]}}
 |-
-!id="mp-wisw"  style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .20em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[file:Color-chars-logo.png|Link=|30px]] Waa maxaay Wikipedia ?</div>
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=بوابة اليوم المختارة|صورة=HSHome.svg}}
+{{بوابة اليوم المختارة}}
 |-
-| style="color:#000;" |
-<div id="mf-mw" style="margin-bottom: auto;" title="Waa maxaay Wikipedia ?">{{Bulshada Wikipedia}}</div>
-|-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[file:Local-time.svg|link=|25px]] Dhacdooyinka hadda</div>
-|-
-| style="color:#000; padding:2px 9px;"  |
-{{Dhacdooyinka Hadda}}
-|-
-|id="mp-rn" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
-[[n:|'''Wiki Wararka''']] – [[Portal:Dhacdooyinka Hadda|'''Dhacdooyinka Hadda iyo dheeraad...''']]
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=ما هي ويكيبيديا؟|صورة=HSWPedia.svg}}
+<div id="mf-mw" style="margin-bottom: auto;" title="ما هي ويكيبيديا؟">{{مجتمع ويكيبيديا 1}}</div>
 |-
 |}
-<!--Tiirka Midig-->
-| style="border:none;" |
-| style="width:48%; border:1px solid #cfe0f3; background:#fff; vertical-align:top;  background:#fff;"|
-{| id="mp-left" cellpadding="2" cellspacing="6" style="width:100%; vertical-align:top; "
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[file:Wikipedia Checkuser.png|Link=Wikipedia:Hooyga|30px]] Hooyga Wikiga</div>
-|-
-| id="mp-xe" style="color:#000; text-align:center;" |
-{{Hooyga Wikiga}}
-|-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[File:PL Wiki CzyWiesz ikona.svg|30px]] Ma Ogtahay...
-|-
-| style="color:#000; text-align:center; padding:2px 9px;" |
-{{Bogga Hore/Ma Ogtahay/{{LOCALMONTH}}}}
-|-
-|id="mp-rn" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |[[Wikipedia:Ma Ogtahay|'''Ma ogtahay dheeraad ka sii aqriso halkaan...''']]
-|-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[file:Gnome-emblem-photos.svg|Link=|30px]] Sawirka Maanta</div>
-|-
-| style="color:#000; margin-top:5px;" |
-{{Sawirka Maanta}}
-|-
-|id="mp-tp" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
-[[file:Camera-photo.svg|Link=|33px]] [[Wikipedia:Soo Bandhigga Sawirka Xulka|'''Soo Bandhig Sawirkaada Xulka ah''']]
-|-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[file:Crystal Clear talk.png|Link=|30px]] Waxaa La Yiri</div>
-|-
-| style="color:#000; text-align:center; padding:2px 9px;" |
-{{Oraahda Bogga Hore}}
-|-
-|id="mp-wq" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
-[[q:|'''Wiki''']] – <span class="plainlinks" id="quotes-purgelink">[{{fullurl:{{FULLPAGENAME}}|action=purge}} '''Oraah Kale''']</span>
-|-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:left; color:#000;">[[file:Pages Mac.png|Link=|30px]] [[Af-Soomaali|Oraahda]] Saxda ah</div>
-|-
-| style="color:#000; text-align:center; padding:2px 9px;" |
-{{Fiira Gaar ah Luqada Soomaaliga}}
-|-
-|id="mp-wt" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
-[[wikt:|'''Wikit''']] – <span class="plainlinks" id="quotes-purgelink">[{{fullurl:{{FULLPAGENAME}}|action=purge}} '''Fiira gaar ah ee kale''']</span>
-|}
-|}
-{{Qeybaha maqaalada Wikipediaha}}
-<!-- palstat -->
-{| width="100%" cellspacing="2" style="clear: both;"
-| colspan="2" |
-|-
-| style="vertical-align: top;" |
-<!--Mashaariic ood wadaag ah-->
-{|id="mp-sp" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f9f9f9; border:1px solid #a7d7f9; color:#000;"
-|-
-| {{Mashruucyoqaraabo}}
-|}<br />
-<!--Luqadaha kale-->
-{{Wikipedialang}}
+{|id="mp-sp" style="padding:2;border-spacing: 5;margin: 1px 2px; width:99.5%; vertical-align:top; background:#F8F8F8; border:1px solid #c6c9ff; border-radius:5px; color:#000;"
+|{{عنوان بتدرج لوني|عنوان=مشاريع شقيقة|صورة=Wikimedia-logo-circle.svg}}
+{{مشاريع شقيقة}}
+|}{{حاشية الصفحة الرئيسية}}
 {{noexternallanglinks}}
-
-[[ar:]]
-[[en:]]
-[[de:]]
-[[fr:]]
-[[it:]]
-[[nl:]]
-[[es:]]
-[[ru:]]
-[[pl:]]
-[[ja:]]
-[[sv:]]
-[[pt:]]
-[[zh:]]
-[[vi:]]
-[[uk:]]
-[[ca:]]
-[[no:]]
-[[fi:]]
-[[fa:]]
-[[cs:]]
-[[hu:]]
-[[ko:]]
-[[ro:]]
-[[id:]]
-[[tr:]]
-[[kk:]]
-[[ms:]]
-[[sk:]]
-[[sr:]]
-[[ceb:]]
-[[eo:]]
-[[da:]]
-[[lt:]]
-[[eu:]]
-[[bg:]]
-[[he:]]
-[[sl:]]
-[[hr:]]
-[[vo:]]
-[[war:]]
-[[et:]]
-
-[[Categoy:Bogga Hore| ]]
