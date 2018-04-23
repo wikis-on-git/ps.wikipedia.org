@@ -3,7 +3,7 @@
 	<div class="header" id="main-page-header">
 		<div id="main-page-intro">
 			<span id="main-page-welcome"><strong>Witaj w [[Wikipedia|Wikipedii]],</strong></span>
-			[[wolna treść|wolnej]] [[encyklopedia|encyklopedii]], którą [[Pomoc:Pierwsze kroki|każdy może redagować]].<br />[[Wikipedia:Liczba artykułów w polskojęzycznej Wikipedii|{{NUMBEROFARTICLES}}]] artykułów, w tym {{#expr: {{PAGESINCAT:Artykuły na medal}}+{{PAGESINCAT:Dobre artykuły}}+{{PAGESINCAT:Listy na medal}}-23 }} [[Wikipedia:Wyróżniona zawartość Wikipedii|wyróżnionych]]
+			[[wolna treść|wolnej]] [[encyklopedia|encyklopedii]], którą [[Pomoc:Pierwsze kroki|każdy może redagować]].<br />[[Wikipedia:Liczba artykułów w polskojęzycznej Wikipedii|{{NUMBEROFARTICLES}}]] artykułów, w tym: {{PAGESINCAT:Artykuły na medal}}+{{PAGESINCAT:Dobre artykuły}}{{PAGESINCAT:Listy na medal}}-23 }} [[Wikipedia:Wyróżniona zawartość Wikipedii|wyróżnionych]]
 		</div>
 		<div id="main-page-portals">
 			<span>
