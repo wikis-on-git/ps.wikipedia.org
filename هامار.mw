@@ -1,1 +1,125 @@
-{{قيمة ويكي بيانات|خاصية=P17}}
+
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = هامار
+|official_name          =
+|other_name             =
+|native_name            =  <!-- if different from the English name -->
+|nickname               =
+|settlement_type        = ښار
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Hamar Freechuch with the Cathedral behind - panoramio.jpg
+|imagesize              = 200px
+|image_caption          =د هامار ښار علاقه په شپه کی
+|image_flag             =
+|flag_size              =
+|image_seal             =Hamar komm.svg
+|seal_size              =
+|image_shield           = 
+|shield_size            = 100px
+|image_blank_emblem     = Norway Counties Hedmark Position.svg
+|blank_emblem_type      =هدمار نښان په <br/>ناروی کی
+|blank_emblem_size      = 100px
+|image_map              = NO 0403 Hamar.svg
+|mapsize                = 130px
+|map_caption            =هامار په هډمارک کی
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =
+|pushpin_label_position =
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|coordinates_display       = inline,title
+|coordinates_region     = NO
+|subdivision_type       = هیواد
+|subdivision_name       = [[ناروی]]
+|subdivision_type1      = [[Counties of Norway|ولایت]]
+|subdivision_name1      = [[هدمارک]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      = د ښاروالۍ بڼه
+|subdivision_name3      = [[ISO 3166-2:NO|NO-0403]]
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =پایتخت او مرکز
+|seat                   = هامار
+|parts_type             = Other towns
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     =
+|p3                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = ښاروال
+|leader_name            = [[انار بوسټیروډ]]
+|leader_title1          =
+|leader_name1           =
+|established_title      =
+|established_date       =
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           = (ن ر. ۲۲۷ په ناروی کی)
+|area_total_km2           = 350.94
+|area_land_km2            = 338
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       = 0.11
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 134
+|elevation_ft           =
+|elevation_max_m            =
+|elevation_max_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = 2015
+|population_footnotes           = 
+|population_note                =
+|population_total               = 29,931
+|population_density_km2         = auto 
+|population_density_sq_mi       =
+|population_blank1_title        = بدلیدل (10 کاله)
+|population_blank1              = ۴۳
+|population_blank2_title        =په ناروې کې رتبه
+|population_blank2              = 30
+<!-- General information  --------------->
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         =  +2
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+|latd=60 |latm=47 |lats=57 |latNS=N
+|longd=11 |longm=3 |longs=22 |longEW=E
+<!-- Area/postal codes & others -------->
+|postal_code_type       = د پوسټ کوډ
+|postal_code            = 2300 to 2319
+|area_code              =(+47) 62
+|website                = {{URL|http://www.hamar.kommune.no}}
+|footnotes              = <center>[http://www.ssb.no/befolkning/statistikker/folkendrkv/kvartal/2015-08-20?fane=tabell&sort=nummer&tabell=236791 Data from Statistics Norway]</center>
+|blank_name             = [[رسمي ژبه فورمه]]
+|blank_info             = [[نارویژی|خنثی]]
+|blank1_name            = [[داهلیت نوم]]
+|blank_info=نورشک
+}}
+هامار د [[ناروی]] د [[هدمارک]] فیلکی تر ټولو لوی ښار دي.
+==سرچینۍ==
+[[وېشنيزه:ناروې]]
+[[وېشنيزه:د ناروۍ ښارونه]]
