@@ -100,14 +100,7 @@
 |population_blank1              = ۴۳
 |population_blank2_title        =په ناروې کې رتبه
 |population_blank2              = 30
-<!-- General information  --------------->
-|timezone               = [[Central European Time|CET]]
-|utc_offset             = +1
-|timezone_DST           = [[Central European Summer Time|CEST]]
-|utc_offset_DST         =  +2
-|coor_type              = <!-- can be used to specify what the coordinates refer to -->
-|latd=60 |latm=47 |lats=57 |latNS=N
-|longd=11 |longm=3 |longs=22 |longEW=E
+
 <!-- Area/postal codes & others -------->
 |postal_code_type       = د پوسټ کوډ
 |postal_code            = 2300 to 2319
@@ -120,6 +113,7 @@
 |blank_info=نورشک
 }}
 هامار د [[ناروی]] د [[هدمارک]] فیلکی تر ټولو لوی ښار دي.
+
 ==سرچینۍ==
 [[وېشنيزه:ناروې]]
 [[وېشنيزه:د ناروۍ ښارونه]]
