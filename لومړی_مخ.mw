@@ -1,62 +1,63 @@
-__NOTOC__ __NOEDITSECTION__{{ترحيب الصفحة الرئيسية}}
-{|cellspacing="0" cellpadding="0" style="margin-top:0.6em"
+__notoc__ __noeditsection__
+{| id="mp-columns" class="radius" style=" width:100%; background:none;border-spacing:5px;"
+|style="width:65%;border: 1px solid #c6c9ff; border-radius:5px; padding:.5em.5em 0em.5em; color: #000; background: #F8F8F8;" colspan=2|
+{{مقدمة الصفحة الرئيسية 2}}
 |-
-|style="font-size:0.6em;line-height:0.6em"|&nbsp;
+|style="vertical-align: text-top;width:65%;border:1px solid #c6c9ff;  border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=مقالة اليوم المختارة|صورة=HSutvald3.svg}}
+<div id="mf-fa" style="margin-bottom: auto;" title="مقالة مختارة">{{مقالة الصفحة الرئيسية المختارة}}</div>
+| rowspan=7  style="vertical-align: text-top;border:1px solid #c6c9ff; border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=في الأخبار|صورة=HSAktuell.svg}}
+<div id="mf-fb" style="margin-bottom: auto;" title="في الأخبار"><div>{{في الأخبار}}</div></div>
+{{ذيل أيسر|[[وفيات {{عام_حالي}}|وفيات حديثة]] '''·''' [[n:|ويكي الأخبار]]}}
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=في هذا اليوم|صورة=Datum{{LOCALDAY2}}.svg}}</div>
+<div id="mf-mw" style="margin-bottom: auto;" title="في هذا اليوم">{{في هذا اليوم}}</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني |عنوان=هل تعلم|صورة=HS RTL Exclamation.svg}}
+{{هل تعلم}}
+{{ذيل أيسر|[[ويكيبيديا:هل تعلم#اقتراح معلومة|رشح معلومة جديدة]] '''·''' [[ويكيبيديا:هل تعلم/أرشيف|الأرشيف]]}}
+</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=قيل|صورة=HSBook.svg}}
+{{كلمة الصفحة الرئيسية}}
+{{ذيل أيسر|[[q:|ويكي الاقتباس]] '''·''' [[ويكيبيديا:جدول كلمة اليوم/عرض الكلمات كلها|قائمة الأقوال]]}}
+</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=الصحيح في [[اللغة العربية|اللغة]]|صورة=HS Korganizer.svg}}
+{{ملاحظات في اللغة العربية}}
+{{ذيل أيسر|[[wikt:|ويكاموس]] '''·''' [[ويكيبيديا:جدول ملاحظة اليوم/عرض الملاحظات كلها|قائمة الملاحظات]]}}
+</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=هل ترغب في إنشاء مقالة؟|صورة=HSEditor.svg}}
+{{صندوق إنشاء مقالة}}
+{{ذيل أيسر|[[مساعدة:الفيديوهات الإرشادية|شاهد بعض الفيديوهات الإرشادية]]}}
+</div>
 |-
-| valign="top"|
-<!-- ============================================= -->
-{{نبذة عن}}
-<!-- ============================================= -->
-{{تصفح ويكي الجامعة}}
-{{مساعدة}}
-{{صورة تعليمية}}
-<!-- ============================================= -->
-
-<!-- ============================================= -->
-
-<!-- ============================================= -->
-<!-- {{ويكي الجامعة:إعلانات}}
- --><!-- ============================================= -->
-|style="padding:4px;font-size:1px"|&nbsp;
-|width="50%" valign="top"|
-<!-- ============================================= -->
-<!--{{درس مميز}} -->
-<!-- ============================================= -->
-<!--{{نصيحة مميزة في درس}} -->
-<!-- ============================================= -->
-<!--{{طرفة نادرة في درس}} -->
-<!-- ============================================= -->
-<!--{{معلومة غريبة في درس}} -->
-<!-- ============================================= -->
-<!-- ============================================= -->
-{{الكليات}}
-<!-- ============================================= -->
-{{المشاركة}}
-<!-- ============================================= -->
-<!--{{لغات أخرى}}-->
-<!-- ============================================= -->
-<!--{{المشاريع}}-->
-<!-- ============================================= -->
-<!--{{أخبار}}-->
-<!-- ============================================= -->
-{{مشاريع شقيقة}}
+|style="vertical-align: text-top;width:65%;border:1px solid #c6c9ff;  border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=مقالة اليوم الجيدة|صورة=HSUtvaldgrey.png}}
+{{مقالة الصفحة الرئيسية الجيدة}}
+|-
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=قائمة اليوم المختارة|صورة=HS Liste.svg}}
+{{قائمة اليوم المختارة}}
+|-
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=صورة اليوم المختارة|صورة=HSBild.svg}}
+{{صورة اليوم المختارة}}
+{{ذيل أيسر|[[ويكيبيديا:صور مختارة|معرض الصور المختارة]] '''·''' [[ويكيبيديا:ترشيحات الصور المختارة|رشح صورك لتكون مختارة]]}}
+|-
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=بوابة اليوم المختارة|صورة=HSHome.svg}}
+{{بوابة اليوم المختارة}}
+|-
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=ما هي ويكيبيديا؟|صورة=HSWPedia.svg}}
+<div id="mf-mw" style="margin-bottom: auto;" title="ما هي ويكيبيديا؟">{{مجتمع ويكيبيديا 1}}</div>
+|-
 |}
-<!-- ==================================================== -->
-
-<!-- وصلات حلقات اللغات الأخرى هنا -->
-
-[[تصنيف:الصفحة الرئيسية]]
-
-[[cs:Wikiverzita:Hlavní strana]]
-[[de:Hauptseite]]
-[[el:Κύρια Σελίδα]]
-[[en:Wikiversity:Main Page]]
-[[es:Portada]]
-[[fi:Etusivu]]
-[[fr:Accueil]]
-[[it:Pagina principale]]
-[[ja:メインページ]]
-[[pt:Página principal]]
-[[ru:Заглавная страница]]
-[[sl:Glavna stran]]
-[[sv:Portal:Huvudsida]]
+{|id="mp-sp" style="padding:2;border-spacing: 5;margin: 1px 2px; width:99.5%; vertical-align:top; background:#F8F8F8; border:1px solid #c6c9ff; border-radius:5px; color:#000;"
+|{{عنوان بتدرج لوني|عنوان=مشاريع شقيقة|صورة=Wikimedia-logo-circle.svg}}
+{{مشاريع شقيقة}}
+|}{{حاشية الصفحة الرئيسية}}
+{{noexternallanglinks}}
