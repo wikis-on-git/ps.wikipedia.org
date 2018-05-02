@@ -1,27 +1,32 @@
-  {{لومړی مخ/سر لیک}}
-  {{لومړی مخ پيغام}}
-</div>
-{{غوره لیکنه لمړي مخ}}</div>
-  </div>
-  </div> 
-{{ ايا پدې پوهېدئ لمړی مخ}}
-  </div>
-{{د نن ورځې وراشه لمړی مخ}}
-{{  ویکیپېډیا څه ده لمړي مخ}}
-  </div>
-{{لومړی مخ/ښه راغلئ۲}}
-</div>
-    {{لومړی مخ اوسنۍ پېښې}}
-    </div>
-  </div>
-    </div>
-{{لومړی مخ غوره انځور}}
-<noinclude>
-<div id="mp-2012">
-</noinclude><div id="mp-2012-banner" class="nomobile">
-{{لومړی مخ/نورې پروژې}}
-{{لومړی مخ نور معلومات}}
-{{لومړی مخ ژبي}}
+{{ويکيپېډيا:Main Page/Layout
+<!--
+  Category:Main page templates contains the sub-pages.
+  Set the box colors below
+-->
+|intro=13
+|feature=1
+|dev=1
+|project=1
+|community=1
+|news=11
+|nav=11
+|sisters=13
+}}
 
-  </div>
-</div> __NOTOC__ __NOEDITSECTION__
+[[Category:Main Page]]
+
+<!-- Add new Wikiversities here -->
+[[ar:الصفحة الرئيسية]]
+[[cs:Wikiverzita:Hlavní strana]]
+[[de:Hauptseite]]
+[[el:Κύρια Σελίδα]]
+[[es:Portada]]
+[[fi:Etusivu]]
+[[fr:Accueil]]
+[[it:Pagina principale]]
+[[ja:メインページ]]
+[[ko:위키배움터:대문]]
+[[pt:Página_principal]]
+[[ru:Заглавная_страница]]
+[[sl:Glavna_stran]]
+[[sv:Huvudsida]]
