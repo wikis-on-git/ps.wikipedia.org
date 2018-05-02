@@ -3,16 +3,16 @@ __لافهرس__ __لاتحريرقسم__
 |width=65% style="border: 1px solid #ccc; border-radius:5px; padding: .5em .5em 0em .5em; color: #000; background: #F8F8F8;" colspan=2|
 {{مقدمة الصفحة الرئيسية 2}}
 |-
-|width=65% valign="top" id="mf-fa" style="border:1px solid #c6c9ff;  border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
-<div id="mf-fa" style="margin-bottom: auto;" title="مقالة اليوم المختارة">{{قسم العنوان |عنوان=مقالة اليوم المختارة |صورة=HSutvald3.svg}}
-{{مقالة الصفحة الرئيسية المختارة}}</div>
-| rowspan=6  valign="top" style="border:1px solid #c6c9ff; border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+| id="mp-fa" width=65% valign="top" style="border:1px solid #c6c9ff;  border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{قسم العنوان |عنوان=مقالة اليوم المختارة |صورة=HSutvald3.svg}}
+{{مقالة الصفحة الرئيسية المختارة}}
+| id="mf-mw" rowspan=6  valign="top" style="border:1px solid #c6c9ff; border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{قسم العنوان |عنوان=الأحداث الجارية|صورة=HSAktuell.svg}}
-<div>{{أحداث جارية}}</div>
+<div id="mf-ev">{{أحداث جارية}}</div>
 {{ذيل أيسر|[[ملحق:وفيات 2014|وفيات حديثة]] '''·''' [[n:الصفحة الرئيسية|ويكي الأخبار]]}}
 ----
-<div id="mf-mw" style="margin-bottom: auto;" title="من ذاكرة ويكيبيديا">{{قسم العنوان |عنوان=من ذاكرة ويكيبيديا|صورة=HSDagensdatum.svg}}
-{{من ذاكرة ويكيبيديا}}</div>
+<div id="mf-alc">{{قسم العنوان |عنوان=من ذاكرة ويكيبيديا|صورة=HSDagensdatum.svg}}
+{{من ذاكرة ويكيبيديا}}
 ----
 {{قسم العنوان |عنوان=قيل|صورة=HSBook.svg}}
 {{كلمة الصفحة الرئيسية}}
@@ -22,31 +22,31 @@ __لافهرس__ __لاتحريرقسم__
 {{ملاحظات في اللغة العربية}}
 {{ذيل أيسر|[[wikt:|ويكاموس]] '''·''' [[ويكيبيديا:جدول ملاحظة اليوم/عرض الملاحظات كلها|قائمة الملاحظات]]}}
 ----
-<div id="mf-mw" style="margin-bottom: auto;" title="ما هي ويكيبيديا؟">{{قسم العنوان |عنوان=ما هي ويكيبيديا؟|صورة=W-circle.svg}}
-{{مجتمع ويكيبيديا 1}}</div>
+{{قسم العنوان |عنوان=ما هي ويكيبيديا؟|صورة=W-circle.svg}}
+{{مجتمع ويكيبيديا 1}}
 ----
 {{قسم العنوان |عنوان=هل ترغب في إنشاء مقالة؟|صورة=HSEditor.svg}}
 {{صندوق إنشاء مقالة}}
-{{ذيل أيسر|[[مساعدة:الفيديوهات الإرشادية|شاهد بعض الفيديوهات الإرشادية]]}}
+{{ذيل أيسر|[[مساعدة:الفيديوهات الإرشادية|شاهد بعض الفيديوهات الإرشادية]]}}</div>
 |-
-|width=65% valign="top" id="mf-ga" style="border:1px solid #c6c9ff;  border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
-<div id="mf-ga" style="margin-bottom: auto;" title="مقالة جيدة">{{قسم العنوان |عنوان=مقالة اليوم الجيّدة|صورة=HSUtvaldgrey.png}}
-{{مقالة الصفحة الرئيسية الجيدة}}</div>
+| id="mp-ga" width=65% valign="top" style="border:1px solid #c6c9ff;  border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{قسم العنوان |عنوان=مقالة اليوم الجيّدة|صورة=HSUtvaldgrey.png}}
+{{مقالة الصفحة الرئيسية الجيدة}}
 |-
-|valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+| id="mp-fl" valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{قسم العنوان |عنوان=قائمة الأسبوع المختارة|صورة=HS Liste.svg}}
 {{قائمة الصفحة الرئيسية المختارة}}
 |-
-|valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+|id="mf-fph" valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{قسم العنوان |عنوان=صورة اليوم المختارة |صورة=HSBild.svg}}
 {{صورة اليوم}}
 {{ذيل أيسر|[[ويكيبيديا:صور مختارة|معرض الصور المختارة]] '''·''' [[ويكيبيديا:ترشيحات الصور المختارة|رشح صورك لتكون مختارة]]}}
 |-
-|valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+| id="mf-fpo" valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{قسم العنوان |عنوان=بوابة الأسبوع المختارة|صورة=HSHome.svg}}
 {{ملون|النص=بوابة هذا الأسبوع المخُتارة هي...|الحجم=2}}{{بوابة الصفحة الرئيسية المختارة}}
 |-
-|valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
+| id="mf-ex" valign="top" style="border:1px solid #c6c9ff;   border-radius:5px; padding: .5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{قسم العنوان |عنوان=تصفح الموسوعة|صورة=HSCategory.svg}}
 {{تصفح الموضوعات}}
 |-
