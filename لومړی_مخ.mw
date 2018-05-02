@@ -3,14 +3,14 @@ __notoc__ __noeditsection__
 {{مقدمة الصفحة الرئيسية جديد}}
 <!-- العمود الأيمن -->
 {|id="mp-columns" style="margin:0 0 4px 0; background:transparent;"
-| style="width:52%; border:1px solid #badecc; vertical-align:top; color:#000; padding: 0px 0px 2px 0px;" |
+| style="width:52%; border:1px solid #badecc; vertical-align:top; color:#000; padding: 0px 0px 2px 0px; background:#f5fffa;" |
 {|id="mp-right" cellpadding="2" cellspacing="6" style="width:100%; vertical-align:top; "
-! id="mp-fa" style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Symbol star gold.svg|وصلة=ويكيبيديا:مقالات مختارة|25بك]] مقالة مختارة</div>
+! id="mp-fa" style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Cscr-featured1.png|وصلة=ويكيبيديا:مقالات مختارة|25بك]] مقالة مختارة</div>
 |-
 | style="color:#000;" |
 <div id="mf-fa" style="margin-bottom: auto;" title="مقالة مختارة">{{مقالة الصفحة الرئيسية المختارة}}</div>
 |-
-!id="mp-ga" style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Symbol star silver.svg|وصلة=ويكيبيديا:مقالات جيدة|25بك]] مقالة جيدة</div>
+!id="mp-ga" style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Cscr-featured2.png|وصلة=ويكيبيديا:مقالات جيدة|25بك]] مقالة جيدة</div>
 |-
 | style="color:#000;" |
 <div id="mf-ga" style="margin-bottom: auto;" title="مقالة جيدة">{{مقالة الصفحة الرئيسية الجيدة}}</div>
@@ -27,7 +27,7 @@ __notoc__ __noeditsection__
 |}
 <!-- العمود الأيسر -->
 | style="border:none;" |
-| style="width:48%; border:1px solid #cfe0f3; vertical-align:top; padding: 0px 0px 2px 0px;"|
+| style="width:48%; border:1px solid #cfe0f3; background:#fff; vertical-align:top; padding: 0px 0px 2px 0px; background:#fff;"|
 {| id="mp-left" cellpadding="2" cellspacing="6" style="width:100%; vertical-align:top; "
 ! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Wikipedia Checkuser.png|وصلة=ويكيبيديا:تصفح|25بك]] تصفح الموسوعة</div>
 |-
@@ -58,7 +58,7 @@ __notoc__ __noeditsection__
 |id="mp-wq" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
 [[q:|'''ويكي الاقتباس''']] – <span class="plainlinks" id="quotes-purgelink">[{{fullurl:{{FULLPAGENAME}}|action=purge}} '''مقولة أخرى''']</span>
 |-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Pages Mac.png|وصلة=|25بك]] الصحيح في [[لغة عربية|اللغة]]</div>
+! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Pages Mac.png|وصلة=|25بك]] الصحيح في [[لغة عربية|القول]]</div>
 |-
 | style="color:#000; text-align:center; padding:2px 9px;" |
 {{ملاحظات في اللغة العربية}}
@@ -68,7 +68,7 @@ __notoc__ __noeditsection__
 |}
 |}
 <!-- مشاريع شقيقة -->
-{|id="mp-sp" cellpadding="2" cellspacing="5" style="margin: 1px 2px; width:99.5%; vertical-align:top; border:1px solid silver; color:#000;"
+{|id="mp-sp" cellpadding="2" cellspacing="5" style="margin: 1px 2px; width:99.5%; vertical-align:top; background:#f9f9f9; border:1px solid silver; color:#000;"
 |{{مشاريع شقيقة}}
 |}
 <!-- الحاشية -->
