@@ -19,27 +19,37 @@ __notoc__ __noeditsection__
 <div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
 {{عنوان بتدرج لوني|عنوان=في هذا اليوم|صورة=Datum{{LOCALDAY2}}.svg}}</div>
 <div id="mf-mw" style="margin-bottom: auto;" title="في هذا اليوم">{{في هذا اليوم}}</div>
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 <div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
 {{عنوان بتدرج لوني |عنوان=هل تعلم|صورة=HS RTL Exclamation.svg}}
 {{هل تعلم}}
 {{ذيل أيسر|[[ويكيبيديا:هل تعلم#اقتراح معلومة|رشح معلومة جديدة]] '''·''' [[ويكيبيديا:هل تعلم/أرشيف|الأرشيف]]}}
 </div>
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 <div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
 {{عنوان بتدرج لوني|عنوان=قيل|صورة=HSBook.svg}}
 {{كلمة الصفحة الرئيسية}}
 {{ذيل أيسر|[[q:|ويكي الاقتباس]] '''·''' [[ويكيبيديا:جدول كلمة اليوم/عرض الكلمات كلها|قائمة الأقوال]]}}
 </div>
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 <div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
 {{عنوان بتدرج لوني|عنوان=الصحيح في [[اللغة العربية|اللغة]]|صورة=HS Korganizer.svg}}
 {{ملاحظات في اللغة العربية}}
 {{ذيل أيسر|[[wikt:|ويكاموس]] '''·''' [[ويكيبيديا:جدول ملاحظة اليوم/عرض الملاحظات كلها|قائمة الملاحظات]]}}
 </div>
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 <div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
 {{عنوان بتدرج لوني|عنوان=هل ترغب في إنشاء مقالة؟|صورة=HSEditor.svg}}
 {{صندوق إنشاء مقالة}}
 {{ذيل أيسر|[[مساعدة:الفيديوهات الإرشادية|شاهد بعض الفيديوهات الإرشادية]]}}
 </div>
 |-
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 |style="vertical-align: text-top;width:65%;border:1px solid #c6c9ff;  border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{عنوان بتدرج لوني|عنوان=مقالة اليوم الجيدة|صورة=HSUtvaldgrey.png}}
 {{مقالة الصفحة الرئيسية الجيدة}}
@@ -48,6 +58,8 @@ __notoc__ __noeditsection__
 {{عنوان بتدرج لوني|عنوان=قائمة اليوم المختارة|صورة=HS Liste.svg}}
 {{قائمة اليوم المختارة}}
 |-
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 |style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{عنوان بتدرج لوني|عنوان=صورة اليوم المختارة|صورة=HSBild.svg}}
 {{صورة اليوم المختارة}}
