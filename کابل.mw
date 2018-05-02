@@ -25,8 +25,7 @@
 | pushpin_map            = Afghanistan#Asia
 | pushpin_label_position = above
 | pushpin_mapsize        = 300
-| pushpin_map_caption    = 
-| pushpin_relief         = 1
+
 | coordinates            = {{coord|34|32|N|69|10|E|region:AF|display=inline,title}}
 | coordinates            = 
 <!-- Location ------------------>
@@ -70,9 +69,7 @@
 |utc_offset             = +4:30
 |timezone_DST           =
 |utc_offset_DST         =
-|latd  =34 |latm  =32 | latNS  = N
-|longd =69 |longm =10 | longEW = E
-|coordinates_display    = inline,title
+
 |elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
 |elevation_m            =  
 |elevation_ft           =
