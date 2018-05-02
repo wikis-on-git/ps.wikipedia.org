@@ -1,32 +1,96 @@
-{{ويکيپېډيا:Main Page/Layout
-<!--
-  Category:Main page templates contains the sub-pages.
-  Set the box colors below
--->
-|intro=13
-|feature=1
-|dev=1
-|project=1
-|community=1
-|news=11
-|nav=11
-|sisters=13
-}}
-
-[[Category:Main Page]]
-
-<!-- Add new Wikiversities here -->
-[[ar:الصفحة الرئيسية]]
-[[cs:Wikiverzita:Hlavní strana]]
-[[de:Hauptseite]]
-[[el:Κύρια Σελίδα]]
-[[es:Portada]]
-[[fi:Etusivu]]
-[[fr:Accueil]]
-[[it:Pagina principale]]
-[[ja:メインページ]]
-[[ko:위키배움터:대문]]
-[[pt:Página_principal]]
-[[ru:Заглавная_страница]]
-[[sl:Glavna_stran]]
-[[sv:Huvudsida]]
+<div id="mainpage">__NOTOC__ __NOEDITSECTION__
+{| style="width:100%;margin-top:+.1em; background-color:#f9f9f9; border:1px solid #ccc"
+| id="mainpageintro" style="background-repeat:no-repeat; width:56%; color:#000; padding-top:0.5em; padding-bottom:0.5em;"|
+{|style="width:280px;border:solid 0px;background:none"
+|-
+|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
+<!--- dobrodošlica -->
+<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">[[Wikipedia:Uvod|Dobro došli]] na [[Wikipedia|Wikipediju]],</div>
+<div style="top:+0.2em;font-size: 95%">slobodnu [[enciklopedija|enciklopediju]] koju svako može [[Pomoć:Sadržaj|uređivati]].</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">Trenutno ima '''[[Posebno:Statistics|{{NUMBEROFARTICLES}}]]''' {{plural:{{NUMBEROFARTICLES}}|članak|članka|članaka}} na [[Bosanski jezik|bosanskom jeziku]].</div>
+|}
+<!-- portali -->
+|style="width:11%;font-size:95%;color:#000"|
+*<span style="white-space:nowrap">[[Portal:Astronomija|Astronomija]]</span><br />
+*<span style="white-space:nowrap">[[Portal:Biografija|Biografija]]</span><br />
+*<span style="white-space:nowrap">[[Portal:Biologija|Biologija]]</span><br />
+|style="width:11%;font-size:95%"|
+*<span style="white-space:nowrap">[[Portal:Bosna i Hercegovina|Bosna i Hercegovina]]</span><br />
+*<span style="white-space:nowrap">[[Portal:Informatika|Informatika]]</span><br />
+*<span style="white-space:nowrap">[[Portal:Islam|Islam]]</span><br />
+|style="width:11%;font-size:95%"|
+*<span style="white-space:nowrap">[[Portal:Sarajevo|Sarajevo]]</span><br />
+*<span style="white-space:nowrap">[[Portal:Sport|Sport]]</span><br />
+*[[Wikipedia:Portal|'''Svi portali''']]
+|-
+<!--- linkovi --->
+| colspan="4" style="background-color:#f9f9f9; border-top:1px solid #ccc;"|
+{| style="width:100%; margin-top:0.2em;"
+|style="font-size:95%; text-align:left;" class="hlist"|
+* [[Wikipedia|Šta je Wikipedia?]]
+* [[Pomoć:Sadržaj|Sadržaj]]
+* [[Wikipedia:Najčešća pitanja|Najčešća pitanja]]
+* [[Wikipedia:Čaršija|Čaršija]]
+| style="font-size:95%; text-align:right;" class="hlist"|
+* [[Wikipedia:Kategorije|Kategorije]]
+* [[Wikipedia:Odabrani članci|Odabrani članci]]
+* [[Wikipedia:Dobri članci|Dobri članci]]
+* '''[[Posebno:Allpages|Sve stranice]]'''
+|}
+|}
+<!------------------------------------------------------------------------------------------------------------------------------------->
+<!--        ODABRANI ČLANAK        -->
+{| id="mp-upper" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;"
+<!--        TODAY'S FEATURED ARTICLE; AKTUELNO        -->
+| class="MainPageBG" style="width:55%; border:1px solid #CEF2E0; background:#F5FFFA; vertical-align:top; color:#000;" |
+{| id="mp-left" style="vertical-align:top; background:#F5FFFA;"
+! style="padding:2px;" | <h2 id="mp-tfa-h2" style="margin:3px; background:#CEF2E0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3BFB1; text-align:left; color:#000; padding:0.2em 0.4em;">Odabrani članak mjeseca</h2>
+|-
+| style="color:#000;" | <div id="mp-tfa" style="padding:2px 5px">{{Odabrani članak/{{LOCALMONTHNAME}}{{LOCALYEAR}}}}</div>
+|-
+| style="border-top:1px solid #CEF2E0; text-align:right;" class="hlist" |
+* [[Wikipedia:Odabrani članci|Odabrani članci]]
+* [[Wikipedia:Odabrani članci/Glasanje|Glasanje]]
+* [[Šablon:Odabrani članak/{{LOCALMONTHNAME}}{{LOCALYEAR}}|Uredi]]
+|-
+! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#CEF2E0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3BFB1; text-align:left; color:#000; padding:0.2em 0.4em;">Slika dana</h2>
+|-
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Početna strana/Slika dana}}</div>
+|-
+| style="border-top:1px solid #CEF2E0; text-align:right;" | [[Šablon:Početna strana/Slika dana|Uredi]]
+|-
+! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#CEF2E0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3BFB1; text-align:left; color:#000; padding:0.2em 0.4em;">Aktuelno</h2>
+|-
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Aktuelno}}</div>
+|-
+| style="border-top:1px solid #CEF2E0; text-align:right;" | [[Šablon:Aktuelno|Uredi]]
+|}
+| style="border:1px solid transparent;" |
+<!--        VIJESTI, NA DANAŠNJI DAN        -->
+| class="MainPageBG" style="width:45%; border:1px solid #CEDFF2; background:#F5FAFF; vertical-align:top;"|
+{| id="mp-right" style="width:100%; vertical-align:top; background:#F5FAFF;"
+! style="padding:2px;" | <h2 id="mp-itn-h2" style="margin:3px; background:#CEDFF2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3B0BF; text-align:left; color:#000; padding:0.2em 0.4em;">Vijesti</h2>
+|-
+| style="color:#000; padding:2px 5px;" | <div id="mp-itn">{{Vijesti}}</div>
+|-
+| style="border-top:1px solid #CEDFF2; text-align:right;" class="hlist" |
+* [[:n:Početna strana|Više vijesti]]
+* [[Šablon:Vijesti|Uredi]]
+|-
+! style="padding:2px;" | <h2 id="mp-otd-h2" style="margin:3px; background:#CEDFF2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3B0BF; text-align:left; color:#000; padding:0.2em 0.4em;">[[Wikipedia:Na današnji dan|Na današnji dan]]</h2>
+|-
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-otd">{{Na današnji dan/{{LOCALDAY}}. {{LOCALMONTHNAME}}}}</div>
+|-
+! style="padding:2px;" | <h2 id="mp-otd-h2" style="margin:3px; background:#CEDFF2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3B0BF; text-align:left; color:#000; padding:0.2em 0.4em;">[[Wikipedia:Citat dana|Citat dana]]</h2>
+|-
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-otd">{{Citat dana}}</div>
+|}
+|}
+<!----------->
+{{Sadržaj}}
+<!-- SLIČNI PROJEKTI  ----->
+{{srodni projekti}}
+</div>
+<noinclude>{{noexternallanglinks}}</noinclude>
+<!---najveće Wikipedije, kao na http://en.wikipedia.org/wiki/Template:MainPageInterwikis --->
+[[ar:]] [[az:]] [[azb:]] [[id:]] [[ms:]] [[bg:]] [[ca:]] [[cs:]] [[da:]] [[de:]] [[en:]] [[et:]] [[el:]] [[es:]] [[eo:]] [[eu:]] [[fa:]] [[fr:]] [[gl:]] [[ko:]] [[he:]] [[hi:]] [[hr:]] [[it:]] [[ka:]] [[lv:]] [[lt:]] [[hu:]] [[nl:]] [[ja:]] [[mk:]] [[no:]] [[nn:]] [[pl:]] [[pt:]] [[ro:]] [[ru:]] [[simple:]] [[sq:]] [[sk:]] [[sl:]] [[sr:]] [[fi:]] [[sh:]] [[sv:]] [[th:]] [[vi:]] [[tr:]] [[uk:]] [[ur:]] [[zh:]]
