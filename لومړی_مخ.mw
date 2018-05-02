@@ -2,113 +2,106 @@ __NOTOC__ __NOEDITSECTION__
 <!--المقدمة-->
 {{مقدمة الصفحة الرئيسية جديد}}
 <!--العمود الأيمن-->
-{|id="mp-columns" style="margin:0 0 4px 0; background:transparent;"
-| style="width:52%; border:1px solid #badecc; vertical-align:top; color:#000; padding: 0px 0px 10px 2px;-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px; background:#f5fffa;" |
-{|id="mp-right" cellpadding="2" cellspacing="6" style="width:100%; vertical-align:top; "
-!id="mp-fa"  style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
+{| style="margin:0 0 4px 0; background:transparent;"
+| style="width:52%; vertical-align:top; border:1px solid #badecc; background:#f5fffa;" |
+{| cellpadding="2" cellspacing="6" style="width:100%; vertical-align:top; background:#f5fffa;"
+! style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
 Image:Arabesken3.png|80px
 rect 0 0 0 0 [[بلا وصلة]]
 desc none
 </imagemap></div><div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Cscr-featured.svg|وصلة=ويكيبيديا:مقالات مختارة|30بك]] مقالة مختارة</div>
 |-
 | style="color:#000;" |
-<div id="mf-fa" style="margin-bottom: auto;" title="مقالة مختارة">{{مقالة الصفحة الرئيسية المختارة}}</div>
+<div id="mf-fa" title="مقالة مختارة">{{مقالة الصفحة الرئيسية المختارة}}</div>
 |-
-!id="mp-ga"  style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
+! style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
 Image:Arabesken3.png|80px
 rect 0 0 0 0 [[بلا وصلة]]
 desc none
 </imagemap></div><div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Symbol support vote.svg|وصلة=ويكيبيديا:مقالات جيدة|30بك]] مقالة جيدة</div>
 |-
 | style="color:#000;" |
-<div id="mf-fa" style="margin-bottom: auto;" title="مقالة جيدة">{{مقالة الصفحة الرئيسية الجيدة}}</div>
+<div id="mf-fa" title="مقالة جيدة">{{مقالة الصفحة الرئيسية الجيدة}}</div>
 |-
-!id="mp-wm"  style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
+! style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
 Image:Arabesken3.png|80px
 rect 0 0 0 0 [[بلا وصلة]]
 desc none
 </imagemap></div><div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Orologio rosa.svg|وصلة=|30بك]] من ذاكرة ويكيبيديا</div>
 |-
 | style="color:#000;" |
-<div id="mf-mw" style="margin-bottom: auto;" title="من ذاكرة ويكيبيديا">{{من ذاكرة ويكيبيديا}}</div>
-|-
-!id="mp-wisw"  style="background:#d0f4e2; margin:0; height:22px; border-bottom:2px solid #badecc; color:#000; padding:.2em .4em .20em 1px;" {{!}} <div style="float:left;"><imagemap>
-Image:Arabesken3.png|80px
-rect 0 0 0 0 [[بلا وصلة]]
-desc none
-</imagemap></div><div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Color-chars-logo.png|وصلة=|30بك]] ما هي ويكيبيديا ؟</div>
-|-
-| style="color:#000;" |
-<div id="mf-mw" style="margin-bottom: auto;" title="ما هي ويكيبيديا ؟">{{مجتمع ويكيبيديا}}</div>
+<div id="mf-mw" title="من ذاكرة ويكيبيديا">{{من ذاكرة ويكيبيديا}}</div>
 |}
 <!--العمود الأيسر-->
 | style="border:none;" |
-| style="width:48%; border:1px solid #cfe0f3; background:#fff; vertical-align:top; padding: 0px 0px 2px 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px; background:#fff;"|
-{| id="mp-left" cellpadding="2" cellspacing="6" style="width:100%; vertical-align:top; "
+| style="width:48%; vertical-align:top;"|
+{| cellpadding="2" cellspacing="7" style="width:100%; vertical-align:top; border:1px solid #cfe0f3; background:#fff;"
 ! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
 Image:Arabesken3.png|80px
 rect 0 0 0 0 [[بلا وصلة]]
 desc none
 </imagemap></div><div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Wikipedia Checkuser.png|وصلة=ويكيبيديا:تصفح|30بك]] تصفح الموسوعة</div>
 |-
-| id="mp-xe" style="color:#000; text-align:center;" |
+| id="EnWpMpBook2" style="background-repeat:no-repeat; background-position:10% 50%; color:#000; text-align:center;" |
 {{تصفح الموسوعة}}
+|}
+{| cellpadding="0" cellspacing="0" style="width:100%; vertical-align:top; border:1px solid #cfe0f3; background:#fafaff; margin-top:15px;"
+! <div style="float:left; margin-top:4px; margin-left:12px;">[[ملف:Local-time.svg|وصلة=|35بك]]</div><div style="margin:7px; font-size:120%; font-weight:bold; background:#ecf4f9; border-bottom:2px solid #cfe0f3; text-align:right; color:#000; padding:.2em .4em .2em 0em;">أحداث جارية</div>
 |-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
-Image:Arabesken3.png|80px
-rect 0 0 0 0 [[بلا وصلة]]
-desc none
-</imagemap></div><div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Local-time.svg|وصلة=|30بك]] أحداث جارية</div>
-|-
-| style="color:#000; padding:2px 9px;"  |
+| style="color:#000; padding:2px 9px;" id="current-news-body" |
 {{أحداث جارية}}
 |-
-|id="mp-rn" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
+| style="background:transparent; color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
 [[n:|'''ويكي الأخبار''']] – [[بوابة:الأحداث الجارية|'''المزيد من الأحداث الجارية...''']]
-|-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
+|}
+{| cellpadding="0" cellspacing="0" style="width:100%; vertical-align:top; border:1px solid #cfe0f3; background:#fafaff; margin-top:15px;"
+! <div style="float:left; margin-top:4px; margin-left:12px;"><imagemap>
 Image:Arabesken3.png|80px
 rect 0 0 0 0 [[بلا وصلة]]
 desc none
-</imagemap></div><div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Gnome-emblem-photos.svg|وصلة=|30بك]] صورة اليوم المختارة</div>
+</imagemap></div><div style="margin:7px; font-size:120%; font-weight:bold; background:#ecf4f9; border-bottom:2px solid #cfe0f3; text-align:right; color:#000; padding:.2em .4em .2em 0em;">[[ملف:Gnome-emblem-photos.svg|وصلة=|30بك]] صورة اليوم المختارة</div>
 |-
 | style="color:#000; margin-top:5px;" |
 {{صورة اليوم}}
 |-
-|id="mp-tp" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
+| style=style="margin-top:15px; text-align:center;" |
 [[ملف:Camera-photo.svg|وصلة=|33بك]] [[ويكيبيديا:ترشيحات الصور المختارة|'''رشح صورك لتكون مختارة''']]
-|-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
-Image:Arabesken3.png|80px
-rect 0 0 0 0 [[بلا وصلة]]
-desc none
-</imagemap></div><div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Crystal Clear talk.png|وصلة=|30بك]] قيل</div>
+|}
+{| cellpadding="0" cellspacing="0" style="width:100%; vertical-align:top; border:1px solid #cfe0f3; background:#fefbff; margin-top:15px;"
+! <div style="float:left; margin-top:1px; margin-left:10px;">[[ملف:Crystal Clear talk.png|وصلة=|48بك]]</div><div style="margin:7px; font-size:120%; font-weight:bold; background:#ecf4f9; border-bottom:2px solid #cfe0f3; text-align:right; color:#000; padding:.2em .4em .2em 0em;">قيل</div>
 |-
 | style="color:#000; text-align:center; padding:2px 9px;" |
 {{كلمة الصفحة الرئيسية}}
 |-
-|id="mp-wq" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
+| style="background:transparent; color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
 [[q:|'''ويكي الاقتباس''']] – <span class="plainlinks" id="quotes-purgelink">[{{fullurl:{{FULLPAGENAME}}|action=purge}} '''مقولة أخرى''']</span>
-|-
-! style="background:#ecf4f9; margin:0; height:22px; border-bottom:2px solid #cfe0f3; color:#000; padding:.2em .4em .2em 1px;" {{!}} <div style="float:left;"><imagemap>
-Image:Arabesken3.png|80px
-rect 0 0 0 0 [[بلا وصلة]]
-desc none
-</imagemap></div><div style="margin:0; font-size:120%; font-weight:bold; text-align:right; color:#000;">[[ملف:Pages Mac.png|وصلة=|30بك]] الصحيح في [[لغة عربية|القول]]</div>
+|}
+{|cellpadding="0" cellspacing="0" style="width:100%; vertical-align:top; border:1px solid #cfe0f3; background:#fefbff; margin-top:15px;"
+! <div style="float:left; margin-top:1px; margin-left:10px;">[[ملف:Pages Mac.png|وصلة=|45بك]]</div><div style="margin:7px; font-size:120%; font-weight:bold; background:#ecf4f9;border-bottom:2px solid #cfe0f3; text-align:right; color:#000; padding:.2em .4em .2em 0em;">الصحيح في [[لغة عربية|القول]]</div>
 |-
 | style="color:#000; text-align:center; padding:2px 9px;" |
 {{ملاحظات في اللغة العربية}}
 |-
-|id="mp-wt" style="color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
+| style="background:transparent; color:#000; text-align:center; font-size:100%; padding:0px 5px; border-top:1px solid #cfe0f3;" |
 [[wikt:|'''ويكاموس''']] – <span class="plainlinks" id="quotes-purgelink">[{{fullurl:{{FULLPAGENAME}}|action=purge}} '''ملحوظة أخرى''']</span>
+|}
+{| cellpadding="0" cellspacing="0" style="width:100%; vertical-align:top; border:1px solid #cfe0f3; background:#fffdf3; margin-top:15px;"
+! <div style="float:left; margin-top:0px; margin-left:9px;">[[ملف:Color-chars-logo.png|وصلة=|40بك]]</div><div style="margin:7px; font-size:120%; font-weight:bold; background:#ecf4f9; border-bottom:2px solid #cfe0f3; text-align:right; color:#000; padding:.2em .4em .2em 0em;">ما هي ويكيبيديا ؟</div>
+|-
+| style="color:#000; padding:2px 9px;" |
+{{مجتمع ويكيبيديا}}
+|-
 |}
 |}
 <!--مشاريع شقيقة-->
-{|id="mp-sp" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f9f9f9; border:1px solid #a7d7f9; color:#000; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;"
-!<div style="font-size:120%; font-weight:bold; text-align:right;  color:#000; padding:0em .2em;">مشاريع شقيقة</div>
+{| style="margin:0 0 4px 0; width:100%; background:transparent;"
+| style="width:100%; vertical-align:top;"|
+{| cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent; border:1px solid #aa3333; color:#000;"
+!<div style="font-size:120%; font-weight:bold; text-align:right; color:#000; padding:0em .2em;">مشاريع شقيقة</div>
 |-
 | style="color:#000; text-align:center;" |
 {{مشاريع شقيقة}}
+|}
 |}
 <!--الحاشية-->
 {{حاشية الصفحة الرئيسية}}
