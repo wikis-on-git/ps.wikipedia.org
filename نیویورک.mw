@@ -1,113 +1,85 @@
-{{Infobox settlement
-| نوم               = د نيويارک ښار
-| name      = ښار د نيويارک
-| official_name       = <!-- for cities whose native name is not in English -->
-| کورنی نوم      = <br>The [[Big Apple]], [[Gotham]], [[Center of the universe|Center of The Universe]], The City That Never Sleeps
-| settlement_type    = ښار
-| motto              =
-| image_skyline      = NYC Montage 12 by Jleon.jpg
-| imagesize           = 315px
-| image_caption      = له کيڼ لورې: [[د ښارمېنځ مانهاتان]], د [[ملگرو ملتونو مرکز]]، [[د خپلواکۍ پژۍ]], [[د ټايم څلورلارې]], [[يونيسفيير]] په کوينز کې، [[د بروکلين پول]], او [[کوز مانهاتان]] [[د آيالتي ټاپو بېړۍ]] سره
-| image_flag = Flag of New York City.svg
-| image_seal = Seal_of_New_York_City_BW.svg
-| seal_size          =
-| image_shield       =
-| shield_size        =
-| image_map          = Map of New York Highlighting New York City.svg
-| mapsize            = 120px
-| map_caption        = Location in the state of New York
-| image_map1         =
-| mapsize1           =
-| map_caption1       =
-| image_dot_map      =
-| dot_mapsize        =
-| dot_map_caption    =
-| dot_x              =
-| dot_y              =
-|pushpin_map=| pushpin_map = USA#New York
-|pushpin_map_caption=Location in the United States
-| mapsize            = 160px
-| main lenguages     = [[انگرېزي ژبه|انگرېزي]] او [[اسپانيوي ژبه|اسپانيوي]]
-| coordinates_display   = inline,title
-| coordinates_region   = US-NY
-| subdivision_type   = [[List of countries|Country]]
-| subdivision_name   = United States
-| subdivision_type1  = [[U.S. state|State]]
-| subdivision_name1  = New York
-| subdivision_type2  = [[county (United States)|Counties]]
-| subdivision_name2  = [[Bronx]]<br />[[Brooklyn|Kings]]<br />[[Manhattan|New York]]<br />[[Queens]]<br />[[Staten Island|Richmond]]
-| government_foonotes=
-| government_type    = [[Mayor-council government|Mayor-Council]]
-| leader_title       = [[Mayor of New York City|Mayor]]
-| leader_name        = [[Michael Bloomberg]] ([[Independent (politician)|I]]) <ref name="MayorsOffice">
-{{cite web
-  |url=http://www.nyc.gov/portal/site/nycgov/menuitem.e985cf5219821bc3f7393cd401c789a0/
-  |title=Biography
-  |accessdate=2010-01-08
-  |publisher=New York, City of
-  |author=the Mayor, New York City Office of
-  |date=2010-01-08
-}}</ref>
-| leader_title1      = <!-- for places with, say, both a mayor and a city manager -->
-| leader_title2      =
-| leader_name2       =
-| , [[Membership of the New York City Council]]
-| established_title  = [[New Amsterdam|Settled]]
-| established_date   = 1624
-| established_title2 = <!-- Incorporated (town) -->
-| established_date2  =
-| established_title3 = <!-- Incorporated (city) -->
-| established_date3  = 1898
-| area_magnitude     = 1 E9
-| unit_pref          = Imperial
-| area_footnotes     =
-| area_total_km2     = 1214.4
-| area_land_km2      = 789.4
-| area_water_km2     = 428.8
-| area_total_sq_mi   = 468.9
-| area_land_sq_mi    = 304.8
-| area_water_sq_mi   = 165.6
-| area_water_percent =
-| area_urban_km2     = 8683.2
-| area_urban_sq_mi   = 3352.6
-| area_metro_km2     = 17405
-| area_metro_sq_mi   = 6720
-| area_blank1_title  =
-| area_blank1_km2    =
-| area_blank1_sq_mi  =
-| population_as_of   = July 1, 2009
-| population_footnotes = <ref name="2009 est pop"/>
-| population_note      =
-| population_total     = 8391881
-| population_density_km2          = 10630
-| population_density_sq_mi        = 27532
-| population_metro                = 19006798
-| population_density_metro_km2    = auto
-| population_density_metro_sq_mi  = auto
-| population_urban                = 18223567
-| population_density_urban_km2    = auto
-| population_density_urban_sq_mi  = auto
-| population_blank1_title         = [[د خلکو نوم]]
-| population_blank1               = New Yorker
-| population_density_blank1_km2   =
-| population_density_blank1_sq_mi =
-| timezone                        = [[Eastern Time Zone (North America)|EST]]
-| utc_offset                      = -5
-| timezone_DST                    = [[Eastern Time Zone (North America)|EDT]]
-| utc_offset_DST                  = -4
-| latd=40|latm=43|lats=|latNS=N
-| longd=74|longm=0|longs=|longEW=W
-| elevation_footnotes             = <!-- for references: use tags -->
+{{معلومات مدينة
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = New York City
+| official_name                   = City of New York
+| settlement_type                 = [[Megacity]]
+| named_for                       = [[James II of England|James, Duke of York]]
+<!-- images, nickname, motto --->| image_skyline                   = NYC Montage 2014 4 - Jleon.jpg
+| imagesize                       = 305px
+| image_caption                   = Clockwise, from top: [[Midtown Manhattan]], [[Times Square]], the [[Unisphere]] in [[Queens]], the [[Brooklyn Bridge]], [[Lower Manhattan]] with [[One World Trade Center]], [[Central Park]], the [[headquarters of the United Nations]], and the [[Statue of Liberty]]
+| image_flag                      = Flag of New York City.svg
+| image_seal                      = Seal_of_New_York_City_BW.svg
+| image_blank_emblem              = NYC Logo Wolff Olins.svg
+| blank_emblem_type               = [[Wordmark]]
+| nickname                        = ''See [[Nicknames of New York City]]''
+<!-- maps and coordinates ------>| image_map                       = Map of New York Highlighting New York City.svg
+| map_caption                     = Location within the [[U.S. state]] of [[New York (state)|New York]]
+| pushpin_map                     = USA#New York
+| pushpin_label_position          = left
+| pushpin_label                   = New York City
+| pushpin_map_caption             = Location in the contiguous [[United States]] and [[New York (state)|New York]]
+| coordinates                     = {{coord|40.7127|N|74.0059|W|region:US-NY|format=dms|display=inline,title}}
+| coor_pinpoint                   = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes           = <ref name="GR1">{{cite web |url=https://www.census.gov/geo/www/gazetteer/gazette.html |publisher=[[United States Census Bureau]] |accessdate=April 23, 2011 |date=February 12, 2011 |title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+<!-- location ------------------>| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{nowrap|{{flagu|United States|size=23px}}}}
+| subdivision_type2               = [[U.S. state|State]]
+| subdivision_name2               = {{flagcountry|New York (state)|size=23px}}
+| subdivision_type3               = [[County (United States)|Counties]] / ([[Boroughs of New York City|Boroughs]])
+| subdivision_name3               = [[The Bronx|Bronx]], [[Brooklyn|Kings (Brooklyn)]], [[Manhattan|New York (Manhattan)]], [[Queens]], [[Staten Island|Richmond (Staten Island)]]
+----
+| subdivision_type4               = [[Colony|Historic colonies]]
+| subdivision_name4               = {{flagicon image|Statenvlag.svg|size=23px}} [[New Netherland]]<br />{{Flagdeco|Kingdom of Great Britain|size=23px}} [[Province of New York]]
+<!-- established --------------->| established_title               = Settled
+| established_date                = 1624
+| established_title1              = [[City of Greater New York|Consolidated]]
+| established_date1               = 1898
+| established_title2              = <!-- Incorporated (city) -->
+<!-- government type, leaders -->| government_footnotes            = <ref name="MayorsOffice">{{cite web |author=the Mayor, New York City Office of |date=January 8, 2010 |url=http://www.nyc.gov/portal/site/nycgov/menuitem.e985cf5219821bc3f7393cd401c789a0/ |title=Biography |accessdate=January 8, 2010 |publisher=New York, City of |archiveurl=https://web.archive.org/web/20100317115700/http://www.nyc.gov/portal/site/nycgov/menuitem.e985cf5219821bc3f7393cd401c789a0 |archivedate=March 17, 2010 |df=}}
+</ref>
+| government_type                 = [[Mayor–council government|Mayor–Council]]
+| governing_body                  = [[New York City Council]]
+| leader_title                    = [[Mayor of New York City|Mayor]]
+| leader_name                     = [[Bill de Blasio]] ([[Democratic Party (United States)|D]])
+<!-- display settings --------->| total_type                      = Total
+| unit_pref                       = Imperial
+<!-- area ---------------------->| area_footnotes                  = <ref name="GR1" />
+| area_total_sq_mi                = 468.484
+| area_land_sq_mi                 = 302.643
+| area_water_sq_mi                = 165.841
+| area_metro_sq_mi                = 13318
+<!-- elevation ----------------->| elevation_footnotes             = <ref name="GR3">{{cite web |url=http://geonames.usgs.gov |accessdate=January 31, 2008 |title=US Board on Geographic Names |publisher=[[United States Geological Survey]] |date=October 25, 2007}}</ref>
 | elevation_m                     = 10
 | elevation_ft                    = 33
-| postal_code_type                = زيپ کوډ
-| postal_code                     = 100xx-104xx, 11004-05, 111xx-114xx, 116xx
-| area_code                       = [[Area code 212|212]], [[Area code 718|718]], [[Area code 917|917]], [[Area code 347|347]], [[Area code 646|646]]
-| blank_name                      =
-| blank_info                      =
-| blank1_name                     =
-| blank1_info                     =
-| website                         = [http://www.nyc.gov/ www.nyc.gov]
+<!-- population ---------------->| population_rank                 = [[List of United States cities by population|1st, U.S.]]
+| population_density_sq_mi        = {{#expr:8622698/302.643 round 0}}
+| population_as_of                = [[2010 United States Census|2010]]
+| population_total                = 8175133
+| population_footnotes            = <ref name=Census2010>[https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml Community Facts for New York city, New York], [[United States Census Bureau]]. Accessed May 26, 2017.</ref>
+| population_est                  = 8622698
+| pop_est_as_of                   = 2017
+| pop_est_footnotes               = <ref name=2017Estimate/>
+| population_blank1_title         = [[Metropolitan statistical area|MSA (2017)]]
+| population_blank1               = 20,320,876<ref name=MetroEst/> ([[List of Metropolitan Statistical Areas|1st]])
+| population_blank2_title         = [[New York metropolitan area|CSA (2017)]]
+| population_blank2               = 23,876,155<ref name=CombinedEst>{{cite web |url=https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2017/GCTPEPANNR.US41PR |title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2017 – Combined Statistical Area; and for Puerto Rico – 2017 Population Estimates |publisher=U.S. Census Bureau |accessdate=April 27, 2018}}</ref> ([[List of Combined Statistical Areas|1st]])
+| population_demonym              = New Yorker
+<!-- time zone(s) -------------->| timezone1                       = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset1                     = −5
+| timezone1_DST                   = [[Eastern Time Zone|EDT]]
+| utc_offset1_DST                 = −4
+<!-- postal codes, area code --->| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 100xx–104xx, 11004–05, 111xx–114xx, 116xx
+| area_code                       = [[Area codes 212, 646, and 332|212/646/332]], [[Area codes 718, 347, and 929|718/347/929]], [[Area code 917|917]]
+<!-- blank fields (section 1) -->| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 36-51000
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 975772
+<!-- website, footnotes -------->| blank_name_sec2                 = Largest [[Boroughs of New York City|borough]] by area
+| blank_info_sec2                 = [[Queens]] – {{convert|109|sqmi|km2}}
+| blank1_name_sec2                = Largest borough by population
+| blank1_info_sec2                = [[Brooklyn]] (2,636,735 – 2015 est)<ref name=BrooklynQuickFacts>{{cite web |title=State & County QuickFacts – Kings County (Brooklyn Borough), New York |url=http://quickfacts.census.gov/qfd/states/36/36047.html |publisher=United States Census Bureau |accessdate=March 24, 2016 |archiveurl=https://web.archive.org/web/20160217175357/http://quickfacts.census.gov/qfd/states/36/36047.html |archivedate=February 17, 2016 |df=}}</ref>
+| website                         = [http://www.nyc.gov/ NYC.gov]
+| population_density_km2          = auto
 }}
 '''نیو یارک''' (New York City) د [[امریکا|امریکا د متحدو ایالاتو]] تر ټولو لوی او د نړۍ یو له ډېرو گڼ مېشتو ښارونو څخه دی. دا ښار د نیویارک ښار په نامه یادیږي چې د نیو یارک ایالت څخه یې توپیر وشي. د یو ستر نړیوال ښار په توگه نیویارک پر سوداگرۍ، مالي چارو، رسنیو، هنر، څیړنې، تخنيک او تعلیم باندې څرگنده اغېزه لرلې. د ملگرو ملتو د مرکزي دفتر کور نیویارک، د نړیوالې ډيپلوماسۍ یو اهم مرکز دی او د نړۍ د کولتوري پلازمینې په نامه یادېږي.
 
