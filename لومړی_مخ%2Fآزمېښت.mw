@@ -4,7 +4,7 @@
 <div id="mp-2012-column-left"><div>
 <!-- ====== 典范条目開始 ======= -->
 <div id="mp-2012-column-feature-block" class="mp-2012-column-left-block">
-<h2>{{#ifeq:{{FeaturedContentType}}|1|特色列表|典范条目}}</h2>
+<h2>{{#ifeq:{{FeaturedContentType}}|1|特色列表|د نن ورځې غوره ليکنه}}</h2>
 {{Feature|class=mp-2012-text|footer=
 <div id="column-feature-more">
 * <span class="column-feature-more-header">[[Wikipedia:典範條目|其他典範條目]]</span>：{{#invoke:首页2|list|title=Wikipedia:典範條目/列表|pattern=%[%[(.-)%]%]}}
