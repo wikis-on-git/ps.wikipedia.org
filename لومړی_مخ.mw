@@ -56,12 +56,16 @@ __notoc__ __noeditsection__
 |-
 |style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{عنوان بتدرج لوني|عنوان=قائمة اليوم المختارة|صورة=HS Liste.svg}}
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 {{قائمة اليوم المختارة}}
 |-
 <div id="mp-2012">
 <div id="mp-2012-banner" class="nomobile">
 |style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{عنوان بتدرج لوني|عنوان=صورة اليوم المختارة|صورة=HSBild.svg}}
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 {{صورة اليوم المختارة}}
 {{ذيل أيسر|[[ويكيبيديا:صور مختارة|معرض الصور المختارة]] '''·''' [[ويكيبيديا:ترشيحات الصور المختارة|رشح صورك لتكون مختارة]]}}
 |-
@@ -69,6 +73,8 @@ __notoc__ __noeditsection__
 <div id="mp-2012-banner" class="nomobile">
 |style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
 {{عنوان بتدرج لوني|عنوان=بوابة اليوم المختارة|صورة=HSHome.svg}}
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 {{بوابة اليوم المختارة}}
 |-
 <div id="mp-2012">
@@ -84,6 +90,8 @@ __notoc__ __noeditsection__
 <div id="mp-2012-banner" class="nomobile">
 {|id="mp-sp" style="padding:2;border-spacing: 5;margin: 1px 2px; width:99.5%; vertical-align:top; background:#F8F8F8; border:1px solid #c6c9ff; border-radius:5px; color:#000;"
 |{{عنوان بتدرج لوني|عنوان=مشاريع شقيقة|صورة=Wikimedia-logo-circle.svg}}
+<div id="mp-2012">
+<div id="mp-2012-banner" class="nomobile">
 {{مشاريع شقيقة}}
 <div id="mp-2012">
 <div id="mp-2012-banner" class="nomobile">
