@@ -1,96 +1,120 @@
-<div id="mainpage">__NOTOC__ __NOEDITSECTION__
-{| style="width:100%;margin-top:+.1em; background-color:#f9f9f9; border:1px solid #ccc"
-| id="mainpageintro" style="background-repeat:no-repeat; width:56%; color:#000; padding-top:0.5em; padding-bottom:0.5em;"|
-{|style="width:280px;border:solid 0px;background:none"
+{{Шаблон:Басылыхъхъ}}
+<!---------- ГАЛИУ ЦÆДЖЫНДЗ ---------->
+{| id="mp-upper" style="margin:0; background:none;"
+| class="MainPageBG" style="width:70%; background:transparent; vertical-align:top; color:#000;" |
+{| id="mp-left" cellpadding="0" cellspacing="0" style="width:100%; vertical-align:top; background:transparent;"
+<!---------- ХОРЗ УАЦ (Статья) ---------->
+|<div style="border:1px solid #c2dfff; padding:3px; margin-bottom:5px; -moz-box-shadow: 3px 3px 6px #AAA;">
+<div style="text-align:left; position:relative; margin-top:-5px">
+[[File:Bluebg.png|link=]]
+<div style="position:absolute; left:5px; top:4px">[[File:HSutvald2.svg|38px]]</div>
+<div style="position:absolute; left:50px; top:4px; font-size:120%">'''Уацы дæнцæг'''</div>
+<div id="mf-tfa" title="Хорз уац" style="margin:1em; padding-right:6px; padding-top:5px;overflow:auto">{{Уацы дæнцæг}}</div></div></div>
 |-
-|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
-<!--- dobrodošlica -->
-<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">[[Wikipedia:Uvod|Dobro došli]] na [[Wikipedia|Wikipediju]],</div>
-<div style="top:+0.2em;font-size: 95%">slobodnu [[enciklopedija|enciklopediju]] koju svako može [[Pomoć:Sadržaj|uređivati]].</div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">Trenutno ima '''[[Posebno:Statistics|{{NUMBEROFARTICLES}}]]''' {{plural:{{NUMBEROFARTICLES}}|članak|članka|članaka}} na [[Bosanski jezik|bosanskom jeziku]].</div>
+| height="5px" |
+|-
+<!---------- ДИССÆГТÆ ---------->
+|<div style="border:1px solid #c2dfff; padding:3px; margin-bottom:5px; -moz-box-shadow: 3px 3px 6px #AAA;">
+<div style="text-align:left; position:relative; margin-top:-5px">
+[[File:Bluebg.png|link=]]
+<div style="position:absolute; left:5px; top:4px">[[File:HSVissteduatt.svg|38px]]</div>
+<div style="position:absolute; left:50px; top:4px; font-size:120%">'''Диссæгтæ'''</div>
+<div id="mf-dyk" title="Диссæгтæ" style="margin:1em; padding-right:6px; padding-top:5px;overflow:auto">{{Царциаты диссæгтæ}}</div></div></div>
+|-
+| height="5px" |
+|-
+<!---------- БОНЫ НЫВ ---------->
+|<div style="border:1px solid #c2dfff; padding:3px; padding-bottom:7px; -moz-box-shadow: 3px 3px 6px #AAA;">
+<div style="text-align:left; position:relative; margin-top:-5px">
+[[File:Bluebg.png|link=]]
+<div style="position:absolute; left:5px; top:4px">[[File:HSBild.svg|38px]]</div>
+<div style="position:absolute; left:50px; top:4px; font-size:120%">'''Боны ныв'''</div>
+<div style="margin:1em; padding-right:6px; padding-top:12px;overflow:auto"><center>
+[[Ныв:{{Шаблон:Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|center|350px]]
+{{Шаблон:Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (os)}}</center>
+<div class="noprint" align="right">'''[[Википеди:Боны ныв|Нывты афыстытæ баив]]'''</div>
+</div></div></div>
+|-
 |}
-<!-- portali -->
-|style="width:11%;font-size:95%;color:#000"|
-*<span style="white-space:nowrap">[[Portal:Astronomija|Astronomija]]</span><br />
-*<span style="white-space:nowrap">[[Portal:Biografija|Biografija]]</span><br />
-*<span style="white-space:nowrap">[[Portal:Biologija|Biologija]]</span><br />
-|style="width:11%;font-size:95%"|
-*<span style="white-space:nowrap">[[Portal:Bosna i Hercegovina|Bosna i Hercegovina]]</span><br />
-*<span style="white-space:nowrap">[[Portal:Informatika|Informatika]]</span><br />
-*<span style="white-space:nowrap">[[Portal:Islam|Islam]]</span><br />
-|style="width:11%;font-size:95%"|
-*<span style="white-space:nowrap">[[Portal:Sarajevo|Sarajevo]]</span><br />
-*<span style="white-space:nowrap">[[Portal:Sport|Sport]]</span><br />
-*[[Wikipedia:Portal|'''Svi portali''']]
-|-
-<!--- linkovi --->
-| colspan="4" style="background-color:#f9f9f9; border-top:1px solid #ccc;"|
-{| style="width:100%; margin-top:0.2em;"
-|style="font-size:95%; text-align:left;" class="hlist"|
-* [[Wikipedia|Šta je Wikipedia?]]
-* [[Pomoć:Sadržaj|Sadržaj]]
-* [[Wikipedia:Najčešća pitanja|Najčešća pitanja]]
-* [[Wikipedia:Čaršija|Čaršija]]
-| style="font-size:95%; text-align:right;" class="hlist"|
-* [[Wikipedia:Kategorije|Kategorije]]
-* [[Wikipedia:Odabrani članci|Odabrani članci]]
-* [[Wikipedia:Dobri članci|Dobri članci]]
-* '''[[Posebno:Allpages|Sve stranice]]'''
-|}
-|}
-<!------------------------------------------------------------------------------------------------------------------------------------->
-<!--        ODABRANI ČLANAK        -->
-{| id="mp-upper" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;"
-<!--        TODAY'S FEATURED ARTICLE; AKTUELNO        -->
-| class="MainPageBG" style="width:55%; border:1px solid #CEF2E0; background:#F5FFFA; vertical-align:top; color:#000;" |
-{| id="mp-left" style="vertical-align:top; background:#F5FFFA;"
-! style="padding:2px;" | <h2 id="mp-tfa-h2" style="margin:3px; background:#CEF2E0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3BFB1; text-align:left; color:#000; padding:0.2em 0.4em;">Odabrani članak mjeseca</h2>
-|-
-| style="color:#000;" | <div id="mp-tfa" style="padding:2px 5px">{{Odabrani članak/{{LOCALMONTHNAME}}{{LOCALYEAR}}}}</div>
-|-
-| style="border-top:1px solid #CEF2E0; text-align:right;" class="hlist" |
-* [[Wikipedia:Odabrani članci|Odabrani članci]]
-* [[Wikipedia:Odabrani članci/Glasanje|Glasanje]]
-* [[Šablon:Odabrani članak/{{LOCALMONTHNAME}}{{LOCALYEAR}}|Uredi]]
-|-
-! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#CEF2E0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3BFB1; text-align:left; color:#000; padding:0.2em 0.4em;">Slika dana</h2>
-|-
-| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Početna strana/Slika dana}}</div>
-|-
-| style="border-top:1px solid #CEF2E0; text-align:right;" | [[Šablon:Početna strana/Slika dana|Uredi]]
-|-
-! style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#CEF2E0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3BFB1; text-align:left; color:#000; padding:0.2em 0.4em;">Aktuelno</h2>
-|-
-| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Aktuelno}}</div>
-|-
-| style="border-top:1px solid #CEF2E0; text-align:right;" | [[Šablon:Aktuelno|Uredi]]
-|}
+<!---------- РАХИЗ ЦÆДЖЫНДЗ ---------->
+<!---------- МÆЙЫ ТЕМÆ---------->
 | style="border:1px solid transparent;" |
-<!--        VIJESTI, NA DANAŠNJI DAN        -->
-| class="MainPageBG" style="width:45%; border:1px solid #CEDFF2; background:#F5FAFF; vertical-align:top;"|
-{| id="mp-right" style="width:100%; vertical-align:top; background:#F5FAFF;"
-! style="padding:2px;" | <h2 id="mp-itn-h2" style="margin:3px; background:#CEDFF2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3B0BF; text-align:left; color:#000; padding:0.2em 0.4em;">Vijesti</h2>
-|-
-| style="color:#000; padding:2px 5px;" | <div id="mp-itn">{{Vijesti}}</div>
-|-
-| style="border-top:1px solid #CEDFF2; text-align:right;" class="hlist" |
-* [[:n:Početna strana|Više vijesti]]
-* [[Šablon:Vijesti|Uredi]]
-|-
-! style="padding:2px;" | <h2 id="mp-otd-h2" style="margin:3px; background:#CEDFF2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3B0BF; text-align:left; color:#000; padding:0.2em 0.4em;">[[Wikipedia:Na današnji dan|Na današnji dan]]</h2>
-|-
-| style="color:#000; padding:2px 5px 5px;" | <div id="mp-otd">{{Na današnji dan/{{LOCALDAY}}. {{LOCALMONTHNAME}}}}</div>
-|-
-! style="padding:2px;" | <h2 id="mp-otd-h2" style="margin:3px; background:#CEDFF2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #A3B0BF; text-align:left; color:#000; padding:0.2em 0.4em;">[[Wikipedia:Citat dana|Citat dana]]</h2>
-|-
-| style="color:#000; padding:2px 5px 5px;" | <div id="mp-otd">{{Citat dana}}</div>
-|}
-|}
-<!----------->
-{{Sadržaj}}
-<!-- SLIČNI PROJEKTI  ----->
-{{srodni projekti}}
+| class="MainPageBG" style="width:30%; border:1px solid #cef2e0; background:#f5faff; vertical-align:top; color:#000; -moz-box-shadow: 3px 3px 6px #AAA;"|<!---------- НОГ ХАБÆРТТÆ---------->{{Alekstra}}<!---------- НОГ ХАБÆРТТЫ КÆРОН---------->
+{|id="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;"
+<div style="position:relative;">
+[[File:Greenbg_right.png|280px|right|link=]]
+<div style="font-size:115%; position:absolute; right:45px; top:0px;">'''Мæйы темæ!'''</div>
+<div style="position:absolute; right:10px; top:2px;">[[File:Nuvola apps krita.png|26px|link=]]</div>
 </div>
-<noinclude>{{noexternallanglinks}}</noinclude>
-<!---najveće Wikipedije, kao na http://en.wikipedia.org/wiki/Template:MainPageInterwikis --->
-[[ar:]] [[az:]] [[azb:]] [[id:]] [[ms:]] [[bg:]] [[ca:]] [[cs:]] [[da:]] [[de:]] [[en:]] [[et:]] [[el:]] [[es:]] [[eo:]] [[eu:]] [[fa:]] [[fr:]] [[gl:]] [[ko:]] [[he:]] [[hi:]] [[hr:]] [[it:]] [[ka:]] [[lv:]] [[lt:]] [[hu:]] [[nl:]] [[ja:]] [[mk:]] [[no:]] [[nn:]] [[pl:]] [[pt:]] [[ro:]] [[ru:]] [[simple:]] [[sq:]] [[sk:]] [[sl:]] [[sr:]] [[fi:]] [[sh:]] [[sv:]] [[th:]] [[vi:]] [[tr:]] [[uk:]] [[ur:]] [[zh:]]
+|-
+| style="background:#f5fffa; font-size:90%;" |
+{| style="background:none;"
+|-
+| style="line-height:120%;" | 
+'''Мæйы бæстæ сси {{Флагификаци|Хуссар Ирыстон}}:'''
+: Хуыздæргæнинаг сты: [[Цхинвал]], [[Къуайса]], [[Хуссар Ирыстоны Хæст (2008)]], [[Хуссар Ирыстоны автономон бæстæ]] æмæ [[Википеди:Хъазуатон куыст/Хуссар Ирыстон|бирæ æндæртæ]].
+'''Мæйы темæ æвзæрст не ’рцыдис; раздæры темæ уыдис [[Алани (ФК)]]:'''
+: Фен, [[Википеди:Хъазуатон куыст/Алани (футболон клуб)|цы бакæнæн и, уый]].
+<small>[[Википеди:Хъазуатон куыст|Ног темæ бадæттæн æмæ фæдылдзог мæйы темæтæм хъæлæс кæнæн ис сæрмагонд фарсыл »»»]]</small>
+</div>
+
+|}
+|-
+<!---------- Категоритæ ---------->
+| height="5px" |
+|-
+| <div style="position:relative;">
+[[File:Greenbg_right.png|280px|right|link=]]
+<div style="font-size:115%; position:absolute; right:45px; top:0px;">'''Категоритæ'''</div>
+<div style="position:absolute; right:10px; top:2px;">[[File:Vista-xmag.png|30px|link=]]</div></div>
+|-
+| style="background:#f5fffa; font-size:90%;" |
+{| style="background:none;"
+|-
+|style="line-height:120%;" |
+[[Ныв:P biology.svg|23px]] '''[[:Категори:Æрдз|Æрдз]]''' <br/>
+:[[:Категори:Адæймаг|Адæймаг]] '''•''' [[:Категори:Зайæгойтæ|Зайæгойтæ]] '''•''' [[:Категори:Цæрæгойтæ|Цæрæгойтæ]]
+
+[[Ныв:P Society.png|23px]] '''[[:Категори:Æхсæнад|Æхсæнад]] <br/>
+:[[:Категори:Адæмтæ|Адæмтæ]] '''•''' [[:Категори:Дин|Дин]] '''•''' [[:Категори:Политикæ|Политикæ]] '''•''' [[:Категори:Хæстытæ|Хæстытæ]] '''•''' [[:Категори:Спорт|Спорт]] '''•''' [[:Категори:Фенддæгтæ|Фенддæгтæ]]
+
+[[Ныв:P parthenon.svg|23px]] '''[[:Категори:Зонæдтæ|Æрдз иртасæг зонад]]'''<br/>
+:[[:Категори:Астрономи|Астрономи]] '''•''' [[:Категори:Биологи|Биологи]] '''•''' [[:Категори:Географи|Географи]] '''•''' [[:Категори:Математикæ|Математикæ]] '''•''' [[:Категори:Физикæ|Физикæ]] '''•''' [[:Категори:Хими|Хими]] 
+
+[[Ныв:P vip.svg|23px]] '''[[:Категори:Гуманитарон зонæдтæ|Адæймаджы иртасæг зонад]]<br/>
+:[[:Категори:Археологи|Археологи]] '''•''' [[:Категори:Экономикæ|Экономикæ]] '''•''' [[:Категори:Философи|Философи]] '''•''' [[:Категори:Истори|Истори]] '''•''' [[:Категори:Социологи|Социологи]]
+
+[[Ныв:Botany P icon.png|23px]] '''[[:Категори:Ирыстон|Ирыстон]]''' <br/>
+:[[:Категори:Ирон æвзаг|Ирон æвзаг]] '''•''' [[:Категори:Ирон мыггæгтæ|Ирон мыггæгтæ]] '''•''' [[:Категори:Цæгат Ирыстон|Цæгат Ирыстон]] '''•''' [[:Категори:Хуссар Ирыстон|Хуссар Ирыстон]]
+
+<!--Ирон Википедийы æппæт категоритæ:
+categorytree>Æппæт</categorytree-->
+</div>
+|}
+|-
+<!---------- Æндæр æвзæгтæ ---------->
+| height="5px" |
+|-
+| <div style="position:relative;">
+[[File:Greenbg_right.png|280px|right|link=]]
+<div style="font-size:115%; position:absolute; right:45px; top:0px;">'''Википеди æндæр æвзæгтыл'''</div>
+<div style="position:absolute; right:10px; top:2px;">[[File:Wikipedia-logo.png|26px|link=]]</div></div>
+|-
+| style="background:#f5fffa; font-size:90%;" |
+{| style="background:none;"
+|-
+| {{Wikipedialang}} <br /> <h3>Кавказы æвзæгтыл хайæдтæ:</h3> {{Сæйраг фарс Кавказы æвзæгтæ}}
+|}
+|}
+|}
+<!---------- Æндæр проекттæ ---------->
+{| id="mp-tfp" style="margin:4px 0 0 0; width:100%; background:none;"
+|<div style="border:1px solid #c2dfff; padding:3px; padding-bottom:7px; -moz-box-shadow: 3px 3px 6px #AAA;">
+<div style="text-align:left; position:relative; margin-top:-5px">
+[[File:Bluebg.png|link=]]
+<div style="position:absolute; left:5px; top:4px">[[File:Wikimedia-logo.svg|38px|link=]]</div>
+<div style="position:absolute; left:50px; top:4px; font-size:120%">'''Фонд Викимедийы æндæр проекттæ'''</div>
+<div style="margin:1em; padding-right:6px; padding-top:12px;overflow:auto"><center>{{Викимеди, ома æфсымæрон проекттæ}}</center>
+</div></div></div>
+|}{{noexternallanglinks}}
+__NOTOC__ __NOEDITSECTION__
