@@ -1,29 +1,27 @@
-<!-- 內容開始 -->
-<div id="mp-2012-body">
-<!-- ================左欄開始================ -->
-<div id="mp-2012-column-left"><div>
-<!-- ====== 典范条目開始 ======= -->
-<div id="mp-2012-column-feature-block" class="mp-2012-column-left-block">
-<h2>{{#ifeq:{{FeaturedContentType}}|1|特色列表|د نن ورځې غوره ليکنه}}</h2>
-{{Feature|class=mp-2012-text|footer=
-<div id="column-feature-more">
-* <span class="column-feature-more-header">[[Wikipedia:典範條目|其他典範條目]]</span>：{{#invoke:首页2|list|title=Wikipedia:典範條目/列表|pattern=%[%[(.-)%]%]}}
-* <span class="column-feature-more-header">[[Wikipedia:特色列表|其他特色列表]]</span>：{{#invoke:首页2|list|title=Wikipedia:特色列表/列表|pattern=%[%[:(.-)%]%]}}
+  {{لومړی مخ/سر لیک}}
+  {{لومړی مخ پيغام}}
 </div>
-<div class="mp-2012-block-nav-footer hlist">
-* [[Wikipedia:典范条目|典范条目]]（[[Wikipedia:典范条目候选|候选]]）
-* [[Wikipedia:特色列表|特色列表]]（[[Wikipedia:特色列表候选|候选]]）
-* [[Wikipedia:典范条目/存档|存档]]
+{{غوره لیکنه لمړي مخ}}</div>
+  </div>
+  </div> 
+{{ ايا پدې پوهېدئ لمړی مخ}}
+  </div>
+{{د نن ورځې وراشه لمړی مخ}}
+{{  ویکیپېډیا څه ده لمړي مخ}}
+  </div>
+{{لومړی مخ/ښه راغلئ۲}}
 </div>
-|{{{timecorrection|}}}}}
-</div>
-<!-- =====你知道吗開始==== -->
-<div id="mp-2012-column-dyk-block" class="mp-2012-column-left-block">
-<h2>آیا تاسو خبر یاست؟</h2>
-{{Dyk|class=mp-2012-text|footer=<div class="mp-2012-block-nav-footer hlist">
-* [[Wikipedia:新条目推荐/候选|候选]]
-* [[Wikipedia:新条目推荐|存档]]
-* [[Special:Newpages|更多新条目]]
-</div>
-|allimages={{{dyk-allimages|no}}} }}
-</div>
+    {{لومړی مخ اوسنۍ پېښې}}
+    </div>
+  </div>
+    </div>
+{{لومړی مخ غوره انځور}}
+<noinclude>
+<div id="mp-2012">
+</noinclude><div id="mp-2012-banner" class="nomobile">
+{{لومړی مخ/نورې پروژې}}
+{{لومړی مخ نور معلومات}}
+{{لومړی مخ ژبي}}
+
+  </div>
+</div> __NOTOC__ __NOEDITSECTION__
