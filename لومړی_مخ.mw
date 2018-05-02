@@ -4,8 +4,11 @@
 </div>
 <div id="mp-right" class="content" style="width: 57%; float: right; padding-top: 1px;">
   <!-- نوشتار پیشنهادی هفته -->
-  <div id="mf-fa">{{صفحهٔ اصلی/عنوان|title = مقالهٔ برگزیده|image = Symbol_star_gold.svg|ویرایش = {{مدیاویکی:ffeed-featured-page}} }}
-    <div>{{ {{مدیاویکی:ffeed-featured-page}} }}
+  <div id="mf-fa">{{صفحهٔ اصلی/عنوان|title = مقالهٔ برگزیده|image = Symbol_star_gold.svg|edit= {{ميډياويکي:Ffeed-featured-page
+}} }}
+    <div>{{ {{ميډياويکي:Ffeed-featured-page
+Ffeed-featured-page
+}} }}
       <div style="text-align: end"><small>[[پرونده:Symbol star gold.svg|15px|alt=|پیوند=]]&nbsp;'''[[ویکی‌پدیا:مقاله‌های برگزیده|مقاله‌های برگزیده]]''' &ndash; '''[[ویکی‌پدیا:مقاله پیشنهادی هفته|مقالهٔ پیشنهادی هفته]]'''</small></div>
     </div>
   </div>
