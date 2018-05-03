@@ -66,8 +66,8 @@ break=no
 <div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSAktuell.svg|35px|middle|link=]]</div>[[위키백과:새로 들어온 소식|새로 들어온 소식]]</div><div id="mp-itn">{{새로 들어온 소식}}</div></div>
 <!-- 오늘의 그림 -->
 <div id="mp_pictureOfTheDay" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSBild.svg|35px|middle|링크=]]</div>[[위키백과:오늘의 그림|오늘의 그림]]</div>
-<div class="center" style="overflow: hidden;">[[파일:{{위키백과:오늘의 그림/{{#timel:Y년 F}}/그림|d{{#timel:j}}}}|255x255px]]<br />
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSBild.svg|35px|middle|링크=]]</div>[[위키백과:오늘의 그림|오늘의 그림]]</div>
+<div class="center" style="overflow: hidden;">[[File:{{위키백과:오늘의 그림/{{#timel:Y년 F}}/그림|d{{#timel:j}}}}|255x255px]]<br />
 {{#if: {{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/영어|d{{#timel:j}}}}}}</div>
 <div style="text-align:right;">'''[[:commons:Commons:알찬 그림|더 보기...]]'''</div></div>
 <!-- /본문 오른쪽 -->
@@ -77,11 +77,11 @@ break=no
 <div id="mp_footer" style="clear: both; height: 100%; overflow: auto; font-size: small;">
 <!-- 자매프로젝트 -->
 <div id="mp_sisterProjects" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:Wikimedia-logo-circle.svg|35px|middle|링크=]]</div>[[위키백과:자매 프로젝트|자매 프로젝트]]</div>
+<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Wikimedia-logo-circle.svg|35px|middle|링크=]]</div>[[위키백과:자매 프로젝트|자매 프로젝트]]</div>
 <div style="font-size: larger;">{{자매프로젝트}}</div></div>
 <!-- 다른 언어 -->
 <div id="mp_otherLanguages" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSEarth.svg|35px|middle|링크=]]</div>다른 언어로 된 위키백과</div>
+<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSEarth.svg|35px|middle|링크=]]</div>다른 언어로 된 위키백과</div>
 <div style="font-size: larger;">{{다른 언어}}</div>
 </div>
 <div id="mp_bottom" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
