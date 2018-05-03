@@ -5,7 +5,7 @@
 <!-- Willkommen -->
 <div id="hauptseite-willkommen" class="hauptseite-oben">
 <div class="mf-mobile-only" id="mf-mainpage">
-== <div class="mf-mobile-only" id="mf-mainpage">Willkommen bei Wikipedia ==
+== <div class="mf-mobile-only" id="mf-mainpage"><div class="mf-mobile-only" id="mf-mainpage">Willkommen bei Wikipedia ==
 <div class="inhalt" style="text-align:center;">
 [[Wikipedia:Über Wikipedia|Wikipedia]] ist ein Projekt zum Aufbau einer [[Enzyklopädie]] aus [[Freie Inhalte|freien Inhalten]], zu denen [[Wikipedia:Starthilfe|du sehr gern beitragen kannst]]. Seit Mai 2001 sind [[Special:Statistics|{{NUMBEROFARTICLES}}]] &nbsp;Artikel in deutscher Sprache entstanden.
 
