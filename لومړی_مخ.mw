@@ -7,7 +7,7 @@
 <div class="mf-mobile-only" id="mf-mainpage">
 == Willkommen bei Wikipedia ==
 <div class="inhalt" style="text-align:center;">
-[[Wikipedia:Über Wikipedia|Wikipedia]] ist ein Projekt zum Aufbau einer [[Enzyklopädie]] aus [[Freie Inhalte|freien Inhalten]], zu denen [[Wikipedia:Starthilfe|du sehr gern beitragen kannst]]. Seit Mai 2001 sind [[Spezial:Statistik|{{FormatZahlLokal|{{ARTIKELANZAHL:R}}}}]]&nbsp;Artikel in deutscher Sprache entstanden.
+[[Wikipedia:Über Wikipedia|Wikipedia]] ist ein Projekt zum Aufbau einer [[Enzyklopädie]] aus [[Freie Inhalte|freien Inhalten]], zu denen [[Wikipedia:Starthilfe|du sehr gern beitragen kannst]]. Seit Mai 2001 sind [[Special:Statistics|{{NUMBEROFARTICLES}}]] &nbsp;Artikel in deutscher Sprache entstanden.
 
 <div class="portale" style="text-align:center;">
 <span style="white-space:nowrap;">[[Datei:P countries-lightblue.png|30px|link=Portal:Geographie|Portal Geographie|alt=]]&nbsp;[[Portal:Geographie|Geographie]]</span> &nbsp;&nbsp;
