@@ -58,7 +58,9 @@
 <div id="hauptseite-nachrichten" class="hauptseite-rechts">
 <div class="mf-mobile-only" id="mf-mainpage">
 == In den Nachrichten ==
+<div class="mf-mobile-only" id="mf-mainpage">
 <div class="inhalt" id="mf-itn" title="In den Nachrichten">
+<div class="mf-mobile-only" id="mf-mainpage">
 {{/Aktuelles}}
 <div class="mehr">[[{{LOCALMONTHNAME}} {{LOCALYEAR}}|Weitere aktuelle Ereignisse]]&nbsp;&middot;&nbsp;[[n:Hauptseite|Wikinews]]</div>
 </div>
