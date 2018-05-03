@@ -1,91 +1,128 @@
-<!-- 머릿글 -->
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;">
-{| width="100%" 
-| <div style="float: right; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[Image:Wikipedia-logo-v2-200px-transparent.png|140px|link=]]</div>
-<div style="float: left; margin-left:115px"><div style="font-size:1.4em; font-weight: bold">한국어 위키백과에 오신 것을 [[위키백과:환영합니다|환영합니다!]]</div>위키백과는 전 세계 여러 언어로 만들어 나가는 자유 백과사전으로, 누구나 참여하실 수 있습니다.<br/>현재 [[한국어 위키백과]]에는 문서 [[특수기능:통계|'''{{NUMBEROFARTICLES}}''']]개가 실려 있습니다.</div>{{-}}
-|
-* {{Nobr|[[포털:인문학|인문학]]}}
-* {{Nobr|[[포털:미술|미술]]}}
-* {{Nobr|[[포털:과학|과학]]}}
-|
-* {{Nobr|[[포털:사회과학|사회과학]]}}
-* {{Nobr|[[포털:기술|기술]]}}
-* {{Nobr|'''[[포털:목차/포털|모든 포털]]'''}}
+{{Úvod (Hlavná stránka)}}
+<!---------- ODKAZY ---------->
+{| style="width:100%; background-color: transparent; margin-top:-.75em; margin-bottom:-.75em;"
+|style="font-size:95%; text-align:left; white-space: nowrap;color:#333"|[[Wikipédia:O Wikipédii|O Wikipédii]]&nbsp;<span style="color:#333;">'''•'''</span> [[Wikipédia:Príručka|Príručka]]&nbsp;<span style="color:#333;">'''•'''</span> [[Pomoc:Obsah|Pomoc]] 
+|style="font-size:95%; padding-top:12px; padding-bottom:10px; margin:0px; text-align:right; white-space:nowrap; color:#333"| [[Wikipédia:Zoznam najlepších článkov|Najlepšie články]]&nbsp;<span style="color:#333;">'''•'''</span> [[:Kategória:Wikiportály|Portály]]&nbsp;<span style="color:#333;">'''•'''</span> [[:Kategória:Základné kategórie|Kategórie]]&nbsp;<span style="color:#333;">'''•'''</span> [[Wikipédia:Rýchly index|A{{--}}Z index]]
 |}
-</div><!-- /머릿글 -->
-<!-- 찾기 --><div id="mp_search" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; background-color: #f9fcff; vertical-align:top; padding:0 0.5em 0 0.5em; overflow: auto; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-{| width="100%"
-|<div style="float: left; overflow: hidden;">
-<inputbox>
-type=search
-width=25
-buttonlabel=이동
-searchbuttonlabel=본문 검색
-break=no
-</inputbox></div>
-|<!-- 링크 모음 -->
-<div class="plainlinks" style="text-align: right; color: #71c9f0">
-[[위키백과:정책과 지침|정책과 지침]] '''/'''
-[[위키백과:사용자 모임|사용자 모임]] '''/'''
-[[위키백과:도움말|도움말]] '''/'''
-[[위키백과:방명록|방명록]] '''/'''
-[http://donate.wikimedia.org/?uselang=ko 기부 안내] '''/'''
-[http://ko.m.wikipedia.org/ 모바일판 대문]
-</div><!-- /링크 모음 -->
+
+<!---------- ĽAVÉ OKNO ---------->
+<!---------- DENNÉ UDALOSTI ---------->
+{| id="mp-upper" style="margin:0; background:none;"
+| class="MainPageBG" style="width:70%; background:transparent; vertical-align:top; color:#000;" |
+{| id="mp-left" cellpadding="0" cellspacing="0" style="width:100%; vertical-align:top; background:transparent;"
+|<div style="border:1px solid #c2dfff; padding:1px; margin-bottom:1px; background-color: #f5faff;">
+<div style="position:relative; margin-top:-5px;">
+[[Súbor:Bluebg.png|link=]]
+<div style="position:absolute; left:5px; top:4px;">[[Súbor:Datum{{CURRENTDAY}}.svg|38px|link=]]</div>
+<div style="position:absolute; left:50px; top:4px; font-size:145%; color: #0247FE">'''[[{{CURRENTDAY}}. {{CURRENTMONTHNAME}}]]'''</font></div></div>
+<div clear="all" style="margin:1em; padding-right:6px; padding-top:5px;overflow:auto;">{{Denné udalosti/{{CURRENTMONTH}}_{{CURRENTDAY}}}}</div>
+{{Pätička denných udalostí}}</div>
+|-
+| height="5px" |
+|-
+<!---------- ODPORÚČANÝ ČLÁNOK ---------->
+|<div style="border:1px solid #c2dfff; padding:1px; margin-bottom:1px; background-color: #f5faff;">
+<div style="text-align:left; position:relative; margin-top:-5px;">
+[[Súbor:Bluebg.png|link=]]
+<div style="position:absolute; left:5px; top:4px;">[[súbor:HSutvald2.svg|38px|link=]]</div>
+<div style="position:absolute; left:50px; top:4px; font-size:145%; color: #0247FE">'''Odporúčaný článok...'''</font></div></div>
+<div clear="all" style="margin:0.5em; padding-right:6px; padding-top:5px;text-align: justify;overflow:auto;">{{Wikipédia/Odporúčaný článok/{{CURRENTMONTH}} {{CURRENTYEAR}}}}</div>
+{{Pätička odporúčaného článku}}</div>
+|-
+| height="5px" |
+|-
+<!---------- VEDELI STE? ---------->
+|<div style="border:1px solid #c2dfff; padding:1px; margin-bottom:1px; background-color: #f5faff;">
+<div style="text-align:left; position:relative; margin-top:-5px;">
+[[Súbor:Bluebg.png|link=]]
+<div style="position:absolute; left:5px; top:4px;">[[Súbor:HSVissteduatt.svg|38px|link=]]</div>
+<div style="position:absolute; left:50px; top:4px; font-size:145%; color: #0247FE">'''Vedeli ste, že ...'''</font></div></div>
+<div clear="all" style="margin:1em; padding-right:6px; padding-top:5px;overflow:auto;">{{Vedeli ste}}</div>
+{{Pätička zaujímavostí}}</div>
+|-
+| height="5px" |
+|-
+<!---------- OBRÁZOK TÝŽDŇA ---------->
+|<div style="border:1px solid #c2dfff; padding:3px; margin-bottom:3px; background-color: #f5faff;">
+<div style="text-align:left; position:relative; margin-top:-5px;">
+[[Súbor:Bluebg.png|link=]]
+<div style="position:absolute; left:5px; top:4px;">[[súbor:HSBild.svg|38px|link=]]</div>
+<div style="position:absolute; left:50px; top:4px; font-size:145%; color: #0247FE">'''Obrázok týždňa'''</font></div></div>
+<div clear="all" style="margin:1em; padding-top:12px; overflow:auto;">{{Obrázky týždňa/{{CURRENTWEEK}} {{CURRENTYEAR}}}}</div>{{Pätička obrázku týždňa}}</div></div>
+|-
 |}
-</div><!-- /찾기 -->
-<!-- 본문 -->
-<div id="mp_contents" class="mp_outerbox" style="clear: both; height: 100%; font-size: small;">
-<!-- 본문 왼쪽 -->
-<div id="mp_contentsL" style="float: left; width: 62.99%; height: 100%;">
-<!-- 알찬 글 -->
-<div id="mp_featuredArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2.svg|35px|middle|link=]]</div>[[위키백과:알찬 글|오늘의 알찬 글]]</div>
-<div id="mp-tfa">{{위키백과:오늘의 알찬 글}}</div></div>
-<!-- 좋은 글 -->
-<div id="mp_goodArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2-Grey.svg|35px|middle|link=]]</div>[[위키백과:좋은 글|오늘의 좋은 글]]</div>
-{{위키백과:오늘의 좋은 글}}</div>
-<!-- 오늘의 역사 -->
-<div id="mp_todayInHistory" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSDagensdatum.svg|35px|middle|link=]]</div>[[위키백과:오늘의 역사|오늘의 역사]]</div>{{위키백과:오늘의 역사/{{#timel:F j일}}}}</div>
-<!-- 알고 계십니까 -->
-<div id="mp_didYouKnow" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0.5em 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSVissteduatt.svg|35px|middle|link=]]</div>[[위키백과:알고 계십니까|알고 계십니까]]</div>{{알고 계십니까}}</div>
-</div><!-- /본문 왼쪽 -->
-<!-- 본문 오른쪽 -->
-<div id="mp_contentsR" style="width: 36.99%; height: 100%; float: right;">
-<!-- 위키백과 소개 -->
-<div id="mp_introduce" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:W-circle.svg|35px|middle|link=]]</div>[[위키백과:소개|위키백과 소개]]</div>{{위키백과 소개}}</div>
-<!-- 위키백과 참여하기 -->
-<div id="mp_participation" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Text-x-generic with pencil-2.svg|35px|middle|link=]]</div>위키백과 참여하기</div>{{위키백과 참여하기}}</div>
-<!-- 새로 들어온 소식 -->
-<div id="mp_CurrentEvents" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSAktuell.svg|35px|middle|link=]]</div>[[위키백과:새로 들어온 소식|새로 들어온 소식]]</div><div id="mp-itn">{{새로 들어온 소식}}</div></div>
-<!-- 오늘의 그림 -->
-<div id="mp_pictureOfTheDay" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSBild.svg|35px|middle|링크=]]</div>[[위키백과:오늘의 그림|오늘의 그림]]</div>
-<div class="center" style="overflow: hidden;">[[File:{{위키백과:오늘의 그림/{{#timel:Y년 F}}/그림|d{{#timel:j}}}}|255x255px]]<br />
-{{#if: {{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/영어|d{{#timel:j}}}}}}</div>
-<div style="text-align:right;">'''[[:commons:Commons:알찬 그림|더 보기...]]'''</div></div>
-<!-- /본문 오른쪽 -->
-</div></div>
-<!-- /본문 -->
-<!-- 바닥글 -->
-<div id="mp_footer" style="clear: both; height: 100%; overflow: auto; font-size: small;">
-<!-- 자매프로젝트 -->
-<div id="mp_sisterProjects" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Wikimedia-logo-circle.svg|35px|middle|링크=]]</div>[[위키백과:자매 프로젝트|자매 프로젝트]]</div>
-<div style="font-size: larger;">{{자매프로젝트}}</div></div>
-<!-- 다른 언어 -->
-<div id="mp_otherLanguages" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSEarth.svg|35px|middle|링크=]]</div>다른 언어로 된 위키백과</div>
-<div style="font-size: larger;">{{다른 언어}}</div>
+<!---------- PRAVÉ OKNO ---------->
+<!---------- PORTÁLY---------->
+| style="border:1px solid transparent;" |
+| class="MainPageBG" style="width:30%; border:1px solid #cef2e0; background:#f5faff; vertical-align:top; color:#000;"|
+{|id="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;"
+<div style="position:relative;">
+[[Súbor:Greenbg_right.png|280px|right|link=]]
+<div style="font-size:115%; position:absolute; right:45px; top:0px;">'''Portály'''</div>
+<div style="position:absolute; right:10px; top:2px;">[[Súbor:Portal.svg|26px|link=]]</div>
 </div>
-<div id="mp_bottom" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="text-align:center;"><div style="font-size: 1.2em">[[위키백과:면책 조항|위키백과는 내용의 확실성을 보증하지 않습니다.]]</div>위키백과 프로젝트의 호스팅을 제공하는 [[위키미디어 재단]]은 내용상 오류에 대해 어떠한 책임도 지지 않습니다.<br />개인 편집자가 자신의 기여에 책임을 져야 합니다.</div>
+|-
+| style="background:#f5fffa; font-size:90%;" |
+{| style="background:none;"
+|-
+| style="line-height:120%;" | {{Zoznam portálov (Hlavná stránka)}}
+|}
+|-
+<!---------- KATEGÓRIE ---------->
+| height="5px" |
+|-
+| <div style="position:relative;">
+[[Súbor:Greenbg_right.png|280px|right|link=]]
+<div style="font-size:115%; position:absolute; right:45px; top:0px;">'''Kategórie'''</div>
+<div style="position:absolute; right:10px; top:2px;">[[Súbor:Vista-xmag.png|30px|link=]]</div></div>
+|-
+| style="background:#f5fffa; font-size:90%;" |
+{| style="background:none;"
+|-
+|style="line-height:120%;" | {{Hlavná stránka/Kategórie}}
+|}
+|-
+<!---------- CUDZOJAZYČNÉ WIKIPÉDIE ---------->
+| height="5px" |
+|-
+| <div style="position:relative;">
+[[Súbor:Greenbg_right.png|280px|right|link=]]
+<div style="font-size:115%; position:absolute; right:45px; top:0px;">'''Cudzojazyčné wikipédie'''</div>
+<div style="position:absolute; right:10px; top:2px;">[[Súbor:Gnome-globe.svg|26px|link=]]</div></div>
+|-
+| style="background:#f5fffa; font-size:90%;" |
+{| style="background:none;"
+|-
+| {{Cudzojazyčné wikipédie2}}
+|}
+|-
+<!---------- O PROJEKTE ---------->
+| height="5px" |
+|-
+| <div style="position:relative;">
+[[Súbor:Greenbg_right.png|280px|right|link=]]
+<div style="font-size:115%; position:absolute; right:45px; top:0px;">'''O projekte'''</div>
+<div style="position:absolute; right:10px; top:2px;">[[Súbor:Wikipedia-logo.png|26px|link=]]</div></div>
+|-
+| style="background:#f5fffa; font-size:90%;" |
+{| style="background:none;"
+|-
+| {{Hlavná stránka/O projekte}}
+|}
+|}
+|}
+<!---------- SESTERSKÉ PROJEKTY ---------->
+{| id="mp-tfp" style="margin:4px 0 0 0; width:100%; background:none;"
+| class="MainPageBG" style="width:100%; border:1px solid #cef2e0; background:#f5faff; vertical-align:top; color:#000;"|
+{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff; color:#000; width:100%"
+|<div style="text-align:left; position:relative; margin-top:-5px;">
+[[Súbor:Bluebg.png|link=]]
+<div style="position:absolute; left:5px; top:4px;">[[Súbor:Wikimedia-logo.svg|27px|link=]]</div>
+<div style="position:absolute; left:50px; top:4px; font-size:120%;">'''Ďalšie projekty'''</div>
+<div clear="all" style="margin:1em; padding-right:6px; padding-top:12px;overflow:auto;">{{Sesterské projekty}}
+|}
+|}
+
+<div class="toccolours" style="font-size: smaller; text-align: center;">
+Ak pokladáte Wikipédiu alebo sesterské projekty za užitočné, prosím zvážte [https://wikimediafoundation.org/wiki/Zbieranie_pr%C3%ADspevkov poskytnutie daru]. Dary sú primárne určené na nákup vybavenia serverov.
 </div>
-</div><!-- /바닥글 -->
-{{noexternallanglinks}}
