@@ -19,10 +19,10 @@
 {| width="100%"
 |<div style="float: left; overflow: hidden;">
 <inputbox>
-type=search
+type=create
 width=25
-buttonlabel=이동
-searchbuttonlabel=본문 검색
+buttonlabel=سمول
+searchbuttonlabel=ليكنه جوړول
 break=no
 </inputbox></div>
 |<!-- 링크 모음 -->
