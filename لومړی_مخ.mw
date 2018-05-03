@@ -1,113 +1,91 @@
-<div id="hauptseite">
-{| style="border-collapse:collapse; width:100%;"
-| colspan="2" style="padding:0;" |
-
-<!-- Willkommen -->
-<div id="hauptseite-willkommen" class="hauptseite-oben">
-<div class="mf-mobile-only" id="mf-mainpage">
-== <div class="mf-mobile-only" id="mf-mainpage"><div class="mf-mobile-only" id="mf-mainpage">Willkommen bei Wikipedia ==
-<div class="inhalt" style="text-align:center;">
-[[Wikipedia:Über Wikipedia|Wikipedia]] ist ein Projekt zum Aufbau einer [[Enzyklopädie]] aus [[Freie Inhalte|freien Inhalten]], zu denen [[Wikipedia:Starthilfe|du sehr gern beitragen kannst]]. Seit Mai 2001 sind [[Special:Statistics|{{NUMBEROFARTICLES}}]] &nbsp;Artikel in deutscher Sprache entstanden.
-
-<div class="portale" style="text-align:center;">
-<span style="white-space:nowrap;">[[file:P countries-lightblue.png|30px|link=Portal:Geographie|Portal Geographie|alt=]]&nbsp;[[Portal:Geographie|Geographie]]</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[file:P history-lightblue.png|30px|link=Portal:Geschichte|Portal Geschichte|alt=]]&nbsp;[[Portal:Geschichte|Geschichte]]</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[file:P social sciences-lightblue.png|30px|link=Portal:Gesellschaft|Portal Gesellschaft|alt=]]&nbsp;[[Portal:Gesellschaft|Gesellschaft]]</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[file:P art-lightblue.png|30px|link=Portal:Kunst und Kultur|Portal Kunst und Kultur|alt=]]&nbsp;[[Portal:Kunst und Kultur|Kunst und Kultur]]</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[file:P religion-lightblue.png|30px|link=Portal:Religion|Portal Religion|alt=]]&nbsp;[[Portal:Religion|Religion]]</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[file:P sport-lightblue.png|30px|link=Portal:Sport|Portal Sport|alt=]]&nbsp;[[Portal:Sport|Sport]]</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[file:P transport-lightblue.png|30px|link=Portal:Technik|Portal Technik|alt=]]&nbsp;[[Portal:Technik|Technik]]</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[file:P ps-lightblue.png|30px|link=Portal:Wissenschaft|Portal Wissenschaft|alt=]] [[Portal:Wissenschaft|Wissenschaft]]</span>
-
-[[Portal:Wikipedia nach Themen|Artikel nach Themen]]&nbsp;· [[:Kategorie:!Hauptkategorie|Artikel nach Kategorien]]&nbsp;· [[Portal:Gesprochene Wikipedia|Gesprochene Wikipedia]]&nbsp;· [[Wikipedia:Hauptseite/Archiv|Archiv der Hauptseite]]
-</div>
-<div class="intern">
-'''[[Wikipedia:Starthilfe|Mitmachen]]'''&nbsp;·
-[[Wikipedia:Mentorenprogramm|Mentorenprogramm]]&nbsp;·
-[[Wikipedia:Kontakt|Kontakt]]&nbsp;·
-[[Wikipedia:Presse|Presse]]&nbsp;·
-[[Wikipedia:Statistik|Statistik]]&nbsp;·
-[[Wikipedia:Sprachen|Sprachversionen]]
-</div>
-</div>
-</div>
-
-|-
-| style="padding:0; vertical-align:top; width:50%;" |
-<!-- Wikipedia aktuell -->
-{{/Wikipedia aktuell}}
-<!-- Artikel des Tages -->
-<div id="hauptseite-artikel" class="hauptseite-links">
-== Artikel des Tages ==
-<div class="inhalt" id="mf-tfa" title="Artikel des Tages">{{/Artikel des Tages/{{LOCALDAYNAME}}}}
-{{/Artikel des Tages/Links}}
-</div>
-</div>
-
-<!-- Was geschah am? -->
-<div id="hauptseite-ereignisse" class="hauptseite-links">
-== Was geschah am {{LOCALDAY}}. {{LOCALMONTHNAME}}? ==
-<div class="inhalt" id="mf-wga" title="Was geschah am {{LOCALDAY}}. {{LOCALMONTHNAME}}?">
-{{/Jahrestage/{{LOCALMONTHNAME}}/{{LOCALDAY}}}}
-<div class="mehr">[[{{LOCALDAY}}. {{LOCALMONTHNAME}}|Weitere Ereignisse]]&nbsp;· <span class="icon">[[Datei:Feed-icon.svg|12px|alt=|link=//de.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom|RSS-Feed]]</span>&nbsp;<span class="plainlinks">[//de.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom RSS-Feed]</span></div>
-</div>
-</div>
-
-| style="padding:0; vertical-align:top; width:50%;" |
-
-<!-- In den Nachrichten -->
-<div id="hauptseite-nachrichten" class="hauptseite-rechts">
-<div class="mf-mobile-only" id="mf-mainpage">
-== In den Nachrichten ==
-<div class="mf-mobile-only" id="mf-mainpage">
-<div class="inhalt" id="mf-itn" title="In den Nachrichten">
-<div class="mf-mobile-only" id="mf-mainpage">
-{{/Aktuelles}}
-<div class="mehr">[[{{LOCALMONTHNAME}} {{LOCALYEAR}}|Weitere aktuelle Ereignisse]]&nbsp;&middot;&nbsp;[[n:Hauptseite|Wikinews]]</div>
-</div>
-</div>
-
-<!-- Kürzlich Verstorbene -->
-<div id="hauptseite-verstorbene" class="hauptseite-rechts">
-== Kürzlich Verstorbene ==
-<div class="inhalt" id="mf-nec" title="Kürzlich Verstorbene">
-{{Hauptseite Verstorbene}}
-<div class="mehr">[[Nekrolog {{LOCALYEAR}}|Weitere kürzlich Verstorbene]]</div>
-</div>
-</div>
-
-<!-- Schon gewusst? -->
-<div id="hauptseite-wissenswertes" class="hauptseite-rechts">
-== Schon gewusst? ==
-<div class="inhalt" id="mf-dyk" title="Schon gewusst?">
-{{/Schon gewusst/{{LOCALDAYNAME}}}}
-<div class="mehr">[[Spezial:Neue Seiten|Weitere neue Artikel]]&nbsp;&middot; [[Wikipedia:Hauptseite/Schon gewusst/Archiv|Frühere Schon-gewusst-Artikel]]</div>
-</div>
-</div>
-
-|-
-| colspan="2" style="padding:0;" |
-
-<!-- Schwesterprojekte -->
-<div id="hauptseite-schwesterprojekte" class="hauptseite-unten">
-== Schwesterprojekte ==
-<div class="inhalt" style="text-align:center;">
-<span class="plainlinks" style="white-space:nowrap;" title="m:Hauptseite">[[Datei:Wikimedia Community Logo.svg|20px|link={{fullurl:m:Hauptseite|uselang={{INT:Lang}}}}|Meta-Wiki|alt=]]&nbsp;[{{fullurl:m:Hauptseite|uselang={{INT:Lang}}}} Meta-Wiki]&nbsp;–&nbsp;Koordination</span> &nbsp;&nbsp;
-<span class="plainlinks" style="white-space:nowrap;" title="commons:Hauptseite">[[Datei:Commons-logo.svg|18px|link={{fullurl:commons:Hauptseite|uselang={{INT:Lang}}}}|Commons|alt=]]&nbsp;[{{fullurl:commons:Hauptseite|uselang={{INT:Lang}}}} Commons]&nbsp;–&nbsp;Medien</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[Datei:Wiktionary small.svg|20px|link=wikt:Wiktionary:Hauptseite|Wiktionary|alt=]]&nbsp;[[wikt:Wiktionary:Hauptseite|Wiktionary]]&nbsp;–&nbsp;Wörterbuch</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[Datei:Wikibooks-logo.svg|21px|link=b:Hauptseite|Wikibooks|alt=]]&nbsp;[[b:Hauptseite|Wikibooks]]&nbsp;–&nbsp;Lehrbücher</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[Datei:Wikiquote-logo.svg|20px|link=q:Hauptseite|Wikiquote|alt=]]&nbsp;[[q:Hauptseite|Wikiquote]]&nbsp;–&nbsp;Zitate</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[Datei:Wikiversity-logo.svg|20px|link=v:Hauptseite|Wikiversity|alt=]]&nbsp;[[v:Hauptseite|Wikiversity]]&nbsp;–&nbsp;Lernplattform</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[Datei:Wikisource-logo.svg|20px|link=s:Hauptseite|Wikisource|alt=]]&nbsp;[[s:Hauptseite|Wikisource]]&nbsp;–&nbsp;Quellen</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[Datei:Wikinews-logo.svg|26px|link=n:Hauptseite|Wikinews|alt=]]&nbsp;[[n:Hauptseite|Wikinews]]&nbsp;–&nbsp;Nachrichten</span>&nbsp;&nbsp;
-<span class="plainlinks" style="white-space:nowrap;" title="d:Wikidata:Hauptseite">[[Datei:Wikidata-logo.svg|20px|link={{fullurl:d:Wikidata:Hauptseite|uselang={{INT:Lang}}}}|Wikidata|alt=]]&nbsp;[{{fullurl:d:Wikidata:Main page|uselang={{INT:Lang}}}} Wikidata]&nbsp;–&nbsp;Wissensdatenbank</span> &nbsp;&nbsp;
-<span style="white-space:nowrap;">[[Datei:Wikivoyage-Logo-v3-icon.svg|20px|link=voy:Hauptseite|Wikivoyage|alt=]]&nbsp;[[voy:Hauptseite|Wikivoyage]]&nbsp;–&nbsp;Reiseführer</span> 
-</div>
-</div>
-
+<!-- 머릿글 -->
+<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;">
+{| width="100%" 
+| <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[Image:Wikipedia-logo-v2-200px-transparent.png|140px|link=]]</div>
+<div style="float: left; margin-left:115px"><div style="font-size:1.4em; font-weight: bold">한국어 위키백과에 오신 것을 [[위키백과:환영합니다|환영합니다!]]</div>위키백과는 전 세계 여러 언어로 만들어 나가는 자유 백과사전으로, 누구나 참여하실 수 있습니다.<br/>현재 [[한국어 위키백과]]에는 문서 [[특수기능:통계|'''{{NUMBEROFARTICLES}}''']]개가 실려 있습니다.</div>{{-}}
+|
+* {{Nobr|[[포털:인문학|인문학]]}}
+* {{Nobr|[[포털:미술|미술]]}}
+* {{Nobr|[[포털:과학|과학]]}}
+|
+* {{Nobr|[[포털:사회과학|사회과학]]}}
+* {{Nobr|[[포털:기술|기술]]}}
+* {{Nobr|'''[[포털:목차/포털|모든 포털]]'''}}
 |}
-
+</div><!-- /머릿글 -->
+<!-- 찾기 --><div id="mp_search" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; background-color: #f9fcff; vertical-align:top; padding:0 0.5em 0 0.5em; overflow: auto; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+{| width="100%"
+|<div style="float: left; overflow: hidden;">
+<inputbox>
+type=search
+width=25
+buttonlabel=이동
+searchbuttonlabel=본문 검색
+break=no
+</inputbox></div>
+|<!-- 링크 모음 -->
+<div class="plainlinks" style="text-align: right; color: #71c9f0">
+[[위키백과:정책과 지침|정책과 지침]] '''/'''
+[[위키백과:사용자 모임|사용자 모임]] '''/'''
+[[위키백과:도움말|도움말]] '''/'''
+[[위키백과:방명록|방명록]] '''/'''
+[http://donate.wikimedia.org/?uselang=ko 기부 안내] '''/'''
+[http://ko.m.wikipedia.org/ 모바일판 대문]
+</div><!-- /링크 모음 -->
+|}
+</div><!-- /찾기 -->
+<!-- 본문 -->
+<div id="mp_contents" class="mp_outerbox" style="clear: both; height: 100%; font-size: small;">
+<!-- 본문 왼쪽 -->
+<div id="mp_contentsL" style="float: left; width: 62.99%; height: 100%;">
+<!-- 알찬 글 -->
+<div id="mp_featuredArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2.svg|35px|middle|link=]]</div>[[위키백과:알찬 글|오늘의 알찬 글]]</div>
+<div id="mp-tfa">{{위키백과:오늘의 알찬 글}}</div></div>
+<!-- 좋은 글 -->
+<div id="mp_goodArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2-Grey.svg|35px|middle|link=]]</div>[[위키백과:좋은 글|오늘의 좋은 글]]</div>
+{{위키백과:오늘의 좋은 글}}</div>
+<!-- 오늘의 역사 -->
+<div id="mp_todayInHistory" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSDagensdatum.svg|35px|middle|link=]]</div>[[위키백과:오늘의 역사|오늘의 역사]]</div>{{위키백과:오늘의 역사/{{#timel:F j일}}}}</div>
+<!-- 알고 계십니까 -->
+<div id="mp_didYouKnow" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0.5em 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSVissteduatt.svg|35px|middle|link=]]</div>[[위키백과:알고 계십니까|알고 계십니까]]</div>{{알고 계십니까}}</div>
+</div><!-- /본문 왼쪽 -->
+<!-- 본문 오른쪽 -->
+<div id="mp_contentsR" style="width: 36.99%; height: 100%; float: right;">
+<!-- 위키백과 소개 -->
+<div id="mp_introduce" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:W-circle.svg|35px|middle|link=]]</div>[[위키백과:소개|위키백과 소개]]</div>{{위키백과 소개}}</div>
+<!-- 위키백과 참여하기 -->
+<div id="mp_participation" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Text-x-generic with pencil-2.svg|35px|middle|link=]]</div>위키백과 참여하기</div>{{위키백과 참여하기}}</div>
+<!-- 새로 들어온 소식 -->
+<div id="mp_CurrentEvents" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSAktuell.svg|35px|middle|link=]]</div>[[위키백과:새로 들어온 소식|새로 들어온 소식]]</div><div id="mp-itn">{{새로 들어온 소식}}</div></div>
+<!-- 오늘의 그림 -->
+<div id="mp_pictureOfTheDay" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSBild.svg|35px|middle|링크=]]</div>[[위키백과:오늘의 그림|오늘의 그림]]</div>
+<div class="center" style="overflow: hidden;">[[파일:{{위키백과:오늘의 그림/{{#timel:Y년 F}}/그림|d{{#timel:j}}}}|255x255px]]<br />
+{{#if: {{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/영어|d{{#timel:j}}}}}}</div>
+<div style="text-align:right;">'''[[:commons:Commons:알찬 그림|더 보기...]]'''</div></div>
+<!-- /본문 오른쪽 -->
+</div></div>
+<!-- /본문 -->
+<!-- 바닥글 -->
+<div id="mp_footer" style="clear: both; height: 100%; overflow: auto; font-size: small;">
+<!-- 자매프로젝트 -->
+<div id="mp_sisterProjects" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:Wikimedia-logo-circle.svg|35px|middle|링크=]]</div>[[위키백과:자매 프로젝트|자매 프로젝트]]</div>
+<div style="font-size: larger;">{{자매프로젝트}}</div></div>
+<!-- 다른 언어 -->
+<div id="mp_otherLanguages" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSEarth.svg|35px|middle|링크=]]</div>다른 언어로 된 위키백과</div>
+<div style="font-size: larger;">{{다른 언어}}</div>
 </div>
-[[Kategorie:Wikipedia:Hauptseite| ]] <!-- Wird über einen Eintrag in der common.css ausgeblendet -->
-<!-- Sprachen -->
-{{/Interwikis}} __NOTOC__ __NOEDITSECTION__
+<div id="mp_bottom" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="text-align:center;"><div style="font-size: 1.2em">[[위키백과:면책 조항|위키백과는 내용의 확실성을 보증하지 않습니다.]]</div>위키백과 프로젝트의 호스팅을 제공하는 [[위키미디어 재단]]은 내용상 오류에 대해 어떠한 책임도 지지 않습니다.<br />개인 편집자가 자신의 기여에 책임을 져야 합니다.</div>
+</div>
+</div><!-- /바닥글 -->
+{{대문 인터위키}}{{noexternallanglinks}}
