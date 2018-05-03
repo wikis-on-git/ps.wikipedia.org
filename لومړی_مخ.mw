@@ -56,6 +56,7 @@
 
 <!-- In den Nachrichten -->
 <div id="hauptseite-nachrichten" class="hauptseite-rechts">
+<div class="mf-mobile-only" id="mf-mainpage">
 == In den Nachrichten ==
 <div class="inhalt" id="mf-itn" title="In den Nachrichten">
 {{/Aktuelles}}
