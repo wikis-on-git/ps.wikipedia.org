@@ -21,7 +21,7 @@
 <inputbox>
 type=create
 width=25
-buttonlabel=سمول
+buttonlabel=ليكنه جوړول
 createbuttonlabel=ليكنه جوړول
 break=no
 </inputbox></div>
