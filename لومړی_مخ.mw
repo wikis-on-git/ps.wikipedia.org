@@ -1,27 +1,109 @@
-  {{لومړی مخ/سر لیک}}
-  {{لومړی مخ پيغام}}
-</div>
-{{غوره لیکنه لمړي مخ}}</div>
-  </div>
-  </div> 
-{{ ايا پدې پوهېدئ لمړی مخ}}
-  </div>
-{{د نن ورځې وراشه لمړی مخ}}
-{{  ویکیپېډیا څه ده لمړي مخ}}
-  </div>
-{{لومړی مخ/ښه راغلئ۲}}
-</div>
-    {{لومړی مخ اوسنۍ پېښې}}
-    </div>
-  </div>
-    </div>
-{{لومړی مخ غوره انځور}}
-<noinclude>
-<div id="mp-2012">
-</noinclude><div id="mp-2012-banner" class="nomobile">
-{{لومړی مخ/نورې پروژې}}
-{{لومړی مخ نور معلومات}}
-{{لومړی مخ ژبي}}
+<div id="hauptseite">
+{| style="border-collapse:collapse; width:100%;"
+| colspan="2" style="padding:0;" |
 
-  </div>
-</div> __NOTOC__ __NOEDITSECTION__
+<!-- Willkommen -->
+<div id="hauptseite-willkommen" class="hauptseite-oben">
+== Willkommen bei Wikipedia ==
+<div class="inhalt" style="text-align:center;">
+[[Wikipedia:Über Wikipedia|Wikipedia]] ist ein Projekt zum Aufbau einer [[Enzyklopädie]] aus [[Freie Inhalte|freien Inhalten]], zu denen [[Wikipedia:Starthilfe|du sehr gern beitragen kannst]]. Seit Mai 2001 sind [[Spezial:Statistik|{{FormatZahlLokal|{{ARTIKELANZAHL:R}}}}]]&nbsp;Artikel in deutscher Sprache entstanden.
+
+<div class="portale" style="text-align:center;">
+<span style="white-space:nowrap;">[[Datei:P countries-lightblue.png|30px|link=Portal:Geographie|Portal Geographie|alt=]]&nbsp;[[Portal:Geographie|Geographie]]</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:P history-lightblue.png|30px|link=Portal:Geschichte|Portal Geschichte|alt=]]&nbsp;[[Portal:Geschichte|Geschichte]]</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:P social sciences-lightblue.png|30px|link=Portal:Gesellschaft|Portal Gesellschaft|alt=]]&nbsp;[[Portal:Gesellschaft|Gesellschaft]]</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:P art-lightblue.png|30px|link=Portal:Kunst und Kultur|Portal Kunst und Kultur|alt=]]&nbsp;[[Portal:Kunst und Kultur|Kunst und Kultur]]</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:P religion-lightblue.png|30px|link=Portal:Religion|Portal Religion|alt=]]&nbsp;[[Portal:Religion|Religion]]</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:P sport-lightblue.png|30px|link=Portal:Sport|Portal Sport|alt=]]&nbsp;[[Portal:Sport|Sport]]</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:P transport-lightblue.png|30px|link=Portal:Technik|Portal Technik|alt=]]&nbsp;[[Portal:Technik|Technik]]</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:P ps-lightblue.png|30px|link=Portal:Wissenschaft|Portal Wissenschaft|alt=]] [[Portal:Wissenschaft|Wissenschaft]]</span>
+
+[[Portal:Wikipedia nach Themen|Artikel nach Themen]]&nbsp;· [[:Kategorie:!Hauptkategorie|Artikel nach Kategorien]]&nbsp;· [[Portal:Gesprochene Wikipedia|Gesprochene Wikipedia]]&nbsp;· [[Wikipedia:Hauptseite/Archiv|Archiv der Hauptseite]]
+</div>
+<div class="intern">
+'''[[Wikipedia:Starthilfe|Mitmachen]]'''&nbsp;·
+[[Wikipedia:Mentorenprogramm|Mentorenprogramm]]&nbsp;·
+[[Wikipedia:Kontakt|Kontakt]]&nbsp;·
+[[Wikipedia:Presse|Presse]]&nbsp;·
+[[Wikipedia:Statistik|Statistik]]&nbsp;·
+[[Wikipedia:Sprachen|Sprachversionen]]
+</div>
+</div>
+</div>
+
+|-
+| style="padding:0; vertical-align:top; width:50%;" |
+<!-- Wikipedia aktuell -->
+{{/Wikipedia aktuell}}
+<!-- Artikel des Tages -->
+<div id="hauptseite-artikel" class="hauptseite-links">
+== Artikel des Tages ==
+<div class="inhalt" id="mf-tfa" title="Artikel des Tages">{{/Artikel des Tages/{{LOCALDAYNAME}}}}
+{{/Artikel des Tages/Links}}
+</div>
+</div>
+
+<!-- Was geschah am? -->
+<div id="hauptseite-ereignisse" class="hauptseite-links">
+== Was geschah am {{LOCALDAY}}. {{LOCALMONTHNAME}}? ==
+<div class="inhalt" id="mf-wga" title="Was geschah am {{LOCALDAY}}. {{LOCALMONTHNAME}}?">
+{{/Jahrestage/{{LOCALMONTHNAME}}/{{LOCALDAY}}}}
+<div class="mehr">[[{{LOCALDAY}}. {{LOCALMONTHNAME}}|Weitere Ereignisse]]&nbsp;· <span class="icon">[[Datei:Feed-icon.svg|12px|alt=|link=//de.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom|RSS-Feed]]</span>&nbsp;<span class="plainlinks">[//de.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom RSS-Feed]</span></div>
+</div>
+</div>
+
+| style="padding:0; vertical-align:top; width:50%;" |
+
+<!-- In den Nachrichten -->
+<div id="hauptseite-nachrichten" class="hauptseite-rechts">
+== In den Nachrichten ==
+<div class="inhalt" id="mf-itn" title="In den Nachrichten">
+{{/Aktuelles}}
+<div class="mehr">[[{{LOCALMONTHNAME}} {{LOCALYEAR}}|Weitere aktuelle Ereignisse]]&nbsp;&middot;&nbsp;[[n:Hauptseite|Wikinews]]</div>
+</div>
+</div>
+
+<!-- Kürzlich Verstorbene -->
+<div id="hauptseite-verstorbene" class="hauptseite-rechts">
+== Kürzlich Verstorbene ==
+<div class="inhalt" id="mf-nec" title="Kürzlich Verstorbene">
+{{Hauptseite Verstorbene}}
+<div class="mehr">[[Nekrolog {{LOCALYEAR}}|Weitere kürzlich Verstorbene]]</div>
+</div>
+</div>
+
+<!-- Schon gewusst? -->
+<div id="hauptseite-wissenswertes" class="hauptseite-rechts">
+== Schon gewusst? ==
+<div class="inhalt" id="mf-dyk" title="Schon gewusst?">
+{{/Schon gewusst/{{LOCALDAYNAME}}}}
+<div class="mehr">[[Spezial:Neue Seiten|Weitere neue Artikel]]&nbsp;&middot; [[Wikipedia:Hauptseite/Schon gewusst/Archiv|Frühere Schon-gewusst-Artikel]]</div>
+</div>
+</div>
+
+|-
+| colspan="2" style="padding:0;" |
+
+<!-- Schwesterprojekte -->
+<div id="hauptseite-schwesterprojekte" class="hauptseite-unten">
+== Schwesterprojekte ==
+<div class="inhalt" style="text-align:center;">
+<span class="plainlinks" style="white-space:nowrap;" title="m:Hauptseite">[[Datei:Wikimedia Community Logo.svg|20px|link={{fullurl:m:Hauptseite|uselang={{INT:Lang}}}}|Meta-Wiki|alt=]]&nbsp;[{{fullurl:m:Hauptseite|uselang={{INT:Lang}}}} Meta-Wiki]&nbsp;–&nbsp;Koordination</span> &nbsp;&nbsp;
+<span class="plainlinks" style="white-space:nowrap;" title="commons:Hauptseite">[[Datei:Commons-logo.svg|18px|link={{fullurl:commons:Hauptseite|uselang={{INT:Lang}}}}|Commons|alt=]]&nbsp;[{{fullurl:commons:Hauptseite|uselang={{INT:Lang}}}} Commons]&nbsp;–&nbsp;Medien</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:Wiktionary small.svg|20px|link=wikt:Wiktionary:Hauptseite|Wiktionary|alt=]]&nbsp;[[wikt:Wiktionary:Hauptseite|Wiktionary]]&nbsp;–&nbsp;Wörterbuch</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:Wikibooks-logo.svg|21px|link=b:Hauptseite|Wikibooks|alt=]]&nbsp;[[b:Hauptseite|Wikibooks]]&nbsp;–&nbsp;Lehrbücher</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:Wikiquote-logo.svg|20px|link=q:Hauptseite|Wikiquote|alt=]]&nbsp;[[q:Hauptseite|Wikiquote]]&nbsp;–&nbsp;Zitate</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:Wikiversity-logo.svg|20px|link=v:Hauptseite|Wikiversity|alt=]]&nbsp;[[v:Hauptseite|Wikiversity]]&nbsp;–&nbsp;Lernplattform</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:Wikisource-logo.svg|20px|link=s:Hauptseite|Wikisource|alt=]]&nbsp;[[s:Hauptseite|Wikisource]]&nbsp;–&nbsp;Quellen</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:Wikinews-logo.svg|26px|link=n:Hauptseite|Wikinews|alt=]]&nbsp;[[n:Hauptseite|Wikinews]]&nbsp;–&nbsp;Nachrichten</span>&nbsp;&nbsp;
+<span class="plainlinks" style="white-space:nowrap;" title="d:Wikidata:Hauptseite">[[Datei:Wikidata-logo.svg|20px|link={{fullurl:d:Wikidata:Hauptseite|uselang={{INT:Lang}}}}|Wikidata|alt=]]&nbsp;[{{fullurl:d:Wikidata:Main page|uselang={{INT:Lang}}}} Wikidata]&nbsp;–&nbsp;Wissensdatenbank</span> &nbsp;&nbsp;
+<span style="white-space:nowrap;">[[Datei:Wikivoyage-Logo-v3-icon.svg|20px|link=voy:Hauptseite|Wikivoyage|alt=]]&nbsp;[[voy:Hauptseite|Wikivoyage]]&nbsp;–&nbsp;Reiseführer</span> 
+</div>
+</div>
+
+|}
+
+</div>
+[[Kategorie:Wikipedia:Hauptseite| ]] <!-- Wird über einen Eintrag in der common.css ausgeblendet -->
+<!-- Sprachen -->
+{{/Interwikis}} __NOTOC__ __NOEDITSECTION__
