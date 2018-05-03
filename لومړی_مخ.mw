@@ -1,91 +1,27 @@
-<!-- 머릿글 -->
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;">
-{| width="100%" 
-| <div style="float: right; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[Image:Wikipedia-logo-v2-200px-transparent.png|140px|link=]]</div>
-<div style="float: left; margin-left:115px"><div style="font-size:1.4em; font-weight: bold">한국어 위키백과에 오신 것을 [[위키백과:환영합니다|환영합니다!]]</div>위키백과는 전 세계 여러 언어로 만들어 나가는 자유 백과사전으로, 누구나 참여하실 수 있습니다.<br/>현재 [[한국어 위키백과]]에는 문서 [[특수기능:통계|'''{{NUMBEROFARTICLES}}''']]개가 실려 있습니다.</div>{{-}}
-|
-* {{Nobr|[[포털:인문학|인문학]]}}
-* {{Nobr|[[포털:미술|미술]]}}
-* {{Nobr|[[포털:과학|과학]]}}
-|
-* {{Nobr|[[포털:사회과학|사회과학]]}}
-* {{Nobr|[[포털:기술|기술]]}}
-* {{Nobr|'''[[포털:목차/포털|모든 포털]]'''}}
-|}
-</div><!-- /머릿글 -->
-<!-- 찾기 --><div id="mp_search" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; background-color: #f9fcff; vertical-align:top; padding:0 0.5em 0 0.5em; overflow: auto; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-{| width="100%"
-|<div style="float: left; overflow: hidden;">
-<inputbox>
-type=search
-width=25
-buttonlabel=이동
-searchbuttonlabel=본문 검색
-break=no
-</inputbox></div>
-|<!-- 링크 모음 -->
-<div class="plainlinks" style="text-align: right; color: #71c9f0">
-[[위키백과:정책과 지침|정책과 지침]] '''/'''
-[[위키백과:사용자 모임|사용자 모임]] '''/'''
-[[위키백과:도움말|도움말]] '''/'''
-[[위키백과:방명록|방명록]] '''/'''
-[http://donate.wikimedia.org/?uselang=ko 기부 안내] '''/'''
-[http://ko.m.wikipedia.org/ 모바일판 대문]
-</div><!-- /링크 모음 -->
-|}
-</div><!-- /찾기 -->
-<!-- 본문 -->
-<div id="mp_contents" class="mp_outerbox" style="clear: both; height: 100%; font-size: small;">
-<!-- 본문 왼쪽 -->
-<div id="mp_contentsL" style="float: left; width: 62.99%; height: 100%;">
-<!-- 알찬 글 -->
-<div id="mp_featuredArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2.svg|35px|middle|link=]]</div>[[위키백과:알찬 글|오늘의 알찬 글]]</div>
-<div id="mp-tfa">{{위키백과:오늘의 알찬 글}}</div></div>
-<!-- 좋은 글 -->
-<div id="mp_goodArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2-Grey.svg|35px|middle|link=]]</div>[[위키백과:좋은 글|오늘의 좋은 글]]</div>
-{{위키백과:오늘의 좋은 글}}</div>
-<!-- 오늘의 역사 -->
-<div id="mp_todayInHistory" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSDagensdatum.svg|35px|middle|link=]]</div>[[위키백과:오늘의 역사|오늘의 역사]]</div>{{위키백과:오늘의 역사/{{#timel:F j일}}}}</div>
-<!-- 알고 계십니까 -->
-<div id="mp_didYouKnow" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0.5em 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSVissteduatt.svg|35px|middle|link=]]</div>[[위키백과:알고 계십니까|알고 계십니까]]</div>{{알고 계십니까}}</div>
-</div><!-- /본문 왼쪽 -->
-<!-- 본문 오른쪽 -->
-<div id="mp_contentsR" style="width: 36.99%; height: 100%; float: right;">
-<!-- 위키백과 소개 -->
-<div id="mp_introduce" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:W-circle.svg|35px|middle|link=]]</div>[[위키백과:소개|위키백과 소개]]</div>{{위키백과 소개}}</div>
-<!-- 위키백과 참여하기 -->
-<div id="mp_participation" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Text-x-generic with pencil-2.svg|35px|middle|link=]]</div>위키백과 참여하기</div>{{위키백과 참여하기}}</div>
-<!-- 새로 들어온 소식 -->
-<div id="mp_CurrentEvents" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSAktuell.svg|35px|middle|link=]]</div>[[위키백과:새로 들어온 소식|새로 들어온 소식]]</div><div id="mp-itn">{{새로 들어온 소식}}</div></div>
-<!-- 오늘의 그림 -->
-<div id="mp_pictureOfTheDay" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSBild.svg|35px|middle|링크=]]</div>[[위키백과:오늘의 그림|오늘의 그림]]</div>
-<div class="center" style="overflow: hidden;">[[File:{{위키백과:오늘의 그림/{{#timel:Y년 F}}/그림|d{{#timel:j}}}}|255x255px]]<br />
-{{#if: {{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/영어|d{{#timel:j}}}}}}</div>
-<div style="text-align:right;">'''[[:commons:Commons:알찬 그림|더 보기...]]'''</div></div>
-<!-- /본문 오른쪽 -->
-</div></div>
-<!-- /본문 -->
-<!-- 바닥글 -->
-<div id="mp_footer" style="clear: both; height: 100%; overflow: auto; font-size: small;">
-<!-- 자매프로젝트 -->
-<div id="mp_sisterProjects" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Wikimedia-logo-circle.svg|35px|middle|링크=]]</div>[[위키백과:자매 프로젝트|자매 프로젝트]]</div>
-<div style="font-size: larger;">{{자매프로젝트}}</div></div>
-<!-- 다른 언어 -->
-<div id="mp_otherLanguages" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSEarth.svg|35px|middle|링크=]]</div>다른 언어로 된 위키백과</div>
-<div style="font-size: larger;">{{다른 언어}}</div>
+  {{لومړی مخ/سر لیک}}
+  {{لومړی مخ پيغام}}
 </div>
-<div id="mp_bottom" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="text-align:center;"><div style="font-size: 1.2em">[[위키백과:면책 조항|위키백과는 내용의 확실성을 보증하지 않습니다.]]</div>위키백과 프로젝트의 호스팅을 제공하는 [[위키미디어 재단]]은 내용상 오류에 대해 어떠한 책임도 지지 않습니다.<br />개인 편집자가 자신의 기여에 책임을 져야 합니다.</div>
+{{غوره لیکنه لمړي مخ}}</div>
+  </div>
+  </div> 
+{{ ايا پدې پوهېدئ لمړی مخ}}
+  </div>
+{{د نن ورځې وراشه لمړی مخ}}
+{{  ویکیپېډیا څه ده لمړي مخ}}
+  </div>
+{{لومړی مخ/ښه راغلئ۲}}
 </div>
-</div><!-- /바닥글 -->
-{{noexternallanglinks}}
+    {{لومړی مخ اوسنۍ پېښې}}
+    </div>
+  </div>
+    </div>
+{{لومړی مخ غوره انځور}}
+<noinclude>
+<div id="mp-2012">
+</noinclude><div id="mp-2012-banner" class="nomobile">
+{{لومړی مخ/نورې پروژې}}
+{{لومړی مخ نور معلومات}}
+{{لومړی مخ ژبي}}
+
+  </div>
+</div> __NOTOC__ __NOEDITSECTION__
