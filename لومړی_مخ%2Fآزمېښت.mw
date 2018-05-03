@@ -22,7 +22,7 @@
 type=create
 width=25
 buttonlabel=سمول
-searchbuttonlabel=ليكنه جوړول
+createbuttonlabel=ليكنه جوړول
 break=no
 </inputbox></div>
 |<!-- 링크 모음 -->
