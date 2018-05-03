@@ -56,7 +56,8 @@
 |timezone_DST =
 |elevation_footnotes = <!--for references: use<ref> </ref> tags-->
 |elevation_m =
-|elevation_ft =
+| coordinates              = {{coord|34|26|03|N|70|26|52|E|region:AF|display=inline,title}}
+
 <!-- Area/postal codes & others -------->
 |postal_code_type = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
 |postal_code =
