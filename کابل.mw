@@ -93,149 +93,27 @@
 په دې ترتیب کابل ښار په خپل زاړه تشکیل کې گڼې کوڅې، تاریخي ځایونه او باغونه درلودل، چې وخت پر وخت د ښار په تعمیراتي بدلونونو کې له منځه لاړل او خصوصاً [[چارچته]] او [[کوټوالۍ گنبځه]]؛ د [[میوند واټ]] او [[نادر پښتون واټ]] او [[پښتونستان واټ]] په جوړېدو له منځه ولاړې او اوس هم ځینو کوڅو او تاریخي ودانیو نښې شته، باید وساتلې شي او د [[تاریخي ابداتو]] د ادارې له خوا ترمیم  او تاریخي حیثیت یې خوندي شي .
 
 ==جعرافیه، موسم او چاپېریال==
-
-{{Clear}}
-{{Weather box
-|location = کابل
-|metric first = Y
-|single line = Y
-|Jan record high C = 18.8
-|Feb record high C = 18.4
-|Mar record high C = 26.7
-|Apr record high C = 28.7
-|May record high C = 33.5
-|Jun record high C = 36.8
-|Jul record high C = 37.7
-|Aug record high C = 37.3
-|Sep record high C = 35.1
-|Oct record high C = 31.6
-|Nov record high C = 24.4
-|Dec record high C = 20.4
-|year record high C = 37.7
-|Jan high C = 4.5
-|Feb high C = 5.5
-|Mar high C = 12.5
-|Apr high C = 19.2
-|May high C = 24.4
-|Jun high C = 30.2
-|Jul high C = 32.1
-|Aug high C = 32.0
-|Sep high C = 28.5
-|Oct high C = 22.4
-|Nov high C = 15.0
-|Dec high C = 8.3
-|year high C = 19.5
-|Jan mean C = -2.3
-|Feb mean C = -0.7
-|Mar mean C = 6.3
-|Apr mean C = 12.8
-|May mean C = 17.3
-|Jun mean C = 22.8
-|Jul mean C = 25.0
-|Aug mean C = 24.1
-|Sep mean C = 19.7
-|Oct mean C = 13.1
-|Nov mean C = 5.9
-|Dec mean C = 0.6
-|year mean C = 12.1
-|Jan low C = −7.1
-|Feb low C = −5.7
-|Mar low C = 0.7
-|Apr low C = 6.0
-|May low C = 8.8
-|Jun low C = 12.4
-|Jul low C = 15.3
-|Aug low C = 14.3
-|Sep low C = 9.4
-|Oct low C = 3.9
-|Nov low C = −1.2
-|Dec low C = −4.7
-|year low C = 4.3
-|Jan record low C = -25.5
-|Feb record low C = -24.8
-|Mar record low C = -12.6
-|Apr record low C = -2.1
-|May record low C = 0.4
-|Jun record low C = 3.1
-|Jul record low C = 7.5
-|Aug record low C = 6.0
-|Sep record low C = 1.0
-|Oct record low C = -3.0
-|Nov record low C = -9.4
-|Dec record low C = -18.9
-|year record low C = -25.5
-|Jan precipitation mm = 34.3
-|Feb precipitation mm = 60.1
-|Mar precipitation mm = 67.9
-|Apr precipitation mm = 71.9
-|May precipitation mm = 23.4
-|Jun precipitation mm = 1.0
-|Jul precipitation mm = 6.2
-|Aug precipitation mm = 1.6
-|Sep precipitation mm = 1.7
-|Oct precipitation mm = 3.7
-|Nov precipitation mm = 18.6
-|Dec precipitation mm = 21.6
-|year precipitation mm = 312.0
-|Jan rain days = 2
-|Feb rain days = 3
-|Mar rain days = 10
-|Apr rain days = 11
-|May rain days = 8
-|Jun rain days = 1
-|Jul rain days = 2
-|Aug rain days = 1
-|Sep rain days = 1
-|Oct rain days = 2
-|Nov rain days = 4
-|Dec rain days = 3
-|year rain days = 48
-|Jan snow days = 7
-|Feb snow days = 6
-|Mar snow days = 3
-|Apr snow days = 0
-|May snow days = 0
-|Jun snow days = 0
-|Jul snow days = 0
-|Aug snow days = 0
-|Sep snow days = 0
-|Oct snow days = 0
-|Nov snow days = 0
-|Dec snow days = 4
-|year snow days = 20
-|Jan humidity = 68
-|Feb humidity = 70
-|Mar humidity = 65
-|Apr humidity = 61
-|May humidity = 48
-|Jun humidity = 36
-|Jul humidity = 37
-|Aug humidity = 38
-|Sep humidity = 39
-|Oct humidity = 42
-|Nov humidity = 52
-|Dec humidity = 63
-|year humidity = 52
-|Jan sun = 177.2
-|Feb sun = 178.6
-|Mar sun = 204.5
-|Apr sun = 232.5
-|May sun = 310.3
-|Jun sun = 353.4
-|Jul sun = 356.8
-|Aug sun = 339.7
-|Sep sun = 303.9
-|Oct sun = 282.6
-|Nov sun = 253.2
-|Dec sun = 182.4
-|year sun = 3175.1
-|source 1 = [[NOAA]]<ref name = NOAA>{{cite web
-| url = ftp://dossier.ogp.noaa.gov/GCOS/WMO-Normals/RA-II/AH/40948.TXT
-| title = Kabul Climate Normals 1956-1983
-| accessdate = 2013-03-30
-| publisher = National Oceanic and Atmospheric Administration}}</ref>
-|date=August 2010
-}}
+{{Climate chart
+| کابل<ref name= WMO>{{چپ‌چین}}{{cite web
+  | url = http://worldweather.wmo.int/115/c00219.htm
+  | title = World Weather Information Service - Kabul
+  | accessdate = 2010-04-13
+  | publisher = [[سازمان ملل متحد|United Nations]]
+}}{{پایان چپ‌چین}}</ref>
+| -۷٫۱ | ۴٫۵ | ۳۴٫۳
+| -۵٫۷ | ۵٫۵ | ۶۰٫۱
+| .۷ | ۱۲٫۵ | ۶۷٫۹
+| ۶٫۰ | ۱۹٫۲ | ۷۱٫۹
+| ۸٫۸ | ۲۴٫۴ | ۲۳٫۴
+| ۱۲٫۴ | ۳۰٫۲ | ۱٫۰
+| ۱۵٫۳ | ۳۲٫۱ | ۶٫۲
+| ۱۴٫۳ | ۳۲٫۰ | ۱٫۶
+| ۹٫۴ | ۲۸٫۵ | ۱٫۷
+| ۳٫۹ | ۲۲٫۴ | ۳٫۷
+| -۱٫۲ | ۱۵٫۰ | ۱۸٫۶
+| -۴٫۷ | ۸٫۳ | ۲۱٫۶
+|float=left
+|clear=none}}
 
 == سرچینې ==
 <references/>‎
