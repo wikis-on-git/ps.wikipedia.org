@@ -42,8 +42,8 @@ break=no
 <div id="mp_contentsL" style="float: left; width: 62.99%; height: 100%;">
 <!-- 알찬 글 -->
 <div id="mp_featuredArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2.svg|35px|middle|link=]]</div>[[위키백과:알찬 글|오늘의 알찬 글]]</div>
-<div id="mp-tfa">{{위키백과:오늘의 알찬 글}}</div></div>
+<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2.svg|35px|middle|link=]]</div>[[ويکيپېډيا:غوره ليکنه|غوره ليکنه]]</div>
+<div id="mp-tfa">{{ويکيپېډيا:د مياشتي غوره ليکنه}}</div></div>
 <!-- 좋은 글 -->
 <div id="mp_goodArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
 <div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2-Grey.svg|35px|middle|link=]]</div>[[위키백과:좋은 글|오늘의 좋은 글]]</div>
