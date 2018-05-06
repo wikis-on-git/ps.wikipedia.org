@@ -55,11 +55,8 @@ break=no
 <div id="mp_didYouKnow" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0.5em 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
 <div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:HSVissteduatt.svg|35px|middle|link=]]</div>[[위키백과:알고 계십니까|알고 계십니까]]</div>{{알고 계십니까}}</div>
 </div><!-- /본문 왼쪽 -->
-<!-- 본문 오른쪽 -->
-<div id="mp_contentsR" style="width: 36.99%; height: 100%; float: right;">
 <!-- ويکپيډيا په اړه -->
-<div id="mp_introduce" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:W-circle.svg|35px|middle|link=]]</div>[[ويکيپېډيا|ويکيپېډيا پيژندنه]]</div>{{ويکپيډيا په اړه}}</div>
+{{ويکپيډيا په اړه}}
 <!-- 위키백과 참여하기 -->
 <div id="mp_participation" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
 <div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Text-x-generic with pencil-2.svg|35px|middle|link=]]</div>위키백과 참여하기</div>{{위키백과 참여하기}}</div>
