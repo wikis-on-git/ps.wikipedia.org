@@ -1,60 +1,154 @@
-<!-- 머릿글 -->
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;">
-{| width="100%" 
-| <div style="float: right; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[Image:Wikipedia-logo-v2-200px-transparent.png|140px|link=]]</div>
-<div style="float: left; margin-left:115px"><div style="font-size:1.4em; font-weight: bold">پښتو ويکيپيډيا ته ښه راغلاست!</div>ويکيپېډيا يو وړيا پوهنغونډ دئ چي هرڅوک پکښې د سمونې سره سره نورې  ليکنې هم جوړولای شي!<br/> په پښتو ژبه [[Special: Statistics|{{NUMBEROFARTICLES}}]] ليکنې شتون لري</div>{{-}}
-|
-* {{Nobr|[[تخنيک]]}}
-* {{Nobr|[[آرټ]]}}
-* {{Nobr|[[پوهنه]]}}
-|
+{{noedit0}} __NOTOC__ __NOEDITSECTION__
+<!-- global wrapper -->
 <div id="mp-2012">
-</noinclude><div id="mp-2012-banner" class="nomobile">
-* {{Nobr|[[ټولنيزې پوهنې]]}}
-* {{Nobr|[[بشري پوهنې]]}}
-* {{Nobr|'''[[د افغانستان ولايتونه]]'''}}
-|}
-</div><!-- /머릿글 -->
-<!-- 찾기 --><div id="mp_search" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; background-color: #f9fcff; vertical-align:top; padding:0 0.5em 0 0.5em; overflow: auto; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-{| width="100%"
-|<div style="float: left; overflow: hidden;">
-<inputbox>
-type=create
-width=25
-buttonlabel=ليكنه جوړول
-createbuttonlabel=ليكنه جوړول
-break=no
-</inputbox></div>
-|<!-- 링크 모음 -->
-<div class="plainlinks" style="text-align: right; color: #71c9f0">
-[[ويکيپېډيا:کړنلارې او لارښوونې|پالیسۍ او لارښوونې]] '''/'''
-[[ويکيپېډيا:د ټولنې تانبه|د خبرو آترو مخ]] '''/'''
-[[لارښود:محتویات|لارښود]] '''/'''
-[[ويکيپېډيا:د پښتو ويکيپېډيا تگلاره|تگلاره]] '''/'''
-[[ويکيپېډيا:په اړه|د ويکيپېډيا په اړه]] '''/'''
-[http://ps.m.wikipedia.org/ لومړی مخ]
-</div><!-- /링크 모음 -->
-|}
-</div><!-- /찾기 -->
-<!-- 본문 -->
-<div id="mp_contents" class="mp_outerbox" style="clear: both; height: 100%; font-size: small;">
-<!-- 본문 왼쪽 -->
-<div id="mp_contentsL" style="float: left; width: 62.99%; height: 100%;">
-<!-- 알찬 글 -->
-<div id="mp_featuredArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2.svg|35px|middle|link=]]</div>[[ويکيپېډيا:د مياشتي غوره ليکنه|غوره ليکنه]]</div>
-<div id="mp-tfa">{{ويکيپېډيا:د مياشتي غوره ليکنه}}</div></div>
-<!-- 좋은 글 -->
-
-<!-- ويکپيډيا په اړه -->
-{{ويکپيډيا په اړه}}
-<!-- 위키백과 참여하기 -->
-<div id="mp_participation" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Text-x-generic with pencil-2.svg|35px|middle|link=]]</div>په ويکيپېډيا کې ګډون کول</div>{{لومړی مخ/ښه راغلاست}}</div>
-
-<div id="mp-2012-banner" class="nomobile">
-<div id="mp_bottom" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="text-align:center;"><div style="font-size: 1.2em">ويکيپېډيا د اتباري مېنځپانګې ګرنټي نه ورکوي</div>د ويکيپېډيا بنسټ، چې د ويکيمېډيا پروژې لخوا يې کوربه توب کيږي، په ليکنو کې د کومې تيروتنې مسووليت د ويکيپېډيا نه دي. که هر څوک کومه غلطي ترسره کوي نو د ويکيپېډيا د پرمختګ لپاره خنډ جوړوي.</div>
+<!-- 頂欄開始 -->
+{{Wikipedia:首页/banner}}
+<!-- 內容開始 -->
+<div id="mp-2012-body">
+<!-- ================左欄開始================ -->
+<div id="mp-2012-column-left"><div>
+<!-- ====== 典范条目開始 ======= -->
+<div id="mp-2012-column-feature-block" class="mp-2012-column-left-block">
+<h2>{{#ifeq:{{FeaturedContentType}}|1|特色列表|典范条目}}</h2>
+{{Feature|class=mp-2012-text|footer=
+<div id="column-feature-more">
+* <span class="column-feature-more-header">[[Wikipedia:典範條目|其他典範條目]]</span>：{{#invoke:首页2|list|title=Wikipedia:典範條目/列表|pattern=%[%[(.-)%]%]}}
+* <span class="column-feature-more-header">[[Wikipedia:特色列表|其他特色列表]]</span>：{{#invoke:首页2|list|title=Wikipedia:特色列表/列表|pattern=%[%[:(.-)%]%]}}
 </div>
-</div><!-- /바닥글 -->
+<div class="mp-2012-block-nav-footer hlist">
+* [[Wikipedia:典范条目|典范条目]]（[[Wikipedia:典范条目候选|候选]]）
+* [[Wikipedia:特色列表|特色列表]]（[[Wikipedia:特色列表候选|候选]]）
+* [[Wikipedia:典范条目/存档|存档]]
+</div>
+|{{{timecorrection|}}}}}
+</div>
+<!-- =====你知道吗開始==== -->
+<div id="mp-2012-column-dyk-block" class="mp-2012-column-left-block">
+<h2>你知道吗？</h2>
+{{Dyk|class=mp-2012-text|footer=<div class="mp-2012-block-nav-footer hlist">
+* [[Wikipedia:新条目推荐/候选|候选]]
+* [[Wikipedia:新条目推荐|存档]]
+* [[Special:Newpages|更多新条目]]
+</div>
+|allimages={{{dyk-allimages|no}}} }}
+</div>
+<!-- =====优良条目開始===== -->
+<div id="mp-2012-column-good-block" class="mp-2012-column-left-block">
+<h2>优良条目</h2>
+{{Good|class=mp-2012-text|footer=<div class="mp-2012-block-nav-footer hlist">
+* [[Wikipedia:優良條目候選|候选]]
+* [[Wikipedia:優良條目/存檔|存档]]
+* [[Wikipedia:優良條目|所有優良條目]]
+</div>
+|{{{timecorrection|}}}}}
+</div>
+<!-- =======每日圖片開始====== -->
+<div id="mp-2012-column-featurepic-block" class="mp-2012-column-left-block nomobile">
+<h2>每日图片</h2>
+{{Featurepic|footer=<div class="mp-2012-block-nav-footer hlist">
+* [[Wikipedia:每日圖片|更多每日圖片]]
+</div>
+|{{{timecorrection|}}}}}
+</div>
+<!-- ================左欄关闭================-->
+</div></div>
+<!-- ================右欄開始================ -->
+<div id="mp-2012-column-right"><div>
+<!-- ===========右欄第一个框開始=========== -->
+<div id="mp-2012-column-right-block-a" class="mp-2012-column-right-block">
+<!-- ======新聞動態開始====== -->
+<div id="mp-2012-column-itn-block" class="mp-2012-column-right-subblock">
+<h2>新闻动态</h2>
+{{Itn|class=mp-2012-text|footer=<div class="mp-2012-block-nav-footer hlist">
+* [[Wikipedia:新闻动态候选|候選]]
+* [[n:Wikinews:首页|維基新聞]]
+* [[Portal:讣闻|讣闻]]
+* [[Portal:新聞動態|更多新闻]]
+</div>
+}}
+</div>
+<!-- =======历史上的今天開始======== -->
+<div id="mp-2012-column-otd-block" class="mp-2012-column-right-subblock">
+<h2>历史上的今天</h2>
+{{Otd|class=mp-2012-text|footer=<div class="mp-2012-block-nav-footer hlist">
+* [[Wikipedia:历史上的今天|存档]]
+* [[{{CURRENTMONTHNAME}}{{CURRENTDAY}}日|更多历史事件]]
+</div>
+|{{{timecorrection|}}}}}
+</div>
+<!-- ======動態热门开始===== -->
+<div id="mp-2012-column-uptrends-block" class="mp-2012-column-right-subblock nomobile">
+<h2>動態热门</h2>
+<div id="column-uptrends" class="hlist mp-2012-text">{{Uptrends}}</div>
+</div>
+<!-- ===========右欄第一个框关闭=========== -->
+</div>
+<!-- ===========右欄第二个框開始=========== -->
+<div id="mp-2012-column-right-block-b" class="mp-2012-column-right-block nomobile">
+<!-- =====參與維基百科開始======= -->
+<div id="mp-2012-column-participate-block" class="mp-2012-column-right-subblock nomobile">
+<h2>參與维基百科</h2>
+<div id="column-participate" class="mp-2012-text">
+[[File:Applications-office.svg|70px|right]]
+'''[[Wikipedia:关于|维基百科]]'''是一个[[维基百科:维基百科语言列表|多语言]]、[[Wikipedia:版权信息|内容自由]]、[[Wikipedia:誰在寫維基百科|任何人都能参与]]的协作计划，其目标是建立一个完整、准确且中立的百科全书。
+
+中文维基百科的成长依靠您的参与，無論是[[帮助:创建新页面|创建新条目]]、[[帮助:编辑页面|编辑现有条目]]，或者[[Wikipedia:图片教程|为条目增加插图]]，您都可以为维基百科作出贡献。
+<div id="column-participate-button">{{Clickable button 2|Wikipedia:參與貢獻|开始参与维基百科|class=mw-ui-progressive}}</div>
+</div>
+</div>
+<!-- ===========右欄第二个框关闭=========== -->
+</div>
+<!-- ===========右欄第三个框開始=========== -->
+<div id="mp-2012-column-right-block-c" class="mp-2012-column-right-block nomobile">
+<!-- ======隨機提示開始======= -->
+<div id="mp-2012-column-tips-block" class="mp-2012-column-right-subblock nomobile">
+<h2>维基百科提醒您</h2>
+<div id="column-tips" class="plainlinks mp-2012-text">
+[[File:Dialog-information_on.svg|70px|right]]
+{{#invoke:首页|tips_show}}
+</div>
+</div>
+<!-- ===========右欄第三个框关闭=========== -->
+</div>
+<!-- ================右欄关闭================-->
+</div></div>
+<!-- =======連結開始====== -->
+<div id="mp-2012-links" class="nomobile">
+<table><tr>
+<td>
+<h3>站点-{zh-cn:链接;zh-hant:連結}-</h3>
+*[[Wikipedia:WAP存取|-{zh-cn:移动访问;zh-tw:行動瀏覽;zh-hk:流動瀏覽}-]]
+*[[Wikipedia:新聞|站点新闻]]
+*[[Wikipedia:联络我们|联络我们]]
+*[[Wikipedia:联合供稿|{{lang|en|RSS}}]]
+*[[Wikipedia_talk:Guestbook for non-Chinese speakers|{{lang|en|Guestbook}}]]
+</td>
+<td>
+<h3>认识维基百科</h3>
+*[[Wikipedia:誰在寫維基百科|谁在撰写]]
+*[[Wikipedia:五大支柱|五大支柱]]
+*[[Wikipedia:常见问题解答|常见问题]]
+*[[Wikipedia:维基百科不是什么|常见-{zh-cn:误区; zh-hant:誤解;}-]]
+*[[Wikipedia:简要规则集|简要规则集]]
+</td>
+<td>
+<h3>常用工具</h3>
+*[[Wikipedia:備忘單|备忘单]]
+*[[Wikipedia:简明版权信息|版权守则]]
+*[[Wikipedia:格式手冊|格式手冊]]
+*[[Wikipedia:版面指南|版面指南]]
+*[[Wikipedia:术语表|术语表]]
+</td>
+</tr></table>
+</div>
+<!--  =======维基媒体基金会其他計劃========   -->
+<div id="mp-2012-sisters" class="nomobile">
+<div>[[File:Wikimedia-logo black.svg|45px|center|link=]]</div>
+{{Wikipediasister}}
+</div>
+<!-- 內容关闭 -->
+</div>
+<!-- global wrapper end -->
+</div>
+{{mainpage-iw}}
 {{noexternallanglinks}}
