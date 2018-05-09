@@ -1,11 +1,6 @@
 __NOTOC__ __NOEDITSECTION__
 <!-- 整体开始 -->
-<div id="mp-2012">
-<!-- 顶栏 -->
-    <div id="mp-2016-banner-intro">
-        <p>共总有<span class="number-of-articles">[[Special:Statistics|{{NUMBEROFARTICLES}}]]</span>篇文章</p>
-
-        <table><tr><!-- ideally this should be an ul with column -->
+<table><tr><!-- ideally this should be an ul with column -->
             <td>[[Portal:艺术|艺术]]</td>
             <td>[[Portal:风俗|民风]]</td>
             <td>[[Portal:地理|地理]]</td>
