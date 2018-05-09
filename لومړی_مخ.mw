@@ -2,12 +2,6 @@ __NOTOC__ __NOEDITSECTION__
 <!-- 整体开始 -->
 <div id="mp-2012">
 <!-- 顶栏 -->
-<div id="mp-2016-banner"><div>
-    <div id="mp-2016-banner-title">
-        <h1>吴语维基百科</h1>
-        <p>大家侪好编写个自由百科全书</p>
-    </div>
-
     <div id="mp-2016-banner-intro">
         <p>共总有<span class="number-of-articles">[[Special:Statistics|{{NUMBEROFARTICLES}}]]</span>篇文章</p>
 
