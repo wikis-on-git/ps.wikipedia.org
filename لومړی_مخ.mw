@@ -1,57 +1,63 @@
-{| id="mp-topbanner" style="width: 100%; margin-top: 2px; background: transparent;"
-| style="border: 1px solid #CCCCCC; background: #ffffff; vertical-align: top;" | {{Trang Chính/Đầu trang}}
-|}<!-------------------- Bên trái -------------------->
-{| id="mp-upper" style="margin-top: 2px; background: none"
-| id="mp-left" style="width: 50%; border: 1px solid #d4d4d4; background: #ffffff; vertical-align: top; color: #000000;" |
-{| style="padding: 2px; width: 100%; vertical-align: top; background: #ffffff"
-! id="mp-tfa-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Emblem-star.svg|40px|link=|alt=]]</div><div style="margin: 0; background: #cedff2; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #5897dd; padding: 0;"><div id="mp-tfa-h2" style="margin-left: 50px;">[[Wikipedia:Bài viết chọn lọc|<span style="color: #000000;">Bài viết chọn lọc</span>]]</div></div>
+__لافهرس__ __لاتحريرقسم__
+{| id="mp-columns" class="radius" style=" width:100%; background:none;border-spacing:5px;"
+|style="width:65%;border: 1px solid #c6c9ff; border-radius:5px; padding:.5em.5em 0em.5em; color: #000; background: #F8F8F8;" colspan=2|
+{{مقدمة الصفحة الرئيسية 2}}
 |-
-| id="mp-tfa" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Bài viết}}
+|style="vertical-align: text-top;width:65%;border:1px solid #c6c9ff;  border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=مقالة اليوم المختارة|صورة=HSutvald3.svg}}
+<div id="mf-fa" style="margin-bottom: auto;" title="مقالة مختارة">{{مقالة الصفحة الرئيسية المختارة}}</div>
+| rowspan=7  style="vertical-align: text-top;border:1px solid #c6c9ff; border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=في الأخبار|صورة=HSAktuell.svg}}
+<div id="mf-fb" style="margin-bottom: auto;" title="في الأخبار"><div>{{في الأخبار}}</div></div>
+{{ذيل أيسر|[[وفيات {{عام_حالي}}|وفيات حديثة]] '''·''' [[n:|ويكي الأخبار]]}}
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=في هذا اليوم|صورة=Datum{{LOCALDAY2}}.svg}}</div>
+<div id="mf-mw" style="margin-bottom: auto;" title="في هذا اليوم">{{في هذا اليوم}}</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني |عنوان=هل تعلم|صورة=HS RTL Exclamation.svg}}
+{{هل تعلم}}
+{{ذيل أيسر|[[ويكيبيديا:هل تعلم#اقتراح معلومة|رشح معلومة جديدة]] '''·''' [[ويكيبيديا:هل تعلم/أرشيف|الأرشيف]]}}
+</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=قيل|صورة=HSBook.svg}}
+{{كلمة الصفحة الرئيسية}}
+{{ذيل أيسر|[[q:|ويكي الاقتباس]] '''·''' [[ويكيبيديا:جدول كلمة اليوم/عرض الكلمات كلها|قائمة الأقوال]]}}
+</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=الصحيح في [[اللغة العربية|اللغة]]|صورة=HS Korganizer.svg}}
+{{ملاحظات في اللغة العربية}}
+{{ذيل أيسر|[[wikt:|ويكاموس]] '''·''' [[ويكيبيديا:جدول ملاحظة اليوم/عرض الملاحظات كلها|قائمة الملاحظات]]}}
+</div>
+<div style="border-top:0px solid #DDD; padding:5px; margin-top:5px; font-size: 95%;">
+{{عنوان بتدرج لوني|عنوان=هل ترغب في إنشاء مقالة؟|صورة=HSEditor.svg}}
+{{صندوق إنشاء مقالة}}
+{{ذيل أيسر|[[مساعدة:الفيديوهات الإرشادية|شاهد بعض الفيديوهات الإرشادية]]}}
+</div>
 |-
-! id="mp-tfp-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Records.svg|40px|link=|alt=]]</div><div style="margin: 0; background: #ccfcf9; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #4ccbc3; padding: 0;"><div id="mp-tfp-h2" style="margin-left: 50px;">[[Wikipedia:Hình ảnh chọn lọc|<span style="color: #000000;">Hình ảnh chọn lọc</span>]]</div></div>
+|style="vertical-align: text-top;width:65%;border:1px solid #c6c9ff;  border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=مقالة اليوم الجيدة|صورة=HSUtvaldgrey.png}}
+{{مقالة الصفحة الرئيسية الجيدة}}
 |-
-| id="mp-tfp" style="color: #000000; font-size: 100%; padding: 6px;" | <div id="mf-tfp" title="Hình ảnh chọn lọc">{{Trang Chính/Hình ảnh}}</div>
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=قائمة اليوم المختارة|صورة=HS Liste.svg}}
+{{قائمة اليوم المختارة}}
 |-
-! id="mp-lang-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Preferences-desktop-locale-2.svg|40px|link=|alt=]]</div><div style="margin: 0; background: #c7ec9f; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #32cd32; padding: 0;"><div id="mp-lang-h2" style="margin-left: 50px;">[[Wikipedia:Phiên bản ngôn ngữ|<span style="color: #000000;">Wikipedia ngôn ngữ khác</span>]]</div></div>
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=صورة اليوم المختارة|صورة=HSBild.svg}}
+{{صورة اليوم المختارة}}
+{{ذيل أيسر|[[ويكيبيديا:صور مختارة|معرض الصور المختارة]] '''·''' [[ويكيبيديا:ترشيحات الصور المختارة|رشح صورك لتكون مختارة]]}}
 |-
-| id="mp-lang" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Các ngôn ngữ|liên wiki=có}}
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=بوابة اليوم المختارة|صورة=HSHome.svg}}
+{{بوابة اليوم المختارة}}
+|-
+|style="vertical-align: text-top;border:1px solid #c6c9ff;   border-radius:5px; padding:.5em 1em 1em; color: #000; background: #FAFAFF;"|
+{{عنوان بتدرج لوني|عنوان=ما هي ويكيبيديا؟|صورة=HSWPedia.svg}}
+<div id="mf-mw" style="margin-bottom: auto;" title="ما هي ويكيبيديا؟">{{مجتمع ويكيبيديا 1}}</div>
+|-
 |}
-| id="mp-right" style="margin-top: 2px; background: none" | <!-------------------- Bên phải -------------------->
-|  style="width: 50%; border: 1px solid #d4d4d4; background: #FFFFFF; vertical-align: top;" |
-{| style="width: 100%; padding: 2px; vertical-align: top; background: #FFFFFF"
-! id="mp-dyk-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Help-browser-red.svg|38px|link=|alt=]]</div><div style="margin: 0; background: #f2c3c4; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #e05f62; padding: 0;"><div id="mp-dyk-h2" style="margin-left: 50px;">[[Wikipedia:Bạn có biết|<span style="color: #000000;">Bạn có biết…</span>]]</div></div>
-|-
-| id="mp-dyk" style="color: #000000; font-size: 100%; padding: 6px;" | <div id="mf-dyk" title="Bạn có biết">{{Trang Chính/Bạn có biết}}</div>
-|- 
-! id="mp-itn-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Globe-with-clock.svg|40px|link=|alt=]]</div><div style="margin: 0; background: #ffd6c0; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #e68d5d; padding: 0;"><div id="mp-itn-h2" style="margin-left: 50px;">[[Chủ đề:Thời sự|<span style="color: #000000;">Tin tức</span>]]</div></div>
-|-
-| id="mp-itn" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Tin tức}}
-|-
-! id="mp-otd-head" | <div style="position: absolute; margin-top: -8px; margin-left: 4px;">[[Tập tin:Office-calendar-modified.svg|45px|link=|alt=]]</div><div style="margin: 0; background: #f9f09f; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #daa520; padding: 0;"><div id="mp-otd-h2" style="margin-left: 50px;">[[Wikipedia:Ngày này năm xưa|<span style="color: #000000;">Ngày này năm xưa</span>]]</div></div>
-|-
-| id="mp-otd" style="color: #000000; font-size: 100%; padding: 6px;" | <div id="mf-otd" title="Ngày này năm xưa">{{Trang Chính/Ngày này năm xưa}}</div>
-|-
-! <div style="position: absolute; margin-top: -6px; margin-left: 4px;">[[Tập tin:Gnome-colors-applications-office.svg|44px|link=|alt=]]</div><div style="margin: 0; background: #dbca7e; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #d08d4d; padding: 0;"><div style="margin-left: 50px;">[[Wikipedia:Chủ đề|<span style="color: #000000;">Các lĩnh vực</span>]]</div></div>
-|-
-| style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Các lĩnh vực}}
-|}
-|}<!----------------- Dưới cùng -------------------->
-{| id="mp-lower" style="width: 100%; margin-top: 2px; background: none"
-| style="border: 1px solid #d4d4d4; background: #ffffff; vertical-align: middle; color: #000000;" |
-{| id="mp-bottom" style="width: 100%; padding: 2px; vertical-align: top; background: #ffffff"
-|-
-! id="mp-sister-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Wikimedia-logo.svg|37px|link=|alt=]]</div><div style="margin: 0; background: #ccc1f3; font-family: inherit; font-size: 120%; text-align: left;font-weight: bold; border: 1px solid #7b68ee; padding: 0;"><div id="mp-sister-h2" style="margin-left: 46px;">Dự án liên quan</div></div>
-|-
-| id="mp-sister" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Các dự án}}
-|}
-{| style="height: 50px; width: 100%; margin-top: 2px; background: none;"
-|-
-| style="width: 100%; border-top: 1px dotted #cccccc; background: #FFFFFF;" |
-{| style="width: 100%; vertical-align: middle; background: #FFFFFF; text-align: center; color: #000000;"
-|-
-| [[Tập tin:Mail-closed.svg|32px|link=]]&nbsp;&nbsp;[[Wikipedia:Liên lạc|Liên lạc với Wikipedia]]
-|}
-|}
-|}
-__NOTOC__ __NOEDITSECTION__
-<noinclude>{{Interwiki Trang Chính}}{{noexternallanglinks}}</noinclude>
+{|id="mp-sp" style="padding:2;border-spacing: 5;margin: 1px 2px; width:99.5%; vertical-align:top; background:#F8F8F8; border:1px solid #c6c9ff; border-radius:5px; color:#000;"
+|{{عنوان بتدرج لوني|عنوان=مشاريع شقيقة|صورة=Wikimedia-logo-circle.svg}}
+{{مشاريع شقيقة}}
+|}{{حاشية الصفحة الرئيسية}}
+{{noexternallanglinks}}
