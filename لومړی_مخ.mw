@@ -1,94 +1,27 @@
-__NOTOC__ 
-<!-- main page -->
-<!-- **** first panel -->
-{{Main Page panel|
-<!-- ******** banner subpanel -->
-{{Main Page subpanel|column=both|id=EnWpMpBook2|style=border: 3px double #cccccc; padding: 1em 0 .6em; background-color: #ffffff; background-repeat: no-repeat; background-position: 0% 20%; text-align: center; white-space: nowrap;|1=
- 
-<!-- ************ header -->
-<h1 style="font-size: 230%; font-family:'hoefler text','times new roman', serif;  font-variant: small-caps; border: none; margin: 0; padding: 5pt">
-Welcome to [[Wikipedia:About|Wikipedia]]
-</h1>
-<div style="margin-top: .3em; font-size: 90%;">
-the '''free [[encyclopedia]]''' that [[Wikipedia:Introduction|anyone can change]]
+  {{لومړی مخ/سر لیک}}
+  {{لومړی مخ پيغام}}
 </div>
-<!-- ************ /header -->
-
-<!-- ************ search -->
-<div style="margin-top: .5em; font-size: 90%;">
-<inputbox>
-type=search2
-buttonlabel=Search
-width=22
-id=MP
-</inputbox>
+{{غوره لیکنه لمړي مخ}}</div>
+  </div>
+  </div> 
+{{ ايا پدې پوهېدئ لمړی مخ}}
+  </div>
+{{د نن ورځې وراشه لمړی مخ}}
+{{  ویکیپېډیا څه ده لمړي مخ}}
+  </div>
+{{لومړی مخ/ښه راغلئ۲}}
 </div>
-<div style="margin: 0; font-size: 90%;">
-Search the [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles in the [[Simple English Wikipedia]]
-</div>
-<!-- ************ /search -->
+    {{لومړی مخ اوسنۍ پېښې}}
+    </div>
+  </div>
+    </div>
+{{لومړی مخ غوره انځور}}
+<noinclude>
+<div id="mp-2012">
+</noinclude><div id="mp-2012-banner" class="nomobile">
+{{لومړی مخ/نورې پروژې}}
+{{لومړی مخ نور معلومات}}
+{{لومړی مخ ژبي}}
 
-<!-- ************ links strapline -->
-<div>
-[[Wikipedia:How to write Simple English pages|How to write Simple English pages]]&nbsp;'''·''' [[Wikipedia:Useful|Useful pages]]&nbsp;'''·''' [[Wikipedia:Simple talk|Simple talk]]&nbsp;'''·''' [[Special:CategoryTree/Project|Categories]]&nbsp;'''·''' [[Help:Contents|Help]]<br />
-[[Wikipedia:Schools|Schools Gateway]] (for users who want to make changes from a school)
-<div>
-<!-- ************ /links strapline -->
-
-}}
-<!-- ******** /banner subpanel -->
-}}
-<!-- **** /first panel -->
-<!-- **** second panel -->
-{{Main Page panel|
-<!-- ******** About Wikipedia subpanel -->
-{{Main Page subpanel|column=left|title=About Wikipedia|1=
-<div id="mf-intro" title="Welcome!">{{:Main Page/Introduction}}</div>
-<div align=center style="padding: 1em;"><hr width=80%></div>
-When writing articles here:
-* '''Use [[Basic English]] vocabulary and shorter sentences.''' This allows people to understand normally complex terms or phrases.
-* '''Write good pages.''' The best encyclopedia pages have useful, well-written information.
-* '''Use the pages to learn and teach.''' These pages can help people learn English. You can also use them to [[Meta:How to start a new Wikipedia|make a new Wikipedia]] to help other people.
-* '''Simple does not mean short.''' Writing in Simple English means that simple words are used. It does not mean readers want basic information. Articles do not have to be short to be simple; expand articles, add details, but use basic [[vocabulary]].
-* '''Be bold!''' Your article does not have to be perfect, because other editors will fix it and make it better. And most importantly, do not be afraid to start and make articles better yourself.
-}}
-<!-- ******** /About Wikipedia subpanel -->
-<!-- ******** Selected article subpanel -->
-<!-- Articles rotated daily; counting from 0 to one less than the number of articles in Cat:Selected articles -->
-{{Main Page subpanel|column=right|title=Selected article|1=
-{{:Main Page/Article {{#expr:({{#time: z}} + 1) mod {{PAGESINCATEGORY:Selected articles}} }}}}
-}}
-<!-- ******** /Selected article subpanel -->
-|
-<!-- ******** Did you know subpanel -->
-{{Main Page subpanel|column=both|title=Did you know...|1=
-<div id="mf-dyk" title="Did you know...">{{Did you know}}</div>
-}}
-<!-- ******** /Did you know subpanel -->
-}}
-<!-- **** /second panel -->
-<!-- **** third panel -->
-{{Main Page panel|
-<!-- ******** Knowledge groups subpanel -->
-{{Main Page subpanel|column=both|title=Knowledge groups|1=
-{{:Main Page/Knowledge groups}}
-}}
-<!-- ******** /Knowledge groups subpanel -->
-|
-<!-- ******** Sister projects subpanel -->
-{{Main Page subpanel|column=both|title=Sister projects|1=
-{{:Main Page/Sister projects}}
-}}
-<!-- ******** /Sister projects subpanel -->
-|
-<!-- ******** Other languages subpanel -->
-{{Main Page subpanel|column=both|title=Other languages|1=
-{{:Main Page/Other languages}}
-}}
-<!-- ******** /Other languages subpanel -->
-}}
-<!-- **** /third panel -->
-{{MainPageInterwikis}}
-{{nobots}}
-[[Category:Main Page]]
-<!-- /main page -->
+  </div>
+</div> __NOTOC__ __NOEDITSECTION__
