@@ -1,32 +1,39 @@
-{| style="margin: 0 0 1em 1em; border-collapse:collapse; font-size: 90%;" border="1" cellpadding="2" align="left" cellspacing="0"
-|- style="background-color:lightblue;"
-! colspan="2" |ماشیندار موډل ٦١ <br />Samopal vzor 61<br />
-|-
+{{معلومات سلاح
+|name=اشکورپیون و.زت.۶۱{{سخ}}Škorpion vz. 61
+|image=[[دوتنه:Submachine gun vz61.jpg|300px]]
+|caption=د {{مخنوم}} لومړی ماډل
+|origin=[[چکسلواکی]]
+|type=[[سټانټ تپانچه]]
+<!-- Type selection -->
+|is_ranged=yes
+<!-- Service history -->
+|service=۱۹۶۱ تراوسه
+|used_by= 
+|wars= 
+<!-- Production history -->
+|designer=میرسلاو ریبار 
+|design_date=۱۹۵۹
+|manufacturer=[[جنگ‌افزار زاستاوا]]<ref>[http://www.janes.com/extracts/extract/jiw/jiw_0314.html ] {{wayback|url=http://www.janes.com/extracts/extract/jiw/jiw_0314.html |date=20081201105632}}</ref>
+|production_date=۱۹۶۱-۱۹۷۹
+|number=پیرامون ۲۰۰زره<ref name="Malvenuti"/>
+<!-- General specifications -->
+|weight={{convert|1.30|kg|lb|2|abbr=on}} (vz. 61){{سخ}}{{convert|1.28|kg|abbr=on}} (vz. 61 E){{سخ}}{{convert|1.44|kg|abbr=on}} (vz. 82, vz. 83)
+|length={{convert|517|mm|in|abbr=on}} stock extended / {{convert|270|mm|abbr=on|1}} stock folded
+|part_length={{convert|115|mm|abbr=on|1}} (vz. 61, vz. 61 E){{سخ}}{{convert|113|mm|abbr=on|1}} (vz. 82, vz. 83)
+|width={{convert|43|mm|abbr=on|1}} (vz. 61, vz. 61 E){{سخ}}{{convert|49|mm|abbr=on|1}} (vz. 82, vz. 83)
+|crew=
+<!-- Ranged weapon specifications --> 
+|cartridge=[[.32 ACP|.32 ACP (7.65×17mm Browning SR)]] (vz. 61, vz. 61 E){{سخ}}[[9×19mm Parabellum]] (vz. 68){{سخ}}[[9×18mm Makarov]] (vz. 65, vz. 82){{سخ}}[[.380 ACP|.380 ACP (9×17mm Short)]] (vz. 64, vz. 83)
+|action=[[Blowback (arms)|Blowback]], [[closed bolt]]
+|rate=850 rounds/min (vz. 61, vz. 61 E){{سخ}}900 rounds/min (vz. 82, vz. 83)
+|velocity={{convert|320|m/s|0|abbr=on}} (vz. 61, vz. 61 E, vz. 82){{سخ}}{{convert|292|m/s|abbr=on|1}} (vz. 83)
+|range=50–150 m<ref>{{cite web |url= http://www.military-today.com/firearms/vz_61_scorpion.htm|title= Military-Today - Sa vz.61 Scorpion Submachine Gun|accessdate=2012-02-27}}</ref> (vz. 61, .32 ACP)
+|max_range=
+|feed=[[خشاب]] ۱۰ یا شل مرمييز
+|sights=Adjustable front post, flip-up rear sight{{سخ}}{{convert|148|mm|abbr=on|1}} sight radius
+}}
+'''ماشیندار مادل ۶۱''' ( په [[چیکی ژبه|چیکی ژبې]] کې:''Samopal vzor 61'' )چی  د [[لړم]] ماشیندار په نوم یاد شوي دي یو مشهور چېکوسلواکی او [[چېک جمهوريت|چېکي]] ماشیندار دی چی د۱۹۶۱ کال څخه تر ۱۹۹۴ کال پورې په چېکړسلواکیا ([[چېک جمهوريت|چېک جمهوریت]]) کی د Uherský Brod په ښار کی او  په یوگوسلاویا کی د لایسنس په اساس جوړېده. تر اوسه پورې ۲۱۰،۰۰۰ ماشیندارونه جوړ شوی دی چی په ځانگړي ډول [[افریقا]] او [[آسیا]] ته صادر شوی دی.<ref>https://cs.wikipedia.org/wiki/Samopal_vzor_61</ref>
 
-|- id=infObrazek
-| style="text-align:center;" colspan="2"|[[File:Normal skorpion 01.jpg|200px]]
-|-
-! align="right" valign="top" |هېواد
-|[[File:Flag of the Czech Republic.svg|20px]] چکوسلواکیا
-|-
-! align="right" valign="top" |جوړونکی
-|Česká zbrojovka Uherský Brod
-|-
-! align="right" valign="top" |وزن
-|۱۲۸۰ گرامه
-|-
-! align="right" valign="top" |اوږدوالى
-|۲۶۹ م.م.
-|-
-! align="right" valign="top" |د برل اوږدوالی
-|۱۱۵ م.م.
-|-
-! align="right" valign="top" |کارتوس
-|  9x19 Parabellum /7,65&nbsp;mm Browning
-|-
-|}
-
-'''ماشیندار مادل ۶۱''' ( په [[چیکی ژبه|چیکی ژبې]] کې:''Samopal vzor 61'' )چی  د [[لړم]] ماشیندار په نوم یاد شوي دي یو مشهور چېکوسلواکی او [[چېک جمهوريت|چېکي]] ماشیندار دی چی د۱۹۶۱ کال څخه تر ۱۹۹۴ کال پورې په چېکړسلواکیا ([[چېک جمهوريت|چېک جمهوریت]]) کی د Uherský Brod په ښار کی او  په یوگوسلاویا کی د لایسنس په اساس جوړېده. تر اوسه پورې ۲۱۰،۰۰۰ ماشیندارونه جوړ شوی دی چی په ځانگړي ډول [[افریقا]] او [[آسیا]] ته صادر شوی دی.<ref>https://cs.wikipedia.org/wiki/Samopal_vzor_61</ref>  
 ==پېژندنه==
 ماشیندار مادل ۶۱  یوه خپل کاري (خود کاري)، په خپله چارجېدونکي لاسی وسله ده چی غیر قفل شوي گلنگدان او کت کېدونکی قنداغ لرِی او لویه یی شپږ درکونه لري.   دغه ماشیندار د گاز د فشار په مرسته چی باروت تر چاودنو وروسته رامنځ ته کېږی، ویشتل کېږی<ref>http://www.youtube.com/watch?v=-YZutf6heI4</ref>  دغه وسله یو یو گولۍ یا جرعه ویشتلای سی.
 
