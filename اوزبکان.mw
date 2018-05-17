@@ -1,58 +1,67 @@
 {{د توکميزې ډلې مالوماتبکس
-|group      = ازبکان<br/>''Oʻzbeklar''
-|image      = <div style= "white-space:nowrap;"><!--If you swap out an image, change the "x##px" entry for EACH image in the row so that the width of the row lines up with the others-->[[File:Shaybani.jpg|100px]]<br/>[[File:Husn Ban Ghazanfar in January 2010-cropped2.jpg|100px]]
-|caption= <small>[[محمد شايباني]]<br/>[[حسن بانو غضنفر]]
-|population = 28.3 ميليونه
-|region1    = {{flagcountry|ازبکستان}}
-|pop1       = 22.8 ميليونه
-|ref1       = <ref>Государственный комитет Республики Узбекистан по статистике : [http://www.stat.uz/upload/iblock/f0f/Uzb_ru.pdf Сведения о Республике Узбекистан]:...Узбекистан :граничит с пятью государствами: с Казахстаном, Туркменистаном, Таджикистаном, Кыргызстаном и
-Афганистаном на общем протяжении 6621 км;провозгласил свою государственную независимость 31 августа 1991 г.;в административно-территориальном отношении состоит из Республики Каракалпакстан, 12 областей и столичного города Ташкент;располагается на площади, равной 448,9 тыс. км2;более чем на 2/3 состоит из равнин и на 1/3 - из гор и предгорий ;на 01.01.2010г. составило более 28 миллионов человек ; имеет положительный прирост численности (1,7% в год);включает 48,5% сельских жителей и 51,5% горожан (к крупнейшим городам страны относятся Ташкент,Самарканд, Бухара, Наманган, Андижан, Фергана, Нукус, Коканд, Карши);полиэтнично (более 100 национальностей, имеющих равные гражданские права и возможности);на 81,7% состоит из нации, которая дала стране название. Узбекский народ, внесший достойный вклад в развитие цивилизации, издавна привержен родному очагу, принципам социальной справедливости ;Занимая 55-е место по территории и 39-е место по населению, Узбекистан находится ; по площади искусственно орошаемых земель - на 11 -м месте в мире;по экспорту хлопка-волокна - на втором, урана - третьем месте в мире; в числе мировых лидеров по обеспеченности запасами серебра, вольфрама и фосфоритов, калийной соли, редкоземельных металлов и других ценных минералов, в частности, по разведанным запасам золота на четвертом, урана - седьмом, молибдена - восьмом, по подтвержденным запасам меди - на 10-м, природного газа - 14-м месте в мире...</ref>
-|region3    = {{flagcountry|افغانستان}}
-|pop3       = 3.5 ميليونه
-|ref3       = <ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/af.html#People CIA World Factbook – Afghanistan]</ref>
-|region2    = {{flagcountry|تاجکستان}}
-|pop2       = 1.1 ميليونه
-|ref2       = <ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/ti.html CIA World Factbook – Tajikistan]</ref>
-|region4    = {{flagcountry|قرغزستان}}
-|pop4       = 760,000
-|ref4       = <ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/kg.html#People CIA World Factbook – Kyrgyzstan]</ref>
-|region5    = {{flagcountry|قزاقستان}}
-|pop5       = 470,000
-|ref5       = <ref>[http://www.stat.kz/news/Pages/pr_04_02_10.aspx Ethnic groups in Kazakhstan, official estimation 2010-01-01 based on National Census 2009]</ref>
-|region6    = {{flagcountry|تورکمنستان}}
-|pop6       = 250,000
-|ref6       = <ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/tx.html#People CIA World Factbook – Turkmenistan]</ref>
-|region7    = {{flagcountry|روسيه}}
-|pop7       = 122,916
-|ref7       = <ref>{{ru icon}} [http://www.perepis2002.ru/content.html?id=11&docid=10715289081463 Russia Census 2002]</ref>
-|region8    = {{flagcountry|پاکستان}}
-|pop8       = 70,000
-|ref8       = <ref>Rhoda Margesson (January 26, 2007). [http://www.fas.org/sgp/crs/row/RL33851.pdf "Afghan Refugees: Current Status and Future Prospects" p.7]. Report RL33851, [[Congressional Research Service]].</ref>
-|region9    = {{flagcountry|چين}}
-|pop9       = 14,800
-|ref9       = <ref>[http://www.paulnoll.com/China/Minorities/China-Nationalities.html Chinese National Minorities<!-- Bot generated title -->]</ref>
-|region10   = {{flagcountry|اوکراين}}
-|pop10      = 12,400
-|ref10      = <ref>[http://www.ukrcensus.gov.ua/eng/results/nationality_population/nationality_1/s5/?botton=cens_db&box=5.1W&k_t=00&p=100&rz=1_1&rz_b=2_1%20&n_page=6 State Statistics Committee of Ukraine: The distribution of the population by nationality and mother tongue]</ref>
-|region11   = {{flagcountry|آسټراليا}}
-|pop11      = 4,997
-|region12   = {{flagcountry|د امريکا متحده ايالات}}
-|pop12      = 4,930
-|region13   = {{flagcountry|مغولستان}}
-|pop13      = 260
-|ref13      = <ref>Census of Mongolia, slide# 23. http://www.toollogo2010.mn/doc/Main%20results_20110615_to%20EZBH_for%20print.pdf</ref>
-|langs  = [[ازبکي ژبه|ازبکي]], [[روسي ژبه|روسي]],
-|rels  = [[اسلام]] (اکثرا [[سني اسلام|سني]])
-|related    = [[ترکان]], [[تاجکان]], او نور [[ايرانيان]]
+| group = اوزبکان<br>''Oʻzbeklar''
+| image =
+| caption =
+| population = c. 30 million
+| region1    = {{flagcountry|Uzbekistan}}
+| pop1       = 23,929,309 (2013)
+| ref1       = <ref name=CIA-Uzbekistan>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/uz.html|title=Population: 28,661,637 (July 2013 est.) [Uzbeks = 80%]|publisher=[[The World Factbook]]|work=Central Intelligence Agency (CIA)|accessdate=10 June 2013}}</ref>
+| region2    = {{flagcountry|Afghanistan}}
+| pop2       = 2,799,726 (2013)
+| ref2       = <ref name=CIA-Afghanistan>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html?countryName=Afghanistan&countryCode=af&regionCode=sas&#af|title=Afghan Population: 31,108,077 (July 2013 est.) [Uzbeks = 9%]|publisher=The World Factbook|work=Central Intelligence Agency (CIA)|accessdate=10 June 2013}}</ref>
+| region3    = {{flagcountry|Tajikistan}}
+| pop3       = 1,210,236 (2013)
+| ref3       = <ref name=CIA-Tajikistan>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ti.html|title=Population: 7,910,041 (July 2013 est.) [Uzbeks = 15.3%]|publisher=The World Factbook|work=Central Intelligence Agency (CIA)|accessdate=10 June 2013}}</ref>
+| region4    = {{flagcountry|Kyrgyzstan}}
+| pop4       = 980,000 (2009)
+| ref4       = <ref>{{cite web|title=Kyrgyzstan|url=https://www.cia.gov/library/publications/the-world-factbook/geos/kg.html|website=CIA World Factbook|publisher=Central Intelligence Agency|accessdate=28 July 2017}}</ref>
+| region5    = {{flagcountry|Russia}}
+| pop5       = 499,862
+| ref5       = <ref name="Russia Census 2002">{{ru icon}} [http://www.perepis2010.ru/content.html?id=11&docid=10715289081463 Russia Census 2002]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| region6    = {{flagcountry|Kazakhstan}}
+| pop6       = 490,000
+| ref6       = <ref>[http://www.stat.kz/news/Pages/pr_04_02_10.aspx Ethnic groups in Kazakhstan, official estimation 2010-01-01 based on National Census 2009] {{webarchive|url=https://web.archive.org/web/20100208073821/http://www.stat.kz/news/Pages/pr_04_02_10.aspx |date=2010-02-08 }}</ref>
+| region7    = {{flagcountry|Saudi Arabia}}
+| pop7       = 300,000
+| ref7       = <ref name="Russia Census 2002"/>
+| region8    = {{flagcountry|Turkmenistan}}
+| pop8       = 260,000
+| ref8       = <ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/tx.html#People|title=The World Factbook|publisher=|accessdate=26 April 2016}}</ref>
+| region9   = {{flagcountry|Australia}}
+| pop9      = 80,000
+| ref9     =
+| region10    = {{flagcountry|Pakistan}}
+| pop10       = 70,133 (2005)
+| ref10       = <ref>Rhoda Margesson (January 26, 2007). [https://fas.org/sgp/crs/row/RL33851.pdf "Afghan Refugees: Current Status and Future Prospects" p.7]. Report RL33851, [[Congressional Research Service]].</ref>
+| region11   = {{flagcountry|United States}}
+| pop11      = 50,795 (2014)
+| ref11      =<ref name="USCB">{{cite web|title=PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES, Universe: Foreign-born population excluding population born at sea, 2014 American Community Survey 5-Year Estimates|url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_11_5YR_B05006&prodType=table|publisher=United States Census Bureau|accessdate=11 April 2014}}</ref>
+| region12   = {{flagcountry|Turkey}}
+| pop12      = 45,000
+| ref12      = <ref>[http://evrenpasakoyu.wordpress.com Evrenpaşa Köyü | Güney Türkistan'dan Anadoluya Urfa Ceylanpınar Özbek Türkleri]. Evrenpasakoyu.wordpress.com. Retrieved on 2013-07-12.</ref>
+| region13   = {{flagcountry|Ukraine}}
+| pop13      = 22,400
+| ref13      = <ref>[http://www.ukrcensus.gov.ua/eng/results/nationality_population/nationality_1/s5/?botton=cens_db&box=5.1W&k_t=00&p=100&rz=1_1&rz_b=2_1%20&n_page=6 State Statistics Committee of Ukraine: The distribution of the population by nationality and mother tongue] {{webarchive|url=https://web.archive.org/web/20081201192304/http://www.ukrcensus.gov.ua/eng/results/nationality_population/nationality_1/s5/?botton=cens_db&box=5.1W&k_t=00&p=100&rz=1_1&rz_b=2_1%20&n_page=6 |date=2008-12-01 }}</ref>
+| region14   = {{flagcountry|China}}
+| pop14      = 14,800
+| ref14      = 
+| region16   = {{flagcountry|Mongolia}}
+| pop16      = 560
+| ref16      = <ref>Census of Mongolia, slide# 23. http://www.toollogo2010.mn/doc/Main%20results_20110615_to%20EZBH_for%20print.pdf</ref>
+| langs = [[اوزبکي ژبه|اوزبکي]]
+| rels  = [[اسلام]]
+| related    = [[اویغور خلک|اویغور]] او نور [[ترکان]]
 }}
-
 [[File:Mirza Abdulhuq and Rustom Beg in 1841.jpg|250px|thumb|left|ازبکان]]
 [[File:Uzbek in traditional costume.jpg|250px|thumb|left]]
-'''اوزبکان''' یا ''اُزبکان'' یو د تورک توکمه قوم دی چې په مرکزي آسیا کې ژوند کوي. دغه قوم ۲۳،۸ میلیونه تنه لري او  په ځانگړی ډول  په [[ازبکستان|اوزبکستان]] کی ژوند کوی. د دې قوم څه د پاسه څو لکه وگړي په [[افغانستان]] کې اوسېږي ، د دوی سمه سرشمېرنه لا مالومه نده . اوزبکان ټولټال سُني مسلمانان دي.
+'''اوزبکان''' یا '''اُزبکان''' یو د تورک توکمه قوم دی چې په مرکزي آسیا کې ژوند کوي. دغه قوم ۲۳،۸ میلیونه تنه لري او  په ځانگړی ډول  په [[ازبکستان|اوزبکستان]] کی ژوند کوی. د دې قوم څه د پاسه څو لکه وگړي په [[افغانستان]] کې اوسېږي ، د دوی سمه سرشمېرنه لا مالومه نده . اوزبکان ټولټال سُني مسلمانان دي.
+
+== سرچینې ==
+{{reflist}}
 
 {{د افغانستان سرليکونه}}
 
-[[وېشنيزه:اوزبکستان| ]]
+[[وېشنيزه:اوزبکستان]]
 [[وېشنيزه:اوزبکان]]
 [[وېشنيزه:د افغانستان توکمونه]]
 
