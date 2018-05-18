@@ -1,27 +1,146 @@
-  {{لومړی مخ/سر لیک}}
-  {{لومړی مخ پيغام}}
-</div>
-{{غوره لیکنه لمړي مخ}}</div>
-  </div>
-  </div> 
-{{ ايا پدې پوهېدئ لمړی مخ}}
-  </div>
-{{د نن ورځې وراشه لمړی مخ}}
-{{  ویکیپېډیا څه ده لمړي مخ}}
-  </div>
-{{لومړی مخ/ښه راغلئ۲}}
-</div>
-    {{لومړی مخ اوسنۍ پېښې}}
-    </div>
-  </div>
-    </div>
-{{لومړی مخ غوره انځور}}
-<noinclude>
-<div id="mp-2012">
-</noinclude><div id="mp-2012-banner" class="nomobile">
-{{لومړی مخ/نورې پروژې}}
-{{لومړی مخ نور معلومات}}
-{{لومړی مخ ژبي}}
+{{Main Page Template
+|langcode=en
 
-  </div>
-</div> __NOTOC__ __NOEDITSECTION__
+|Announcement Title=Photo challenge
+|Announcement Text= [[File:Generic Camera Icon.svg|100px|right]] <div style="margin-left: 0.3em; padding-right: 0.6em; line-height: 1.3; color: #000; font-size: 1.4em">Take some photos and upload them to meet our monthly thematic challenge, get inspiration and try new subjects! [[Commons:Photo challenge|'''Learn more about the challenges!''']]</div> <div align="center" style="margin: 1em;"> {{Clickable button|Commons:Photo challenge#Challenges_open_for_submission|'''Check out this month's challenges'''|iconPrimary=ui-icon-circle-arrow-n|class=ui-button-green ui-button-large}}
+</div>
+
+|tagline=a collection of [[Special:Statistics|{{NUMBEROFFILES}}]] [[Commons:Reusing content outside Wikimedia|freely usable]] media files to which [[Commons:Welcome|anyone can contribute]]
+|Images=Images
+|Sounds=Sounds
+|Videos=Videos
+
+|Picture of the day=Picture of the day
+|RSS feed=RSS feed
+|By email=By email
+|Previous Pictures of the day=Previous ''Pictures of the day''
+
+|Media of the day=Media of the day
+|Previous Media of the day=Previous ''Media of the day''
+
+|AnonLogin=Log&nbsp;in
+|AnonCreateAcct=Create&nbsp;account
+
+|Participating=Participating
+|Browsing=
+;Browsing?
+:Please use the search box at the top of this page or the links to the right. Feel free to subscribe to our [[Commons:Feeds|syndicated feeds]].
+|Using=
+;Using?
+:To fulfill the free license requirements, please read our [[Commons:Reusing content outside Wikimedia|Reuse]] guide. You can also [[Commons:Picture requests|request a picture]].
+|Identifying=
+;Identifying?
+:Have a browse through [[:Category:Unidentified subjects]]. If you find something you can identify, write a note on the item's talk page.
+|Creating=
+;Creating?
+:Check out all you need to know at our [[Commons:Contributing your own work|Contributing your own work]] guide.
+;and more!
+|Explore=
+:To explore more ways you can contribute to this project, check out the [[Commons:Community portal|Community Portal]].
+
+|Content=Content
+|Content Text=
+<div class="hlist">
+;By topic
+'''[[:Category:Nature|Nature]]'''
+* [[:Category:Animalia|Animalia]]
+* [[:Category:Fossils|Fossils]]
+* [[:Category:Landscapes|Landscapes]]
+* {{nowrap|[[:Category:Marine life|Marine life]]}}
+* [[:Category:Plantae|Plantae]]
+* [[:Category:Weather|Weather]]
+
+'''[[:Category:Society|Society]]'''&nbsp;&nbsp;'''[[:Category:Culture|Culture]]'''
+* [[:Category:Art|Art]]
+* [[:Category:Belief|Belief]]
+* [[:Category:Entertainment|Entertainment]]
+* [[:Category:Events|Events]]
+* [[:Category:Flags|Flags]]
+* [[:Category:Food|Food]]
+* [[:Category:History|History]]
+* [[:Category:Language|Language]]
+* [[:Category:Literature|Literature]]
+* [[:Category:Music|Music]]
+* [[:Category:Objects|Objects]]
+* [[:Category:People|People]]
+* [[:Category:Places|Places]]
+* [[:Category:Politics|Politics]]
+* [[:Category:Sports|Sports]]
+
+'''[[:Category:Science|Science]]'''
+* [[:Category:Astronomy|Astronomy]]
+* [[:Category:Biology|Biology]]
+* [[:Category:Chemistry|Chemistry]]
+* [[:Category:Earth sciences|Earth sciences]]
+* [[:Category:Mathematics|Mathematics]]
+* [[:Category:Medicine|Medicine]]
+* [[:Category:Physics|Physics]]
+* [[:Category:Technology|Technology]]
+
+'''[[:Category:Engineering|Engineering]]'''
+* [[:Category:Architecture|Architecture]]
+* [[:Category:Chemical engineering|Chemical]]
+* [[:Category:Civil engineering|Civil]]
+* [[:Category:Electrical engineering|Electrical]]
+* [[:Category:Environmental engineering|Environmental]]
+* [[:Category:Geophysical engineering|Geophysical]]
+* [[:Category:Mechanical engineering|Mechanical]]
+* [[:Category:Process engineering|Process]]
+</div>
+{{Hidden|toggle=left|1=By location|hlist=true|2=
+'''[[:Category:Earth|Earth]]'''
+* [[:Category:Oceans|Oceans]]
+* [[:Category:Islands|Islands]]
+* [[:Category:Archipelagoes|Archipelagoes]]
+* [[:Category:Continents|Continents]]
+* [[:Category:Countries|Countries]]
+* [[:Category:Country subdivisions by country|Subdivisions]]
+
+'''[[:Category:Outer space|Space]]'''
+* [[:Category:Asteroids|Asteroids]]
+* {{nowrap|[[:Category:Natural satellites|Natural satellites]]}}
+* [[:Category:Comets|Comets]]
+* [[:Category:Planets|Planets]]
+* [[:Category:Stars|Stars]]
+* [[:Category:Galaxies|Galaxies]]
+}}
+{{Hidden|toggle=left|hlist=true|1=By type|2=
+'''[[:Category:Images|Images]]'''
+* [[:Category:Animations|Animations]]
+* [[:Category:Diagrams|Diagrams]]
+* [[:Category:Drawings|Drawings]]
+* [[:Category:Maps|Maps]] <small>([[Atlas]])</small>
+* [[:Category:Paintings|Paintings]]
+* [[:Category:Photographs|Photos]]
+* [[:Category:Symbols|Symbols]]
+
+'''[[:Category:Sound|Sounds]]'''
+* [[:Category:Audio files of music|Music]]
+* [[:Category:Pronunciation|Pronunciation]]
+* [[:Category:Audio files of speeches|Speeches]]
+* [[:Category:Spoken Wikipedia|Spoken Wikipedia]]
+
+'''[[:Category:Videos|Videos]]'''
+}}
+{{Hidden|toggle=left|hlist=true|1=By author|2=
+* [[:Category:Buildings by architect|Architects]]
+* [[:Category:Compositions by composer|Composers]]
+* [[:Category:Paintings by painter|Painters]]
+* [[:Category:Photographs by photographer|Photographers]]
+* [[:Category:Sculptures by sculptor|Sculptors]]
+}}
+{{Hidden|toggle=left|hlist=true|1=By license|2=
+'''[[:Category:Copyright statuses|Copyright statuses]]'''
+* {{nowrap|[[:Category:Creative Commons licenses|Creative Commons licenses]]}}
+* [[:Category:GFDL|GFDL]]
+* [[:Category:Public domain|Public domain]]
+}}
+{{Hidden|toggle=left|hlist=true|1=By source|2=
+'''[[:Category:Image sources|Image sources]]'''
+* [[:Category:Images from encyclopedias|Encyclopedias]]
+* [[:Category:Media from scholarly journals|Scholarly journals]]
+* [[:Category:Self-published work|Self-published work]]
+}}
+;[[{{#timel:F j}}|Images from {{#timel:F j}}]]'''
+|Sister projects=Sister projects
+}}
