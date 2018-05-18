@@ -1,146 +1,70 @@
-{{Main Page Template
-|langcode=en
-
-|Announcement Title=Photo challenge
-|Announcement Text= [[File:Generic Camera Icon.svg|100px|right]] <div style="margin-left: 0.3em; padding-right: 0.6em; line-height: 1.3; color: #000; font-size: 1.4em">Take some photos and upload them to meet our monthly thematic challenge, get inspiration and try new subjects! [[Commons:Photo challenge|'''Learn more about the challenges!''']]</div> <div align="center" style="margin: 1em;"> {{Clickable button|Commons:Photo challenge#Challenges_open_for_submission|'''Check out this month's challenges'''|iconPrimary=ui-icon-circle-arrow-n|class=ui-button-green ui-button-large}}
+<!--        BANNER ACROSS TOP OF PAGE         -->
+<div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;">
+<!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
+<div style="margin:0.4em; width:22em; text-align:center;">
+<div style="font-size:162%; padding:.1em;">Welcome to [[Wikipedia]],</div>
+<div style="font-size:95%;">the [[free content|free]] [[encyclopedia]] that [[Wikipedia:Introduction|anyone can edit]].</div>
+<div id="articlecount" style="font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] articles in [[English language|English]]</div>
 </div>
-
-|tagline=a collection of [[Special:Statistics|{{NUMBEROFFILES}}]] [[Commons:Reusing content outside Wikimedia|freely usable]] media files to which [[Commons:Welcome|anyone can contribute]]
-|Images=Images
-|Sounds=Sounds
-|Videos=Videos
-
-|Picture of the day=Picture of the day
-|RSS feed=RSS feed
-|By email=By email
-|Previous Pictures of the day=Previous ''Pictures of the day''
-
-|Media of the day=Media of the day
-|Previous Media of the day=Previous ''Media of the day''
-
-|AnonLogin=Log&nbsp;in
-|AnonCreateAcct=Create&nbsp;account
-
-|Participating=Participating
-|Browsing=
-;Browsing?
-:Please use the search box at the top of this page or the links to the right. Feel free to subscribe to our [[Commons:Feeds|syndicated feeds]].
-|Using=
-;Using?
-:To fulfill the free license requirements, please read our [[Commons:Reusing content outside Wikimedia|Reuse]] guide. You can also [[Commons:Picture requests|request a picture]].
-|Identifying=
-;Identifying?
-:Have a browse through [[:Category:Unidentified subjects]]. If you find something you can identify, write a note on the item's talk page.
-|Creating=
-;Creating?
-:Check out all you need to know at our [[Commons:Contributing your own work|Contributing your own work]] guide.
-;and more!
-|Explore=
-:To explore more ways you can contribute to this project, check out the [[Commons:Community portal|Community Portal]].
-
-|Content=Content
-|Content Text=
-<div class="hlist">
-;By topic
-'''[[:Category:Nature|Nature]]'''
-* [[:Category:Animalia|Animalia]]
-* [[:Category:Fossils|Fossils]]
-* [[:Category:Landscapes|Landscapes]]
-* {{nowrap|[[:Category:Marine life|Marine life]]}}
-* [[:Category:Plantae|Plantae]]
-* [[:Category:Weather|Weather]]
-
-'''[[:Category:Society|Society]]'''&nbsp;&nbsp;'''[[:Category:Culture|Culture]]'''
-* [[:Category:Art|Art]]
-* [[:Category:Belief|Belief]]
-* [[:Category:Entertainment|Entertainment]]
-* [[:Category:Events|Events]]
-* [[:Category:Flags|Flags]]
-* [[:Category:Food|Food]]
-* [[:Category:History|History]]
-* [[:Category:Language|Language]]
-* [[:Category:Literature|Literature]]
-* [[:Category:Music|Music]]
-* [[:Category:Objects|Objects]]
-* [[:Category:People|People]]
-* [[:Category:Places|Places]]
-* [[:Category:Politics|Politics]]
-* [[:Category:Sports|Sports]]
-
-'''[[:Category:Science|Science]]'''
-* [[:Category:Astronomy|Astronomy]]
-* [[:Category:Biology|Biology]]
-* [[:Category:Chemistry|Chemistry]]
-* [[:Category:Earth sciences|Earth sciences]]
-* [[:Category:Mathematics|Mathematics]]
-* [[:Category:Medicine|Medicine]]
-* [[:Category:Physics|Physics]]
-* [[:Category:Technology|Technology]]
-
-'''[[:Category:Engineering|Engineering]]'''
-* [[:Category:Architecture|Architecture]]
-* [[:Category:Chemical engineering|Chemical]]
-* [[:Category:Civil engineering|Civil]]
-* [[:Category:Electrical engineering|Electrical]]
-* [[:Category:Environmental engineering|Environmental]]
-* [[:Category:Geophysical engineering|Geophysical]]
-* [[:Category:Mechanical engineering|Mechanical]]
-* [[:Category:Process engineering|Process]]
+<!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
+<ul style="position:absolute; right:-1em; top:50%; margin-top:-2.4em; width:38%; min-width:25em; font-size:95%;">
+<li style="position:absolute; left:0; top:0;">[[Portal:Arts|Arts]]</li>
+<li style="position:absolute; left:0; top:1.6em;">[[Portal:Biography|Biography]]</li>
+<li style="position:absolute; left:0; top:3.2em;">[[Portal:Geography|Geography]]</li>
+<li style="position:absolute; left:33%; top:0;">[[Portal:History|History]]</li>
+<li style="position:absolute; left:33%; top:1.6em;">[[Portal:Mathematics|Mathematics]]</li>
+<li style="position:absolute; left:33%; top:3.2em;">[[Portal:Science|Science]]</li>
+<li style="position:absolute; left:66%; top:0;">[[Portal:Society|Society]]</li>
+<li style="position:absolute; left:66%; top:1.6em;">[[Portal:Technology|Technology]]</li>
+<li style="position:absolute; left:66%; top:3.2em;"><strong>[[Portal:Contents/Portals|All portals]]</strong></li>
+</ul>
 </div>
-{{Hidden|toggle=left|1=By location|hlist=true|2=
-'''[[:Category:Earth|Earth]]'''
-* [[:Category:Oceans|Oceans]]
-* [[:Category:Islands|Islands]]
-* [[:Category:Archipelagoes|Archipelagoes]]
-* [[:Category:Continents|Continents]]
-* [[:Category:Countries|Countries]]
-* [[:Category:Country subdivisions by country|Subdivisions]]
-
-'''[[:Category:Outer space|Space]]'''
-* [[:Category:Asteroids|Asteroids]]
-* {{nowrap|[[:Category:Natural satellites|Natural satellites]]}}
-* [[:Category:Comets|Comets]]
-* [[:Category:Planets|Planets]]
-* [[:Category:Stars|Stars]]
-* [[:Category:Galaxies|Galaxies]]
+<!--        MAIN PAGE BANNER        -->
+{{#if:{{Main Page banner}}|
+<div id="mp-banner" class="MainPageBG" style="margin-top:4px; padding:0.5em; background-color:#fffaf5; border:1px solid #f2e0ce;">
+{{Main Page banner}}
+</div>
 }}
-{{Hidden|toggle=left|hlist=true|1=By type|2=
-'''[[:Category:Images|Images]]'''
-* [[:Category:Animations|Animations]]
-* [[:Category:Diagrams|Diagrams]]
-* [[:Category:Drawings|Drawings]]
-* [[:Category:Maps|Maps]] <small>([[Atlas]])</small>
-* [[:Category:Paintings|Paintings]]
-* [[:Category:Photographs|Photos]]
-* [[:Category:Symbols|Symbols]]
-
-'''[[:Category:Sound|Sounds]]'''
-* [[:Category:Audio files of music|Music]]
-* [[:Category:Pronunciation|Pronunciation]]
-* [[:Category:Audio files of speeches|Speeches]]
-* [[:Category:Spoken Wikipedia|Spoken Wikipedia]]
-
-'''[[:Category:Videos|Videos]]'''
-}}
-{{Hidden|toggle=left|hlist=true|1=By author|2=
-* [[:Category:Buildings by architect|Architects]]
-* [[:Category:Compositions by composer|Composers]]
-* [[:Category:Paintings by painter|Painters]]
-* [[:Category:Photographs by photographer|Photographers]]
-* [[:Category:Sculptures by sculptor|Sculptors]]
-}}
-{{Hidden|toggle=left|hlist=true|1=By license|2=
-'''[[:Category:Copyright statuses|Copyright statuses]]'''
-* {{nowrap|[[:Category:Creative Commons licenses|Creative Commons licenses]]}}
-* [[:Category:GFDL|GFDL]]
-* [[:Category:Public domain|Public domain]]
-}}
-{{Hidden|toggle=left|hlist=true|1=By source|2=
-'''[[:Category:Image sources|Image sources]]'''
-* [[:Category:Images from encyclopedias|Encyclopedias]]
-* [[:Category:Media from scholarly journals|Scholarly journals]]
-* [[:Category:Self-published work|Self-published work]]
-}}
-;[[{{#timel:F j}}|Images from {{#timel:F j}}]]'''
-|Sister projects=Sister projects
-}}
+<!--        TODAY'S FEATURED CONTENT        -->
+{| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
+<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
+| id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
+<h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article|Featured article <span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
+<div id="mp-tfa" style="padding:0.1em 0.6em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|{{Wikipedia:Today's featured article/{{#time:F j, Y}}}}|{{Wikipedia:Today's featured article/{{#time:F j, Y|-1 day}}}}}}</div>
+<h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">Did you know...</h2>
+<div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">{{Did you know}}</div>
+| style="border:1px solid transparent;" |
+<!--        IN THE NEWS and ON THIS DAY        -->
+| id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
+<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">In the news</h2>
+<div id="mp-itn" style="padding:0.1em 0.6em;">{{In the news}}</div>
+<h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">On this day...</h2>
+<div id="mp-otd" style="padding:0.1em 0.6em 0.5em;">{{Wikipedia:Selected anniversaries/{{#time:F j}}}}</div>
+|}
+<!--        TODAY'S FEATURED LIST        --><!-- CONDITIONAL SHOW -->{{#switch:{{CURRENTDAYNAME}}|Monday|Friday=
+<div id="mp-middle" class="MainPageBG" style="margin-top:4px; border:1px solid #f2cedd; background:#fff5fa; overflow:auto;">
+<div id="mp-center">
+<h2 id="mp-tfl-h2" style="margin:0.5em; background:#f2cedd; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #bfa3af; color:#000; padding:0.2em 0.4em">From today's featured list</h2>
+<div id="mp-tfl" style="padding:0.3em 0.7em;">{{#ifexist:Wikipedia:Today's featured list/{{#time:F j, Y}}|{{Wikipedia:Today's featured list/{{#time:F j, Y}}}}|{{TFLempty}}}}</div>
+</div>
+</div>|}}<!-- END CONDITIONAL SHOW -->
+<!--        TODAY'S FEATURED PICTURE        -->
+<div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
+<div id="mp-bottom">
+<h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|Today's featured picture | Featured picture&ensp;<span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
+<div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|{{POTD protected/{{#time:Y-m-d}}}}|{{POTD protected/{{#time:Y-m-d|-1 day}}}}}}</div>
+</div>
+</div>
+<!--        SECTIONS AT BOTTOM OF PAGE        -->
+<div id="mp-other" style="padding-top:4px; padding-bottom:2px;">
+== Other areas of Wikipedia ==
+{{Other areas of Wikipedia}}
+</div><div id="mp-sister">
+== Wikipedia's sister projects ==
+{{Wikipedia's sister projects}}
+</div><div id="mp-lang">
+== Wikipedia languages ==
+{{Wikipedia languages}}
+</div>
+<!--        INTERWIKI STRAPLINE        -->
+<noinclude>{{Main Page interwikis}}{{noexternallanglinks}}{{#if:{{Wikipedia:Main_Page/Tomorrow}}||}}</noinclude>__NOTOC____NOEDITSECTION__
