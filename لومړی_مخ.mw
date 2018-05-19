@@ -9,7 +9,8 @@
 				{{Wikipedia:Strona główna/Czy wiesz|data={{{data|{{#timel:Y-m-d}} }}}}}
 			</div>
 			<div class="section" id="main-page-news">
-				<h2><span class="nomobile">[[File:PL Wiki Aktualnosci ikona.svg|38px|link=|alt=]]</span> Wydarzenia</h2>
+				<h2><span class="nomobile">[[File:PL Wiki Aktualnosci ikona.svg|38px|link=|alt=]]</span>
+په خبرونو کې</h2>
 				{{Aktualności}}
 			</div>
 			<div class="section" id="main-page-anniversaries">
