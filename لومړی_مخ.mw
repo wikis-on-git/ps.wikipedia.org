@@ -1,32 +1,5 @@
-<!-- https://www.mediawiki.org/wiki/Wikimedia_Mobile_engineering/imported/Mobile_projects/Mobile_Gateway#How_do_I_format_a_mobile_homepage.3F -->
-<div class="section" id="main page">
-	<div class="header" id="main-page-header">
-		<div id="main-page-intro">
-			<span id="main-page-welcome"><strong>Witaj w [[Wikipedia|Wikipedii]],</strong></span>
-			[[wolna treść|wolnej]] [[encyklopedia|encyklopedii]], którą [[Pomoc:Pierwsze kroki|każdy może redagować]].<br />[[Wikipedia:Liczba artykułów w polskojęzycznej Wikipedii|{{NUMBEROFARTICLES}}]] artykułów, w tym {{#expr: {{PAGESINCAT:Artykuły na medal}}+{{PAGESINCAT:Dobre artykuły}}+{{PAGESINCAT:Listy na medal}}-23 }} [[Wikipedia:Wyróżniona zawartość Wikipedii|wyróżnionych]]
-		</div>
-		<div id="main-page-portals">
-			<span>
-				[[Portal:Nauki ścisłe i przyrodnicze|Nauki ścisłe i&nbsp;przyrodnicze]]{{•}}
-				[[Portal:Nauki społeczne i humanistyczne|Nauki społeczne i&nbsp;humanistyczne]]{{•}}
-				[[Portal:Technika|Technika]]{{•}}
-				[[Portal:Geografia|Geografia]]{{•}}
-				[[Portal:Historia|Historia]]{{•}}
-				[[Portal:Kultura|Kultura]]{{•}}
-				[[Portal:Społeczeństwo|Społeczeństwo]]{{•}}
-				[[Portal:Sport|Sport]]{{•}}
-				[[Portal:Religioznawstwo|Religia]]{{•}}
-				[[Portal:Polska|Polska]]
-			</span>
-			<span>
-				[[Portal:Portale|Więcej portali]]{{•}}
-				[[Wikipedia:Indeks haseł|Indeks haseł]]{{•}}
-				[[Portal:Kategorie Główne|Przegląd kategorii]]
-			</span>
-		</div>
-		<div id="main-page-wiki-events">
-			{{Wikiwydarzenia}}
-		</div>
+{{3}} 
+</div>
 	</div>
 <div id="mf-main-page">
 	<div class="article" id="main-page-content">
