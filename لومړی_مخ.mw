@@ -32,15 +32,15 @@
 	<div class="article" id="main-page-content">
 		<div id="main-page-column1">
 			<div class="section" id="main-page-didyouknow">
-				<h2><span class="nomobile">[[Plik:PL Wiki CzyWiesz ikona.svg|38px|link=|alt=]]</span> Czy wiesz…</h2>
+				<h2><span class="nomobile">[[File:PL Wiki CzyWiesz ikona.svg|38px|link=|alt=]]</span> Czy wiesz…</h2>
 				{{Wikipedia:Strona główna/Czy wiesz|data={{{data|{{#timel:Y-m-d}} }}}}}
 			</div>
 			<div class="section" id="main-page-news">
-				<h2><span class="nomobile">[[Plik:PL Wiki Aktualnosci ikona.svg|38px|link=|alt=]]</span> Wydarzenia</h2>
+				<h2><span class="nomobile">[[File:PL Wiki Aktualnosci ikona.svg|38px|link=|alt=]]</span> Wydarzenia</h2>
 				{{Aktualności}}
 			</div>
 			<div class="section" id="main-page-anniversaries">
-				<h2><span class="nomobile">[[Plik:PL Wiki Kalendarium ikona.svg|38px|link=|alt=]]</span> Rocznice</h2>
+				<h2><span class="nomobile">[[File:PL Wiki Kalendarium ikona.svg|38px|link=|alt=]]</span> Rocznice</h2>
 				{{Wikipedia:Strona główna/Rocznice|data={{{data|{{#timel:Y-m-d}} }}}}}
 			</div>
 		</div>
@@ -54,7 +54,7 @@
 				{{Wikipedia:Strona główna/Dobry artykuł|data={{{data|{{#timel:Y-m-d}} }}}}}
 			</div>
 			<div class="section" id="main-page-featured-image">
-				<h2><span class="nomobile">[[Plik:PL Wiki InM ikona.svg|38px|link=|alt=]]</span> Ilustracja na medal</h2>
+				<h2><span class="nomobile">[[File:PL Wiki InM ikona.svg|38px|link=|alt=]]</span> Ilustracja na medal</h2>
 				{{Wikipedia:Strona główna/Ilustracja na medal|data={{{data|{{#timel:Y-m-d}} }}}}}
 			</div>
 		</div>
@@ -62,11 +62,11 @@
 </div>
 	<div class="footer" id="main-page-footer">
 		<div class="section" id="main-page-sister-projects">
-			<h2>[[Plik:Wikimedia-logo-circle.svg|38px|link=|alt=]] Siostrzane projekty Wikipedii</h2>
+			<h2>[[File:Wikimedia-logo-circle.svg|38px|link=|alt=]] Siostrzane projekty Wikipedii</h2>
 			{{Siostrzane}}
 		</div>
 		<div class="section" id="main-page-wikimedia">
-			<h2>[[Plik:HSSamarbetecolor.svg|38px|link=|alt=]] Organizacja i promocja Wikimediów</h2>
+			<h2>[[File:HSSamarbetecolor.svg|38px|link=|alt=]] Organizacja i promocja Wikimediów</h2>
 			<div class="main-page-threecol">
 				[[Plik:Wikimedia-logo.svg|55px|link=wikimedia:Strona główna|Wikimedia Foundation]]
 				'''[[wikimedia:Strona główna|Wikimedia Foundation]]''' ponosi prawną i techniczną odpowiedzialność za Wikipedię.
