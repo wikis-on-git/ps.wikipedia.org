@@ -20,54 +20,5 @@
 		</div>
 		<div id="main-page-column2">
 			<div class="section" id="main-page-featured-article">
-				<h2><span class="nomobile">[[Plik:HSUtvald.svg|38px|link=|alt=]]</span> Artykuł na medal</h2>
-				{{Wikipedia:Strona główna/Artykuł na medal|data={{{data|{{#timel:Y-m-d}} }}}}}
-			</div>
-			<div class="section" id="main-page-good-article">
-				<h2><span class="nomobile">[[Plik:HSBra.svg|38px|link=|alt=]]</span> Dobry artykuł</h2>
-				{{Wikipedia:Strona główna/Dobry artykuł|data={{{data|{{#timel:Y-m-d}} }}}}}
-			</div>
-			<div class="section" id="main-page-featured-image">
-				<h2><span class="nomobile">[[File:PL Wiki InM ikona.svg|38px|link=|alt=]]</span> Ilustracja na medal</h2>
-				{{Wikipedia:Strona główna/Ilustracja na medal|data={{{data|{{#timel:Y-m-d}} }}}}}
-			</div>
-		</div>
-	</div>
-</div>
-	<div class="footer" id="main-page-footer">
-		<div class="section" id="main-page-sister-projects">
-			<h2>[[File:Wikimedia-logo-circle.svg|38px|link=|alt=]] Siostrzane projekty Wikipedii</h2>
-			{{Siostrzane}}
-		</div>
-		<div class="section" id="main-page-wikimedia">
-			<h2>[[File:HSSamarbetecolor.svg|38px|link=|alt=]] Organizacja i promocja Wikimediów</h2>
-			<div class="main-page-threecol">
-				[[Plik:Wikimedia-logo.svg|55px|link=wikimedia:Strona główna|Wikimedia Foundation]]
-				'''[[wikimedia:Strona główna|Wikimedia Foundation]]''' ponosi prawną i techniczną odpowiedzialność za Wikipedię.
-
-				[[Plik:Wikimedia Polska logo.svg|50px|link=wmpl:|Wikimedia Polska]]
-				'''[[wmpl:|Stowarzyszenie Wikimedia Polska]]''' promuje i wspiera tworzenie Wikipedii w Polsce.
-
-				[[Plik:Wikimedia Community Logo.svg|55px|link=meta:Strona główna|Meta-wiki]]
-				'''[[meta:Strona główna|Meta-Wiki]]''' jest miejscem koordynacji wszystkich projektów Wikimedia.
-			</div>
-			<div>
-				Jeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków [[wp:społeczność wikipedystów|społeczności]], m.in. u [[Pomoc:Przewodnicy|przewodników]] czy [[Wikipedia:Administratorzy|administratorów]]. Poznaj też inne formy [[Wikipedia:Kontakt z wikipedystami|kontaktu z wikipedystami]].
-			</div>
-		</div>
-	</div>
-	<div class="section" id="main-page-for-editors">
-		<div class="footer">
-			Zobacz też:
-			[[Wikipedia:Strona główna/Wczoraj|Strona główna z wczoraj]] •
-			[[Wikipedia:Strona główna/Jutro|Strona główna na jutro]] •
-			[[Wikipedia:Strona główna/Dokumentacja|Dokumentacja]]
-		</div>
-	</div>
-</div>
-__NOTOC__
-__NOEDITSECTION__
-
-{{noexternallanglinks}}{{Wikipedia:Strona główna/Interwiki}}
-
-[[Kategoria:Strona główna| ]]
+				<h2>
+{{د لومړي مخ برخه}}
