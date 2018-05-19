@@ -6,7 +6,8 @@
 		<div id="main-page-column1">
 			<div class="section" id="main-page-didyouknow">
 				<h2><span class="nomobile">[[File:PL Wiki CzyWiesz ikona.svg|38px|link=|alt=]]</span>د نن غوره ليکنه</h2>
-				{{Wikipedia:Strona główna/Czy wiesz|data={{{data|{{#timel:Y-m-d}} }}}}}
+<div id="mp-tfa">{{ويکيپېډيا:د مياشتي غوره ليکنه}}
+		{{Wikipedia:Strona główna/Czy wiesz|data={{{data|{{#timel:Y-m-d}} }}}}}
 			</div>
 			<div class="section" id="main-page-news">
 				<h2><span class="nomobile">[[File:PL Wiki Aktualnosci ikona.svg|38px|link=|alt=]]</span>
