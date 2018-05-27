@@ -1,60 +1,27 @@
-<!-- 머릿글 -->
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;">
-{| width="100%" 
-| <div style="float: right; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[Image:Wikipedia-logo-v2-200px-transparent.png|140px|link=]]</div>
-<div style="float: left; margin-left:115px"><div style="font-size:1.4em; font-weight: bold">پښتو ويکيپيډيا ته ښه راغلاست!</div>ويکيپېډيا يو وړيا پوهنغونډ دئ چي هرڅوک پکښې د سمونې سره سره نورې  ليکنې هم جوړولای شي!<br/> په پښتو ژبه [[Special: Statistics|{{NUMBEROFARTICLES}}]] ليکنې شتون لري</div>{{-}}
-|
-* {{Nobr|[[تخنيک]]}}
-* {{Nobr|[[آرټ]]}}
-* {{Nobr|[[پوهنه]]}}
-|
+  {{لومړی مخ/سر لیک}}
+  {{لومړی مخ پيغام}}
+</div>
+{{غوره لیکنه لمړي مخ}}</div>
+  </div>
+  </div> 
+{{ ايا پدې پوهېدئ لمړی مخ}}
+  </div>
+{{د نن ورځې وراشه لمړی مخ}}
+{{  ویکیپېډیا څه ده لمړي مخ}}
+  </div>
+{{لومړی مخ/ښه راغلئ۲}}
+</div>
+    {{لومړی مخ اوسنۍ پېښې}}
+    </div>
+  </div>
+    </div>
+{{لومړی مخ غوره انځور}}
+<noinclude>
 <div id="mp-2012">
 </noinclude><div id="mp-2012-banner" class="nomobile">
-* {{Nobr|[[ټولنيزې پوهنې]]}}
-* {{Nobr|[[بشري پوهنې]]}}
-* {{Nobr|'''[[د افغانستان ولايتونه]]'''}}
-|}
-</div><!-- /머릿글 -->
-<!-- 찾기 --><div id="mp_search" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; background-color: #f9fcff; vertical-align:top; padding:0 0.5em 0 0.5em; overflow: auto; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-{| width="100%"
-|<div style="float: left; overflow: hidden;">
-<inputbox>
-type=create
-width=25
-buttonlabel=ليكنه جوړول
-createbuttonlabel=ليكنه جوړول
-break=no
-</inputbox></div>
-|<!-- 링크 모음 -->
-<div class="plainlinks" style="text-align: right; color: #71c9f0">
-[[ويکيپېډيا:کړنلارې او لارښوونې|پالیسۍ او لارښوونې]] '''/'''
-[[ويکيپېډيا:د ټولنې تانبه|د خبرو آترو مخ]] '''/'''
-[[لارښود:محتویات|لارښود]] '''/'''
-[[ويکيپېډيا:د پښتو ويکيپېډيا تگلاره|تگلاره]] '''/'''
-[[ويکيپېډيا:په اړه|د ويکيپېډيا په اړه]] '''/'''
-[http://ps.m.wikipedia.org/ لومړی مخ]
-</div><!-- /링크 모음 -->
-|}
-</div><!-- /찾기 -->
-<!-- 본문 -->
-<div id="mp_contents" class="mp_outerbox" style="clear: both; height: 100%; font-size: small;">
-<!-- 본문 왼쪽 -->
-<div id="mp_contentsL" style="float: left; width: 62.99%; height: 100%;">
-<!-- 알찬 글 -->
-<div id="mp_featuredArticle" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0.5em 0 0; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[file:HSutvald2.svg|35px|middle|link=]]</div>[[ويکيپېډيا:د مياشتي غوره ليکنه|غوره ليکنه]]</div>
-<div id="mp-tfa">{{ويکيپېډيا:د مياشتي غوره ليکنه}}</div></div>
-<!-- 좋은 글 -->
+{{لومړی مخ/نورې پروژې}}
+{{لومړی مخ نور معلومات}}
+{{لومړی مخ ژبي}}
 
-<!-- ويکپيډيا په اړه -->
-{{ويکپيډيا په اړه}}
-<!-- 위키백과 참여하기 -->
-<div id="mp_participation" class="mp_contentsbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0 0.5em; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div class="mp_contentsboxtitle" style="background-color: #bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Text-x-generic with pencil-2.svg|35px|middle|link=]]</div>په ويکيپېډيا کې ګډون کول</div>{{لومړی مخ/ښه راغلاست}}</div>
-
-<div id="mp-2012-banner" class="nomobile">
-<div id="mp_bottom" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="text-align:center;"><div style="font-size: 1.2em">ويکيپېډيا د اتباري مېنځپانګې ګرنټي نه ورکوي</div>د ويکيپېډيا بنسټ، چې د ويکيمېډيا پروژې لخوا يې کوربه توب کيږي، په ليکنو کې د کومې تيروتنې مسووليت د ويکيپېډيا نه دي. که هر څوک کومه غلطي ترسره کوي نو د ويکيپېډيا د پرمختګ لپاره خنډ جوړوي.</div>
-</div>
-</div><!-- /바닥글 -->
-{{noexternallanglinks}}
+  </div>
+</div> __NOTOC__ __NOEDITSECTION__
