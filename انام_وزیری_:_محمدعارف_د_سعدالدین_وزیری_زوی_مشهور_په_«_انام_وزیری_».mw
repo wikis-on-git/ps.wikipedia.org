@@ -1,3 +1,21 @@
+<mapframe latitude="36.7283" longitude="68.8687" zoom="13" width="400" height="300" align="right">
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.86838614918817,
+          36.728613262562085
+        ]
+      }
+    }
+  ]
+}
+</mapframe>
 {| class="wikitable"
 |+انام وزیری
 !نوم
