@@ -128,8 +128,366 @@
 1.	:Evaporation د خاورې  دسطحې اوپاڼو څخه داوبو ضايع کيدلو ته وايي.
 2.	:Percolation :دنباتاتو دريښو څخه داوبو ضايع کېدلوته وايي.
 3.	: Run off :دروانو اوبو په شکل داوبو ضايع کيدلو ته وايي.
+==هغه  ټولې تازه  اوبو  بیا ځل نوی سپلایی کیږی دلاندې هیوادونو په واسطه ==
+{| class="wikitable sortable collapsible collapsed"
+|+ Total renewable freshwater supply by country<ref name=":4" />
+|-
+! scope="col" | Rank 
+! scope="col" | Country
+! scope="col" | Annual renewable water 
+resources (km<sup>3</sup>/year)
+! scope="col" | Region
+! scope="col" | Year of estimate
+|-
+| 1||Kuwait||0.02||Asia||2008
+|-
+| 2||St. Kitts and Nevis||0.02||North and Central America||2000
+|-
+| 3||Maldives||0.03||Asia||1999
+|-
+| 4||Malta||0.07||Europe||2005
+|-
+| 5||Antigua and Barbuda||0.1||North and Central America||2000
+|-
+| 6||Qatar||0.1||Asia||2008
+|-
+| 7||Barbados||0.1||North and Central America||2003
+|-
+| 8||Bahrain||0.1||Asia||2008
+|-
+| 9||United Arab Emirates||0.2||Asia||2008
+|-
+| 10||Cape Verde||0.3||Africa||2005
+|-
+| 11||Djibouti||0.3||Africa||2005
+|-
+| 12||Cyprus||0.3||Europe||2007
+|-
+| 13||Libya||0.6||Africa||2005
+|-
+| 14||Singapore||0.6||Asia||1975
+|-
+| 15||Jordan||0.9||Asia||2008
+|-
+| 16||Comoros||1.2||Africa||2005
+|-
+| 17||Oman||1.4||Asia||2008
+|-
+| 18||Luxembourg||1.6||Europe||2007
+|-
+| 19||Israel||1.8||Asia||2008
+|-
+| 20||Yemen||2.1||Asia||2008
+|-
+| 21||Saudi Arabia||2.4||Asia||2008
+|-
+| 22||Mauritius||2.8||Africa||2005
+|-
+| 23||Burundi||3.6||Africa||1987
+|-
+| 24||Trinidad and Tobago||3.8||North and Central America||2000
+|-
+| 25||Swaziland||4.5||Africa||1987
+|-
+| 26||Lebanon||4.5||Asia||2008
+|-
+| 27||Tunisia||4.6||Africa||2005
+|-
+| 28||Reunion||5.0||Africa||1988
+|-
+| 29||Lesotho||5.2||Africa||1987
+|-
+| 30||Eritrea||6.3||Africa||2001
+|-
+| 31||Macedonia||6.4||Europe||2001
+|-
+| 32||Armenia||7.8||Former Soviet Union||2008
+|-
+| 33||Gambia||8.0||Africa||2005
+|-
+| 34||Brunei||8.5||Asia||1999
+|-
+| 35||Jamaica||9.4||North and Central America||2000
+|-
+| 36||Rwanda||9.5||Africa||2005
+|-
+| 37||Mauritania||11.4||Africa||2005
+|-
+| 38||Algeria||11.6||Africa||2005
+|-
+| 39||Moldova||11.7||Former Soviet Union||1997
+|-
+| 40||Estonia||12.3||Europe||2007
+|-
+| 41||Estonia||12.8||Former Soviet Union||1997
+|-
+| 42||Haiti||14.0||North and Central America||2000
+|-
+| 43||Somalia||14.2||Africa||2005
+|-
+| 44||Botswana||14.7||Africa||2001
+|-
+| 45||Togo||14.7||Africa||2001
+|-
+| 46||Czech Republic||16.0||Europe||2007
+|-
+| 47||Denmark||16.3||Europe||2007
+|-
+| 48||Syria||16.8||Asia||2008
+|-
+| 49||Malawi||17.3||Africa||2001
+|-
+| 50||Burkina Faso||17.5||Africa||2001
+|-
+| 51||Namibia||17.7||Africa||2005
+|-
+| 52||Belize||18.6||North and Central America||2000
+|-
+| 53||Zimbabwe||20.0||Africa||1987
+|-
+| 54||Belgium||20.0||Europe||2007
+|-
+| 55||Dominican Republic||21.0||North and Central America||2000
+|-
+| 56||Lithuania||24.5||Former Soviet Union||2007
+|-
+| 57||El Salvador||25.2||North and Central America||2001
+|-
+| 58||Romania||25.7||Europe||2007
+|-
+| 59||Benin||25.8||Africa||2001
+|-
+| 60||Equatorial Guinea||26||Africa||2001
+|-
+| 61||Fiji||28.6||Oceania||1987
+|-
+| 62||Morocco||29.0||Africa||2005
+|-
+| 63||Kenya||30.7||Africa||2005
+|-
+| 64||Guinea-Bissau||31.0||Africa||2005
+|-
+| 65||Slovenia||32.1||Europe||2007
+|-
+| 66||Niger||33.7||Africa||2005
+|-
+| 67||Azerbaijan||34.7||Former Soviet Union||2008
+|-
+| 68||Mongolia||34.8||Asia||1999
+|-
+| 69||Bosnia and Herzegovina||37.5||Europe||2003
+|-
+| 70||Cuba||38.1||North and Central America||2000
+|-
+| 71||Senegal||39.4||Africa||1987
+|-
+| 72||Albania||41.7||Europe||2001
+|-
+| 73||Chad||43.0||Africa||1987
+|-
+| 74||Solomon Islands||44.7||Oceania||1987
+|-
+| 75||Kyrgyzstan||46.5||Former Soviet Union||1997
+|-
+| 76||Ireland||46.8||Europe||2003
+|-
+| 77||South Africa||50.0||Africa||2005
+|-
+| 78||Sri Lanka||50.0||Asia||1999
+|-
+| 79||Slovakia||50.1||Europe||2007
+|-
+| 80||Ghana||53.2||Africa||2001
+|-
+| 81||Switzerland||53.5||Europe||2007
+|-
+| 82||Belarus||58.0||Former Soviet Union||1997
+|-
+| 83||Egypt||58.3||Africa||2005
+|-
+| 84||Turkmenistan||60.9||Former Soviet Union||1997
+|-
+| 85||Poland||63.1||Europe||2007
+|-
+| 86||Georgia||63.3||Former Soviet Union||2008
+|-
+| 87||Sudan||64.5||Africa||2005
+|-
+| 88||Afghanistan||65.0||Asia||1997
+|-
+| 89||Uganda||66.0||Africa||2005
+|-
+| 90||Taiwan||67.0||Asia||2000
+|-
+| 91||Korea Rep||69.7||Asia||1999
+|-
+| 92||Greece||72.0||Europe||2007
+|-
+| 93||Uzbekistan||72.2||Former Soviet Union||2003
+|-
+| 94||Portugal||73.6||Europe||2007
+|-
+| 95||Iraq||75.6||Asia||2008
+|-
+| 96||Korea DPR||77.1||Asia||1999
+|-
+| 97||Côte d'Ivoire||81||Africa||2001
+|-
+| 98||Austria||84.0||Europe||2007
+|-
+| 99||Netherlands||89.7||Europe||2007
+|-
+| 100||Tanzania||91||Africa||2001
+|-
+| 101||Bhutan||95.0||Asia||1987
+|-
+| 102||Honduras||95.9||North and Central America||2000
+|-
+| 103||Tajikistan||99.7||Former Soviet Union||1997
+|-
+| 104||Mali||100.0||Africa||2005
+|-
+| 105||Zambia||105.2||Africa||2001
+|-
+| 106||Croatia||105.5||Europe||1998
+|-
+| 107||Bulgaria||107.2||Europe||2010
+|-
+| 108||Kazakhstan||109.6||Former Soviet Union||1997
+|-
+| 109||Ethiopia||110.0||Africa||1987
+|-
+| 110||Finland||110.0||Europe||2007
+|-
+| 111||Spain||111.1||Europe||2007
+|-
+| 112||Guatemala||111.3||North and Central America||2000
+|-
+| 113||Costa Rica||112.4||North and Central America||2000
+|-
+| 114||Hungary||116.4||Europe||2007
+|-
+| 115||Suriname||122.0||South America||2003
+|-
+| 116||Iran||137.5||Asia||2008
+|-
+| 117||Uruguay||139.0||South America||2000
+|-
+| 118||Ukraine||139.5||Former Soviet Union||1997
+|-
+| 119||Central African Republic||144.4||Africa||2005
+|-
+| 120||Panama||148.0||North and Central America||2000
+|-
+| 121||Sierra Leone||160.0||Africa||1987
+|-
+| 122||Gabon||164.0||Africa||1987
+|-
+| 123||Iceland||170.0||Europe||2007
+|-
+| 124||Italy||175.0||Europe||2007
+|-
+| 125||United Kingdom||175.3||Europe||2007
+|-
+| 126||Sweden||183.4||Europe||2007
+|-
+| 127||Angola||184.0||Africa||1987
+|-
+| 128||France||186.3||Europe||2007
+|-
+| 129||Germany||188.0||Europe||2007
+|-
+| 130||Nicaragua||196.7||North and Central America||2000
+|-
+| 131||Serbia-Montenegro*||208.5||Europe||2003
+|-
+| 132||Nepal||210.2||Asia||1999
+|-
+| 133||Turkey||213.6||Asia||2008
+|-
+| 134||Mozambique||217.1||Africa||2005
+|-
+| 135||Guinea||226.0||Africa||1987
+|-
+| 136||Liberia||232.0||Africa||1987
+|-
+| 137||Pakistan||233.8||Asia||2003
+|-
+| 138||Guyana||241.0||South America||2000
+|-
+| 139||Cameroon||285.5||Africa||2003
+|-
+| 140||Nigeria||286.2||Africa||2005
+|-
+| 141||Laos||333.6||Asia||2003
+|-
+| 142||Paraguay||336.0||South America||2000
+|-
+| 143||Australia||336.1||Oceania||2005
+|-
+| 144||Madagascar||337.0||Africa||2005
+|-
+| 145||Latvia||337.3||Former Soviet Union||2007
+|-
+| 146||Norway||389.4||Europe||2007
+|-
+| 147||New Zealand||397.0||Oceania||1995
+|-
+| 148||Thailand||409.9||Asia||1999
+|-
+| 149||Japan||430.0||Asia||1999
+|-
+| 150||Ecuador||432.0||South America||2000
+|-
+| 151||Mexico||457.2||North and Central America||2000
+|-
+| 152||Cambodia||476.1||Asia||1999
+|-
+| 153||Philippines||479.0||Asia||1999
+|-
+| 154||Malaysia||580.0||Asia||1999
+|-
+| 155||Bolivia||622.5||South America||2000
+|-
+| 156||Papua New Guinea||801.0||Oceania||1987
+|-
+| 157||Argentina||814.0||South America||2000
+|-
+| 158||Congo||832.0||Africa||1987
+|-
+| 159||Vietnam||891.2||Asia||1999
+|-
+| 160||Chile||922.0||South America||2000
+|-
+| 161||Myanmar||1045.6||Asia||1999
+|-
+| 162||Bangladesh||1210.6||Asia||1999
+|-
+| 163||Venezuela||1233.2||South America||2000
+|-
+| 164||Congo, Democratic Republic (formerly Zaire)||1283||Africa||2001
+|-
+| 165||India||1907.8||Asia||1999
+|-
+| 166||Peru||1913.0||South America||2000
+|-
+| 167||Colombia||2132.0||South America||2000
+|-
+| 168||China||2738.8||Asia||2008
+|-
+| 169||Indonesia||2838.0||Asia||1999
+|-
+| 170||United States of America||3069.0||North and Central America||1985
+|-
+| 171||Canada||3300.0||North and Central America||1985
+|-
+| 172||Russia||4498.0||Former Soviet Union||1997
+|-
+| 173||Brazil||8233.0||South America||2000
+|
+|}
 
-دنړۍ 10هغه هيوادونه چې په راتلونکو 20کلونوکې به داوبو دکمښت سره مخ شې.
+==دنړۍ 10هغه هيوادونه چې په راتلونکو 20کلونوکې به داوبو دکمښت سره مخ شې==
 اول: فلسطين:
 دبي بي سي (BBC)د يو راپور له مخې ويل کيږي چې اسراييل دفلسطين هيواد دغرونو 80%اوبه په مصرف رسوي. اوپاتې کمه يعنې 20%يي فلسطين ته ورکوي.نو په همدې اساس نوموړی هيواد داوبو دکمښت سره مخامخ کيږي.
 دوهم:لبنان:
