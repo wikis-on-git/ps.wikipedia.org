@@ -6,61 +6,6 @@
  (pollutants)
 ککړونکی له هغو موادو څخه عبارت دی چی په چاپیریال کی دانسان پرصحت اود ژوند پرکیفیت باندی ناوړه اغیزه لری اوهمدارنګه دایکو سیستم طبعی دندو مخنیوی او مزاحمت کوی.
 دککړتیا ډیرعلتونه شته دنفوسوګړندی وده ،خلکومهاجرت دکلیو څخه ښارونو ته دصنعت پراختیا او د حمل اونقل وسایلو زیاتیدل ،دمناسب استوګنځی نشتوالی ،دابو ناسم استعمال ،دځنګلونو قطع کول ،بادونه ،سیلابونه ،دحشراتواوآفت وژونکو دواګانو استعمال او د راډیواکتیف موادو اوداسی نورو استعمال دی 
-=DDT==
-| Name = DDT
-| ImageFile = p,p'-dichlorodiphenyltrichloroethane.svg
-| ImageFile1 = DDT-from-xtal-3D-balls.png
-| ImageFile2 = DDT-from-xtal-3D-vdW.png
-| ImageName = Chemical structure of DDT
-| PIN = 1,1'-(2,2,2-Trichloroethane-1,1-diyl)bis(4-chlorobenzene)
-|Section1={{Chembox Identifiers
-| PubChem = 3036
-| UNII_Ref = {{fdacite|correct|FDA}}
-| UNII = CIW5S16655
-| KEGG_Ref = {{keggcite|correct|kegg}}
-| KEGG = D07367
-| InChI = 1/C14H9Cl5/c15-11-5-1-9(2-6-11)13(14(17,18)19)10-3-7-12(16)8-4-10/h1-8,13H
-| InChIKey = YVGGHNCTFXOJCH-UHFFFAOYAJ
-| ChEMBL_Ref = {{ebicite|changed|EBI}}
-| ChEMBL = 416898
-| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
-| StdInChI = 1S/C14H9Cl5/c15-11-5-1-9(2-6-11)13(14(17,18)19)10-3-7-12(16)8-4-10/h1-8,13H
-| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
-| StdInChIKey = YVGGHNCTFXOJCH-UHFFFAOYSA-N
-| CASNo = 50-29-3
-| CASNo_Ref = {{cascite|correct|CAS}}
-| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
-| ChemSpiderID=2928
-| ChEBI_Ref = {{ebicite|correct|EBI}}
-| ChEBI = 16130
-| SMILES = Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
- }}
-|Section2={{Chembox Properties
-| C=14 | H=9 | Cl=5
-| Density = 0.99&nbsp;g/cm<sup>3</sup>
-| MeltingPtC = 108.5
-| BoilingPtC = 260
-| BoilingPt_notes = (decomposes)
-| Solubility = 25 μg/L (25 °C)<ref name="ATSDRc5"/>
- }}
-|Section7={{Chembox Hazards
-| MainHazards = Toxic, dangerous to the environment, likely carcinogenic
-| FlashPtF = 162-171
-| FlashPt_notes = <ref name=PGCH>{{PGCH|0174}}</ref>
-| NFPA-H = 2
-| NFPA-F = 2
-| NFPA-R = 0
-| NFPA-S =
-| GHSPictograms = {{GHS06}}{{GHS08}}{{GHS09}}
-| GHSSignalWord = Danger
-| HPhrases = {{H-phrases|301|351|372|410}}
-| PPhrases = {{P-phrases|201|202|260|264|270|273|281|301+310|308+313|314|321|330|391|405|501}}
-| PEL = TWA 1 mg/m<sup>3</sup> [skin]
-| IDLH = 500 mg/m<sup>3</sup>
-| REL = Ca TWA 0.5 mg/m<sup>3</sup>
-| NIOSH_id = 0174
-| LD50= 113–800 mg/kg (rat, oral)<ref name="ATSDRc5"/><br/> 250 mg/kg (rabbit, oral)<br/>135 mg/kg (mouse, oral)<br/>150 mg/kg (guinea pig, oral)<ref>{{IDLH|50293|DDT}}</ref>
- }}
 
 ==دککړونکو ډولونه==
  (Types of pollutants )
