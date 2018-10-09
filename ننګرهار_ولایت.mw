@@ -62,7 +62,7 @@
 | pushpin_mapsize         =
 | pushpin_relief          =
 | pushpin_map_caption     =
-| coordinates             = |latd=34 |latm=31 |latNS=N |longd=69 |longm=08 |longEW=E
+| coordinates             = 
 | coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
 | coordinates_region      =  
 | coordinates_type        = <!-- parameter list passed to Coord template, overrides coordinates_region -->
