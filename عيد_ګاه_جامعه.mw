@@ -16,14 +16,9 @@
 |map_type= Afghanistan
 |map_caption=نښان په کابل کی
 | native_name         = د افغانستان یو تاریخی جومات
-|coordinates = | pushpin_map            = Afghanistan#Asia
+|coordinate = | pushpin_map            = Afghanistan#Asia
 | location            ={{افغانستان}}
-| pushpin_label_position = above
-| pushpin_mapsize        = 300
-| pushpin_map_caption    = کابل
-| pushpin_relief         = 1
-| latd = 34 | latm = 32| latNS = N
-| longd = 69 | longm = 10| longEW = E
+|coordinate={{coord|34.5178|69.1900|format=dms|type:landmark_region:AF|display=inline,title}} 
 <!-- Location ------------------>
 | coordinates_display    = inline,title
 | coordinates_region     = AF
