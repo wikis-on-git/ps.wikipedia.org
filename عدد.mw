@@ -281,7 +281,7 @@ MDCCCX=1000+500+100+100+100+10=1500+300+10=1800+10=1810
 
 <math display="block">\mathbb{Z}=\mathbb{Z}^-\cup\{0\}\cup \mathbb{Z}^+</math>
 
-که د «''<math>\subset</math>''» يا د «''<math>\subseteq</math>''» د فــَــرعي (څانګيزې يا بــَــرخيزې يا لانديزې يا څــَــپليزې) مــَــجموعې (ډَلې يا سراکېږد يا سېټ) يا «څــَــپليځ سېټ» subset  لپاره که وکاروو ، نور ليکلي يا ټايپ کړلي شو چې : 
+که د «''<math>\subset</math>''» يا د «''<math>\subseteq</math>''» د فــَــرعي (څانګين يا ښاخيزې يا بــَــرخيزې يا لاندين يا څــَــپليزې) مــَــجموعې (ډَلې يا سراکېږد يا سېټ) يا «څــَــپليځ سېټ» subset  لپاره که وکاروو ، نور ليکلي يا ټايپ کړلي شو چې : 
 
 <math display="block">\mathbb{Z}^-\subset \mathbb{Z}    \qquad ; \qquad \mathbb{Z}^-\subseteq \mathbb{Z}</math><math display="block">\mathbb{Z}^+\subset \mathbb{Z}    \qquad ; \qquad \mathbb{Z}^+\subseteq \mathbb{Z}</math><math display="block">\{0\}\subset \mathbb{Z}    \qquad ; \qquad \{0\}\subseteq \mathbb{Z}</math><math display="block">\mathbb{N}\subset \mathbb{Z}    \qquad ; \qquad \mathbb{N}\subseteq \mathbb{Z}</math>
 
