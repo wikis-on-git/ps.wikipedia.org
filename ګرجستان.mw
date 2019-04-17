@@ -1,103 +1,71 @@
 {{Infobox country
 |ګرجستان= conventional_long_name = 
-|native_name = {{nobold|{{native name|ka|საქართველო}}}}<br/>''Sakartvelo''
-|common_name = گرجستان
-|linking_name = Georgia (country)
+|native_name = {{nobold|{{native
+'''ګرجستان''' ([[گرجی ژبه|گرجي]]: საქართველო) په [[قفقاز]] کې پروت یو هیواد دی چې پلازمېنه یې [[تفلیس]] نومیږي او گرجستان د [[اوراسیا]] په سیمه کې پروت دی چې له [[آسیا]] او [[اروپا]] سره گډه پوله لري.
+
+}}}}
+|common_name = ګرجستان
+|linking_name = ګرجستان
 |image_flag = Flag of Georgia.svg
 |image_coat = Greater coat of arms of Georgia.svg
-|national_motto = <br/>[[Dzala ertobashia|ძალა ერთობაშია]]<br/>''Dzala Ertobashia''<br/>{{small|''Strength is in Unity''}}
-|national_anthem = <br/>[[Tavisupleba|თავისუფლება]]<br/>''Tavisupleba''<br/>{{small|''Freedom''}}<br /><center>[[File:Georgian national anthem.oga]]</center>
-|image_map = Georgia (orthographic projection with inset).svg
-|map_caption = Georgia proper shown in dark green; areas outside of Georgian control shown in light green.
-|capital = [[Tbilisi]]{{ref label|capitalfactobox|a|}} 
+|national_motto ={{سخ}}[[د گرجستان ملي شعار|ძალა ერთობაშია]]{{سخ}}{{small|''ځواک په یوځای کیدو دی''}}
+|national_anthem ={{سخ}}[[د ګرجستان ملي سود|თავისუფლება]]{{سخ}}{{small|''خپلواکی''}} [[File:Georgian national anthem.oga|center]]
+|image_map = Europe Georgia.svg
+|map_caption =
+|capital = [[تفلیسی]]
 |latd=41 |latm=43 |latNS=N |longd=44 |longm=47 |longEW=E
 |largest_city = capital
-|official_languages = [[Georgian language|Georgian]]<ref>{{citation |chapter=Article 8 |title=[[Constitution of Georgia (country)|Constitution of Georgia]]}}. In [[Abkhazia]], also [[Abkhaz language|Abkhazian]].</ref>
-|languages_type = Spoken languages<ref name="CIA Factbook Georgia"/>
-|languages =[[ ګرجي ژبه71%]]
-language|Georgian]]<br>9% [[Russian language|Russian]]<br>7% [[Armenian language|Armenian]]<br>6% [[Azerbaijani language|Azerbaijani]]<br>7% [[Languages of Georgia (country)|other]]
-| ګرجیانethnic_groups = 83.8% [[ people|Georgian]]<br>6.5% [[Azerbaijani people| ترکان]]<br>5.7% [[Armenians|ارمنیان]]<br>1.5% [[Russians|روسان]]<br>2.5% others
-|ethnic_groups_year = 2002<ref name="CIA Factbook Georgia"/>
-|demonym = Georgian
-|government_type = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[republic]]<ref>Moved in 2013 from a president-parliamentary system to a premier-presidential system.</ref>
-|leader_title1 = [[President of Georgia|President]]
-|leader_name1 = [[Giorgi Margvelashvili]]
-|leader_title3 =[[Chairperson of the Parliament of Georgia|Speaker of the Parliament]]
-|leader_name3 = [[Davit Usupashvili]]
-|leader_title2 = [[Prime Minister of Georgia|Prime Minister]]
-|leader_name2 = [[Irakli Garibashvili]]
-|legislature = [[Parliament of Georgia|Parliament]]
-|sovereignty_type = Independence
-|established_event1 = [[Diauehi|Kingdom of Diaokhi]]
-|established_date1 = 12th century BC–8th century BC
-|established_event2 = [[Colchis]]
-|established_date2 = 13th century–164 BC
-|established_event3 = [[Kingdom of Iberia]]
-|established_date3 = 302 BC–580 AD
-|established_event4 = [[Principality of Iberia]]
-|established_date4 = 580-880 AD
-|established_event5 = [[Kingdom of Georgia]]
-|established_date5 = 1008
-|established_event6 = [[Russian Empire]] occupation
-|established_date6 = 12 September 1801
-|established_event7 = [[Democratic Republic of Georgia|from Russian Empire]]
-|established_date7 = 26 May 1918
-|established_event8 = [[Red Army invasion of Georgia|Soviet re-conquest]]
-|established_date8 = 25 February 1921
-|established_event9 = {{nowrap|from [[Soviet Union]]}} <div style="text-align:right;">Declared<br/>Finalized</div>
-|established_date9 = <br/>9 April 1991<br/>25 December 1991
-|area_rank = 120th
-|area_magnitude = 1 E10
-|area_km2 = 69,700
-|area_sq_mi = 26,911
+|official_languages = [[ګرجی ژبه|ګرجي]]
+|ethnic_groups = ۸۳٫۸٪ [[ګرجی خلک|ګرجیان]]{{سخ}}۶٫۵٪ [[ترکی آذری وګړې|آذریان]]{{سخ}}۵٫۷٪ [[ارمنی وګړې|ارمنیان]]{{سخ}}۱٫۵٪ [[روسی وګړې|روسان]]{{سخ}}۲٫۵٪ نور قومونه
+|ethnic_groups_year = ۲۰۰۲
+|government_type = [[جمهوری]] [[نیمه ولسمشریز نظام|نیمه ولسمشریزه]] [[حاکم حکومت |حاکم]]
+|leader_title1 = جمهور ریس
+|leader_name1 = [[سالومه زورابیشویلی]]
+|leader_title2 = لمړی وزیر
+|leader_name2 = [[ماموکا باختادزه]]
+|leader_title3 = د پارلمان ریس
+|leader_name3 = [[ایراکلی کوباخیدزه]]
+|legislature = پارلمان
+|area_rank =
+|area_magnitude =
+|area_km2 = ۶۹٬۹۰۰
+|area_sq_mi = ۲۶٬۹۱۱
 |area_footnote = |percent_water =
-|population_estimate = 4,935,880<ref name="CIA Factbook Georgia"/>
-|population_estimate_rank = 119th
-|population_estimate_year = 2014
+|population_estimate = ۳٬۷۲۹٬۰۰۰
+|population_estimate_rank =
+|population_estimate_year = ۲۰۱۸
 |population_census = |population_census_year =
-|population_density_km2 = 70.8
-|population_density_sq_mi = 183.4
-|population_density_rank = 137th
-|GDP_PPP = {{nowrap|$27.3 billion<ref name="CIA Factbook Georgia"/>}}
-|GDP_PPP_rank = 121
-|GDP_PPP_year = 2013
-|GDP_PPP_per_capita = $6,100<ref name="CIA Factbook Georgia"/>
-|GDP_PPP_per_capita_rank =
-|GDP_nominal = {{nowrap|$15.984 billion<ref name = imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=49&pr.y=13&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=915&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Georgia |publisher=International Monetary Fund |accessdate=April 18, 2012}}</ref>}}
-|GDP_nominal_rank =
-|GDP_nominal_year = 2012
-|GDP_nominal_per_capita = $3,596<ref name=imf2/>
-|GDP_nominal_per_capita_rank =
-|Gini_year = 2010
-|Gini_change = <!--increase/decrease/steady--> 
-|Gini = 42.1 <!--number only--> 
-|Gini_ref = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |accessdate=2 March 2011}}</ref>
-|Gini_rank =
-|HDI_year = 2013<!-- Please use the year to which the data refers, not the publication year-->
-|HDI_change = increase<!--increase/decrease/steady-->
-|HDI = 0.744 <!--number only-->
-|HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf |title=2014 Human Development Report Summary |date=2014 |accessdate=27 July 2014 |publisher=United Nations Development Programme | pages=21–25}}</ref>
-|HDI_rank = 79th
-|currency = [[Georgian lari|Lari]] ([[File:Sign of Georgian Lari (5).png|link=ლ|20px]])
+|population_density_km2 = ۶۵٫۴
+|population_density_sq_mi = ۱۶۹٫۳
+|population_density_rank =
+|GDP_PPP = ۲۶٫۳۴۸ بیلیون دالار
+|GDP_PPP_rank =
+|GDP_PPP_year = ۲۰۱۲
+|GDP_PPP_per_capita =
+|HDI_year = ۲۰۱۲
+|HDI_change = increase <!--increase/decrease/steady-->
+|HDI = ۰٫۷۴۵ <!--number only-->
+|HDI_ref =
+|HDI_rank =
+|currency = [[د ګرجستان لاری|لاری]] (ლ)
 |currency_code = GEL
 |time_zone = GET
-|utc_offset = +4
-|time_zone_DST = 
-|utc_offset_DST = 
+|utc_offset = +۴
+|time_zone_DST =
+|utc_offset_DST =
 |DST_note =
 |antipodes =
 |date_format =
-|drives_on = right
-|calling_code = [[+995]]
+|drives_on = راست
+|calling_code = +۹۹۵
 |iso3166code = GE
 |ISO_3166–1_alpha2 = GE
 |ISO_3166–1_alpha3 = GEO
-|ISO_3166–1_numeric = 268
-|cctld = [[.ge]] [[.გე]]
-|footnote_a = {{note|capitaloffbox}} The Seat of Government is in [[Kutaisi]]
+|ISO_3166–1_numeric = ۲۶۸
+|cctld = [[.ge]]
 }}
+ګرجستان لویدیځ ته له [[تورسمندر]] شمال خواته یې [[روسیه]] سویل ته له ترکی او [[ارمنستان]] او د سویل ختیځ لورته له [[آذربایجان]] سره ګډه پوله لرې.
 
-'''گرجستان''' ([[گرجی ژبه|گرجي]]: საქართველო) په [[قفقاز]] کې پروت یو هیواد دی چې پلازمېنه یې [[تفلیس]] نومیږي او گرجستان د [[اوراسیا]] په سیمه کې پروت دی چې له [[آسیا]] او [[اروپا]] سره گډه پوله لري
 ==اقتصاد==
 ==اداري ویش==
 ==سیاسي جوړښت==
