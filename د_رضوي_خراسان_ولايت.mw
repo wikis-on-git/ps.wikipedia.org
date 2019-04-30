@@ -1,7 +1,6 @@
 {{ولايت-مالوماتبکس
 | name                    = رضوي خراسان ولايت
 | native_name             = استان خراسان رضوی
-| native_name_lang        = fa<!-- ISO 639-2 code e.g. "fa" for Persian -->
 | settlement_type         = [[د ايران ولايتونه|ولايت]]
 | image_skyline           = 
 | image_alt               = 
@@ -9,13 +8,6 @@
 | image_map               =  Locator map Iran Razavi Khorasan Province.png
 | map_alt                 = د ايران نخشه چې رضوي خراسان پکې په نخښه شوی highlighted
 | map_caption             = د ايران په نخشه کې د رضوي خراسان موقعيت
-| latd  = 36.2980
-| longd = 59.6057
-| coor_pinpoint           = 
-| coordinates_type        = region:IR_type:adm1st
-| coordinates_display     = inline,title
-| coordinates_footnotes   = 
-| coordinates_region      = IR
 | subdivision_type        = [[د خپلواکه هېوادونو لړليک|هېواد]]
 | subdivision_name        = {{flag|ايران}}
 | parts_type              = [[د ايران ولسوالۍ|ولسوالۍ]]
