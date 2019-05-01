@@ -156,7 +156,7 @@
 | timezone2_DST           =
 | utc_offset2_DST         =
 <!-- postal codes, area code --->
-| postal_code_type        = [[پُستی کوډ]]
+| postal_code_type        = [[پوسټ کوډ]]
 | postal_code             =
 | postal2_code_type       =
 | postal2_code            =
@@ -172,7 +172,7 @@
 | twin2_country           = <!-- etc. , up to twin9 / twin9_country -->
 <!-- blank fields (section 1) -->
 | blank_name_sec1         =  رسمي ژبي
-| blank_info_sec1         = [[زبان روسي ژبه|روسي]]، [[آبخازي ژبه|آبخازي]]
+| blank_info_sec1         = [[روسي ژبه|روسي]]، [[آبخازي ژبه|آبخازي]]
 | blank1_name_sec1        = [[د پیسو واحد]]
 | blank1_info_sec1        = [[روبل]]{{سخ}}[[آپسار]]
 | blank2_name_sec1        =
