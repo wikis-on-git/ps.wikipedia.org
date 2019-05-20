@@ -1,1 +1,84 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available and the Table at Infobox settlement for all fields and descriptions of usage-->
+|name                   = Il-Belt Valletta <!-- at least one of the first two fields must be filled in -->
+|official_name          = Humilissima Civitas Valletta
+|other_name             = Ċittà Umilissima
+|native_name            = <!-- if different from the English name -->
+|nickname               = Il-Belt
+|settlement_type        = City and [[Local councils of Malta|Local council]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  = Città Umilissima
+|image_skyline          = Valletta skyline.jpg
+|imagesize              = 300px
+|image_caption          = Valletta skyline
+|image_flag             = Flag of Valletta, Malta.svg
+|image_shield           = Valletta_coa.svg
+|image_map              = Valletta-map.svg
+|mapsize                =
+|map_caption            = Location within Malta
+|pushpin_map            = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = none<!-- the position of the pushpin label: left, right, top, bottom, none -->
+
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ---->
+|subdivision_type       =هیواد
+|subdivision_name       = {{پرچم|Malta}}
+|subdivision_type1      = Island
+|subdivision_name1      = [[مالتا (ټاپو)|Malta]]
+|subdivision_type2      = [[ مالتا سیمه|Regions]]
+|subdivision_name2      = [[Malta Xlokk]]
+|subdivision_type3      = [[Districts of Malta|District]]
+|subdivision_name3      = [[Districts of Malta#Southern Harbour District|Southern Harbour]]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             = Borders
+|parts_style            = para
+|p1                     =
+|leader_title           = [[ښاروال]]
+|leader_name            = Alexiei Dingli
+|leader_party           = [[Partit Nazzjonalista|PN]]
+|established_title      = <!-- Founded -->
+|established_date       =
+|area_footnotes           =
+|area_total_km2           =۰٫۸ <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|elevation_footnotes    = <!--for references: use<ref></ref> tags-->
+|elevation_m            =۵۶
+|elevation_max_m            =
+|elevation_min_m            =
+|population_as_of               = مارچ ۲۰۱۱
+|population_total               =۶۹۶۶
+|population_density_km2         =auto
+|population_demonym             =Belti (m), Beltija (f), Beltin (pl)
+|time_zone                   = [[Central European Time|CET]]
+|utc_offset                  = +۱
+|time_zone_DST               = [[Central European Summer Time|CEST]]
+|utc_offset_DST              = +۲
+|coordinates_type            = type:city_region:MT
+|latd=35 |latm=53 |lats=52 |latNS=N
+|longd=14 |longm=30 |longs=45 |longEW=E
+<!-- Area/postal codes & others ---->
+|postal_code_type       = [[MaltaPost#Postal codes|Postal code]]
+|postal_code            = VLT
+|area_code_type         = [[د نړۍ د هیوادونو تلفتی کوډ]]
+|area_code              = ۳۵۶
+|blank_name             = [[قدیس حامی|Patron Saints]]
+|blank_info             = [[دومینیک]]،  [[Our Lady of Mount Carmel]], [[پولس]]، [[آګوستین]]
+|blank1_name            = [[Culture of Malta#Festas|Feast&nbsp;Days]]
+|blank1_info            = 3 August & 10 February
+|website                = {{وبسایټ رسمی|http://www.cityofvalletta.org}}
+}}
+{{Infobox World Heritage Site
+| Name        = City of Valletta
+| infoboxwidth= 240px
+| Image       = [[دوسیه:Ostansicht Vallettas.jpg|منځ|260px]]
+| State Party = [[مالتا]]
+| Type        = Cultural
+| Criteria    = i, vi
+| ID          = ۱۳۱
+| Region      = [[د یونسکو فرهنګي میراثونه]]
+| Year        = ۱۹۸۰
+| Session     =}}
+
 '''والتا''' په [[مالتایي ژبه]] Valletta) په [[مدیترانه سمندر]] کې پروت د [[مالتا]] هیواد پلازمینه او لوی ښار دی چې کابو ۰۰۰'۷ وګړي لري. یاد ښار د شپاړسمی پیړۍ زیات تاریخي آثار لری په همدی د لیل د [[یونسکو]] لخوا د نړۍ د  میراسونو څخه وشمیرل شو.
