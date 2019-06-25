@@ -4,16 +4,16 @@
 | name =  ګوګل ژباړن
 | logo = [[File:Google Translate logo.svg|130px]]
 | screenshot = [[File:Screenshot of Google Translate.png|300px]]
-| collapsible = yes
+| collapsible = هو
 | collapsetext = Screenshot
 | caption = Google Translate homepage
 | url = {{URL|https://translate.google.com}}
-| commercial = Yes
-| type = [[Machine translation]]
-| registration = Optional
-| language = 103 languages, see [[Google Translate#Supported languages|below]]
-| num_users = Over 200 million people daily
-| owner = [[Google]]
+| commercial = هو
+| type = [[ماشیني ژباړل]]
+| registration = اختیاری/په خپله خوښه
+| language =  ژبي ۱۰۳,  [[Google Translate#Supported languages|پکې]]
+| num_users = کابو 200 میلیونه کار مندان هره ورځ 
+| owner = [[ګوګل شرکت]]
 | launch_date = {{start date and age|2006|4|28}} (as [[statistical machine translation]])<ref name="Statistical machine translation"/><br/>{{start date and age|2016|11|15}} (as [[neural machine translation]])<ref name="GT_Turovsky_2016"/>
-| current_status = Active
+| current_status = فعال
 }}
