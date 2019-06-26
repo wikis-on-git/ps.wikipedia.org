@@ -1,3 +1,4 @@
+'''آلتای ولسمشریزه''' یاهم (آلتای جمهوریت) په [[روسي]] Респу́блика Алта́й) په [[انګلیسي]] Altai Republic) د روسیه فدراسیون له خپلواکو جمهوریتونو څخه یو دی. پلازمینه یې [[ګورنو آلتاییسک]] او نفوس یې ۱۶۸'۲۱۶ نفره دی.
 {{Infobox settlement
 | name                    = آلتای جمهوریت
 | official_name           =
@@ -80,7 +81,7 @@
 | founder                 =
 | named_for               =
 | seat_type               = [[د روسیه د ولایتونو نوملړ|ښار]]
-| seat                    = [[گورنو-آلتاییسک]]
+| seat                    = [[ګورنو-آلتاییسک]]
 | parts_type              = <!-- defaults to: Boroughs -->
 | parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
 | parts                   = <!-- parts text, or header for parts list -->
@@ -89,8 +90,8 @@
 | government_type         = [[جمهوری]]
 | governing_body          =
 | leader_party            =
-| leader_title            = رئیس جمهور{{سخ}}نخست وزیر
-| leader_name             = [[آلکساندر بردنیکوف]]{{سخ}}ندارد
+| leader_title            = ولسمشر{{سخ}}لومړی وزیر
+| leader_name             = [[آلکساندر بردنیکوف]]{{سخ}}نلری
 <!-- display settings ---->
 | total_type              =
 | unit_pref               =
@@ -138,7 +139,7 @@
 <!-- demographics (section 1) -->
 | demographics_type1      = نژاد
 | demographics1_footnotes =
-| demographics1_title1    = [[مردم روس|روسی]]{{سخ}}[[آلتائی]]{{سخ}}[[قزاق]]{{سخ}}بقیه
+| demographics1_title1    = [[روسي خلک|روسي]]{{سخ}}[[آلتائی]]{{سخ}}[[قزاق]]{{سخ}}نور
 | demographics1_info1     = ۵۷٫۴٪{{سخ}}۲۰٪{{سخ}}۶٪{{سخ}}۳٫۲٪
 <!-- demographics (section 2) -->
 | demographics_type2      =
@@ -155,7 +156,7 @@
 | timezone2_DST           =
 | utc_offset2_DST         =
 <!-- postal codes, area code --->
-| postal_code_type        = [[کد پستی]]
+| postal_code_type        = [[ پوستی کوډ]]
 | postal_code             =
 | postal2_code_type       =
 | postal2_code            =
@@ -170,9 +171,9 @@
 | twin2                   =
 | twin2_country           = <!-- etc. , up to twin9 / twin9_country -->
 <!-- blank fields (section 1) -->
-| blank_name_sec1         = زبان‌های رسمی
-| blank_info_sec1         = [[زبان روسی|روسی]]، [[زبان آلتای|آلتای]]
-| blank1_name_sec1        = [[واحد پول]]
+| blank_name_sec1         = رسمي ژبي
+| blank_info_sec1         = [[روسي ژبه|روسي]]، [[آلتایي ژبه|آلتایي]]
+| blank1_name_sec1        = [[د پیسو واحد]]
 | blank1_info_sec1        = [[روبل]]
 | blank2_name_sec1        =
 | blank2_info_sec1        =
