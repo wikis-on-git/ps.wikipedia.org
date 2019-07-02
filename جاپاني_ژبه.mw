@@ -1,10 +1,9 @@
-{{دیگر کاربوېشنيزها|ژاپنی}}
-{{جعبه اطلاعات زبان
+{{ د ژبه بکس
 |نوم = جاپاني |اصلي نوم={{lang|ja|日本語}} ''Nihongo''
 |ethnicity=[[Yamato people]]
-|کورنی رنگ = Altaic
+|کورنی رنګ = Altaic
 |انځور = [[دوتنه:Nihongo.svg|75px]]
-|لمنلیک = ''Nihongo'' (''جاپاني''){{سخ}}در [[جاپاني لیکدود|جاپاني سکرېپټ]]
+|لمنلیک = ''Nihongo'' (''جاپاني''){{سخ}} په [[جاپاني لیکدود|جاپاني سکرېپټ]]
 |انځور کچه = 75px
 |imageheader = 
 |گړدود ={{IPA-ja|nihoŋɡo|}}
@@ -16,11 +15,11 @@
 |ancestor2     = [[منځنۍ لومړنۍ جاپاني]]
 |ancestor3     = [[منځنۍ وروستنۍ جاپاني]]
 |ancestor4     = [[نوې لومړنۍ جاپاني]]
-|اسکریپت = [[سامانه نوشتاری ژاپنی|لوگوگراف‌های و هجابندی‌های ژاپنی]]، [[حروف چینی]]، [[روماجی]]، [[اسکریپت سیدهام]] (برخی زمان‌ها در معابد بودایی.)
-|ملیت = {{JPN}}{{سخ}}{{PLW}} ([[Angaur]])<ref name="cia-factbook">{{یادکرد وب|نشانی=https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html|عنوان=CIA – The World Factbook – Field Listing :: Languages|ناشر=[[سیا]]|تاریخ بازدید=February 17, 2010|نشانی بایگانی=http://www.webcitation.org/5ncBXKnx7|تاریخ بایگانی=February 17, 2010}}</ref><ref name="ethnologue">{{یادکرد وب|نشانی=http://www.ethnologue.com/show_country.asp?name=Palau|عنوان=Languages of Palau|ناشر=SIL International|اثر=Lewis, Paul M. (ed)|سال=2009|تاریخ بازدید=February 17, 2010|نشانی بایگانی=http://www.webcitation.org/5ncBmM3tC|تاریخ بایگانی=February 17, 2010}}</ref>
-<!-- (درباره گزارش سیا)
-<sup>[[#توزیع جغرافیایی|[1]]]-->
-|agency = ندارد{{سخ}}[[دولت ژاپن]] نقش اصلی را ایفا می‌کند
+|اسکریپت = [[جاپانی لیک دود|جاپاني لولوګراف]]، [[حروف چینی]]، [[روماجی]]، [[اسکریپت سیدهام]] (په ځینو وختونو کې په بودایی معبدونو کې.)
+|ملت = {{JPN}}{{سخ}}{{PLW}} ([[Angaur]])<ref name="cia-factbook">{{د وبسایټ یادونه|نښان=https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html|عنوان=CIA – The World Factbook – Field Listing :: Languages|نشر=[[تور]]|تاریخ بازدید=February 17, 2010|نښان =http://www.webcitation.org/5ncBXKnx7|تاریخ=February 17, 2010}}</ref><ref name="ethnologue">{{د وبسایټ یادونه|نښانی=http://www.ethnologue.com/show_country.asp?name=Palau|عنوان=Languages of Palau|نشر=SIL International|اثر=Lewis, Paul M. (ed)|کال=2009|د لیدلو تاریخ=February 17, 2010|نښانی بایگانی=http://www.webcitation.org/5ncBmM3tC|تاریخ=February 17, 2010}}</ref>
+<!-- (د رپوټ په اړه)
+<sup>[[#جغرافیایي تشریح|[1]]]-->
+|agency = نلري{{سخ}}[[د جاپان دولت]] اصلی رول لوبوی
 |iso1 = ja
 |iso2 = jpn
 |iso3 = jpn
@@ -30,14 +29,11 @@
 {{legend|#00FFFF|Japanese is a minority language.}}
 |یادداشت=IPA
 }}
-
-'''جاپاني ژبه''' {{په جاپانۍ|日本語، نیهونگو}}، د [[جاپان]] ولس او د هغه هېواد رسمي ژبه ده چې د ۱۳۰ مېلیونو وگړو له خوا ویل کېږي. .<ref>{{د ویب یادښت|پته=Japanese Language |لیکوال=MIT|نشانی=http://web.mit.edu/jpnet/articles/JapaneseLanguage.html|بازیابی=۱۴ دسمبر ۲۰۱۰}}</ref>
-
+'''نیهونګو ژبه''' {{په جاپانۍ|日本語، نیهونګو}}، د [[جاپان]] ولس او د هغه هېواد رسمي ژبه ده چې د ۱۳۰ مېلیونو وګړو له خوا ویل کېږي. .<ref>{{د ویب یادښت|پته=Japanese Language |لیکوال=MIT|نښان=http://web.mit.edu/jpnet/articles/JapaneseLanguage.html|بیالیدنه=۱۴ ډسمبر ۲۰۱۰}}</ref>
 له لاتیني ژبې هم د جاپاني ژبې لیکدود لپاره کار اخېستل کېږي چې دېته بیا روماجي وايي.
 
 د کانجي څو مثالونه له معنی سره:
-
- {| class="wikitable"
+{| class="wikitable"
 ! کانجي || تلفظ ||معنی
 |--
 | 土||tsuchi||خاوره
