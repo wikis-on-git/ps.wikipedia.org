@@ -10,7 +10,7 @@
 | image_caption = 
 | trading_name = 
 | native_name = 
-| native_name_lang = {{Lang|[en]|[Pakistan Tourism Portal ]}}
+| native_name_lang =
 | romanized_name = 
 | former_name = 
 | type = 
@@ -20,16 +20,16 @@
 | industry = [[سیاحت]]
 | genre = 
 | fate = 
-| predecessor = <!-- or: | predecessors = -->
-| successor = <!-- or: | successors = -->
-| founded = <!-- if known: {{Start date and age|YYYY|MM|DD}} in [[city]], state, country -->
+| predecessor = 
+| successor = 
+| founded = 
 | founder = وصال احمد
-| defunct = <!-- {{End date|YYYY|MM|DD}} -->
+| defunct = 
 | hq_location = 
 | hq_location_city = 
 | hq_location_country = 
 | num_locations = 
-| num_locations_year = <!-- Year of num_locations data (if known) -->
+| num_locations_year = 
 | area_served = [[پاکستان ]]
 | key_people = 
 | products = 
@@ -59,7 +59,7 @@
 | module = <!-- Used to embed other templates -->
 | ratio = <!-- Basel III ratio; used for banks only -->
 | rating = <!-- Credit rating; used for banks only -->
-| website = <!-- {{URL|example.com}} -->
+| website = {{URL|pakistantourismportal.com}}
 | footnotes = 
 }}
 
