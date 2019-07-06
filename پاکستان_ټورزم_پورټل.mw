@@ -1,36 +1,66 @@
-{{Infobox website
-| name                 = پاکستان ټورزم پورټل
-| logo                 = 
-| logo_size            = 
-| logo_alt             = 
-| logo_caption         = <!-- or: | logocaption = -->
-| screenshot           = 
-| collapsible          = 
-| collapsetext         = 
-| background           = 
-| screenshot_size      = 
-| screenshot_alt       = 
-| caption              = 
-| url                  = <!-- {{URL|example.com}} -->
-| commercial           = 
-| type                 = 
-| registration         = 
-| language             = 
-| num_users            = 
-| content_license      = 
-| programming_language = 
-| owner                = وصال احمد
-| author               = 
-| editor               = 
-| launch_date          = 
-| revenue              = 
-| alexa                = 
-| ip                   = 
-| issn                 = <!-- ISSN, e.g. 1085-6706 (automatically linked to https://www.WorldCat.org) -->
-| eissn                = <!-- eISSN, e.g. 1085-6706 (automatically linked to https://www.WorldCat.org) -->
-| oclc                 =
-| current_status       = فعال
-| footnotes            = 
+{{Infobox company
+| name = پاکستان ټورزم پورټل
+| logo = 
+| logo_size = 
+| logo_alt = 
+| logo_caption = 
+| image = 
+| image_size = 
+| image_alt = 
+| image_caption = 
+| trading_name = 
+| native_name = 
+| native_name_lang = {{Lang|[en]|[Pakistan Tourism Portal ]}}
+| romanized_name = 
+| former_name = 
+| type = 
+| traded_as = 
+| ISIN = 
+| ISIN2 = 
+| industry = [[سیاحت]]
+| genre = 
+| fate = 
+| predecessor = <!-- or: | predecessors = -->
+| successor = <!-- or: | successors = -->
+| founded = <!-- if known: {{Start date and age|YYYY|MM|DD}} in [[city]], state, country -->
+| founder = وصال احمد
+| defunct = <!-- {{End date|YYYY|MM|DD}} -->
+| hq_location = 
+| hq_location_city = 
+| hq_location_country = 
+| num_locations = 
+| num_locations_year = <!-- Year of num_locations data (if known) -->
+| area_served = [[پاکستان ]]
+| key_people = 
+| products = 
+| brands = 
+| production = 
+| production_year = <!-- Year of production data (if known) -->
+| services = 
+| revenue = 
+| revenue_year = <!-- Year of revenue data (if known) -->
+| operating_income = 
+| income_year = <!-- Year of operating_income data (if known) -->
+| net_income = <!-- or: | profit = -->
+| net_income_year = <!-- or: | profit_year = --><!-- Year of net_income/profit data (if known) -->
+| aum = <!-- Only for financial-service companies -->
+| assets = 
+| assets_year = <!-- Year of assets data (if known) -->
+| equity = 
+| equity_year = <!-- Year of equity data (if known) -->
+| owner = <!-- or: | owners = -->
+| members = 
+| members_year = <!-- Year of members data (if known) -->
+| num_employees = 
+| num_employees_year = <!-- Year of num_employees data (if known) -->
+| parent = 
+| divisions = 
+| subsid = 
+| module = <!-- Used to embed other templates -->
+| ratio = <!-- Basel III ratio; used for banks only -->
+| rating = <!-- Credit rating; used for banks only -->
+| website = <!-- {{URL|example.com}} -->
+| footnotes = 
 }}
 
 '''پاکستان ټورزم پورټل''' ([[انگرېزي ژبه|انګرېزي]]: '''Pakistan Tourism Portal''')، په پاکستان کښی ده سیاحت ده ټولو نہ يو لوی ویب سايټ دے. چې پکښی تاسو لټون او معلومات کولے شئ ده پاکستان ده ټولو سیاحتی ځایونو.
