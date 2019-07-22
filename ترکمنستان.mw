@@ -1,59 +1,88 @@
-{{هېواد-مالوماتبکس|
-|ملي نوم = ''Türkmenistan Jumhuriyäti''
-|conventional_long_name = Republic of Turkmenistan
-|ټولگړی نوم = تورکمنستان
-|image_flag= Flag of Turkmenistan.svg
+{{Infobox country
+|conventional_long_name = Turkmenistan{{سخ}}ترکمنستان
+|native_name = {{native name|tk|Türkmenistan|Түркменистан}}
+|common_name = ترکمنستان
+|image_flag = Flag of Turkmenistan.svg
 |image_coat = Coat of Arms of Turkmenistan.svg
-|image_map = LocationTurkmenistan.svg
-|national_motto = 
-|ملي سرود = [[Independent, Neutral, Turkmenistan State Anthem]]
-|رسمي ژبه = [[تورکمني ژبه|تورکمني]]
-|پلازمېنه= [[عشق آباد]]
-|latd=37 |latm=58 |latNS=N |longd=58 |longm=20 |longEW=E |
-|لوی ښار = [[عشق آباد]]
-|د حکومت بڼه = [[يو گونديز حکومت]]
-|د لارښود لقب = [[د تورکمنستان سياست|جمهور ريس]]<sup>1</sup>
-|د لارښود نوم = [[سفرمراد نيازوف]]
-|مساحتي وېش = 52وېم
-|د مساحت ارتوالی = 1 E11
-|مساحت= 488,100
-|areami²=188,457 <!-- Do not remove per [[WP:MOSNUM]] -->
-|د اوبو سلنه = 4.9%
-|د وگړو اټکل = 4,833,000
-|population_estimate_rank = 113th<sup>2</sup>
-|د وگړو د شمېر د اټکل کال = July 2005
-|population_census = 
-|د وگړو د سرشمېرنې کال = 
-|د وگړو گڼه گونه = 10
-|population_densitymi² =26 <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 208th
-|GDP_PPP =  $29.38 billion<!--CIA-->
-|GDP_PPP_rank = 86th
-|GDP_PPP_year= 2005
-|GDP_PPP_per_capita =  $5,900
-|GDP_PPP_per_capita_rank = 73rd
-|sovereignty_type = [[د تورکمنستان تاريخ|خپلواکي]]
-|sovereignty_note = From the [[Soviet Union]]
-|established_event1 = Declared
-|established_event2 = Recognized
-|established_date1 = [[October 27]], [[1991]]
-|established_date2 = [[December 8]], [[1991]]
-|HDI = 0.738
-|HDI_rank = 97th
-|HDI_year = 2003
-|HDI_category = <font color="#FFCC00">medium</font>
-|currency = [[منات (تورکمنستان)|تورکمنستاني منات]]
-|currency_code = TMM
+|symbol_type = نښان
+|image_map = Turkmenistan on the globe (Eurasia centered).svg
+|map_caption = {{map caption |location_color= سور رنګ}}
+|national_motto =
+|national_anthem ={{سخ}}{{nowrap|''[[د ترکمنستان ملي سرود|Garaşsyz Bitarap Türkmenistanyň Döwlet Gimni]]''{{سخ}}{{small|''State Anthem of Independent, Neutral Turkmenistan''}}}}{{سخ}}{{ د چین منځ}}[[دوسیه:National anthem of Turkmenistan, performed by the United States Navy Band.oga]]{{پایان}}
+|official_languages = [[ترکمني ژبه|ترکمني]]<ref>https://www.constituteproject.org/constitution/Turkmenistan_2008.pdf</ref>
+|languages_type = رسمي ژبه
+|languages = [[ترکمني ژبه|ترکمني]]
+|ethnic_groups =
+ {{unbulleted list
+  | ۷۴٪ [[ترکمن‌ان|ترکمن]]
+  | ۱۶٪ [[روسان|روس]]
+  | ۴٪ [[ازبکان|ازبک]]
+  | ۶٪ نور
+}}
+|ethnic_groups_year = ۲۰۱۱
+|demonym = ترکمن
+|capital = [[عشق‌ آباد]]
+|latd=37 |latm=58 |latNS=N |longd=58 |longm=20 |longEW=E
+|largest_city = [[عشق‌ آباد]]
+|government_type = [[ریاستي ولسمشر]]
+|leader_title1 = [[ولسمشر]]
+|leader_name1 = [[قربان قلی بردی محمدف]]
+|leader_title2 = د ترکمنستان د پارلمان ریس
+|leader_name2 = [[آقجا نوربردیوا]]
+|legislature = [[د ترکمنستان پارلمان|د ترکمنستان ولسی جرګه]]
+|sovereignty_type = [[د ترکمنستان تاریخ|بنسټ]]
+|established_event1 = [[خانات خیوه]]
+|established_date1 = ۱۵۱۱
+|established_event2 = [[جمهوری سوسیالیستی شوروی ترکمنستان|شوروی ترکمنستان]]
+|established_date2 = ۳۰ افریل۱۹۱۸
+|established_event3 = [[جمهوری سوسیالیستی شوروی ترکمنستان|شوروی ترکمنستان]]
+|established_date3 = ۱۳ مي ۱۹۲۵
+|established_event4 = د بنسټ ایښودنی اعلان
+|established_date4 = ۲۲ اګست ۱۹۹۰
+|established_event5 = له شوروی نه خپلواکی [[شوروی]]
+|established_date5 = ۲۷ اکتوبر ۱۹۹۱
+|established_event6 = په رسمیت پیژندل شوی
+|established_date6 = ۲۶ ډسمبر ۱۹۹۱
+|established_event7 = د اساسي قانون تصویر
+|established_date7 = ۱۸ مي ۱۹۹۲
+|area_rank = 53rd
+|area_magnitude = 1 E11
+|area_km2 = ۴۹۱٬۲۱۰
+|area_sq_mi = ۱۸۸٬۴۵۶ <!--Do not remove per [[WP:MOSNUM]]-->
+|area_footnote =<ref>Государственный комитет Туркменистана по статистике: Информация о Туркменистане : [http://www.stat.gov.tm/ru/content/info/turkmenistan/ О Туркменистане]: Туркменистан — одна из пяти стран Центральной Азии, вторая среди них по площади (491,21 тысяч км2), расположен в юго-западной части региона в зоне пустынь, севернее хребта Копетдаг Туркмено-Хорасанской горной системы, между Каспийским морем на западе и рекой Амударья на востоке.</ref>
+|percent_water = ۴٫۹
+|population_estimate = 5,171,943<ref name=unpop>{{cite journal |url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf |title=World Population Prospects, Table A.1 |version=2008 revision |format=PDF |publisher=United Nations |author=Department of Economic and Social Affairs Population Division |year=2009 |accessdate=12 March 2009}}</ref>
+|population_estimate_rank = 117th
+|population_estimate_year = ۲۰۱۴
+|population_census = |population_census_year =
+|population_density_km2 = ۱۰٫۵
+|population_density_sq_mi = ۲۷٫۱ <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 221st
+|GDP_PPP = $۹۳٫۲۷۱ میلیارد<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2016/01/weodata/weorept.aspx?pr.x=44&pr.y=15&sy=2016&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=925&s=NGDPD,NGDPDPC,PPPGDP,PPPPC,LP&grp=0&a=|title=Turkmenistan |publisher=International Monetary Fund |accessdate=2 June 2016}}</ref>
+|GDP_PPP_rank =
+|GDP_PPP_year = ۲۰۱۶
+|GDP_PPP_per_capita = $17,072<ref name=imf2/>
+|GDP_PPP_per_capita_rank =
+|GDP_nominal = $۳۵٫۳۹۸ میلیارد<ref name=imf2/>
+|GDP_nominal_year = ۲۰۱۶
+|GDP_nominal_per_capita = $6,479<ref name=imf2/>
+|Gini_year =
+|HDI_year = ۲۰۱۴<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change = increase<!--increase/decrease/steady-->
+|HDI = ۰٫۶۸۸ <!--number only-->
+|HDI_ref =<ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf |title=2015 Human Development Report |date=2015 |accessdate=15 December 2015 |publisher=United Nations Development Programme}}</ref>
+|HDI_rank = ۱۰۹ مین
+|currency = [[منات ترکمستان]]
+|currency_code = TMT
 |country_code = TKM
-|time_zone = 
-|utc_offset = +5
-|time_zone_DST = 
-|utc_offset_DST = +6
+|time_zone = TMT
+|utc_offset = +۵
+|drives_on = ښوی
+|calling_code = [[+۹۹۳]]
 |cctld = [[.tm]]
-|calling_code = 993
-|footnotes = 1.) <small>Mr. Niyazov serves as both President and Chairman of the Council of Ministers (his [[cabinet]])</small><br />2.)<small> Rank based on 2005 figures
 }}
 '''تورکمنستان''' چې په رسمي نوم یې '''د تورکمنستان جمهوريت''' دی، د [[منځنۍ آسيا]] يو [[هېواد]] دی. دا هېواد د [[افغانستان]]، [[ايران]]، [[قزاقستان]]، [[اوزبکستان]] او د [[کاسپين سمندرگي]] سره گډې پولې لري. د ۱۹۹۱ زېږيز کال نه دمخه دا هېواد د پخواني [[د شوروي سوسيالیستي جمهوريتونو اتحاد|شوروي اتحاد]] يو جمهوريت گڼل کېده چې په هغه وخت کې د (تورکمن SSR|تورکمنستان سويت سوسياليستي جمهوريت) په نامه يادېده.
+
 ==تاریخ==
 ==کلتور==
 ==جغرافیه==
