@@ -1,6 +1,6 @@
 '''ډنمارکي ژبه'''
 {{Infobox language
- | name          = Danish
+ | name          = ډنمارکي
  | nativename    = ''dansk''
  | pronunciation = {{IPA-da|ˈtænˀsk|}}<ref name="ordnet.dk">{{cite web|url=https://ordnet.dk/ddo/ordbog?query=dansk&tab=for|title=dansk — Den Danske Ordbog|website=ordnet.dk}}</ref>
  | states        = {{ublist |[[Denmark]] |[[Greenland]] |[[Faroe Islands]] |{{nowrap|[[Schleswig-Holstein|Schleswig-Holstein{{smaller|, Germany}}]]}}}}
@@ -10,21 +10,21 @@
  | ethnicity= [[Danes]]
  | date          = 2012
  | ref           = e18
- | familycolor   = Indo-European
- | fam2          = [[Germanic languages|Germanic]]
- | fam3          = [[North Germanic languages|North Germanic]]
- |fam4           = [[South Scandinavian languages|South Scandinavian]]<ref>{{glottolog|sout3248}}</ref>
- | ancestor      = [[Old Norse language|Old Norse]]
- | ancestor2     = [[Old East Norse]]
- | ancestor3     = [[Old Danish|Early Old Danish]]
- | ancestor4     = [[History of Danish#Medieval Danish|Late Old Danish]]
+ | familycolor   = هندو اروپایي ژبه
+ | fam2          = [[جرمني]]
+ | fam3          = [[شمالي جرمني]]
+ |fam4           = [[South سکندونیایي]]<ref>{{glottolog|sout3248}}</ref>
+ | ancestor      = [[زړه ناروژي]]
+ | ancestor2     = [[ختیځه زړه]]
+ | ancestor3     = [[ زړه ډنمارکي]]
+ | ancestor4     = [[د زړې ډنمارکي تصویر تاریخ]]
  | dia1          = {{nowrap|[[Bornholmsk dialect|Bornholmian {{smaller|(Eastern Danish)}}]]}}
- | dia2          = [[Jutlandic dialect|Jutlandic]]
- | dia3          = [[South Jutlandic]]
- | dia4          = [[Insular Danish]]
- | script        = [[Latin script]]: <br />[[Dano-Norwegian alphabet]] {{small|<br />∙ [[Danish orthography]] <br />∙ [[Danish Braille]]}}
+ | dia2          = [[اتلانتیک]]
+ | dia3          = [[سوویلي Jutlandic]]
+ | dia4          = [[ټاپو وزمه ]]
+ | script        = [[تاریخ script]]: <br />[[Dano-Norwegian alphabet]] {{small|<br />∙ [[Danish orthography]] <br />∙ [[Danish Braille]]}}
  | sign          = [[Danish Sign Language]]
- | nation        = {{ublist|{{flag|Kingdom of Denmark}} |{{*}} {{DNK}} |{{*}} {{FRO}} |''{{flag|Schleswig-Holstein}}''|''{{flag|Nordic Council}}'' |''{{EU}}''}}
+ | nation        = {{ublist|{{د ډنمارک پادشاهي}} |{{*}} {{DNK}} |{{*}} {{FRO}} |''{{flag|Schleswig-Holstein}}''|''{{flag|Nordic Council}}'' |''{{EU}}''}}
  | minority      = {{ublist |{{*}} {{GRL}}|{{GER}}}}
  | agency        = {{longitem|[[Dansk Sprognævn]]<br />{{smaller|{{nowrap|(Danish Language Committee)}}}}}}
  | iso1          = da |iso2=dan
