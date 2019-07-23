@@ -1,0 +1,41 @@
+'''ډنمارکي ژبه'''
+{{Infobox language
+ | name          = Danish
+ | nativename    = ''dansk''
+ | pronunciation = {{IPA-da|ˈtænˀsk|}}<ref name="ordnet.dk">{{cite web|url=https://ordnet.dk/ddo/ordbog?query=dansk&tab=for|title=dansk — Den Danske Ordbog|website=ordnet.dk}}</ref>
+ | states        = {{ublist |[[Denmark]] |[[Greenland]] |[[Faroe Islands]] |{{nowrap|[[Schleswig-Holstein|Schleswig-Holstein{{smaller|, Germany}}]]}}}}
+ | image         = File:Codex Holmiensis CE 1350.jpg
+ | imagecaption  = {{small|The first page of the Jutlandic Law originally from 1241 in [[Codex Holmiensis]], copied in 1350. <br />'''The first sentence is:''' "''Mæth logh skal land byggas''" <br />'''Modern orthography:''' "Med lov skal land bygges" <br />'''English translation:''' "With law shall a country be built"}}
+ | speakers      = {{sigfig|5.52|2}} million
+ | ethnicity= [[Danes]]
+ | date          = 2012
+ | ref           = e18
+ | familycolor   = Indo-European
+ | fam2          = [[Germanic languages|Germanic]]
+ | fam3          = [[North Germanic languages|North Germanic]]
+ |fam4           = [[South Scandinavian languages|South Scandinavian]]<ref>{{glottolog|sout3248}}</ref>
+ | ancestor      = [[Old Norse language|Old Norse]]
+ | ancestor2     = [[Old East Norse]]
+ | ancestor3     = [[Old Danish|Early Old Danish]]
+ | ancestor4     = [[History of Danish#Medieval Danish|Late Old Danish]]
+ | dia1          = {{nowrap|[[Bornholmsk dialect|Bornholmian {{smaller|(Eastern Danish)}}]]}}
+ | dia2          = [[Jutlandic dialect|Jutlandic]]
+ | dia3          = [[South Jutlandic]]
+ | dia4          = [[Insular Danish]]
+ | script        = [[Latin script]]: <br />[[Dano-Norwegian alphabet]] {{small|<br />∙ [[Danish orthography]] <br />∙ [[Danish Braille]]}}
+ | sign          = [[Danish Sign Language]]
+ | nation        = {{ublist|{{flag|Kingdom of Denmark}} |{{*}} {{DNK}} |{{*}} {{FRO}} |''{{flag|Schleswig-Holstein}}''|''{{flag|Nordic Council}}'' |''{{EU}}''}}
+ | minority      = {{ublist |{{*}} {{GRL}}|{{GER}}}}
+ | agency        = {{longitem|[[Dansk Sprognævn]]<br />{{smaller|{{nowrap|(Danish Language Committee)}}}}}}
+ | iso1          = da |iso2=dan
+ | lc1           = dan |ld1=Insular Danish
+ | lc2           = jut |ld2=Jutlandic
+ | lingua        = 5 2-AAA-bf & -ca to -cj
+ | glotto        = dani1285
+ | glottoname    = Danish
+ | glotto2       = juti1236
+ | glottoname2   = Jutish
+ | notice        = IPA
+ | map           = File:Idioma danés.PNG
+ | mapcaption    = The Danish-speaking world: {{Legend|#0062FF|regions where Danish is the language of the majority}} {{Legend|#74B4FF|regions where Danish is the language of a significant minority}}
+}}
