@@ -12,20 +12,20 @@
 
 {| class="prettytable"
 |----
-| rowspan="3" align="center" bgcolor="#98FB98" | '''ردیف'''
-| colspan="3" align="center" bgcolor="#98FB98" | '''نام'''
-| colspan="5" align="center" bgcolor="#98FB98" | '''سرشماری'''
-| rowspan="3" align="center" bgcolor="#98FB98" | '''[[کلان‌شهرهای مونته نگرو|کلان‌شهرها]]'''
-| rowspan="3" align="center" bgcolor="#98FB98" | '''نشان'''
-| rowspan="3" align="center" bgcolor="#98FB98" | '''وسعت (km²)'''
+| rowspan="3" align="center" bgcolor="#98FB98" | '''نوملړ'''
+| colspan="3" align="center" bgcolor="#98FB98" | '''نوم'''
+| colspan="5" align="center" bgcolor="#98FB98" | '''سرشمیرنه'''
+| rowspan="3" align="center" bgcolor="#98FB98" | '''[[د مونتینګرو لوی ښار|لوی ښار]]'''
+| rowspan="3" align="center" bgcolor="#98FB98" | '''نښان'''
+| rowspan="3" align="center" bgcolor="#98FB98" | '''مساحت (km²)'''
 |----
-| rowspan="2" align="center" | '''آوانگاری'''
-| colspan="2" align="center" | '''به زبان اصلی'''
-| rowspan="2" align="center" | '''نخستین سرشماری'''
-| rowspan="2" align="center" | '''سرشماری ۱۹۸۱'''
-| rowspan="2" align="center" | '''سرشماری ۱۹۹۱'''
-| rowspan="2" align="center" | '''سرشماری ۲۰۰۳'''
-| rowspan="2" align="center" | '''تخمین ۲۰۰۸'''
+| rowspan="2" align="center" | '''هوا'''
+| colspan="2" align="center" | '''په اصلي ژبه نوم'''
+| rowspan="2" align="center" | '''لومړنۍ سرشمیرنه'''
+| rowspan="2" align="center" | '''سرشمیرنه ۱۹۸۱'''
+| rowspan="2" align="center" | '''سرشمیرنه ۱۹۹۱'''
+| rowspan="2" align="center" | '''سرشمیرنه ۲۰۰۳'''
+| rowspan="2" align="center" | '''اټکل ۲۰۰۸'''
 |----
 | align="center" | '''سیریلیک''' || align="center" | '''لاتین'''
 |----
