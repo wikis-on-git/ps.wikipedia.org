@@ -1,5 +1,5 @@
 '''اسیان''' (آسیانیان/اسیان خلک) آسیان قوم 
-د روسې په قفقاز غرونو کې پروت یو بومي قوم دی چې ټول نفوس یې کابو یومیلیون ته رسیږي.
+د روسې په [[قفقاز]] غرونو کې پروت یو بومي قوم دی چې ټول نفوس یې کابو یومیلیون ته رسیږي.
 {{Infobox ethnic group
 |group=آسیان خلک{{سخ}}(Ирæттæ)
 |poptime=۷۲۰٬۰۰۰
@@ -15,28 +15,28 @@
 |region4    = {{هیواد-بیرغ|Georgia}}{{سخ}}<small>(سویلي اوستیا)</small>
 |pop4       = ۳۸٬۰۲۸
 |ref4       = {{Lower|<ref>(سرشمیرنه۲۰۰۲)</ref>}}
-|region5    = {{Syria}}
+|region5    = [[سوریه]]
 |pop5       = ۵۹٬۲۰۰
 |ref5       = {{Lower|<ref name="Joshua Project">[http://www.joshuaproject.net/includes/export_excel.php?filename=OssetePeopleListing&sqlcode=SELECT%20rop1,%20AffinityBloc,%20rop2,%20PeopleCluster,%20rop3,%20PeopNameAcrossCountries,%20PeopNameInCountry,%20rog3,%20ctry,%20population,%20PercentEvangelical,%20PercentAdherents,%20LeastReached,%20JPScale,%20PrimaryReligion,%20rol3,%20PrimaryLanguageName,%20PhotoAddress,%20if(PhotoAddress%20<>%20'',1,0)%20as%20photo,%20PhotoCredits,%20PhotoCopyright,%20MapAddress,%20if(MapAddress%20<>%20'',1,0)%20as%20map,%20MapCredits,%20MapCopyright,%20if(TextAddress%20<>%20'',1,0)%20as%20text%20FROM%20jppeoples%20WHERE%20rop3='107699'%20ORDER%20BY%20population%20desc,%20Ctry%20ASC Joshua Project]</ref>}}
-|region6    = {{Turkey}}
+|region6    = [[ترکیه]]
 |pop6       = ۳۶٬۹۰۰
 |ref6       = {{Lower|<ref name="Joshua Project" />}}
-|region7    = {{Uzbekistan}}
+|ازبکستان|region7    = [[ازبکستان]]
 |pop7       = ۸٬۱۷۰
 |ref7       = {{Lower|<ref name="Joshua Project" />}}
-|region8    = {{Tajikistan}}
+|تاجکستان|region8    = [[تاجکستان]]
 |pop8       = ۵٬۳۰۰
 |ref8       = {{Lower|<ref name="Joshua Project" />}}
-|region9    = {{Ukraine}}
+|اوکراین|region9    = [[اوکراین]]
 |pop9       = ۴٬۸۳۰
 |ref9       = {{Lower|<ref>[http://www.ukrcensus.gov.ua/rus/results/nationality_population/nationality_popul1/select_51/?botton=cens_db&box=5.1W&k_t=00&p=75&rz=1_1&rz_b=2_1%20&n_page=4 2001 Ukrainian census]</ref>}}
-|region10    = {{Azerbaijan}}
+|اذربایجان|region10    = [[آذربایجان]]
 |pop10       = ۲٬۳۴۰
 |ref10       = {{Lower|<ref name="Joshua Project" />}}
-|region11    = {{Turkmenistan}}
+|ترکمنستان|region11    = [[ترکمنستان]]
 |pop11       = ۲٬۱۷۰
 |ref11       = {{Lower|<ref name="Joshua Project" />}}
-|region12    = {{Kazakhstan}}
+|قزاقستان|region12    = [[قزاقستان]]
 |pop12       = ۲٬۰۹۰
 |ref12       = {{Lower|<ref name="Joshua Project" />}}
 |region13    = {{Kyrgyzstan}}
