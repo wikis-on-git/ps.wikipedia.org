@@ -1,7 +1,7 @@
 '''ترناوا ولایت''' په [[سلواکیایي ژبه|سلواکي]] Trnava Region) د [[سلواکیا]] هیواد اړوند یو ولایت دی چې مرکز یې د [[ترناوا]] ښار دی.
 {{Infobox settlement
 <!-- See Template:Infobox settlement for additional fields and descriptions -->
-|name=منطقه ترناوا
+|name= ترناوا ولایت
 |native_name=Trnavský kraj
 |native_name_lang=<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
 |settlement_type=[[منطقه‌های اسلواکی|منطقه]]
@@ -12,14 +12,14 @@
 |image_map=Trnavakrajloc.png
 |mapsize=
 |map_alt=
-|map_caption=موقعیت منطقه ترناوا در نقشه
+|map_caption=په سلواکیا کې د ترناوا موقیعت
 |latd=|latm=|lats=|latNS=N
 |longd=|longm=|longs=|longEW=E
 |coordinates_region=<!-- ISO 3166-1 alpha-2 or ISO 3166-2 code for country/region containing the coordinates -->
 |coordinates_display=inline,title
 |coordinates_format=dms
-|subdivision_type=کشور
-|subdivision_name=[[اسلواکی]]
+|subdivision_type=هیواد
+|subdivision_name=[[سلواکیا]]
 |seat_type=مرکز
 |seat=[[ترناوا]]
 |leader_title=
@@ -35,9 +35,9 @@
 |population_density_km2=auto
 |iso_code=SK-TA
 |registration_plate=
-|timezone1=[[زمان اروپای مرکزی|زمان]]
+|timezone1=[[د مرکزي اروپا وخت|وخت]]
 |utc_offset1=+1
-|timezone1_DST=[[ساعت تابستانی اروپای مرکزی]]
+|timezone1_DST=[[د مرکزي اروپا د اوړی ساعت]]
 |utc_offset1_DST=+2
 |blank_name_sec1=
 |blank_info_sec1=
