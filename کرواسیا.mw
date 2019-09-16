@@ -1,4 +1,89 @@
 '''کرواسيا هیواد''' په [[کرواسیایي ژبه|کرواسیایي]] Hrvatska) چې په رسمي توګه '''د کرواسیا ولسمشريزه''' نوميږي د [[بالکان]] په سيمه کې پروت يو [[هېواد]] دی.
+{{Infobox country
+| conventional_long_name = Republic of Croatia
+| native_name = {{native name|hr|Republika Hrvatska}}
+| common_name = Croatia
+| image_flag = Flag of Croatia.svg
+| image_coat = Coat of arms of Croatia.svg
+| image_map = EU-Croatia.svg
+| map_caption = {{map caption |location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[اروپا]] |subregion_color=green |legend=EU-Croatia.svg}}
+| national_anthem = "[[Lijepa naša domovino]]"<br/>{{smaller|"Our Beautiful Homeland"}}<br/>[[File:Lijepa nasa domovino instrumental.ogg|center]]
+| official_languages = [[کرواسیایي ژبه|کرواسیایي]]
+| capital = [[زاګرب]]
+| coordinates = {{Coord|45|48|N|16|0|E|type:city}}
+| largest_city = capital
+| ethnic_groups_year = 2011<ref name="Census2011-nationality">{{Croatian Census 2011|E}}</ref>
+| ethnic_groups = {{Unbulleted list |90.4% [[کرواسیایان]]     |4.4% [[صربیایان]] |item3_style=padding-top:0.2em;line-height:1.2em|5.2% {{\}}نور}}
+| demonym = {{Hlist|کرواسیا}}
+| government_type = Unitary parliamentary constitutional republic
+| leader_title1 = [[ولسمشر]]
+| leader_name1 = [[Kolinda Grabar-Kitarović]]
+| leader_title2 = [[لومړی وزیر]]
+| leader_name2 = [[Andrej Plenković]]
+| leader_title3 = [[ویاند]]
+| leader_name3 = [[Gordan Jandroković]]
+| leader_title4 = [[Constitutional Court of Croatia|Chief Justice]]
+| leader_name4 = [[Miroslav Šeparović]]
+| legislature = [[Sabor]]
+| established_event1 = [[Duchy of Croatia|Duchy]]
+| established_date1 = 8th century
+| established_event2 = [[کرواسیا (۹۲۵–۱۱۰۲)]]
+| established_date2 = {{c.|lk=no|925}}
+| established_event3 = [[Croatia in the union with Hungary|Personal union with Hungary]]
+| established_date3 = 1102
+| established_event4 = Joined]]
+| established_date4 = 1 جنوری 1527
+| established_event5 = Secession from<br/>[[اتریش او مجارستان]]
+| established_date5 = 29 اکتوبر 1918
+| established_event6 = [[Creation of Yugoslavia]]
+| established_date6 = 4 ډسمبر 1918
+| established_event7 = [[Independence of Croatia|Decision on independence]]
+| established_date7 = 25 جون 1991
+| established_event8 = [[2013 enlargement of the European Union|EU accession]]
+| established_date8 = 1 جولای 2013
+| area_rank = 126th
+| area_km2 = 56594
+| area_sq_mi = 21851 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 1.09
+| population_census = 4,284,889<ref name="Census 2011 counties">{{Croatian Census 2011|S}}</ref>
+| population_census_year = 2011
+| population_census_rank = 128th
+| population_density_km2 = 75.8
+| population_density_sq_mi = 196.3 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 126th
+| population_estimate = 4,190,700<ref name=countrymeters.info>{{cite web|url=http://ec.europa.eu/eurostat/documents/2995521/7553787/3-08072016-AP-EN.pdf/c4374d2a-622f-4770-a287-10a09b3001b6|date=8 July 2016|accessdate=8 July 2016|title=EU population up to slightly over 510 million at 1 January 2016| work=[[Eurostat]]}}</ref>
+| population_estimate_year = 2016
+| GDP_PPP_year = 2017
+| GDP_PPP =$100.006 billion<ref name=WEO2017>{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=62&pr.y=12&sy=2015&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=960&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=|accessdate=25 April 2017 |title=World Economic Outlook Database, April 2017 – Croatia|work=International Monetary Fund}}</ref>
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita =$24,053<ref name=WEO2017/>
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal_year = 2017
+| GDP_nominal = $51.945 billion<ref name=WEO2017/>
+| GDP_nominal_rank = 
+| GDP_nominal_per_capita =$12,405<ref name=WEO2017/>
+| GDP_nominal_per_capita_rank = 
+| Gini_year = 2014
+| Gini_change = decrease <!--increase/decrease/steady-->
+| Gini = 30.2 <!--number only-->
+| Gini_ref = <ref name=eurogini>{{cite web|title=Gini coefficient of equivalised disposable income (source: SILC)|url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12|publisher=Eurostat Data Explorer|accessdate=13 August 2013}}</ref>
+| Gini_rank = 
+| HDI_year = 2015<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI = 0.827 <!--number only-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf |title=2016 Human Development Report |year=2016 |accessdate=25 March 2017 |publisher=United Nations Development Programme}}</ref>
+| HDI_rank = 45th
+| currency = [[Croatian kuna|Kuna]]
+| currency_code = HRK
+| time_zone = [[Central European Time|CET]]
+| utc_offset = +1
+| time_zone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| drives_on = right
+| calling_code = [[Telephone numbers in Croatia|+385]]
+| cctld = [[.hr]]<sup>a</sup>
+| footnote_a = The [[.eu]] domain is also used, as in other [[اروپا]] member states.
+}}
 د یاد هیواد د هر وګړې کلنی عاید ۹۲۰’۱۳ [[امریکایي ډالر|ډالره]] دي. [[سیلانې]] د کرواسی د [[اقتصاد]] لویه برخه جوړوې چې د ټول اقتصاد ۲۰% یې د سیلانې له لاری لاسته راوړې. د کرواسی سیاسي نظام جمهوری تک (یو) پارلمانی دی. دا هیواد د [[نړۍ]] په مختلفو سازمانونو کې غړیتوب لرې چې د هغې جملی نه یوه [[اروپایي ټولنه]] ده او په ۹-۲۰۰۸ کلونو کې [[امنیت شورا|د ملګروملتونو امنیت شورا]] غیر دایمی غړی وو.
 کرواسیا په ۱۹۱۸ کال کې د دوهمی نړیوالی جګړی نه وروسته [[د اتریش مجارستان امپراطوري]] نه جداشوه او د پخوانی [[یوګسلاویا]] سره یوځای شوه. دا هیواد په ۲۱ د جون ۱۹۹۱ د یوګسلاویا نه خپله خپلواکی ترلاسه کړه. د کرواسیا د خپلواکی جګړې څلور کاله دوام درلود چې د خپلواکی غوښتونکو په ګټه تمامه شوه او یاد هیواد خپله خپلواکی تر ننه ساتلی ده. د کرواسیا لوی ښار او پلازمینه د [[زاګرب]] ښار دی.
 
