@@ -1,5 +1,5 @@
 '''دیور ولایت''' (دیور (هنګرې) په [[هنګري ژبه|هنګري]] Győr) د هنګرې هیواد په شمال لویدیځ کې پروت ښار دی. دیور د مجارستان هیواد شپږم لوی ښار دی، یاد ښار په ۲۰۱۹م کال کې ۱۳۰،۴۷۸ وګړي لرل.
-Infobox settlement
+{{Infobox settlement
 | name                    = دیور ولایت
 | native_name             = Győr
 | native_name_lang        =
@@ -89,5 +89,6 @@ Infobox settlement
 | website                 = <!-- {{URL|example.com}} -->
 | footnotes               =
 }}
+
 ==جغرافیه==
 ==تاریخ==
