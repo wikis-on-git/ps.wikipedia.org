@@ -3,7 +3,7 @@
 | name                    = مونستر ولایت
 | native_name             =Munster{{سخ}}''An Mhumhain'' <ref>ISO 3166-2 Newsletter II-1, 19 February 2010, which gives "Munster" as the official English name of the Province and "An Mhumhain" as the official Irish name of the Province and cites "Ordnance Survey Office, Dublin 1993" as its source – [http://www.iso.org/iso/iso_3166-2_newsletter_ii-1_corrected_2010-02-19.pdf http://www.iso.org/iso/iso_3166-2_newsletter_ii-1_corrected_2010-02-19.pdf]</ref>
 | native_name_lang        = 
-| settlement_type         = [[استان‌های ایرلند|استان]]
+| settlement_type         = [[د ایرلنډ هیواد ایداري وېش|ولایت]]
 | image_skyline           = 
 | image_alt               = 
 | image_caption           = 
@@ -31,7 +31,7 @@
 | coordinates_region      = IE 
 | coordinates_display     = inline,title
 | coordinates_footnotes   = 
-| subdivision_type        = [[فهرست کشورهای جهان|کشور]]
+| subdivision_type        = [[د نړۍ د هیوادونو نوملړ|هیواد]]
 | subdivision_name        = {{flag|Ireland}}
 | subdivision_type1       = 
 | subdivision_name1       = 
@@ -42,11 +42,11 @@
 | established_title       = 
 | established_date        = 
 | founder                 = 
-| seat_type               = [[فهرست شهرهای جمهوری ایرلند|مرکز]]
+| seat_type               = [[د ایرلنډ هیواد د ښارونو نوملړ|ښار]]
 | seat                    = [[کورک]]
 | government_footnotes    = 
 | leader_party            = 
-| leader_title            = استاندار
+| leader_title            = والی
 | leader_name             = 
 | unit_pref               = Metric<!-- or US or UK -->
 | area_footnotes          = 
@@ -59,7 +59,7 @@
 | elevation_footnotes     = 
 | elevation_m             = 
 | population_total        = 1,246,088 
-| population_rank         = ([[استان‌های ایرلند|سوم]])
+| population_rank         = ([[د آیرلنډ هیواد د ولایتونو نوملړ]])
 |population_footnotes =<ref>{{cite web |url=http://census.cso.ie/sapmap2011/Results.aspx?Geog_Type=PR&Geog_Code=2 |title=Province Munster |publisher=[[Central Statistics Office (Ireland)|Central Statistics Office]] |year=2011}}</ref>
 | population_as_of        = ۲۰۱۱ 
 | population_density_km2  = auto
@@ -77,5 +77,6 @@
 | website                 = <!-- {{URL|example.com}} -->
 | footnotes               = 
 }}
+
 ==جغرافیه==
 ==تاریخ==
