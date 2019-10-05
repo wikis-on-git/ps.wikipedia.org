@@ -1,10 +1,10 @@
-'''آبروتزو'''
+'''آبروتزو''' په [[ایټالیایي ژبه|ایټالوي]] Abruzzo) د [[ایټالیا]] هیواد له ولایتونو څخه یو دی.
 {{Infobox settlement
 <!-- See Template:Infobox settlement for additional fields and descriptions -->
-| name                    = اَبروتزو
+| name                    = اَبروتزو ولایت
 | native_name             = Abruzzo
 | native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
-| settlement_type         = [[فهرست ناحیه‌های ایتالیا|ناحیه ایتالیا]]
+| settlement_type         = [[د ایټالیا هیواد ایداري وېش|سیمه]]
 | image_skyline           =
 | image_alt               =
 | image_caption           =
@@ -18,7 +18,7 @@
 | motto                   =
 | image_map               = Italy Regions Abruzzo Map.png
 | map_alt                 =
-| map_caption             = موقعیت آبروزو در ایتالیا
+| map_caption             = په ایټالیا کې د آبروزو موقیعت
 | pushpin_map             =
 | pushpin_label_position  =
 | pushpin_map_alt         =
@@ -29,10 +29,10 @@
 | coordinates_type        =
 | coordinates_display     = inline,title
 | coordinates_footnotes   =
-| subdivision_type        = کشور
+| subdivision_type        = هیواد
 | subdivision_name        = {{ITA}}
-| subdivision_type1       = [[استان‌های ایتالیا|استان‌ها]]
-| subdivision_name1       = [[استان کییتی|کییتی]]، [[استان لاکویلا|لاکویلا]]، [[استان پسکارا|پسکارا]]، [[استان تیرامو|تیرامو]]
+| subdivision_type1       = [[د ایټالیا هیواد د ولایتونو نونلړ|ولایت]]
+| subdivision_name1       = [[کییتي]]، [[لاکویلا]]، [[پسکارا]]، [[تیرامو]]
 | subdivision_type2       =
 | subdivision_name2       =
 | subdivision_type3       =
@@ -41,10 +41,10 @@
 | established_date        =
 | founder                 =
 | seat_type               = مرکز
-| seat                    = [[لاکوئیلا]]
+| seat                    = [[لاکویلا]]
 | government_footnotes    =
-| leader_party            = حزب آزادی مردم
-| leader_title            = رئیس جمهور
+| leader_party            = د خلکو آزادی ګوند
+| leader_title            = ولسمشر
 | leader_name             = Giovanni Chiodi
 | unit_pref               = Metric<!-- or US or UK -->
 | area_footnotes          =
@@ -73,3 +73,5 @@
 | website                 = [http://www.regione.abruzzo.it/portale/index.asp www.regione.abruzzo.it/]
 | footnotes               =
 }}
+==جغرافیه==
+==تاریخ==
