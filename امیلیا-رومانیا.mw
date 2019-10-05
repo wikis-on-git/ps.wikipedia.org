@@ -1,10 +1,14 @@
 '''امیلیا رومانیا ولایت''' په [[ایټالیایي ژبه|ایټالوي]] Emilia–Romagna) د [[ایټالیا]] هیواد له شمالي مرکزي سیمو څخه یوه ده.
+               بیرغ
+[[دوتنه:Emilia-Romagna-Bandiera.png]]  
+            رسمي نښان
+[[دوتنه:Regione-Emilia-Romagna-Stemma.svg]]
 {{Infobox settlement
 <!-- See Template:Infobox settlement for additional fields and descriptions -->
 | name                    = امیلیا-رومانیا
 | native_name             = Emilia–Romagna
 | native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
-| settlement_type         = [[فهرست ناحیه‌های ایتالیا|ناحیه ایتالیا]]
+| settlement_type         = [[د ایټالیا سیمې|سیمه]]
 | image_skyline           =
 | image_alt               =
 | image_caption           =
@@ -18,7 +22,7 @@
 | motto                   =
 | image_map               = Italy Regions Emilia-Romagna Map.png
 | map_alt                 =
-| map_caption             = امیلیا-رومانیا روی نقشه ایتالیا
+| map_caption             = امیلیا-رومانیا موقیعت
 | pushpin_map             =
 | pushpin_label_position  =
 | pushpin_map_alt         =
@@ -29,12 +33,12 @@
 | coordinates_type        =
 | coordinates_display     = inline,title
 | coordinates_footnotes   =
-| subdivision_type        = کشور
+| subdivision_type        = هیواد
 | subdivision_name        = {{ITA}}
 | subdivision_type1       = مرکز
 | subdivision_name1       = [[بولونیا]]
-| subdivision_type2       = [[استان‌های ایتالیا|استان‌ها]]
-| subdivision_name2       = [[استان پیاچنزا|پیاچنزا]]
+| subdivision_type2       = [[د ایټالیا هیواد ایداري وېش|ولایت]]
+| subdivision_name2       = [[پیاچنزا|پیاچنزا ولایت]]
 | subdivision_type3       =
 | subdivision_name3       =
 | established_title       =
@@ -43,8 +47,8 @@
 | seat_type               =
 | seat                    =
 | government_footnotes    =
-| leader_party            = حزب دموکرات ایتالیا
-| leader_title            = رئیس جمهور
+| leader_party           = دموکرات ګوند
+| leader_title            = ولسمشر
 | leader_name             = Vasco Errani
 | unit_pref               = Metric<!-- or US or UK -->
 | area_footnotes          =
@@ -73,5 +77,6 @@
 | website                 = [http://www.regione.emilia-romagna.it/ www.regione.emilia-romagna.it/]
 | footnotes               =
 }}
+
 ==تاریخ==
 ==جغرافیه==
