@@ -1,10 +1,10 @@
-'''توسکاني ولایت ''' دذایټالیا هیواد له ایداري برخو څخه یوه ده.
+'''توسکاني ولایت ''' په [[ایټالیایي ژبه|ایټالوي]] Tuscany) د [[ایټالیا]] هیواد له ایداري برخو څخه یوه ده.
 {{Infobox settlement
 <!-- See Template:Infobox settlement for additional fields and descriptions -->
-| name                    = توسکانی
+| name                    = توسکاني
 | native_name             = Tuscany / Toscana
 | native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
-| settlement_type         = [[فهرست ناحیه‌های ایتالیا|ناحیه ایتالیا]]
+| settlement_type         = [[د ایټالیا هیواد سیمې|سیمه]]
 | image_skyline           =
 | image_alt               =
 | image_caption           =
@@ -18,7 +18,7 @@
 | motto                   =
 | image_map               = Italy Regions Tuscany Map.png
 | map_alt                 =
-| map_caption             = موقعیت استان توسکانی در ایتالیا
+| map_caption             = په ایټالیا کې د توسکاني ولایت موقیعت
 | pushpin_map             =
 | pushpin_label_position  =
 | pushpin_map_alt         =
@@ -29,12 +29,12 @@
 | coordinates_type        =
 | coordinates_display     = inline,title
 | coordinates_footnotes   =
-| subdivision_type        = کشور
+| subdivision_type        = هیواد
 | subdivision_name        = {{ITA}}
 | subdivision_type1       = مرکز
 | subdivision_name1       = [[فلورانس]]
-| subdivision_type2       = [[استان‌های ایتالیا|استان‌ها]]
-| subdivision_name2       = [[استان لوکا|لوکا]]
+| subdivision_type2       = [[د ایټالیا هیواد ایداري وېش|ولایت]]
+| subdivision_name2       = [[لوکا]]
 | subdivision_type3       =
 | subdivision_name3       =
 | established_title       =
@@ -43,8 +43,8 @@
 | seat_type               =
 | seat                    =
 | government_footnotes    =
-| leader_party            = حزب دموکرات ایتالیا
-| leader_title            = رئیس جمهور
+| leader_party            = د ایټالیا هیواد دموکرات ګوند
+| leader_title            = ولسمشر
 | leader_name             = انریکو روسی
 | unit_pref               = Metric<!-- or US or UK -->
 | area_footnotes          =
@@ -73,5 +73,6 @@
 | website                 = [http://www.regione.toscana.it/ www.regione.toscana.it/]
 | footnotes               =
 }}
+
 ==جغرافیه==
 ==تاریخ==
