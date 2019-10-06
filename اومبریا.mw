@@ -1,10 +1,10 @@
 '''اومبریا ولایت''' د ایټالیا هیړاد له مرکزي سیمو څخه یوه کوچینۍ هغه ده.
 {{Infobox settlement
 <!-- See Template:Infobox settlement for additional fields and descriptions -->
-| name                    = اومبریا
+| name                    = اومبریا ولایت
 | native_name             = Umbria
 | native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
-| settlement_type         = [[فهرست ناحیه‌های ایتالیا|ناحیه ایتالیا]]
+| settlement_type         = [[د ایټالیا هیواد سیمې|سیمه]]
 | image_skyline           = 
 | image_alt               = 
 | image_caption           = 
@@ -18,7 +18,7 @@
 | motto                   = 
 | image_map               = Italy Regions Umbria Map.png
 | map_alt                 = 
-| map_caption             = موقعیت اومبریا در ایتالیا 
+| map_caption             = په ایټالیا کې د اومبریا موقیعت 
 | pushpin_map             = 
 | pushpin_label_position  = 
 | pushpin_map_alt         = 
@@ -29,7 +29,7 @@
 | coordinates_type        = 
 | coordinates_display     = inline,title
 | coordinates_footnotes   = 
-| subdivision_type        = کشور
+| subdivision_type        = هیواد
 | subdivision_name        = {{ITA}}
 | subdivision_type1       = مرکز
 | subdivision_name1       = [[پروجا]]
@@ -43,8 +43,8 @@
 | seat_type               = 
 | seat                    = 
 | government_footnotes    = 
-| leader_party            = حزب دموکرات ایتالیا 
-| leader_title            = رئیس جمهور
+| leader_party            = د ایټالیا هیواد دموکرات ګوند
+| leader_title            = ولسمشر
 | leader_name             = Catiuscia Marini
 | unit_pref               = Metric<!-- or US or UK -->
 | area_footnotes          = 
@@ -73,5 +73,6 @@
 | website                 =  {{URL|http://www.regione.umbria.it}} 
 | footnotes               = 
 }}
+
 ==جغرافیه==
 ==تاریخ==
