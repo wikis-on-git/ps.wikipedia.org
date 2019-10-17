@@ -1,4 +1,4 @@
-'''ګشتیفار ښار''' په [[مقدونیایي ژبه|مقدونیایي]] 
+'''ګشتیفار ښار''' په [[مقدونیایي ژبه|مقدونیایي]] Гостивар) د [[شمالي مقدونیا]] هیواد په [[پولوګ]] ولایت کې موقیعت لري.
 {{Infobox settlement
 <!--See Template:Infobox Settlement for additional fields that may be available-->
 <!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
@@ -29,7 +29,7 @@
 |map_caption            = Location in Northwestern Macedonia.
 |pushpin_map            =Macedonia<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
 |pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
-|pushpin_map_caption    =موقعیت در مقدونیه
+|pushpin_map_caption    =موقعیت
 |pushpin_mapsize        =
 <!-- Location ---->
 |coordinates_region     = MK
@@ -84,9 +84,9 @@
 |population_density_km2         = <!--For automatic calculation, any density field may contain: auto -->
 |population_density_sq_mi       =
 <!-- General information  ---->
-|timezone               = [[زمان اروپای مرکزی|CET]]
+|timezone               = [[د مرکزي اروپا وخت|CET]]
 |utc_offset             = +1
-|timezone_DST           = [[زمان اروپای مرکزی|CEST]]
+|timezone_DST           = [[د مرکزي اروپا وخت|CEST]]
 |utc_offset_DST         = +2
 |coor_type              = <!-- can be used to specify what the coordinates refer to -->
 |latd=41 |latm=48 |lats= |latNS=N
@@ -102,5 +102,6 @@
 |blank1_info            =
 |footnotes              =
 }}
+
 ==جغرافیه==
 ==تاریخ==
