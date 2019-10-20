@@ -1,17 +1,102 @@
 '''مونتینګرو''' په صربي او مونتینګرویي Црна Гора/Crna Gora د [[اروپا]] په جنوب کې پروت یو هیواد دی. د مونتینګرو پلازمینه [[پودګوریتسا]] ده چې د [[ادریاتیک سمندر]] پرغاړه موقیعت لرې. د یاد [[هیواد]] مساحت ۸۱۲'۱۳ کیلومتره مربع او د وګړو شمیر یې ۱۷۷'۶۷۸ تنوته رسیږې. د مونتینګرو د [[حکومت]] ډول جمهوری پارلمانی د پیسوواحد یې [[یورو]] او رسمي ژبه یې [[مونتینګرویي ژبه|مونتینګرویي]]ده.
-{{ص.م بلد
-| اسم الدولة	= هیواد 
-| الاسم الرسمي	= Crna Gora<br />Црна Гора [[مونتینیګرو]]
-
-| صورة علم	= Flag of Montenegro.svg
-| وصف العلم	= [[بیرغ]]
-| عرض العلم	= 
-
-|  شعار	= Coat of arms of Montenegro.svg
-| وصف الشعار	= [[رسمي نښان]]
-| عرض الشعار	=  
-| خريطة	= Location Montenegro Europe.png <!--مثال: LocationCountry.svg-->
-| 
+{{Infobox country
+| conventional_long_name = Montenegro  <!--#### Do ''not'' change! #####-->
+| common_name = Montenegro
+| native_name = {{lang|cnr|Црна Гора}}<br /> ''Crna Gora''
+| image_flag = Flag of Montenegro.svg
+| image_coat = Coat of arms of Montenegro.svg
+| national_motto = 
+| national_anthem = <br />"[[Oj, svijetla majska zoro]]"<br />({{Lang-en|"Oh, Bright Dawn of May"}})<br /><center>[[File:National Anthem of Montenegro.ogg]]</center>
+| image_map = Europe-Montenegro.svg
+| map_caption = {{map caption |location_color=green |region=Europe |region_color=dark grey|legend=Europe-Montenegro.svg}}
+| image_map2 = Montenegro - Location Map (2013) - MNE - UNOCHA.svg
+| capital = [[Podgorica]]
+| coordinates = {{Coord|42|47|N|19|28|E|type:city}}
+| largest_city = capital
+| official_languages = [[Montenegrin language|Montenegrin]] (national)<ref>{{cite book |url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544 |title=Constitution of Montenegro |chapter-url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544#LinkTarget_1506 |chapter=Language and alphabet Article 13 |publisher=[[WIPO]] |date=19 October 2007 |quote=The official language in Montenegro shall be Montenegrin. Latin and Cyrillic alphabet shall be equal.}}</ref><br /> [[Serbian language|Serbian]], [[Bosnian language|Bosnian]], [[Albanian language|Albanian]], [[Croatian language|Croatian]] (in official use)<ref>{{cite book |url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544 |title=Constitution of Montenegro |chapter-url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544#LinkTarget_1506 |chapter=Language and alphabet Article 13 |publisher=[[WIPO]] |date=19 October 2007 |quote=Serbian, Bosnian, Albanian and Croatian shall also be in the official use.}}</ref>
+| languages_type = [[Writing system]]
+| languages = [[Latin script|Latin]], [[Cyrillic script|Cyrillic]]
+| ethnic_groups = {{unbulleted list
+ | {{nowrap|44.5% [[Montenegrins]]}}
+ | 28.7% [[Serbs of Montenegro|Serbs]]
+ | 8.6% [[Bosniaks of Montenegro|Bosniaks]]
+ | 4.9% [[Albanians in Montenegro|Albanians]]
+ | 0.9% [[Croats of Montenegro|Croats]]
+ | 13.6% Others
+}}
+| ethnic_groups_year = 2011<ref name=Monstat>{{cite web |url=http://www.monstat.org/userfiles/file/popis2011/saopstenje/saopstenje(1).pdf |title=Census of Population, Households and Dwellings in Montenegro 2011 |publisher=Monstat |accessdate=12 July 2011}}</ref>
+| religion = {{ublist |item_style=white-space:nowrap; |75.93% [[Religion in Montenegro|Christianity]] | 19.21% [[Islam in Montenegro|Islam]] | 3.31% [[Religion in Montenegro|Irreligious]] | 3.65% [[Religion in Montenegro|Others]]}}
+| religion_year = 2011
+| demonym = Montenegrin<nowiki/> <!-- nowiki prevents unwanted link to disambiguation page [[Montenegrin people]] -->
+| government_type = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[parliamentary system|parliamentary]] [[constitutional republic]]
+| leader_title1 = [[President of Montenegro|President]]
+| leader_name1 = [[Milo Đukanović]]
+| leader_title2 = [[Prime Minister of Montenegro|Prime Minister]]
+| leader_name2 = [[Duško Marković]]
+| leader_title3 = [[President of the Parliament of Montenegro|Speaker]]
+| leader_name3 = [[Ivan Brajović]]
+| legislature = [[Parliament of Montenegro|Skupština]]
+| sovereignty_type                = [[History of Montenegro|Establishment history]]
+| established_event1 = Formation of [[Duklja]] as a vassal of [[Byzantine Empire]]
+| established_date1 = 625
+| established_event2 = [[Duklja]] gains independence
+| established_date2 = 1042
+| established_event3 = [[Duklja|Kingdom of Duklja]] proclaimed
+| established_date3 = 1077
+| established_event4 = [[Kingdom of Zeta]] proclaimed
+| established_date4 = 1373
+| established_event5 = [[Prince-Bishopric of Montenegro]] founded
+| established_date5 = 1516
+| established_event6 = [[Principality of Montenegro]]
+| established_date6 = 1 January 1852
+| established_event7 = [[Kingdom of Montenegro]]
+| established_date7 = 28 August 1910
+| established_event8 = Formation of [[Kingdom of Yugoslavia|Yugoslavia]]
+| established_date8 = 1 December 1918
+| established_event9 = [[Montenegrin independence referendum, 2006|Independence regained]]
+| established_date9 = 3 June 2006
+| area_rank = 156th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_km2 = 13,812
+| area_sq_mi = <!--5332.843-->
+| percent_water = 2.6
+| population_estimate = {{increase}} 622,359<ref>{{Cite web|url=http://www.monstat.org/eng/page.php?id=234&pageid=48|title=Statistical Office of Montenegro - MONSTAT|website=www.monstat.org}}</ref>
+| population_census = 620,029<ref>{{cite web |url=http://monstat.org/userfiles/file/popis2011/saopstenje/saopstenje(1).pdf |title=Stanovništvo Crne Gore prema polu, tipu naselja, nacionalnoj, odnosno etničkoj pripadnosti, vjeroispovijesti i maternjem jeziku po opštinama u Crnoj Gori |publisher=monstat.org}}</ref>
+| population_estimate_year = January 2018
+| population_estimate_rank = 163rd
+| population_census_year = 2011
+| population_density_km2 = 45
+| population_density_sq_mi = 117
+| population_density_rank = 133rd
+| GDP_PPP = $12.438&nbsp;billion<ref name="WEO2019">{{cite web |date=April 2019 |url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?sy=2019&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=71&pr1.y=10&c=943&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=Report for Selected Countries and Subjects |website=''IMF.org'' |publisher=[[International Monetary Fund]] | access-date=10 June 2019}}</ref>
+| GDP_PPP_year = 2019
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $19,907<ref name="WEO2018">{{cite web |date=20 October 2018 |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=37&pr.y=8&sy=2015&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=943&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=Report for Selected Countries and Subjects |website=''IMF.org'' |publisher=[[International Monetary Fund]] | access-date=1 February 2019}}</ref>
+| GDP_PPP_per_capita_rank = 74th
+| GDP_nominal = $5.443&nbsp;billion<ref name="WEO2018" />
+| GDP_nominal_year = 2019
+| GDP_nominal_rank = 
+| GDP_nominal_per_capita = $8,711<ref name="WEO2018" />
+| GDP_nominal_per_capita_rank = 80th
+| Gini = 31.9
+| Gini_year = 2014
+| Gini_change = decrease
+| Gini_ref =<ref>{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=ME |title=GINI index (World Bank estimate) |publisher=World Bank |access-date=7 March 2019}}</ref>
+| Gini_rank = 9th
+| HDI = 0.814 <!--number only-->
+| HDI_year = 2017<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref =<ref name="HDI">{{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank = 50th
+| currency = [[Euro]] ([[Euro sign|€]])<sup>a</sup>
+| currency_code = EUR
+| time_zone = [[Central European Time|CET]]
+| utc_offset = +1
+| utc_offset_DST = +2
+| time_zone_DST = [[Central European Summer Time|CEST]]
+| drives_on = right
+| calling_code = [[Telephone numbers in Montenegro|+382]]
+| cctld = [[.me]]
+| footnote_a = [[Montenegro and the euro|Adopted unilaterally]]; Montenegro is not a formal member of the [[Eurozone]].
 }}
 
 ==ایداري ویش ==
