@@ -1,0 +1,85 @@
+'''میدل بورخ''' میدل بورګ په [[هالنډي ژبه|هالنډي]] Middelburg)
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = Middelburg
+| settlement_type         = [[List of cities in the Netherlands by province|City]] and [[List of municipalities of the Netherlands|municipality]]
+<!-- Images, nickname, motto -->
+| image_skyline           = Middelburg Stadhuis 01.JPG 
+| image_alt               = 
+| image_caption           = [[Town hall of Middelburg|Middelburg Stadhuis]]
+| image_flag              = Middelburg vlag.svg
+| flag_size               = 100x67px
+| flag_alt                = 
+| image_shield            = Coat of arms of Middelburg.svg
+| shield_size             = 100x80px
+| shield_alt              = 
+<!-- Maps, coordinates -->
+| image_map               = Map - NL - Municipality code 0687 (2009).svg
+| map_alt                 = Highlighted position of Middelburg in a municipal map of Zeeland
+| map_caption             = Location in Zeeland
+| coordinates             = {{coord|51|30|N|3|37|E|region:NL|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = [[Netherlands]]
+| subdivision_type1       = Province
+| subdivision_name1       = [[Zeeland]]
+| seat_type               = [[Seat of local government|City Hall]]
+| seat                    = [[Town hall of Middelburg|Middelburg City Hall]]
+| government_footnotes    = <ref name="mayor_now">{{cite web
+ |url = http://www.middelburg.nl/Bestuur_en_Organisatie/College_van_B_W/Collegeleden
+ |title = Collegeleden
+ |trans-title=Members of the board
+ |language = Dutch
+ |author = 
+ |date = 
+ |work = 
+ |publisher = Gemeente Middelburg
+ |accessdate = 4 December 2013}}</ref>
+| governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party            = [[People's Party for Freedom and Democracy|VVD]]
+| leader_title            = [[Burgemeester|Mayor]]
+| leader_name             = [[Harald Bergmann]]
+<!-- Geographic information -->
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->
+| area_total_km2          = {{Dutch municipality total area|Middelburg}}
+| area_land_km2           = {{Dutch municipality land area|Middelburg}}
+| area_water_km2          = {{Dutch municipality water area|Middelburg}}
+| elevation_footnotes     = <ref name="AHN">{{cite web
+ |url=http://www.ahn.nl/postcodetool 
+ |title=Postcodetool for 4331BK 
+ |language=Dutch 
+ |work=Actueel Hoogtebestand Nederland 
+ |publisher=Het Waterschapshuis 
+ |accessdate=4 December 2013 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool 
+ |archivedate=21 September 2013 
+}}</ref>
+| elevation_m             = 3
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+<!-- Population, demographics -->
+| population_footnotes    = <ref>{{Dutch municipality population|dataref}}</ref>
+| population_total        = {{Dutch municipality population|Middelburg}}
+| population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}}
+| population_density_km2  = {{Dutch municipality population density|Middelburg}} <!-- For automatic calculation: auto-->
+| population_demonym      = Middelburger
+<!-- Other information -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| postal_code_type        = [[Postal codes in the Netherlands|Postcode]]
+| postal_code             = 4330–4341
+| area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+| area_code               = 0118
+| website                 = {{URL|1=http://www.middelburg.nl}}
+| footnotes               =
+}}
