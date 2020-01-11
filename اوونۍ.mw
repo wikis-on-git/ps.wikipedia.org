@@ -4,9 +4,10 @@
 {{further|Leap week calendar}}
 [[File:First Day of Week World Map.svg|thumb|World map showing first day of week used in different countries {{Dubious|date=October 2015}}
 {|
-{{legend|#0f0|Saturday}}
-{{legend|#00f|Sunday}}
-{{legend|#ff0|Monday}}
+{{legend|#7fc97f|Saturday}}
+{{legend|#386cb0|Sunday}}
+{{legend|#fdc086|Monday}}
+{{legend|#f0027f|Friday}}
 |}
 ]]
 
