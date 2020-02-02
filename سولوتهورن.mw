@@ -37,42 +37,42 @@
 
 {{TOC}}
 {| class="wikitable sortable" style="text-align:right"
-! class="unsortable" | Wappen
+! class="unsortable" | بیرغ
 !  د ولسوالۍ نوم 
 ! Einwohner<br /><small>{{EWD|CH-SO}}</small> 
 ! مساحت<br /><small>په km²</small> <ref name="Arealstat">[https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/bodennutzung-bedeckung/gesamtspektrum-regionalen-stufen/gemeinden.assetdetail.4082170.html Arealstatistik Standard – Gemeinden nach vier Hauptbereichen (15.12.2017)] des [[Bundesamt für Statistik|Bundesamts für Statistik BFS]]</ref>
 ! نفوس<br />په هر km² 
 ! Bezirk
 |-
-| [[Datei:Aedermannsdorf-blason.png|35px|zentriert|Aedermannsdorf]]
+| [[دوتنه:Aedermannsdorf-blason.png|35px|zentriert|Aedermannsdorf]]
 | style="text-align:left" | {{Anker|A}} [[Aedermannsdorf]]
 | data-sort-value="{{EWZ|CH-SO|2421}}" | {{EWZ CH|CH-SO|2421}}
 | 12,92 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2421}}/12.92 round 0}}
 | style="text-align:left" | [[Bezirk Thal|Thal]]
 |-
-| [[Datei:Aeschi-blason.png|35px|zentriert|Aeschi]] 
+| [[دوتنه:Aeschi-blason.png|35px|zentriert|Aeschi]] 
 | style="text-align:left" | [[Aeschi SO|Aeschi (SO)]] 
 | data-sort-value="{{EWZ|CH-SO|2511}}" | {{EWZ CH|CH-SO|2511}}
 | 5,48 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2511}}/5.48 round 0}}
 | style="text-align:left" | [[Bezirk Wasseramt|Wasseramt]]
 |-
-| [[Datei:Balm bei Guensberg-blason.png|35px|zentriert|Balm bei Günsberg]]
+| [[دوتنه:Balm bei Guensberg-blason.png|35px|zentriert|Balm bei Günsberg]]
 | style="text-align:left" | {{Anker|B}} [[Balm bei Günsberg]]
 | data-sort-value="{{EWZ|CH-SO|2541}}" | {{EWZ CH|CH-SO|2541}}
 | 5,47 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2541}}/5.47 round 0}}
 | style="text-align:left" | [[Bezirk Lebern|Lebern]]
 |-
-| [[Datei:Balsthal-blason.png|35px|zentriert|Balsthal]]
+| [[دوتنه:Balsthal-blason.png|35px|zentriert|Balsthal]]
 | style="text-align:left" | '''[[Balsthal]]'''
 | data-sort-value="{{EWZ|CH-SO|2422}}" | {{EWZ CH|CH-SO|2422}}
 | 15,71 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2422}}/15.71 round 0}}
 | style="text-align:left" | [[Bezirk Thal|Thal]]
 |-
-| [[Datei:Baerschwil-blason.png|35px|zentriert|Bärschwil]]
+| [[دوتنه:Baerschwil-blason.png|35px|zentriert|Bärschwil]]
 | style="text-align:left" | [[Bärschwil]] 
 | data-sort-value="{{EWZ|CH-SO|2611}}" | {{EWZ CH|CH-SO|2611}}
 | 11,19 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2611}}/11.19 round 0}}
-| style="text-align:left" | [[Bezirk Thierstein|Thierstein]]
+| style="text-align:دوتنه" | [[Bezirk Thierstein|Thierstein]]
 |-
 | [[Datei:Baettwil-blason.png|35px|zentriert|Bättwil]]
 | style="text-align:left" | [[Bättwil]] 
