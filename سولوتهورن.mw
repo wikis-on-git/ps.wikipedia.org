@@ -39,16 +39,16 @@
 {| class="wikitable sortable" style="text-align:right"
 ! class="unsortable" | بیرغ
 !  د ولسوالۍ نوم 
-! Einwohner<br /><small>{{EWD|CH-SO}}</small> 
+! د ۲۰۱۸ ډسمبر میاشت نفوس شمیرنه<br /><small>{{EWD|CH-SO}}</small> 
 ! مساحت<br /><small>په km²</small> <ref name="Arealstat">[https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/bodennutzung-bedeckung/gesamtspektrum-regionalen-stufen/gemeinden.assetdetail.4082170.html Arealstatistik Standard – Gemeinden nach vier Hauptbereichen (15.12.2017)] des [[Bundesamt für Statistik|Bundesamts für Statistik BFS]]</ref>
-! نفوس<br />په هر km² 
-! Bezirk
+! په کې د وګړو شمیرkm² 
+! مرکز
 |-
 | [[دوتنه:Aedermannsdorf-blason.png|35px|zentriert|Aedermannsdorf]]
 | style="text-align:left" | {{Anker|A}} [[Aedermannsdorf]]
 | data-sort-value="{{EWZ|CH-SO|2421}}" | {{EWZ CH|CH-SO|2421}}
 | 12,92 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2421}}/12.92 round 0}}
-| style="text-align:left" | [[Bezirk Thal|Thal]]
+| style="text-align:left" | [[ټال]]
 |-
 | [[دوتنه:Aeschi-blason.png|35px|zentriert|Aeschi]] 
 | style="text-align:left" | [[Aeschi SO|Aeschi (SO)]] 
