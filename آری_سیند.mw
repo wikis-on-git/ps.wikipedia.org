@@ -1,4 +1,34 @@
 '''آاری سیند''' په [[الماني]] Aare Fluss) په [[سویس]] هیواد کې بهیدونکی سیند دی چې ۲۸۸ کیلومتره اوږدوالی لري. یاد سیند چې د [[راین سیند]] سره یو ځای کیږي په سویس هیواد کې ترټولو اوږد سیند دی.
+{{Infobox settlement
+| name                = Aare
+| name_native_lang    = de
+| image               = Bern Untertorbrücke 05.jpg 
+| image_caption       = The Aare at [[Bern]]
+| subdivision_type1   = Country
+| subdivision_name1   = [[Switzerland]]
+| subdivision_type2   = Cantons
+| subdivision_name2   = [[Canton of Bern|Bern]], [[Canton of Solothurn|Solothurn]], [[Canton of Aargau|Aargau]]
+| subdivision_type3   = Settlements
+| subdivision_name3   = [[Meiringen]] (BE), [[Interlaken]] (BE), [[Thun]] (BE), [[Münsingen]], [[Muri bei Bern]], [[Bern]], [[Bremgarten bei Bern]], [[Aarberg]] (BE), [[Büren an der Aare|Büren a.A.]] (BE), [[Solothurn]] (SO), [[Aarwangen]] (BE), [[Aarburg]] (BE), [[Olten]] (SO), [[Niedergösgen]] (SO), [[Schönenwerd]] (SO), [[Aarau]] (AG), [[Möriken-Wildegg|Wildegg]] (AG), [[Brugg]] (AG), [[Windisch]] (AG), [[Döttingen, Aargau|Döttingen]] (AG), [[Klingnau]] (AG)
+| source1_location    = [[Unteraar Glacier]], [[Bernese Highlands]]
+| source1_coordinates = {{coord|46.56341|8.43259|region:CH-BE|format=dms}}
+| mouth_location      = [[Rhine]] below [[Koblenz, Switzerland]]
+| mouth_coordinates   = {{coord|47.6057|8.2234|display=it|region:CH_type:river}}
+| map                 = Aare basin simple.png 
+| map_caption         = Drainage basin of the Aare 
+| length              = {{convert|291.5|km}} {{GeoQuelle|CH|GS}}
+| source1_elevation   = {{convert|1940|m|abbr=on}}
+| mouth_elevation     = {{convert|311|m|abbr=on}}
+| discharge1_location = Untersiggenthal
+| discharge1_min      = {{convert|351|m3/s|abbr=on}} (MNQ 1935-2013),<br />{{convert|138|m3/s|abbr=on}} (NNQ, 1963)
+| discharge1_avg      = {{convert|559|m3/s|abbr=on}} (MQ 1935-2013)
+| discharge1_max      = {{convert|735|m3/s|abbr=on}} (MHQ 1935-2013),<br />{{convert|2656|m3/s|abbr=on}} (HHQ, 2007)
+| progression         = {{RRhine}}
+| tributaries_left    = [[Lütschine]] (Lake Brienz), [[Kander (Switzerland)|Kander]] (Lake Thun), [[Gürbe]], [[Saane/Sarine|Saane/La Sarine]], [[Zihl|Zihl/La Thielle]] (Lakes of Neuchatel and Bienne), [[Suze (river)|La Suze]] (Lake of Bienne), Dünnern
+| tributaries_right   = [[Gadmerwasser]], Zulg, [[Emme (river)|Emme]], [[Murg (Aare)|Murg]], [[Wigger (river)|Wigger]], [[Suhre]], [[Aabach (Seetal)|Aabach]], [[Reuss (river)|Reuss]], [[Limmat]], [[Surb]]
+| waterbodies         = [[Oberaarsee]], [[Grimselsee]], [[Räterichsbodensee]], [[Lake Brienz]], [[Lake Thun]], [[Wohlensee]], [[Lake Biel]], [[Stausee Niederried]], [[Klingnauer Stausee]]
+| basin_size          = {{convert|17779|km2|abbr=on}}
+}}
 
 ==انځورونه==
 ==د اوبو کچه==
