@@ -1,3 +1,43 @@
 '''سنګالن کانتون''' په [[الماني]] St. Gallen) د سویس هیواد په ختیځ کې پروت ولایت دی. د سنګالن ولایت مرکز د [[سنګالن ښار]] او مساحت یې ۲،۰۲۶ کیلومتره مربع دی. یاد ولایت په ۳۱ د ډسمبر ۲۰۱۸م کال ۵۰۷،۶۹۷ وګړي لرل.
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = سنګالن کانتون 
+| settlement_type         = [[Cantons of Switzerland|Canton]]
+| image_shield            = Wappen St. Gallen matt.svg
+| shield_size             = 80x80px
+| shield_link             = Fasces
+| image_map               = {{maplink|frame=y|plain=yes|frame-align=center|zoom=6|type=shape|stroke-width=2|frame-lat=46.7|frame-long=8.25|frame-width=275|frame-height=175}}
+| map_alt                 = Map of Switzerland, location of St. Gallen highlighted
+| map_caption             = Location in Switzerland
+{{hidden |ta1 = left| border = 1px solid grey | header = Map of St. Gallen | content = <br/>[[File:Karte Kanton St. Gallen 2010.png|250px]] }}
+| coordinates             = {{coord|47|20|N|9|10|E|region:CH-SG|display=inline,title}}
+| seat_type               = مرکز
+| seat                    = [[سنګالن ښار]]
+| parts_type              = سویلي برخه
+| parts_style             = para
+| p1                      = [[Municipalities of the canton of St. Gallen|77 municipalities]]
+| p2                      = [[Districts of Switzerland#St. Gallen|8 districts]]
+| leader_title            = [[اجرایه]]
+| leader_name             = Regierung (7)
+| leader_title1           = [[مقننه]]
+| leader_name1            = [[Kantonsrat]] (180)
+| area_footnotes          = {{Swiss area data||QUELLE-KT}}
+| area_total_km2          = {{Swiss area|SG|km=yes }}
+| population_footnotes    = {{Swiss populations ref|CH-SG }}
+| population_total        = {{Swiss populations NC|CH-SG|CH-SG}}
+| population_as_of        = {{Swiss populations data CH-SG|YM}}
+| population_density_km2  = auto
+| iso_code                = CH-SG
+| blank_name_sec1         = [[List of cantons of Switzerland by elevation|Highest point]]
+| blank_info_sec1         = {{convert|3248|m|ft|0|abbr=on}}: [[Ringelspitz]]
+| blank1_name_sec1        = [[List of cantons of Switzerland by elevation|Lowest point]]
+| blank1_info_sec1        = {{convert|396|m|ft|0|abbr=on}}: [[Lake Constance]]
+| blank_name_sec2         = [[History of Switzerland#Order of accession of the cantons|Joined]]
+| blank_info_sec2         = 1803
+| blank1_name_sec2        = ژبه
+| blank1_info_sec2        = [[الماني]]
+| website                 = {{URL|http://www.SG.ch}}
+}}
+
 ==تاریخ==
 ==جغرافیه==
