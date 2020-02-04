@@ -1,7 +1,7 @@
-'''اوب والدن کانتون''' په [[الماني]] Obwalden) په مرکزی [[سویس]] کې پروت ولایت دی. اوب والدن کانتون د [[اوری]] او [[شویڅ]] ولایتونو ترڅنګ کانتون وو چې په ۱۲۹۱م کال کې د سویس هیواد بنسټ کیښود. د اوب والدن ولایت مرکز [[سارنن]] او مساحت یې ۴۹۱ کیلومتره مربع دی. په یاد ولایت کې رسمي ژبه الماني ده.
+'''اوب والدن کانتون''' په [[الماني]] Obwalden) په مرکزی [[سویس]] کې پروت ولایت دی. اوب والدن کانتون د [[اوري]] او [[شویڅ]] ولایتونو ترڅنګ کانتون وو چې په ۱۲۹۱م کال کې د سویس هیواد بنسټ کیښود. د اوب والدن ولایت مرکز [[سارنن]] او مساحت یې ۴۹۱ کیلومتره مربع دی. په یاد ولایت کې رسمي ژبه الماني ده.
 {{Infobox settlement
 <!-- See Template:Infobox settlement for additional fields and descriptions -->
-| name                    = Kanton Obwalden
+| name                    =  اوب والدن کانتون
 | settlement_type         = [[Cantons of Switzerland|Canton]]
 | image_shield            = Wappen Obwalden matt.svg
 | shield_size             = 80x80px
@@ -11,16 +11,16 @@
 | map_caption             = Location in Switzerland
 {{hidden |ta1 = left| border = 1px solid grey | header = Map of Obwalden | content = <br/>[[File:Karte Kanton Obwalden 2010.png|250px]] }}
 | coordinates             = {{coord|46|52|N|8|2|E|region:CH-OW|display=inline,title}}
-| seat_type               = Capital
-| seat                    = [[Sarnen]]
-| parts_type              = Subdivisions
+| seat_type               = مرکز
+| seat                    = [[سارنن]]
+| parts_type              = سویلي برخه
 | parts_style             = para
 | p1                      = [[Municipalities of the canton of Obwalden|7 municipalities]]
 | p2                      = 
-| leader_title            = [[List of cantonal executives of Switzerland|Executive]]
-| leader_name             = Regierungsrat (5)
-| leader_title1           = [[List of cantonal legislatures of Switzerland|Legislative]]
-| leader_name1            = [[Kantonsrat]] (55)
+| leader_title            = [[ اجرایه ]]
+| leader_name             = سیمې (5)
+| leader_title1           = [[مقننه]]
+| leader_name1            = [[ولسوالۍ]] (55)
 | area_footnotes          = {{Swiss area data||QUELLE-KT}}
 | area_total_km2          = {{Swiss area|OW|km=yes }}
 | population_footnotes    = {{Swiss populations ref|CH-OW }}
@@ -34,9 +34,10 @@
 | blank1_info_sec1        = {{convert|434|m|ft|0|abbr=on}}: [[Lake Lucerne]]
 | blank_name_sec2         = [[History of Switzerland#Order of accession of the cantons|Joined]]
 | blank_info_sec2         = 1291
-| blank1_name_sec2        = Languages
-| blank1_info_sec2        = [[German language|German]]
+| blank1_name_sec2        = ژبه
+| blank1_info_sec2        = [[الماني]]
 | website                 = {{URL|http://www.OW.ch}}
 }}
+
 ==تازیخ==
 ==جغرافیه==
