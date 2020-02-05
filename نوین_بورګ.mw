@@ -1,0 +1,86 @@
+'''نوین بورګ کانتو''' په [[الماني]] Neuenburg) د [[سویس]] له شپږ وېش کانتونونو څخه یو دی. د نوین بورګ ولایت مرکز نوین بورګ ښار او مساحت یې ۸۰۳ کیلومتره مربع دی. یاد ولایت په ۳۱ د ډسمبر ۲۰۱۸م کال وکړي لرل.
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = République et Canton de Neuchâtel
+| settlement_type         = [[Cantons of Switzerland|Canton]]
+| image_shield            = Wappen Neuenburg matt.svg
+| shield_size             = 80x80px
+| shield_link             = 
+| image_map               = {{maplink|frame=y|plain=yes|frame-align=center|zoom=6|type=shape|stroke-width=2|frame-lat=46.7|frame-long=8.25|frame-width=275|frame-height=175}}
+| map_alt                 = Map of Switzerland, location of Neuchâtel highlighted
+| map_caption             = Location in Switzerland
+{{hidden |ta1 = left| border = 1px solid grey | header = Map of Neuchâtel | content = <br/>[[File:Karte Kanton Neuenburg 2010.png|250px]] }}
+| coordinates             = {{coord|46|59|N|6|47|E|region:CH-NE|display=inline,title}}
+| seat_type               = Capital
+| seat                    = [[Neuchâtel]]
+| seat1_type              = Largest city
+| seat1                   = [[La Chaux-de-Fonds]]
+| parts_type              = Subdivisions
+| parts_style             = para
+| p1                      = [[Municipalities of the canton of Neuchâtel|31 municipalities]]
+| p2                      = 
+| leader_title            = [[List of cantonal executives of Switzerland|Executive]]
+| leader_name             = Conseil d'État (5)
+| leader_title1           = [[List of cantonal legislatures of Switzerland|Legislative]]
+| leader_name1            = [[Grand Council of Neuchâtel|Grand Council]] (115)
+| area_footnotes          = {{Swiss area data||QUELLE-KT}}
+| area_total_km2          = {{Swiss area|NE|km=yes }}
+| population_footnotes    = {{Swiss populations ref|CH-NE }}
+| population_total        = {{Swiss populations NC|CH-NE|CH-NE}}
+| population_as_of        = {{Swiss populations data CH-NE|YM}}
+| population_density_km2  = auto
+| iso_code                = CH-NE
+| blank_name_sec1         = [[List of cantons of Switzerland by elevation|Highest point]]
+| blank_info_sec1         = {{convert|1552|m|ft|0|abbr=on}}: [[Chasseral Ouest]]
+| blank1_name_sec1        = [[List of cantons of Switzerland by elevation|Lowest point]]
+| blank1_info_sec1        = {{convert|429|m|ft|0|abbr=on}}: [[Lake Biel]]
+| blank_name_sec2         = [[History of Switzerland#Order of accession of the cantons|Joined]]
+| blank_info_sec2         = 1815
+| blank1_name_sec2        = Languages
+| blank1_info_sec2        = [[French language|French]]
+| website                 = {{URL|http://www.NE.ch}}
+}}
+{{Infobox country
+|native_name            = {{Native name|de|Grafschaft (Fürstentum) Neuenburg}}<br/>{{native name|fr|Comté (Principauté) de Neuchâtel}}
+|conventional_long_name = County (Principality) of Neuchâtel
+|common_name            = Neuchatel<!-- no diacritics for category sorting -->
+
+|era                    = Middle Ages
+|status                 = County
+|empire                 = Holy Roman Empire
+|government_type        = County
+|status_text            = [[List of states of the Holy Roman Empire|State]] of the [[Holy Roman Empire]] <small>(to 1648)</small><br/>[[Zugewandte Orte|Associate]] of the [[Old Swiss Confederacy|Swiss Confederacy]] <small>(from 1406)</small>
+
+|year_start             = 1034
+|year_end               = 1848
+
+|event_pre              = City founded
+|date_pre               = 1011
+|event_start            = County founded
+|date_start             = 
+|event1                 = Became [[Zugewandte Orte|associate]] of [[Old Swiss Confederacy|Swiss Confederacy]]
+|date_event1            = from 1406
+|event2                 = Inherited by [[Orléans-Longueville]]
+|date_event2            = 1504
+|event3                 = Elected to [[Kingdom of Prussia|Prussia]]
+|date_event3            = 1707
+|event4                 = French occupation
+|date_event4            = 1806–14
+|event_end              = Joined [[Restored Swiss Confederacy|Swiss Confed.]] as [[cantons of Switzerland|canton]] (and monarchy)
+|date_end               = 1815<span style="display: none;">
+|event_post             = Neuchâteloise revolution
+|date_post              = 1 March 1848
+
+|p1                     = Duchy of Burgundy
+|image_p1               = [[File:Blason Ducs Bourgogne (ancien).svg|20px|alt=]]
+|s1                     = Switzerland
+|flag_s1                = Flag of Switzerland.svg
+
+|image_coat             = Wappen Neuenburg.svg
+
+|capital                = <nowiki>Neuchâtel</nowiki></span><!-- to fix syntax highlighting after date_end hack -->
+
+|footnotes              = <!--- Accepts wikilinks --->
+}}
+==تاریخ==
+==جغرافیه==
