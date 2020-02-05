@@ -11,8 +11,8 @@
 | map_caption             = Location in Switzerland
 {{hidden |ta1 = left| border = 1px solid grey | header = Map of Neuchâtel | content = <br/>[[File:Karte Kanton Neuenburg 2010.png|250px]] }}
 | coordinates             = {{coord|46|59|N|6|47|E|region:CH-NE|display=inline,title}}
-| seat_type               = Capital
-| seat                    = [[Neuchâtel]]
+| seat_type               = مرکز
+| seat                    = [[نیوشاتل]]
 | seat1_type              = Largest city
 | seat1                   = [[La Chaux-de-Fonds]]
 | parts_type              = Subdivisions
@@ -36,8 +36,8 @@
 | blank1_info_sec1        = {{convert|429|m|ft|0|abbr=on}}: [[Lake Biel]]
 | blank_name_sec2         = [[History of Switzerland#Order of accession of the cantons|Joined]]
 | blank_info_sec2         = 1815
-| blank1_name_sec2        = Languages
-| blank1_info_sec2        = [[French language|French]]
+| blank1_name_sec2        = ژبه
+| blank1_info_sec2        = [[فرانسوي]]
 | website                 = {{URL|http://www.NE.ch}}
 }}
 {{Infobox country
@@ -82,5 +82,6 @@
 
 |footnotes              = <!--- Accepts wikilinks --->
 }}
+
 ==تاریخ==
 ==جغرافیه==
