@@ -1,4 +1,46 @@
 '''ولیز کانتون''' په [[فرانسوي]] د [[سویس]] هیواد له فرانسوي ژبو ولایتونو څخه یو دی.
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Valais
+| native_name             = {{native name|frp|Valês}}
+| official_name           ={{ublist|Canton of Valais|{{native name|fr|Canton du Valais}}|{{native name|it|Canton Vallese}}|{{native name|de|Kanton Wallis}}}}
+| settlement_type         = [[Cantons of Switzerland|Canton]]
+| image_shield            = Wappen Wallis matt.svg
+| shield_size             = 80x80px
+| shield_link             = 
+| image_map               = {{maplink|frame=y|plain=yes|frame-align=center|zoom=6|type=shape|stroke-width=2|frame-lat=46.7|frame-long=8.25|frame-width=275|frame-height=175}}
+| map_alt                 = Map of Switzerland, location of Valais highlighted
+| map_caption             = Location in Switzerland
+{{hidden |ta1 = left| border = 1px solid grey | header = Map of Valais | content = <br/>[[File:Karte Kanton Wallis 2010.png|250px]] }}
+| coordinates             = {{coord|46|4|N|7|36|E|region:CH-VS|display=inline,title}}
+| seat_type               = Capital
+| seat                    = [[Sion, Switzerland|Sion]]
+| parts_type              = Subdivisions
+| parts_style             = para
+| p1                      = [[Municipalities of the canton of Valais|143 municipalities]]
+| p2                      = [[Districts of Switzerland#Valais|13 districts]]
+| leader_title            = [[List of cantonal executives of Switzerland|Executive]]
+| leader_name             = Conseil d'État, Staatsrat (5)
+| leader_title1           = [[List of cantonal legislatures of Switzerland|Legislative]]
+| leader_name1            = [[Grand Council of Valais|Grand Council]] (130)
+| area_footnotes          = {{Swiss area data||QUELLE-KT}}
+| area_total_km2          = {{Swiss area|VS|km=yes }}
+| population_footnotes    = {{Swiss populations ref|CH-VS }}
+| population_total        = {{Swiss populations NC|CH-VS|CH-VS}}
+| population_as_of        = {{Swiss populations data CH-VS|YM}}
+| population_density_km2  = auto
+| iso_code                = CH-VS
+| blank_name_sec1         = [[List of cantons of Switzerland by elevation|Highest point]]
+| blank_info_sec1         = {{convert|4634|m|ft|0|abbr=on}}: [[Monte Rosa]]
+| blank1_name_sec1        = [[List of cantons of Switzerland by elevation|Lowest point]]
+| blank1_info_sec1        = {{convert|372|m|ft|0|abbr=on}}: [[Lake Geneva]]
+| blank_name_sec2         = [[History of Switzerland#Order of accession of the cantons|Joined]]
+| blank_info_sec2         = 1815
+| blank1_name_sec2        = Languages
+| blank1_info_sec2        = [[French language|French]], [[German language|German]]
+| website                 = {{URL|http://www.VS.ch}}
+}}
+
 ==تاریخ==
 ==جغرافیه==
 [[Image:Lötschental.jpg|thumb|   د لوتشین تال انځور ]]
