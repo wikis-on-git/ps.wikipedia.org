@@ -2,7 +2,7 @@
 
 {{Infobox settlement
 <!-- See Template:Infobox settlement for additional fields and descriptions -->
-| name                    = Kanton Schaffhausen
+| name                    =  شاپ هاوزن کانتون(ولایت)
 | settlement_type         = [[Cantons of Switzerland|Canton]]
 | image_shield            = Wappen Schaffhausen matt.svg
 | shield_size             = 80x80px
@@ -12,16 +12,16 @@
 | map_caption             = Location in Switzerland
 {{hidden |ta1 = left| border = 1px solid grey | header = Map of Schaffhausen | content = <br/>[[File:Karte Kanton Schaffhausen 2010.png|250px]] }}
 | coordinates             = {{coord|47|43|N|8|34|E|region:CH-SH|display=inline,title}}
-| seat_type               = Capital
-| seat                    = [[Schaffhausen]]
-| parts_type              = Subdivisions
+| seat_type               = مرکز
+| seat                    = [[شاپ هاوزن ښار]]
+| parts_type              = سویلي برخه
 | parts_style             = para
 | p1                      = [[Municipalities of the canton of Schaffhausen|26<ref>https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.assetdetail.2245009.html</ref> municipalities]]
 | p2                      = 
-| leader_title            = [[List of cantonal executives of Switzerland|Executive]]
-| leader_name             = Regierungsrat (5)
-| leader_title1           = [[List of cantonal legislatures of Switzerland|Legislative]]
-| leader_name1            = [[Kantonsrat]] (60)
+| leader_title            = [[اجرایه]]
+| leader_name             = سیمې (5)
+| leader_title1           = [[مقننه]]
+| leader_name1            = [[ولسوالۍ]] (60)
 | area_footnotes          = {{Swiss area data||QUELLE-KT}}
 | area_total_km2          = {{Swiss area|SH|km=yes }}
 | population_footnotes    = {{Swiss populations ref|CH-SH }}
@@ -35,9 +35,10 @@
 | blank1_info_sec1        = {{convert|344|m|ft|0|abbr=on}}: [[Rhine]] at [[Buchberg SH|Buchberg]]
 | blank_name_sec2         = [[History of Switzerland#Order of accession of the cantons|Joined]]
 | blank_info_sec2         = 1501
-| blank1_name_sec2        = Languages
-| blank1_info_sec2        = German
+| blank1_name_sec2        = ژبه
+| blank1_info_sec2        = [[المانې]]
 | website                 = {{URL|http://www.SH.ch}}
 }}
+
 ==تاریخ==
 ==جغرافیه==
