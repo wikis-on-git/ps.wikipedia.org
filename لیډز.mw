@@ -1,15 +1,15 @@
 '''لیډز''' په [[انګلیسي]] د [[انګلستان]] په [[یورک شر او هامبر]] سیمه کې پروت ښار دی.
 {{Infobox settlement
 <!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
-|name=لیدز
-|official_name=لیدز
+|name=لیډز ښار
+|official_name=لیډز
 |other_name=
 |native_name=<!--F for cities whose native name is not in English -->
-|settlement_type=[[شهر]] & [[Metropolitan Borough]]
+|settlement_type=[[ښار]] & [[Metropolitan Borough]]
 |motto="Pro rege et lege" <small>''"For king and the law"''</small>
 |nickname=
 <!-- images and maps ---->
-|image_skyline=[[پرونده:Leeds Town Hall (2).jpg|225px]]{{سخ}}[[پرونده:City Square sculpture (100076324).jpg|119px]][[پرونده:Leeds (51), September 2009.JPG|106px]]{{سخ}}[[پرونده:Waterloo Lake Roundhay 07.jpg|225px]]
+|image_skyline=[[دوتنه:Leeds Town Hall (2).jpg|225px]]{{سخ}}[[دوتنه:City Square sculpture (100076324).jpg|119px]][[دوتنه:Leeds (51), September 2009.JPG|106px]]{{سخ}}[[دوتنه:Waterloo Lake Roundhay 07.jpg|225px]]
 |imagesize=
 |image_alt=An impressive free-standing stone-built civic building on a sloping site with steps up to a colonnade. Above the parapet is a square clock-tower, also colonnaded, with an elongated lead-covered dome with concave sides and a cupola on top.
 |image_caption=Clockwise from top: [[Leeds Town Hall]], [[Bridgewater Place]], [[Roundhay Park]] و [[Leeds City Square|City Square]].
@@ -28,7 +28,7 @@
 |image_map=Leeds UK locator map.svg
 |mapsize=250px
 |map_alt=A map of England coloured pink showing the administrative subdivisions of the country. The Leeds metropolitan borough area is coloured red.
-|map_caption=موقعیت لیدز در نقشه
+|map_caption=موقعیت 
 |image_map1=
 |mapsize1=
 |map_caption1=[[The Headrow, Leeds|The Headrow]]
@@ -41,27 +41,27 @@
 |pushpin_mapsize=
 <!-- Location ---->
 |coordinates_region=GB
-|subdivision_type=[[فهرست کشورهای مستقل|کشور]]
+|subdivision_type=[[د هیوادونو نوملړ|هیواد]]
 |subdivision_name=United Kingdom
 |subdivision_type1=[[Countries of the United Kingdom|Constituent country]]
-|subdivision_name1=[[انگلستان]]
-|subdivision_type2=[[ناحیه‌های انگلستان]]
-|subdivision_name2=[[یورک‌شر و هامبر]]
-|subdivision_type3=[[شهرستان‌های تشریفاتی انگلستان|Ceremonial county]]
-|subdivision_name3=[[یورکشر غربی]]
+|subdivision_name1=[[انګلستان]]
+|subdivision_type2=[[د انګلستان سیمې|سیمه]]
+|subdivision_name2=[[یورک‌شر او هامبر]]
+|subdivision_type3=[[د انګلستان نیمه خپلواک ښارونه|Ceremonial county]]
+|subdivision_name3=[[سویلي یورکشر ]]
 |subdivision_type4=[[Historic counties of England|Historic county]]
 |subdivision_name4=[[یورک‌شر]]
 |subdivision_type5=Admin HQ
 |subdivision_name5=[[Leeds city centre]]
 <!-- Politics ---->
 |government_footnotes=
-|government_type=[[Metropolitan borough]]، [[وضعیت شهرستان در بریتانیا|City]]
+|government_type=[[Metropolitan borough]]، [[د بریتانیا ښارونه|ښار]]
 |leader_title=Governing body
 |leader_name=[[Leeds City Council]]
 |leader_title1=[[Lord Mayor]]
-|leader_name1=Cllr Tom Murray ([[حزب کارگر (بریتانیا)]])
+|leader_name1=Cllr Tom Murray ([[دبریتانیا کارګر ګوند|کارګر ګوند]])
 |leader_title2=Leader of the Council
-|leader_name2=Cllr Judith Blake ([[حزب کارگر (بریتانیا)]])
+|leader_name2=Cllr Judith Blake 
 |leader_title3=Chief Executive
 |leader_name3=Tom Riordan
 |leader_title4=[[List of MPs elected in the United Kingdom general election, 2010|MPs]]:
@@ -106,12 +106,12 @@
 |population_density_blank1_sq_mi=
 <!-- General information ---->
 |blank_name_sec2=GDP
-|blank_info_sec2=[[دلار آمریکا]] 74.6 billion
+|blank_info_sec2=[[امریکایي ډالر]] 74.6 billion
 |blank1_name_sec2=GDP per capita
 |blank1_info_sec2=US$ ۳۳٬۳۵۵
-|timezone=[[ساعت گرینویچ]]
+|timezone=[[ساعت]]
 |utc_offset=+۰
-|timezone_DST=[[ساعت تابستانی بریتانیا]]
+|timezone_DST=[[د بریتانیا پسرلنی ساعت]]
 |utc_offset_DST=+۱
 |latd=53|latm=47|lats=59|latNS=N
 |longd=1|longm=32|longs=57|longEW=W
@@ -123,7 +123,7 @@
 |blank_name_sec1=[[Gross Value Added|GVA]]
 |blank_info_sec1=۲۰۱۲
 |blank1_name_sec1= - Total
-|blank1_info_sec1=[[پوند استرلینگ]]20.3bn ($31.1bn) ([[List of UK cities by GVA|4th]])
+|blank1_info_sec1=[[اسټرلینګ پونډ]]20.3bn ($31.1bn) ([[List of UK cities by GVA|4th]])
 |blank2_name_sec1= - Growth
 |blank2_info_sec1={{Increase}} 1.8%
 |blank3_name_sec1= - Per capita
@@ -131,7 +131,7 @@
 |blank4_name_sec1= - Growth
 |blank4_info_sec1={{Increase}} 1.4%
 <!-- Area/postal codes & others ---->
-|postal_code_type=کد پستی
+|postal_code_type=پوستي کوډ
 |postal_code=[[LS postcode area|LS]], part of [[WF postcode area|WF]] and also part of [[BD postcode area|BD]].
 |area_code=0113 (urban core){{سخ}}01924 (Wakefield nos){{سخ}}01937 (Wetherby/ Boston Spa){{سخ}}01943 (Guiseley/ Otley){{سخ}}01977 (Pontefract nos)
 |blank_name=[[ISO 3166-2:GB]]
@@ -142,7 +142,7 @@
 |blank3_info_sec2=UKE42
 |blank4_name_sec2=[[Ordnance Survey National Grid|OS grid reference]]
 |blank4_info_sec2={{gbmappingsmall|SE296338}}
-|blank5_name_sec2=[[پارلمان اروپا]]
+|blank5_name_sec2=[[اروپایي پارلمان]]
 |blank5_info_sec2=[[Yorkshire and the Humber (European Parliament constituency)|Yorkshire & the Humber]]
 |website=[http://www.leeds.gov.uk/ www.leeds.gov.uk]
 |footnotes=
