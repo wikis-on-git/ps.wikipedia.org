@@ -1,9 +1,9 @@
-'''قونیه''' په [[ترکي]] پ ه [[مرکزي آناتولیا]] پروت د [[ترکیه|ترکې]] هیواد ووم ګڼ نفوسه ښار دی.
+'''قونیه''' [[ترکي]] په [[مرکزي آناتولیا]] کې پروت د [[ترکیه|ترکې]] هیواد ووم ګڼ نفوسه ښار دی.
 {{Infobox settlement
 | name                    = قونیه
 | native_name             =
 | native_name_lang        =
-| settlement_type         = [[فهرست شهرهای ترکیه|ښار]]
+| settlement_type         = [[د ترکې هیواد ښارونه|ښار]]
 | image_skyline           = City of Konya.jpg
 | image_alt               =
 | image_caption           =
@@ -34,12 +34,12 @@
 | coordinates_type        =
 | coordinates_display     = inline,title
 | coordinates_footnotes   =
-| subdivision_type        = [[فهرست کشورهای جهان|هیواد]]
+| subdivision_type        = [[دهیوادونو نوملړ|هیواد]]
 | subdivision_name        = {{TUR}}
-| subdivision_type1       = [[ناحیه‌های ترکیه|ناحیه]]
-| subdivision_name1       = [[ناحیه آناتولی مرکزی|آناتولی مرکزی]]
-| subdivision_type2       = [[فهرست استان‌های ترکیه|استان]]
-| subdivision_name2       = [[استان قونیه|قونیه]]
+| subdivision_type1       = [[د ترکې سیمې|سیمه]]
+| subdivision_name1       = [[مرکزي آناتولیا سیمه|مرکزي آناتولیا]]
+| subdivision_type2       = [[د ترکې هیواد ایداري وېش|ولایت]]
+| subdivision_name2       = [[ قونیه]]
 | subdivision_type3       =
 | subdivision_name3       =
 | established_title       =
@@ -48,8 +48,8 @@
 | seat_type               =
 | seat                    =
 | government_footnotes    =
-| leader_party            = [[حزب عدالت و توسعه (ترکیه)|عدالت و توسعه]]
-| leader_title            = شهردار
+| leader_party            = [[ د ترکې عدالت او پرمختګ ګوند |عدالت او پرمختګ]]
+| leader_title            = ښاروال
 | leader_name             = طاهر آیکورک
 | unit_pref               = Metric<!-- or US or UK -->
 | area_footnotes          =
@@ -78,7 +78,7 @@
 | utc_offset1             = ۲+
 | timezone1_DST           = EEST
 | utc_offset1_DST         = ۳+
-| postal_code_type        = [[کد پستی]]
+| postal_code_type        = [[پستي کوډ]]
 | postal_code             = ۴۲xxx
 | area_code_type          =
 | area_code               = ۳۳۲ (۹۰)+
