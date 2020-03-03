@@ -3,10 +3,10 @@
 | name                    = آداپازاری
 | native_name             =
 | native_name_lang        =
-| settlement_type         = [[فهرست شهرهای ترکیه|شهر]]
+| settlement_type         = [[د ترکې هیواد ښارونه|ښار]]
 | image_skyline    = Sakaryaistanbulbus.jpg
 | image_alt               =
-| image_caption           = تصویری از شهر آداپازاری
+| image_caption           = د آداپازاری ښار انځور
 | imagesize               = 250px
 | image_flag              =
 | flag_alt                =
@@ -35,12 +35,12 @@
 | coordinates_display     = inline,title
 | coordinates_footnotes   =
 | coordinates_region      = TR
-| subdivision_type        = [[فهرست کشورهای جهان|کشور]]
+| subdivision_type        = [[د هیوادونو نوملړ|هیواد]]
 | subdivision_name        = {{TUR}}
-| subdivision_type1       = [[ناحیه‌های ترکیه|ناحیه]]
-| subdivision_name1       = [[ناحیه مرمره|مرمره]]
-| subdivision_type2       = [[فهرست استان‌های ترکیه|استان]]
-| subdivision_name2       = [[استان سقاریه|سقاریه]]
+| subdivision_type1       = [[د ترکې هیواد سیمې|سیمه]]
+| subdivision_name1       = [[ مرمره سیمه|مرمره]]
+| subdivision_type2       = [[د ترکې هیواد د ولایتونو نوملړ|ولایت]]
+| subdivision_name2       = [[ سقاریه]]
 | subdivision_type3       =
 | subdivision_name3       =
 | established_title       =
@@ -49,8 +49,8 @@
 | seat_type               =
 | seat                    =
 | government_footnotes    =
-| leader_party            = [[حزب عدالت و توسعه]]
-| leader_title            = شهردار
+| leader_party            = [[ عدالت او پرمختګ ګوند]]
+| leader_title            = ښاروال
 | leader_name             =
 | unit_pref               = Metric<!-- or US or UK -->
 | area_footnotes          =
@@ -79,17 +79,18 @@
 | utc_offset1             = ۲+
 | timezone1_DST           = EEST
 | utc_offset1_DST         = ۳+
-| postal_code_type        = [[کد پستی]]
+| postal_code_type        = [[پستي کوډ]]
 | postal_code             =
 | area_code_type          =
 | area_code               = (۹۰)+
 | iso_code                =
-| blank_name_sec1         = کد پلاک
+| blank_name_sec1         = [[د پلیټ کوډ]]
 | blank_info_sec1         =
 | blank_name_sec2         =
 | blank_info_sec2         =
 | website                 = {{URL|}}
 | footnotes               =
 }}
+
 ==تاریخ==
 ==جغرافیه==
