@@ -16,12 +16,12 @@
 |coordinates_type=
 |coordinates_display=inline,title
 |coordinates_footnotes=
-|subdivision_type=کشور
-|subdivision_name=[[سوئد]]
+|subdivision_type=هیواد
+|subdivision_name=[[سویډن]]
 |subdivision_type1=[[Lands of Sweden|Land]]
 |subdivision_name1=[[نورلاند]]
 |subdivision_type2=Counties
-|subdivision_name2=[[استان یمتلاند]]{{سخ}}[[استان دالارنا]]
+|subdivision_name2=[[ یمتلاند]]{{سخ}}[[ دالارنا]]
 |unit_pref=Metric<!-- or US or UK -->
 |area_footnotes=
 |area_total_km2=11,405
@@ -35,9 +35,9 @@
 |population_density_km2=auto
 |population_demonym=
 |population_note=
-|timezone1=[[زمان اروپای مرکزی|زمان]]
+|timezone1=[[د مرکزي اروپا وخت|وخت]]
 |utc_offset1=+1
-|timezone1_DST=[[ساعت تابستانی اروپای مرکزی]]
+|timezone1_DST=[[د مرکزي اروپا پسرلنی ساعت]]
 |utc_offset1_DST=+2
 |postal_code_type=[[List of postal codes in Sweden|Postal codes]]
 |postal_code=
@@ -58,5 +58,6 @@
 |website=<!-- {{URL|example.com}} -->
 |footnotes=
 }}
+
 ==تاریخ==
 ==جغرافیه==
