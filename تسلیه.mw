@@ -9,8 +9,6 @@
 |په image_caption= په ۲۰۰۴م کال کې د تسلیه ښار انځور
 |image_flag=
 |image_shield=
-|pushpin_map=Slovenia
-|pushpin_label_position=left<!-- position of the pushpin label: left, right, top, bottom, none -->
 |pushpin_map_caption=Location of the city of Celje in Slovenia
 <!-- Location -->
 |coordinates_region=SI
@@ -22,31 +20,7 @@
 |seat_type=
 |seat=
 |parts_type=[[#Districts and local communities|Districts & local communities]]
-|parts_style=<!--=list (for list), coll (for collapsed list), para (for paragraph format) Default is list if up to 5 items, coll if more than 5-->
-|parts=<!-- parts text, or header for parts list -->
-|p1='''''Districts'''''
-|p2=Center
-|p3=Dečkovo naselje
-|p4=Dolgo polje
-|p5=Gaberje
-|p6=Hudinja
-|p7=Karel Destovnik Kajuh
-|p8=Lava
-|p9=Nova vas
-|p10=Savinja
-|p11=Slavko Šlander
-|p12=&nbsp;
-|p13='''''Local communities'''''
-|p14=Aljažev hrib
-|p15=Ljubečna
-|p16=Medlog
-|p17=Ostrožno
-|p18=Pod gradom
-|p19=Škofja vas
-|p20=Šmartno v Rožni dolini
-|p21=Teharje
-|p22=Trnovlje
-|p23=
+|parts_style=<!--=list (for list
 |p24=<!-- etc. up to p50: for separate parts to be listed--> <!-- Politics -->
 |government_footnotes=
 |government_type=
@@ -63,10 +37,6 @@
 |area_total_km2=94.9 <!-- ALL fields with measurements are subject to automatic unit conversion-->
 <!-- Elevation ---->
 |elevation_footnotes=<!--for references: use tags-->
-|elevation_m=238
-|elevation_max_m=
-|elevation_min_m=
-<!-- Population ---->
 |population_as_of=2012
 |population_footnotes=
 |population_note=
