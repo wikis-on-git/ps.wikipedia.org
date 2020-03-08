@@ -1,10 +1,10 @@
-'''پرشوف ولایت''' په لاتیني ژبه|لاتیني د سلواکیا هیواد له ایداري برخو څخه یوه ده.
+'''پرشوف ولایت''' په [[سلواکیایي ژبه|سلواکیایي]] Prešovský) د سلواکیا هیواد له ایداري برخو څخه یوه ده.
 {{Infobox settlement
 <!-- See Template:Infobox settlement for additional fields and descriptions -->
-|name=منطقه پرشوف
+|name= پرشوف سیمه
 |native_name=Prešovský Kraj
 |native_name_lang=<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
-|settlement_type=[[منطقه‌های اسلواکی|منطقه]]
+|settlement_type=[[د سلواکیا هیواد سیمې|سیمه]]
 |image_flag=Presovsky vlajka.svg
 |flag_size=
 |image_shield=SŁO Kraj Preszowski COA.svg
@@ -12,13 +12,13 @@
 |image_map=Presovkrajloc.png
 |mapsize=
 |map_alt=
-|map_caption=موقعیت منطقه پرشوف در نقشه
+|map_caption=موقعیت 
 |latd=|latm=|lats=|latNS=N
 |longd=|longm=|longs=|longEW=E
 |coordinates_region=<!-- ISO 3166-1 alpha-2 or ISO 3166-2 code for country/region containing the coordinates -->
 |coordinates_display=inline,title
 |coordinates_format=dms
-|subdivision_type=کشور
+|subdivision_type=هیواد
 |subdivision_name={{SVK}}
 |seat_type=مرکز
 |seat=[[پرشف]]
@@ -31,13 +31,13 @@
 |elevation_min_m=105
 |population_footnotes=<!-- for references: use<ref> tags -->
 |population_total=818916
-|population_as_of=سرشماری ۲۰۱۳
+|population_as_of=سرشمیرنه ۲۰۱۳
 |population_density_km2=auto
 |iso_code=
 |registration_plate=
-|timezone1=[[زمان اروپای مرکزی|زمان]]
+|timezone1=[[د مرکزي اروپا وخت|وخت]]
 |utc_offset1=+1
-|timezone1_DST=[[ساعت تابستانی اروپای مرکزی]]
+|timezone1_DST=[[د مرکزي اروپا پسرلنی ساعت]]
 |utc_offset1_DST=+2
 |blank_name_sec1=
 |blank_info_sec1=
@@ -47,3 +47,5 @@
 |blank2_info_sec1=<!-- etc. , up to blank7_name_sec1 / blank7_info_sec1 -->
 |website={{URL|www.po-kraj.sk}}
 }}
+==تاریخ==
+==جغرافیه==
