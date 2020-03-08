@@ -6,14 +6,7 @@
 |settlement_type=ښار
 |image_skyline=Koperlandmarks.jpg
 |image_alt=|image_caption=|image_flag=|flag_alt=|image_shield=
-|shield_alt=|nickname=|motto=|image_map=|map_alt=Koper in Slovenia.svg
-|map_caption=
-|pushpin_map=Slovenia
-|pushpin_label_position=left
-|pushpin_map_alt=|pushpin_map_caption=Location of the city of Koper in Slovenia
-|latd=45|latm=33|lats=|latNS=N
-|longd=13|longm=44|longs=|longEW=E
-|coor_pinpoint=|coordinates_type=region:SI_type:adm1st
+|pe:adm1st
 |coordinates_display=title
 |coordinates_footnotes=|coordinates_region=SI
 |subdivision_type=هیواد
@@ -42,5 +35,6 @@
 |iso_code=|website=<!-- [http://www.example.com example.com] -->
 |footnotes=
 }}
+
 ==تاریخ==
 ==جغرافیه==
