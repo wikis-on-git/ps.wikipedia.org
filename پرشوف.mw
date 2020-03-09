@@ -1,4 +1,4 @@
-'''پرشوف''' په [[سلواکیایي ژبه|سلواکي]] د [[سلواکیا]] هیواد د [[پرشوف سیمه|پرشوف سیمې]] مرکزي ښار دی.
+'''پرشوف''' په [[سلواکیایي ژبه|سلواکي]] د [[سلواکیا]] هیواد د [[پرشوف سیمه|پرشوف سیمې]] مرکزي ښار دی. پرشوف ښار کابو ۹۱ زره وګړي لري.
 {{Geobox
 |Settlement
 <!-- *** Heading *** -->
@@ -17,7 +17,7 @@
 | country            = {{flag|Slovakia}}
 | country_flag       = ۱
 | state              =
-| region             = [[منطقه پرشوف|پرشوف]]
+| region             = [[پرشوف سیمه|پرشوف]]
 | district           = [[Prešov District|Prešov]]
 | municipality       =
 <!-- *** Family *** -->
@@ -56,11 +56,11 @@
 | established        = ۱۲۴۷
 | established_type   = First mentioned
 | mayor              = Pavel Hagyari
-| mayor_party        = [[کنشگر سیاسی مستقل|مستقل]]
+| mayor_party        = 
 <!-- *** Codes *** -->
-| timezone           = [[زمان اروپای مرکزی|CET]]
+| timezone           = [[د مرکزي اروپا وخت|CET]]
 | utc_offset         = +۱
-| timezone_DST       = [[زمان اروپای مرکزی|CEST]]
+| timezone_DST       = [[د مرکزي اروپا وخت |CEST]]
 | utc_offset_DST     = +۲
 | postal_code        = ۰۸۰ ۰۱
 | area_code          = +۴۲۱-۵۱
@@ -71,11 +71,11 @@
 <!-- *** Maps *** -->
 | map                = Slovakia - outline map.svg
 | map_background     = Slovakia - background map.png
-| map_caption        = موقعیت در اسلواکی
+| map_caption        = موقعیت 
 | map_locator        = Slovakia
 | map1               = Prešov Region - outline map.svg
 | map1_background    = Prešov Region - background map.png
-| map1_caption       = موقعیت در منطقه پرشوف
+| map1_caption       = د پرشوف ښار موقعیت  
 | map1_locator       = Prešov Region
 <!-- *** Websites *** -->
 | commons            = Prešov, Slovakia
@@ -85,3 +85,5 @@
 | footnotes          =
 <!-- Processed by Geoboxer 3.0 on 2007-10-15T20:44:48+02:00 -->
 }}
+==تاریخ==
+==جغرافیه==
