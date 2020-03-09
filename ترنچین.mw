@@ -1,81 +1,77 @@
 '''ترنچین''' په [[الماني]] Trentschin) د [[سلواکیا]]  هیواد د [[ترنچین سیمه|ترنچین سیمې]] مرکز دی.
-{{Geobox
-|Settlement
-<!-- *** Heading *** -->
-| name               = Trenčín
-| category           = City
-<!-- *** Image *** -->
-| image              = Skyline Trencin.JPG
-| image_caption      = View to City from [[Trenčín Castle]]
-<!-- *** Symbols *** -->
-| flag               =
-| symbol             = Coat of arms of Trenčin.png
-<!-- *** Name *** -->
-| etymology          =
-| official_name      =
-| motto              =
-| nickname           =
-<!-- *** Country etc. *** -->
-| country            = {{flag|Slovakia}}
-| country_flag       = 1
-| state              =
-| region             = [[ترنچین سیمه|ترنچین]]
-| district           = [[Trenčín District|Trenčín]]
-| commune            =
-| municipality       =
-<!-- *** Family *** -->
-| parent             = Považie
-| parent_type        = Tourism region
-| part               =
-| river              = Váh
-<!-- *** Locations *** -->
-| elevation          = 211
-| lat_d              = 48
-| lat_m              = 53
-| lat_s              = 31
-| lat_NS             = N
-| long_d             = 18
-| long_m             = 02
-| long_s             = 12
-| long_EW            = E
-| coordinates_type   =
-| highest            =
-| highest_elevation  =
-| highest_lat_d      =
-| highest_long_d     =
-| lowest             =
-| lowest_elevation   =
-| lowest_lat_d       =
-| lowest_long_d      =
-<!-- *** Dimensions *** -->
-| area               = 81.996
-| area_round         = 2
-<!-- *** Population *** -->
-| population         = 56365
-| population_date    = 2009-01-01
-| population_density = auto
-<!-- *** History & management *** -->
-| established        = circa 150
-| established_type   = First mentioned
-| mayor              = Richard Rybníček
-| mayor_party        = 
-<!-- *** Codes *** -->
-| timezone           = [[د مرکزي اروپا وخت|CET]]
-| utc_offset         = +1
-| timezone_DST       = [[د مرکزي اروپا وخت|CEST]]
-| utc_offset_DST     = +2
-| postal_code        = 91101
-| area_code          = +421-32
-| code               = TN, TC, TE
-| code_type          = [[Slovak car registration plates|Car plate]]
-<!-- *** Free fields *** -->
-| free               =
-<!-- *** Maps *** -->
-| map                = Slovakia - outline map.svg
-| map_background     = Slovakia - background map.png
-| map_caption        = د ترنچین موقعیت 
-| map_locator        = Slovakia
-| map1               = Trenčín Region - outline map.svg
+{{Infobox settlement
+| name                    = Trenčín
+| native_name             = 
+| other_name              = 
+| settlement_type         = City
+<!-- images, nickname, motto -->
+| image_skyline           = Skyline Trencin.JPG
+| image_caption           = View of the city from [[Trenčín Castle]]
+| image_flag              = 
+| image_shield            = Coat of arms of Trenčin.png
+| motto                   = 
+| nickname                = 
+| etymology               = 
+<!-- location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{SVK}}
+| subdivision_type1       = 
+| subdivision_name1       = 
+| subdivision_type2       = [[Regions of Slovakia|Region]]
+| subdivision_name2       = [[Trenčín Region|Trenčín]]
+| subdivision_type3       = [[Districts of Slovakia|District]]
+| subdivision_name3       = [[Trenčín District|Trenčín]]
+| subdivision_type4       = 
+| subdivision_name4       = 
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Slovakia Trenčín Region#Slovakia
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location of Slovakia 
+| coordinates             = {{coord|48|53|31|N|18|02|12|E|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = Richard Rybníček
+<!-- established -->
+| established_title       = First mentioned
+| established_date        = circa 150
+<!-- area -->
+| area_footnotes          = 
+| area_total_km2          = 81.996
+| area_total_sq_mi        = 
+| area_land_sq_mi         = 
+| area_water_sq_mi        = 
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 211
+| elevation_ft            = 
+<!-- population -->
+| population_as_of        = 2018-12-31<ref>{{cite web |title=Population and migration |url=https://slovak.statistics.sk/wps/portal/ext/themes/demography/population/indicators/|publisher=Statistical Office of the Slovak Republic |accessdate=16 April 2019}}</ref>
+| population_footnotes    = 
+| population_total        = 55333
+| population_density_km2  = auto
+| population_density_sq_mi=
+| population_demonym      = 
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 91101
+| area_code_type          =  
+| area_code               = +421-32
+| geocode                 = 
+| iso_code                = 
+| blank_name              = [[Slovak car registration plates|Car plate]]
+| blank_info              = TN, TC, TE
+<!-- website, footnotes -->
+| website                 = [http://www.trencin.sk www.trencin.sk]
+| footnotes               = 
 }}
+
 ==تاریخ==
 ==جغرافیه==
