@@ -1,5 +1,432 @@
 '''د هیوادونو نوملړ''' په ټوله نړۍ کې د ټولو خپلواکو هیوادونو نوملړ.
 ==آسیا==
+<!-- This color chart is apparently unused. {{legend|lightcyan|Overseas department or dependency|border=1px solid #AAAAAA}}{{legend|lightgreen|Non-[[ملگري ملتونه]] غړي هېوادونه|border=1px solid #AAAAAA}}-->
+{| class="wikitable sortable" style="font-size:85%"
+! بیرغ
+! لنډ نوم  
+! رسمي نوم
+! کورنی نوم
+! پلازمینه
+! نخشه
+|- bgcolor=lightgreen
+| [[دوتنه:Flag of Abkhazia.svg|centre|100px|border]]
+| [[ابخازيا]]<ref name="TCC">Some territory could be argued to be a part of [[د اروپايي هېوادونو لړليک|اروپا]] يا آسيا</ref><ref name="UNC">په رسمي توگه نه دی پېژندل شوی UN.</ref>
+| د ابخازيا جمهوريت
+| [[ابخازي ژبه|ابخازي]]: Аҧсны<br /> [[گورجستاني ژبه|گورجي]]: აფხაზეთი
+| [[سوخومي]]
+|[[دوتنه:Location of Abkhazia in Europe2.png‎|150px]]
+|-
+|[[دوتنه:Flag of Afghanistan.svg|centre|100px|border]] 
+|[[افغانستان]] 
+|د افغانستان اسلامي جمهوریت 
+|[[پښتو]]: د افغانستان اسلامي جمهوریت<br />[[دري]]: جمهوری اسلامی افغانستان
+|[[کابل]]
+|[[دوتنه:LocationAfghanistan.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Armenia.svg|centre|100px|border]] 
+|[[ارمنستان]]<ref name="TCC" />
+|د ارمنستان جمهوريت 
+|{{lang-hy|Հայաստանի Հանրապետություն}} 
+|[[ایروان]] 
+|[[دوتنه:LocationArmenia.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Azerbaijan.svg|centre|100px|border]] 
+|[[آذربايجان]]<ref name="TCC" />
+|د آذربايجان جمهوريت 
+|{{آذر بایجان جمهوریت}} 
+|[[باکو]] 
+|[[دوتنه:LocationAzerbaijan.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Bahrain.svg‎|centre|100px|border]] 
+|[[بحرين]] 
+|د بحرين پاچايي 
+|{{lang-ar|مملكة البحرين}} 
+|[[مانامه]] 
+|[[دوتنه:Map of Bahrain.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Bangladesh.svg|centre|100px|border]] 
+|[[بنگله دېش]] 
+|د بنگله دېش د خلکو جمهوريت 
+|[[بنگالي ژبه|بنگالي]]: গণপ্রজাতন্ত্রী বাংলাদেশ 
+|[[ډاکه]] 
+|[[دوتنه:LocationBangladesh.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Bhutan.svg|centre|100px|border]] 
+|[[بوتان]] 
+|د [[بوتان]] پاچايي 
+|[[ دزونګخا ژبه|دزونګخا]]: [[دوتنه:Brug rGyal-Khab.svg|50px]] 
+|[[تیمفو]] 
+|[[دوتنه:LocationBhutan.svg|150px]] 
+|- bgcolor=lightcyan
+|[[دوتنه:Flag of the British Indian Ocean Territory.svg|centre|100px|border]] 
+|[[د هند په سمندر کې بریتانوی قلمرو]]<ref name="BOT">[[British overseas territory]].</ref>
+|colspan="2"| د هند په سمندر کې بریتانوی قلمرو
+|[[دیګو ګارسیا]]
+|[[دوتنه:Location of the British Indian Ocean Territory.png|150px]] 
+|- 
+|[[دوتنه:Flag of Brunei.svg|centre|100px|border]] 
+|[[برونای]] 
+|برونای دولت د استوګنی ځای 
+|[[مالایې ژبه|مالایې]]: بروني دارالسلام 
+|[[سری بګاوان بندر]] 
+|[[دوتنه:LocationBrunei.png|150px]] 
+|- 
+|[[دوتنه:Flag of Cambodia.svg|centre|100px|border]] 
+|[[کمبودیا]] 
+|د کمبوديا پاچايي 
+|[[خمري ژبه|خمري]]: [[دوتنه:KingdomofCambodia.svg|100px]] 
+|[[پنوم پن]] 
+|[[دوتنه:LocationCambodia.svg|150px]] 
+|- 
+|[[دوتنه:Flag of the People's Republic of China.svg|centre|100px|border]] 
+|[[چين د خلکو جمهوريت]]<ref>[http://publications.europa.eu/code/en/en-5000500.htm China is the short form name used internationally]</ref>
+|د چین د خلکو جمهوریت 
+|[[Simplified Chinese character|Simplified Chinese]]: 中华人民共和国<br />[[  دودیز چینایي| دودیز چینایي]]: 中華人民共和國 
+|[[بیجنګ]] 
+|[[دوتنه:LocationPRChina.svg|150px]] 
+|- bgcolor=lightcyan
+|[[دوتنه:Flag of Christmas Island.svg|centre|100px|border]] 
+|[[کریسمس ټاپو]]<ref name="AOT">[[استرالیا]]n overseas territory.</ref>
+|colspan="2"| د استرالیا دوهمه ملکه الیزابت 
+|[[فلاینګ فیش کاو]]
+|[[دوتنه:Christmasisland.png|150px]] 
+|- bgcolor=lightcyan
+|[[دوتنه:Flag of the Cocos (Keeling) Islands.svg|centre|100px|border]] 
+|[[کوکوس ټاپوګان]]<ref name="AOT" />
+|colspan="2"| د استرالیا دوهمه ملکه الیزابت   
+|[[لویدیځ آیسلنډ]]
+|[[دوتنه:Keelingislands.png|150px]]  	
+|- 
+|[[دوتنه:Flag of Cyprus.svg|centre|100px|border]] 
+|[[قبرس]]<ref name="TCC" />
+|د قبرس جمهوریت
+|{{lang-el|Κυπριακή Δημοκρατία}}<br />{{lang-tr|Kıbrıs Cumhuriyeti}} 
+|[[نیکوزیا]] 
+|[[دوتنه:LocationCyprus.svg|150px]] 
+|-
+|[[دوتنه:Flag of Georgia.svg|centre|100px|border]] 
+|[[ګرجستان]]<ref name="TCC" />
+|د ګرجستان جمهوریت
+|{{lang-ka|საქართველო}} 
+|[[تفلیس]] 
+|[[دوتنه:LocationGeorgia.svg|150px]] 
+|- bgcolor=lightcyan
+|[[دوتنه:Flag of Hong Kong.svg|centre|100px|border]] 
+|[[هنکانګ]]<ref name="SAR">[[Special  Region of the  Republic of China|Special administrative region]] of the [[چین د خلکو جمهوریت]].</ref>
+|هنکانګ ځانګړې ایداري سیمه
+|[[ چینایی ژبه|دودیز e  ]]: 香港特別چینایی
+|[[هنکانګ]]  
+|[[دوتنه:LocationHongKong.png|150px]] 
+|-
+|[[دوتنه:Flag of India.svg|centre|100px|border]] 
+|[[هند]] 
+|د هند جمهوریت 
+|{{lang-hi|भारत गणराज्य}} 
+|[[نوی ډیلي]] 
+|[[دوتنه:LocationIndia.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Indonesia.svg|centre|100px|border]] 
+|[[اندونیزیا]]<ref name="TAO">Some territory could be argued to be a part of Asia or [[List of Oceanian countries|Oceania]].</ref>
+| اندونیزیا جمهوریت  
+|{{lang-id|اندونیزیا جمهوریت}} 
+|[[جاکرتا]] 
+|[[دوتنه:LocationIndonesia.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Iran.svg|centre|100px|border]] 
+|[[ایران]] 
+|د ایران اسلامي جمهوریت
+|[[فارسي]]: جمهوری اسلامی ايران 
+|[[تهران]]
+|[[دوتنه:LocationIran.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Iraq.svg|centre|100px|border]] 
+|[[عراق]] 
+| جمهوری عراق  
+|{{lang-ar|جمهورية العراق}}<br />[[کردي]]sh: كۆماری عێراق 
+|[[بغداد]] 
+|[[دوتنه:LocationIraq.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Israel.svg|centre|100px|border]] 
+|[[اسرایل]] 
+| د اسرایل دولت  
+|{{lang-he|יִשְרָאֵל}}<br />{{lang-ar|إسرائيل}} 
+|[[یورسلیم]] 
+|[[دوتنه:LocationIsrael.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Japan.svg|centre|100px|border]] 
+|[[جاپان]] 
+|جاپاني 
+|{{lang-ja|日本国}} 
+|[[توکيو]] 
+|[[دوتنه:LocationJapan.png|150px]] 
+|- 
+|[[دوتنه:Flag of Jordan.svg|centre|100px|border]] 
+|[[اردن]] 
+|د اردن هاشمی پادشاهي  
+|{{lang-ar|المملكة الأردنية الهاشميه}} 
+|[[د اردن پلازمینه اومان]] 
+|[[دوتنه:LocationJordan.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Kazakhstan.svg|centre|100px|border]] 
+|[[قزاقستان]]<ref name="TCC" />
+|قزاقستان جمهوريت  
+|{{lang-kk|Қазақстан Республикасы}}<br />{{lang-ru|Республика Казахстан}} 
+|[[استانه]] 
+|[[دوتنه:LocationKazakhstan.png|150px]] 
+|- 
+|[[دوتنه:Flag of North Korea.svg|centre|100px|border]] 
+|[[ شمالي کوريا|شمالي کوریا]] 
+|کوریا د خلکو جمهوریت
+|{{lang-ko|조선민주주의인민공화국}}<br />{{zh|c=朝鮮民主主義人民共和國}} 
+|[[پیونګ یانګ]] 
+|[[دوتنه:Locator map of North Korea.svg|150px]] 
+|- 
+|[[دوتنه:Flag of South Korea.svg|centre|100px|border]] 
+|[[سویلي کوریا|سویلي کوریا]] 
+| کوریا جمهوریت  
+|{{lang-ko|대한민국}}<br />{{zh|c=大韓民國}} 
+|[[سيول]] 
+|[[دوتنه:Locator map of South Korea.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Kuwait.svg|centre|100px|border]] 
+|[[کویټ]] 
+| کویټ دولت  
+|{{lang-ar|دولة الكويت}} 
+|[[ کویټ]] 
+|[[دوتنه:LocationKuwait.png|150px]] 
+|- 
+|[[دوتنه:Flag of Kyrgyzstan.svg|centre|100px|border]] 
+|[[قرغزستان]] 
+|قرغزستان جهوریت  
+|[[ قرغزی ژبه|قرغزی]]: Кыргыз Республикасы<br />{{lang-ru|Кыргызская Республика}} 
+|[[بشکک]] 
+|[[دوتنه:LocationKyrgyzstan.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Laos.svg|centre|100px|border]] 
+|[[لاووس]] 
+|لاووس د خلکو دیمکراتیک جمهوریت    
+|[[Lao language|Lao]]:ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ 
+|[[وینتیان]] 
+|[[دوتنه:LocationLaos.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Lebanon.svg|centre|100px|border]] 
+|[[لبنان]] 
+| لبنان جمهوریت 
+|{{lang-ar|الجمهورية اللبنانية}} 
+|[[بیروت]] 
+|[[دوتنه:LocationLebanon.svg|150px]] 
+|- bgcolor=lightcyan
+|[[دوتنه:Flag of Macau.svg|centre|100px|border]] 
+| [[ماکاو]]<ref name="SAR" />
+| ماکاو ځانګړی سیمه
+|[[چینایي ژبه|چینایي]]: 澳門特別行政區
+|[[ماکاو]]
+|[[دوتنه:LocationMacau.png|150px]] 
+|- 
+|[[دوتنه:Flag of Malaysia.svg|centre|100px|border]] 
+|[[مالیزیا هیواد]] 
+|مالېزيا
+|{{lang-ms|مليسيا}} <br />[[Simplified Chinese character|Simplified Chinese]]:马来西亚<br />[[Traditional Chinese character|Traditional Chinese]]:馬來西亞<br />
+|[[ کوالا لامپور]] 
+|[[دوتنه:LocationMalaysia.png|150px]] 
+|- 
+|[[دوتنه:Flag of Maldives.svg|centre|100px|border]] 
+|[[مالدیف]] 
+|د مالديپ جمهوريت 
+|[[ ډیوی ژبه|ډیوی]]: ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔާ 
+|[[ماله]] 
+|[[دوتنه:LocationMaldives.png|150px]] 
+|- 
+|[[دوتنه:Flag of Mongolia.svg|centre|100px|border]] 
+|[[مغولستان]]
+|منګولیا
+|{{lang-mn|Монгол улс}}, [[دوتنه:Monggol ulus.svg|30px]] 
+|[[اولان باتور]]
+|[[دوتنه:LocationMongolia.png|150px]] 
+|- 
+|[[دوتنه:Flag of Myanmar.svg|centre|100px|border]] 
+|[[برما]]
+| د مینمار اتحاد  
+|{{lang-my}}:Pyi-daung-zu Myan-ma Naing-ngan-daw
+|[[نایپیداو]] 
+|[[دوتنه:LocationMyanmar.svg|150px]] 
+|- bgcolor=lightgreen
+|[[دوتنه:Flag of Artsakh.svg|centre|100px|border]] 
+|[[ناګورنو قرباغ]]<ref name="TCC" /><ref name="UNC" />
+|د ناګورنو قرباغ جمهوريت
+|{{lang-hy|Լեռնային Ղարաբաղ Հանրապետություն}}
+|[[ستیپا ناکرت]]
+|
+|- 
+|[[دوتنه:Flag of Nepal.svg|centre|100x67px]] 
+|[[نيپال]] 
+|د نيپال فېدرالي ديموکراتيک جمهوريت 
+|[[نيپالي ژبه|نيپالي]]: संघीय लोकतान्त्रिक गणतन्त्र नेपाल 
+|[[کتمندو]] 
+|[[دوتنه:LocationNepal.svg|150px]]
+|- bgcolor=lightgreen
+|[[دوتنه:Flag of the Turkish Republic of Northern Cyprus.svg|centre|100px|border]] 
+|[[شمالي قبرس ]]<ref name="TCC" /><ref name="UNC"/>
+|  شمالي قبرس جمهوریت  
+|{{lang-tr|Kuzey Kıbrıs Türk Cumhuriyeti}}
+|[[لیکوزیا]]
+|[[دوتنه:TRNC location.svg|150px]]
+|- 
+|[[دوتنه:Flag of Oman.svg|centre|100px|border]] 
+|[[عمان]] 
+|د عمان رياست 
+|{{lang-ar|سلطنة عُمان}}
+|[[مسقط |مسقط]]
+|[[دوتنه:LocationOman.png|150px]]
+|-
+|[[دوتنه:Flag of Pakistan.svg|centre|100px|border]] 
+|[[پاکستان]]
+|[[د پاکستان اسلامي جمهوريت]] 
+|[[اردو]]: اسلامی جمہوریہ پاکستان 
+|[[اسلام آباد]] 
+|[[دوتنه:LocationPakistan.svg|150px]] 
+|-
+|- bgcolor=lightgreen
+|[[دوتنه:Flag of Palestine.svg|centre|100px]] 
+|[[فلسطین]]
+|د فلسطين واکمني
+|[[عربي]]: دولة فلسـطين 
+|[[رام الله]] 
+|[[دوتنه:LocationPalestine.svg|150px]] 
+|-
+|[[دوتنه:Flag of the Philippines.svg|centre|100px|border]] 
+|[[فلیپین]]
+|فلیپین جمهوريت
+|[[Filipino language|Filipino]]: Republika ng Pilipinas
+|[[مانيلا]] 
+|[[دوتنه:LocationPhilippines.png|150px]] 
+|- 
+|[[دوتنه:Flag of Qatar.svg|centre|100px|border]] 
+|[[قطر]] 
+|د قطر رياست 
+|{{lang-ar|دولة قطر}}
+|[[دوحه]] 
+|[[دوتنه:LocationQatar.png|150px]] 
+|- 
+|[[دوتنه:Flag of Russia.svg|centre|100px|border]] 
+|[[روسيه]]<ref name="TCC" />
+|د روسيې فدراسيون 
+|{{lang-ru|Российская Федерация}}
+|[[مسکو]] 
+|[[دوتنه:LocationRussia.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Saudi Arabia.svg|centre|100px|border]] 
+|[[سعودي عربستان]] 
+| سعودي عربستان پادشاهي   
+|{{lang-ar|المملكة العربية السعودية}} 
+|[[ریاض]] 
+|[[دوتنه:LocationSaudiArabia.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Singapore.svg|centre|100px|border]] 
+|[[سنګاپور]] 
+| سنګاپور جمهوریت  
+|[[Simplified Chinese character|Simplified Chinese]]: 新加坡共和国<br />{{lang-ms|Republik Singapura<br />}}[[Tamil language|تامیلي]]: சிங்கப்பூர் குடியரசு
+|[[سنګاپور]] 
+|[[دوتنه:LocationSingapore.png|150px]] 
+|- bgcolor=lightgreen
+| [[دوتنه:Flag of South Ossetia.svg|centre|100px|border]]
+| [[جنوبي استا]]<ref name="TCC" /><ref name="UNC" />
+| جنوبي استا جمهوریت  
+| [[Ossetic language|Ossetic]]: Республикӕ Хуссар Ирыстон<br /> [[ ګرجي ژبه|ګرجي]]: სამხრეთ ოსეთის რესპუბლიკა<br /> [[ روسي ژبه|روسي]]: Республика Южная Осетия
+| [[تسخینوالی]]
+| [[دوتنه:Location of South Ossetia in Europe2.png‎|150px]]
+|- 
+|[[دوتنه:Flag of Sri Lanka.svg|centre|100px|border]] 
+|[[سریلانکا ]] 
+|  سریلانکا سوسیالیستی دیمکراسی   
+|[[Sinhalese language|سنهالي]]: [[دوتنه:Sri Lanka in Sinhala Language.png|200px]]<br />[[Tamil language|Tamil]]: இலங்கை ஜனநாயக சமத்துவ குடியரசு
+|[[سری جایاواردنپورا کوته]] 
+|[[دوتنه:LocationSriLanka.png|150px]] 
+|- 
+|[[دوتنه:Flag of the United Arab Republic.svg|centre|100px|border]] 
+|[[سوریه]] 
+| سوریه جمهوریت  
+|{{lang-ar|جمهورية سوريا العربية}} 
+|[[دمشق]] 
+|[[دوتنه:LocationSyria.svg|150px]] 
+|- bgcolor=lightgreen
+|[[دوتنه:Flag of the Republic of China.svg|centre|100px|border]] 
+|[[تایوان|تایوان]]<ref>[http://publications.europa.eu/code/en/en-5000500.htm#fn-tw1 Taiwan: Republic of China is the name recognised as official by the Taipei authorities; Taiwan is the name used by governments which broke off diplomatic relations with Taipei after the UN resolution of October 1971; the name Chinese Taipei is used for sporting events and membership of APEC (Asia-Pacific Economic Cooperation), and reputedly for Taiwan’s application to the WTO as the short form of Independent Customs Territory of Taiwan, Penghu, Kinmen and Matsu.] The country also competes as [[Chinese Taipei]] in sports.</ref>
+| چین جمهوریت  
+|[[دودیز چین Chinese character| Chinese]]: 中華民國 
+|[[تایپه]] 
+|[[دوتنه:LocationTaiwan.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Tajikistan.svg|centre|100px|border]] 
+|[[تاجکستان]] 
+| تاجکستان جمهوریت  
+|{{lang-tg|Ҷумҳурии Тоҷикистон}}
+|[[دوشنبه]] 
+|[[دوتنه:LocationTajikistan.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Thailand.svg|centre|100px|border]] 
+|[[تايلنډ]] 
+| د تایلند پادشاهي  
+|[[Thai language|Thai]]: ราชอาณาจักรไทย 
+|[[بنکاک]]
+|[[دوتنه:LocationThailand.svg|150px]]
+|- 
+|[[دوتنه:Flag of East Timor.svg|centre|100px|border]] 
+|[[ختیځ تیمور]]<ref name="TAO" /><ref>Also known as ''East Timor''.</ref>
+| جمهوری دیمکراتیک ختیځ تیمور 
+|[[Tetum]]: Repúblika Demokrátika Timór Lorosa'e<br />{{lang-pt| Democrática de Timor-Leste}}
+|[[دیلی]]
+|[[دوتنه:LocationEastTimor.svg|150px]] 
+|- 
+|[[دوتنه:Flag of Turkey.svg|centre|100px|border]] 
+|[[ترکیه]]<ref name="TCC"/>
+| ترکیه جمهوریت 
+|[[ ترکي ژبه|ترکي]]: ترکیه Cumhuriyeti
+|[[انقره]]
+|[[دوتنه:LocationTurkey.svg|150px]]
+|- 
+|[[دوتنه:Flag of Turkmenistan.svg|centre|100px|border]] 
+|[[ترکمنستان]]
+|ترکمنستان جمهوریت
+|{{ترکمنستان}}
+|[[عشق آباد]]
+|[[دوتنه:LocationTurkmenistan.svg|150px]]
+|- 
+|[[دوتنه:Flag of the United Arab Emirates.svg|centre|100px|border]] 
+|[[عربي متحده امارات ]]
+| عربی متحده امارات 
+|دولة الإمارات العربية المتحدة
+|[[ابوظبی]]
+|[[دوتنه:LocationUnitedArabEmirates.png|150px]]
+|- bgcolor=lightcyan
+|[[دوتنه:Flag of the United Kingdom.svg|centre|100px|border]] 
+|[[اکروتیري او داکیلیا]]
+|colspan="2"|    د اکروتیري او دامیلیا سیمی
+|[[اپیسکوپی کانتونمنت]]
+|[[دوتنه:Cyprus SBAsInRed.png|150px]]
+|- 
+|[[دوتنه:Flag of Uzbekistan.svg|centre|100px|border]] 
+|[[ازبکستان]]
+| ازبکستان جمهوریت 
+|{{
+|[[تاشکند]]
+|[[دوتنه:LocationUzbekistan.png|150px]]
+|- 
+|[[دوتنه:Flag of Vietnam.svg|centre|100px|border]] 
+|[[ویتنام]]
+|  د ویتنام سوسیالیستی جمهوریت 
+|{{lang-vi|Cộng hòa xã hội chủ nghĩa Việt Nam}}
+|[[هانوی]]
+|[[دوتنه:Vietnam in its region.svg|150px]]
+|- 
+|[[دوتنه:Flag of Yemen.svg|centre|100px|border]] 
+|[[یمن]]
+| یمن جمهوریت 
+|{{lang-ar|الجمهورية اليمنية}}
+|[[صنعا]]
+|[[دوتنه:LocationYemen.png|150px]]
+|}
+
 ==امریکا==
 ==افریقا==
 ==استرالیا==
