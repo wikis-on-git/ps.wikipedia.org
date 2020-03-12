@@ -1,11 +1,11 @@
-'''آرخانګلسک''' په [[روسي]] د [[روسیه|روسې]] هیواد له فدرالي سیمو څخه یوه ده.
+'''آرخانګلسک''' په [[روسي]] Архангельская область/ Arkhangelsk Oblast) د [[روسیه|روسې]] هیواد له فدرالي سیمو څخه یوه ده.
 {{Infobox settlement
 | name                    =  آرخانګلسک ولایت
 | official_name           = Arkhangelsk Oblast
 | native_name             = Архангельская область
 | native_name_lang        = 
 | other_name              = 
-| settlement_type         = [[استان‌های روسیه|ولایت]]
+| settlement_type         = [[روسې ایداري وېش|ولایت]]
 <!-- images, nickname, motto --->
 | image_skyline           = 
 | imagesize               = 
@@ -28,7 +28,7 @@
 | image_map               = RussiaArkhangelsk2005.png
 | mapsize                 = 
 | map_alt                 = 
-| map_caption             = جایگاه استان آرخانگلسک بر روی نقشه فدراسیون روسیه 
+| map_caption             =  ولایت د روسې فدراسیون کې د آرخانګلسک ولایت موقیعت 
 | image_map1              = 
 | mapsize1                = 
 | map_alt1                = 
@@ -60,15 +60,15 @@
 | coordinates_format      = dms
 | coordinates_footnotes   = <!-- for references: use <ref> tags -->
 <!-- location ---->
-| subdivision_type        = [[فهرست کشورهای جهان|کشور]]
+| subdivision_type        = [[د هیوادونو نوملړ|هیواد]]
 | subdivision_name        = {{RUS}}
-| subdivision_type1       = منطقه فدرالی
-| subdivision_name1       = [[ناحیه فدرالی شمال غربی|شمال غربی]]
-| subdivision_type2       = منطقه اقتصادی
-| subdivision_name2       = [[منطقه اقتصادی شمالی|شمالی]]
+| subdivision_type1       = فدرالي سیمه 
+| subdivision_name1       = [[شمال لویدیځه سیمه|شمال لویدیځه]]
+| subdivision_type2       =  اقتصادی سیمه
+| subdivision_name2       = [[شمالي اقتصادی سیمه|شمالي]]
 <!-- established ---->
-| established_title       = تاسیس
-| established_date        = [[۲۳ سپتامبر|September 23]] [[۱۹۳۷ (میلادی)|۱۹۳۷]]
+| established_title       = جوړښت
+| established_date        = [[۲۳ سپټمبر|September 23]] [[۱۹۳۷ (میلادی)|۱۹۳۷]]
 | established_title1      = <!-- Incorporated (town) -->
 | established_date1       = 
 | established_title2      = <!-- Incorporated (city) -->
@@ -79,7 +79,7 @@
 | extinct_date            = 
 | founder                 = 
 | named_for               = 
-| seat_type               = [[فهرست شهرهای روسیه|مرکز]]
+| seat_type               = [[د روسې د ښارونو نوملړ|ښار]]
 | seat                    = [[آرخانگلسک|Arkhangelsk]]
 | parts_type              = <!-- defaults to: Boroughs -->
 | parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
@@ -89,7 +89,7 @@
 | government_type         = 
 | governing_body          =
 | leader_party            = 
-| leader_title            = فرماندار
+| leader_title            = والی
 | leader_name             = [[ایلیا میخالچوک]]
 <!-- display settings  ---->
 | total_type              = 
@@ -155,7 +155,7 @@
 | timezone2_DST           = 
 | utc_offset2_DST         = 
 <!-- postal codes, area code --->
-| postal_code_type        = [[کد پستی|Postal code]]
+| postal_code_type        = [[ پُستي کوډ|Postal code]]
 | postal_code             = 
 | postal2_code_type       = 
 | postal2_code            = 
@@ -170,8 +170,8 @@
 | twin2                   = 
 | twin2_country           = <!-- etc., up to twin9 / twin9_country -->
 <!-- blank fields (section 1) -->
-| blank_name_sec1         = زبان‌های رسمی
-| blank_info_sec1         = [[زبان روسی|روسی]]
+| blank_name_sec1         = رسمي ژبې
+| blank_info_sec1         = [[روسي]]
 | blank1_name_sec1        = 
 | blank1_info_sec1        = 
 | blank2_name_sec1        = 
@@ -187,5 +187,6 @@
 | website                 = {{URL|http://www.dvinaland.ru/}} 
 | footnotes               = 
 }}
+
 ==تاریخ==
 ==جغرافیه==
