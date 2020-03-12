@@ -1,12 +1,12 @@
 '''استراخان''' په [[روسي]] د [[روسي]]
 هیواد له ولایتونو څخه یو دی. یاد ولایت  [[تور سمندر]] څیرمه پروت دی.
 {{Infobox settlement
-| name                    = استان آستراخان
+| name                    = آستراخان ولایت
 | official_name           = Astrakhan Oblast
 | native_name             = Астраханская область 
 | native_name_lang        = 
 | other_name              = 
-| settlement_type         = [[استان‌های روسیه|استان]]
+| settlement_type         = [[د روسې ایداري وېش|ولایت]]
 <!-- images, nickname, motto --->
 | image_skyline           = 
 | imagesize               = 
@@ -29,7 +29,7 @@
 | image_map               = RussiaAstrakhan2005.png
 | mapsize                 = 
 | map_alt                 = 
-| map_caption             = جایگاه استان آستراخان بر روی نقشه فدراسیون روسیه
+| map_caption             = په روسیه کې آستراخان موقیعت
 | image_map1              = 
 | mapsize1                = 
 | map_alt1                = 
@@ -61,15 +61,15 @@
 | coordinates_format      = dms
 | coordinates_footnotes   = <!-- for references: use <ref> tags -->
 <!-- location ------------------>
-| subdivision_type        = [[فهرست کشورهای جهان|کشور]]
+| subdivision_type        = [[د هیوادونو نوملړ|هیواد]]
 | subdivision_name        = {{RUS}}
-| subdivision_type1       = منطقه فدرالی
-| subdivision_name1       = [[ناحیه فدرالی جنوبی|جنوبی]]
-| subdivision_type2       = منطقه اقتصادی
-| subdivision_name2       = [[منطقه اقتصادی ولگا|ولگا]]
+| subdivision_type1       =  فدرالي سیمه
+| subdivision_name1       = [[ سویلي فدرالي سیمه|سویلي]]
+| subdivision_type2       =  اقتصادی سیمه
+| subdivision_name2       = [[ ولګا اقتصادی سیمه|ولګا]]
 <!-- established --------------->
-| established_title       = تاسیس
-| established_date        = [[۲۷ دسامبر]] [[۱۹۴۳ (میلادی)|۱۹۴۳]]
+| established_title       = جوړښت
+| established_date        = [[۲۷ ډسمبر]] [[۱۹۴۳ (میلادی)|۱۹۴۳]]
 | established_title1      = <!-- Incorporated (town) -->
 | established_date1       = 
 | established_title2      = <!-- Incorporated (city) -->
@@ -80,7 +80,7 @@
 | extinct_date            = 
 | founder                 = 
 | named_for               = 
-| seat_type               = [[فهرست شهرهای روسیه|مرکز]]
+| seat_type               = [[د روسې د ښارونو نوملړ|ښار]]
 | seat                    = [[آستراخان]]
 | parts_type              = <!-- defaults to: Boroughs -->
 | parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
@@ -90,7 +90,7 @@
 | government_type         = 
 | governing_body          =
 | leader_party            = 
-| leader_title            = فرماندار
+| leader_title            = والی
 | leader_name             = [[آلکساندر ژیلکین]]
 <!-- display settings  --------->
 | total_type              = 
@@ -156,7 +156,7 @@
 | timezone2_DST           = 
 | utc_offset2_DST         = 
 <!-- postal codes, area code --->
-| postal_code_type        = [[کد پستی]]
+| postal_code_type        = [[ پُستي کوډ]]
 | postal_code             = 
 | postal2_code_type       = 
 | postal2_code            = 
@@ -171,8 +171,8 @@
 | twin2                   = 
 | twin2_country           = <!-- etc., up to twin9 / twin9_country -->
 <!-- blank fields (section 1) -->
-| blank_name_sec1         = زبان های رسمی
-| blank_info_sec1         = [[زبان روسی|روسی]]
+| blank_name_sec1         = ژبې
+| blank_info_sec1         = [[روسي]]
 | blank1_name_sec1        = 
 | blank1_info_sec1        = 
 | blank2_name_sec1        = 
@@ -188,5 +188,6 @@
 | website                 = {{URL|http://www.astrobl.ru/}} 
 | footnotes               = 
 }}
+
 ==تاریخ==
 ==جغرافیه==
