@@ -1,4 +1,4 @@
-'''تومسک فدرالي سیمه''' په [[روسي]]
+'''تومسک فدرالي سیمه''' په [[روسي]] То́мская о́бласть/ Tomsk Oblast)
 د [[روسیه|روسې]] هیواد له فدرالي آیالاتونو څخه یو دی.
 {{Infobox settlement
 | name                    = تومسک ولایت
@@ -6,12 +6,12 @@
 | native_name             = То́мская о́бласть 
 | native_name_lang        = 
 | other_name              = 
-| settlement_type         = [[استان‌های روسیه|استان]]
+| settlement_type         = [[د  روسې هیواد ولایتونه|ولایت]]
 <!-- images, nickname, motto --->
 | image_skyline           = Tomsk weisses Haus.jpg
 | imagesize               = 
 | image_alt               = 
-| image_caption           = استانداری تومسک در شهر تومسک
+| image_caption           =  د تومسک ولایت مقام
 | image                   = <!-- other image (specify File: or Image: namespace) -->
 | image_flag              = Flag of Tomsk Oblast.svg
 | flag_size               = 
@@ -29,7 +29,7 @@
 | image_map               = RussiaTomsk2005.png
 | mapsize                 = 
 | map_alt                 = 
-| map_caption             = جایگاه استان تومسک  بر روی نقشه فدراسیون روسیه
+| map_caption             = د تومسک  ښار  موقیعت 
 | image_map1              = 
 | mapsize1                = 
 | map_alt1                = 
@@ -51,9 +51,7 @@
 | pushpin_label1          = <!-- only necessary if "name" or "official_name" are too long -->
 | pushpin_map_alt1        = 
 | pushpin_mapsize1        = 
-| pushpin_map_caption1    = 
-| latd  = 58 |latm  = 45 |lats  =  |latNS  = N
-| longd = 82 |longm = 08 |longs =  |longEW = E
+| pushpin_map_caption1    =  
 | coor_pinpoint           = 
 | coordinates_region      = 
 | coordinates_type        = 
@@ -61,15 +59,15 @@
 | coordinates_format      = dms
 | coordinates_footnotes   = <!-- for references: use <ref> tags -->
 <!-- location ---->
-| subdivision_type        = [[فهرست کشورهای جهان|کشور]]
+| subdivision_type        = [[د هیوادونو نوملړ|هیواد]]
 | subdivision_name        = {{RUS}}
-| subdivision_type1       = منطقه فدرالی
-| subdivision_name1       = [[ناحیه فدرالی سیبری|سیبری]]
+| subdivision_type1       =  فدرالی سیمه
+| subdivision_name1       = [[سیبزیا|سیبریا سیمه]]
 | subdivision_type2       = منطقه اقتصادی
-| subdivision_name2       = [[منطقه اقتصادی سیبری غربی|سیبری غربی]]
+| subdivision_name2       = [[ختیځه سیبریا]]
 <!-- established ---->
-| established_title       = تاسیس
-| established_date        = [[۱۳ اوت]] [[۱۹۴۴ (میلادی)|۱۹۴۴]]
+| established_title       = جوړښت
+| established_date        = [[۱۳ اګسټ]] [[۱۹۴۴ (میلادی)|۱۹۴۴]]
 | established_title1      = <!-- Incorporated (town) -->
 | established_date1       = 
 | established_title2      = <!-- Incorporated (city) -->
@@ -80,7 +78,7 @@
 | extinct_date            = 
 | founder                 = 
 | named_for               = 
-| seat_type               = [[فهرست شهرهای روسیه|مرکز]]
+| seat_type               = [[د روسې هیواد د ښارونو نوملړ|ښار]]
 | seat                    = [[تومسک]]
 | parts_type              = <!-- defaults to: Boroughs -->
 | parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
@@ -90,7 +88,7 @@
 | government_type         = 
 | governing_body          =
 | leader_party            = 
-| leader_title            = فرماندار
+| leader_title            = والی
 | leader_name             = [[ویکتور کرس]]
 <!-- display settings  ---->
 | total_type              = 
@@ -156,7 +154,7 @@
 | timezone2_DST           = 
 | utc_offset2_DST         = 
 <!-- postal codes, area code --->
-| postal_code_type        = [[کد پستی]]
+| postal_code_type        = [[پستي کوډ]]
 | postal_code             = 
 | postal2_code_type       = 
 | postal2_code            = 
@@ -171,8 +169,8 @@
 | twin2                   = 
 | twin2_country           = <!-- etc., up to twin9 / twin9_country -->
 <!-- blank fields (section 1) -->
-| blank_name_sec1         = زبان های رسمی
-| blank_info_sec1         = [[زبان روسی|روسی]]
+| blank_name_sec1         =ژبې
+| blank_info_sec1         = [[روسي]]
 | blank1_name_sec1        = 
 | blank1_info_sec1        = 
 | blank2_name_sec1        = 
@@ -188,5 +186,6 @@
 | website                 = {{URL|http://www.tomsk.gov.ru/}} 
 | footnotes               = 
 }}
+
 ==تاریخ==
 ==جغرافیه==
