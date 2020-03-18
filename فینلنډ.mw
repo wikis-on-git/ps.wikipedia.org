@@ -1,13 +1,13 @@
 '''فینلانډ''' (فینلنډ|فنلند) په [[فنلنډي ژبه| فنلنډي]] Suomen tasavalta) چې په رسمي توګه '''د فینلانډ ولسمشريزه''' ده د [[اروپا]] په شمال کې پروت یو هېواد دی. فنلنډ یو [[اسکندونیایي ټاپو وزمه]] هیواد دی چې د [[اروپا]] په شمال کې موقیعت لرې. یاد هیواد ۰۰۰'۴۰۰'۵ میلیونه وګړي او ۱۴۵'۳۳۸ کیلومتره مربع مساحت لرې. ددی هیواد رسمي ژبي [[فنلنډي ژبه|فینلنډي]] او [[سویډني ژبه |سویډني]] دي چې ۳۳'۸۹ سلنه وګړي یې فینلنډی ژبی جوړوی او پلازمینه یې د [[هلسینکی]] ښار دی.
 {{Infobox country
-| native_name              = ''{{lang|fi|Suomen tasavalta}}'' {{fi icon}}<br/>''{{lang|sv|Republiken Finland}}'' {{sv icon}}
-| conventional_long_name   = فنلنډ
+| native_name              = Suomen tasavalta  Republiken Finland}
+| conventional_long_name   = د فینلنډ هیواد ولسمشریزه
 | common_name              = 
 | image_flag               = Flag_of_Finland.svg
 | image_coat               = Coat of arms of Finland.svg
 | image_map                = EU-Finland.svg
 | map_caption              = {{map caption|location_color=dark green|region=[[اروپا]]    |region_color=dark grey|subregion=the [[اروپا]]|subregion_color=green|legend=EU-Finland.svg}}
-| national_anthem          = {{lang|fi|''[[Maamme]]''}}{{spaces|2}}<small>([[فنلنډي ژبه]])</small><br/>{{lang|sv|''[[Maamme#Vårt land|Vårt land]]''}}{{spaces|2}}<small>([[سویډني ژبه]])''<br/>"Our Land"</small>
+| national_anthem          = {{spaces|2}}<small>([[فنلنډي ژبه]])</small><br/>{{lang|sv|''[[# land|Vårt land]]''}}{{spaces|2}}<small>([[سویډني ژبه]])''<br/>"Our Land"</small>
 | official_languages       = فنلډي-سویډني
 | regional_languages       = سامي
 | demonym                  = فنلنډي
@@ -83,6 +83,7 @@
 | calling_code       = [[Telephone numbers in Finland|358]]
 | footnote1          =
 }}
+
 ==جغرافیه==
 [[دوتنه:Fintopo en.jpg|thumb|left|170px|نقشه]]
 
