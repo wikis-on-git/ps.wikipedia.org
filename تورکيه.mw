@@ -28,17 +28,17 @@
 |established_event1 = د ولسي جرګې حکومت
 |established_date۱ = ۲۳ اپريل ۱۹۲۰
 |established_event2 = {{nowrap|لوسېني کې معاهده}}
-|established_date2 = 24 جولای ۱۹۲۳
+|established_date2 = ۲۴ جولای ۱۹۲۳
 |established_event3 = {{nowrap|اعلانېدو نېټه}}
-|established_date3 =  29 اکتوبر۱۹۲۳
+|established_date3 =  ۲۹ اکتوبر۱۹۲۳
 |established_event4 = {{nowrap|[[د تورکي بنسټيزه کړنلاره|اوسنې بنسټيزه کړنلاره]]}}
 |established_date4 =  7 نومبر۱۹۸۲
-|area_km2 = 783562 <!--http://unstats.un.org/unsd/demographic/products/dyb/DYB2003/Table03.pdf UN statistics, page 7 (PDF format) -->
+|area_km2 = ۷۸۳۵۶۲ <!--http://unstats.un.org/unsd/demographic/products/dyb/DYB2003/Table03.pdf UN statistics, page ۷ (PDF format) -->
 |area_sq_mi = 302535 <!--Do not remove per [[WP:MOSNUM]]-->
 |area_rank = ۳۷م
 |area_magnitude = ۱ E۱۱
 |percent_water = ۱.۳
-|population_census = ۷۷,۶۹۵,۹۰۴ <ref name="Population of Turkey">{{cite web|url=http://www.tuik.gov.tr/HbGetirHTML.do?id=18616|title=The Results of Address Based Population Registration System, 2014|publisher=[[Turkish Statistical Institute]]|date=۲۹ جنورې ۲۰۱۵|accessdate=۲۹ جنورې ۲۰۱۵}}</ref> ([[List of countries by population|۱۸th]])
+|population_census = ۷۷,۶۹۵,۹۰۴ <ref name="Population of Turkey">{{cite web|url=http://www.tuik.gov.tr/HbGetirHTML.do?id=18616|title=The Results of Address Based Population Registration System, ۲۰۱۴|publisher=[[Turkish Statistical Institute]]|date=۲۹ جنورې ۲۰۱۵|accessdate=۲۹ جنورې ۲۰۱۵}}</ref> ([[List of countries by population|۱۸th]])
 |population_census_year = ۲۰۴
 |population_estimate_rank = ۱۸م
 |population_density_km2 = ۱۰۱ <ref name="Population of Turkey"/>
@@ -46,33 +46,33 @@
 |population_density_rank = ۱۰۷م
 |GDP_PPP_year = ۲۰۱۴
 |GDP_PPP = $۱.۵۱۲ ټريلين<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2014/02/weodata/weorept.aspx?pr.x=43&pr.y=10&sy=2014&ey=2014&scsm=1&ssd=1&sort=country&ds=.&br=1&c=186&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=|title=Turkey |publisher=International Monetary Fund |accessdate=۲ نوامبر ۲۰۱۴}}</ref>
-|GDP_PPP_rank = 17م
+|GDP_PPP_rank = ۱۷م
 |GDP_PPP_per_capita = $۱۹,۵۵۶<ref name="imf2"/>
 |GDP_PPP_per_capita_rank = ۶۱م
 |GDP_nominal = $۸۱۳.۳۱۶ بلين<ref name="imf2"/>
 |GDP_nominal_rank = ۱۸م
-|GDP_nominal_year = 2014
+|GDP_nominal_year = ۲۰۱۴
 |GDP_nominal_per_capita = $۱۰,۵۱۸<ref name="imf2"/>
 |GDP_nominal_per_capita_rank = ۶۷م
 |Gini_year = ۲۰۱۰
 |Gini_change = increase <!--increase/decrease/steady-->
 |Gini =  ۴۰.۲ <!--number only-->
 |Gini_ref =<ref name="wb-gini">{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2172rank.html |title=Gini Index |publisher=CIA |accessdate=28 May 2014}}</ref>
-|Gini_rank = 56م
+|Gini_rank = ۵۶م
 |HDI_year = ۲۰۱۳<!-- Please use the year to which the data refers, not the publication year-->
 |HDI_change = steady<!--increase/decrease/steady-->
 |HDI = ۰.۷۵۹ <!--number only-->
-|HDI_ref = <ref name=HDI>{{cite web |url=http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf |title=۲۰۱۴ Human Development Report |date=۱۴ مارچ ۲۰۱۳ |accessdate=۲۷ جون ۲۰۱۴ | pages=21–25}}</ref>
+|HDI_ref = <ref name=HDI>{{cite web |url=http://hdr.undp.org/sites/default/files/hdr۱۴-summary-en.pdf |title=۲۰۱۴ Human Development Report |date=۱۴ مارچ ۲۰۱۳ |accessdate=۲۷ جون ۲۰۱۴ | pages=21–25}}</ref>
 |HDI_rank = 69م
 |currency = [[تورکي ليره]] ([[دوتنه:Turkish lira symbol black.svg|10px|link=Turkish lira sign]])
 |currency_code = TRY
 |time_zone = [[د ختیځې اروپا وخت|EET]]
-|utc_offset = +2
-|time_zone_DST = [[د ختیځې اروپا ساعت|EEST]]
+| utc_offset = +۲
+|time_zone_DST = [[د ختیځې اروپا ساعت]]
 |utc_offset_DST = +۳
 |date_format = dd/mm/yyyy ([[Anno Domini|AD]])
 |drives_on = ښې لاس
-|calling_code = [[د ترکې تلفني شپول|+90]]
+|calling_code = [[د ترکې تلفني شپول|+۹۰]]
 |cctld = [[.tr]]
 |website = [www.turkiye.gov.tr]
 }}
