@@ -1,1 +1,15 @@
 '''آدوبی پریمیر پرو''' په [[انګلیسي]] په ۲۰۰۳م کال کې د [[دوبی شرکت]] له خوا وړاندی شوی [[کاریال]] دی چې د ویدیو غږ تصویر او د فلم سره لاندی خط (لیکل) لپاره کاریوي.
+{{Infobox settlement
+| name                   = ادوبی پریمیر پرو{{سرخط}}<small>Adobe Premiere Pro</small>
+| logo                   = [[دوتنه:Adobe Premiere Pro Logo.svg|150px]]
+| screenshot             = [[دوتنه:Adobe_Premiere_Pro_CC_Screenshot.png|300px]]
+| caption                = <!-- Adobe Premiere Pro CC running on [[OS X El Capitan]] -->
+| developer              = [[ادوبی]]
+| released               = {{د پیل تاریخ|۲۰۰۳}}
+| latest release version = (CC 2019 (13.1
+| latest release date    = {{د پیل تاریخ|۲۰۱۹|۰۴}}<ref>{{cite web|url=https://helpx.adobe.com/premiere-pro/kb/list-of-bug-fixes-in-the-premiere-pro-cc-2017-1--april-2017--rel.html|title=List of bug fixes in the Premiere Pro CC 2017.1.2 (April 2017) Release|publisher=}}</ref>
+| programming language   = <!-- With citation, please -->
+| operating system       = [[وینډوز ۷]] SP1 او لوړ؛ [[مک‌اواس|مک‌اواس X]] او لوړ<ref name=tech-spec>{{cite web|title=System requirements|url=https://helpx.adobe.com/premiere-pro/system-requirements.html|work=Adobe Premiere Pro system requirements|publisher=[[ادوبی]]|accessdate=March 25, 2018}}</ref>
+| genre                  = [[Video editing software|د ویډیو سمونګر/فیلم]]
+| license                = [[لنډ مهاله کاریال]]
+}}
