@@ -27,7 +27,7 @@
 | د وگړو گڼه گونې اټکل = {{formatnum:{{#expr: 22101244 + (86400 / 71) * {{Age in days|2010|1|3}} round 0}}}}<!--AUTOUPDATES DAILY at 00:00 UTC, Australia pop clock adds 1 person every 71 seconds --><ref>{{cite web|url=http://www.abs.gov.au/ausstats/abs@.nsf/94713ad445ff1425ca25682000192af2/1647509ef7e25faaca2568a900154b63?OpenDocument|title=Population clock|publisher=[[Australian Bureau of Statistics]]|accessdate=3 January 2010}} The population estimate shown is automatically calculated daily at 00:00 UTC and is based on data obtained from the population clock on the date shown in the citation.</ref>
 | population_estimate_year = {{CURRENTYEAR}}
 | د وېش له مخې د وگړو گڼه گونه = 51st
-| population_census = ۱۹,۸۵۵,۲۸۸<ref>{{Census 2006 AUS|id=0|name=Australia|accessdate=2008-10-14|quick=on}}</ref>
+| population_سرشمیرنه = ۱۹,۸۵۵,۲۸۸<ref>{{Census 2006 AUS|id=0|name=Australia|accessdate=2008-10-14|quick=on}}</ref>
 | population_census_year = ۲۰۰۶
 | د وگړو گڼه گونه په هر متر² کې = ۲.۸۳۳
 | population_density_rank = 232nd
@@ -43,11 +43,11 @@
 | established_date4 = ۳ مارچ ۱۹۸۶ 
 | پېسه = [[آسټراليايي ډالر]]
 | د پېسو نښه = AUD
-| د وخت سيمه = [[Time in Australia|various]]{{ref|time|N3}}
+| د وخت سيمه = [[د اسټرالیا وخت]]{{ref|time|N3}}
 | utc_offset = +۸ to +۱۰.۵
-| time_zone_DST = [[Time in Australia|various]]{{ref|time|N3}}
+| time_zone_DST = [[د اسټرالیا وخت]]{{ref|time|N3}}
 | utc_offset_DST = +۸ to +۱۱.۵
-| وگړنوم = ,<br /> [[اوسسي]]<ref>{{cite web|url=http://geography.about.com/library/weekly/aa030900a.htm|title=Demonyms – Names of Nationalities|publisher=[[about.com]]|accessdate=2008-07-23}}</ref><ref>{{cite web|url=http://www.geography-site.co.uk/pages/countries/demonyms.html|title=Demonyms, or what do you call a person from ...|publisher=The Geography Site|accessdate=2008-07-25}}</ref> (colloquial)
+| وگړنوم = ,<br /> [[اوسسي]]<ref>{{cite web|url=http://geography.about.com/library/weekly/aa030900a.htm|title=Demonyms – Names of Nationalities|publisher=[[about.com]]|accessdate=2008-07-23}}</ref><ref>{{cite web|url=http://www.geography-site.co.uk/pages/countries/demonyms.html|title=Demonyms, or what do you call a person from ...|publisher=The Geography Site|accessdate=2008-07-25}}</ref>
 | drives_on = چپ لاس
 | cctld = [[.au]]
 | calling_code = [[+۶۱]]
