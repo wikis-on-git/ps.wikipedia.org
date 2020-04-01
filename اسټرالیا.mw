@@ -1,4 +1,4 @@
-<br />{{هېواد-مالوماتبکس
+{{هېواد-مالوماتبکس
 | ولسي نوم = آسټراليا
 | اوږد دوديز نوم = د اسټرالیا همګټې سیمې  
 | ټولگړی نوم = 
@@ -20,9 +20,9 @@
 | leader_name1 = [[دوهمه ملکه الیزابت]]
 | leader_name2 = [[پتر کوسګرو]]
 | leader_name3 = [[مالکولم تورنبول]] 
-| area_rank = 6th
+| area_rank = ۶th
 | area_magnitude = 1 E12
-| area_km2 = 7617930
+| area_km۲ = ۷۶۱۷۹۳۰
 | د اوبو سلنه = 
 | د وگړو گڼه گونې اټکل = {{formatnum:{{#expr: 22101244 + (86400 / 71) * {{Age in days|2010|1|3}} round 0}}}}<!--AUTOUPDATES DAILY at 00:00 UTC, Australia pop clock adds 1 person every 71 seconds --><ref>{{cite web|url=http://www.abs.gov.au/ausstats/abs@.nsf/94713ad445ff1425ca25682000192af2/1647509ef7e25faaca2568a900154b63?OpenDocument|title=Population clock|publisher=[[Australian Bureau of Statistics]]|accessdate=3 January 2010}} The population estimate shown is automatically calculated daily at 00:00 UTC and is based on data obtained from the population clock on the date shown in the citation.</ref>
 | population_estimate_year = {{CURRENTYEAR}}
@@ -47,8 +47,8 @@
 | utc_offset = +۸ to +۱۰.۵
 | time_zone_DST = [[Time in Australia|various]]{{ref|time|N3}}
 | utc_offset_DST = +۸ to +۱۱.۵
-| وگړنوم = Australian,<br /> [[اوسسي]]<ref>{{cite web|url=http://geography.about.com/library/weekly/aa030900a.htm|title=Demonyms – Names of Nationalities|publisher=[[about.com]]|accessdate=2008-07-23}}</ref><ref>{{cite web|url=http://www.geography-site.co.uk/pages/countries/demonyms.html|title=Demonyms, or what do you call a person from ...|publisher=The Geography Site|accessdate=2008-07-25}}</ref> (colloquial)
-| drives_on = left
+| وگړنوم = ,<br /> [[اوسسي]]<ref>{{cite web|url=http://geography.about.com/library/weekly/aa030900a.htm|title=Demonyms – Names of Nationalities|publisher=[[about.com]]|accessdate=2008-07-23}}</ref><ref>{{cite web|url=http://www.geography-site.co.uk/pages/countries/demonyms.html|title=Demonyms, or what do you call a person from ...|publisher=The Geography Site|accessdate=2008-07-25}}</ref> (colloquial)
+| drives_on = چپ لاس
 | cctld = [[.au]]
 | calling_code = [[+۶۱]]
 | ISO_3166-1_alpha2 = AU
@@ -57,17 +57,17 @@
 | sport_code = AUS
 | vehicle_code = AUS
 | GDP_PPP_year = ۲۰۰۸
-| GDP_PPP = $۷۹۹.۰۵۴ میلیارده<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2009/02/weodata/weorept.aspx?sy=2006&ey=2009&scsm=1&ssd=1&sort=country&ds=.&br=1&c=193&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=۵۳&pr.y=11 |title=Australia|publisher=International Monetary Fund|accessdate=۲۰۰۹-۱۰-۰۱}}</ref>
-| GDP_PPP_rank = 18th
+| GDP_PPP = $۷۹۹.۰۵۴ میلیارده<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2009/02/weodata/weorept.aspx?sy=2006&ey=2009&scsm=1&ssd=1&sort=country&ds=.&br=1&c=193&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=۵۳&pr.y=۱۱ |title=Australia|publisher=International Monetary Fund|accessdate=۲۰۰۹-۱۰-۰۱}}</ref>
+| GDP_PPP_rank = ۱۸th
 | GDP_PPP_per_capita = $۳۶,۹۱۸<ref name=imf2/>
 | GDP_PPP_per_capita_rank = ۱۵th
 | GDP_nominal = ۱.۰۱۳ تریلیونه<ref name=imf2/>
 | GDP_nominal_rank = ۱۴th
-| GDP_nominal_year = ۲۰۰۸
+| GDP__year = ۲۰۰۸
 | GDP_nominal_per_capita = $۴۶,۸۲۴<ref name=imf2/>
 | GDP_nominal_per_capita_rank = ۱۳th
 | HDI_year = ۲۰۰۷
-| HDI = {{increase}} ۰.۹۷۰<ref>[http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf Human Development Report 2009]. The United Nations. Retrieved ۵ October ۲۰۰۹.</ref>
+| HDI = {{increase}} ۰.۹۷۰<ref>[http://hdr.undp.org/en/media/HDR_۲۰۰۹_EN_Complete.pdf Human Development Report 2009]. The United Nations. Retrieved ۵ October ۲۰۰۹.</ref>
 | HDI_rank = ۲nd
 | HDI_category = <span style="color:#090;">very&nbsp;high</span>
 }}
