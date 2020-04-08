@@ -1,10 +1,10 @@
-'''آندامان او نیکوبار''' [[د هند سمندر|هند په سمندر]] کې د [[هند]] اړوند ټاپوګان دي.
+'''آندامان او نیکوبار''' په [[بنګالي ژبه]] আন্দামান ও নিকোবর দ্বীপপুঞ্জ) [[د هند سمندر|هند په سمندر]] کې د [[هند]] اړوند ټاپوګان دي.
 {{Infobox settlement
 <!-- See Template:Infobox settlement for additional fields and descriptions -->
-| name                    = جزایر آندامان و نیکوبار
+| name                    =  آندامان او نیکوبار ټاپو
 | native_name             = আন্দামান ও নিকোবর দ্বীপপুঞ্জ
 | native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
-| settlement_type         = [[ایالت‌ها و قلمروهای هند|ناحیه هم‌پیوسته]]
+| settlement_type         = [[د هند آیالاتونه|آیالات]]
 | image_skyline           = Havelockradhanagar2.jpg|250px
 | image_alt               =
 | image_caption           =
@@ -18,7 +18,7 @@
 | motto                   =
 | image_map               = Andaman and Nicobar Islands in India (disputed hatched).svg
 | map_alt                 =
-| map_caption             = مکان جزایر آندامان و نیکوبار در نقشه
+| map_caption             = د آندامان او نیکوبار ټاپو موقیعت
 | pushpin_map             =
 | image_map1              = Andaman nicobar 76.jpg|250px
 | mapsize1                =
@@ -33,22 +33,22 @@
 | coordinates_type        =
 | coordinates_display     = inline,title
 | coordinates_footnotes   =
-| subdivision_type        = [[فهرست کشورهای جهان|کشور]]
+| subdivision_type        = [[د هیوادونو نوملړ|هیواد]]
 | subdivision_name        = {{IND}}
 | subdivision_type1       = مرکز
-| subdivision_name1       = [[پورت بلر]] (جزایر آندامان)
-| subdivision_type2       = بزرگترین شهر
-| subdivision_name2       = [[پورت بلر]] (جزایر آندامان)
+| subdivision_name1       = [[پورت بلر]] ( آندامان ټاپوګان)
+| subdivision_type2       = لوی ښار
+| subdivision_name2       = [[پورت بلر]] ( آندامان ټاپوګان)
 | subdivision_type3       =
 | subdivision_name3       =
-| established_title       = تأسیس
+| established_title       = بنسټ
 | established_date        = [[۱ نوامبر]] [[۱۹۵۶ (میلادی)|۱۹۵۶]]
 | founder                 =
 | seat_type               =
 | seat                    =
 | government_footnotes    =
 | leader_party            =
-| leader_title            = فرماندار
+| leader_title            = والی
 | leader_name             =
 | unit_pref               = Metric<!-- or US or UK -->
 | area_footnotes          =
@@ -77,5 +77,6 @@
 | website                 = {{URL|http://www.and.nic.in//}}
 | footnotes               =
 }}
+
 ==تاریخ==
 ==جغرافیه==
