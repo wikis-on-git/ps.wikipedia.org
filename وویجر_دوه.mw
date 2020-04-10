@@ -1,1 +1,50 @@
-'''وویجر ۲''' په [[انګلیسي]] د ستورو ترمنځ یوه فضایی څیړنیزه بیړۍ ده چې په ۲۰ د اګسټ ۱۹۷۷م کال د [[ناسا]] د [[وویجر پروګرام]] په چوکاټ کې د شمسی نظام نه بهر د ستورو ترمنځ د سیارو د څیړنی لپاره استول شوې. ووبجر دوه ۷۲۲کیلوګرامه وزن لري چې تر ۱۰ د افریل ۲۰۲۰م کال پوری یې ۴۲ کاله ۷ میاشتې او ۲۱ ورځې د ماموریت پوره شوې او لاهم د معلوماتو رالیګلو ته ایدامه ورکوی. په ۱۴ د سپټمبر د ۲۰۱۳م کال وویجر ۲ ۱۰۲,۷ نجومی واحدونه (۳,۱۵۰بیلیونه کیلومتره) فاصله وښلې وه.
+'''وویجر ۲''' په [[انګلیسي]] Voyager ۲ د ستورو ترمنځ یوه فضایی څیړنیزه بیړۍ ده چې په ۲۰ د اګسټ ۱۹۷۷م کال د [[ناسا]] د [[وویجر پروګرام]] په چوکاټ کې د شمسی نظام نه بهر د ستورو ترمنځ د سیارو د څیړنی لپاره استول شوې. ووبجر دوه ۷۲۲کیلوګرامه وزن لري چې تر ۱۰ د افریل ۲۰۲۰م کال پوری یې ۴۲ کاله ۷ میاشتې او ۲۱ ورځې د ماموریت پوره شوې او لاهم د معلوماتو رالیګلو ته ایدامه ورکوی. په ۱۴ د سپټمبر د ۲۰۱۳م کال وویجر ۲ ۱۰۲,۷ نجومی واحدونه (۳,۱۵۰بیلیونه کیلومتره) فاصله وښلې وه.
+
+{{Infobox spaceflight
+| name                  = وویجر ۲
+| image                 = Voyager spacecraft.jpg
+| image_caption         = وُویجر ۲
+| mission_type          = د ناسا د وویجر پروګرام له برخې یوه فضایی څیړنیزه بیړۍ
+| operator              = [[ناسا]] / [[ پیش‌رانش جت آزمایښت|JPL]]<ref name="PDS">{{cite web|url=http://starbrite.jpl.nasa.gov/pds/viewMissionProfile.jsp?MISSION_NAME=VOYAGER|title=VOYAGER:Mission Information|date=1989|publisher=NASA|accessdate=January 2, 2011|archiveurl=https://web.archive.org/web/20110721052910/http://starbrite.jpl.nasa.gov/pds/viewMissionProfile.jsp?MISSION_NAME=VOYAGER|archivedate=۲۱ جنورې ۲۰۱۱|dead-url=yes}}</ref>
+| website               = {{url|http://voyager.jpl.nasa.gov/}}
+| COSPAR_ID             = 1977-076A<ref>{{cite web|url=http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1977-076A|title=Voyager 2|publisher=US National Space Science Data Center|accessdate=25 August 2013}}</ref>
+| SATCAT                = 10271<ref>{{cite web|url=http://www.n2yo.com/satellite/?s=10271|title=VOYAGER 2|publisher=N2YO|accessdate=25 August 2013}}</ref>
+| mission_duration      = {{Age in years, months and days| year=1977| month=08| day=20}} elapsed{{سخ}}<small>Planetary mission: 12 years, 1 month, 12 days{{سخ}}Interstellar mission: {{Age in years, months and days|year=1989|month=10|day=2}} elapsed (continuing)</small>
+| spacecraft_type       =
+| manufacturer          = [[د پیش‌رانش جت آزمایښت]]
+| dry_mass              =
+| launch_mass           = {{convert|721.9|kg|lb}}
+| power                 = 420 watts
+| launch_date           = {{start-date|August 20, 1977, 14:29:00|timezone=yes}} UTC
+| launch_rocket         = تیتان IIIE
+| launch_site           = [[د کیپ کاناورال هوایی ځواکونو آډه|Cape Canaveral]] [[Cape Canaveral Air Force Station Space Launch Complex 41|LC-۴۱]]
+| launch_contractor     =
+| last_contact          = <!--{{end-date|[date]}}-->
+| decay_date            =
+|interplanetary         =
+ {{Infobox spaceflight/IP
+  |type                = flyby
+  |object              = [[کناری آلوتنه|کنار]] [[ژوپیتر]]
+  |distance            = {{convert|570000|km|mi|sp=us}}
+  |arrival_date        = July 9, 1979, 22:29:00 UTC
+}}
+ {{Infobox spaceflight/IP
+  |type                = flyby
+  |object              = د [[کیوان]] ترڅنګ
+  |distance            = {{convert|101000|km|mi|abbr=on}}
+  |arrival_date        = August 25, 1981, 03:24:05 UTC
+}}
+ {{Infobox spaceflight/IP
+  |type                = flyby
+  |object              = د [[اورانوس]] ترڅنګ 
+  |distance            = {{convert|81500|km|mi|abbr=on}}
+  |arrival_date        =۲۴ جنورې، ۱۹۸۶, 17:59:47 UTC
+}}
+ {{Infobox spaceflight/IP
+  |type                = flyby
+  |object              = د [[نپتون]] ترڅنګ
+  |distance            = {{convert|4951|km|mi|abbr=on}}
+  |arrival_date        =۲۵ اګسټ، ۱۹۸۶, 03:56:36 UTC
+}}
+}}
+==ماموریت==
