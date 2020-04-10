@@ -1,1 +1,52 @@
-'''وویجر ۱''' په [[انګلیسي]] یوه فضایي بیړې څیړنیزه بیړۍ ده چې د [[وویجر دوه]] نه ۱۶ ورځې وروسته په ۵ سپټمبر ۱۹۷۷م کال د [[ناسا]] له خوا [[فضا]] ته د څیړنو لپاره و استول شوه. وویجر یو اوس هم (۲۰۲۰م کال) [[د ناسا لرې څیړنیزه شبکه]] سره اړیکه لری, یاده څیړنیزه بیړۍ د بشر په تاریخ کې ترټولو ډیر واټن وښونکی (له ځمکې لری) بیړۍ ده چې په ۲۵ د سپټمبر ۲۰۱۸م کال یې د [[لمر]] سره فاصله ۱۴۲,۳۱ فضایی وحده (۲۱,۲۸۹ بیلیون) کیلومتره فصاصله لرله. وویجر یو لومړنۍ بیړۍ ده چې د ستورو منځ سیمې محل ته ځان رسوی. وویجر یو په ثانیه کې ۱۷ کیلومتره چټکتیا لري.
+'''وویجر ۱''' په [[انګلیسي]] Voyager ۱ یوه فضایي بیړې څیړنیزه بیړۍ ده چې د [[وویجر دوه]] نه ۱۶ ورځې وروسته په ۵ سپټمبر ۱۹۷۷م کال د [[ناسا]] له خوا [[فضا]] ته د څیړنو لپاره و استول شوه. وویجر یو اوس هم (۲۰۲۰م کال) [[د ناسا لرې څیړنیزه شبکه]] سره اړیکه لری, یاده څیړنیزه بیړۍ د بشر په تاریخ کې ترټولو ډیر واټن وښونکی (له ځمکې لری) بیړۍ ده چې په ۲۵ د سپټمبر ۲۰۱۸م کال یې د [[لمر]] سره فاصله ۱۴۲,۳۱ فضایی وحده (۲۱,۲۸۹ بیلیون) کیلومتره فصاصله لرله. وویجر یو لومړنۍ بیړۍ ده چې د ستورو منځ سیمې محل ته ځان رسوی. وویجر یو په ثانیه کې ۱۷ کیلومتره چټکتیا لري.
+{{Infobox spaceflight
+| name = ''وویجر ۱''
+| image = Voyager spacecraft model.png
+| image_caption = Model of the ''Voyager'' spacecraft design
+| image_alt = Model of a small-bodied spacecraft with a large, central dish and many arms and antennas extending from it
+| mission_type = Outer planetary, heliosphere, and interstellar medium exploration
+| operator = [[NASA]] / [[ پیش‌رانش جت ازمایښت خونه|JPL]]
+| website = {{url|voyager.jpl.nasa.gov/}}
+| COSPAR_ID = 1977-084A<ref name="nasa.084A">{{cite web |url=http://nssdc.gsfc.nasa.gov/nmc/spacecraftOrbit.do?id=1977-084A |title=Voyager 1 |publisher=NASA/NSSDC |work=NSSDC Master Catalog |accessdate=August 21, 2013}}</ref>
+| SATCAT = 10321<ref name="n2yo.10321">{{cite web |url=http://www.n2yo.com/satellite/?s=10321 |title=Voyager 1 |publisher=N2YO |accessdate=August 21, 2013}}</ref>
+| mission_duration = {{plainlist|
+* {{Age in years, months and days| year=1977| month=09| day=05}} elapsed
+* <small>Planetary mission: 3 years, 3 months, 9 days
+* Interstellar mission: {{Age in years, months and days|year=1980|month=12|day=14}} elapsed (continuing)</small>}}
+| spacecraft_type =
+| manufacturer = [[پیشرانه جت ازمایښت خونه]]
+| dry_mass =
+| launch_mass = {{convert|825.5|kg|abbr=on}}
+| power = ۴۲۰ W
+| launch_date = {{start-date|September 5, 1977, 12:56:00|timezone=yes}} UTC
+| launch_rocket = [[Titan IIIE]]
+| launch_site = [[Cape Canaveral Air Force Station|Cape Canaveral]] [[Cape Canaveral Air Force Station Space Launch Complex 41|LC-41]]
+| launch_contractor =
+| last_contact = <!-- {{end-date|[date]}} -->
+| decay_date =
+| interplanetary =
+{{Infobox spaceflight/IP
+| type = flyby
+| object = [[Jupiter]]
+| distance = {{convert|349000|km|mi|abbr=on}}
+| arrival_date = ۵ مارچ ۱۹۷۹
+}}
+{{Infobox spaceflight/IP
+| type = flyby
+| object = [[Saturn]]
+| distance = {{convert|124000|km|mi|abbr=on}}
+| arrival_date = ۱۲ نوامبر ۱۹۸۰
+}}
+{{Infobox spaceflight/IP
+| type = flyby
+| object = [[Titan (moon)|Titan]]
+|note = atmosphere study
+| distance = {{convert|6490|km|mi|abbr=on}}
+| arrival_date = ۱۲ نوامبر ۱۹۸۰
+}}
+
+| programme = [[Flagship Program|Flagship]]
+| previous_mission = ''[[Voyager 2]]''
+| next_mission = ''[[Galileo (spacecraft)|Galileo]]''
+}}
+==دنده==
