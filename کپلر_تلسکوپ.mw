@@ -1,1 +1,62 @@
 '''کپلر هوایی بیړۍ''' Kepler) د [[ناسا]] له خوا جوړه شوې بیړۍ ده چې زموند د [[لمريز غونډال|شمسي نظام]] د لمر څیرمه سیارو څیړنه وکړئ. د کپلر بیړۍ [[فضا]] ته توغول د څیړنو اصلی هدف په شمسی نظام کې ځمکې ته ورته سیارو موندل او څیړل دی چې د ژوند شرایط ولري.
+
+{{Infobox spaceflight
+| name                  = کپلر تلسکوپ
+| image                 = Kepler Space Telescope spacecraft model 2.png
+| image_caption         = Artist's impression of the Kepler telescope
+| image_alt             = Kepler in orbit
+| image_size            = 300px
+| mission_type          = [[Space telescope]]
+| operator              = [[ناسا]]{{\}}[[Laboratory for Atmospheric and Space Physics|LASP]]
+| COSPAR_ID             = 2009-011A
+| SATCAT                = 34380
+| website               = {{url|http://kepler.nasa.gov/}}
+| mission_duration      = Planned: 3.5 years <br/> Final: 9 years, 7 months, 23 days
+
+| manufacturer          = [[Ball Aerospace & Technologies]]
+| launch_mass           = {{convert|1052.4|kg|lb|abbr=on}}<ref name="PressKit200902">{{cite web |url=http://www.nasa.gov/pdf/314125main_Kepler_presskit_2-19_smfile.pdf |title=''Kepler'': NASA's First Mission Capable of Finding Earth-Size Planets |publisher=NASA |date=February 2009 |accessdate=March 13, 2015}}</ref>
+| dry_mass              = {{convert|1040.7|kg|lb|abbr=on}}<ref name="PressKit200902"/>
+| payload_mass          = {{convert|478|kg|lb|abbr=on}}<ref name="PressKit200902"/>
+| dimensions            = {{convert|4.7|x|2.7|m|ft|abbr=on}}<ref name="PressKit200902"/>
+| power                 = 1100&nbsp;watts<ref name="PressKit200902"/>
+
+| launch_date           = {{start-date|March 7, 2009, 03:49:57}}&nbsp;UTC<ref name=kasc/>
+| launch_rocket         = [[Delta II]] (7925-10L)
+| launch_site           = [[Cape Canaveral Air Force Station|Cape Canaveral]] [[Cape Canaveral Air Force Station Space Launch Complex 17|SLC-17B]]
+| launch_contractor     = [[United Launch Alliance]]
+| entered_service       = May 12, 2009, 09:01&nbsp;UTC
+
+| disposal_type         = <!--Whether the spacecraft was deorbited, decommissioned, placed in a graveyard orbit, etc-->
+| deactivated           = {{Start date|2018|11|15}}
+| destroyed             = <!--when craft was destroyed (if other than by re-entry)-->
+| last_contact          = <!--when last signal received if not decommissioned-->
+
+| orbit_reference       = [[Heliocentric orbit|Heliocentric]]
+| orbit_regime          = [[Earth]]-trailing
+| orbit_semimajor       = 1.0133 [[Astronomical unit|AU]]
+| orbit_eccentricity    = 0.036116
+| orbit_periapsis       = 0.97671 AU
+| orbit_apoapsis        = 1.0499 AU
+| orbit_inclination     = 0.4474 degrees
+| orbit_period          = 372.57 days
+| orbit_arg_periapsis   = 294.04 degrees
+| orbit_mean_anomaly    = 311.67 degrees
+| orbit_mean_motion     = 0.96626 deg/day
+| orbit_epoch           = {{nowrap|January 1, 2018 ([[J2000]]: 2458119.5)<ref name="horizons">{{cite web |url=http://ssd.jpl.nasa.gov/horizons.cgi?find_body=1&body_group=mb&sstr=-227 |title=Kepler (spacecraft) |work=[[JPL Horizons On-Line Ephemeris System]] |publisher=NASA/JPL |date=January 6, 2018 |accessdate=January 6, 2018}}</ref>}}
+| apsis                 = helion
+
+| instrument_type       = [[telescope]]
+| telescope_type        = [[Schmidt camera|Schmidt]]
+| telescope_diameter    = {{convert|0.95|m|ft|abbr=on}}
+| telescope_area        = {{convert|0.708|m2|sqft|abbr=on}}{{efn-ua|Aperture of 0.95 m yields a light-gathering area of Pi×(0.95/2)<sup>2</sup> {{=}} 0.708 m<sup>2</sup>; the 42 CCDs each sized 0.050&nbsp;m&nbsp;× 0.025m yields a total sensor area of 0.0525&nbsp;m<sup>2</sup>:<ref name="various-64714">{{cite web |url=http://www.nasa.gov/mission_pages/kepler/spacecraft/index.html |title=Kepler Spacecraft and Instrument |publisher=NASA |date=June 26, 2013 |accessdate=January 18, 2014 |archiveurl=https://web.archive.org/web/20140119031411/http://www.nasa.gov/mission_pages/kepler/spacecraft/index.html |archivedate=January 19, 2014 |url-status=live }}</ref>}}
+| telescope_wavelength  = 430–890 nm<ref name="horizons"/>
+
+| trans_bandwidth       = [[X band]] up: 7.8 bit/s – 2 bit/s<ref name="horizons"/> <br /> X band down: 10 bit/s – 16 kbit/s<ref name="horizons"/> <br /> [[Ka band|K<sub>a</sub> band]] down: Up to 4.3 Mbit/s<ref name="horizons"/>
+
+| insignia              = Kepler Logo.png
+
+| programme             = '''[[Discovery program]]'''
+| previous_mission      = ''[[Dawn (spacecraft)|Dawn]]''
+| next_mission          = ''[[Gravity Recovery and Interior Laboratory|GRAIL]]''
+}}
+==لاسته راوړنې==
