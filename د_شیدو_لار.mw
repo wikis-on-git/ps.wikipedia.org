@@ -11,15 +11,15 @@ telescope)|style=padding: 4px 0;}}
 | headerstyle=background:
 | belowstyle=background: #30D5C8;
 | labelstyle=background: inherit;
-| header1=Observation data
+| header1= د لاسرسی معلومات
 | label2=[[Galaxy morphological classification|Type]]
 | data2=Sb, Sbc, or SB(rs)bc<ref name=ssr100_1_129/><ref>{{cite web|first1=Hartmut |last1=Frommert |first2=Christine |last2=Kronberg |date=August 26, 2005 |url=http://messier.seds.org/more/mw_type.html |title=Classification of the Milky Way Galaxy |accessdate=May 30, 2015 |work=SEDS |url-status=live |archiveurl=https://web.archive.org/web/20150531031937/http://messier.seds.org/more/mw_type.html |archivedate=May 31, 2015 }}</ref> ([[barred spiral galaxy]])
 | label3=[[Diameter]]
 | data3={{Convert|1.5–2.3|Mly|kpc|abbr=on|lk=on}}<ref name=croswell2020>{{cite web |first1=Ken |last1=Croswell |date=March 23, 2020 |url=https://www.sciencenews.org/article/astronomers-have-found-edge-milky-way-size |title=Astronomers have found the edge of the Milky Way at last |accessdate=March 27, 2020 |url-status=live |archive-url=https://web.archive.org/web/20200324214927/https://www.sciencenews.org/article/astronomers-have-found-edge-milky-way-size |archive-date=March 24, 2020 }}</ref>
 | label4=Thickness of thin stellar disk
 | data4=≈{{Convert|2|kly|kpc|abbr=on|lk=off|sigfig=1}}<ref name="ask-astro"/><ref name="Rix_Bovy" />
-| label6=Number of stars
-| data6={{nowrap|100–400 billion [(1–4)×10<sup>11</sup>]}}<ref name=odenwald/>
+| label6=د ستورو شمیر
+| data6={{nowrap|100–400 میلیارده [(1–4)×10<sup>11</sup>]}}<ref name=odenwald/>
 | label7=
 | data7=
 | label8=Mass
