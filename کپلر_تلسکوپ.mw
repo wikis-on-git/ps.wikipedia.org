@@ -11,7 +11,7 @@
 | COSPAR_ID             = 2009-011A
 | SATCAT                = 34380
 | website               = {{url|http://kepler.nasa.gov/}}
-| mission_duration      = Planned: 3.5 years <br/> Final: 9 years, 7 months, 23 days
+| mission_duration      = د وخت هدف : 3.5 کاله <br/> پای: 9 کاله, 7 ورځې, 23 ورځې
 
 | manufacturer          = [[Ball Aerospace & Technologies]]
 | launch_mass           = {{convert|1052.4|kg|lb|abbr=on}}<ref name="PressKit200902">{{cite web |url=http://www.nasa.gov/pdf/314125main_Kepler_presskit_2-19_smfile.pdf |title=''Kepler'': NASA's First Mission Capable of Finding Earth-Size Planets |publisher=NASA |date=February 2009 |accessdate=March 13, 2015}}</ref>
@@ -24,7 +24,7 @@
 | launch_rocket         = [[Delta II]] (7925-10L)
 | launch_site           = [[Cape Canaveral Air Force Station|Cape Canaveral]] [[Cape Canaveral Air Force Station Space Launch Complex 17|SLC-17B]]
 | launch_contractor     = [[United Launch Alliance]]
-| entered_service       = May 12, 2009, 09:01&nbsp;UTC
+| توغول       = مې 12, 2009, 09:01&nbsp;UTC
 
 | disposal_type         = <!--Whether the spacecraft was deorbited, decommissioned, placed in a graveyard orbit, etc-->
 | deactivated           = {{Start date|2018|11|15}}
@@ -59,4 +59,5 @@
 | previous_mission      = ''[[Dawn (spacecraft)|Dawn]]''
 | next_mission          = ''[[Gravity Recovery and Interior Laboratory|GRAIL]]''
 }}
+
 ==لاسته راوړنې==
