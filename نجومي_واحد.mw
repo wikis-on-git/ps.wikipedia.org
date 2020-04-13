@@ -1,1 +1,17 @@
 '''نجومي واحد''' کوډ ua,au او AU د اندازه کولو واحد دی. د ځمکې او لمر دوره چې کابو ۱۵۰,۰۰۰,۰۰۰ کیلومتره دی یو نجومي واحد شمیرل کیږي.
+
+{{Infobox settlement
+| bgcolour =
+| name =  نجومي واحد
+| image= File:Astronomical unit.png
+| caption=The grey line indicates the Earth–Sun distance, which on average is about 1 astronomical unit.
+| standard = [[Astronomical system of units]]<br />[[Non-SI units mentioned in the SI|(Accepted for use with the SI)]]
+| quantity = [[length]]
+| symbol = au, ua, or AU
+| units1 = [[metric system|metric]] ([[International System of Units|SI]]) units
+| inunits1 = {{val|1.495978707|e=11|ul=m}}
+| units2 = [[Imperial units|imperial]]&nbsp;&&nbsp;[[United States customary units|US]]&nbsp;units
+| inunits2 ={{val|9.2956|e=7|ul=mi}}
+| units3 = [[Astronomical system of units|astronomical units]]
+| inunits3 = {{val|4.8481|e=-6|ul=pc}}<br />&nbsp;&nbsp;&nbsp;{{val|1.5813|e=-5|ul=ly}}
+}}
