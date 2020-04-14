@@ -26,34 +26,34 @@
 }}
 | ethnic_groups_year = ۲۰۱۵<ref name="cia">{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ps.html |title=Palau |work=The World Factbook |publisher=CIA}}</ref>
 | demonym = Palauan
-| government_type = [[حاکم دولت]] [[نظام ریاستی]] [[جمهوری]] زیرنظر یک [[دموکراسی غیرحزبی]]
-| leader_title1 = [[President of Palau|رئیس‌جمهور]]
+| government_type = [[حاکم دولت]] [[ریاستي نظام]] [[ولسمشریزه]] د یوې [[بې ګوندیزه  دیمکراسی]] سره
+| leader_title1 = [[President of Palau|ولسمشر]]
 | leader_name1 = [[Tommy Remengesau]]
-| leader_title2 = [[Vice President of Palau|معاون رئیس‌جمهور]]
+| leader_title2 = [[Vice President of Palau|د ولسمشر معاون]]
 | leader_name2 = [[Raynold Oilouch]]
-| leader_title3 = رئیس سنا
+| leader_title3 =  د مشرانو جرګې مشر
 | leader_name3 = [[Hokkons Baules]]
-| leader_title4 = رئیس مجلس
+| leader_title4 = د ولسي جرګې مشر
 | leader_name4 = Sabino Anastacio
-| leader_title5 = قاضی ارشد
+| leader_title5 = لوی څارنوال
 | leader_name5 = Arthur Ngiraklsong
-| leader_title6 = رئیس شورای روسا
+| leader_title6 = د روسا شورا مشر
 | leader_name6 = Ibedul Yutaka Gibbons
 | legislature = ''[[Palau National Congress|Olbiil era Kelulau]]''
-| upper_house = [[Senate of Palau|سنا]]
-| lower_house = [[House of Delegates of Palau|مجلس نمایندگان]]
-| sovereignty_type = استقلال
-| sovereignty_note = از [[ایالات متحده آمریکا]]
-| established_event1 = [[قلمرو تراست جزایر اقیانوس آرام]]
-| established_date1 = ۱۸ ژوئیه ۱۹۴۷
-| established_event2 = قانون اساسی
-| established_date2 = ۲ آوریل ۱۹۷۹
-| established_event3 = [[پیمان اتحادیه آزاد]]
-| established_date3 = ۱ اکتبر ۱۹۹۴
+| upper_house = [[Senate of Palau|مشرانو جرګه]]
+| lower_house = [[House of Delegates of Palau|ولسي جرګه]]
+| sovereignty_type = خپلواکی
+| sovereignty_note = له {{امریکا}}
+| established_event1 = [[د آرام سمندر تراست ټاپوګانو سیمه]]
+| established_date1 = ۱۸ جنورې ۱۹۴۷
+| established_event2 =  اساسي قانون
+| established_date2 = ۲ افریل ۱۹۷۹
+| established_event3 = [[د خپلواکه ټولنې تړون]]
+| established_date3 = ۱ اکتوبر ۱۹۹۴
 | area_km2 = ۴۵۹
-| area_rank = ۱۸۰ام <!-- Should match [[فهرست کشورها و مناطق بر پایه پهناوری]] -->
-| area_sq_mi = ۱۷۷ <!--Do not remove per [[ویکی‌پدیا:شیوه‌نامه/تاریخ‌ها و اعداد]]-->
-| percent_water = جزئی
+| area_rank = ۱۸۰ام <!-- Should match [[د مساحت له اړخه د هیوادونو نوملړ]] -->
+| area_sq_mi = ۱۷۷ <!--Do not remove per -->
+| percent_water = برخه
 | population_estimate = {{UN Population|Palau}}{{UN Population|ref}}
 | population_census = ۲۰٬۹۱۸
 | population_estimate_year = {{UN Population|Year}}
@@ -62,12 +62,12 @@
 | population_density_km2 = ۴۶٫۷
 | population_density_sq_mi = ۱۲۱٫۲
 | population_density_rank =
-| GDP_PPP = $۳۰۰ میلیون<ref name=imf>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?sy=2017&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=62&pr1.y=13&c=565&s=NGDPD,NGDPDPC,PPPGDP,PPPPC&grp=0&a=|title=Palau|website=www.imf.org}}</ref>
+| GDP_PPP = $۳۰۰ میلیونه<ref name=imf>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?sy=2017&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=62&pr1.y=13&c=565&s=NGDPD,NGDPDPC,PPPGDP,PPPPC&grp=0&a=|title=Palau|website=www.imf.org}}</ref>
 | GDP_PPP_year = ۲۰۱۸
 | GDP_PPP_rank =
 | GDP_PPP_per_capita = $۱۶٬۲۹۶<ref name=imf/>
 | GDP_PPP_per_capita_rank = ۸۱ام
-| GDP_nominal = $۳۲۲ میلیون<ref name=imf/>
+| GDP_nominal = $۳۲۲ میلیونه<ref name=imf/>
 | GDP_nominal_year = ۲۰۱۸
 | GDP_nominal_rank =
 | GDP_nominal_per_capita = $۱۷٬۴۳۸<ref name=imf/>
@@ -82,20 +82,19 @@
 | HDI_change = increase<!--increase/decrease/steady-->
 | HDI_ref =<ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr2019.pdf |title=2019 Human Development Report |year=2019 |accessdate=9 December 2019 |publisher=United Nations Development Programme}}</ref>
 | HDI_rank = ۵۵ام
-| currency = [[دلار آمریکا]]
+| currency = [[د امریکا ډالر]]
 | currency_code = USD
 | time_zone =
 | utc_offset = +۹
 | utc_offset_DST = +۹
 | time_zone_DST = {{Nowrap|not observed}}
-| date_format = روز/ماه/سال
-| drives_on = راست
+| date_format = ورځ/میاشت/کال
+| drives_on = ښوی
 | calling_code = [[+۶۸۰]]
 | iso3166code = PW
 | cctld = [[.pw]]
  <!--- ORPHANED:
-|footnote_b = برآورد تولید ناخالص داخلی شامل یارانه ایالات متحده است (برآورده ۲۰۰۴).
- ----->
+|footnote_b = د ( ۲۰۰۴) کال د اټکل له مخې ناخالص تولید ----->
 | official_website = [http://palaugov.pw/ palaugov.pw]
 }}
 
