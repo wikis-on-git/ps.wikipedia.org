@@ -1,26 +1,27 @@
-'''سپوټنیک ۱''' (سپوتنیک-۱)
+'''سپوټنیک ۱''' (سپوتنیک-۱) Sputnik 1)په [[روسي]]  
+Cпутник)
 {{Infobox spaceflight
 | name                  = اسپوټنیک-۱{{سخ}}Cпутник-۱
 | image                 = Sputnik 1.jpg
 | image_caption         = د اسپوټنیک-۱ یو ډول
 | mission_type          = Technology
-| operator              = [[شرکت موشکی داس‌پی کارالیوف او انرګیه فضایي صنایو شرکت]]
+| operator              = [[د اس‌پی کارالیوف او انرګیه فضایي صنایو شرکت]]
 | نام‌گذاریِ هارواد   = آلفا-۲ ۱۹۵۷
 | SATCAT                = ۰۰۰۰۲
 | mission_duration      = ۹۲ روز<ref name=nasahistorytweet/>
 | orbits_completed     = ۱۳۵۰<ref name=nasahistorytweet>[https://twitter.com/NASAhistory/status/287200168795844609 NASA History Office]</ref>
-| manufacturer          = [[شرکت موشکی اس‌پی کارالیوف و صنایع فضایی انرگیا]]{{سخ}}وزارت صنایع رادیویی شوروی
+| manufacturer          = [[د اس‌پی کارالیوف شرت او د انرګیا هوایی صنعت]]{{سخ}}د شوروی اتحاد د راډیویی صنعت وزارت
 | launch_mass           = {{convert|83.60|kg}}
 
 | launch_date           = {{start-date|4 October 1957, 19:28:34|timezone=yes}} UTC
-| launch_rocket         = [[اسپوتنیک (موشک)|موشک اسپوتنیک 8K71PS]]
-| launch_site           = [[پایگاه فضایی بایکونور|پایگاه فضایی بایکونور ۱/۵]]
-| last_contact          = {{end-date|2۶ اکتبر ۱۹۵۷}}
-| decay_date            = ۴ ژانویه ۱۹۵۸
+| launch_rocket         = [[سپوټنیک (راکټ)| سپوټنیک راکټ 8K71PS]]
+| launch_site           = [[د بایکونور هیوایی اډه]]
+| last_contact          = {{end-date|2۶ اکتوبر ۱۹۵۷}}
+| decay_date            = ۴ جنور ۱۹۵۸
 
 | orbit_epoch           = ۱۹۵۷{{clarify|date=October 2013}}
-| orbit_reference       = [[مدار زمین‌مرکزی|زمین‌مرکزی]]
-| orbit_regime          = [[مدار نزدیک زمین|مدار نزدیک زمین]]
+| orbit_reference       = [[د ځمکې ‌مرکزی مدار]]
+| orbit_regime          = [[ځمکې ته نږدی مدار]]
 | orbit_periapsis       = {{convert|215.0|km|mi}}
 | orbit_apoapsis        = {{convert|939.0|km|mi}}
 | orbit_inclination     = ۶۵٫۱۰ degrees
