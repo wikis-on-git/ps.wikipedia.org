@@ -42,15 +42,15 @@
 <!-- Location ------------------>
 |coordinates_region=FR-WF
 |subdivision_type=هیواد
-|subdivision_name={{fr}}
+|subdivision_name= [[فرانسه]]
 |subdivision_type1=[[French_overseas_departments_and_territories#Overseas_collectivities|Collectivity]]
-|subdivision_name1={{flag|Wallis and Futuna|local}}
+|subdivision_name1= [[والیس او فوتونا]]
 |subdivision_type2=ټاپو
 |subdivision_name2=[[والیس ټاپو]]
 |subdivision_type3=Chiefdom
 |subdivision_name3=[[یووآ (والیس او فوتونا)]]
 |subdivision_type4=سیمه
-|subdivision_name4=[[Hahake District|Hahake]]
+|subdivision_name4=[[هاهاکی]]
 <!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
 |seat_type=[[پلازمینه]]
 |seat=[[والیس او فوتونا]]
@@ -90,7 +90,7 @@ Default is list if up to 5 items, coll if more than 5-->
 |elevation_min_ft=
 <!-- Population ----------------------->
 |population_as_of=2003
-|population_footnotes=<ref name=2003census>{{Cite web|url=http://www.geohive.com/cd/link.php?xml=wf&xsl=neo1|title=Census|publisher=Geohive.com|accessdate=۱۶ دسامبر ۲۰۱۴|archiveurl=https://web.archive.org/web/20051025211711/http://www.geohive.com/cd/link.php?xml=wf&xsl=neo1|archivedate=۲۵ اکتوبر ۲۰۰۵|dead-url=yes}}</ref><!-- له انګلیسي ویکیپېډیا څخه -->
+|population_footnotes=<ref name=2003census>{{Cite web|url=http://www.geohive.com/cd/link.php?xml=wf&xsl=neo1|title=Census|publisher=Geohive.com|accessdate=۱۶ ډسمبر ۲۰۱۴|archiveurl=https://web.archive.org/web/20051025211711/http://www.geohive.com/cd/link.php?xml=wf&xsl=neo1|archivedate=۲۵ اکتوبر ۲۰۰۵|dead-url=yes}}</ref><!-- له انګلیسي ویکیپېډیا څخه -->
 |population_note=
 |population_total=1191
 |population_density_km2=<!--For automatic calculation, any density field may contain: auto -->
