@@ -1,4 +1,4 @@
-'''ماتا-اوتو''' په [[انګلیسي]]
+'''ماتا-اوتو''' په [[انګلیسي]] Mata-Utu)
 د [[فرانسه|فرانسې]] هیواد اړوند [[والیس او فوتونا]] سیمې مرکز دی.
 {{Infobox settlement
 <!--See Template:Infobox Settlement for additional fields that may be available-->
@@ -6,7 +6,7 @@
 <!-- Basic info ---------------->
 |name=Mata-Utu <!-- at least one of the first two fields must be filled in -->
 |official_name=
-|other_name=Matā{{okina}}utu
+|other_name=ماتا{{okina}}وتو
 |native_name=<!-- if different from the English name -->
 |nickname=
 |settlement_type=<!-- e.g. Town, Village, City, etc.-->
@@ -15,7 +15,7 @@
 <!-- images and maps ----------->
 |image_skyline=Mata'utu Cathedral.jpg
 |imagesize=
-|image_caption=Mata-utu in 1862
+|image_caption=ماتا-وتو په ۱۸۶۲م کال کې
 |image_flag=
 |flag_size=
 |image_seal=
@@ -41,8 +41,8 @@
 |pushpin_mapsize=
 <!-- Location ------------------>
 |coordinates_region=FR-WF
-|subdivision_type=کشور
-|subdivision_name={{flag|France}}
+|subdivision_type=هیواد
+|subdivision_name={{fr}}
 |subdivision_type1=[[French_overseas_departments_and_territories#Overseas_collectivities|Collectivity]]
 |subdivision_name1={{flag|Wallis and Futuna|local}}
 |subdivision_type2=ټاپو
@@ -110,5 +110,6 @@ Default is list if up to 5 items, coll if more than 5-->
 |website=
 |footnotes=
 }}
+
 ==تاریخ==
 ==جغرافیه==
