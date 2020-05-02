@@ -1,4 +1,81 @@
-'''د بېنين جمهوريت''' په [[لویديځه افريقا]] کې يو هېواد دی چې پخوا د [[داهومې]] يا داهومانيا په نامه هم يادېده. د دې [[افريقا]]يي هېواد سهېلي پوله د [[بورکينا فاسو]] او [[نايجېر]] سره، ختيځ کې د [[نايجېريا]] سره، په لوېديځ کې د [[توګو]] سره او په سوېل کې يې سمندر سره يو وړوکی ساحل سره ګډېږي.
+'''د بېنين جمهوريت''' په [[افریقا|لویديځه افريقا]] کې يو هېواد دی چې پخوا د (داهومې) يا داهومانيا په نامه هم يادېده. د دې [[افريقا]]يي هېواد سهېلي پوله د [[بورکينا فاسو]] او [[نايجېر]] سره، ختيځ کې د [[نايجېريا]] سره، په لوېديځ کې د [[توګو]] سره او په سوېل کې يې سمندر سره يو وړوکی ساحل سره ګډېږي.
+
+{{Infobox country
+| conventional_long_name                = د بنین هیواد ولسمشریزه
+| native_name                = {{smaller|{{native name|fr|République du Bénin}}}}
+| common_name                = Benin
+| image_flag                = Flag of Benin.svg
+| flag_size                = 102px
+| image_coat                = Coat of arms of Benin.svg
+| image_map                = Location Benin AU Africa.svg
+| map_caption                = {{Map caption|location_color=آسمانی|region=افریقا|region_color=خاورینه|subregion=[[ افریقایي ټولنه]]|subregion_color=آسماني}}
+| image_map2                =
+| national_motto                = {{نوملړ|{{native phrase|fr|"Fraternité, Justice, Travail"|italics=off|nolink=yes}}|{{small|"ورور ولي، ورکونه، کار"}}}}
+| national_anthem                = {{نوملړ |class=nowrap|{{Native name|fr|[[L'Aube Nouvelle]]|nolink=yes}}|{{small|''|نوې ورځ''}}{{منځ ‌چین}}[[File:L'Aube Nouvelle.ogg|L'Aube Nouvelle]]{{پایان}}}}
+| official_languages                = [[فرانسوي]]
+| languages_type                = [[Indigenous language]]s
+| languages                = {{Hlist|[[Fon language|Fon]]|[[یوروبایي ژبه]]|[[Bariba language|Bariba]]}}
+| demonym                = {{Hlist|Beninese}}
+| ethnic_groups                = {{نوملړ|۳۸٫۴٪ [[Fon people|فون]]|۱۵٫۱٪ [[Adja people|آدجا]]|۱۲٪ [[یوروبا]]|۹٫۶٪ [[Bariba people|باریبا]] & [[Gen language|مینا]]|۸٫۶٪ [[فولاني]]|۶٫۱٪ اوتاماریان|۴٫۳٪ Yoa-Lokpa|۲٫۹٪ [[Dendi people|دندي]]|۲٫۸٪ نور|{{Nowrap|}}}}
+| ethnic_groups_year                = سرشمیرنه ۲۰۱۳<ref>https://www.insae-bj.org/images/docs/insae-statistiques/enquetes-recensements/RGPH/1.RGPH_4/Indicateurs-et-Projetcions/Principaux%20Indicateurs%20projections%20Preface%20RGPH4.pdf</ref>
+| capital                = [[پورتو نووو]]<sup>a</sup>
+| largest_city                = [[کوتونو]]
+| government_type                = {{Nowrap|[[حاکم دولت]] [[ریاستی نظام]] [[ولسمشریزه]]}}
+| leader_title1                = [[List of heads of state of Benin|ولسمشر]]
+| leader_name1                = [[پاتریس تالون]]
+| leader_title2                = [[List of Presidents of the National Assembly of Benin|د پارلمان رئیس]]
+| leader_name2                = [[Louis Vlavonou]]<ref>https://data.ipu.org/content/benin?chamber_id=13341</ref>
+| legislature                = [[National Assembly (Benin)|ملي جرګه]]
+| sovereignty_type                = [[خپلواکي]]
+| established_event1                = له [[فرانسه|فرانسې]]
+| established_date1                = ۱ اګسټ ۱۹۶۰
+| area_rank                = ۱۰۰ام
+| area_km2                = 114763
+| area_sq_mi                =
+| area_footnote                =<ref name=AS2010>{{Cite report |date=2012 |title=Annuaire statistique 2010 |language=fr |url=http://www.insae-bj.org/annuare-statistique.html?file=files/publications/annuel/Annuaire%20statistique%20%20INSAE%202010.pdf |publisher=[[Institut national de la statistique et de l'analyse économique|INSAE]] |page=49 |accessdate=17 December 2015 |archive-url=https://web.archive.org/web/20160304091201/http://www.insae-bj.org/annuare-statistique.html?file=files%2Fpublications%2Fannuel%2FAnnuaire%20statistique%20%20INSAE%202010.pdf |archivedate=4 March 2016 |url-status=live}}</ref>
+| percent_water                = ۰٫۴٪
+| population_estimate                = {{UN Population|ref}}{{UN Population|Benin}}
+| population_estimate_rank                = ۸۲ام
+| population_estimate_year                = {{UN Population|Year}}
+| population_census                = ۱۰٬۰۰۸٬۷۴۹<ref>{{cite web |url=http://www.insae-bj.org/ |title=BENIN en Chiffres |trans-title=BENIN in Figures |language=fr |website=[[Institut national de la statistique et de l'analyse économique|INSAE]] |accessdate=17 December 2015 |archive-url=https://web.archive.org/web/20151217002938/http://www.insae-bj.org/ |archive-date=17 December 2015 |url-status=live}}</ref>
+| population_census_year                = ۲۰۱۳
+| population_density_km2                = 94.8
+| population_density_sq_mi                =
+| population_density_rank                = ۱۲۰ام
+| GDP_PPP                = $۲۹٫۹۱۸ بیلیون<ref name=imf2>{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=31&pr.y=10&sy=2015&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=638&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=World Economic Outlook Database, October 2018|publisher=[[صندوق بین‌المللی پول]] |website=IMF.org |access-date=1 February 2019}}</ref>
+| GDP_PPP_rank                = ۱۳۷ام
+| GDP_PPP_year                = ۲۰۱۹
+| GDP_PPP_per_capita                = $۲٬۵۵۲<ref name=imf2/>
+| GDP_PPP_per_capita_rank                = ۱۶۳ام
+| GDP_nominal                = $۱۱٫۳۸۶ بیلیون<ref name=imf2/>
+| GDP_nominal_rank                = ۱۴۱ام
+| GDP_nominal_year                = ۲۰۱۹
+| GDP_nominal_per_capita                = $۹۷۱<ref name=imf2/>
+| GDP_nominal_per_capita_rank                = ۱۶۳ام
+| Gini_year                = ۲۰۱۵
+| Gini_change                = increase <!--increase/decrease/steady-->
+| Gini                = ۴۷٫۸ <!--number only-->
+| Gini_ref                =<ref>{{cite web|url=https://databank.worldbank.org/data/reports.aspx?source=2&series=SI.POV.GINI&country=BEN|title=GINI index (World Bank estimate)|publisher=[[نړیوال بانک ]]|website=databank.worldbank.org |access-date=1 February 2019}}</ref>
+| Gini_rank                =
+| HDI_year                = ۲۰۱۸<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change                = increase <!--increase/decrease/steady-->
+| HDI                = ۰٫۵۲۰ <!--number only-->
+| HDI_ref                =<ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[ملګري ملتونه]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank                = ۱۶۳ام
+| currency                = [[د لویدیځې افریقا سی اف ای فرانک]]
+| currency_code                = XOF
+| country_code                =
+| time_zone                = [[West Africa Time|WAT]]
+| utc_offset                = +۱
+| time_zone_DST                =
+| utc_offset_DST                =
+| drives_on                = ښوی
+| calling_code                = [[+۲۲۹]]
+| cctld                = [[.bj]]
+| footnote_a                = [[کوتونو]] is the seat of government.
+| today                =
+}}
+==جغرافیه==
 
 ==اقتصاد==
 ==کلتور==
