@@ -87,15 +87,15 @@
 [[File:Districts of Côte d'Ivoire (Numbered).png|thumb|Districts of Ivory Coast]]
 
 {| class="sortable wikitable plainrowheaders"
-!scope="col" width=15|Map no.
-!scope="col" width=140|District
-!scope="col" width=140|District capital
-!scope="col" width=140|Regions
-!scope="col" width=140|Region seat
-!scope="col" width=140|Population<ref>{{statoids|id=uci|title=Districts of Côte d'Ivoire}} Institut National de la Statistique, Côte d'Ivoire.</ref>
+!scope="col" width=15|نقشه (نشته).
+!scope="col" width=140|ولایت
+!scope="col" width=140| مرکز
+!scope="col" width=140|مساحت
+!scope="col" width=140|سیمه
+!scope="col" width=140|وګړي<ref>{{statoids|id=uci|title=Districts of Côte d'Ivoire}} Institut National de la Statistique, Côte d'Ivoire.</ref>
 |-
 !!scope=row colspan=1|1
-|align=left row colspan=4|'''[[Abidjan]]''' <br />(''District Autonome d'Abidjan'')
+|align=left row colspan=4|'''[[ابیجان]]''' <br />(''District Autonome d'Abidjan'')
 |align="right"|4,707,404
 |-
 !!scope=row rowspan=3|2
@@ -105,11 +105,11 @@
 |[[Sassandra]]
 |align="right"|400,798
 |-
-|[[Nawa Region|Nawa]]
+|[[ناوا]]
 |[[Soubré]]
 |align="right"|1,053,084
 |-
-|[[San-Pédro Region|San-Pédro]]
+|[[سان-پدرو]]
 |[[San-Pédro, Ivory Coast|San-Pédro]]
 |align="right"|826,666
 |-
@@ -117,67 +117,67 @@
 |align=row rowspan=2|'''[[Comoé District|Comoé]]''' <br />(''District du Comoé'')
 |align=left rowspan=2|[[Abengourou]]
 |[[Indénié-Djuablin]]
-|[[Abengourou]]
+|[[ابنګورو]]
 |align="right"|560,432
 |-
-|[[Sud-Comoé]]
-|[[Aboisso]]
+|[[سویلي-کومو]]
+|[[ابویسو]]
 |align="right"|642,620
 |-
 !!scope=row rowspan=2|4
 |align==row rowspan=2|'''[[Denguélé District|Denguélé]]''' <br />(''District du Denguélé'')
 |align=left rowspan=2|[[Odienné]]
-|[[Folon Region|Folon]]
-|[[Minignan]]
+|[[فولون]]
+|[[مینیګنان]]
 |align="right"|96,415
 |-
-|[[Kabadougou]]
-|[[Odienné]]
+|[[کابادوګو]]
+|[[ودیني]]
 |align="right"|193,364
 |-
 !!scope=row rowspan=2|5
 |align=row rowspan=2|'''[[Gôh-Djiboua District|Gôh-Djiboua]]''' <br />(''District du Gôh-Djiboua'')
 |align=left rowspan=2|[[Gagnoa]]
 |[[Gôh]]
-|[[Gagnoa]]
+|[[ګانګوا]]
 |align="right"|876,117
 |-
-|[[Lôh-Djiboua]]
+|[[لو-دجیبوا]]
 |[[Divo, Ivory Coast|Divo]]
 |align="right"|729,169
 |-
 !!scope=row rowspan=4|6
 |align=row rowspan=4|'''[[Lacs District|Lacs]]''' <br />(''District des Lacs'')
 |align=left rowspan=4|[[Dimbokro]]
-|[[Bélier Region]]
+|[[بلیر]]
 |[[Yamoussoukro]]<ref>While Yamoussoukro is the seat of Bélier region, the city itself is not part of the region.</ref>
 |align="right"|346,768
 |-
-|[[Iffou]]
-|[[Daoukro]]
+|[[یففو]]
+|[[داوکرو]]
 |align="right"|311,642
 |-
 |[[Moronou Region|Moronou]]
-|[[Bongouanou]]
+|[[بونګوانو]]
 |align="right"|352,616
 |-
 |[[N'Zi Region|N'Zi]]
-|[[Dimbokro]]
+|[[دیمکورو]]
 |align="right"|247,578
 |-
 !!scope=row rowspan=3|7
 |align=row rowspan=3|'''[[Lagunes District|Lagunes]]''' <br />(''District des Lagunes'')
 |align=left rowspan=3|[[Dabou]]
-|[[Agnéby-Tiassa]]
-|[[Agboville]]
+|[[اګنبی-تیاسا]]
+|[[اګبوویلل]]
 |align="right"|606,852
 |-
-|[[Grands-Ponts]]
-|[[Dabou]]
+|[[ګرادس-پونتس]]
+|[[دابو]]
 |align="right"|356,495
 |-
-|[[La Mé]]
-|[[Adzopé]]
+|[[لامی]]
+|[[ادڅوپ]]
 |align="right"|514,700
 |-
 !!scope=row rowspan=3|8
@@ -187,11 +187,11 @@
 |[[Guiglo]]
 |align="right"|459,964
 |-
-|[[Guémon]]
+|[[ګومون]]
 |[[Duékoué]]
 |align="right"|919,392
 |-
-|[[Tonkpi]]
+|[[تونکپي]]
 |[[Man, Ivory Coast|Man]]
 |align="right"|992,564
 |-
@@ -199,66 +199,66 @@
 |align=row rowspan=2|'''[[Sassandra-Marahoué District|Sassandra-Marahoué]]''' <br />(''District du Sassandra-Marahoué'')
 |align=left rowspan=2|[[Daloa]]
 |[[Haut-Sassandra]]
-|[[Daloa]]
+|[[دالوا]]
 |align="right"|1,430,960
 |-
-|[[Marahoué]]
+|[[ماراهو]]
 |[[Bouaflé]]
 |align="right"|862,344
 |-
 !!scope=row rowspan=3|10
 |align=row rowspan=3|'''[[Savanes District|Savanes]]''' <br />(''District des Savanes'')
 |align=left rowspan=3|[[Korhogo]]
-|[[Bagoué]]
+|[[باګوی]]
 |[[Boundiali]]
 |align="right"|375,687
 |-
-|[[Poro Region|Poro]]
+|[[پورو]]
 |[[Korhogo]]
 |align="right"|763,852
 |-
-|[[Tchologo]]
+|[[چولوګو]]
 |[[Ferkessédougou]]
 |align="right"|467,958
 |-
 !!scope=row rowspan=2|11
 |align=row rowspan=2|'''[[Vallée du Bandama District|Vallée du Bandama]]''' <br />(''District de la Vallée du Bandama'')
 |align=left rowspan=2|[[Bouaké]]
-|[[Gbêkê]]
+|[[ګبیک]]
 |[[Bouaké]]
 |align="right"|1,010,849
 |-
-|[[Hambol]]
+|[[هامبول]]
 |[[Katiola, Ivory Coast|Katiola]]
 |align="right"|429,977
 |-
 !!scope=row rowspan=3|12
 |align=row rowspan=3|'''[[Woroba District|Woroba]]''' <br />(''District du Woroba'')
 |align=left rowspan=3|[[Séguéla]]
-|[[Béré Region|Béré]]
+|[[بری]]
 |[[Mankono]]
 |align="right"|389,758
 |-
-|[[Bafing Region|Bafing]]
+|[[بافینګ]]
 |[[Touba, Ivory Coast|Touba]]
 |align="right"|183,047
 |-
-|[[Worodougou]]
+|[[ورودوګرو]]
 |[[Séguéla]]
 |align="right"|272,334
 |-
 !!scope=row colspan=1|13
-|align=left row colspan=4|'''[[Yamoussoukro]]''' <br />(''District Autonome du Yamoussoukro'')
+|align=left row colspan=4|'''[[یاموسوکرو]]''' <br />(''District Autonome du Yamoussoukro'')
 |align="right"|355,573
 |-
 !!scope=row rowspan=2|14
 |align=row rowspan=2|'''[[Zanzan District|Zanzan]]''' <br />(''District du Zanzan'')
 |align=left rowspan=2|[[Bondoukou]]
-|[[Bounkani]]
+|[[بونکاني]]
 |[[Bouna, Ivory Coast|Bouna]]
 |align="right"|267,167
 |-
-|[[Gontougo]]
+|[[ګوتوګو]]
 |[[Bondoukou]]
 |align="right"|667,185
 |-
