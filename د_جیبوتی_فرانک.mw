@@ -1,9 +1,9 @@
-'''د جیبوتی فرانک'''
-{{infobox currency
-| currency_name =د جیبوتی
-| currency_name_in_local = franc djibouti <small>{{Fr icon}}</small>{{پاک‌کن}}الفرنك الجيبوتي <small>{{Ar icon}}</small>
+'''د جیبوتی فرانک''' په [[انګلیسي]] Djiboutian franc) ایزو کوډ DJF) د جیبوتی هیواد د پیسو واحد دی, چې کنټرول یې د جیبوتی د مرکزی بانک په غاړه دی. 
+{{infobox settlement
+| currency_name =د جیبوتی هیواد فرانک
+| currency_name_in_local = franc djibouti <small>{{Fr icon}}</small>{{پاک کار}}الفرنك الجيبوتي <small>{{Ar icon}}</small>
 | image_1 = [[File:5 djiboutian francs.jpg|200px]]
-| image_title_1 = ۵ د جیبوتی، ضرب ۱۹۹۱.
+| image_title_1 = ۵ د جیبوتی فرانک، کال ۱۹۹۱.
 | image_background_1 =
 | image_width_1 =250px
 | image_2 =
@@ -11,13 +11,13 @@
 | image_title_2 =
 | image_width_2 =250px
 | iso_code =DJF
-| issuing_authority =[[د جیبوتی]]
+| issuing_authority =[[د جیبوتی فرانک]]
 | issuing_authority_title =
 | issuing_authority_website =
 | date_of_introduction =
 | date_of_introduction_source =
 | unofficial_users =
-| using_countries ={{پرچم|جیبوتی}}
+| using_countries = [[جېبوتی]]
 | inflation_rate =۰٫۰۵
 | inflation_source_date =[http://www.webcitation.org/5mGrLAu4A The World Factbook]
 | inflation_method =
@@ -28,7 +28,7 @@
 | euro_replace_cash =
 | ERM_fixed_rate =
 | ERM_band =
-| pegged_with =[[دلار آمریکا]]
+| pegged_with =[[امریکایي ډالر]]
 | pegged_by =۱۷۷٫۷۲۱ francs
 | superunit_ratio_1 = <!-- thru |superunit_ratio_5 = -->
 | superunit_name_1 =
@@ -61,3 +61,4 @@
 | obsolete_notice =
 | footnotes =
 }}
+==آرزښت==
