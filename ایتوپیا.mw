@@ -3,6 +3,142 @@
 '''اېتوپیا''' چې رسمي نوم یې '''د ایتوپیا فدرالي دموکراتیک جمهوریت''' ([[امهاري ژبه|په امهاري]] ኢትዮጵያ ''Ityopp'ya'') دی [[ افریقا]]،[[د افریقا ښکر]] کې په وچې پورې تړلی یو هیواد دی.
 پلازمینه یې [[آدیس آبابا]] او مساحت یې ۳۰۰'۱۰۴'۱ کیلومتره دی. ایتوپیا ۶۳۵'۱۳۵'۱۱۰ میلیونه وګړي لری 
 او د پیسو واد یې [[د ایتوپیا بیر]] (ETB) ده.
+{{Infobox country
+| conventional_long_name                = Federal Democratic Republic of Ethiopia
+| common_name                = Ethiopia
+| native_name                = {{collapsible list
+  |titlestyle = background:transparent;text-align:center;line-height:normal;font-size:85%;
+  |title = Name in national languages
+| {{Infobox
+| subbox=yes
+| bodystyle=font-size:78%;font-weight:normal;
+| rowclass1 = mergedrow
+| label1 = [[Amharic]]:
+| data1  = {{lang|af|የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ }}
+| rowclass2 = mergedrow 
+| label2 = [[Amharic|Romanized Amharic]]:
+| data2  = {{lang|de|yeʾĪtiyoṗṗya Fēdēralawī Dēmokirasīyawī Rīpebilīk}}
+| rowclass3 = mergedrow 
+| label3 = [[Oromo language|Oromo]]:
+| data3  = {{lang|naq|Rippabliikii Federaalawaa Dimokraatawaa Itiyoophiyaa}}
+| rowclass4 = mergedrow 
+| label4 = [[Somali language|Somali]]:
+| data4  = {{lang|hz|Jamhuuriyadda Dimuqraadiga Federaalka Itoobiya}}
+| rowclass5 = mergedrow 
+| label5 = [[Afar language|Afar]]:
+| data5  = {{lang|kj|ityoppiah federalih demokrasih ummuno}}
+| rowclass6 = mergedrow 
+| label6 = [[Tigrinya language|Tigrinya]]:
+| data6  = {{lang|kwn|ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ}}
+| rowclass7 = mergedrow 
+| label7 = [[Tigrinya language|Tigrinya Romanization]]:
+| data7  = {{lang|tn|nayi'ītiyop'iya fēdēralawī dēmokirasīyawī rīpebilīki}}
+}}
+}}
+| image_flag                = Flag of Ethiopia.svg
+| image_coat                = Emblem of Ethiopia.svg
+| symbol_type                = Emblem
+| national_anthem                = <br />{{lang|am|ወደፊት ገስግሺ፣ ውድ እናት ኢትዮጵያ|bold=yes}}<br />({{Lang-en|"[[March Forward, Dear Mother Ethiopia]]"}})<br /><div style="display:inline-block;margin-top:0.4em;">{{center|[[File:Wedefit Gesgeshi Widd Innat Ittyoppya.ogg]]}}</div>
+| image_map                = Ethiopia (Africa orthographic projection).svg
+| capital                = [[Addis Ababa]]
+| coordinates                = {{Coord|9|1|N|38|45|E|type:city}}
+| largest_city                = capital
+| official_languages                = [[Amharic language|Amharic]]<ref name="africa.upenn.edu">{{Cite web | url=https://www.africa.upenn.edu/Hornet/Ethiopian_Constitution.html | title=Ethiopian Constitution}}</ref><ref name="Constitution">{{cite web|title=Article 5|url=http://www.wipo.int/edocs/lexdocs/laws/en/et/et007en.pdf|work=Ethiopian Constitution|publisher=WIPO|accessdate=2 July 2015}}</ref>
+| languages_type                = {{nowrap|'''[[Regional language]]s'''}}<ref name="africa.upenn.edu">{{Cite web | url=https://www.africa.upenn.edu/Hornet/Ethiopian_Constitution.html | title=Ethiopian Constitution}}</ref>
+| languages_sub                = yes
+| languages                = {{Flatlist|
+* [[Afar language|Afar]]
+* [[Gurage]]
+* [[Harari language|Harari]]
+* [[Oromo language|Oromo]]
+* [[Tigrinya language|Tigrinya]]
+* [[Sidamo language|Sidama]]
+* [[Somali language|Somali]]
+* [[Wolaytta language|Wolaytta]]
+* [[Languages of Ethiopia]]
+<!-- includes only languages officially recognized by a region as the working language -->
+}}
+| ethnic_groups_year                = 2012<ref name="CIA">{{cite web|title=Ethiopia|url=https://www.cia.gov/library/publications/the-world-factbook/geos/et.html|work=The World Factbook|publisher=CIA|access-date=11 June 2017}}</ref>
+| religion                = {{nowrap|[[Christianity in Ethiopia|Christianity]] (62.8%)<br />[[Islam in Ethiopia|Islam]] (33.9%)<br />[[Traditional African religions#Horn of Africa|Traditional faiths]] (2.6%)<br />Others (0.7%)<ref>{{Cite web | url=https://www.cia.gov/library/publications/the-world-factbook/geos/et.html | title=Africa :: Ethiopia — the World Factbook – Central Intelligence Agency}}</ref>}}
+| demonym                = [[People of Ethiopia|Ethiopian]][[Demographics of Ethiopia|*]]
+| government_type                = [[Ethnic federalism|Ethnofederalist]]<ref>[https://globalafrica.isp.msu.edu/files/5015/5916/5319/TedVestal.pdf  Zenawism as ethnic-federalism]</ref>  [[Parliamentary system|parliamentary]] [[constitutional republic]]
+| leader_title1                = [[President of Ethiopia|President]]
+| leader_name1                = [[Sahle-Work Zewde]]
+| leader_title2                = [[Prime Minister of Ethiopia|Prime Minister]]
+| leader_name2                = [[Abiy Ahmed|Abiy Ahmed Ali]]
+| leader_title3                = [[Deputy Prime Minister]]
+| leader_name3                = [[Demeke Mekonnen]]
+| leader_title4                = [[Speaker of the House of Peoples' Representatives]]
+| leader_name4                = [[Tagesse Chafo]]
+| leader_title5                = President of the [[Federal Supreme Court of Ethiopia|Federal Supreme Court]]
+| leader_name5                = [[Meaza Ashenafi]]
+| legislature                = [[Federal Parliamentary Assembly]]
+| upper_house                = [[House of Federation]]
+| lower_house                = [[House of Peoples' Representatives]]
+| sovereignty_type                = [[History of Ethiopia|Formation]]
+| established_event1                = [[Dʿmt]]
+| established_date1                = c. 980 {{small|[[BCE]]}}
+| established_event2                = [[Kingdom of Aksum]]
+| established_date2                = c. 100 {{small|[[Common Era|CE]]}}
+| established_event3                = [[Zagwe Dynasty]]
+| established_date3                = 900
+| established_event4                = [[Ethiopian Empire]]
+| established_date4                = 1137
+| established_event5                = [[Italian Ethiopia|Occupied & Annexed]] into [[Italian East Africa]]
+| established_date5                = 1936
+| established_event6                = Sovereignty restored
+| established_date6                = 1941
+| established_event7                = [[Derg|Provisional Military Government of Socialist Ethiopia]]
+| established_date7                = 1974
+| established_event8                = [[People's Democratic Republic of Ethiopia]]
+| established_date8                = 1987
+| established_event9                = [[Eritrean War of Independence|Secession of Eritrea]]
+| established_date9                = 1993
+| area_km2                = 1,104,300<ref name="CIA World Factbook"/>
+| area_rank                = 28th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi                = 426,371 <!-- Do not remove per [[WP:MOSNUM]] -->
+| percent_water                = 0.7
+| population_estimate                = {{UN_Population|Ethiopia}}{{UN_Population|ref}}
+| population_census                = 73,750,932<ref name=2007Census>{{cite web |title=Country Level |url=http://www.csa.gov.et/index.php/census-report/census-tables/category/301-census-tables?download=655:countrylevel |archive-url=https://web.archive.org/web/20190208061518/http://www.csa.gov.et/index.php/census-report/census-tables/category/301-census-tables?download=655:countrylevel |url-status=dead |archive-date=8 February 2019 |work=2007 Population and Housing Census of Ethiopia |publisher=[[Central Statistical Agency (Ethiopia)|CSA]] |date=13 July 2010 |access-date=18 January 2013 }}</ref>
+| population_estimate_year                = {{UN_Population|Year}}
+| population_estimate_rank                = 12th
+| population_census_year                = 2007
+| population_density_km2                = 92.7
+| population_density_sq_mi                = 240.1 <!-- Do not remove per [[WP:MOSNUM]] -->
+| population_density_rank                = 123rd
+| GDP_PPP                = $240.168 billion<ref name="IMFWEOET">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=57&pr.y=10&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=644&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CPCPIPCH&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=8 December 2019}}</ref>
+| GDP_PPP_year                = 2019
+| GDP_PPP_rank                = 
+| GDP_PPP_per_capita                = $2,701<ref name="IMFWEOET">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=57&pr.y=10&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=644&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CPCPIPCH&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=8 December 2019}}</ref>
+| GDP_PPP_per_capita_rank                = 
+| GDP_nominal                = $103.607 billion<ref name="IMFWEOET">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=57&pr.y=10&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=644&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CPCPIPCH&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=8 December 2019}}</ref>
+| GDP_nominal_year                = 2020
+| GDP_nominal_per_capita                = $1,066<ref name="IMFWEOET">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=57&pr.y=10&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=644&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CPCPIPCH&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=8 December 2019}}</ref>
+| Gini                = 33.6 <!-- number only -->
+| Gini_year                = 2011
+| Gini_change                = increase
+| Gini_ref                = <ref>{{cite book |url=http://hdr.undp.org/sites/default/files/2015_human_development_report.pdf |series=Human Development Report |date=2015 |title=Work for human development |last=Selima |first=Jāhāna |publisher=United Nations Development Programme |isbn=978-92-1-126398-5 |oclc=936070939 |page=232}}</ref>
+| Gini_rank                = 
+| HDI                = 0.470 <!-- number only -->
+| HDI_year                = 2018<!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change                = increase <!-- increase/decrease/steady -->
+| HDI_ref                = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank                = 173rd
+| currency                = [[Ethiopian birr|Birr]]
+| currency_code                = ETB
+| time_zone                = [[East Africa Time|EAT]]
+| utc_offset                = +3
+| utc_offset_DST                = 
+| time_zone_DST                = 
+| drives_on                = right
+| calling_code                = [[+251]]
+| cctld                = [[.et]]
+| today                = 
+| patron_saint                = [[Saint George]]
+| established_event10                = {{nowrap|[[1995 Constitution of Ethiopia|Current constitution]]}}
+| established_date10                = 21 August 1995
+}}
+
 ==ایداري وېش==
 
 ==تاریخ==
