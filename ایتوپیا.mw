@@ -13,25 +13,25 @@
 | subbox=yes
 | bodystyle=font-size:78%;font-weight:normal;
 | rowclass1 = mergedrow
-| label1 = [[Amharic]]:
+| label1 = [[امهري ژبه|امهري]]:
 | data1  = {{lang|af|የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ }}
 | rowclass2 = mergedrow 
-| label2 = [[Amharic|Romanized Amharic]]:
+| label2 = [[امهري ژبه|امهري]]:
 | data2  = {{lang|de|yeʾĪtiyoṗṗya Fēdēralawī Dēmokirasīyawī Rīpebilīk}}
 | rowclass3 = mergedrow 
-| label3 = [[Oromo language|Oromo]]:
+| label3 = [[ارومو ژبه|ارومو]]:
 | data3  = {{lang|naq|Rippabliikii Federaalawaa Dimokraatawaa Itiyoophiyaa}}
 | rowclass4 = mergedrow 
-| label4 = [[Somali language|Somali]]:
+| label4 = [[سومالیایي ژبه|سومالیایي]]:
 | data4  = {{lang|hz|Jamhuuriyadda Dimuqraadiga Federaalka Itoobiya}}
 | rowclass5 = mergedrow 
-| label5 = [[Afar language|Afar]]:
+| label5 = [[افار ژبه|آفار]]:
 | data5  = {{lang|kj|ityoppiah federalih demokrasih ummuno}}
 | rowclass6 = mergedrow 
-| label6 = [[Tigrinya language|Tigrinya]]:
+| label6 = [[تګرینیایي ژبه|تګرینیایي]]:
 | data6  = {{lang|kwn|ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ}}
 | rowclass7 = mergedrow 
-| label7 = [[Tigrinya language|Tigrinya Romanization]]:
+| label7 = [[تیګرینیا ژبه|تیګرینیایي]]:
 | data7  = {{lang|tn|nayi'ītiyop'iya fēdēralawī dēmokirasīyawī rīpebilīki}}
 }}
 }}
@@ -40,32 +40,32 @@
 | symbol_type                = Emblem
 | national_anthem                = <br />{{lang|am|ወደፊት ገስግሺ፣ ውድ እናት ኢትዮጵያ|bold=yes}}<br />({{Lang-en|"[[March Forward, Dear Mother Ethiopia]]"}})<br /><div style="display:inline-block;margin-top:0.4em;">{{center|[[File:Wedefit Gesgeshi Widd Innat Ittyoppya.ogg]]}}</div>
 | image_map                = Ethiopia (Africa orthographic projection).svg
-| capital                = [[Addis Ababa]]
+| capital                = [[آدیس آبابا]]
 | coordinates                = {{Coord|9|1|N|38|45|E|type:city}}
 | largest_city                = capital
-| official_languages                = [[Amharic language|Amharic]]<ref name="africa.upenn.edu">{{Cite web | url=https://www.africa.upenn.edu/Hornet/Ethiopian_Constitution.html | title=Ethiopian Constitution}}</ref><ref name="Constitution">{{cite web|title=Article 5|url=http://www.wipo.int/edocs/lexdocs/laws/en/et/et007en.pdf|work=Ethiopian Constitution|publisher=WIPO|accessdate=2 July 2015}}</ref>
-| languages_type                = {{nowrap|'''[[Regional language]]s'''}}<ref name="africa.upenn.edu">{{Cite web | url=https://www.africa.upenn.edu/Hornet/Ethiopian_Constitution.html | title=Ethiopian Constitution}}</ref>
+| official_languages                = [[امهري ژبه|امهري]]<ref name="africa.upenn.edu">{{Cite web | url=https://www.africa.upenn.edu/Hornet/Ethiopian_Constitution.html | title=Ethiopian Constitution}}</ref><ref name="Constitution">{{cite web|title=Article 5|url=http://www.wipo.int/edocs/lexdocs/laws/en/et/et007en.pdf|work=Ethiopian Constitution|publisher=WIPO|accessdate=2 July 2015}}</ref>
+| languages_type                = {{nowrap|'''[[سیمه ییزې ژبې]]s'''}}<ref name="africa.upenn.edu">{{Cite web | url=https://www.africa.upenn.edu/Hornet/Ethiopian_Constitution.html | title=Ethiopian Constitution}}</ref>
 | languages_sub                = yes
 | languages                = {{Flatlist|
-* [[Afar language|Afar]]
-* [[Gurage]]
-* [[Harari language|Harari]]
-* [[Oromo language|Oromo]]
-* [[Tigrinya language|Tigrinya]]
-* [[Sidamo language|Sidama]]
-* [[Somali language|Somali]]
-* [[Wolaytta language|Wolaytta]]
-* [[Languages of Ethiopia]]
+* [[افار ژبه]]
+* [[ګوراګ]]
+* [[هاراري ژبه]]
+* [[ارومو ژبه]]
+* [[تیګرینیا ژبه]]
+* [[سیدامو ژبه]]
+* [[سومالیایي ژبه]]
+* [[والایتا ژبه]]
+* [[ایتوپیایي ژبې]]
 <!-- includes only languages officially recognized by a region as the working language -->
 }}
 | ethnic_groups_year                = 2012<ref name="CIA">{{cite web|title=Ethiopia|url=https://www.cia.gov/library/publications/the-world-factbook/geos/et.html|work=The World Factbook|publisher=CIA|access-date=11 June 2017}}</ref>
 | religion                = {{nowrap|[[Christianity in Ethiopia|Christianity]] (62.8%)<br />[[Islam in Ethiopia|Islam]] (33.9%)<br />[[Traditional African religions#Horn of Africa|Traditional faiths]] (2.6%)<br />Others (0.7%)<ref>{{Cite web | url=https://www.cia.gov/library/publications/the-world-factbook/geos/et.html | title=Africa :: Ethiopia — the World Factbook – Central Intelligence Agency}}</ref>}}
 | demonym                = [[People of Ethiopia|Ethiopian]][[Demographics of Ethiopia|*]]
 | government_type                = [[Ethnic federalism|Ethnofederalist]]<ref>[https://globalafrica.isp.msu.edu/files/5015/5916/5319/TedVestal.pdf  Zenawism as ethnic-federalism]</ref>  [[Parliamentary system|parliamentary]] [[constitutional republic]]
-| leader_title1                = [[President of Ethiopia|President]]
-| leader_name1                = [[Sahle-Work Zewde]]
-| leader_title2                = [[Prime Minister of Ethiopia|Prime Minister]]
-| leader_name2                = [[Abiy Ahmed|Abiy Ahmed Ali]]
+| leader_title1                = [[ولسمشر]]
+| leader_name1                = [[ساحل-وارک زیود]]
+| leader_title2                = [[لومړی وزیر]]
+| leader_name2                = [[ابی احمد علی]]
 | leader_title3                = [[Deputy Prime Minister]]
 | leader_name3                = [[Demeke Mekonnen]]
 | leader_title4                = [[Speaker of the House of Peoples' Representatives]]
