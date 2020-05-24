@@ -76,10 +76,10 @@
 | upper_house                = [[فدراسیون خونه]]
 | lower_house                = [[د وکیلانو کور]]
 | sovereignty_type                = [[د ایتوپیا جوړښت]]
-| established_event1                = [[Dʿmt]]
+| established_event1                =
 | established_date1                = c. ۹۸۰ {{small|[[BCE]]}}
 | established_event2                = [[اکسوم پاچاهي]]
-| established_date2                = c. ۱۰۰ {{small|[[Common Era|CE]]}}
+| established_date2                = c. ۱۰۰ {{small}}
 | established_event3                = [[زاګوی دیناستي]]
 | established_date3                = ۹۰۰
 | established_event4                = [[د ایتوپیا ټولواکمنې]]
@@ -95,7 +95,7 @@
 | established_event9                = [[د اریتریا او ایتوپیا جنګ]]
 | established_date9                = ۱۹۹۳
 | area_km2                = ۱,۱۰۴,۳۰۰<ref name="CIA World Factbook"/>
-| area_rank                = 28th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_rank                = ۲۸th <!-- Should match   -->
 | area_sq_mi                = ۴۲۶,۳۷۱ <!-- Do not remove per [[WP:MOSNUM]] -->
 | percent_water                = ۰.۷
 | population_estimate                = {{UN_Population|Ethiopia}}{{UN_Population|ref}}
