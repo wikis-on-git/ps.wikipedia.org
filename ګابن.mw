@@ -1,54 +1,74 @@
-{{هېواد-مالوماتبکس
-|native_name = République Gabonaise
+'''ګابن''' چې رسمي نوم یې '''د ګابن جمهوریت''' دی د [[مرکزي افريقا]] په لودیځ لور کې پروت هیواد دی. د ګابن پلازمینه [[لیبرویل ]] ښار او رسمی ژبه یې [[فرانسوي]] ده، یاد هیواد ۷۴۵'۲۶۷ کیلومتره مساحت او ۸۶۷'۴۵۴'۱ میلیونه وګړي لري. د پیسو واحد یې [[د مرکزي افریقا فرانک]] دی او په ۱۷ اګست ۱۹۶۰م کال یې له فرانسه نه خپلواکی ترلاسه کړی.
+{{Infobox country
+|conventional_long_name =  د ګابن هیواد ولسمشریزه
+|native_name = {{native name|fr|République gabonaise|fontsize=70%}}
 |common_name = Gabon
 |image_flag = Flag of Gabon.svg
-|image_coat = Flag coa.png
-|image_map = LocationGabon.png
-|national_motto = Union, Travail, Justice
-|national_anthem = [[La Concorde]]
-|official_languages = [[French language|French]]
+|image_coat = Coat of arms of Gabon.svg
+|image_map = {{Switcher|[[File:Gabon (orthographic projection).svg|frameless]]|Show globe|[[File:Location Gabon AU Africa.svg|upright=1.15|frameless]]|Show map of Africa|default=1}}
+|map_caption = 
+|national_motto = {{native phrase|fr|"Union, Travail, Justice"|italics=off|nolink=on}}<br/>{{small|"Union, Work, Justice"}}
+|national_anthem = ''[[La Concorde]]''<br/>{{small|''The Concord''}}
+<br/><center>[[File:La Concorde.ogg]]</center>
 |capital = [[Libreville]]
-|latd=0 |latm=30 |latNS=N |longd=9 |longm=32 |longEW=E
-|largest_city = [[Libreville]]
-|government_type = Republic
-|leader_titles = [[President of Gabon|President]]<br />[[Prime Minister of Gabon|Prime Minister]]
-|leader_names = [[Omar Bongo]]<br />[[Jean Eyeghe Ndong]]
-|area_rank = 74th
-|area_magnitude = 1 E11
-|area= 267,667
-|areami²= 103,319 <!-- Do not remove per [[WP:MOSNUM]] -->
-|percent_water = Negligible
-|population_estimate = 1,389,201 
-|population_estimate_rank = 152nd
-|population_estimate_year = July 2005
-|population_census = 
-|population_census_year = 
-|population_density = 5.2
-|population_densitymi² =13.4 <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 183rd
-|GDP_PPP = $8.031 billion
-|GDP_PPP_rank = 145th
-|GDP_PPP_year= 2005
-|GDP_PPP_per_capita = $5,800
-|GDP_PPP_per_capita_rank = 84th
-|sovereignty_type = [[Independence]]
-|established_events = From [[France]]
-|established_dates = [[August 17]] [[1960]]
-|HDI = 	0.635
-|HDI_rank = 123rd
-|HDI_year = 2003
-|HDI_category = <span style="color:#fc0">medium</span>
-|currency = [[CFA franc]]
+|coordinates = {{Coord|0|23|N|9|27|E|type:city}}
+|largest_city = capital
+|official_languages = [[French language|French]]
+|languages_type = [[Vernacular|Vernacular languages]]
+|languages = {{hlist |[[Fang language|Fang]] |[[Myene language|Myene]]|[[Punu language|Punu]]|[[Nzebi language|Nzebi]]}}
+|demonym = {{unbulleted list |Gabonese |Gabonaise}}
+|ethnic_groups = 
+|ethnic_groups_year = 
+|government_type = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[presidential republic]]
+|leader_title1= [[Heads of state of Gabon|President]]
+|leader_name1= [[Ali Bongo Ondimba]]
+|leader_title2 = [[Heads of Government of Gabon|Prime Minister]]
+|leader_name2 = [[Julien Nkoghe Bekale]]
+|legislature = [[Parliament of Gabon|Parliament]]
+|upper_house = [[Senate (Gabon)|Senate]]
+|lower_house = [[National Assembly (Gabon)|National Assembly]]
+|area_km2 = 267,667
+|area_sq_mi = 103,347 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank = 76th
+|percent_water = 3.76%
+|population_estimate = {{UN_Population|Gabon}}{{UN_Population|ref}}
+|population_estimate_rank = 150th
+|population_estimate_year = {{UN_Population|Year}}
+|population_census = |population_census_year =
+|population_density_km2 = 5.5
+|population_density_sq_mi = 14.3 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 216th
+|GDP_PPP = $38.280 billion<ref name=imfga>{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=45&pr.y=14&sy=2018&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&c=646&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=Report for Selected Countries and Subjects |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=20 January 2019}}</ref>
+|GDP_PPP_rank =
+|GDP_PPP_year = 2018
+|GDP_PPP_per_capita = $18,647<ref name=imfga/>
+|GDP_PPP_per_capita_rank =
+|GDP_nominal = $17.212 billion<ref name=imfga/>
+|GDP_nominal_year = 2018
+|GDP_nominal_per_capita = $8,384<ref name=imfga/>
+|sovereignty_type = Independence from [[France]]
+|established_event1 = Granted
+|established_date1 = August 17, 1960
+|Gini_year = 2017
+|Gini_change =  <!--increase/decrease/steady--> 
+|Gini = 38 <!--number only--> 
+|Gini_ref = <ref>{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=GA |title=GINI index (World Bank estimate) |publisher=[[World Bank]] |website=data.worldbank.org |access-date=20 January 2019 |archive-url=https://web.archive.org/web/20190121010840/https://data.worldbank.org/indicator/SI.POV.GINI?locations=GA |archive-date=January 21, 2019 |url-status=live |df=mdy-all }}</ref>
+|Gini_rank =
+|HDI_year = 2018<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change = steady <!--increase/decrease/steady-->
+|HDI = 0.702 <!--number only-->
+|HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+|HDI_rank = 115th
+|currency = [[Central African CFA franc]]
 |currency_code = XAF
-|time_zone = 
+|time_zone = [[West Africa Time|WAT]]
 |utc_offset = +1
 |time_zone_DST = 
-|utc_offset_DST = 
+|utc_offset_DST =
+|drives_on = right
+|calling_code = [[+241]]
 |cctld = [[.ga]]
-|calling_code = 241
-|footnotes = 
 }}
-'''ګابن''' چې رسمي نوم یې '''د ګابن جمهوریت''' دی د [[مرکزي افريقا]] په لودیځ لور کې پروت هیواد دی. د ګابن پلازمینه [[لیبرویل ]] ښار او رسمی ژبه یې [[فرانسوي]] ده، یاد هیواد ۷۴۵'۲۶۷ کیلومتره مساحت او ۸۶۷'۴۵۴'۱ میلیونه وګړي لري. د پیسو واحد یې [[د مرکزي افریقا فرانک]] دی او په ۱۷ اګست ۱۹۶۰م کال یې له فرانسه نه خپلواکی ترلاسه کړی.
 
 ==تاریخ==
 ==کلتور==
