@@ -1,4 +1,4 @@
-'''فوني ژبه''' (فون ژبه) په [[انګلیسي]] Fulani) د لویدیځې او مرکزي افریقا په ۲۰ هیوادونو کې په مخلفو لهجو سره شتون لري. فولاني ژبه [[د نیجر کانګویي ژبو کورنۍ|د نیجر کانګویي ژبو]] له کورنۍ څخه ده.
+'''فوني ژبه''' (فون ژبه/فولا ژبه) په [[انګلیسي]] Fulani) د لویدیځې او مرکزي افریقا په ۲۰ هیوادونو کې په مخلفو لهجو سره شتون لري. فولاني ژبه د [[نیجر کانګویي ژبې|د نیجر کانګویي ژبو]] له کورنۍ څخه ده.
 {{Infobox language
 |name=فولا
 |altname=Fulani, Peul
@@ -11,7 +11,7 @@
 |speakers = ۲۵میلیونه ویونکي
 |date     = 2007
 |ref      = <ref>[[Nationalencyklopedin]] "Världens 100 största språk 2007" The World's 100 Largest Languages in 2007</ref>
-|familycolor=Niger-Congo
+|familycolor=نیجر-کانګویي ژبې
 |fam2=[[کانګویي-اتلانتیک ژبې]]
 |fam3=[[سنګامبیایي ژبې]]
 |fam4=فولا-سرر
@@ -19,10 +19,10 @@
 |iso1=ff
 |iso2=ful
 |iso3=ful
-|lc1=fuc|ld1=[[Pulaar language|Pulaar]] <small>(Senegambia, Mauritania)</small>
-|lc2=fuf|ld2=[[Pular language|Pular]] <small>(Guinea, Sierra Leone)</small>
-|lc3=ffm|ld3=[[Maasina Fulfulde]] <small>(Mali)</small>
-|lc4=fue|ld4=Borgu Fulfulde <small>(Benin, Togo)</small>
+|lc1=fuc|ld1=[[پولار ژبه]] <small>(Senegambia, Mauritania)</small>
+|lc2=fuf|ld2=[[پولار ژبه]] <small>(Guinea, Sierra Leone)</small>
+|lc3=ffm|ld3=[[ماسیا فولفلد]] <small>(Mali)</small>
+|lc4=fue|ld4=Borgu Fulfulde <small>(بنین, توګو)</small>
 |lc5=fuh|ld5=Western Niger <small>(Burkina, Niger)</small>
 |lc6=fuq|ld6=Central–Eastern Niger <small>(Niger)</small>
 |lc7=fuv|ld7=Nigerian Fulfulde <small>(Nigeria)</small>
@@ -31,6 +31,7 @@
 |glotto=fula1264
 |glottorefname=Fula
 }}
+
 ==ریښې==
 
 ==اوسنی وضیعت==
