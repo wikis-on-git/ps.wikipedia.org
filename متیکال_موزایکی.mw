@@ -1,21 +1,22 @@
 '''متیکال موزایکي''' په [[انګلیسي]]
 د [[موزمبیق]] هیواد د پیسو واحد دی.
-{{Infobox settlement
-| currency_name_in_local = native name|pt|Metical moçambicano|italics=no}}
+{{Infobox settlement 
+| currency_name_in_local = {{native name|pt|Metical moçambicano|italics=no}}
 | image_1 =
 | image_title_1 = Metical coins
 | iso_code = MZN
 | using_countries = {{MOZ}}
-| inflation_rate = ۱۱٫۲٪
-| inflation_source_date = ''[https://www.cia.gov/library/publications/the-world-factbook/fields/2092.html The World Factbook]'', 2008 est.
-| subunit_ratio_1 = ۱/۱۰۰
-| subunit_name_1 = [[سنتاوو]]
-| symbol = MT
-| used_coins = 50 centavos, 1, 2, 5, 10 meticais
+| inflation_rate = 2.3% {{clarify|date=November 2016}} <!-- that does not seem to mean anything -->
+| inflation_source_date = ''[https://www.cia.gov/library/publications/the-world-factbook/fields/2092.html The World Factbook]'', ''CIA'' (USA), 2014 est.
+| subunit_ratio_1 = 1/100
+| subunit_name_1 = [[centavo]]
+| symbol = MT, MTn
+| used_coins = 50 centavos, 1, 2, 5, 10 meticais 
 obsolete: 1, 5, 10, 20 centavos
-| used_banknotes = 20, 50, 100, 200, 500 meticais
-rarely used 1000 meticais
+| frequently_used_banknotes = 20, 50, 100, 200, 500 meticais
+| rarely_used_banknotes = 1000 meticais
 | issuing_authority = [[Banco de Moçambique]]
-| issuing_authority_website = {{URL|www.bancomoc
+| issuing_authority_website = {{URL|www.bancomoc.mz}}
+}}
 
 ==آرزښت==
