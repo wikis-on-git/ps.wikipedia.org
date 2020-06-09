@@ -1,6 +1,6 @@
 '''لیبیریا''' په [[انګلیسي]] Republic of Liberia) چې رسمي نوم یې '''د لایبیریا جمهوریت''' دی د [[افریقا]] په لویدیځ کې پروت یو هیواد دی. پلازمینه یې د [[مونروویا]] ښار او رسمی ژبه یې انګلیسي ده، لیبیریا ۳۶۹'۱۱۱ کیلومتره مساخت او ۰۰۰'۴۸۹'۳ میلیونه وګړي لري، د یاد هیواد د پیسو واحد [[د لیبریا ډالر]] دی (LRD).
 {{Infobox country
-| conventional_long_name = Republic of Liberia
+| conventional_long_name =  د لیبریا هیواد ولسمشریزه
 | common_name            = Liberia
 | image_flag             = Flag of Liberia.svg
 | image_coat             = Coat of arms of Liberia.svg
@@ -10,9 +10,9 @@
 | image_map2             = 
 | national_motto         = "The Love of Liberty Brought Us Here"
 | national_anthem        = ''[[All Hail, Liberia, Hail!]]''<br /><center>[[File:Liberia National Anthem.ogg]]</center>
-| official_languages     = [[English language|English]]
+| official_languages     = [[انګلیسي]]
 | languages_type         = Spoken and national languages<ref>{{cite web |editor1-first=M. Paul |editor1-last=Lewis |editor2-first=Gary F. |editor2-last=Simons |editor3-first=Charles D. |editor3-last=Fennig |year=2015 |title=Liberia |website=[[Ethnologue]] |edition=18th |location=Dallas, Texas |publisher=SIL International |url=http://www.ethnologue.com/country/lr/languages}}</ref>
-| languages              = {{hlist|[[Liberian English]]}}
+| languages              = {{hlist|[[لیبریایي انګلیسي]]}}
 | ethnic_groups          = {{unbulleted list
   | 20.3% [[Kpelle people|Kpelle]]
   | 13.4% [[Bassa people (Liberia)|Bassa]]
@@ -37,12 +37,12 @@
 }}
 | ethnic_groups_year     = 2008<ref name=CIA/>
 | religion               = {{unbulleted list
-  | 85.6% [[Christianity]]
-  | 12.2% [[Islam]] 
+  | 85.6% [[مسیحیت]]
+  | 12.2% [[اسلام]] 
   | 2.2% others<ref name=CIA/>
 }}
-| demonym                = Liberian
-| capital                = [[Monrovia]]
+| demonym                = لیبریانیان
+| capital                = [[مونرویا]]
 | coordinates            = {{Coord|6|19|N|10|48|W|type:city}}
 | largest_city           = Monrovia
 | government_type        = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[republic|constitutional republic]]
