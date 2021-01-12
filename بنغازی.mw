@@ -37,9 +37,9 @@
 |pushpin_map = Libya
 |pushpin_relief = yes
 | pushpin_map_caption = Location in Libya
-|subdivision_type       = Country
-|subdivision_name       = {{flag|Libya}}
-|subdivision_type1      = Region
+|subdivision_type       = هیواد
+|subdivision_name       = [[لیبیا]]
+|subdivision_type1      = سیمه
 |subdivision_name1      = [[Cyrenaica]]
 |subdivision_type2      = [[Districts of Libya|District]]
 |subdivision_name2      = Benghazi
@@ -51,7 +51,7 @@
 |government_footnotes   =
 |government_type        =
 |leader_title           = Mayor 
-|leader_name            = Abdelrahman Elabbar 
+|leader_name            = عبدالرحمان ال اببار 
 |leader_title1          =
 |leader_name1           =
 |leader_title2          =
@@ -104,8 +104,8 @@
 |population_density_blank1_sq_mi =
 |population_demonym = Benghazian
 <!-- General information  --------------->
-|timezone               = [[Eastern European Time|EET]]
-|utc_offset             = +2
+|timezone               = [[د ختیځې اروپا وخت|وخت]]
+|utc_offset             = +۲
 |coordinates            = {{coord|32|07|N|20|04|E|region:LY|display=inline}}
 |elevation_footnotes    =<ref name=wolfram>{{cite web|url=http://www.wolframalpha.com/input/?i=Benghazi|title=Wolfram-Alpha: Computational Knowledge Engine|access-date=30 November 2016}}</ref>
 |elevation_m            = 2
@@ -113,7 +113,7 @@
 <!-- Area/postal codes & others -------->
 |postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
 |postal_code            =
-|area_code              = (+218) 61
+|area_code              = (+۲۱۸) ۶۱
 |blank_name             =
 |blank_info             =
 |blank1_name            =
