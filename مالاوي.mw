@@ -1,6 +1,6 @@
 '''مالاوې''' په رسمي توګه '''د مالاوي هیواد ولسمشریزه''' ده چې په [[سوېل ختیځه افريقا|سویل ختیځې افریقا]] کې په وچې پورې تړلی هیواد دی. پلازمینه یې د [[لیلونګوه]] ښار او رسمي ژبه یې انګلیسي ده. یاد هیواد ۴۸۴'۱۱۸ کیلومتره مربع مساحت او ۵۷۵'۰۹۱'۱۸ میلیونه وګړي لري. مالاوی په ۶ ږم د جون ۱۹۶۴م کال له بریتانیا خپله خپلواکي تر لاسه کړه.
  {{Infobox country
-| conventional_long_name = Republic of Malawi
+| conventional_long_name =  د مالاوي هیواد ولسمشریزه 
 | common_name            = د مالاوي هیواد ولسمشریزه
 | native_name            = {{nowrap|{{lang|ny|Dziko la Malaŵi}}}} ([[Chewa language|Chichewa]])<br>{{nowrap|{{lang|ny|Charu cha Malaŵi}}}} ([[Tumbuka language|Chitumbuka]])
 | image_flag             = Flag of Malawi.svg
@@ -8,7 +8,7 @@
 | national_motto         = "Unity and Freedom"
 | national_anthem        = {{native name|ny|[[Mulungu dalitsani Malaŵi]]|nolink=yes}}<br />({{Lang-en|"O God Bless Our Land of Malawi"}}){{lower|0.1em|<ref>{{cite web |url=http://www.lyricsondemand.com/miscellaneouslyrics/nationalanthemslyrics/malawinationalanthemlyrics.html |title=Malawi National Anthem Lyrics |work=National Anthem Lyrics |publisher=Lyrics on Demand |access-date=24 August 2008 |archive-url=https://web.archive.org/web/20110510015032/http://www.lyricsondemand.com/miscellaneouslyrics/nationalanthemslyrics/malawinationalanthemlyrics.html |archive-date=10 May 2011 |url-status=dead }}</ref>}}<br /><center>[[File:Malawian national anthem.oga]]</center>
 | image_map              = File:Malawi (orthographic projection).svg
-| map_caption            = Location of Malawi (شین)په سویلي افریقا کې [[افریقا]] کې
+| map_caption            = نقشه (شین رنګه)په سویلي افریقا کې [[افریقا]] کې
 | capital                = [[لیلونګوه]]
 | coordinates            = {{coord|13|57|S|33|42|E|type:city}}
 | largest_city           = [[لیلونګوه]]
@@ -23,21 +23,21 @@
   | [[لامبیا ژبه]]
  }}
 | ethnic_groups          = {{unbulleted list
-  | ۳۴.۴% [[Chewa people|چیوا]]
-  | ۱۸.۹% [[Lomwe people|لوموی]]
-  | ۱۳.۳% [[Yao people (East Africa)|یاو]]
-  | ۱۰.۴% [[Ngoni people|نګونئ]]
-  |  ۹.۲% [[Tumbuka people|تومبوکا]]
-  |  ۳.۸% [[Sena people|سنا]]
-  |  ۳.۲% [[Mang'anja people|مانګ انجا]]
-  |  ۱.۹% [[Nyanja people|نیانجا]]
-  |  1.۸% [[Tonga people of Malawi|تونګا]]
-  |  ۱.۰% [[Nyakyusa people|نګوندی]]
-  |  ۱.۶% [[Lambya people|لامبیا]]
-  |  ۱.۵% [[Sukwa people|سوکوا]]
+  | ۳۴.۴% [[چیوا]]
+  | ۱۸.۹% [[لوموی]]
+  | ۱۳.۳% [[یاو]]
+  | ۱۰.۴% [[نګونئ]]
+  |  ۹.۲% [[تومبوکا]]
+  |  ۳.۸% [[سنا]]
+  |  ۳.۲% [[مانګ انجا]]
+  |  ۱.۹% [[نیانجا]]
+  |  1.۸% [[تونګا]]
+  |  ۱.۰% [[نګوندی]]
+  |  ۱.۶% [[لامبیا]]
+  |  ۱.۵% [[سوکوا]]
   |  ۱.۰% نور
  }}
-| ethnic_groups_year     = 2018 Census<ref name="Census2018">{{cite web |url=http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf |title=2018 Population and Housing Census Main Report |publisher=Malawi National Statistical Office |access-date=25 December 2019}}</ref>
+| ethnic_groups_year     = ۲۰۱۸ شمیرنه<ref name="Census2018">{{cite web |url=http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf |title=2018 Population and Housing Census Main Report |publisher=Malawi National Statistical Office |access-date=25 December 2019}}</ref>
 | religion                = {{ublist |item_style=white-space:nowrap;
   |۷۷.۳% [[مسیحیت]]
   |—۳۳.۵% [[پروتستان]]
@@ -98,7 +98,7 @@
 | utc_offset             = +۲
 | utc_offset_DST         = 
 | time_zone_DST          = 
-| drives_on              = [[Right- and left-hand traffic|چپ]]
+| drives_on              = [[چپ]]
 | calling_code           = [[Telephone numbers in Malawi|+۲۶۵]]<ref name="BBC">{{cite news |url=http://news.bbc.co.uk/1/hi/world/africa/country_profiles/1068913.stm |title=Country profile: Malawi |publisher=[[BBC News]] |date=13 March 2008 |access-date=17 August 2008}}</ref>
 | cctld                  = [[.mw]]<ref name="BBC" />
 | footnotes              = * Population estimates for this country explicitly take into account the effects of excess mortality due to [[HIV/AIDS|AIDS]]; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.
