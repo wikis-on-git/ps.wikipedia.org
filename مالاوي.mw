@@ -1,7 +1,7 @@
 '''مالاوې''' په رسمي توګه '''د مالاوي هیواد ولسمشریزه''' ده چې په [[سوېل ختیځه افريقا|سویل ختیځې افریقا]] کې په وچې پورې تړلی هیواد دی. پلازمینه یې د [[لیلونګوه]] ښار او رسمي ژبه یې انګلیسي ده. یاد هیواد ۴۸۴'۱۱۸ کیلومتره مربع مساحت او ۵۷۵'۰۹۱'۱۸ میلیونه وګړي لري. مالاوی په ۶ ږم د جون ۱۹۶۴م کال له بریتانیا خپله خپلواکي تر لاسه کړه.
  {{Infobox country
 | conventional_long_name = Republic of Malawi
-| common_name            = Malawi
+| common_name            = د مالاوي هیواد ولسمشریزه
 | native_name            = {{nowrap|{{lang|ny|Dziko la Malaŵi}}}} ([[Chewa language|Chichewa]])<br>{{nowrap|{{lang|ny|Charu cha Malaŵi}}}} ([[Tumbuka language|Chitumbuka]])
 | image_flag             = Flag of Malawi.svg
 | image_coat             = Coat of Arms of the Republic of Malawi.svg
@@ -53,9 +53,9 @@
 | demonym                = [[Malawian]]
 | government_type        = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[constitutional republic]]
 | leader_title1          = [[ولسمشر]]
-| leader_name1           = [[Lazarus Chakwera]]
-| leader_title2          = [[Vice President of Malawi|Vice-President]]
-| leader_name2           = [[Saulos Chilima]]
+| leader_name1           = [[لازاروس چاورا]]
+| leader_title2          = [[لومړی وزیر]]
+| leader_name2           = [[ساولوس چیلیما]]
 | legislature            = [[ولسي جرګه]]
 | sovereignty_type       = History
 | established_event1     = خپلواکي له  [[بریتانیا]]
@@ -68,34 +68,34 @@
 | area_rank              = 98th<!-- Area rank should match List of countries and dependencies by area -->
 | area_sq_mi             = ۴۵,۷۴۷ <!--Do not remove per [[WP:MOSNUM]]-->
 | percent_water          = ۲۰.۶%
-| population_estimate    = {{increase}} 19,129,952<ref>{{cite web |url=https://population.un.org/wpp/ |title=World Population Prospects – Population Division – United Nations |website=population.un.org}}</ref>
+| population_estimate    = {{increase}} ۱۹,۱۲۹,۹۵۲<ref>{{cite web |url=https://population.un.org/wpp/ |title=World Population Prospects – Population Division – United Nations |website=population.un.org}}</ref>
 | population_census      = ۱۷,۵۶۳,۷۴۹<ref name="Census2018"/>
 | population_estimate_year = 2020
 | population_estimate_rank = 62nd
 | population_census_year = 2018
 | population_density_km2 = 153.1
-| population_density_sq_mi = 396.5 <!--Do not remove per [[WP:MOSNUM]]-->
-| population_density_rank = 56th
-| GDP_PPP                = $۲۵.۰۳۷ ترلیون
+| population_density_sq_mi = ۳۹۶.۵ <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = ۵۶th
+| GDP_PPP                = $۲۵.۰۳۷ ترلیونه
 | GDP_PPP_year           = ۲۰۱۹
 | GDP_PPP_per_capita     = $۱,۲۳۴<ref name="auto">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=62&pr.y=7&sy=2019&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=676&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a= |title=Report for Selected Countries and Subjects |website=www.imf.org}}</ref>
 | GDP_nominal            = $۷.۴۳۶ تریلیون
-| GDP_nominal_year       = 2019
-| GDP_nominal_per_capita = $367<ref name="auto"/>
-| Gini                   = 43.9 <!--number only-->
-| Gini_year              = 2010
+| GDP_nominal_year       = ۲۰۱۹
+| GDP_nominal_per_capita = $۳۶۷<ref name="auto"/>
+| Gini                   = ۴۳.۹ <!--number only-->
+| Gini_year              = ۲۰۱۰
 | Gini_change            = <!--increase/decrease/steady-->
 | Gini_ref               = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |access-date=2 March 2011}}</ref>
 | Gini_rank              = 
-| HDI                    = 0.483 <!--number only-->
-| HDI_year               = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI                    = ۰.۴۸۳ <!--number only-->
+| HDI_year               = ۲۰۱۹<!-- Please use the year to which the data refers, not the publication year-->
 | HDI_change             = decrease<!--increase/decrease/steady-->
 | HDI_ref                = <ref name="UNHDR">{{cite book |title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene |date=15 December 2020 |publisher=United Nations Development Programme |isbn=978-92-1-126442-5 |pages=343-346 |url=http://hdr.undp.org/sites/default/files/hdr2020.pdf |access-date=16 December 2020}}</ref>
-| HDI_rank               = 174th
+| HDI_rank               = ۱۷۴ټنه
 | currency               = [[Malawian kwacha|Kwacha]] (D)
 | currency_code          = MWK
-| time_zone              = [[Central Africa Time|CAT]]
-| utc_offset             = +2
+| time_zone              = [[د مرکزي افریقا وخت|وخت]]
+| utc_offset             = +۲
 | utc_offset_DST         = 
 | time_zone_DST          = 
 | drives_on              = [[Right- and left-hand traffic|left]]
