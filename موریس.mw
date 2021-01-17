@@ -1,4 +1,94 @@
 '''موریس''' په انګلیسي Republic of Mauritius رسمي نوم یي د موریس هیواد ولسمشریزه)  [[د هند سمندر]] سویل لویدیځ لورته د [[مداګاسکار]] په ۹۰۰ کیلومتری کې پروت له ګڼ شمیر ټاپوګانو جوړ هیواد دی. د [[موریس ټاپو]] ترڅنګ د یاد هیواد اړوند نور ټاپوګان هم شتون لرې لکه [[سنت برندون ټاپو|سنت برندون]]، [[رودریګوس ټاپو|رودریګوس]]، او [[آګاګاس ټاپو|اګاګاس]] ټاپوګان. د موریس هیواد مساحت ۰۴۰'۲ کیلومتره مربع د وګړو شمیر یې  ۸۶۶'۲۶۴'۱ تنه او رسمي ژبي یې [[انګلیسي]] او [[فرانسوي]] دي. د یاد هیواد پلازمینه د [[پورت لویس]] ښار دی.
+{{Infobox country
+| conventional_long_name = د موریس هیواد ولسمشریزه
+| native_name  = {{|{{native name|fr|République de Maurice}}|''Repiblik Moris'' {{small|([[Mauritian Creole|Morisien]])}}}}
+| common_name  = موریس
+| image_flag   = Flag of Mauritius.svg
+| image_coat   = Coat of arms of Mauritius (Original version).svg
+| image_map    = Mauritius (orthographic projection with inset).svg
+| map_caption  = Islands of the Republic of Mauritius (excluding Chagos Archipelago and Tromelin Island)
+| image_map2   = Mauritius (+claim islands).svg
+| map_caption2 = په تور رنګ کې د موریس ټاپوګان ښودل شوي؛  چاګوس او تروملین ټاپوګان د موریس د بحث لاندی دي.
+| national_motto     = {{Native name|la|"Stella Clavisque Maris Indici"|italics=off}}<ref>{{cite web|url=http://gis.govmu.org/English/About%20Mauritius/Pages/Coats-of-Arms.aspx |title=Government Information Service - Coat of Arms |publisher=www.govmu.org|accessdate=29 July 2019}}</ref>{{سخ}}{{small|"د هند سمندر ستوري"}}
+| national_anthem    = ''[[سرود ملی موریس]]''<div style="padding-top:0.5em;" class="center">[[دوتنه:Motherland_(instrumental).ogg]]</div>
+| capital            = [[پورت‌لویس]]
+| official_languages = ندارد {{small|(''[[دوژور]]'')}}<ref group=Note>The [[Constitution of Mauritius|Mauritian constitution]] makes no mention of an [[رسمي ژبه]]. The Constitution only mentions that the official language of the National Assembly is English; however, any member can also address the chair in French.</ref><ref name="language"/>
+| languages_type     = [[Languages of Mauritius|Languages spoken]]<ref group=Note>Language most often spoken at home, as per 2011 Census.</ref><ref name="2011census">{{cite journal|url=http://statsmauritius.govmu.org/English/CensusandSurveys/Documents/ESI/pop2011.pdf|publisher=Government Portal of Mauritius|title=2011 Population Census – Main Results|author=Statistics Mauritius|accessdate=11 November 2017|author-link=Statistics Mauritius}}</ref>
+| languages          = {{
+  | ۸۴٫۰٪ [[Mauritian Creole]]
+  | ۵٫۳٪ [[بوجپوري ژبه]]
+  | ۳٫۶٪ [[فرانسوي]]
+  | ۷٫۱٪ نورې
+}}
+| ethnic_groups      = '''<sup> [[Demographics of Mauritius#Ethnic groups|Ethnic groups in Mauritius]]</sup>'''
+| ethnic_groups_year =
+| religion                = {{ |item_style=white-space:nowrap;
+  |۴۸٫۵۴٪ [[هندویزم]]
+  |۳۲٫۷۱٪ [[مسیحیت]]
+  |—۲۶٫۲۶٪ [[کاتولیک]]
+  |—۶٫۴۵٪ سایر [[مسیحیت]]
+  |۱۷٫۳۰٪ [[اسلام]]
+  |۱٫۴۵٪ نور
+}}
+| religion_year                = سرشمېرنه ۲۰۱۱
+| religion_ref                =<ref>{{cite web |url=http://www.nsb.gov.sc/wp-content/uploads/2012/12/Population_and_Housing_Census_2010_Report.pdf |title=Archived copy |accessdate=2015-04-26 |url-status=dead |archiveurl=https://web.archive.org/web/20140514112130/http://www.nsb.gov.sc/wp-content/uploads/2012/12/Population_and_Housing_Census_2010_Report.pdf |archivedate=2014-05-14}}</ref>
+| coordinates        = | demonym            = [[Mauritian]]
+| largest_city       = [[پورت‌لویس]]
+| government_type  = [[حاکم دولت]] [[پارلماني ولسمشریزه]]
+| leader_title1    = [[ولسمشر]]
+| leader_name1     = [[پریتویراجسنګ]]
+| leader_title2    = [[‌لومړی وزیر]]
+| leader_name2     = [[پراوند جوګناوت]]
+| leader_title3    = [[د ملي جرګې رئیس]]
+| leader_name3     = سوروج دیو پوکر
+| legislature      = [[ولسي جرګه]]
+| sovereignty_type = [[خپلواکي]]
+| sovereignty_note = له [[بریتانیا]]
+| established_event1 = [[د موریس هیواد اساسي قانون]]
+| established_date1  = ۱۲ مارچ ۱۹۶۸
+| established_event2 = ولسمشریزه
+| established_date2  = ۱۲ مارچ ۱۹۹۲
+| area_rank     = ۱۷۰ام <!-- Should match [[د هیوادونو نوملړ]] -->
+| area_km2      = ۲۰۴۰
+| percent_water = ۰٫۰۷
+| population_estimate      = ۱٬۲۶۵٬۴۷۵<ref name="31 Dec 2019 Statistics">{{cite web|url=http://statsmauritius.govmu.org/English/Publications/Pages/Pop_Vital_Yr19.aspx |title=Population and Vital Statistics - Year 2019 |publisher=Statistics Mauritius |date=March 2020 |access-date=6 May 2020}}</ref>
+| population_estimate_rank = ۱۵۸ام
+| population_estimate_year = ۲۰۱۹
+| population_census        = ۱٬۲۳۷٬۰۹۱<ref name="2011census"/>
+| population_census_year   = ۲۰۱۱
+| population_density_km2   = ۶۱۸٫۲۴
+| population_density_sq_mi = ۱٬۶۰۲٫۵۵
+| population_density_rank  = ۱۰ام
+| GDP_PPP                     = $۳۱٫۷۰۵ بیلیونه<ref name="IMFWEOMU">{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=10&pr.y=10&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=684&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a= |title=World Economic Outlook Database, April 2019|publisher=[[د پیسو نړیوال صندوق]] |website=IMF.org |access-date=8 June 2019}}</ref>
+| GDP_PPP_rank                = ۱۳۳ام
+| GDP_PPP_year                = ۲۰۱۹
+| GDP_PPP_per_capita          = $۲۵٬۰۲۹<ref name="IMFWEOMU"/>
+| GDP_PPP_per_capita_rank     = ۶۱ام
+| GDP_nominal                 = $۱۴٫۸۱۲ بیلیون<ref name="IMFWEOMU"/>
+| GDP_nominal_year            = ۲۰۱۹
+| GDP_nominal_rank            = ۱۲۹ام
+| GDP_nominal_per_capita      = $11,693<ref name="IMFWEOMU"/>
+| GDP_nominal_per_capita_rank = ۶۴ام
+| Gini_year   = ۲۰۱۷
+| Gini_change = <!--increase/decrease/steady-->
+| Gini        = ۳۶٫۸
+| Gini_ref    =<ref>{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=MU |title=GINI index (World Bank estimate) - Mauritius |publisher=[[بانک جهانی]] |website=data.worldbank.org |access-date=1 July 2020}}</ref>
+| Gini_rank   =
+| HDI_year   = ۲۰۱۸<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase
+| HDI        = ۰٫۷۹۶
+| HDI_ref    =<ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr2019.pdf |title=2019 Human Development Report |year=2019 |accessdate=10 December 2019 |publisher=United Nations Development Programme}}</ref>
+| HDI_rank   = ۶۶ام
+| currency      = [[د موریس روپیه]]
+| currency_code = MUR
+| time_zone     = [[Mauritius Time|MUT]]
+| utc_offset    = +۴
+| date_format   = dd/mm/yyyy ([[وروسته له  میلاد نه]])
+| drives_on     = [[د موټر چلونې نړیوال لوری|چپ]]
+| calling_code  = [[+۲۳۰]]
+| cctld         = [[.mu]]
+}}
+
 ==ایداري وېش==
 
 ==تاریخ==
