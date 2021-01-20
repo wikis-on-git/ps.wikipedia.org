@@ -31,13 +31,13 @@
 |upper_house = [[مشرانو جرګه]]
 |lower_house = {{Nowrap|[[وکیلان]]}}
 |sovereignty_type = [[تاریخ]]
-|established_event1 = {{Nowrap|[[د مراکش ایداري وېش]] {{Small|(first)}}}}
+|established_event1 = {{Nowrap|[[د مراکش ایداري وېش]] {{Small|(اول)}}}}
 |established_date1 = ۷۸۸
 |established_event2 = {{Nowrap|[[Alaouite dynasty]] {{Small|(current)}}}}
 |established_date2 = ۱۶۳۱
 |established_event3 = {{Nowrap|[[History of Morocco#European influence|Protectorate established]]}}
 |established_date3 = ۳۰ مارچ ۱۹۱۲
-|established_event4 = {{Nowrap|[[History of Morocco#Independent Morocco: since 1956|Independence]]}}
+|established_event4 = {{Nowrap|[[History of Morocco#Independent Morocco: since ۱۹۵۶|خپلواکي]]}}
 |established_date4 = ۷ افریل ۱۹۵۶
 |area_km2 = ۷۱۰,۸۵۰
 |area_footnote = {{Nowrap|<br/>{{Raise|0.15em|or ۴۴۶,۵۵۰ km{{sup|2}}{{ref label|Territory|b|}}}}}}
@@ -62,26 +62,26 @@
 |Gini = ۴۰.۹ <!--number only-->
 |Gini_year = 2007
 |Gini_ref = <ref>{{cite web|url=http://data.worldbank.org/indicator/SI.POV.GINI/|title=World Bank GINI index}}</ref>
-|HDI = 0.647 <!--number only-->
+|HDI = ۰.۶۴۷ <!--number only-->
 |HDI_year = 2015<!-- Please use the year to which the data refers, not the publication year-->
 |HDI_change = increase <!--increase/decrease/steady-->
 |HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2016_statistical_annex.pdf |title=2016 Human Development Report |date=2016 |accessdate=4 April 2016 |publisher=United Nations Development Programme }}</ref>
-|HDI_rank = 123th
+|HDI_rank = ۱۲۳th
 |currency = [[Moroccan dirham]]
 |currency_code = MAD
-|time_zone = [[Greenwich Mean Time|GMT]]<ref>[http://www.mmsp.gov.ma/fr/actualites.aspx?id=395 L'horaire d'été (GMT+1) maintenu jusqu'au 27 octobre 2013], Ministère de la Fonction Publique et de la Modernisation de l'Administration. Retrieved 20 January 2017.</ref>
+|time_zone = [[نړیوال ساعت|ساعت]]<ref>[http://www.mmsp.gov.ma/fr/actualites.aspx?id=395 L'horaire d'été (GMT+۱) maintenu jusqu'au 27 octobre 2013], Ministère de la Fonction Publique et de la Modernisation de l'Administration. Retrieved 20 January 2017.</ref>
 |utc_offset = &#۸۲۸۸;<!--NOTE: Zero-width non-breaking space results in the infobox displaying "UTC" without a specified offset.-->
-|utc_offset_DST = +1
+|utc_offset_DST = +۱
 |time_zone_DST = [[نړیوال ساعت|وخت]]+۱ (DST suspended during [[رمضان]]) <ref>https://support.microsoft.com/en-us/help/4023136/2017-morocco-ramadan-dst-changes</ref>
-|drives_on = right
+|drives_on = ښوی
 |calling_code = [[+۲۱۲]]
 |cctld = [[.ma]]
 <!--Unused: | footnote_? = {{note|French}} ۱۳.۵% fluent, 
-۱۹.۵% partially fluent.<ref>"[http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf La Francophonie dans le monde]." ([https://www.webcitation.org/6BRfV7Jk3?url=http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf Archive]) ''[[Organisation Internationale de la Francophonie]]''. p. 16. Retrieved 15 October 2012.</ref>-->
+۱۹.۵% partially fluent.<ref>"[http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf La Francophonie dans le monde]." ([https://www.webcitation.org/6BRfV7Jk3?url=http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf Archive]) ''[[د دې  لا فرانکوپهوني نړیوال سازمان]]''. p. ۱۶. Retrieved ۱۵ اکتوبر 2012.</ref>-->
 |footnote_a = {{note|Official religion}} [[دین]].
-|footnote_b = {{note|Territory}} The area {{Convert|446550|km2|abbr=on}} excludes all disputed territories, while {{Convert|710850|km2|abbr=on}} includes the Moroccan-administered parts of [[Western Sahara]] (claimed as the [[دیمکراتیکه ولسمشریزه]] by the [[Polisario Front]]).
-|religion = [[اسلام]]    {{ref label|Official religion|a|}} <small>(official)</small><ref>{{cite web|title=Morocco in CIA World Factbook |url=https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html|website=CIA.gov}}</ref>
-|area_magnitude = 1_E10
+|footnote_b = {{note|Territory}} The area {{Convert|446550|km2|abbr=on}} excludes all disputed territories, while {{Convert|710850|km2|abbr=on}} includes the Moroccan-administered parts of [[ختیځه صحرا]] (claimed as the [[دیمکراتیکه ولسمشریزه]] by the [[Polisario Front]]).
+|religion = [[اسلام]]    {{ref label| رسمي دین|a|}} <small>(official)</small><ref>{{cite web|title=Morocco in CIA World Factbook |url=https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html|website=CIA.gov}}</ref>
+|area_magnitude = ۱_E۱۰
 |population_rank = 
 }}
 
