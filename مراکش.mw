@@ -43,8 +43,8 @@
 |area_footnote = {{Nowrap|<br/>{{Raise|0.15em|or ۴۴۶,۵۵۰ km{{sup|2}}{{ref label|Territory|b|}}}}}}
 |area_rank = ۴۰th or ۵۷th <!-- Area rank should match [[ساحه اساسیندا اؤلکه‌لر]] -->
 |area_sq_mi = ۲۷۴,۴۶۰ sq mi<!--Do not remove per [[WP:MOSNUM]]-->{{Nowrap|<br/>{{Raise|0.15em|or ۱۷۲,۴۱۳ {{ref label|Territory|b|}}}}}}
-|percent_water = {{Nowrap|0.056 {{Small|(250 km{{sup|2}})}}}}
-|population_census = ۳,۸۴۸,۲۴۲<ref>{{cite web |url=http://www.hcp.ma/Note-sur-les-premiers-resultats-du-Recensement-General-de-la-Population-et-de-l-Habitat-۲۰۱۴_a1516.html |title=Note sur les premiers résultats du Recensement Général de la Population et de l’Habitat 2014 |year=2015 |publisher=[[Haut Commissariat au Plan|HCP]] |accessdate=22 December 2015}}</ref>
+|percent_water = {{Nowrap|۰.۰۵۶ {{Small|(۲۵۰ km{{sup|2}})}}}}
+|population_census = ۳,۸۴۸,۲۴۲<ref>{{cite web |url=http://www.hcp.ma/Note-sur-les-premiers-resultats-du-Recensement-General-de-la-Population-et-de-l-Habitat-۲۰۱۴_a1۱۵۱۶.html |title=Note sur les premiers résultats du Recensement Général de la Population et de l’Habitat 2014 |year=۲۰۱۵ |publisher=[[Haut Commissariat au Plan|HCP]] |accessdate=22 December ۲۰۱۵}}</ref>
 |population_census_year = 1 September 2014
 |population_density_km2 = ۷۳.۱
 |population_density_sq_mi = ۱۸۹.۳ <!--Do not remove per [[WP:MOSNUM]]-->
@@ -55,7 +55,7 @@
 |GDP_PPP_per_capita = $۸,۳۳۰<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP-per-capita-PPP-based|title=Morocco – GDP per capita (PPP based)|work=Knoema}}</ref> <!--Do not edit!-->
 |GDP_PPP_per_capita_rank = 
 |GDP_nominal = $۱۰۳.۶۲&nbsp;بیلیونه<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP|title=Morocco – GDP|work=Knoema}}</ref> <!--Do not edit!-->
-|GDP_nominal_year = 2016
+|GDP_nominal_year = ۲۰۱۶
 |GDP_nominal_rank = 
 |GDP_nominal_per_capita = $۳,۰۶۳<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP-per-capita|title=Morocco – GDP per capita|work=Knoema}}</ref><!--Do not edit!-->
 |GDP_nominal_per_capita_rank = 
@@ -63,11 +63,11 @@
 |Gini_year = 2007
 |Gini_ref = <ref>{{cite web|url=http://data.worldbank.org/indicator/SI.POV.GINI/|title=World Bank GINI index}}</ref>
 |HDI = ۰.۶۴۷ <!--number only-->
-|HDI_year = 2015<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_year = ۲۰۱۵<!-- Please use the year to which the data refers, not the publication year-->
 |HDI_change = increase <!--increase/decrease/steady-->
-|HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2016_statistical_annex.pdf |title=2016 Human Development Report |date=2016 |accessdate=4 April 2016 |publisher=United Nations Development Programme }}</ref>
+|HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_۲۰۱۶_statistical_annex.pdf |title=۲۰۱۶ Human Development Report |date=۲۰۱۶ |accessdate=4 April ۲۰۱۶ |publisher=United Nations Development Programme }}</ref>
 |HDI_rank = ۱۲۳th
-|currency = [[Moroccan dirham]]
+|currency = [[د مراکش درهم]]
 |currency_code = MAD
 |time_zone = [[نړیوال ساعت|ساعت]]<ref>[http://www.mmsp.gov.ma/fr/actualites.aspx?id=395 L'horaire d'été (GMT+۱) maintenu jusqu'au 27 octobre 2013], Ministère de la Fonction Publique et de la Modernisation de l'Administration. Retrieved 20 January 2017.</ref>
 |utc_offset = &#۸۲۸۸;<!--NOTE: Zero-width non-breaking space results in the infobox displaying "UTC" without a specified offset.-->
