@@ -1,4 +1,148 @@
 '''نیمیبیا''' چې په رسمي توګه '''د نامیبیا ولسمشریزه''' ده د [[افریقا]] په سویل ختیځ کې پروت یو هیواد دی. پلازمینه یې [[ویندهوک]] رسمی ژبه [[انګلیسي]] او مساحت یې ۴۱۸'۸۲۵ کیلومتره مربع دی. نامیبیا ۰۷۷'۱۱۳'۲ میلیونه وګړي د پیسو واحد یې [[د نامیبیا ډالر]] (NAD) دی او په ۲۱ د مارچ ۱۹۹۰م کال له [[سویلي افریقا]] نه خپلواکی ترلاسه کړی.
+ {{Infobox country
+| conventional_long_name = Republic of Namibia
+| common_name            = Namibia
+| native_name            = {{collapsible list
+  |titlestyle = background:transparent;text-align:center;line-height:normal;font-size:85%;
+  |title = Name in national languages
+| {{Infobox
+| subbox=yes
+| bodystyle=font-size:78%;font-weight:normal;
+| rowclass1 = mergedrow
+| label1 = [[Afrikaans]]:
+| data1  = {{lang|af|Republiek van Namibië}}<ref>{{cite web |url=http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Afrikaans.pdf |title=Communal Land Reform Act, Afrikaans |publisher=Government of Namibia |access-date=18 February 2016 |archive-url=https://web.archive.org/web/20160225105003/http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Afrikaans.pdf |archive-date=25 February 2016 |url-status=dead}}</ref>
+| rowclass2 = mergedrow 
+| label2 = [[German language|German]]:
+| data2  = {{lang|de|Republik Namibia}}<ref>{{cite web |url=http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/land-Reform/Communal_Land_Reform_Act_German.pdf |title=Communal Land Reform Act, German |publisher=Government of Namibia. |access-date=18 February 2016 }}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| rowclass3 = mergedrow 
+| label3 = [[Khoekhoe language|Khoekhoegowab]]:
+| data3  = {{lang|naq|Namibiab Republiki dib}}<ref>{{cite web |url=http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Nama.pdf |title=Communal Land Reform Act, Khoekhoegowab |publisher=Government of Namibia |access-date=18 February 2016 |archive-url=https://web.archive.org/web/20160225104943/http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Nama.pdf |archive-date=25 February 2016 |url-status=dead}}</ref>
+| rowclass4 = mergedrow 
+| label4 = [[Herero language|Otjiherero]]:
+| data4  = {{lang|hz|Orepublika yaNamibia}}<ref>{{cite web |url=http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Herero.pdf |title=Communal Land Reform Act, Otjiherero |publisher=Government of Namibia |access-date=18 February 2016 }}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| rowclass5 = mergedrow 
+| label5 = [[Ovambo language|Oshiwambo]]:
+| data5  = {{lang|kj|Orepublika yaNamibia}}<ref>{{cite web |url=http://baslerafrika.ch/wp-content/uploads/Neuerwerbungsliste-2013.pdf |title=Communal Land Reform Act, Oshiwambo |publisher=Government of Namibia |access-date=18 February 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160301124906/http://baslerafrika.ch/wp-content/uploads/Neuerwerbungsliste-2013.pdf |archive-date=1 March 2016}}</ref>
+| rowclass6 = mergedrow 
+| label6 = [[Kwangali language|RuKwangali]]:
+| data6  = {{lang|kwn|Republika zaNamibia}}<ref>{{cite web |url=http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Rukwangali.pdf |title=Communal Land Reform Act, Rukwangali |publisher=Government of Namibia |access-date=18 February 2016 |archive-url=https://web.archive.org/web/20160225104955/http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Rukwangali.pdf |archive-date=25 February 2016 |url-status=dead}}</ref>
+| rowclass7 = mergedrow 
+| label7 = [[Tswana language|Setswana]]:
+| data7  = {{lang|tn|Rephaboliki ya Namibia}}<ref>{{cite web |url=http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Setswana.pdf |title=Communal Land Reform Act, Setswana |publisher=Government of Namibia |access-date=18 February 2016 |archive-url=https://web.archive.org/web/20160225105008/http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Setswana.pdf |archive-date=25 February 2016 |url-status=dead}}</ref>
+| rowclass8 = mergedrow 
+| label8 = [[Lozi language|siLozi]]:
+| data8  = {{lang|loz| Namibia ye Lukuluhile}}<ref>{{cite web |url=http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Lozi.pdf |title=Communal Land Reform Act, Lozi |publisher=Government of Namibia |access-date=18 February 2016 |archive-url=https://web.archive.org/web/20160225104949/http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Lozi.pdf |archive-date=25 February 2016 |url-status=dead}}</ref>
+}}
+}}
+| image_flag = Flag of Namibia.svg
+| image_coat = Coat of Arms of Namibia.svg
+| national_motto = "Unity, Liberty, Justice"
+| national_anthem = "[[Namibia, Land of the Brave]]"
+<div style="padding-top:0.5em;"><center>[[File:Namibian national anthem, performed by the United States Navy Band.oga]]</center></div>
+| image_map = {{Switcher|[[File: Namibia (orthographic projection).svg|frameless]]|Show globe|[[File:Location Namibia AU Africa.svg|upright=1.15|frameless]]|Show map of Africa|default=1}}
+| map_caption = 
+| capital = [[Windhoek]]
+| coordinates = {{Coord|22|34|S|17|5|E|type:city_region:NA}}
+| largest_city = capital
+| official_languages = [[English language|English]]
+| national_languages = {{unbulleted list
+|[[Afrikaans]]
+|[[German language|German]]
+|[[Herero language|Otjiherero]]
+|[[Khoekhoe language|Khoekhoegowab]]
+|[[Oshiwambo]]
+|[[Kwangali language|RuKwangali]]
+|[[Tswana language|Setswana]]
+|[[Lozi language|siLozi]]
+}}
+| regional_languages = {{unbulleted list 
+| [[!Kung language|!Kung]]
+| [[Gciriku language|Gciriku]]
+| [[Mbukushu language|Thimbukushu]]
+}}
+| ethnic_groups = {{unbulleted list
+| 49.5% [[Ovambo people|Ovambo]]
+| 9.2% [[Kavango people|Kavango]]
+| 8.0% [[Coloured people in Namibia|Coloureds]] (including [[Baster]]s)
+| 7.0% [[Herero people|Herero]]
+| 7.0% [[Damara (people)|Damara]]
+| 7.0% [[White Namibians|Whites]]
+| 4.7% [[Nama people|Nama]]
+| 3.5% [[Lozi people|Lozi]] (Caprivian)
+| 3.0% [[San people|San]]
+| 0.6% [[Tswana people|Tswana]]
+| 0.5% Others
+}}
+| ethnic_groups_year = 2014
+| religion                = {{ublist |item_style=white-space:nowrap;
+  |87.9% [[Christianity]]
+  |—43.7% [[Lutheranism]]
+  |—22.8% [[Catholicism]]
+  |—21.4% Other [[List of Christian denominations|Christian]]
+  |10.2% [[African Traditional Religion|Traditional faiths]]
+  |1.6% [[Irreligion|No religion]]
+  |0.3% Others}}
+| religion_year                = 2013
+| religion_ref                = <ref>{{Cite web | title=Namibia Demographic and Health Survey 2013 | publisher=The Namibia Ministry of Health and Social Services (MoHSS) and ICF International | date=September 2014 | url=https://dhsprogram.com/pubs/pdf/FR298/FR298.pdf}}</ref>
+| demonym = Namibian
+|government_type = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[Semi-presidential system|semi-presidential]] [[republic]]<ref name="Draft" /><ref name="Dual" />
+| leader_title1 = [[President of Namibia|President]]
+| leader_name1 = [[Hage Geingob]]
+| leader_title2 = [[Vice President of Namibia|Vice President]]
+| leader_name2 = [[Nangolo Mbumba]]
+| leader_title3 = [[Prime Minister of Namibia|Prime Minister]]
+| leader_name3 = [[Saara Kuugongelwa-Amadhila]]
+| leader_title4 = [[Deputy Prime Minister]]
+| leader_name4 = [[Netumbo Nandi-Ndaitwah]]
+| leader_title5 = [[Chief Justice of Namibia|Chief Justice]]
+| leader_name5 = [[Peter Shivute]]
+| legislature = [[Parliament of Namibia|Parliament]]
+| upper_house = [[National Council (Namibia)|National Council]]
+| lower_house = [[National Assembly (Namibia)|National Assembly]]
+| sovereignty_type = Independence from [[South Africa]]
+| established_event1 = [[Constitution of Namibia|Constitution]]
+| established_date1 = 9 February 1990
+| established_event2 = Independence
+| established_date2 = 21 March 1990
+| area_km2 = 825,615
+| area_rank = 34th
+| area_sq_mi = 318,696 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = negligible
+| population_estimate = 2,746,745<ref name=geo>{{cite web |url=http://countrymeters.info/en/Namibia |title=CountryMeters&nbsp;– Namibia population |publisher=CountryMeters
+|access-date=7 February 2018}}</ref>
+| population_census = 2,113,077<ref>{{cite web |url=https://cms2.my.na/assets/documents/p19dmlj9sm1rs138h7vb5c2aa91.pdf |title=Census data |website=cms2.my.na |access-date=2020-10-01}}</ref>
+| population_estimate_year = 2020
+| population_estimate_rank = 143rd
+| population_census_year = 2011
+| population_density_km2 = 3.2
+| population_density_sq_mi = 6.6 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 235th
+| GDP_PPP = $27.505 billion<ref name="imfna">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=49&pr.y=11&sy=2017&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&c=728&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=Report for Selected Countries and Subjects |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=20 January 2019}}</ref>
+| GDP_PPP_year = 2018
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $11,516<ref name=imfna/>
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = $14.148 billion<ref name=imfna/>
+| GDP_nominal_year = 2018
+| GDP_nominal_per_capita = $5,923<ref name=imfna/>
+| Gini = 59.1 <!-- number only -->
+| Gini_year = 2015
+| Gini_change = <!-- increase/decrease/steady -->
+| Gini_ref = <ref>{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=NA |title=GINI index (World Bank estimate) |publisher=[[World Bank]] |website=data.worldbank.org |access-date=20 January 2019}}</ref>
+| Gini_rank = 
+| HDI = 0.646 <!-- number only -->
+| HDI_year = 2019 <!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change = increase <!-- increase/decrease/steady -->
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|title=Human Development Report 2020|language=en|publisher=[[United Nations Development Programme]]|date=December 15, 2020|access-date=December 15, 2020}}</ref>
+| HDI_rank = 130th
+| currency = [[Namibian dollar]] <br /> (NAD) <br /> [[South African rand]] (ZAR)
+| time_zone = [[Central Africa Time|CAST]]
+| utc_offset = +2
+| drives_on = [[Right- and left-hand traffic#Left-hand traffic|left]]
+| calling_code = [[+264]]
+| cctld = [[.na]]
+| footnote_a =
+|today=}}
 
 ==تاریخ==
 ==کلتور==
