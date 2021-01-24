@@ -1,6 +1,6 @@
 '''نیمیبیا''' چې په رسمي توګه '''د نامیبیا ولسمشریزه''' ده د [[افریقا]] په سویل ختیځ کې پروت یو هیواد دی. پلازمینه یې [[ویندهوک]] رسمی ژبه [[انګلیسي]] او مساحت یې ۴۱۸'۸۲۵ کیلومتره مربع دی. نامیبیا ۰۷۷'۱۱۳'۲ میلیونه وګړي د پیسو واحد یې [[د نامیبیا ډالر]] (NAD) دی او په ۲۱ د مارچ ۱۹۹۰م کال له [[سویلي افریقا]] نه خپلواکی ترلاسه کړی.
  {{Infobox country
-| conventional_long_name = Republic of Namibia
+| conventional_long_name =  د نامیبیا هیواد ولسمشریزه
 | common_name            = Namibia
 | native_name            = {{collapsible list
   |titlestyle = background:transparent;text-align:center;line-height:normal;font-size:85%;
@@ -41,66 +41,66 @@
 <div style="padding-top:0.5em;"><center>[[File:Namibian national anthem, performed by the United States Navy Band.oga]]</center></div>
 | image_map = {{Switcher|[[File: Namibia (orthographic projection).svg|frameless]]|Show globe|[[File:Location Namibia AU Africa.svg|upright=1.15|frameless]]|Show map of Africa|default=1}}
 | map_caption = 
-| capital = [[Windhoek]]
+| capital = [[ویندهوک]]
 | coordinates = {{Coord|22|34|S|17|5|E|type:city_region:NA}}
 | largest_city = capital
-| official_languages = [[English language|English]]
+| official_languages = [[انګلیسي]]
 | national_languages = {{unbulleted list
-|[[Afrikaans]]
-|[[German language|German]]
-|[[Herero language|Otjiherero]]
-|[[Khoekhoe language|Khoekhoegowab]]
+|[[افریکانس]]
+|[[الماني]]
+|[[هیریرو ژبه]]
+|[[خوی خوی ژبه]]
 |[[Oshiwambo]]
-|[[Kwangali language|RuKwangali]]
-|[[Tswana language|Setswana]]
-|[[Lozi language|siLozi]]
+|[[کوانګالي ژبه]]
+|[[تسوانیایي ژبه]]
+|[[لوزي ژبه]]
 }}
 | regional_languages = {{unbulleted list 
-| [[!Kung language|!Kung]]
-| [[Gciriku language|Gciriku]]
-| [[Mbukushu language|Thimbukushu]]
+| [[!کونګ ژبه]]
+| [[ګکریکو ژبه]]
+| [[مبوکوشو ژبه]]
 }}
 | ethnic_groups = {{unbulleted list
-| 49.5% [[Ovambo people|Ovambo]]
-| 9.2% [[Kavango people|Kavango]]
-| 8.0% [[Coloured people in Namibia|Coloureds]] (including [[Baster]]s)
-| 7.0% [[Herero people|Herero]]
-| 7.0% [[Damara (people)|Damara]]
-| 7.0% [[White Namibians|Whites]]
-| 4.7% [[Nama people|Nama]]
-| 3.5% [[Lozi people|Lozi]] (Caprivian)
-| 3.0% [[San people|San]]
-| 0.6% [[Tswana people|Tswana]]
-| 0.5% Others
+| ۴۹.۵% [[وامبو خلک]]
+| ۹.۲% [[کوانګو خلک]]
+| ۸.۰% [[کولورډ خلک]])
+| ۷.۰% [[هیریرو خلک]]
+| ۷.۰% [[دامارا]]
+| ۷.۰% [[نامیبیایي سپین پوستان]]
+| ۴.۷% [[ناما]]
+| ۳.۵% [[لوزي]]
+| ۳.۰% [[سان]]
+| ۰.۶% [[تسوانا خلک]]
+| ۰.۵% نور
 }}
 | ethnic_groups_year = 2014
 | religion                = {{ublist |item_style=white-space:nowrap;
-  |87.9% [[Christianity]]
-  |—43.7% [[Lutheranism]]
-  |—22.8% [[Catholicism]]
-  |—21.4% Other [[List of Christian denominations|Christian]]
-  |10.2% [[African Traditional Religion|Traditional faiths]]
-  |1.6% [[Irreligion|No religion]]
-  |0.3% Others}}
-| religion_year                = 2013
+  |۸۷.۹% [[مسیحیت]]
+  |—۴۳.۷% [[لوترانیزم]]
+  |—۲۲.۸% [[کاتولیک]]
+  |—۲۱.۴%  [[نور میحیان]]
+  |۱۰.2% [[سیمه ییزه افریقایي دینونه]]
+  |۱.۶% [[بي دیني]]
+  |۰.۳% نور}}
+| religion_year                = ۲۰۱۳
 | religion_ref                = <ref>{{Cite web | title=Namibia Demographic and Health Survey 2013 | publisher=The Namibia Ministry of Health and Social Services (MoHSS) and ICF International | date=September 2014 | url=https://dhsprogram.com/pubs/pdf/FR298/FR298.pdf}}</ref>
 | demonym = Namibian
 |government_type = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[Semi-presidential system|semi-presidential]] [[republic]]<ref name="Draft" /><ref name="Dual" />
-| leader_title1 = [[President of Namibia|President]]
-| leader_name1 = [[Hage Geingob]]
-| leader_title2 = [[Vice President of Namibia|Vice President]]
-| leader_name2 = [[Nangolo Mbumba]]
-| leader_title3 = [[Prime Minister of Namibia|Prime Minister]]
-| leader_name3 = [[Saara Kuugongelwa-Amadhila]]
-| leader_title4 = [[Deputy Prime Minister]]
-| leader_name4 = [[Netumbo Nandi-Ndaitwah]]
-| leader_title5 = [[Chief Justice of Namibia|Chief Justice]]
-| leader_name5 = [[Peter Shivute]]
-| legislature = [[Parliament of Namibia|Parliament]]
-| upper_house = [[National Council (Namibia)|National Council]]
-| lower_house = [[National Assembly (Namibia)|National Assembly]]
-| sovereignty_type = Independence from [[South Africa]]
-| established_event1 = [[Constitution of Namibia|Constitution]]
+| leader_title1 = [[ولسمشر]]
+| leader_name1 = [[هاګ ګانګوب]]
+| leader_title2 = [[لومړی مرستیال]]
+| leader_name2 = [[نانګولو مبومبا]]
+| leader_title3 = [[لومړی وزیر]]
+| leader_name3 = [[سارا کوګینګلوا-اماهیلا]]
+| leader_title4 = [[د لومړی وزیر مرستیال]]
+| leader_name4 = [[ناتومبو ناندی-ندایتوا]]
+| leader_title5 = [[څارنوال]]
+| leader_name5 = [[پتر شیوت]]
+| legislature = [[ولسي جرګه]]
+| upper_house = [[مشرانو جرګه]]
+| lower_house = [[ملي شورا]]
+| sovereignty_type = خپلواکي له [[سویلي افریقا]]
+| established_event1 = [[د نامیبیا اساسي قانون]]
 | established_date1 = 9 February 1990
 | established_event2 = Independence
 | established_date2 = 21 March 1990
