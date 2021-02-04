@@ -11,8 +11,8 @@
 |national_motto = {{Native name|pt|"Unidade, Disciplina, Trabalho"|italics=off|nolink=on}}{{سخ}}{{small|"Unity, Discipline, Labour"}}
 |national_anthem = ''[[Independência total]]''{{سخ}}{{small|''Total Independence''}}{{سخ}}<div style="padding-top:0.5em;" class="center">[[دوتنه:Independência total (instrumental).ogg]]</div>
 |official_languages = [[پرتګالي ژبه]]
-|regional_languages = {{|[[Forro language|Forro]] |[[Angolar language|Angolar]] |[[Principense language|Principense]]}}
-|demonym = {{|{{nowrap|São Toméan {{small|(Sao Tomean)}}<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2110.html#tp |title=Nationality |work=[[د هیوادونو نوملړ]] |accessdate=July 17, 2012 |archive-url=https://web.archive.org/web/20150626165447/https://www.cia.gov/library/publications/the-world-factbook/fields/2110.html#tp |archive-date=June 26, 2015 |url-status=dead}}</ref>}} |Santomean}}
+|سیمه ییزې ژبې = {{|[[فورو ژبه]] |[[انګولار ژبه]] |[[پریسیپس ژبه]]}}
+|demonym = {{|{{nowrap|سایو تومیان {{small|(ساو تومیان)}}<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2110.html#tp |title=Nationality |work=[[د هیوادونو نوملړ]] |accessdate=July 17, 2012 |archive-url=https://web.archive.org/web/20150626165447/https://www.cia.gov/library/publications/the-world-factbook/fields/2110.html#tp |archive-date=June 26, 2015 |url-status=dead}}</ref>}} |Santomean}}
 |capital = [[سایوتومه]]
 |coordinates = {{Coord|0|20|N|6|44|E|type:city}}
 |largest_city = پلازمینه
@@ -25,7 +25,7 @@
 |sovereignty_type = خپلواکي
 |established_event1 = له [[پرتګال]]
 |established_date1 = ۱۲ جون ۱۹۷۵
-|area_km2 = 1001<ref>{{cite web |url=http://www.mnec.gov.st/index.php/o-pais |title=Ministério Dos Negócios Estrangeiros e Comunidades da República Democrática de São Tomé e Príncipe |access-date=2017-11-10 |archive-url=https://web.archive.org/web/20190308080858/http://www.mnec.gov.st/index.php/o-pais |archive-date=2019-03-08 |url-status=dead}}</ref>
+|area_km2 = ۱۰۰۱<ref>{{cite web |url=http://www.mnec.gov.st/index.php/o-pais |title=Ministério Dos Negócios Estrangeiros e Comunidades da República Democrática de São Tomé e Príncipe |access-date=2017-11-10 |archive-url=https://web.archive.org/web/20190308080858/http://www.mnec.gov.st/index.php/o-pais |archive-date=2019-03-08 |url-status=dead}}</ref>
 |area_sq_mi = ۳۷۲
 |area_rank = ۱۷۱ام
 |area_magnitude =
@@ -54,18 +54,18 @@
 |HDI_change = increase<!--increase/decrease/steady-->
 |HDI = ۰٫۶۰۹ <!--number only-->
 |HDI_ref =<ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf |title=2016 Human Development Report |date=2016 |accessdate=21 March 2017 |publisher=United Nations Development Programme |archive-url=https://web.archive.org/web/20170825175902/http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf |archive-date=25 August 2017 |url-status=live}}</ref>
-|HDI_rank = 137th
-|currency = [[دبرای سایوتومه او پرینسیپ]]
+|HDI_rank = ۱۳۷th
+|currency = [[د سایوتومه او پرینسیپ دبرای]]
 |currency_code = STN
 |utc_offset = {{Sp}}
 |time_zone = [[نړیوال ساعت]]
-|drives_on = right
+|drives_on = ښوی
 |calling_code = [[+۲۳۹]]
 |iso3166code = ST
 |cctld = [[.st]]
 | religion                = {{ |item_style=white-space:nowrap;
   |۸۲٫۲٪ [[مسیحیت]]
-  |۱۲.۶% Unaffiliated
+  |۱۲.۶% بی جوابه
   |۲٫۹٪ [[دین عامیانه]]s
   |%۲,۳ نور
 }}
