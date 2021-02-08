@@ -6,28 +6,26 @@
 | image_flag = Flag of Eswatini.svg
 | image_coat = Coat of arms of Eswatini.svg
 | national_motto ={{سخ}}{{Native name|ss|"Siyinqaba"|italics=off}}{{سخ}}{{smaller|"We are a fortress"{{سخ}}"We are a mystery"{{سخ}}"We hide ourselves away"{{سخ}}"We are powerful ones"}}
-| national_anthem ={{سخ}}{{Nowrap|"[[Nkulunkulu Mnikati wetibusiso temaSwati]]"{{سخ}}{{smaller|"ای ایزد باری، بښونکی نعمتونه سوازیلاند"}}}}{{سخ}}<div style="padding-top:0.5em;" class="center">[[پرونده:Nkulunkulu Mnikati wetibusiso temaSwati (instrumental).ogg]]</div>
+| national_anthem ={{سخ}}{{Nowrap|"[[Nkulunkulu Mnikati wetibusiso temaSwati]]"{{سخ}}{{smaller|"ای ایزد باری، بښونکی نعمتونه سوازیلاند"}}}}{{سخ}}<div style="padding-top:0.5em;" class="center">[[دوتنه:Nkulunkulu Mnikati wetibusiso temaSwati (instrumental).ogg]]</div>
 | image_map = Location Eswatini AU Africa.svg
-| map_caption = {{Map caption|countryprefix= |location_color= |region=افریقا |region_color=  |subregion=[[افریقا]] |subregion_color=آبی روشن}}
+| map_caption = {{Map caption|countryprefix= |location_color= |region=افریقا |region_color=  |subregion=[[افریقا]] |subregion_color=}}
 | image_map2 =
 | capital = {{ ساده نوملړ|
 * [[امبابانه]] <small>(executive)</small>
 * [[لوبامبا]] <small>(legislative)</small>}}
 | largest_city = [[امبابانه]]
 | official_languages = {{Hlist|[[سوازي ژبه]] | [[South African English|English]]}}
-| ethnic_groups               = {{
-  | {{Nowrap|۸۴% سوازیلاندیان}}
+| ethnic_groups               =
+  | Nowrap|۸۴% سوازیلاندیان
   | ۱۰٪ زولو
   | ۳٪ اروپایان
-}}
-| religion                = {{ |item_style=white-space:nowrap;
+| religion                = |item_style=white-space:nowrap;
   |۸۸٫۱٪ [[مسیحیت]]
   |—۸۲٫۳٪ [[پروتستان]]
   |_۵.۸% نور [[محیحیان]]
   |۱۰.۱% بی دینان
   |۱.۰% [[سیمه ییز دینونه]]
   |۰.۸% نور
-}}
 | religion_year                =
 | religion_ref                =<ref>http://www.globalreligiousfutures.org/countries/swaziland#/?affiliations_religion_id=0&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2016</ref>
 | demonym = Swati/Swazi
@@ -73,20 +71,26 @@
 | Gini_rank =
 | HDI = ۰٫۶۰۸ <!--number only-->
 | HDI_year = ۲۰۱۸ <!--Please use the year to which the data refers, not the publication year-->
+}}
 | HDI_change = increase <!--increase/decrease/steady-->
-| HDI_ref =<ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[د سوازیلاند جغرافیه]]|date=10 December 2019|accessdate=10 December 2019|format=PDF|archive-date=21 مې 2020|archive-url=https://web.archive.org/web/20200521231651/http://hdr.undp.org/en/content/2019-human-development-index-ranking}}</ref>
+| HDI_ref =<ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[د سوازیلاند جغرافیه]]|date=10 December 2019|accessdate=10 December 2019|format=PDF|archive-date=21 مې 2020|archive-url=https://web.archive.org/web/20200521231651/http://hdr.undp.org/en/content/2019-human-
+}}
+development-index-ranking}}</ref>
+
 | HDI_rank = ۱۳۸ام
-| currency = {{نوملړ|
+| currency = |
 * [[د سوازیلاند لیلانګني]] (SZL)
-* [[د سویلي افریقا رند]] (ZAR)}}
+* [[د سویلي افریقا رند]] (ZAR)
 | time_zone = [[د سویلي افریقا وخت|
+}}
 | utc_offset = +۲
 | utc_offset_DST =
 | time_zone_DST =
 | drives_on = [[د موټرواني لوری]]
 | calling_code = [[+۲۶۸]]
 | cctld = [[.sz]]
-| official_website = {{نښان وب|http://www.gov.sz/}}
+| official_website = 
+نښان وب|http://www.gov.sz/}}
 | today =
 }}
 
