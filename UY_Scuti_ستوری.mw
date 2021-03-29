@@ -40,7 +40,7 @@
 <!-- Quellen -->
 |      RekDekRef = <ref name="si"/>
 |         VisRef = <ref name="si"/>
-|        SpekRef = <ref name="VSX_Entry">{{Internetquelle| titel=UY Sct | werk=VSX | hrsg=AAVSO | url=https://www.aavso.org/vsx/index.php?view=detail.top&oid=34154 | zugriff=2018-09-09}}</ref>
+|        SpekRef = <ref name="VSX_Entry">| titel=UY Sct | werk=VSX | hrsg=AAVSO | url=https://www.aavso.org/vsx/index.php?view=detail.top&oid=34154 | zugriff=2018-09-09}}</ref>
 |          BVRef = <ref name="si"/>
 |          UBRef = 
 |          RIRef = <ref name="si"/>
@@ -57,3 +57,4 @@
 |         RotRef = 
 |       AlterRef = 
 }}
+==نور==
