@@ -1,17 +1,18 @@
-'''اروپا میاشت''' (اروپا قمر) 
-{{Infobox Planet
+'''اروپا میاشت''' (اروپا قمر) زوړ نوم Jupiter II) اوسنی نوم Europan Planete)
+
+{{Infobox country
 | name               = اروپا
 | alt_names = Jupiter II
 | adjectives = Europan
-| image              = [[پرونده:Europa-moon.jpg|275px]]
-| caption            = Europa's trailing hemisphere in approximate natural color. The prominent crater in the lower right is [[Pwyll (crater)|Pwyll]] and the darker regions are areas where Europa's primarily water ice surface has a higher mineral content. Imaged on 7 September 1996 by ''[[فضاپیمای گالیله|Galileo]]'' spacecraft.
+| image              = [[دوتنه:Europa-moon.jpg|275px]]
+| caption            = Europa's trailing hemisphere in approximate natural color. The prominent crater in the lower right is [[Pwyll (crater)|Pwyll]] and the darker regions are areas where Europa's primarily water ice surface has a higher mineral content. Imaged on 7 September 1996 by ''[[ګالیله هوا پیما|Galileo]]'' spacecraft.
 | bgcolour           = #a0ffa0
 | discovery          = yes
-| discoverer         = [[گالیلئو گالیله]]{{سخ}}[[زیمون ماریوس]]
-| discovered         = 8 January 1610<ref name="IAUMoonDiscoveries">{{cite web |last=Blue |first=Jennifer | date=9 November 2009 |url=http://planetarynames.wr.usgs.gov/append7.html |title=Planet and Satellite Names and Discoverers | publisher=USGS}}</ref><!-- تکمیل یادکرد توسط ربات از ویکی انگلیسی -->
+| discoverer         = [[ګالیلیو ګالیله]]{{سخ}}[[زیمون ماریوس]]
+| discovered         = 8 January 1610<ref name="IAUMoonDiscoveries">{{cite web |last=Blue |first=Jennifer | date=9 November 2009 |url=http://planetarynames.wr.usgs.gov/append7.html |title=Planet and Satellite Names and Discoverers | publisher=USGS}}</ref><!-- -->
 | orbit_ref          =<ref name="horizons">{{cite web |url=http://ssd.jpl.nasa.gov/horizons.cgi |title=JPL HORIZONS solar system data and ephemeris computation service |work=Solar System Dynamics |publisher=[[NASA]], Jet Propulsion Laboratory |accessdate=10 August 2007}}</ref>
-| epoch              = ۸ ژانویه ۲۰۰۴
-| mean_orbit_radius  = {{val|670900|u=km}}<ref name="factsheet">{{cite web |title=Overview of Europa Facts |work=NASA |url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jup_Europa |accessdate=27 December 2007 |archiveurl=https://web.archive.org/web/20140326221921/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jup_Europa |archivedate=۲۶ مارس ۲۰۱۴ |dead-url=yes }}</ref>
+| epoch              = ۸ جنوري ۲۰۰۴
+| mean_orbit_radius  = {{val|670900|u=km}}<ref name="factsheet">{{cite web |title=Overview of Europa Facts |work=NASA |url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jup_Europa |accessdate=27 December 2007 |archiveurl=https://web.archive.org/web/20140326221921/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jup_Europa |archivedate=۲۶ مارچ ۲۰۱۴ |dead-url=yes }}</ref>
 | eccentricity       = 0.009<ref name="factsheet"/>
 | periapsis          = {{val|664862|u=km}}<ref group=lower-alpha>Periapsis is derived from the semimajor axis (''a'') and eccentricity (''e''): ''a''(1−''e'').</ref>
 | apoapsis           = {{val|676938|u=km}}<ref group=lower-alpha>Apoapsis is derived from the semimajor axis (''a'') and eccentricity (''e''): ''a''(1+''e'').</ref>
@@ -19,24 +20,25 @@
 | orbit_circ         = {{val|4216100|u=km}}
 | avg_speed          = {{val|13.740|u=km/s}}<ref name="factsheet"/>
 | inclination        = ۰٫۴۷۰° (to Jupiter's equator){{سخ}}۱٫۷۹۱° (to the [[ecliptic]])<ref name="factsheet"/>
-| satellite_of       = [[مشتری (سیاره)]]
+| satellite_of       = [[مشتري (سیاره)]]
 | physical_characteristics = yes
-| mean_radius        = {{val|1560.8|.5|u=km}} (0.245 [[زمین]]s)<ref name="jplfact"/>
+| mean_radius        = {{val|1560.8|.5|u=km}} (0.245 [[ځمکه]]s)<ref name="jplfact"/>
 | surface_area       = {{val|3.09|e=7|u=km2}} (0.061 Earths)<ref group=lower-alpha>Surface area derived from the radius (''r''): 4π''r''<sup> 2</sup>.</ref>
 | volume             = {{val|1.593|e=10|u=km3}} (0.015 Earths)<ref group=lower-alpha>Volume derived from the radius (''r''): <sup>4</sup>/<sub>3</sub>π''r''<sup> 3</sup>.</ref>
 | mass               = {{val|4.799844|.000013|e=22|u=kg}} (0.008 Earths)<ref name="jplfact"/>
 | density            = {{val|3.013|.005|u=g/cm3}}<ref name="jplfact"/>
-| surface_grav       = {{val|1.314|ul=m/s2}} (0.134 g)<ref group=lower-alpha>Surface gravity derived from the mass (''m''), the [[ثابت گرانش|gravitational constant]] (''G'') and the radius (''r''): G''m''/''r''<sup> 2</sup>.</ref>
+| surface_grav       = {{val|1.314|ul=m/s2}} (0.134 g)<ref group=lower-alpha>Surface gravity derived from the mass (''m''), the [[ثابت ګرانش|gravitational constant]] (''G'') and the radius (''r''): G''m''/''r''<sup> 2</sup>.</ref>
 | escape_velocity    = {{val|2.025|u=km/s}}<ref group=lower-alpha>Escape velocity derived from the mass (''m''), the [[gravitational constant]] (''G'') and the radius (''r''): <math>\textstyle\sqrt{\frac{2Gm}{r}}</math>.</ref>
-| rotation           = [[synchronous rotation|Synchronous]]<ref name=Geissler>{{cite journal |last=Geissler |first=P. E. |author2=Greenberg, R. ; Hoppa, G. ; Helfenstein, P. ; McEwen, A. ; Pappalardo, R. ; Tufts, R. ; Ockert-Bell, M. ; Sullivan, R. ; Greeley, R. ; Belton, M. J. S. ; Denk, T. ; Clark, B. E. ; Burns, J. ; Veverka, J. |date=1998 |title=Evidence for non-synchronous rotation of Europa |journal=[[Nature (journal)|Nature]] |volume=391 |pages=368–70 |bibcode=1998Natur.391..368G |doi=10.1038/34869 |pmid=9450751 |issue=6665|last3=Hoppa |first3=G. |last4=Helfenstein |first4=P. |last5=McEwen |first5=A. |last6=Pappalardo |first6=R. |last7=Tufts |first7=R. |last8=Ockert-Bell |first8=M. |last9=Sullivan |first9=R. |last10=Greeley |first10=R. |last11=Belton |first11=M. J. S. |last12=Denk |first12=T. |last13=Clark |first13=B. E. |last14=Burns |first14=J. |last15=Veverka |first15=J.}}</ref><!-- تکمیل یادکرد توسط ربات از ویکی انگلیسی -->
+| rotation           = [[synchronous rotation|Synchronous]]<ref name=Geissler>{{cite journal |last=Geissler |first=P. E. |author2=Greenberg, R. ; Hoppa, G. ; Helfenstein, P. ; McEwen, A. ; Pappalardo, R. ; Tufts, R. ; Ockert-Bell, M. ; Sullivan, R. ; Greeley, R. ; Belton, M. J. S. ; Denk, T. ; Clark, B. E. ; Burns, J. ; Veverka, J. |date=1998 |title=Evidence for non-synchronous rotation of Europa |journal=[[Nature (journal)|Nature]] |volume=391 |pages=368–70 |bibcode=1998Natur.391..368G |doi=10.1038/34869 |pmid=9450751 |issue=6665|last3=Hoppa |first3=G. |last4=Helfenstein |first4=P. |last5=McEwen |first5=A. |last6=Pappalardo |first6=R. |last7=Tufts |first7=R. |last8=Ockert-Bell |first8=M. |last9=Sullivan |first9=R. |last10=Greeley |first10=R. |last11=Belton |first11=M. J. S. |last12=Denk |first12=T. |last13=Clark |first13=B. E. |last14=Burns |first14=J. |last15=Veverka |first15=J.}}</ref><!--  -->
 | axial_tilt         = ۰٫۱°<ref name="Bills2005">{{cite journal |last=Bills |first=Bruce G. |title=Free and forced obliquities of the Galilean satellites of Jupiter |date=2005 |volume=175 |issue=1 |pages=233–247 |doi=10.1016/j.icarus.2004.10.028 |bibcode=2005Icar..175..233B |journal=Icarus}}</ref>
 | albedo             = ۰٫۶۷ ± 0.03<ref name="jplfact">{{cite web |last=Yeomans |first=Donald K. |date=13 July 2006 |title=Planetary Satellite Physical Parameters |publisher=JPL Solar System Dynamics |url=http://ssd.jpl.nasa.gov/?sat_phys_par |accessdate=5 November 2007}}</ref>
-| magnitude          = ۵٫۲۹ ([[مقابله سیاره‌ای|opposition]])<ref name="jplfact"/>
+| magnitude          = ۵٫۲۹ ([[سیاره یي مقابله|opposition]])<ref name="jplfact"/>
 | temperatures       = yes
 | temp_name1         = Surface
-| min_temp_1         = ≈ 50 [[kelvin|K]]<ref name="cyclo">{{cite book |title=The Encyclopedia of the Solar System |author=McFadden, Lucy-Ann; Weissman, Paul; and Johnson, Torrence |publisher=Elsevier |date=2007 |page=432 |isbn=0-12-226805-9}}</ref><!-- تکمیل یادکرد توسط ربات از ویکی انگلیسی -->
+| min_temp_1         = ≈ 50 [[kelvin|K]]<ref name="cyclo">{{cite book |title=The Encyclopedia of the Solar System |author=McFadden, Lucy-Ann; Weissman, Paul; and Johnson, Torrence |publisher=Elsevier |date=2007 |page=432 |isbn=0-12-226805-9}}</ref><!-- -->
 | mean_temp_1        = 102 K (−۱۷۱٫۱۵°C)
 | max_temp_1         = 125 K
 | atmosphere         = yes
 | surface_pressure   = 0.1 [[Pascal (unit)|µPa]] (10<sup>−12</sup> [[bar (unit)|bar]])<ref name="McGrathChapter">{{cite book |last=McGrath |editor=Pappalardo, Robert T. ; McKinnon, William B. ; and Khurana, Krishan K. |title=Europa |date=2009 |publisher=University of Arizona Press |isbn=0-8165-2844-6 |chapter=Atmosphere of Europa}}</ref>
 }}
+==څیړنې==
