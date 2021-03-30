@@ -40,5 +40,47 @@
 | atmosphere         = yes
 | surface_pressure   = 0.1 [[Pascal (unit)|µPa]] (10<sup>−12</sup> [[bar (unit)|bar]])<ref name="McGrathChapter">{{cite book |last=McGrath |editor=Pappalardo, Robert T. ; McKinnon, William B. ; and Khurana, Krishan K. |title=Europa |date=2009 |publisher=University of Arizona Press |isbn=0-8165-2844-6 |chapter=Atmosphere of Europa}}</ref>
 }}
+Hghj
+{{Infobox continent 
+|name = Europa
+|alt_names = Jupiter II
+|pronounced={{IPAc-en|j|ʊ|ˈ|r|oʊ|p|ə}}<ref>{{Lexico|Europa}}<br>{{MW|Europa}}</ref>
+|adjectives = Europan {{IPAc-en|j|ʊ|ˈ|r|oʊ|p|ə|n}}<ref>G.G. Schaber (1982) "Geology of Europa", in David Morrison, ed., ''Satellites of Jupiter'', vol. 3, International Astronomical Union, p 556 ff.</ref><ref name="Greenberg 2005">Greenberg (2005) ''Europa: the ocean moon''</ref>
+|named_after=[[Europa (mythology)|Ευρώπη]] ''Eyrōpē''
+|image = Europa-moon-with-margins.jpg
+|caption = Europa's trailing hemisphere in approximate natural color. The prominent crater in the lower right is [[Pwyll (crater)|Pwyll]] and the darker regions are areas where Europa's primarily water ice surface has a higher mineral content. Imaged on 7 September 1996 by ''[[Galileo (spacecraft)|Galileo]]'' spacecraft.
+|bgcolour = #a0ffa0
+|discoverer = [[Galileo Galilei]]<br />[[Simon Marius]]
+|discovered = 8 January 1610<ref name="IAUMoonDiscoveries"/>
+|orbit_ref =<ref name="horizons">{{cite web|url=http://ssd.jpl.nasa.gov/horizons.cgi|title=JPL HORIZONS solar system data and ephemeris computation service|work=Solar System Dynamics|publisher=[[NASA]], Jet Propulsion Laboratory|access-date=10 August 2007 }}</ref>
+|epoch = 8 January 2004
+|mean_orbit_radius = {{val|670900|u=km}}<ref name="factsheet">{{cite web|title=Overview of Europa Facts|work=NASA|url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jup_Europa|access-date=27 December 2007|url-status=dead|archive-url=https://web.archive.org/web/20140326221921/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jup_Europa|archive-date=26 March 2014 }}</ref>
+|eccentricity = 0.009<ref name="factsheet"/>
+|periapsis = {{val|664862|u=km}}<ref group=lower-alpha>Periapsis is derived from the semimajor axis (''a'') and eccentricity (''e''): ''a''(1&nbsp;−&nbsp;''e'').</ref>
+|apoapsis = {{val|676938|u=km}}<ref group=lower-alpha>Apoapsis is derived from the semimajor axis (''a'') and eccentricity (''e''): ''a''(1&nbsp;+&nbsp;''e'').</ref>
+|period = {{val|3.551181|u=d}}<ref name="factsheet"/>
+|avg_speed = {{val|13.740|u=km/s}}<ref name="factsheet"/>
+|inclination = 0.470° (to Jupiter's equator)<br />1.791° (to the [[ecliptic]])<ref name="factsheet"/>
+|satellite_of = [[Jupiter]]
+| group = [[Galilean moon]]
+|mean_radius = {{val|1560.8|.5|u=km}} (0.245 [[Earth]]s)<ref name="jplfact"/>
+|surface_area = {{val|3.09|e=7|u=km2}} (0.061 Earths)<ref group=lower-alpha>Surface area derived from the radius (''r''): 4{{pi}}''r''<sup> 2</sup>.</ref>
+|volume = {{val|1.593|e=10|u=km3}} (0.015 Earths)<ref group=lower-alpha>Volume derived from the radius (''r''): <sup>4</sup>/<sub>3</sub>{{pi}}''r''<sup> 3</sup>.</ref>
+|mass = {{val|4.799844|.000013|e=22|u=kg}} (0.008 Earths)<ref name="jplfact"/>
+|density = {{val|3.013|.005|u=g/cm3}}<ref name="jplfact"/>
+|surface_grav = {{val|1.314|ul=m/s2}} (0.134 g)<ref group=lower-alpha>Surface gravity derived from the mass (''m''), the [[gravitational constant]] (''G'') and the radius (''r''): G''m''/''r''<sup>2</sup>.</ref>
+|moment_of_inertia_factor = {{val|0.346|0.005}}<ref name="Showman1999">{{cite journal|last1= Showman|first1=A. P.|last2= Malhotra|first2= R.|s2cid=9492520|title=The Galilean Satellites|journal= Science|volume= 286|issue= 5437|date= 1 October 1999|pages =77–84|doi= 10.1126/science.286.5437.77|pmid=10506564}}</ref> (estimate)
+|escape_velocity = {{val|2.025|u=km/s}}<ref group=lower-alpha>Escape velocity derived from the mass (''m''), the [[gravitational constant]] (''G'') and the radius (''r''): <math>\textstyle\sqrt{2Gm/r}</math>.</ref>
+|rotation = [[synchronous rotation|Synchronous]]<ref name=Geissler/>
+|axial_tilt = 0.1°<ref name="Bills2005">{{cite journal|last=Bills|first=Bruce G.|title=Free and forced obliquities of the Galilean satellites of Jupiter|date=2005|volume=175|issue=1|pages=233–247|doi=10.1016/j.icarus.2004.10.028|bibcode=2005Icar..175..233B|journal=Icarus |url=https://zenodo.org/record/1259023}}</ref>
+|albedo = 0.67&nbsp;±&nbsp;0.03<ref name="jplfact">{{cite web|last=Yeomans|first=Donald K.|date=13 July 2006|title=Planetary Satellite Physical Parameters|publisher=JPL Solar System Dynamics|url=http://ssd.jpl.nasa.gov/?sat_phys_par|access-date=5 November 2007 }}</ref>
+|magnitude = 5.29 ([[Opposition (astronomy and astrology)|opposition]])<ref name="jplfact"/>
+|temp_name1 = Surface
+|min_temp_1 = ≈&thinsp;50 [[kelvin|K]]<ref name="cyclo"/>
+|mean_temp_1 = 102&nbsp;K (−171.15&nbsp;°C)
+|max_temp_1 = 125&nbsp;K
+|atmosphere = yes
+|surface_pressure = 0.1 [[Pascal (unit)|µPa]] (10<sup>−12</sup> [[bar (unit)|bar]])<ref name="McGrathChapter">{{cite book|last=McGrath|editor1=Pappalardo, Robert T.|editor2=McKinnon, William B.|editor3=Khurana, Krishan K.|title=Europa|date=2009|publisher=University of Arizona Press|isbn=978-0-8165-2844-8|chapter=Atmosphere of Europa }}</ref>
+}}
 
 ==څیړنې==
