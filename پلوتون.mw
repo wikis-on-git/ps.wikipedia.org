@@ -1,1 +1,76 @@
 '''پلوتون''' (پلوتو) په [[فرانسوي]] Plutonium) په [[انګلیسي]] Pluto) په[[کویپر کمربند]]  کې د [[لمريز غونډال]] د سیارو څخه یوه ده. پلوټون په ۱۹۳۰م کال کې وموندل شوه، یاده سیاره د ۲۰۰۶م کال د اګسټ تر ۲۴ پورې د یوې سیاره په توګه ثبت وه، له هغې وروسته چې د ستور پیژندنې نړیوالې ایدارې پلوتون او یو شمیر نورو سیارو ته د Dwarf Planet) نوم ورکړ د سیارو له لیسته ووته.
+
+{{Infobox settlement 
+| bgcolour=#A0FFA0
+| name = Pluto
+| symbol = [[File:Pluto symbol.svg|25px|Astronomical symbol of Pluto]]
+| image = Pluto-01 Stern 03 Pluto Color TXT.jpg
+| caption = Enhanced color view of Pluto <br/>imaged by the [[New Horizons]] [[spacecraft]] <br/>on 13 July 2015
+
+| discoverer = [[Clyde Tombaugh|Clyde W. Tombaugh]]
+| discovered = February 18, 1930
+| mp_name = '''134340 Pluto'''
+| mp_category = [[dwarf planet]],<br />[[trans-Neptunian object|TNO]],<br />[[plutoid]],<br />[[Kuiper belt|KBO]],<br />[[plutino]]
+| epoch = [[J2000]]
+| aphelion = 7,375,927,931 km<br />49.305&nbsp;032&nbsp;87 [[Astronomical unit|AU]]
+| perihelion = 4,436,824,613&nbsp;km<br />29.658&nbsp;340&nbsp;67 AU
+| semimajor = 5,906,376,272&nbsp;km<br />39.481&nbsp;686&nbsp;77 AU
+| eccentricity = 0.248&nbsp;807&nbsp;66
+| inclination = 17.141&nbsp;75°<br />11.88° to Sun's equator
+| asc_node = 110.303&nbsp;47°
+| arg_peri = 113.763&nbsp;29°
+| period = 90,613.305 days<br />248.09 [[julian year (astronomy)|years]]<br />14,164.4 Pluto [[solar day]]s<ref name="planet_years">{{cite web|url = http://cseligman.com/text/sky/rotationvsday.htm|title = Rotation Period and Day Length|last = Seligman |first = Courtney|accessdate = 2009-08-13}}</ref>
+| synodic_period = 366.73 days
+| avg_speed = 4.666&nbsp;km/s
+| satellites = [[Pluto's natural satellites|5]]
+
+| mean_radius = {{nowrap|1,187 ± 4 km}}<ref>{{citation|first=S. A. | display-authors = etal|last=Stern|title=The Pluto system: Initial results from its exploration by New Horizons|journal=Science|volume=350|issue=6258|pages=aad1815-1–aad1815-8|doi=10.1126/science.aad1815|date=16 October 2015}}</ref><br />0.18 Earths
+| surface_area = 1.665{{e|7}} km²<ref group=note>Surface area derived from the radius ''r'': <math>4\pi r^2</math>'''.</ref><br />0.033 Earths
+| volume = 6,39{{e|9}} km³<ref group=note>Volume ''v'' derived from the radius ''r'': <math>4\pi r^3/3</math>'''.</ref><br />0.0059&nbsp; Earths
+| mass = (1.305 ± 0.007){{e|22}} kg<ref name="Buie06"/><br />0.002&nbsp;1 Earths<br />0.178 moon
+| density = 2.03 ± 0.06 g/cm³<ref name="Buie06"/>
+| surface_grav = {{Gr|13.05|1153}} [[Acceleration|m/s²]]<ref group=note>Surface gravity derived from the mass ''m'', the [[gravitational constant]] ''G'' and the radius ''r'': <math>Gm/r^2</math>.</ref><br />0.067 [[g-force|g]]
+| escape_velocity = {{V2|13.05|1153}}&nbsp;km/s<ref group=note>Escape velocity derived from the mass ''m'', the [[gravitational constant]] ''G'' and the radius ''r'': {{math|{{radical|2Gm/r}}}}.</ref>
+| sidereal_day = [[retrograde motion|−6.387&nbsp;230 day]]<br />6 d 9 h 17 m 36 s
+| rot_velocity = 47.18&nbsp;km/h
+| axial_tilt = 119.591 ± 0.014° (to orbit)<ref name="Buie06">{{cite journal
+ | author = M. W. Buie, W. M. Grundy, E. F. Young, L. A. Young, S. A. Stern
+ | title = Orbits and photometry of Pluto's satellites: Charon, S/2005 P1, and S/2005 P2
+ | journal = Astronomical Journal
+ | year=2006
+ | volume=132
+ | pages=290
+ | url=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006AJ....132..290B&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=444b66a47d27727
+|id = [[arXiv]]:[[arXiv:astro-ph/0512491|astro-ph/0512491]]  | doi = 10.1086/504422
+}}</ref><ref name=inclination group=note>Based on the orientation of Charon's orbit, which is assumed the same as Pluto's spin axis due to the mutual [[tidal locking]].</ref>
+| right_asc_north_pole = 133.046 ± 0.014°<ref name="Buie06"/>
+| declination = −6.145 ± 0.014°<ref name="Buie06"/>
+| albedo = 0.49–0.66 (varies by 35%)<ref name=Hamilton>{{cite web
+  |date=2006-02-12
+  |title=Dwarf Planet Pluto
+  |publisher=Views of the Solar System
+  |author=Calvin J. Hamilton
+  |url=http://www.solarviews.com/eng/pluto.htm
+  |accessdate=2007-01-10}}</ref><ref name="Pluto Fact Sheet"/>
+| magnitude = up to 13.65 (mean is 15.1)<ref name="Pluto Fact Sheet">{{cite web
+ |url = http://nssdc.gsfc.nasa.gov/planetary/factsheet
+ |author = David R. Williams
+ |title = Planetary Fact Sheet
+ |accessdate = 2007-03-31
+ |publisher = NASA }}</ref>
+| abs_magnitude = −0.7<ref name=jpldata>{{cite web
+  |title=JPL Small-Body Database Browser: 134340 Pluto
+  |url=http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=Pluto
+  |accessdate=2008-06-12}}</ref>
+| pronounce = {{IPA-en|ˈpluːtoʊ||en-us-Pluto.ogg}},<ref group=note>In US dictionary transcription, {{USdict|plōō′·tō}}. From the {{lang-la|Plūto}}</ref>
+| adjectives = Plutonian
+| atmosphere = yes
+
+| temp_name1 = [[Kelvin]]
+| min_temp_1 = 33 K
+| mean_temp_1 = 44 K
+| max_temp_1 = 55 K
+| surface_pressure = 0.30 [[pascal (unit)|Pa]] (summer maximum)
+| atmosphere_composition = [[nitrogen]], [[methane]], [[carbon monoxide]]
+| note=no}}
+==تاریخ==
