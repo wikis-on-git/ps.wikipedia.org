@@ -1,5 +1,80 @@
 ۱ــ  '''اورانوس''' د لمریز غونډال (شمسي نظام) اوومه سیاره ده چې له لمر څخه کابو ۲،۹ ملیارډ کیلو مټره واټن لري. د لرغوني روم له ادبیاتو څخه یې د اسمان د خدای نوم پر ایښی دی. اورانوس ډېره سړه سیاره ده چې توند بادونه او د ځینو نورو سیارو په شان د انسانانو لپاره زهرجنه هوا لري. د ډېر لیرې‌والي له کبله د دې سیارې څېړل ستونزمن دی. ساینسپوهان یوازې د ریاضیکي اټکلونو له مخې د اورانوس په اړه وړاندېینې کوي.
 
+{{Infobox settlement 
+| name = Uranus
+| symbol = [[File:{{#property:P367}}|25px]]
+| image = Uranus2.jpg
+| caption = Photographed by {{nowrap|''[[Voyager 2]]''}} in 1986
+| background = #f8f9fa
+| discoverer = [[{{#property:P61}}]]
+| discovered = {{#time:F j, Y|{{#property:P575}}}}
+| orbit_ref =
+{{efn | These are the mean elements from VSOP87, together with derived quantities.}}
+| epoch = [[J2000]]
+| aphelion = {{val|20.11|ul=AU}}<br />({{nowrap|{{val|fmt=dots|3008|u=Gm}}}})
+| perihelion = {{val|18.33|u=AU}}<br />({{nowrap|{{val|fmt=dots|2742|u=Gm}}}})
+| semimajor = {{val|19.2184|u=AU}}<br />({{nowrap|{{val|fmt=commas|2875.04|u=Gm}}}})
+| eccentricity = {{val|0.046381}}
+| period =
+ {{plainlist |
+* {{val|84.0205|u=[[julian year (astronomy)|yr]]}}
+* {{nowrap|{{val|fmt=commas|30688.5|u=days}}}}
+* {{nowrap|{{val|fmt=commas|42718}}}} Uranian [[solar day]]s
+ }}
+| synodic_period = 369.66&nbsp;days
+| avg_speed = {{cvt|6.80|km/s|mph kph}}
+| inclination = {{val|0.773|u=°}} to [[ecliptic]]<br />6.48° to [[Sun]]'s [[equator]]<br />1.02° to [[invariable plane]]
+| asc_node = {{val|74.006|u=°}}
+| arg_peri = {{val|96.998857|u=°}}
+| mean_anomaly = {{val|142.238600|u=°}}
+| satellites = [[Moons of Uranus|27]]
+| flattening = {{val|0.0229|0.0008}}{{efn | Calculated using data from Seidelmann, 2007. }}
+| equatorial_radius = {{nowrap|{{val|fmt=commas|25559|4|u=km}}}}<br />4.007&nbsp;Earths
+| polar_radius = {{nowrap|{{val|fmt=commas|24973|20|u=km}}}}<br />3.929&nbsp;Earths
+| mean_radius = {{nowrap|{{val|fmt=commas|25362|7|u=km}}}}
+| circumference = {{nowrap|{{val|fmt=commas|159354.1|u=km}}}
+| surface_area = {{val|8.1156|e=9|u=km2}} <br /> 15.91&nbsp;Earths
+| volume = {{val|6.833|e=13|u=km3}} <br /> 63.086&nbsp;Earths
+| mass = {{val|8.6810|0.0013|e=25|u=kg}} <br /> 14.536&nbsp;Earths <br />
+[[standard gravitational parameter|GM]]={{nowrap|{{val|fmt=commas|5793939|13|u=km<sup>3</sup>/s<sup>2</sup>}}}}
+| density = {{val|1.27|u=g/cm3}}
+| surface_grav = {{val|8.69|ul=m/s2}}<br />0.886&nbsp;[[g-force|g]]
+| moment_of_inertia_factor = {{val|0.23|}} (estimate)
+| escape_velocity = {{cvt|21.3|km/s|mph kph|lk=on}}
+| sidereal_day = {{val|-0.71833|u=day}} ([[retrograde motion|retrograde]])<br /> {{nowrap|17 [[hour|h]] 14 min 24 [[second|s]]}}
+| rot_velocity = {{cvt|2.59|km/s|mph kph|lk=on}}
+| axial_tilt = 97.77° (to orbit)
+| right_asc_north_pole = {{RA|17|9|15}}<br />257.311°
+| declination = −15.175°
+| albedo = 0.300 ([[Bond albedo|Bond]])<br />0.488 ([[Geometric albedo|geom.]])| magnitude =5.38 to 6.03
+| angular_size = 3.3″ to 4.1″
+| temp_name1 = {{cvt|1|bar|psi|lk=on}} level
+| min_temp_1 =
+| mean_temp_1 = {{cvt|76|K|F C|disp=br()|order=out}}
+| max_temp_1 =
+| temp_name2 = {{cvt|0.1|bar|psi}}<br />([[tropopause]])
+| min_temp_2 = {{cvt|47|K|F C|disp=br()|order=out}}
+| mean_temp_2 = {{cvt|53|K|F C|disp=br()|order=out}}
+| max_temp_2 = {{cvt|57|K|F C|disp=br()|order=out}}
+| pronounced = {{IPAc-en|audio=uranus.ogg|ˈ|jʊər|ə|n|ə|s}} or {{IPAc-en|audio=en-us-Uranus.ogg|j|ʊəˈr|eɪ|n|ə|s}}
+| adjectives = Uranian
+| atmosphere = yes
+| atmosphere_ref =
+{{efn | Calculation of He, H<sub>2</sub> and CH<sub>4</sub> molar fractions is based on a 2.3% mixing ratio of methane to hydrogen and the 15/85 He/H<sub>2</sub> proportions measured at the tropopause. }}
+| scale_height = {{cvt|27.7|km}}
+| atmosphere_composition = ''(Below {{cvt|1.3|bar|psi|disp=or}})''<br />
+'''Gases''':
+* 83&nbsp;±&nbsp;3% [[hydrogen]] ({{chem2|H2}})
+* 15&nbsp;±&nbsp;3% [[helium]] (He)
+* 2.3% [[methane]] ({{chem2|CH4}})
+* 0.009%&nbsp;(0.007–0.015%) [[hydrogen deuteride]] (HD)
+* [[hydrogen sulfide]] ({{chem2|H2S}})
+'''Ices''':
+* [[ammonia]] ({{chem2|NH3}})
+* [[water (molecule)|water]] ({{chem2|H2O}})
+* [[ammonium hydrosulfide]] ({{chem2|NH4SH}})
+* [[methane hydrate]]
+}}}}
 ۲ــ  اورانوس هم د مشتري، زحل، او نیپټون په شان له اوبو او غازونو جوړه شوې ده، نو ځکه کلکه سطح نه لري چې څوک پر ودرېږي.
 
 ۳ــ  اورانوس لومړنۍ سیاره وه چې د لروین په مرسته د اماتور ستورپوه ویلیم هرشل (William Herschel) له خوا په ۱۷۸۱ کې کشف شوه، که څه هم ویلیم هرشل او نورو ستورپوهانو تر ډېره وخته گومان کاوه چې دا یوه لکیوره (comet) ده.
