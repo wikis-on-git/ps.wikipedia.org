@@ -8,60 +8,60 @@
 |national_motto = الله أكبر {{Spaces|2}}<small>([[Arabic language|Arabic]])</small><br />''"[[Takbir|Allahu Akbar]]"''{{Spaces|2}}<small>([[transliteration]])<br />"[[Islamic concept of God|God]] is [the] Greatest"</small>
 |national_anthem = ''[[Mawtini]]''{{Spaces|2}}<small>(new)</small><br />''[[Ardh Alforatain]]''{{Spaces|2}}<small>(previous)</small>
 |پلازمېنه = [[بغداد]]
-|official_languages = [[Arabic language|Arabic]], [[Kurdish language|Kurdish]]
+|official_languages = [[عربي ژبه|عربي]], [[کوردي ژبه|کوردي]]
 |demonym = Iraqi
-|religion = [[Islam]](94%), [[Christian]](4–5%), [[Mandean]] & [[Yazidi]] (<1%)
+|religion = [[اسلام]](۹۴%), [[Christian]](۴–۵%), [[ماندیان]] & [[یزیدیان]] (<۱%)
 |latd=33 |latm=20 |latNS=N |longd=44 |longm=26 |longEW=E
 |largest_city = capital
 |government_type = {{nowrap|[[Parliamentary republic]]}}
-|leader_title1 = [[President of Iraq|President]]
-|leader_title2 = [[Prime Minister of Iraq|Prime Minister]]
-|leader_name1 = [[Fuoad Masoum]]
-|leader_name2 = [[Haidar Alabady]]
+|leader_title1 = [[ولسمشر]]
+|leader_title2 = [[لومړی وزیر]]
+|leader_name1 = [[فواد ماسوم]]
+|leader_name2 = [[هایدر العبادی]]
 |area_rank = 50th
 |area_magnitude = 1 E11
 |area_km2 = 438,317
-|area_sq_mi = 169,234 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_sq_mi = ۱۶۹,۲۳۴<!--Do not remove per [[WP:MOSNUM]]-->
 |percent_water = 1.1
-|population_estimate = 39,432,391 <ref name="imf2"/>
+|population_estimate = ۳۹,۴۳۲,۳۹۱<ref name="imf2"/>
 |population_estimate_rank = 39th
 |population_estimate_year = 2018
 |population_census =
 |population_census_year =
-|population_density_km2 = 71.5
-|population_density_sq_mi = 184.6 <!--Do not remove per [[WP:MOSNUM]]-->
-|population_density_rank = 125th
-|GDP_PPP = $710.916 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2017&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&c=433&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=54&pr.y=11 |title=Iraq|publisher=International Monetary Fund|accessdate=2017-04-21}}</ref>
+|population_density_km2 =۷۱.۵
+|population_density_sq_mi = ۱۸۴.۶<!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank =۱۲۵th
+|GDP_PPP = $۷۱۰.۹۱۶ billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2017&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&c=433&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=54&pr.y=11 |title=Iraq|publisher=International Monetary Fund|accessdate=2017-04-21}}</ref>
 |GDP_PPP_rank =
 |GDP_PPP_year = 2015
-|GDP_PPP_per_capita = $13,000<ref name=imf2/>
+|GDP_PPP_per_capita = $۱۳,۰۰۰<ref name=imf2/>
 |GDP_PPP_per_capita_rank =
 |GDP_nominal_year = 2009
-|GDP_nominal = 240.006 $ <ref name=imf2/>
+|GDP_nominal = ۲۴۰.۰۰۶$ <ref name=imf2/>
 |GDP_nominal_rank        =
-|GDP_nominal_per_capita = $6,491<ref name=imf2/>
+|GDP_nominal_per_capita = $۶,۴۹۱<ref name=imf2/>
 |GDP_nominal_per_capita_rank =
-|sovereignty_type = [[Independence]]
-|established_date1 = <br />1 October 1919
-|established_date2 = <br />3 October 1932
-|established_event3 =  [[14 July Revolution|Republic]]
+|sovereignty_type = [[خپلواکي]]
+|established_date1 = <br />1 اکتوبر۱۹۱۹
+|established_date2 = <br />3اکتوبر۱۹۳۲
+|established_event3 =  [[۱۴جولای ولسمشریز سیستم]]
 |established_event4 = [[Constitution of Iraq|Current constitution]]
 |HDI =
 |HDI_rank = n/a
-|HDI_year = 2003
+|HDI_year =۲۰۰۳
 |HDI_category = <span style="color:gray;">unranked</span>
-|FSI = 111.4 {{increase}} 2.4
-|FSI_year = 2007
+|FSI =۱۱۱.۴{{increase}}۲.۴
+|FSI_year =۲۰۰۷
 |FSI_rank = 2nd
 |FSI_category = <span style="color:red;">Alert</span>
 |currency =
 |currency_code = IQD
 |country_code = IRQ
-|time_zone = GMT+3
-|utc_offset = +3
+|time_zone = GMT+۳
+|utc_offset = +۳
 |time_zone_DST =
-|utc_offset_DST = +3
-|drives_on = right
+|utc_offset_DST = +۳
+|drives_on =ښوی
 |cctld = [[.iq]]
 |calling_code = 
 }}
@@ -70,6 +70,7 @@
 
 د عراق په جنوب ختیځ کی لویه ټېټه مځکه کی شته چی د بین النهرین په نوم یادېږی. د بین النهرین په ټېټه مځکه کی د فرات سیند او د دجله سیند بهېږی.
 د عراق په لویدیځ کی لویه دښته شته. د عراق د جمهوریت مساحت ۴۳۷۳۱۷ کلومتره مربع دی. پایتخت یی بغداد دی. کوه حجی ابراهیم د عراق تر ټولو لوی غر دی. لوړوالی یی ۳۶۰۹ متره ده.(3200-2000 CE)
+
 ==ایداري وېش==
 
 == تاریخ ==
