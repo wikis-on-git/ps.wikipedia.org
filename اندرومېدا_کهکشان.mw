@@ -1,5 +1,27 @@
 '''اندرو میدا کهکشان''' ([[انډرومېډا]]:آنډرو میدا کهکشان) په [[انګلیسي]] Andromeda galaxy) د کائناتو په ډېره پراخه او لایتناهي فضا کې آسماني ذرات او ګازونه د لوګي په بڼه او د هایدروجني ورېځې او غبار په بڼه ښکاري چې پراخوالی یې بېحده او بې اندازې دی. دغه لویه آسماني کتله په ډېرې چټکۍ سره د خپل محور پرشاوخوا ګرځي د کهکشان کتلې بیضوي بڼه نیولې او د مقناطیسي او جاذبې ځانګړتیاوې لري.
 
+{{Infobox dam
+| name = Andromeda Galaxy
+| image = Andromeda Galaxy 560mm FL.jpg
+| caption = The Andromeda Galaxy with [[Satellite galaxy|satellite galaxies]] [[Messier 32|M32]], (center left above the [[galactic nucleus]]) and [[Messier 110|M110]], (center left below the galaxy)
+| epoch = [[Epoch (astronomy)#Julian years and J2000|J2000]]
+| pronounce = {{IPAc-en|æ|n|ˈ|d|r|ɒ|m|ᵻ|d|ə}}
+| type = SA(s)b<ref name="ned" />
+| mass = {{val|1.5|0.5|e=12|u=}}<ref name="GalaxyMass" />
+| size = ~{{convert|220|kly|kpc|abbr=on|lk=on}} (diameter)<ref name="Chapman et al 2006" />
+| stars = ~1 trillion (10<sup>12</sup>)<!-- exponential value to disambiguate "trillion" --><ref name="trillion-stars" />
+| age = 5 to 9 billion years<ref name="Moskvitch 2010" />
+| ra = {{RA|00|42|44.3}}<ref name="ned" />
+| dec = {{DEC|+41|16|9}}<ref name="ned" />
+| dist_ly = {{convert|765|kpc|Mly|abbr=on|lk=on }}<ref name="adam" />
+| z = z = −0.001001  <br> (minus sign <br> indicates '''[[blueshift]]''')<ref name="ned" />
+| h_radial_v = −301 ± 1 km/s<ref name="Karachentsevetal2006" />
+| appmag_v = 3.44<ref name="SIMBAD-M31" /><ref name="GAXEL" />
+| size_v = 3.167° × 1°<ref name="ned" />
+| constellation name = [[Andromeda (constellation)|Andromeda]]
+| absmag_v = −21.5{{efn|name=blue mag}}<ref name="Ribas2005" />
+| names = [[Messier object|M]]31, [[New General Catalogue|NGC]] 224, [[Uppsala General Catalogue|UGC]] 454, [[Principal Galaxies Catalogue|PGC]] 2557, [[Second Cambridge Catalogue of Radio Sources|2C]] 56 (Core),<ref name="ned" /> CGCG 535-17, [[Morphological Catalogue of Galaxies|MCG]] +07-02-016, [[IRAS]] 00400+4059, [[2MASX]] J00424433+4116074, GC 116, h 50, Bode 3, Flamsteed 58, Hevelius 32, Ha 3.3, IRC +40013
+}}
 دغه ذرات د جاذبې تر اغېزې لاندې ځینې وخت یوبل سره راټولیږي لوی او کوچني غونډاري جوړوي چی ددې غونډارو مجموعې ته کهکشان وايي.
 
 ـ د آندرومیډا کهکشان چی د M31 په نوم هم پیژندل کېږي چې زموږ د کهکشان(شېدولاري) ګاونډي دی او موږ ته ترټولو نږدې کهکشان دی. د آندرومیدا او زموږ د شېدولاري کهکشانونه د کوچني او لویې میګیلانیک وریځو سره یوځای د کهکشانونو سیمه یز کلستر جوړوي چی نوم یی نیدرووما دی.
@@ -11,6 +33,7 @@
 د اندرومېدا کهکشان قطر 220 زره نوري کاله دی په دې معنی چی زموږ د کهکشان دوه برابره دی چی زموږ د کهکشان قطر 100 زره نوري کاله دی او اندرومېدا کهکشان تر اوسه پورې ترټولو لوی کهکشان دي.
 
 اندرومېدا او شېدولاري کهکشانونه د یو بل ګاونډیان دي چی په یو ساعت کې د 228000  کېلومتره یو بل ته نږدې کېږي چی شاوخوا 4.5 میلیارده کاله وروسته به له یو بل سره ټکر وکړي. چی دا ټکر به هم میلونونه کاله وخت ونیسۍ چی یو مشترک کهکشان جوړ کړي.
+
 ==تور غارونه==
 زموږ کهکشان یو تور سوری (black hole) لري مګر اندرومیدا کهکشان بیا 36 تور سوري لري چی هر تور سوری یی زموږ د لمر څخه 5 یا 10 ځله غټ دي.
 
