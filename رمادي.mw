@@ -1,9 +1,9 @@
 '''رمادی ښار''' په [[عربي ژبه|عربي]] ٱلرَّمَادِي) د [[عراق]] هیواد په لویدیځ کې د یاد هیواد د ترټولو پراخ ولایت [[انبار ولایت|انبار]] مرکز دی.
 
 {{Infobox settlement
-|official_name          = Ramadi
+|official_name          =رمادی
 |native_name            = {{lang|ar|ٱلرَّمَادِي}}
-|settlement_type        = [[List of cities in Iraq|City]]
+|settlement_type        = [[List of cities in Iraq|ښار]]
 |image_skyline          = Ramadi Aerial Picture - April 2008.jpeg
 |imagesize              =
 |image_caption          = 
@@ -27,9 +27,9 @@
 |pushpin_mapsize        = 
 |pushpin_map_caption    = Location within Iraq
 |coordinates            = {{coord|33|25|33|N|43|17|57|E|region:IQ_type:city|display=inline,title}}
-|subdivision_type       = Country
+|subdivision_type       =هیواد 
 |subdivision_name       = {{flag|Iraq}}
-|subdivision_type1      = [[Governorates of Iraq|Governorate]]
+|subdivision_type1      = [[Governorates of Iraq|والی]]
 |subdivision_type2      =
 |subdivision_type3      =
 |subdivision_name1      = [[Al Anbar Governorate]]
@@ -97,5 +97,6 @@
 |blank1_name            =
 |blank1_info            =
 }}
+
 ==تاریخ==
 ==جغرافیه==
