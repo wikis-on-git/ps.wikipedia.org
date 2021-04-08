@@ -72,17 +72,17 @@
    <text x="2157.30898" y="264.40574" id="text5215" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="48px">
     <tspan x="2157.30898" y="264.40574" id="tspan5217" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="48px">سپين ټاپو</tspan>
    </text>
-   <text x="2049.85048" y="1028.08103" id="text5219" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="56px">
-    <tspan x="2049.85048" y="1028.08103" id="tspan5221" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="56px">سيمه</tspan>
-    <tspan x="2049.85048" y="1098.08107" id="tspan5223" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="56px">د پاچا کارلز</tspan>
+   <text x="2049.85048" y="1028.08103" id="text5219" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="56px">
+    <tspan x="2049.85048" y="1028.08103" id="tspan5221" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="56px">سيمه</tspan>
+    <tspan x="2049.85048" y="1098.08107" id="tspan5223" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="56px">د پاچا کارلز</tspan>
    </text>
    <text x="1451.18858" y="1964.45857" id="text5225" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="48px">
     <tspan x="1451.18858" y="1964.45857" id="tspan5227" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="48px">هوپن</tspan>
    </text>
-   <text x="203.77911" y="1088.04827" id="text5229" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="56px">
-    <tspan x="203.77911" y="1088.04827" id="tspan5231" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="56px">حوزه</tspan>
-    <tspan x="203.77911" y="1158.04827" id="tspan5233" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="56px">چارلز</tspan>
-    <tspan x="203.77911" y="1228.04827" id="tspan5235" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="56px">شهزاده</tspan>
+   <text x="203.77911" y="1088.04827" id="text5229" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="56px">
+    <tspan x="203.77911" y="1088.04827" id="tspan5231" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="56px">حوزه</tspan>
+    <tspan x="203.77911" y="1158.04827" id="tspan5233" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="56px">چارلز</tspan>
+    <tspan x="203.77911" y="1228.04827" id="tspan5235" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="56px">شهزاده</tspan>
    </text>
    <text x="859.58609" y="2854.11757" id="text5237" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="48px">
     <tspan x="859.58609" y="2854.11757" id="tspan5239" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="48px">يږ ټاپو</tspan>
@@ -97,8 +97,8 @@
     <tspan x="1289.03228" y="488.61668" id="tspan5309" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="48px">نورد اوستلانه</tspan>
    </text>
    <path d="m415.10223,914.30998a6.90116,6.90116 0 0 1 -13.80231,0a6.90116,6.90116 0 1 1 13.80231,0z" id="path5311" stroke-dashoffset="0" stroke-miterlimit="4" stroke-width="2" stroke="#000000" fill="#000000"/>
-   <text x="420.45782" y="942.88261" id="text5313" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">
-    <tspan x="420.45782" y="942.88261" id="tspan5315" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">ني اولسوند</tspan>
+   <text x="420.45782" y="942.88261" id="text5313" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">
+    <tspan x="420.45782" y="942.88261" id="tspan5315" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">ني اولسوند</tspan>
    </text>
    <text x="622.77853" y="998.72496" id="text5317" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="56px">
     <tspan x="622.77853" y="998.72496" id="tspan5319" font-family="Omar Naskh" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="56px">سپيتسبرګین</tspan>
@@ -106,8 +106,8 @@
    <text x="1307.12768" y="110.69989" id="text5321" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
     <tspan x="1307.12768" y="110.69989" id="tspan5323" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">اووه ټاپوګان</tspan>
    </text>
-   <text x="959.43368" y="190.02247" id="text5325" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="959.43368" y="190.02247" id="tspan5327" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">نوردسکاپ</tspan>
+   <text x="959.43368" y="190.02247" id="text5325" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="959.43368" y="190.02247" id="tspan5327" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">نوردسکاپ</tspan>
    </text>
    <text x="1671.73698" y="1086.83367" id="text5372" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
     <tspan x="1671.73698" y="1086.83367" id="tspan5374" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">سويډنی ټاپو</tspan>
@@ -121,20 +121,20 @@
    <text x="1939.73698" y="426.8336" id="text5384" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
     <tspan x="1939.73698" y="426.8336" id="tspan5386" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">لوی ټاپو</tspan>
    </text>
-   <text x="765.20737" y="1250.69657" id="text5390" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">
-    <tspan x="765.20737" y="1250.69657" id="tspan5392" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">لانګیربین</tspan>
+   <text x="765.20737" y="1250.69657" id="text5390" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">
+    <tspan x="765.20737" y="1250.69657" id="tspan5392" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">لانګیربین</tspan>
    </text>
    <path d="m647.03327,1317.36087a6.90116,6.90116 0 0 1 -13.80231,0a6.90116,6.90116 0 1 1 13.80231,0z" id="path5394" stroke-dashoffset="0" stroke-miterlimit="4" stroke-width="2" stroke="#000000" fill="#000000"/>
-   <text x="655.22916" y="1342.26147" id="text5396" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">
-    <tspan x="655.22916" y="1342.26147" id="tspan5398" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">بارینتسبورګ</tspan>
+   <text x="655.22916" y="1342.26147" id="text5396" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">
+    <tspan x="655.22916" y="1342.26147" id="tspan5398" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">بارینتسبورګ</tspan>
    </text>
    <path d="m852.03327,1376.36087a6.90116,6.90116 0 0 1 -13.80231,0a6.90116,6.90116 0 1 1 13.80231,0z" id="path5400" stroke-dashoffset="0" stroke-miterlimit="4" stroke-width="2" stroke="#000000" fill="#000000"/>
-   <text x="857.72641" y="1404.83937" id="text5402" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="27.37507px">
-    <tspan x="857.72641" y="1404.83937" id="tspan5404" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="27.37507px">سوې ګرووا</tspan>
+   <text x="857.72641" y="1404.83937" id="text5402" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="27.37507px">
+    <tspan x="857.72641" y="1404.83937" id="tspan5404" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="27.37507px">سوې ګرووا</tspan>
    </text>
    <path d="m824.08708,1033.17707a6.90116,6.90116 0 0 1 -13.80231,0a6.90116,6.90116 0 1 1 13.80231,0z" id="path5406" stroke-dashoffset="0" stroke-miterlimit="4" stroke-width="2" stroke="#000000" fill="#000000"/>
-   <text x="834.59317" y="1030.53532" id="text5408" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="30.0835px">
-    <tspan x="834.59317" y="1030.53532" id="tspan5410" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="30.0835px">پېراميدن</tspan>
+   <text x="834.59317" y="1030.53532" id="text5408" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="30.0835px">
+    <tspan x="834.59317" y="1030.53532" id="tspan5410" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="30.0835px">پېراميدن</tspan>
    </text>
    <text x="1238.55008" y="826.9315" id="text5412" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">
     <tspan x="1238.55008" y="826.9315" id="tspan5414" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="28px">ویلهیم ټاپو</tspan>
@@ -142,99 +142,99 @@
    <text x="1186.54488" y="740.44651" id="text5416" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
     <tspan x="1186.54488" y="740.44651" id="tspan5418" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">واهلبرګ ټاپو</tspan>
    </text>
-   <text x="682.53207" y="358.31388" id="text5420" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="682.53207" y="358.31388" id="tspan5422" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">ويرله ګېنهوګېن</tspan>
+   <text x="682.53207" y="358.31388" id="text5420" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="682.53207" y="358.31388" id="tspan5422" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">ويرله ګېنهوګېن</tspan>
    </text>
-   <text x="235.91894" y="773.05186" id="text5428" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="235.91894" y="773.05186" id="tspan5430" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">کاپ</tspan>
-    <tspan x="235.91894" y="813.05186" id="tspan5432" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">ميترا</tspan>
+   <text x="235.91894" y="773.05186" id="text5428" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="235.91894" y="773.05186" id="tspan5430" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">کاپ</tspan>
+    <tspan x="235.91894" y="813.05186" id="tspan5432" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">ميترا</tspan>
    </text>
-   <text x="391.43365" y="634.02244" id="text5434" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="391.43365" y="634.02244" id="tspan5438" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">سيمه</tspan>
-    <tspan x="391.43365" y="674.02244" id="tspan5442" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">البرټ ۱</tspan>
+   <text x="391.43365" y="634.02244" id="text5434" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="391.43365" y="634.02244" id="tspan5438" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">سيمه</tspan>
+    <tspan x="391.43365" y="674.02244" id="tspan5442" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">البرټ ۱</tspan>
    </text>
-   <text x="663.43368" y="672.02244" id="text5444" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="663.43368" y="672.02244" id="tspan5448" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">اندﺭه سيمه</tspan>
+   <text x="663.43368" y="672.02244" id="text5444" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="663.43368" y="672.02244" id="tspan5448" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">اندﺭه سيمه</tspan>
    </text>
-   <text x="531.63464" y="999.05186" id="text5454" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan font-size="32px" font-style="Arial" font-weight="normal" text-anchor="middle" fill="#000000" fill-opacity="0.69006" font-family="DejaVu Sans" id="tspan5458" y="998.05186" x="530.63464">سيمه</tspan>
-    <tspan x="531.63464" y="1039.05186" id="tspan5462" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">اوسکر۱</tspan>
+   <text x="531.63464" y="999.05186" id="text5454" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan font-size="32px" font-style="Amiri" font-weight="normal" text-anchor="middle" fill="#000000" fill-opacity="0.69006" font-family="Amiri" id="tspan5458" y="998.05186" x="530.63464">سيمه</tspan>
+    <tspan x="531.63464" y="1039.05186" id="tspan5462" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">اوسکر۱</tspan>
    </text>
-   <text x="509.43365" y="768.02244" id="text5464" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
+   <text x="509.43365" y="768.02244" id="text5464" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
     <tspan x="509.43365" y="808.02244" id="tspan3356">هاکون۵ سيمه</tspan>
    </text>
-   <text font-size="24px" font-style="oblique" font-weight="normal" text-anchor="middle" fill="#000000" fill-opacity="0.69006" font-family="DejaVu Sans" xml:space="preserve" id="text5474" y="931.26604" x="781.71721">
-    <tspan font-size="24px" font-style="oblique" font-weight="normal" text-anchor="middle" fill="#000000" fill-opacity="0.69006" font-family="DejaVu Sans" id="tspan5478" y="931.26604" x="781.71721">ديکسون سيمه</tspan>
+   <text font-size="24px" font-style="oblique" font-weight="normal" text-anchor="middle" fill="#000000" fill-opacity="0.69006" font-family="Amiri" xml:space="preserve" id="text5474" y="931.26604" x="781.71721">
+    <tspan font-size="24px" font-style="oblique" font-weight="normal" text-anchor="middle" fill="#000000" fill-opacity="0.69006" font-family="Amiri" id="tspan5478" y="931.26604" x="781.71721">ديکسون سيمه</tspan>
    </text>
-   <text x="659.43368" y="850.02244" id="text5484" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24px">
-    <tspan x="659.43368" y="850.02244" id="tspan5488" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24px">جېمز ۱</tspan>
-    <tspan x="659.43368" y="880.02244" id="tspan5492" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24px">سيمه</tspan>
+   <text x="659.43368" y="850.02244" id="text5484" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24px">
+    <tspan x="659.43368" y="850.02244" id="tspan5488" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24px">جېمز ۱</tspan>
+    <tspan x="659.43368" y="880.02244" id="tspan5492" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24px">سيمه</tspan>
    </text>
-   <text x="925.43368" y="1070.02247" id="text5494" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24px">
-    <tspan x="925.43368" y="1070.02247" id="tspan5496" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24px">سيمه</tspan>
-    <tspan x="925.43368" y="1100.02247" id="tspan5498" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24px">د بونسلو</tspan>
+   <text x="925.43368" y="1070.02247" id="text5494" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24px">
+    <tspan x="925.43368" y="1070.02247" id="tspan5496" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24px">سيمه</tspan>
+    <tspan x="925.43368" y="1100.02247" id="tspan5498" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24px">د بونسلو</tspan>
    </text>
-   <text x="993.43368" y="1212.02247" id="text5500" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24px">
-    <tspan x="993.43368" y="1212.02247" id="tspan5502" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24px">سيمه</tspan>
-    <tspan x="993.43368" y="1242.02247" id="tspan5504" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24px">د سابينه</tspan>
+   <text x="993.43368" y="1212.02247" id="text5500" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24px">
+    <tspan x="993.43368" y="1212.02247" id="tspan5502" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24px">سيمه</tspan>
+    <tspan x="993.43368" y="1242.02247" id="tspan5504" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24px">د سابينه</tspan>
    </text>
-   <text x="865.43368" y="552.02244" id="text5506" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">
-    <tspan x="865.43368" y="552.02244" id="tspan5510" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">ني فرايسلاند</tspan>
+   <text x="865.43368" y="552.02244" id="text5506" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">
+    <tspan x="865.43368" y="552.02244" id="tspan5510" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">ني فرايسلاند</tspan>
    </text>
-   <text x="1049.43368" y="900.02244" id="text5516" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">
-    <tspan x="1049.43368" y="900.02244" id="tspan5520" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">سيمه</tspan>
-    <tspan x="1049.43368" y="950.02244" id="tspan5524" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">د اولا ۵م</tspan>
+   <text x="1049.43368" y="900.02244" id="text5516" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">
+    <tspan x="1049.43368" y="900.02244" id="tspan5520" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">سيمه</tspan>
+    <tspan x="1049.43368" y="950.02244" id="tspan5524" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">د اولا ۵م</tspan>
    </text>
-   <text x="1350.22718" y="957.84336" id="text5526" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="1350.22718" y="957.84336" id="tspan5530" font-family="DejaVu Sans" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">کاپ</tspan>
-    <tspan x="1350.22718" y="992.84336" id="tspan5534" font-family="DejaVu Sans" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">پاير</tspan>
+   <text x="1350.22718" y="957.84336" id="text5526" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="1350.22718" y="957.84336" id="tspan5530" font-family="Amiri" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">کاپ</tspan>
+    <tspan x="1350.22718" y="992.84336" id="tspan5534" font-family="Amiri" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">پاير</tspan>
    </text>
-   <text x="1331.43358" y="598.02244" id="text5536" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="1331.43358" y="598.02244" id="tspan5540" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">سيمه</tspan>
-    <tspan x="1331.43358" y="633.02244" id="tspan5544" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">اډولف</tspan>
-    <tspan x="1331.43358" y="668.02244" id="tspan5546" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">د ګوستاو</tspan>
+   <text x="1331.43358" y="598.02244" id="text5536" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="1331.43358" y="598.02244" id="tspan5540" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">سيمه</tspan>
+    <tspan x="1331.43358" y="633.02244" id="tspan5544" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">اډولف</tspan>
+    <tspan x="1331.43358" y="668.02244" id="tspan5546" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">د ګوستاو</tspan>
    </text>
-   <text x="1193.43358" y="366.02244" id="text5548" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="1193.43358" y="366.02244" id="tspan5554" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">سيمه</tspan>
-    <tspan x="1193.43358" y="401.02244" id="tspan5560" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">د ګوستاو ۵م</tspan>
+   <text x="1193.43358" y="366.02244" id="text5548" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="1193.43358" y="366.02244" id="tspan5554" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">سيمه</tspan>
+    <tspan x="1193.43358" y="401.02244" id="tspan5560" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">د ګوستاو ۵م</tspan>
    </text>
-   <text x="1425.43358" y="298.02244" id="text5562" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="1425.43358" y="298.02244" id="tspan5566" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">ش. اوسکرسيمه</tspan>
+   <text x="1425.43358" y="298.02244" id="text5562" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="1425.43358" y="298.02244" id="tspan5566" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">ش. اوسکرسيمه</tspan>
    </text>
-   <text x="1661.43358" y="388.02244" id="text5574" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="1661.43358" y="388.02244" id="tspan5580" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">د اوروين سيمه</tspan>
+   <text x="1661.43358" y="388.02244" id="text5574" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="1661.43358" y="388.02244" id="tspan5580" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">د اوروين سيمه</tspan>
    </text>
-   <text x="1685.43358" y="722.02244" id="text5586" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="1685.43358" y="722.02244" id="tspan5588" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">کاپ</tspan>
-    <tspan x="1685.43358" y="757.02244" id="tspan5590" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">موهن</tspan>
+   <text x="1685.43358" y="722.02244" id="text5586" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="1685.43358" y="722.02244" id="tspan5588" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">کاپ</tspan>
+    <tspan x="1685.43358" y="757.02244" id="tspan5590" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">موهن</tspan>
    </text>
-   <text x="1347.74588" y="1692.19147" id="text5592" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="25.52448px">
-    <tspan x="1347.74588" y="1692.19147" id="tspan5594" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="25.52448px">نيګرو ټکۍ</tspan>
+   <text x="1347.74588" y="1692.19147" id="text5592" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="25.52448px">
+    <tspan x="1347.74588" y="1692.19147" id="tspan5594" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="25.52448px">نيګرو ټکۍ</tspan>
    </text>
-   <text x="702.67752" y="2050.82487" id="text5596" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="702.67752" y="2050.82487" id="tspan5598" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">سویلي کاپ</tspan>
+   <text x="702.67752" y="2050.82487" id="text5596" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="702.67752" y="2050.82487" id="tspan5598" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">سویلي کاپ</tspan>
    </text>
-   <text x="825.43368" y="1826.02247" id="text5600" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="825.43368" y="1826.02247" id="tspan5602" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">سيمه</tspan>
-    <tspan x="825.43368" y="1866.02247" id="tspan5604" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">سویلي کاپ</tspan>
+   <text x="825.43368" y="1826.02247" id="text5600" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="825.43368" y="1826.02247" id="tspan5602" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">سيمه</tspan>
+    <tspan x="825.43368" y="1866.02247" id="tspan5604" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">سویلي کاپ</tspan>
    </text>
-   <text x="952.71286" y="1458.32707" id="text5606" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="952.71286" y="1458.32707" id="tspan5608" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">هير سيمه</tspan>
+   <text x="952.71286" y="1458.32707" id="text5606" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="952.71286" y="1458.32707" id="tspan5608" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">هير سيمه</tspan>
    </text>
-   <text x="816.94833" y="1469.64077" id="text5612" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="816.94833" y="1469.64077" id="tspan5614" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">سيمه</tspan>
-    <tspan x="816.94833" y="1509.64077" id="tspan5616" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">ناتورسټ</tspan>
+   <text x="816.94833" y="1469.64077" id="text5612" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="816.94833" y="1469.64077" id="tspan5614" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">سيمه</tspan>
+    <tspan x="816.94833" y="1509.64077" id="tspan5616" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">ناتورسټ</tspan>
    </text>
-   <text x="669.87015" y="1379.13117" id="text5630" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.67251" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="669.87015" y="1379.13117" id="tspan5632" font-family="DejaVu Sans" fill-opacity="0.67251" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">سيمه</tspan>
-    <tspan x="669.87015" y="1414.13117" id="tspan5634" font-family="DejaVu Sans" fill-opacity="0.67251" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">نوردنسکیولد</tspan>
+   <text x="669.87015" y="1379.13117" id="text5630" xml:space="preserve" font-family="Amiri" fill-opacity="0.67251" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="669.87015" y="1379.13117" id="tspan5632" font-family="Amiri" fill-opacity="0.67251" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">سيمه</tspan>
+    <tspan x="669.87015" y="1414.13117" id="tspan5634" font-family="Amiri" fill-opacity="0.67251" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">نوردنسکیولد</tspan>
    </text>
-   <text x="709.02676" y="1599.63677" id="text5636" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="709.02676" y="1669.63677" id="tspan5646" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">يارلسبرګ وېدل سيمه</tspan>
+   <text x="709.02676" y="1599.63677" id="text5636" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="709.02676" y="1669.63677" id="tspan5646" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">يارلسبرګ وېدل سيمه</tspan>
    </text>
-   <text x="859.43362" y="1678.02247" id="text5648" xml:space="preserve" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">
-    <tspan x="859.43362" y="1678.02247" id="tspan5654" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">سيمه</tspan>
-    <tspan x="859.43362" y="1728.02247" id="tspan5661" font-family="DejaVu Sans" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">توﺭيل</tspan>
+   <text x="859.43362" y="1678.02247" id="text5648" xml:space="preserve" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">
+    <tspan x="859.43362" y="1678.02247" id="tspan5654" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">سيمه</tspan>
+    <tspan x="859.43362" y="1728.02247" id="tspan5661" font-family="Amiri" fill-opacity="0.69006" fill="#000000" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">توﺭيل</tspan>
    </text>
    <text x="2002.15298" y="147.89864" id="text5706" xml:space="preserve" font-family="DejaVu Serif" fill="#0d7aac" text-anchor="middle" font-weight="bold" font-style="normal" font-size="72px">
     <tspan x="2002.15298" y="147.89864" id="tspan5708" font-family="DejaVu Serif" text-anchor="middle" font-weight="bold" font-style="normal" font-size="72px">شمالي قطبي سمندر</tspan>
@@ -248,73 +248,73 @@
    <text x="332.41721" y="1783.29837" id="text5730" xml:space="preserve" font-family="DejaVu Serif" fill="#0d7aac" text-anchor="middle" font-weight="bold" font-style="normal" font-size="72px">
     <tspan x="332.41721" y="1873.29837" id="tspan5738" font-family="New Naskh" text-anchor="middle" font-weight="bold" font-style="normal" font-size="72px">د ګرينلنډ سمندر</tspan>
    </text>
-   <text x="49.45516" y="1397.50275" transform="matrix(0.90784273,-0.41931084,0.41931084,0.90784273,0,0) " id="text5740" xml:space="preserve" font-family="Omar Naskh" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">
-    <tspan x="49.45516" y="1397.50275" id="tspan5744" font-family="Omar Naskh" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">سړه دﺭه</tspan>
+   <text x="49.45516" y="1397.50275" transform="matrix(0.90784273,-0.41931084,0.41931084,0.90784273,0,0) " id="text5740" xml:space="preserve" font-family="Omar Naskh" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">
+    <tspan x="49.45516" y="1397.50275" id="tspan5744" font-family="Omar Naskh" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">سړه دﺭه</tspan>
    </text>
-   <text x="-173.45346" y="1263.46392" transform="matrix(0.9565206899999995,-0.29166449999999977,0.29166449999999977,0.9565206899999995,317.8571090698242,263.5377731323242) " id="text5748" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="48px">
-    <tspan x="-173.45346" y="1263.46392" id="tspan5750" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="48px">بلسوند</tspan>
+   <text x="-173.45346" y="1263.46392" transform="matrix(0.9565206899999995,-0.29166449999999977,0.29166449999999977,0.9565206899999995,317.8571090698242,263.5377731323242) " id="text5748" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="48px">
+    <tspan x="-173.45346" y="1263.46392" id="tspan5750" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="48px">بلسوند</tspan>
    </text>
    <text x="58.01164" y="1711.08892" transform="matrix(0.9565206799999998,-0.2916644999999999,0.2916644999999999,0.9565206799999998,143.52320098876953,193.6486587524414) " id="text5752" xml:space="preserve" font-family="Serif" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
     <tspan x="58.01164" y="1711.08892" id="tspan5754" font-family="Serif" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">هورنسوند</tspan>
    </text>
-   <text x="1061.0944" y="132.06471" transform="matrix(0.42772149000000015,0.9039105800000004,-0.9039105800000004,0.42772149000000015,50.70107883214946,56.53947472572316) " id="text5756" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="1061.0944" y="132.06471" id="tspan5758" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">فورلاندسونده</tspan>
+   <text x="1061.0944" y="132.06471" transform="matrix(0.42772149000000015,0.9039105800000004,-0.9039105800000004,0.42772149000000015,50.70107883214946,56.53947472572316) " id="text5756" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="1061.0944" y="132.06471" id="tspan5758" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">فورلاندسونده</tspan>
    </text>
-   <text x="473.30188" y="724.37384" transform="matrix(0.9714939899999994,0.23706419999999984,-0.23706419999999984,0.9714939899999994,50.7010788321495,56.53947472572326) " id="text5760" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="22.4625px">
-    <tspan x="473.30188" y="724.37384" id="tspan5762" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="22.4625px">د پاچا دره</tspan>
+   <text x="473.30188" y="724.37384" transform="matrix(0.9714939899999994,0.23706419999999984,-0.23706419999999984,0.9714939899999994,50.7010788321495,56.53947472572326) " id="text5760" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="22.4625px">
+    <tspan x="473.30188" y="724.37384" id="tspan5762" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="22.4625px">د پاچا دره</tspan>
    </text>
-   <text x="-1336.75289" y="1345.93826" transform="matrix(0.13339746,-0.99106262,0.99106262,0.13339746,0,0) " id="text5764" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="56px">
-    <tspan x="-1336.75289" y="1345.93826" id="tspan5768" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="56px">لويه دﺭه</tspan>
+   <text x="-1336.75289" y="1345.93826" transform="matrix(0.13339746,-0.99106262,0.99106262,0.13339746,0,0) " id="text5764" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="56px">
+    <tspan x="-1336.75289" y="1345.93826" id="tspan5768" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="56px">لويه دﺭه</tspan>
    </text>
-   <text x="-74.75159" y="2095.41579" transform="matrix(0.75419831,-0.65664671,0.65664671,0.75419831,0,0) " id="text5772" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="-74.75159" y="2095.41579" id="tspan5774" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">غل دره</tspan>
+   <text x="-74.75159" y="2095.41579" transform="matrix(0.75419831,-0.65664671,0.65664671,0.75419831,0,0) " id="text5772" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="-74.75159" y="2095.41579" id="tspan5774" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">غل دره</tspan>
    </text>
-   <text x="676.53269" y="-578.10465" transform="matrix(0.22268243,0.97489104,-0.97489104,0.22268243,0,0) " id="text5851" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="676.53269" y="-578.10465" id="tspan5855" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">پراخه دﺭه</tspan>
+   <text x="676.53269" y="-578.10465" transform="matrix(0.22268243,0.97489104,-0.97489104,0.22268243,0,0) " id="text5851" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="676.53269" y="-578.10465" id="tspan5855" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">پراخه دﺭه</tspan>
    </text>
-   <text x="-260.16153" y="806.36561" transform="matrix(0.4883492,-0.8726483,0.8726483,0.4883492,0,0) " id="text5859" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="24px">
-    <tspan x="-260.16153" y="806.36561" id="tspan5861" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="24px">د لرګي دره</tspan>
+   <text x="-260.16153" y="806.36561" transform="matrix(0.4883492,-0.8726483,0.8726483,0.4883492,0,0) " id="text5859" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="24px">
+    <tspan x="-260.16153" y="806.36561" id="tspan5861" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="24px">د لرګي دره</tspan>
    </text>
-   <text x="1287.80098" y="192.05223" id="text5863" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="1287.80098" y="192.05223" id="tspan5867" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">د نوردنسکیولد خليج</tspan>
+   <text x="1287.80098" y="192.05223" id="text5863" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="1287.80098" y="192.05223" id="tspan5867" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">د نوردنسکیولد خليج</tspan>
    </text>
-   <text x="1034.06673" y="1476.14507" transform="matrix(0.97858162,-0.2058592,0.2058592,0.97858162,0,0) " id="text5875" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24.90773px">
-    <tspan x="1034.06673" y="1476.14507" id="tspan5877" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="24.90773px">فري مان تنګ لاره</tspan>
+   <text x="1034.06673" y="1476.14507" transform="matrix(0.97858162,-0.2058592,0.2058592,0.97858162,0,0) " id="text5875" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24.90773px">
+    <tspan x="1034.06673" y="1476.14507" id="tspan5877" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="24.90773px">فري مان تنګ لاره</tspan>
    </text>
-   <text x="1787.05262" y="-398.32958" transform="matrix(0.78635962,0.61776901,-0.61776901,0.78635962,0,0) " id="text5879" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="1787.05262" y="-398.32958" id="tspan5883" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">- کلرک</tspan>
-    <tspan x="1787.05262" y="-353.32958" id="tspan5887" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="32px">بکتا</tspan>
+   <text x="1787.05262" y="-398.32958" transform="matrix(0.78635962,0.61776901,-0.61776901,0.78635962,0,0) " id="text5879" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="1787.05262" y="-398.32958" id="tspan5883" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">- کلرک</tspan>
+    <tspan x="1787.05262" y="-353.32958" id="tspan5887" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="32px">بکتا</tspan>
    </text>
-   <text x="1733.61518" y="621.35759" id="text5889" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="1733.61518" y="621.35759" id="tspan5893" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">هارتوګ بکتا</tspan>
+   <text x="1733.61518" y="621.35759" id="text5889" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="1733.61518" y="621.35759" id="tspan5893" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">هارتوګ بکتا</tspan>
    </text>
-   <text x="-43.12815" y="1539.21183" transform="matrix(0.18866381,-0.98204173,0.98204173,0.18866381,0,0) " id="text5897" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="-43.12815" y="1539.21183" id="tspan5899" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">دووه دره</tspan>
+   <text x="-43.12815" y="1539.21183" transform="matrix(0.18866381,-0.98204173,0.98204173,0.18866381,0,0) " id="text5897" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="-43.12815" y="1539.21183" id="tspan5899" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">دووه دره</tspan>
    </text>
-   <text x="867.07099" y="-484.26549" transform="matrix(0.5857873099999998,0.8104648199999998,-0.8104648199999998,0.5857873099999998,48.98461151123046,53.78307342529297) " id="text5901" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">
-    <tspan x="867.07099" y="-484.26549" id="tspan5903" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="32px">هينلوپين لاره</tspan>
+   <text x="867.07099" y="-484.26549" transform="matrix(0.5857873099999998,0.8104648199999998,-0.8104648199999998,0.5857873099999998,48.98461151123046,53.78307342529297) " id="text5901" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">
+    <tspan x="867.07099" y="-484.26549" id="tspan5903" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="32px">هينلوپين لاره</tspan>
    </text>
-   <text x="1036.41938" y="850.92866" transform="matrix(0.96745828,-0.25303059,0.25303059,0.96745828,0,0) " id="text5905" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="1036.41938" y="850.92866" id="tspan5907" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">والېنبرګ دﺭه</tspan>
+   <text x="1036.41938" y="850.92866" transform="matrix(0.96745828,-0.25303059,0.25303059,0.96745828,0,0) " id="text5905" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="1036.41938" y="850.92866" id="tspan5907" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">والېنبرګ دﺭه</tspan>
    </text>
-   <text x="-728.32308" y="1182.78936" transform="matrix(0.37892981,-0.92542542,0.92542542,0.37892981,0,0) " id="text5911" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="-728.32308" y="1182.78936" id="tspan5915" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">بيله دﺭه</tspan>
+   <text x="-728.32308" y="1182.78936" transform="matrix(0.37892981,-0.92542542,0.92542542,0.37892981,0,0) " id="text5911" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="-728.32308" y="1182.78936" id="tspan5915" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">بيله دﺭه</tspan>
    </text>
-   <text x="80.95006" y="1241.71892" transform="matrix(0.9565206899999995,-0.29166449999999977,0.29166449999999977,0.9565206899999995,317.8571090698242,263.5377731323242) " id="text5919" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="80.95006" y="1241.71892" id="tspan5921" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">وان مييېن دﺭه</tspan>
+   <text x="80.95006" y="1241.71892" transform="matrix(0.9565206899999995,-0.29166449999999977,0.29166449999999977,0.9565206899999995,317.8571090698242,263.5377731323242) " id="text5919" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="80.95006" y="1241.71892" id="tspan5921" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">وان مييېن دﺭه</tspan>
    </text>
-   <text x="1858.43604" y="-727.04268" transform="matrix(0.54634769,0.83755848,-0.83755848,0.54634769,0,0) " id="text5923" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">
-    <tspan x="1858.43604" y="-727.04268" id="tspan5927" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">اولګا دره</tspan>
+   <text x="1858.43604" y="-727.04268" transform="matrix(0.54634769,0.83755848,-0.83755848,0.54634769,0,0) " id="text5923" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">
+    <tspan x="1858.43604" y="-727.04268" id="tspan5927" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">اولګا دره</tspan>
    </text>
-   <text x="1185.22797" y="1701.05739" transform="matrix(0.82755821,-0.56137991,0.56137991,0.82755821,0,0) " id="text5931" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">
-    <tspan x="1185.22797" y="1701.05739" id="tspan5933" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="40px">اېريک اېريکسن لاره</tspan>
+   <text x="1185.22797" y="1701.05739" transform="matrix(0.82755821,-0.56137991,0.56137991,0.82755821,0,0) " id="text5931" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">
+    <tspan x="1185.22797" y="1701.05739" id="tspan5933" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="40px">اېريک اېريکسن لاره</tspan>
    </text>
    <path d="m934.20108,860.29078l5.64579,9.7788l-11.29158,0l5.64579,-9.7788z" id="path2826" fill="#000000"/>
-   <text x="880.23209" y="859.72203" id="text3797" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="20px">
-    <tspan x="880.23209" y="859.72203" id="tspan3801" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="20px">۱۷۱۳</tspan>
-    <tspan x="880.23209" y="859.72203" id="tspan3360" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="20px"/>
+   <text x="880.23209" y="859.72203" id="text3797" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="20px">
+    <tspan x="880.23209" y="859.72203" id="tspan3801" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="20px">۱۷۱۳</tspan>
+    <tspan x="880.23209" y="859.72203" id="tspan3360" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="20px"/>
    </text>
-   <text x="-429.57498" y="1081.14837" transform="matrix(0.19182245,-0.98142964,0.98142964,0.19182245,0,0) " id="text6314" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="18.0665px">لوم دﺭه</text>
+   <text x="-429.57498" y="1081.14837" transform="matrix(0.19182245,-0.98142964,0.98142964,0.19182245,0,0) " id="text6314" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="18.0665px">لوم دﺭه</text>
    <text x="884.1351" y="271.8063" id="text6320" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="20px">
     <tspan x="884.1351" y="271.8063" id="tspan6322" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="20px">لوګ ټاپو</tspan>
    </text>
@@ -333,64 +333,64 @@
    <text x="1484.63178" y="1644.58377" id="text6340" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">
     <tspan x="1484.63178" y="1644.58377" id="tspan6342" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">نيمايي مياشت ټاپو</tspan>
    </text>
-   <text x="1570.06608" y="2039.20257" id="text6344" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1570.06608" y="2039.20257" id="tspan6346" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">تهور کاپ</tspan>
+   <text x="1570.06608" y="2039.20257" id="text6344" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1570.06608" y="2039.20257" id="tspan6346" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">تهور کاپ</tspan>
    </text>
-   <text x="1196.06408" y="1592.00497" id="text6348" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1196.06408" y="1592.00497" id="tspan6350" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">کوالپينتن</tspan>
+   <text x="1196.06408" y="1592.00497" id="text6348" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1196.06408" y="1592.00497" id="tspan6350" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">کوالپينتن</tspan>
    </text>
-   <text x="1235.64368" y="1284.40607" id="text6352" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="end" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1235.64368" y="1284.40607" id="tspan6354" font-family="DejaVu Sans" fill="#000000" text-anchor="end" font-weight="normal" font-style="Arial" font-size="14.46994px">کاپ لي</tspan>
+   <text x="1235.64368" y="1284.40607" id="text6352" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="end" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1235.64368" y="1284.40607" id="tspan6354" font-family="Amiri" fill="#000000" text-anchor="end" font-weight="normal" font-style="Amiri" font-size="14.46994px">کاپ لي</tspan>
    </text>
-   <text x="1354.05248" y="1061.58077" id="text6356" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1354.05248" y="1061.58077" id="tspan6358" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">کاپ ﺯييه هين</tspan>
+   <text x="1354.05248" y="1061.58077" id="text6356" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1354.05248" y="1061.58077" id="tspan6358" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">کاپ ﺯييه هين</tspan>
    </text>
-   <text x="976.59423" y="-538.92531" transform="matrix(0.2725632,0.96213788,-0.96213788,0.2725632,0,0) " id="text6360" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="20.04617px">
-    <tspan x="976.59423" y="-538.92531" id="tspan6362" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="20.04617px">اوست دﺭه</tspan>
+   <text x="976.59423" y="-538.92531" transform="matrix(0.2725632,0.96213788,-0.96213788,0.2725632,0,0) " id="text6360" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="20.04617px">
+    <tspan x="976.59423" y="-538.92531" id="tspan6362" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="20.04617px">اوست دﺭه</tspan>
    </text>
-   <text x="1055.75806" y="1314.93134" transform="matrix(0.97322204,0.22986705,-0.22986705,0.97322204,0,0) " id="text6364" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="18.54774px">
-    <tspan x="1055.75806" y="1314.93134" id="tspan6366" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="18.54774px">وان کېلوين دﺭه</tspan>
+   <text x="1055.75806" y="1314.93134" transform="matrix(0.97322204,0.22986705,-0.22986705,0.97322204,0,0) " id="text6364" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="18.54774px">
+    <tspan x="1055.75806" y="1314.93134" id="tspan6366" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="18.54774px">وان کېلوين دﺭه</tspan>
    </text>
-   <text x="373.97638" y="1248.11047" id="text6368" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="16px">سالپينتن</text>
-   <text x="585.72256" y="1504.54706" transform="matrix(0.8901618,-0.45564456,0.45564456,0.8901618,0,0) " id="text6421" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="19.32954px">
-    <tspan x="585.72256" y="1504.54706" id="tspan6423" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="19.32954px">جينيوره تنګ لاره</tspan>
+   <text x="373.97638" y="1248.11047" id="text6368" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="16px">سالپينتن</text>
+   <text x="585.72256" y="1504.54706" transform="matrix(0.8901618,-0.45564456,0.45564456,0.8901618,0,0) " id="text6421" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="19.32954px">
+    <tspan x="585.72256" y="1504.54706" id="tspan6423" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="19.32954px">جينيوره تنګ لاره</tspan>
    </text>
-   <text x="824.40472" y="-766.89804" transform="matrix(0.49340324,0.86980069,-0.86980069,0.49340324,0,0) " id="text6425" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="12.86395px">
-    <tspan x="824.40472" y="-766.89804" id="tspan6427" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="12.86395px">میرمن فرانکلین دره</tspan>
+   <text x="824.40472" y="-766.89804" transform="matrix(0.49340324,0.86980069,-0.86980069,0.49340324,0,0) " id="text6425" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="12.86395px">
+    <tspan x="824.40472" y="-766.89804" id="tspan6427" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="12.86395px">میرمن فرانکلین دره</tspan>
    </text>
-   <text x="784.04083" y="-827.0328" transform="matrix(0.49340324,0.86980069,-0.86980069,0.49340324,0,0) " id="text6429" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="12.86395px">
-    <tspan x="784.04083" y="-827.0328" id="tspan6431" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="12.86395px">برينوين/شراب دره</tspan>
+   <text x="784.04083" y="-827.0328" transform="matrix(0.49340324,0.86980069,-0.86980069,0.49340324,0,0) " id="text6429" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="12.86395px">
+    <tspan x="784.04083" y="-827.0328" id="tspan6431" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="12.86395px">برينوين/شراب دره</tspan>
    </text>
-   <text x="441.59341" y="-1144.06648" transform="matrix(0.2509573700000002,0.9679981400000006,-0.9679981400000006,0.2509573700000002,144.52320098876953,194.6486587524414) " id="text6433" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="17.76437px">
-    <tspan x="441.59341" y="-1144.06648" id="tspan6435" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="17.76437px">ريپ دره</tspan>
+   <text x="441.59341" y="-1144.06648" transform="matrix(0.2509573700000002,0.9679981400000006,-0.9679981400000006,0.2509573700000002,144.52320098876953,194.6486587524414) " id="text6433" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="17.76437px">
+    <tspan x="441.59341" y="-1144.06648" id="tspan6435" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="17.76437px">ريپ دره</tspan>
    </text>
    <text x="1570.56708" y="224.55113" id="text6437" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">
     <tspan x="1570.56708" y="224.55113" id="tspan6439" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">ريپ ټاپوګان</tspan>
    </text>
-   <text x="188.43332" y="919.01469" id="text6515" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="16px">فوګله هوکن/قفس</text>
-   <text x="1661.23688" y="1883.25257" id="text6517" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1661.23688" y="1883.25257" id="tspan6519" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">بیسارين</tspan>
+   <text x="188.43332" y="919.01469" id="text6515" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="16px">فوګله هوکن/قفس</text>
+   <text x="1661.23688" y="1883.25257" id="text6517" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1661.23688" y="1883.25257" id="tspan6519" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">بیسارين</tspan>
    </text>
-   <text x="1576.37858" y="1384.27727" id="text6521" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1576.37858" y="1384.27727" id="tspan6523" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">ستونه پينتن</tspan>
+   <text x="1576.37858" y="1384.27727" id="text6521" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1576.37858" y="1384.27727" id="tspan6523" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">ستونه پينتن</tspan>
    </text>
-   <text x="1710.33818" y="1051.98381" id="text6525" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1710.33818" y="1051.98381" id="tspan6527" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">کاپ هامرفست</tspan>
+   <text x="1710.33818" y="1051.98381" id="text6525" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1710.33818" y="1051.98381" id="tspan6527" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">کاپ هامرفست</tspan>
    </text>
-   <text x="1677.94848" y="952.41575" id="text6529" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1677.94848" y="952.41575" id="tspan6531" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">ارنېسن‌اودن</tspan>
+   <text x="1677.94848" y="952.41575" id="text6529" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1677.94848" y="952.41575" id="tspan6531" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">ارنېسن‌اودن</tspan>
    </text>
-   <text x="2198.43911" y="-633.92382" transform="matrix(0.77203765,0.6355768,-0.6355768,0.77203765,0,0) " id="text6533" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="13.67297px">
-    <tspan x="2198.43911" y="-633.92382" id="tspan6535" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="13.67297px">ليديانناسونده</tspan>
+   <text x="2198.43911" y="-633.92382" transform="matrix(0.77203765,0.6355768,-0.6355768,0.77203765,0,0) " id="text6533" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="13.67297px">
+    <tspan x="2198.43911" y="-633.92382" id="tspan6535" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="13.67297px">ليديانناسونده</tspan>
    </text>
-   <text x="2037.06071" y="-437.36263" transform="matrix(0.77203765,0.6355768,-0.6355768,0.77203765,0,0) " id="text6537" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="13.67297px">
-    <tspan x="2037.06071" y="-437.36263" id="tspan6539" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="13.67297px">ريوالنسونده</tspan>
+   <text x="2037.06071" y="-437.36263" transform="matrix(0.77203765,0.6355768,-0.6355768,0.77203765,0,0) " id="text6537" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="13.67297px">
+    <tspan x="2037.06071" y="-437.36263" id="tspan6539" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="13.67297px">ريوالنسونده</tspan>
    </text>
-   <text x="1881.88308" y="896.03385" id="text6541" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1881.88308" y="896.03385" id="tspan6543" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">نوردنېسه</tspan>
+   <text x="1881.88308" y="896.03385" id="text6541" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1881.88308" y="896.03385" id="tspan6543" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">نوردنېسه</tspan>
    </text>
-   <text x="2029.43578" y="959.61344" id="text6545" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="2029.43578" y="959.61344" id="tspan6547" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">توممر نېسه</tspan>
+   <text x="2029.43578" y="959.61344" id="text6545" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="2029.43578" y="959.61344" id="tspan6547" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">توممر نېسه</tspan>
    </text>
    <text x="1761.30578" y="222.1519" id="text6549" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">
     <tspan x="1761.30578" y="222.1519" id="tspan6551" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">فوی نويا</tspan>
@@ -401,9 +401,9 @@
    <text x="1340.99978" y="884.35038" id="text3275" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">
     <tspan x="1340.99978" y="884.35038" id="tspan3277" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">کییپرټ ټاپو</tspan>
    </text>
-   <text x="284.00523" y="1142.54437" id="text3279" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="16px">کالدنېسه</text>
-   <text x="1069.74368" y="1306.30227" id="text3281" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">
-    <tspan x="1069.74368" y="1306.30227" id="tspan3283" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="14.46994px">ريونوسا</tspan>
+   <text x="284.00523" y="1142.54437" id="text3279" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="16px">کالدنېسه</text>
+   <text x="1069.74368" y="1306.30227" id="text3281" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">
+    <tspan x="1069.74368" y="1306.30227" id="tspan3283" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="14.46994px">ريونوسا</tspan>
    </text>
    <text x="1665.77358" y="1440.64917" id="text3285" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">
     <tspan x="1665.77358" y="1440.64917" id="tspan3287" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">ريکه ېېسه ټاپوګان</tspan>
@@ -411,38 +411,38 @@
    <text x="1304.68948" y="1783.73917" id="text3289" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">
     <tspan x="1304.68948" y="1783.73917" id="tspan3291" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="15px">توسن ټاپوګان</tspan>
    </text>
-   <text x="1791.44378" y="535.31816" id="text3293" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="20.22938px">ايسپينتن</text>
-   <text x="1844.62798" y="466.94007" id="text3299" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="20.22938px">اټاليا اوددن</text>
-   <text x="1835.84838" y="367.05769" id="text3309" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="16.43853px">
-    <tspan x="1835.84838" y="367.05769" id="tspan3311" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="16.43853px">کاپ</tspan>
-    <tspan x="1835.84838" y="387.60588" id="tspan3313" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="16.43853px">لاوﺭا</tspan>
+   <text x="1791.44378" y="535.31816" id="text3293" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="20.22938px">ايسپينتن</text>
+   <text x="1844.62798" y="466.94007" id="text3299" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="20.22938px">اټاليا اوددن</text>
+   <text x="1835.84838" y="367.05769" id="text3309" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="16.43853px">
+    <tspan x="1835.84838" y="367.05769" id="tspan3311" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="16.43853px">کاپ</tspan>
+    <tspan x="1835.84838" y="387.60588" id="tspan3313" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="16.43853px">لاوﺭا</tspan>
    </text>
-   <text x="514.72867" y="477.55629" id="text3315" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="16px">ويلکومين پينتن</text>
+   <text x="514.72867" y="477.55629" id="text3315" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="16px">ويلکومين پينتن</text>
    <text x="1181.16328" y="775.92955" id="text3317" xml:space="preserve" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="11px">
     <tspan x="1181.16328" y="775.92955" id="tspan3319" font-family="DejaVu Serif" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="11px">وون اوتتر ټاپوګان</tspan>
    </text>
-   <text x="-563.93038" y="736.97083" transform="matrix(0.4883492,-0.8726483,0.8726483,0.4883492,0,0) " id="text3325" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="19.68764px">
-    <tspan x="-563.93038" y="736.97083" id="tspan3327" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="19.68764px">کراس دره.</tspan>
+   <text x="-563.93038" y="736.97083" transform="matrix(0.4883492,-0.8726483,0.8726483,0.4883492,0,0) " id="text3325" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="19.68764px">
+    <tspan x="-563.93038" y="736.97083" id="tspan3327" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="19.68764px">کراس دره.</tspan>
    </text>
-   <text x="285.80241" y="855.97578" id="text3329" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="12.79111px">کاپ ليننه</text>
-   <text x="309.55357" y="1005.17468" id="text3331" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="Arial" font-size="12.79111px">لوګنېسه</text>
-   <text x="615.86908" y="700.30289" transform="matrix(0.99918329,0.04040731,-0.04040731,0.99918329,0,0) " id="text3330" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="615.86908" y="700.30289" id="tspan3332" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">تېمپل دﺭه</tspan>
+   <text x="285.80241" y="855.97578" id="text3329" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="12.79111px">کاپ ليننه</text>
+   <text x="309.55357" y="1005.17468" id="text3331" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="12.79111px">لوګنېسه</text>
+   <text x="615.86908" y="700.30289" transform="matrix(0.99918329,0.04040731,-0.04040731,0.99918329,0,0) " id="text3330" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="615.86908" y="700.30289" id="tspan3332" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">تېمپل دﺭه</tspan>
    </text>
-   <text x="108.72876" y="893.1995" transform="matrix(0.8882744,-0.45931317,0.45931317,0.8882744,0,0) " id="text3334" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="108.72876" y="893.1995" id="tspan3336" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="Arial" font-size="28px">ساسېن دﺭه</tspan>
+   <text x="108.72876" y="893.1995" transform="matrix(0.8882744,-0.45931317,0.45931317,0.8882744,0,0) " id="text3334" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="108.72876" y="893.1995" id="tspan3336" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="Amiri" font-size="28px">ساسېن دﺭه</tspan>
    </text>
-   <text x="-587.23822" y="597.99268" transform="matrix(0.1654937,-0.98621085,0.98621085,0.1654937,0,0) " id="text3338" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">
-    <tspan x="-587.23822" y="597.99268" id="tspan3340" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="28px">ايکمان دﺭه</tspan>
+   <text x="-587.23822" y="597.99268" transform="matrix(0.1654937,-0.98621085,0.98621085,0.1654937,0,0) " id="text3338" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">
+    <tspan x="-587.23822" y="597.99268" id="tspan3340" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="28px">ايکمان دﺭه</tspan>
    </text>
-   <text x="74.33119" y="173.89289" transform="matrix(0.99313778,0.1169502,-0.1169502,0.99313778,0,0) " id="text3342" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="14px">
-    <tspan x="74.33119" y="173.89289" id="tspan3344" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="14px">مګدالېنه دﺭه</tspan>
+   <text x="74.33119" y="173.89289" transform="matrix(0.99313778,0.1169502,-0.1169502,0.99313778,0,0) " id="text3342" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="14px">
+    <tspan x="74.33119" y="173.89289" id="tspan3344" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="14px">مګدالېنه دﺭه</tspan>
    </text>
-   <text x="149.44883" y="-156.03327" transform="matrix(0.35683542,0.93416727,-0.93416727,0.35683542,0,0) " id="text3346" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="14px">
-    <tspan x="149.44883" y="-156.03327" id="tspan3348" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="14px">ﺭاود دﺭه</tspan>
+   <text x="149.44883" y="-156.03327" transform="matrix(0.35683542,0.93416727,-0.93416727,0.35683542,0,0) " id="text3346" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="14px">
+    <tspan x="149.44883" y="-156.03327" id="tspan3348" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="14px">ﺭاود دﺭه</tspan>
    </text>
-   <text x="205.10273" y="276.33028" transform="matrix(0.92027258,-0.39127787,0.39127787,0.92027258,0,0) " id="text3350" xml:space="preserve" font-family="DejaVu Sans" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="14px">
-    <tspan x="205.10273" y="276.33028" id="tspan3352" font-family="DejaVu Sans" text-anchor="middle" font-weight="normal" font-style="Arial" font-size="14px">لي اف دف دره</tspan>
+   <text x="205.10273" y="276.33028" transform="matrix(0.92027258,-0.39127787,0.39127787,0.92027258,0,0) " id="text3350" xml:space="preserve" font-family="Amiri" fill="#0d7aac" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="14px">
+    <tspan x="205.10273" y="276.33028" id="tspan3352" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="Amiri" font-size="14px">لي اف دف دره</tspan>
    </text>
   </g>
   <g id="layer9" display="inline">
@@ -482,83 +482,83 @@
    </text>
    <path d="m14.70941,2154.1742l561.4199,0m-493.0133,-96.4534l0,464.5688m391.9999,-469.3673l0,469.3673m101.0134,-368.1154m-561.4199,0m68.4066,-96.4534m391.9999,-4.7985" id="path6328" stroke-dashoffset="0" stroke-miterlimit="4" stroke-width="0.5" stroke="#000000" fill="none"/>
    <path d="m1,1l0,2534.7812l2495.1875,0l0,-2534.7812l-2495.1875,0zm48,52.78125l2399.2188,0l0,2429.21875l-1859.9688,0l0,-443.0938l-539.25,0l0,-1986.12495zm0.625,2038.90625l490.625,0l0,389.875l-490.625,0l0,-389.875z" id="rect5260" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linecap="round" stroke-width="2" stroke="#000000" fill-rule="evenodd" fill="#ffffff"/>
-   <text x="394.43657" y="-2460.80661" transform="matrix(0,1,-1,0,0,0) " id="text5794" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="394.43657" y="-2460.80661" id="tspan5796" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۸۰°</tspan>
+   <text x="394.43657" y="-2460.80661" transform="matrix(0,1,-1,0,0,0) " id="text5794" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="394.43657" y="-2460.80661" id="tspan5796" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۸۰°</tspan>
    </text>
-   <text x="1274.26667" y="-2460.97651" transform="matrix(0,1,-1,0,0,0) " id="text5798" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1274.26667" y="-2460.97651" id="tspan5800" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۸°</tspan>
+   <text x="1274.26667" y="-2460.97651" transform="matrix(0,1,-1,0,0,0) " id="text5798" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1274.26667" y="-2460.97651" id="tspan5800" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۸°</tspan>
    </text>
-   <text x="2172.26667" y="-2460.97651" transform="matrix(0,1,-1,0,0,0) " id="text5802" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2172.26667" y="-2460.97651" id="tspan5804" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۶°</tspan>
+   <text x="2172.26667" y="-2460.97651" transform="matrix(0,1,-1,0,0,0) " id="text5802" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2172.26667" y="-2460.97651" id="tspan5804" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۶°</tspan>
    </text>
-   <text x="2295.40751" y="39.12604" id="text5806" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2295.40751" y="39.12604" id="tspan5808" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۳۲°</tspan>
+   <text x="2295.40751" y="39.12604" id="text5806" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2295.40751" y="39.12604" id="tspan5808" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۳۲°</tspan>
    </text>
-   <text x="1907.40751" y="39.12604" id="text5810" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1907.40751" y="39.12604" id="tspan5812" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۸°</tspan>
+   <text x="1907.40751" y="39.12604" id="text5810" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1907.40751" y="39.12604" id="tspan5812" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۸°</tspan>
    </text>
-   <text x="1527.40751" y="39.12604" id="text5814" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1527.40751" y="39.12604" id="tspan5816" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۴°</tspan>
+   <text x="1527.40751" y="39.12604" id="text5814" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1527.40751" y="39.12604" id="tspan5816" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۴°</tspan>
    </text>
-   <text x="1153.40751" y="39.12604" id="text5818" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1153.40751" y="39.12604" id="tspan5820" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۰°</tspan>
+   <text x="1153.40751" y="39.12604" id="text5818" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1153.40751" y="39.12604" id="tspan5820" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۰°</tspan>
    </text>
-   <text x="763.40746" y="39.12604" id="text5822" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="763.40746" y="39.12604" id="tspan5824" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۶°</tspan>
+   <text x="763.40746" y="39.12604" id="text5822" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="763.40746" y="39.12604" id="tspan5824" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۶°</tspan>
    </text>
-   <text x="363.40743" y="39.12604" id="text5826" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="363.40743" y="39.12604" id="tspan5828" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۲°</tspan>
+   <text x="363.40743" y="39.12604" id="text5826" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="363.40743" y="39.12604" id="tspan5828" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۲°</tspan>
    </text>
-   <text x="2295.40751" y="2519.91227" id="text6557" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2295.40751" y="2519.91227" id="tspan6559" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۳۲°</tspan>
+   <text x="2295.40751" y="2519.91227" id="text6557" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2295.40751" y="2519.91227" id="tspan6559" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۳۲°</tspan>
    </text>
-   <text x="1907.40751" y="2519.91227" id="text6561" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1907.40751" y="2519.91227" id="tspan6563" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۸°</tspan>
+   <text x="1907.40751" y="2519.91227" id="text6561" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1907.40751" y="2519.91227" id="tspan6563" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۸°</tspan>
    </text>
-   <text x="1527.40751" y="2519.91227" id="text6565" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1527.40751" y="2519.91227" id="tspan6567" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۴°</tspan>
+   <text x="1527.40751" y="2519.91227" id="text6565" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1527.40751" y="2519.91227" id="tspan6567" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۴°</tspan>
    </text>
-   <text x="1153.40751" y="2519.91227" id="text6569" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1153.40751" y="2519.91227" id="tspan6571" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۰°</tspan>
+   <text x="1153.40751" y="2519.91227" id="text6569" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1153.40751" y="2519.91227" id="tspan6571" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۰°</tspan>
    </text>
-   <text x="763.40746" y="2519.91227" id="text6573" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="763.40746" y="2519.91227" id="tspan6575" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۶°</tspan>
+   <text x="763.40746" y="2519.91227" id="text6573" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="763.40746" y="2519.91227" id="tspan6575" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۶°</tspan>
    </text>
-   <text x="-445.29595" y="39.01562" transform="matrix(0,-1,1,0,0,0) " id="text6581" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="-445.29595" y="39.01562" id="tspan6583" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۸۰°</tspan>
+   <text x="-445.29595" y="39.01562" transform="matrix(0,-1,1,0,0,0) " id="text6581" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="-445.29595" y="39.01562" id="tspan6583" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۸۰°</tspan>
    </text>
-   <text x="-1323.63587" y="39.18554" transform="matrix(0,-1,1,0,0,0) " id="text6585" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="-1323.63587" y="39.18554" id="tspan6587" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۸°</tspan>
+   <text x="-1323.63587" y="39.18554" transform="matrix(0,-1,1,0,0,0) " id="text6585" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="-1323.63587" y="39.18554" id="tspan6587" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۸°</tspan>
    </text>
-   <text x="-1761.33597" y="39.18554" transform="matrix(0,-1,1,0,0,0) " id="text24225" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="-1761.33597" y="39.18554" id="tspan24227" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۷°</tspan>
+   <text x="-1761.33597" y="39.18554" transform="matrix(0,-1,1,0,0,0) " id="text24225" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="-1761.33597" y="39.18554" id="tspan24227" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۷°</tspan>
    </text>
-   <text x="-872.81701" y="39.01562" transform="matrix(0,-1,1,0,0,0) " id="text24229" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="-872.81701" y="39.01562" id="tspan24231" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۹°</tspan>
+   <text x="-872.81701" y="39.01562" transform="matrix(0,-1,1,0,0,0) " id="text24229" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="-872.81701" y="39.01562" id="tspan24231" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۹°</tspan>
    </text>
-   <text x="461.58294" y="2509.75597" id="text6426" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
-    <tspan x="461.58294" y="2509.75597" id="tspan6428" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۲۰°</tspan>
+   <text x="461.58294" y="2509.75597" id="text6426" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
+    <tspan x="461.58294" y="2509.75597" id="tspan6428" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۲۰°</tspan>
    </text>
-   <text x="69.88644" y="2508.05947" id="text6432" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
-    <tspan x="69.88644" y="2508.05947" id="tspan6434" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۱۶°</tspan>
+   <text x="69.88644" y="2508.05947" id="text6432" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
+    <tspan x="69.88644" y="2508.05947" id="tspan6434" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۱۶°</tspan>
    </text>
-   <text x="-2168.26407" y="41.97876" transform="matrix(0,-1,1,0,0,0) " id="text6436" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
-    <tspan x="-2168.26407" y="41.97876" id="tspan6438" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۷۵°</tspan>
+   <text x="-2168.26407" y="41.97876" transform="matrix(0,-1,1,0,0,0) " id="text6436" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
+    <tspan x="-2168.26407" y="41.97876" id="tspan6438" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۷۵°</tspan>
    </text>
-   <text x="2139.99967" y="-546.23318" transform="matrix(0,1,-1,0,0,0) " id="text6442" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
-    <tspan x="2139.99967" y="-546.23318" id="tspan6444" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۷۵°</tspan>
+   <text x="2139.99967" y="-546.23318" transform="matrix(0,1,-1,0,0,0) " id="text6442" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
+    <tspan x="2139.99967" y="-546.23318" id="tspan6444" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۷۵°</tspan>
    </text>
-   <text x="461.58294" y="2086.25637" id="text6446" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
-    <tspan x="461.58294" y="2086.25637" id="tspan6448" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۲۰°</tspan>
+   <text x="461.58294" y="2086.25637" id="text6446" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
+    <tspan x="461.58294" y="2086.25637" id="tspan6448" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۲۰°</tspan>
    </text>
-   <text x="68.18992" y="2084.55977" id="text6450" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
-    <tspan x="68.18992" y="2084.55977" id="tspan6452" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۱۶°</tspan>
+   <text x="68.18992" y="2084.55977" id="text6450" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">
+    <tspan x="68.18992" y="2084.55977" id="tspan6452" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="24px">۱۶°</tspan>
    </text>
-   <text x="1716.36527" y="-2460.46681" transform="matrix(0,1,-1,0,0,0) " id="text3402" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1716.36527" y="-2460.46681" id="tspan3404" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۷°</tspan>
+   <text x="1716.36527" y="-2460.46681" transform="matrix(0,1,-1,0,0,0) " id="text3402" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1716.36527" y="-2460.46681" id="tspan3404" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۷°</tspan>
    </text>
-   <text x="827.8463" y="-2460.80661" transform="matrix(0,1,-1,0,0,0) " id="text3406" xml:space="preserve" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="827.8463" y="-2460.80661" id="tspan3408" font-family="DejaVu Sans" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۹°</tspan>
+   <text x="827.8463" y="-2460.80661" transform="matrix(0,1,-1,0,0,0) " id="text3406" xml:space="preserve" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="827.8463" y="-2460.80661" id="tspan3408" font-family="Amiri" fill="#000000" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۹°</tspan>
    </text>
   </g>
   <g id="layer10" display="inline">
@@ -611,80 +611,80 @@
    <path d="m1950.91436,2172.22532l66.2832,0" id="path4243" stroke-miterlimit="4" stroke-width="2" stroke="#000000" fill="none"/>
    <path d="m1950.91436,2207.18142l66.2832,0" id="path4245" stroke-miterlimit="4" stroke-width="2" stroke="#000000" fill="none"/>
    <path d="m2115.47996,1955.95902l66.2832,0" id="path4211" stroke-miterlimit="4" stroke-width="2" stroke="#000000" fill="none"/>
-   <text x="2176.68216" y="2256.63708" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4287" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="2256.63708" id="tspan4289" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۵ م</tspan>
+   <text x="2176.68216" y="2256.63708" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4287" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="2256.63708" id="tspan4289" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۵ م</tspan>
    </text>
-   <text x="1928.68216" y="1979.03048" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4291" xml:space="preserve" font-family="DejaVu Sans" stroke-miterlimit="4" stroke-width="3" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1928.68216" y="1979.03048" id="tspan4293" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۰</tspan>
+   <text x="1928.68216" y="1979.03048" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4291" xml:space="preserve" font-family="Amiri" stroke-miterlimit="4" stroke-width="3" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1928.68216" y="1979.03048" id="tspan4293" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۰</tspan>
    </text>
-   <text x="1928.68216" y="2017.33048" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4295" xml:space="preserve" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1928.68216" y="2017.33048" id="tspan4297" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۵۰ م</tspan>
+   <text x="1928.68216" y="2017.33048" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4295" xml:space="preserve" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1928.68216" y="2017.33048" id="tspan4297" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۵۰ م</tspan>
    </text>
-   <text x="1928.68216" y="2049.91498" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4299" xml:space="preserve" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1928.68216" y="2049.91498" id="tspan4301" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۲۰۰ م</tspan>
+   <text x="1928.68216" y="2049.91498" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4299" xml:space="preserve" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1928.68216" y="2049.91498" id="tspan4301" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۲۰۰ م</tspan>
    </text>
-   <text x="1928.68216" y="2085.35708" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4303" xml:space="preserve" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1928.68216" y="2085.35708" id="tspan4305" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۵۰۰ م</tspan>
+   <text x="1928.68216" y="2085.35708" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4303" xml:space="preserve" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1928.68216" y="2085.35708" id="tspan4305" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۵۰۰ م</tspan>
    </text>
-   <text x="1928.68216" y="2120.79878" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4307" xml:space="preserve" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1928.68216" y="2120.79878" id="tspan4309" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۱۰۰۰ م</tspan>
+   <text x="1928.68216" y="2120.79878" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4307" xml:space="preserve" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1928.68216" y="2120.79878" id="tspan4309" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۱۰۰۰ م</tspan>
    </text>
-   <text x="1928.68216" y="2155.66908" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4311" xml:space="preserve" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1928.68216" y="2155.66908" id="tspan4313" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۲۰۰۰ م</tspan>
+   <text x="1928.68216" y="2155.66908" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4311" xml:space="preserve" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1928.68216" y="2155.66908" id="tspan4313" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۲۰۰۰ م</tspan>
    </text>
-   <text x="1928.68216" y="2189.39668" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4315" xml:space="preserve" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1928.68216" y="2189.39668" id="tspan4317" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۳۰۰۰ م</tspan>
+   <text x="1928.68216" y="2189.39668" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4315" xml:space="preserve" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1928.68216" y="2189.39668" id="tspan4317" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۳۰۰۰ م</tspan>
    </text>
-   <text x="1928.68216" y="2225.98238" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4319" xml:space="preserve" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="1928.68216" y="2225.98238" id="tspan4321" font-family="DejaVu Sans" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۴۰۰۰ م</tspan>
+   <text x="1928.68216" y="2225.98238" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4319" xml:space="preserve" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="1928.68216" y="2225.98238" id="tspan4321" font-family="Amiri" text-anchor="end" font-weight="normal" font-style="normal" font-size="32px">۴۰۰۰ م</tspan>
    </text>
-   <text x="2176.68216" y="1940.77038" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4436" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="1940.77038" id="tspan4438" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۷۵۰ م</tspan>
+   <text x="2176.68216" y="1940.77038" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4436" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="1940.77038" id="tspan4438" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۷۵۰ م</tspan>
    </text>
-   <text x="2176.68216" y="2221.83288" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4440" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="2221.83288" id="tspan4442" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۵۰ م</tspan>
+   <text x="2176.68216" y="2221.83288" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4440" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="2221.83288" id="tspan4442" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۵۰ م</tspan>
    </text>
-   <text x="2176.68216" y="2189.61178" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4444" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="2189.61178" id="tspan4446" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۰۰ م</tspan>
+   <text x="2176.68216" y="2189.61178" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4444" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="2189.61178" id="tspan4446" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۰۰ م</tspan>
    </text>
-   <text x="2176.68216" y="2153.42568" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4448" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="2153.42568" id="tspan4450" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۵۰ م</tspan>
+   <text x="2176.68216" y="2153.42568" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4448" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="2153.42568" id="tspan4450" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۲۵۰ م</tspan>
    </text>
-   <text x="2176.68216" y="2117.62178" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4452" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="2117.62178" id="tspan4454" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۵۰۰ م</tspan>
+   <text x="2176.68216" y="2117.62178" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4452" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="2117.62178" id="tspan4454" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۵۰۰ م</tspan>
    </text>
-   <text x="2176.68216" y="1974.94888" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4456" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="1974.94888" id="tspan4458" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۵۰۰ م</tspan>
+   <text x="2176.68216" y="1974.94888" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4456" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="1974.94888" id="tspan4458" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۵۰۰ م</tspan>
    </text>
-   <text x="2176.68216" y="2010.39348" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4460" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="2010.39348" id="tspan4462" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۲۵۰ م</tspan>
+   <text x="2176.68216" y="2010.39348" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4460" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="2010.39348" id="tspan4462" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۲۵۰ م</tspan>
    </text>
-   <text x="2176.68216" y="2047.10388" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4464" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="2047.10388" id="tspan4466" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۰۰۰ م</tspan>
+   <text x="2176.68216" y="2047.10388" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4464" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="2047.10388" id="tspan4466" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۱۰۰۰ م</tspan>
    </text>
-   <text x="2176.68216" y="2082.33118" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4468" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="2082.33118" id="tspan4470" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۵۰ م</tspan>
+   <text x="2176.68216" y="2082.33118" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text4468" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="2082.33118" id="tspan4470" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۷۵۰ م</tspan>
    </text>
-   <text x="2067.20576" y="1844.19942" id="text5710" xml:space="preserve" font-family="Arial" text-anchor="middle" font-weight="normal" font-style="normal" font-size="85px">
-    <tspan x="2067.20576" y="1844.19942" id="tspan5712" font-family="Arial" text-anchor="middle" font-weight="normal" font-style="normal" font-size="85px">سوالبرد</tspan>
+   <text x="2067.20576" y="1844.19942" id="text5710" xml:space="preserve" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="normal" font-size="85px">
+    <tspan x="2067.20576" y="1844.19942" id="tspan5712" font-family="Amiri" text-anchor="middle" font-weight="normal" font-style="normal" font-size="85px">سوالبرد</tspan>
    </text>
-   <text x="1980.75259" y="2154.8297" transform="translate(0.5,0.5) scale(0.925012469291687,1.0810664892196655) " id="text5422" xml:space="preserve" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
-    <tspan x="1980.75259" y="2154.8297" id="tspan5424" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">۰</tspan>
+   <text x="1980.75259" y="2154.8297" transform="translate(0.5,0.5) scale(0.925012469291687,1.0810664892196655) " id="text5422" xml:space="preserve" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
+    <tspan x="1980.75259" y="2154.8297" id="tspan5424" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">۰</tspan>
    </text>
-   <text x="2506.53049" y="2154.8297" transform="translate(0.5,0.5) scale(0.925012469291687,1.0810664892196655) " id="text5426" xml:space="preserve" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
-    <tspan x="2506.53049" y="2154.8297" id="tspan5428" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">۱۰۰</tspan>
+   <text x="2506.53049" y="2154.8297" transform="translate(0.5,0.5) scale(0.925012469291687,1.0810664892196655) " id="text5426" xml:space="preserve" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
+    <tspan x="2506.53049" y="2154.8297" id="tspan5428" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">۱۰۰</tspan>
    </text>
-   <text x="2243.47189" y="2149.7884" transform="translate(0.5,0.5) scale(0.925012469291687,1.0810664892196655) " id="text5430" xml:space="preserve" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
-    <tspan x="2243.47189" y="2149.7884" id="tspan5432-6" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">(کيلومتر)</tspan>
+   <text x="2243.47189" y="2149.7884" transform="translate(0.5,0.5) scale(0.925012469291687,1.0810664892196655) " id="text5430" xml:space="preserve" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
+    <tspan x="2243.47189" y="2149.7884" id="tspan5432-6" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">(کيلومتر)</tspan>
    </text>
-   <text x="2114.60773" y="2068.57054" transform="translate(0.5,0.5) scale(0.8664590716362,1.1541225910186768) " id="text7448" xml:space="preserve" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
-    <tspan x="2114.60773" y="2068.57054" id="tspan7450" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">۰</tspan>
+   <text x="2114.60773" y="2068.57054" transform="translate(0.5,0.5) scale(0.8664590716362,1.1541225910186768) " id="text7448" xml:space="preserve" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
+    <tspan x="2114.60773" y="2068.57054" id="tspan7450" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">۰</tspan>
    </text>
-   <text x="2657.04423" y="2068.57054" transform="translate(0.5,0.5) scale(0.8664590716362,1.1541225910186768) " id="text7452" xml:space="preserve" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
-    <tspan x="2657.04423" y="2068.57054" id="tspan7454" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">۶۰</tspan>
+   <text x="2657.04423" y="2068.57054" transform="translate(0.5,0.5) scale(0.8664590716362,1.1541225910186768) " id="text7452" xml:space="preserve" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
+    <tspan x="2657.04423" y="2068.57054" id="tspan7454" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">۶۰</tspan>
    </text>
-   <text x="2395.08063" y="2068.89624" transform="translate(0.5,0.5) scale(0.8664590716362,1.1541225910186768) " id="text7456" xml:space="preserve" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
-    <tspan x="2395.08063" y="2068.89624" id="tspan7458" font-family="DejaVu Sans Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">(ميل)</tspan>
+   <text x="2395.08063" y="2068.89624" transform="translate(0.5,0.5) scale(0.8664590716362,1.1541225910186768) " id="text7456" xml:space="preserve" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">
+    <tspan x="2395.08063" y="2068.89624" id="tspan7458" font-family="Amiri Condensed" text-anchor="middle" font-weight="normal" font-style="normal" font-size="28px">(ميل)</tspan>
    </text>
    <g transform="matrix(0.97371666,0,0,1.713138,1831.3127,-1197.5856) " id="g7545" stroke-miterlimit="4" stroke-width="0.75391">
     <path d="m1.38029,2064.84694l499.67601,0l0,12.396l-499.67601,0l0,-12.396zm0.00007,6.198l499.67585,0" id="path7541" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linecap="round" stroke-width="0.77426" stroke="#000000" fill-rule="nonzero" fill="#ffffff"/>
@@ -693,8 +693,8 @@
    <rect width="57.63424" height="241.67709" x="1958.75356" y="1963.75972" id="rect6988" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linecap="round" stroke-width="2" stroke="#000000" fill="none"/>
    <rect width="57.63424" height="350.01083" x="2116.97066" y="1921.57662" id="rect6990" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linecap="round" stroke-width="2" stroke="#000000" fill="none"/>
    <path d="m2115.47996,2270.86092l66.2832,0" id="path6992" stroke-miterlimit="4" stroke-width="2" stroke="#000000" fill="none"/>
-   <text x="2176.68216" y="2290.82858" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text6994" xml:space="preserve" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
-    <tspan x="2176.68216" y="2290.82858" id="tspan6996" font-family="DejaVu Sans" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۰ م</tspan>
+   <text x="2176.68216" y="2290.82858" transform="translate(0.5,0.5) scale(1.006018042564392,0.9940178990364075) " id="text6994" xml:space="preserve" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">
+    <tspan x="2176.68216" y="2290.82858" id="tspan6996" font-family="Amiri" text-anchor="start" font-weight="normal" font-style="normal" font-size="32px">۰ م</tspan>
    </text>
   </g>
   <g id="layer11" filter="url(#filter5742)" opacity="0.77376"/>
