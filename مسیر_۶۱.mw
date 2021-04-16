@@ -1,1 +1,45 @@
 '''مسیر ۶۱ کهکشان''' (میسیر ۶۱) په [[انګلیسي]] Messier 61) یاهم NGC 4303) یو مارپیچي کهکشان دی چې په Virgo Cluster) (ویګرو کلوستر کهکشانونو ګروپ) چې له مونږ نه ۵۹ میلیونه لمریز کلونه فاصله لري کېپروت دی.
+
+{{Infobox galaxy
+|name=[[Messier Catalogue|Messier]] 61<ref name="AnA">
+ {{cite journal
+|last1=Tschöke | first1=D. | last2=Hensler |first2=G. |last3=Junkes |first3=N.
+|date=2000
+|title=X-rays from the barred galaxy NGC 4303
+|journal=[[Astronomy and Astrophysics]]
+|volume=360 |issue=2 |pages=447–456
+|arxiv=astro-ph/0006361
+|bibcode=2000A&A...360..447T
+}}</ref>
+}}
+{{Galaxybox image
+|image = [[File:A hungry starburst galaxy.jpg|300px]]
+|caption = Image taken by [[Hubble Space Telescope]], April 28, 2014<ref>{{cite news|title=A hungry starburst galaxy|url=http://www.spacetelescope.org/images/potw1417a/|access-date=29 April 2014|newspaper=ESA/Hubble Picture of the Week}}</ref> 
+|credit=ESA/Hubble & NASA. Acknowledgement: Det58}}
+{{Galaxybox observe
+|epoch=[[J2000]]
+|constell=[[Virgo (constellation)|Virgo]]
+|ra ={{RA|12|21|54.9}}<ref name="ned">
+ {{cite web
+|title=NASA/IPAC Extragalactic Database
+|work=Results for M 61
+|url=http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=Messier+61&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES
+|access-date=2006-11-18 
+ }}</ref>
+| dec = {{DEC|+04|28|25}}<ref name="ned" />
+| appdim_v = 6.5 × 5.8 [[Minute of arc|arcmin]]<ref name="ned" />
+| appmag_v = 10.18
+}}
+{{Galaxybox character
+| g_type = SAB(rs)bc,<ref name="ned" /> [[Seyfert galaxy|H<sub>II</sub>Sy2]]<ref name="ned" />
+}}
+{{Galaxybox astrometry
+|h_radial_v = 1566
+|hrv_err = 2<ref name="ned" />
+|z = 0.005224
+|z_err = 0.000007<ref name="ned" />
+|gal_v = 1483
+|gv_err = 4<ref name="ned" />
+|g_dist = 52.5
+|dist_err = 2.3
+}}
