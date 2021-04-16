@@ -1,45 +1,52 @@
 '''مسیر ۶۱ کهکشان''' (میسیر ۶۱) په [[انګلیسي]] Messier 61) یاهم NGC 4303) یو مارپیچي کهکشان دی چې په Virgo Cluster) (ویګرو کلوستر کهکشانونو ګروپ) چې له مونږ نه ۵۹ میلیونه لمریز کلونه فاصله لري کېپروت دی.
 
-{{Infobox galaxy
-|name=[[Messier Catalogue|Messier]] 61<ref name="AnA">
- {{cite journal
-|last1=Tschöke | first1=D. | last2=Hensler |first2=G. |last3=Junkes |first3=N.
-|date=2000
-|title=X-rays from the barred galaxy NGC 4303
-|journal=[[Astronomy and Astrophysics]]
-|volume=360 |issue=2 |pages=447–456
-|arxiv=astro-ph/0006361
-|bibcode=2000A&A...360..447T
-}}</ref>
-}}
-{{Galaxybox image
-|image = [[File:A hungry starburst galaxy.jpg|300px]]
-|caption = Image taken by [[Hubble Space Telescope]], April 28, 2014<ref>{{cite news|title=A hungry starburst galaxy|url=http://www.spacetelescope.org/images/potw1417a/|access-date=29 April 2014|newspaper=ESA/Hubble Picture of the Week}}</ref> 
-|credit=ESA/Hubble & NASA. Acknowledgement: Det58}}
-{{Galaxybox observe
-|epoch=[[J2000]]
-|constell=[[Virgo (constellation)|Virgo]]
-|ra ={{RA|12|21|54.9}}<ref name="ned">
- {{cite web
-|title=NASA/IPAC Extragalactic Database
-|work=Results for M 61
-|url=http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=Messier+61&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES
-|access-date=2006-11-18 
- }}</ref>
-| dec = {{DEC|+04|28|25}}<ref name="ned" />
-| appdim_v = 6.5 × 5.8 [[Minute of arc|arcmin]]<ref name="ned" />
-| appmag_v = 10.18
-}}
-{{Galaxybox character
-| g_type = SAB(rs)bc,<ref name="ned" /> [[Seyfert galaxy|H<sub>II</sub>Sy2]]<ref name="ned" />
-}}
-{{Galaxybox astrometry
-|h_radial_v = 1566
-|hrv_err = 2<ref name="ned" />
-|z = 0.005224
-|z_err = 0.000007<ref name="ned" />
-|gal_v = 1483
-|gv_err = 4<ref name="ned" />
-|g_dist = 52.5
-|dist_err = 2.3
+{{Infobox 
+| Name = Messier 61
+| Bild = Messier61 - ESO - Potw1901a.tif
+| Bildtext = Die Galaxie Messier 61, aufgenommen durch das [[Very Large Telescope]]
+| Sternbild = Vir
+| Rek = 12/21/54.9
+| Dek = +/04/28/25
+| Size = 6.5
+| Objekt = Messier 61
+| Hubble = Sb/SBc / [[Seyfertgalaxie|Sy2]]
+| magV = 9,3
+| magB = 10,1
+| Winkelausdehnung = 6.5/5.9
+| Positionswinkel = 162°
+| Fh = 13,1
+| Gruppe = [[Virgo-Galaxienhaufen]], LGG 287
+| MPC = 20.3
+| eMPC = 1.4
+| z = +0.005224 ± 0.000007
+| V-Radial = +1566 ± 2
+| Absolut =
+| Masse =
+| Durchmesser = 100.000
+| Entdecker = Barnaba Oriani
+| Entdeckungsdatum = 5. Mai 1779<ref>[https://cseligman.com/text/atlas/ngc43.htm#4303 Seligman]</ref>
+| MES = 61
+| NGC = 4303
+| UGC = 7420
+| PGC = 40001
+| MCG = +1-32-22
+| IRAS = 12194+0444
+| CGCG = 042-045
+| GC = 2878
+| VCC = 508
+| 2MASX = J12215494+0428249
+| Katalog = h&nbsp;1202&nbsp;• H&nbsp;I 139
+|        RekDekRef = <ref name="NED">[http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=NGC+4303&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES NASA/IPAC EXTRAGALACTIC DATABASE]</ref>
+|        WinkelRef = <ref name="SEDS">[[SEDS]]: [http://spider.seds.org/ngc/revngcic.cgi?NGC%204303 NGC 4303]</ref>
+| PosWinkelRef     = <ref name="SEDS" />
+|         zVradRef = <ref name="NED" />
+|          magVRef = <ref name="SEDS" />
+|          magBRef = <ref name="SEDS" />
+|        HubbleRef = <ref name="NED" />
+|            FhRef = <ref name="SEDS" />
+|        GruppeRef = 
+|          LJPCRef = <ref name="NED" />
+|       AbsolutRef = 
+|         MasseRef = 
+|         DurchRef = 
 }}
