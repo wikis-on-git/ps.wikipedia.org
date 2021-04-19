@@ -1,4 +1,43 @@
 '''استارلینګ''' په [[انګلیسي]] یو نړیوال انټرنټي غونډال دی، چې د امریکایي پانګوال [[ایلان ماسک]] لخوا په لاره اچول شوی. د اسټارلینګ پروژه چې د بشپړولو سره به د نړۍ ټولې برخې بغیر له انټرنټي پایو (انټر نټي سیګنالي ستنې) د لاسرسي وړ وي. یاد انټر نټي غونډال چې په کې به د ۴۰،۰۰۰ زره سپوږمکیو له لارې د ځمکې ټولو برخو ته د سیګنالي قابونو له لارې انټرنټ لیږدول کیږي  د ۲۰۱۹ م کال د مې په ۲۴ نیټه په خپله لومړنې عملي چاره کې د یوه فضایي راکټ په واسطه ۶۰ سپوږمکۍ فضاته ولیږدولې. ددې کال (۲۰۲۱) په لومړیو کې د یادې پروژې له لارې په شمالي [[امریکا]] او د [[بریتانیا]] په ځینو برخو خلک ګټه اخلي. د پروژي طراح ښاعلی ماسک ژکنه کړې چې د ۲۰۲۲م کال تر پایه به له یادې پروژې ټوله نړۍ ګټه واخلي.
+
+
+{{Infobox spacecraft class
+| name             = Starlink
+| image            = Starlink Mission (47926144123).jpg 
+| image_caption    = 60 Starlink satellites stacked together before deployment on 24 May 2019.
+| image_size       = 300px
+
+| manufacturer     = [[SpaceX]]
+| country          = [[United States]]
+| operator         = [[SpaceX]]
+| website          = {{url|starlink.com}}
+
+| spacecraft_type  = [[Small satellite]]
+| launch_mass      = v 0.9: 227 kg (500 lb)<br/>v 1.0: 260 kg (573 lb)
+| applications     = [[Satellite Internet access|Internet service]]
+| equipment        = {{plainlist|
+* [[Ku band|Ku-]], [[Ka band|Ka-]], and [[E band (waveguide)|E-band]] [[phased array]] [[antennas]]
+* [[laser space communication|Laser transponder]]s (some units)
+* [[Hall-effect thruster]]s
+}}
+| orbits           = [[Low Earth orbit]]<br>[[Sun-synchronous orbit]]
+
+| status           = Active
+| launched         = {{plainlist|
+* 1445 <ref name="SFN20210124"/> (1378 in orbit)
+* Tintin: 2
+* v 0.9: 60
+* v 1.0: 1383 <!-- Update after each launch -->}}
+
+| operational      = <!-- You need to provide a source that states how many satellites are currently operational if you want to add this number. The following source does NOT say how many satellites are currently operational: https://spaceflightnow.com/2020/04/22/spacexs-starlink-network-surpasses-400-satellite-mark-after-successful-launch/ - 29 April 2020 -->
+
+| first            = 22 February 2018
+| last             = 7 April 2021
+
+| insignia         = Starlink Logo.svg
+| insignia_caption = 
+| insignia_size    = 250px
+}}
 د ایلان ماسک په وینا د یاد انټرنټ سرعت او قیمت به له نورو ټولو هغه انټرنټونو څخه آرزانه وي، کوم چې اوسمهال په نړیواله توګه وړاندی میږي. د اسټارلینګ پروژه چې د [[اسپیس اکس شرکت]] لخوا وړاندې کیږي ۱۰ میلیارده ډالر لګښت لري، اما د پروژې د اتمام وروسته د کال ۳۰ میلیارده ډالره ګټه لري.
 
 ==تخنیکي سیستم==
