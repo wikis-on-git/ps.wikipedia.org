@@ -1,10 +1,10 @@
-'''ارماویر ولایت''' په [[ارمني ژبه|ارمني]] د ارمنستان هیواد په ختیځ کې پروت کوچینی ولایت دی، د ارماویر ولایت مرکز [[آرماویر ښار]] دی.
-{Infobox settlement
-| name                    = استان آرماویر
+'''ارماویر ولایت''' په [[ارمني ژبه|ارمني]] Արմավիրի մարզ ) د ارمنستان هیواد په ختیځ کې پروت کوچینی ولایت دی، د ارماویر ولایت مرکز [[آرماویر ښار]] دی.
+{{Infobox settlement
+| name                    = آرماویر ولایت
 | native_name             =Արմավիրի մարզ
 | other_name              =
 | native_name_lang        = hy<!-- ISO 639-2 code e.g. "fr" for French. -->
-| settlement_type         = [[استان‌های ارمنستان|استان]]
+| settlement_type         = [[ارمنستان ایداري وېش|ولایت]]
 | image_skyline           =
 | image_alt               =
 | image_caption           =
@@ -28,14 +28,12 @@
 | pushpin_label_position  =
 | pushpin_map_alt         =
 | pushpin_map_caption     =
-| latd  = 40 |latm  = 9 |lats  = |latNS  = N
-| longd = 44 |longm = 3 |longs = |longEW = E
 | coor_pinpoint           =
 | coordinates_type        = region:AM_type:adm1st
 | coordinates_display     = inline,title
 | coordinates_footnotes   =
-| subdivision_type        = [[فهرست کشورهای جهان|کشور]]
-| subdivision_name        = {{ARM}}
+| subdivision_type        = [[د هیوادونو نوملړ|هیواد]]
+| subdivision_name        = [[ارمنستان]]
 | subdivision_type1       =
 | subdivision_name1       =
 | subdivision_type2       =
@@ -45,11 +43,11 @@
 | established_title       =
 | established_date        =
 | founder                 =
-| seat_type               = [[فهرست شهرهای ارمنستان|مرکز]]
+| seat_type               = [[د ارمنستان د ښارونو نوملړ|مرکز]]
 | seat                    = [[آرماویر (ارمنستان)|آرماویر]]
 | government_footnotes    =
 | leader_party            =
-| leader_title            = فرماندار
+| leader_title            =والی
 | leader_name             = [[آشوت قاهرمانیان]]
 | unit_pref               = Metric<!-- or US or UK -->
 | area_footnotes          =
@@ -80,17 +78,18 @@
 | utc_offset1             = ۴+
 | timezone1_DST           = DST
 | utc_offset1_DST         = ۵+
-| postal_code_type        = [[کد پستی]]
+| postal_code_type        = [[پستي کوډ]]
 | postal_code             = ۰۹۰۱–۱۱۴۹
 | area_code_type          =
 | area_code               =
 | iso_code                = AM.AV
-| blank_name_sec1         =زبان رسمی
-| blank_info_sec1         = [[زبان ارمنی|ارمنی]]
+| blank_name_sec1         =رسمي ژبه
+| blank_info_sec1         = [[ارمني ژبه|ارمني]]
 | blank_name_sec2         =مذهب
 | blank_info_sec2         = [[حواري ارمني کلیسا]]
 | website                 = [http://armavir.region.am/egov/dispatcher armavir.region.am]
 | footnotes               =
 }}
+
 ==جغرافیه==
 ==سرچینه==
