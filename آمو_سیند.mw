@@ -1,6 +1,6 @@
 '''امو سیند''' (آمو دریا/جیحون) Oxus د شدت په معنی)  په [[یوناني ژبه|یوناني]] Oxus/Ὄξος) په [[پښتو]] (لوی سیند/آمو سیند) د [[سیر سیند]] ترڅنګ په منځنۍ آسیا ترټولو لوی سیند دی، چې د پامیر غرونو له لړۍ نه شروع د [[افغانستان]] د [[تاجکستان]]، [[ازبکستان]] او [[ترکمنستان]] د پولو ترمنځ له تیریدو وروسته د ۱،۱۲۶ کیلومترو په طئ کولو سره د [[قزاقستان]] او ازبکستان ترمنځ په [[آرال جهیل]] کې بهیږي. 
 {{Geobox|v,n
-| name               = Amu Darya
+| name               =آمو سیند
 | name_native        = 
 | name_native_lang   = 
 | name_other         = Oxus, Jayhoun, də Āmu Sind, Vaksu, Amu River
@@ -8,20 +8,20 @@
 <!---------------------- IMAGE & MAP -->
 | image              = Amudaryasunset.jpg
 | image_size         = 285
-| image_caption      = Looking at the Amu Darya from [[Turkmenistan]]
+| image_caption      = Looking at the Amu Darya from [[ترکمنستان]]
 | map                = Aral_Sea_watershed.png
 | map_size           = 
-| map_caption        = Map of area around the Aral Sea. Aral Sea boundaries are c. 2008. The Amu Darya drainage basin is in orange, and the Syr Darya basin in yellow.
+| map_caption        = Map of area around the Aral Sea. Aral Sea boundaries are c. ۲۰۰۸. The Amu Darya drainage basin is in orange, and the Syr Darya basin in yellow.
 | pushpin_map        = 
 | pushpin_map_size   = 
 | pushpin_map_caption= 
 <!---------------------- LOCATION -->
 | subdivision_type1  = Countries
-| subdivision_name1  = {{hlist|[[Afghanistan]]|[[Tajikistan]]|[[Turkmenistan]]|[[Uzbekistan]]}}
+| subdivision_name1  = {{hlist|[[افغانستان]]|[[تاجکستان]]|[[ترکمنستان]]|[[ازبکستان]]}}
 | subdivision_type2  = 
 | subdivision_name2  = 
 | subdivision_type3  = Region
-| subdivision_name3  = [[Central Asia]]
+| subdivision_name3  = [[منځنۍ آسیا]]
 | subdivision_type4  = 
 | subdivision_name4  = 
 | subdivision_type5  = 
@@ -39,27 +39,27 @@
 | discharge1_avg     = {{convert|2525|m3/s|cuft/s|abbr=on}}<ref name="utexas">{{cite web|url=http://www.ce.utexas.edu/prof/mckinney/papers/aral/CentralAsiaWater-McKinney.pdf |date=18 November 2003 |title=Cooperative management of transboundary water resources in Central Asia |author=Daene C. McKinney |access-date=2014-10-03 }}</ref>
 | discharge1_max     = {{convert|5900|m3/s|cuft/s|abbr=on}}
 <!---------------------- BASIN FEATURES -->
-| source1            = [[Pamir River]]/[[Panj River]]
-| source1_location   = [[Lake Zorkul]], [[Pamir Mountains]], [[Tajikistan]]
+| source1            = [[پامیر سیند]]/[[پنج سیند]]
+| source1_location   = [[لاک څورکول]], [[پامیر غرونه]], [[تاجکستان]]
 | source1_coordinates= {{coord|37|27|04|N|73|34|21|E|display=inline}}
 | source1_elevation  = {{convert|4130|m|abbr=on}}
-| source2            = [[Kyzyl-Suu]]/[[Vakhsh River]] 
-| source2_location   = [[Alay Valley]], [[Pamir Mountains]], [[Kyrgyzstan]]
+| source2            = [[Kyzyl-Suu]]/[[وخش سیند]] 
+| source2_location   = [[Alay Valley]], [[د پامیر غرونه]], [[قرغزستان]]
 | source2_coordinates= {{coord|39|13|27|N|72|55|26|E|display=inline}}
 | source2_elevation  = {{convert|4525|m|abbr=on}}
 | source_confluence            = Kerki
-| source_confluence_location   = [[Tajikistan]]
+| source_confluence_location   = [[تاجکستان]]
 | source_confluence_coordinates= {{coord|37|06|35|N|68|18|44|E|display=inline}}
 | source_confluence_elevation  = {{convert|326|m|abbr=on}}
-| mouth              = [[Aral Sea]]
-| mouth_location     = Amudarya Delta, [[Uzbekistan]]
+| mouth              = [[آرال جهیل]]
+| mouth_location     = Amudarya Delta, [[ازبکستان]]،[[قزاقستان]]
 | mouth_coordinates  = {{coord|44|06|30|N|59|40|52|E|display=inline,title}}
 | mouth_elevation    = {{convert|28|m|abbr=on}}
 | progression        = 
 | river_system       = 
 | basin_size         = {{convert|534739|km2|abbr=on}}
-| tributaries_left   = [[Panj River]]
-| tributaries_right  = [[Vakhsh River]], [[Surkhan Darya]], [[Sherabad River]], [[Zeravshan River]]
+| tributaries_left   = [[پنج سیند]]
+| tributaries_right  = [[وخشي سیند(صحرایي سیند]], [[Surkhan Darya]], [[شیرآباد سیند]], [[ځراوشان سیند]]
 | custom_label       = 
 | custom_data        = 
 | extra              = 
