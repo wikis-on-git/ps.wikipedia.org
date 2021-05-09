@@ -1,79 +1,68 @@
 '''امو سیند''' (آمو دریا/جیحون) Oxus د شدت په معنی)  په [[یوناني ژبه|یوناني]] Oxus/Ὄξος) په [[پښتو]] (لوی سیند/آمو سیند) د [[سیر سیند]] ترڅنګ په منځنۍ آسیا ترټولو لوی سیند دی، چې د پامیر غرونو له لړۍ نه شروع د [[افغانستان]] د [[تاجکستان]]، [[ازبکستان]] او [[ترکمنستان]] د پولو ترمنځ له تیریدو وروسته د ۱،۱۲۶ کیلومترو په طئ کولو سره د [[قزاقستان]] او ازبکستان ترمنځ په [[آرال جهیل]] کې بهیږي. 
 {{Geobox|v,n
-<!-- *** Heading *** -->
-| name = آمو سیند
-| native_name =
-| other_name = Oxus
-| other_name1 = Jayhoun
-| other_name2 = də Āmu Sind
-| other_name3 = Vaksu
-| other_name4 = 
-| category_hide = ۱
-| etymology = 
-| nickname =
-| image = Amudaryasunset.jpg
-| image_caption =  په [[ترکمنستان]] کې د آمو سیند منظره
-| country = افغانستان
-| country1 = تاجیکستان
-| country2 =ترکمنستان
-| country3 = ازبکستان
-| country_flag = ۱
-| state =
-| region = منځنۍ آسیا
-| district =
-| municipality =
-| parent =
-| tributary_left = [[پنج سیند]]
-| tributary_right = [[وخش (سیند)]]
-| tributary_right1 = [[چغان‌ سیند]]
-| tributary_right2 = [[شیرآباد سیند]]
-| tributary_right3 = [[زرافشان سیند]]
-| city =
-| landmark =
-| source = [[پامیر سیند]]/[[پنج سیند]]
-| source_location = [[زورکول سیند]]| source_region = Pamir Mountains| source_country = تاجیکستان
-| source_elevation = ۴۱۳۰
-| source_lat_d = 37| source_lat_m = 27| source_lat_s = 04| source_lat_NS =N
-| source_long_d = 73| source_long_m = 34| source_long_s = 21| source_long_EW =E
-| source1 = [[قزل‌سو،قرغزستان]]/[[وخشي (سیند)|وخشي]]
-| source1_location = [[الای والي]]| source1_region = د پامیر غرونه| source1_country = قرغزستان
-| source1_elevation = ۴۵۲۵
-| source1_lat_d = 39| source1_lat_m = 13| source1_lat_s = 27| source1_lat_NS =N
-| source1_long_d = 72| source1_long_m = 55| source1_long_s = 26| source1_long_EW =E
-| source_confluence = کرکي
-| source_confluence_location = | source_confluence_region = | source_confluence_country =ترکمنستان
-| source_confluence_elevation = ۳۲۶
-| source_confluence_lat_d = 37| source_confluence_lat_m = 06| source_confluence_lat_s = 35| source_confluence_lat_NS =N
-| source_confluence_long_d =68 | source_confluence_long_m =18 | source_confluence_long_s =44 | source_confluence_long_EW =E
-| mouth = آرال سیند
-| mouth_location = دلتا آموسیند| mouth_region = | mouth_country = ازبکستان
-| mouth_elevation = ۲۸
-| mouth_lat_d = 44| mouth_lat_m = 06| mouth_lat_s = 30| mouth_lat_NS =N
-| mouth_long_d = 59| mouth_long_m = 40| mouth_long_s = 52| mouth_long_EW =E
-<!-- *** Dimensions *** -->
-| length = ۲۴۰۰
-| width =
-| depth =
-| volume =
-| watershed = ۵۳۴۷۳۹
-| discharge =۲۵۲۵
-| discharge_max =
-| discharge_min =
-| discharge_note =<ref name="utexas">{{cite web|url=http://www.ce.utexas.edu/prof/mckinney/papers/aral/CentralAsiaWater-McKinney.pdf|date=18 November 2003|title=COOPERATIVE MANAGEMENT OF TRANSBOUNDARY WATER RESOURCES IN CENTRAL ASIA|author=Daene C. McKinney|accessdate=2014-10-03}}</ref>
-<!-- *** Free fields *** -->
-| free = | free_type =
-<!-- *** Maps *** -->
-| map =Amudaryamap.jpg
-| map_caption = د آمو سیند نقشه
-| map_background =
-| map_locator =
-| map_locator_x =
-| map_locator_y =
-<!-- *** Website *** -->
-| website =
-| commons =
-<!-- *** Footnotes *** -->
-| footnotes =
+| name               = Amu Darya
+| name_native        = 
+| name_native_lang   = 
+| name_other         = Oxus, Jayhoun, də Āmu Sind, Vaksu, Amu River
+| name_etymology     = Named for the city of Āmul (now [[Türkmenabat]])
+<!---------------------- IMAGE & MAP -->
+| image              = Amudaryasunset.jpg
+| image_size         = 285
+| image_caption      = Looking at the Amu Darya from [[Turkmenistan]]
+| map                = Aral_Sea_watershed.png
+| map_size           = 
+| map_caption        = Map of area around the Aral Sea. Aral Sea boundaries are c. 2008. The Amu Darya drainage basin is in orange, and the Syr Darya basin in yellow.
+| pushpin_map        = 
+| pushpin_map_size   = 
+| pushpin_map_caption= 
+<!---------------------- LOCATION -->
+| subdivision_type1  = Countries
+| subdivision_name1  = {{hlist|[[Afghanistan]]|[[Tajikistan]]|[[Turkmenistan]]|[[Uzbekistan]]}}
+| subdivision_type2  = 
+| subdivision_name2  = 
+| subdivision_type3  = Region
+| subdivision_name3  = [[Central Asia]]
+| subdivision_type4  = 
+| subdivision_name4  = 
+| subdivision_type5  = 
+| subdivision_name5  = 
+<!---------------------- PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|2620|km|mi|abbr=on}} 
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= 
+| discharge1_min     = {{convert|420|m3/s|cuft/s|abbr=on}}
+| discharge1_avg     = {{convert|2525|m3/s|cuft/s|abbr=on}}<ref name="utexas">{{cite web|url=http://www.ce.utexas.edu/prof/mckinney/papers/aral/CentralAsiaWater-McKinney.pdf |date=18 November 2003 |title=Cooperative management of transboundary water resources in Central Asia |author=Daene C. McKinney |access-date=2014-10-03 }}</ref>
+| discharge1_max     = {{convert|5900|m3/s|cuft/s|abbr=on}}
+<!---------------------- BASIN FEATURES -->
+| source1            = [[Pamir River]]/[[Panj River]]
+| source1_location   = [[Lake Zorkul]], [[Pamir Mountains]], [[Tajikistan]]
+| source1_coordinates= {{coord|37|27|04|N|73|34|21|E|display=inline}}
+| source1_elevation  = {{convert|4130|m|abbr=on}}
+| source2            = [[Kyzyl-Suu]]/[[Vakhsh River]] 
+| source2_location   = [[Alay Valley]], [[Pamir Mountains]], [[Kyrgyzstan]]
+| source2_coordinates= {{coord|39|13|27|N|72|55|26|E|display=inline}}
+| source2_elevation  = {{convert|4525|m|abbr=on}}
+| source_confluence            = Kerki
+| source_confluence_location   = [[Tajikistan]]
+| source_confluence_coordinates= {{coord|37|06|35|N|68|18|44|E|display=inline}}
+| source_confluence_elevation  = {{convert|326|m|abbr=on}}
+| mouth              = [[Aral Sea]]
+| mouth_location     = Amudarya Delta, [[Uzbekistan]]
+| mouth_coordinates  = {{coord|44|06|30|N|59|40|52|E|display=inline,title}}
+| mouth_elevation    = {{convert|28|m|abbr=on}}
+| progression        = 
+| river_system       = 
+| basin_size         = {{convert|534739|km2|abbr=on}}
+| tributaries_left   = [[Panj River]]
+| tributaries_right  = [[Vakhsh River]], [[Surkhan Darya]], [[Sherabad River]], [[Zeravshan River]]
+| custom_label       = 
+| custom_data        = 
+| extra              = 
 }}
 
 ==تاریخچه==
