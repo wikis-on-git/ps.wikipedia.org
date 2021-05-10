@@ -1,15 +1,15 @@
 '''پنج سیند''' (پنځه سیندونه) د افغانستان په شمال ختیځ [[بدخشان ولايت]] اړوند د [[پامیر غرونه|پامیر غرونو]] په لړ کې د [[افغانستان]] او [[تاجکستان]] هیوادونو تر منځ بهیدونکی سیند دی. پنج سیند چې د [[پامیر سیند|پامیر]] او [[واخان سیند|واخان]] سیندونو څخه سرچینه اخلي د [[زارکول سمندرګی]] له طی کولو څخه په [[آمو سیند]] کې بهیږي.
 
-{{Infobox river
+{{Geobox|v,n
 | name              = پنج سیند
 | image             = Map of Panj river.png
-| image_caption     = The Panj river forms much of the border between Tajikistan and Afghanistan
-| source1_location  = confluence of [[پامیر سیند]] and [[واخان سیند]]s
+| image_caption     = پنج سیند د افغانستان او تاجکستان د پولو ترمنځ تیریږي
+| source1_location  = سرچینه [[پامیر سیند]] او [[واخان سیند]]
 | mouth             = [[آمو سیند]]
 | mouth_coordinates = {{coord|37|06|39|N|68|18|53|E|region:TJ-KT_type:waterbody_source:kolossus-dewiki|display=it}}
 | progression       = {{RAmu Darya}}
 | subdivision_type1 = Countries
-| subdivision_name1 = {{افغانستان}}and [[تاجکستان]]
+| subdivision_name1 = {{افغانستان}}او [[تاجکستان]]
 | length            = {{convert|921|km|mi|abbr=on|0}}
 | source1_elevation = 
 | mouth_elevation   = 
