@@ -1,9 +1,3 @@
-{{mapbanner
-| title=[[Wikivoyage:Welcome, newcomers|Welcome]] to [[Wikivoyage:About|Wikivoyage]]
-| tagline=The free worldwide travel guide that ''[[Wikivoyage:Plunge forward|you can edit]]''.<br><span style="font-size:smaller">The official, non-commercial [[#siteContainer|sister site]] '''of Wikipedia''' for sightseeing, activities, cuisine and accommodation around the world.</span>
-| touristoffice=Got a specific question? Ask it at the [[Wikivoyage:Tourist office|tourist office]].
-| morelinks=More: [[Destinations]] &bull; [[Itineraries]] &bull; [[Phrasebooks]] &bull; [[Travel topics]]
-}}
 <div class="jcarousel-wrapper">
 <div class="jcarousel jcarousel-randomize">
     <div class="jcarousel-list">
@@ -29,25 +23,6 @@
         </div>
     </div>
 </div>
-{{Bottomboxes
-|title1=[[Discover]]
-|content1={{discover}}
-|title2=[[Wikivoyage:COVID-19 message|Message to travellers on COVID-19]]
-|content2=
-|title3=[[Wikivoyage:Plunge forward |'''Get involved''']]
-|content3=[[Image:Be bold2.svg|125px|right]] 
-*[[Wikivoyage:Arrivals lounge|New to Wikivoyage and have a question? Post it here!]]
-*[[Wikivoyage:How to edit a page|How to edit a page]]
-*[[Wikivoyage:Tips for new contributors|Tips on contributing]]
-*[[Wikivoyage:Community portal|Community portal]]
-*[[Wikivoyage:Policies|Policies]]
-*[[Wikivoyage:Expeditions|Expeditions]]
-*[[Wikivoyage:Requested articles|Requested articles]]
-*[[Wikivoyage:Travellers' pub|Travellers' pub]]
-*Collaboration of the month: {{Current collaboration}}
-}}
-{{WikivoyageSister}}
-<div class="nomobile">{{wikivoyagelang}}</div>
-<div style="float:right; margin-top:-1em;">[[Main Page/Photo credits|<span style="color:gray">photo credits</span>]]</div>
+</div>
 {{Title-Index page}}
 __NOEDITSECTION____NOTOC__
