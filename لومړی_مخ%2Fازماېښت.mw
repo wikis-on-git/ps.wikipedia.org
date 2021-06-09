@@ -2,13 +2,13 @@
 <div class="jcarousel jcarousel-randomize">
     <div class="jcarousel-list">
         <div class="jcarousel-item">
-{{banner|direction=right|title=Winnipeg|section=Destination of the month|section-link=Previous Destinations of the month|image=Winnipeg banner The Canadian Museum for Human Rights.JPG|width=45%|quote=Once a fur trading outpost, Canada's gateway to the west boasts a surprising number of cultural institutions}}
+{{banner|direction=left|title=Winnipeg|section=Destination of the month|section-link=Previous Destinations of the month|image=Winnipeg banner The Canadian Museum for Human Rights.JPG|width=45%|quote=Once a fur trading outpost, Canada's gateway to the west boasts a surprising number of cultural institutions}}
         </div>
         <div class="jcarousel-item">
-{{banner|direction=right|title=Crawford (Nebraska)|alt-title=Crawford, Nebraska|section=Off the Beaten Path|section-link=Previously Off the beaten path|image=CrawfordBanner1.jpg|width=39%|quote=Once a wild and rowdy frontier town, the nearby Fort Robinson is today a museum and there are many natural attractions nearby.}}
+{{banner|direction=left|title=Crawford (Nebraska)|alt-title=Crawford, Nebraska|section=Off the Beaten Path|section-link=Previously Off the beaten path|image=CrawfordBanner1.jpg|width=39%|quote=Once a wild and rowdy frontier town, the nearby Fort Robinson is today a museum and there are many natural attractions nearby.}}
         </div>
         <div class="jcarousel-item">
-{{banner|direction=left|title=Stockholm history tour|section=Featured Travel Topic|section-link=Previous Featured Travel Topics|image=StockholmHistoryTourBanner.jpg|width=35%|quote=A 1000 year stroll from the Viking Age through the Nobel Prize and the rise of a world-leading scene for technology and pop music.}}
+{{banner|direction=کيڼ|title=Stockholm history tour|section=Featured Travel Topic|section-link=Previous Featured Travel Topics|image=StockholmHistoryTourBanner.jpg|width=35%|quote=A 1000 year stroll from the Viking Age through the Nobel Prize and the rise of a world-leading scene for technology and pop music.}}
         </div>
     </div>
 </div>
@@ -19,7 +19,7 @@
 <div class="jcarousel jcarousel-randomize">
     <div class="jcarousel-list">
         <div class="jcarousel-item">
-{{banner|direction=right|title=COVID-19 pandemic|section=Stay healthy|section-link=Stay healthy|image=New York Public Library Lions Face Masks New York City COVID19 (50096257092) (cropped).jpg|title=COVID-19 pandemic|width=40%|quote=Should you cancel trips? How can you protect yourself if you're travelling? Read about how the pandemic is affecting travel.}}
+{{banner|direction=left|title=COVID-19 pandemic|section=Stay healthy|section-link=Stay healthy|image=New York Public Library Lions Face Masks New York City COVID19 (50096257092) (cropped).jpg|title=COVID-19 pandemic|width=40%|quote=Should you cancel trips? How can you protect yourself if you're travelling? Read about how the pandemic is affecting travel.}}
         </div>
     </div>
 </div>
