@@ -42,7 +42,7 @@
 | 11,19 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2611}}/11.19 round 0}}
 | style="text-align:دوتنه" | [[Bezirk Thierstein|Thierstein]]
 |-
-| [[دوتنه:Baettwil-blason.png|35px|zentriert|Bättwil]]
+| [[دوتنه:Bättwil-blazon.svg|35px|zentriert|Bättwil]]
 | style="text-align:left" | [[بتتویل]] 
 | data-sort-value="{{EWZ|CH-SO|2471}}" | {{EWZ CH|CH-SO|2471}}
 | 1,67 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2471}}/1.67 round 0}}
