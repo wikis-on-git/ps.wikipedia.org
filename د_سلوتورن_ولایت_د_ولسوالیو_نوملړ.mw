@@ -366,7 +366,7 @@
 | 1,95 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2550}}/1.95 round 0}}
 | style="text-align:left" | [[لبرن]]
 |-
-| [[دوتنه:Laupersdorf-blason.png|35px|zentriert|Laupersdorf]]
+| [[دوتنه:Laupersdorf-blazon.svg|35px|zentriert|Laupersdorf]]
 | style="text-align:left" | [[لاوفرسدورف]] 
 | data-sort-value="{{EWZ|CH-SO|2426}}" | {{EWZ CH|CH-SO|2426}}
 | 15,50 || {{#expr:{{Metadaten Einwohnerzahl CH-SO|2426}}/15.5 round 0}}
