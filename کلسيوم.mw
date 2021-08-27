@@ -19,13 +19,13 @@
 
 
 
-== سرچينې ==var g={};function u(a,b){if(null===b)return!1;if("contains"in a&&1==b.nodeType)return a.contains(b);if("compareDocumentPosition"in a)return a==b||!!(a.compareDocumentPosition(b)&16);for(;b&&a!=b;)b=b.parentNode;return b==a};var x=function(a,b){return function(d){d||(d=window.event);return b.call(a,d)}},z="undefined"!=typeof navigator&&/Macintosh/.test(navigator.userAgent),A=function(){this._mouseEventsPrevented=!0};var F=function(a){this.g=a;this.h=[]},G=function(a){for(var b=0;b<a.h.length;++b){var d=a.g,c=a.h[b];d.removeEventListener?d.removeEventListener(c.eventType,c.o,c.capture):d.detachEvent&&d.detachEvent("on"+c.eventType,c.o)}a.h=[]};
+== سرچينې ==var g={};function u(a,b){if(null===b)return!1;if("contains"in a&&1==b.nodeType)return a.contains(b);if("compareDocumentPosition"in a)return a==b||!!(a.compareDocumentPosition(b)&16);for(;b&&a!=b;)b=b.parentNode;return b==a};var x=function(a,b){return function(d){d||(d=window.event);return b.call(a,d)}},z="undefined"!=typeof navigator&&/Macintosh/.test(navigator.userAgent),A=function(){this._mouseEventsPrevented=!0};var F=function(a){this.g=a;this.h=[]},G=function(a){for(var b=0;b<a.h.length;++b){var d=a.g,c=a.h[b];d.removeEventListener?d.removeEventListener(c.eventType,c.o,c.capture):d.detachEvent&&d.detachEvent("on"+c.eventType,c.o)}a.h=[]};by R zazai
 
 
 <references/>
 
 {{تناوبي جدول}}
 
-{{لنډه}}by R zazai
+{{لنډه}}
 
 [[وېشنيزه:کيمياوي توکي]]
