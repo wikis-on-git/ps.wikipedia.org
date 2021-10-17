@@ -1,16 +1,1 @@
 
-{{bar box
-|title=Size of Major Religious Groups, 2020<ref name="Pew">{{Cite web|url=https://www.pewforum.org/2015/04/02/religious-projection-table/2010/number/all/|title=Religious Composition by Country, 2010-2050|publisher=Pew Research Center|date=2 April 2015|access-date=5 May 2020|archive-date=15 June 2020|archive-url=https://web.archive.org/web/20200615053333/https://www.pewforum.org/2015/04/02/religious-projection-table/2010/number/all/|url-status=live}}</ref>
-|titlebar=#ddd
-|left1='''Religion'''
-|right1='''Percent'''
-|float=right
-|bars=
-{{bar percent|Christianity|#007FFF|31.11}}
-{{bar percent|Islam|#009900|24.90}}
-{{bar percent|Unaffiliated|#848482|15.58}}
-{{bar percent|Hinduism|#FF7F00|15.16}}
-{{bar percent|Buddhism|#FFFF00|6.62}}
-{{bar percent|Folk Religions|#ED2939|5.61}}
-{{bar percent|Other Religions|#808080|0.79}}
-}}
