@@ -13,31 +13,56 @@
 {{OSM Location map
 |   coord = {{coord4Af420|31.6387|65.6022}}
 |    zoom = 16
-|   width = 370
-|  height = 260
+|   width = 450
+|  height = 400
 | caption = د کلا اړوند مهم ځايونه
 |      label =د کلا مسجد
-| mark-coord = {{coord4Af420|31.63942|65.60282}}
+| mark-coord = {{coord4Af420|31.63936|65.60285}}
+| mark = Mosque.svg
 |  label-pos = left
 | mark-title = د کلا مسجد
 | mark-image = DefaultPs.svg
 | mark-description=د[[کلا، ارغنداب|کلا]] مسجد
 
-
 |      label1 = د کلا او بستازو بند
 | mark-coord1 ={{coord4Af420|31.63750|65.60609}}
 |  label-pos1 = left
+| mark1=Dam icon.svg
 | mark-title = د کلا او بستازو بند 
 | mark-image1 = DefaultPs.svg
 | mark-description1=[[د کلا او بستازو بند]] 
 
-
 |      label2 =د مامد آکا دوئ کورونه
 | mark-coord2 = {{coord4Af420|31.64041|65.60293}}
 |  label-pos2 = left
+|mark2=Simpleicons Places home.svg
 | mark-title = د مامد آکا دوئ کورونه 
 | mark-image2 = DefaultPs.svg
 | mark-description1=[[د مامد آکا دوئ کورونه]] ددې کلي ترټولو زيات خپلوانو سره يوځای کوي. 
+
+| label3 =د جبار سرای
+| mark-coord3 = {{coord4Af420|31.63928|65.60413}}
+|  label-pos3 = right
+|mark3=Simpleicons Places home.svg
+| mark-title = د جبار سرای
+| mark-image3 = Simpleicons Places home.svg
+| mark-description3=[[د جبار سرای]] د ستار او غفاﺭ شريک دی. 
+
+| label4 =د صديق الله دوئ سرايونه
+| mark-coord4 = {{coord4Af420|31.63947|65.60176}}
+|  label-pos4 = left
+|mark4=Simpleicons Places home.svg
+| mark-title = د صديق الله دوئ سرايونه
+| mark-image4 = Simpleicons Places home.svg
+| mark-description4=[[د صديق الله دوئ سرايونه]] 
+
+| label5 =د کلا او بستانزو هدېره
+| mark-coord5 = {{coord4Af420|31.64013|65.60415}}
+|  label-pos5 = left
+|mark5=Map icons by Scott de Jonge - mosque.svg
+| mark-title =د کلا او بستانزو هدېره
+| mark-image5 = Map icons by Scott de Jonge - mosque.svg
+| mark-description5=[[د کلا او بستانزو هدېره]]
 }}
 دا کلی د جغرافيې د لحاظه خورا مهم رول لري، ځکه چې ډېری تګ راتګ به په راتلونکې کې د ارغنداب څخه و ښار او پنجوايي ولسوالۍ ته د همدې لارې وي. 
 ===کلا او دېسوزی===
