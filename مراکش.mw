@@ -1,92 +1,4 @@
-'''مراکش''' (په آمازيغى: مُراكُش '''ⵎⵓⵔⴰⴽⵓⵛ ؛ په''' [[عربي ژبه|عربی]]: '''المغرب''')، د افریقا په شمال لویدیځ کې پروت یو هیواد دی. پلازمینه یې [[رباط]] او رسمي ژبه عربي ده، یاد هیواد ۵۵۰'۷۱۲ کیلومتره مساحت او ۴۰۰'۰۲۲'۳۵ میلیونه وګړي لري.
-{{Infobox country
-|conventional_long_name = Kingdom of Morocco
-|common_name = مراکش
-|native_name ={{Unbulleted list|{{native name|ar|د مراکش هیواد پاچاهي دولت/الدولته مغربي|italics=off}}|{{Native name|ber|ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ|italics=off}}}}
-|image_flag = Flag of Morocco.svg
-|image_coat = Coat of arms of Morocco.svg
-|national_motto =
-   <div style="padding-top:0.2em;padding-bottom:0.5em;">{{Native name|ar|{{Lower|0.1em|خدای، وطن، الملك&nbsp;}}|italics=off|nolink=on}}<br/>''{{transl|ar|Allah, Al Watan, Al Malik}}''</div>{{Native name|ber|ⴰⴽⵓⵛ, ⴰⵎⵓⵔ, ⴰⴳⵍⵍⵉⴷ|italics=off|nolink=on}}</div><br/>{{Small|"God, Homeland, King"}}
-|national_anthem = <br/>{{Native name|ar|{{Lower|0.1em|النشيد الوطني المغربي&nbsp;}}|italics=off|nolink=on}}<br/>{{Native name|ber|{{Lower|0.1em|ⵉⵣⵍⵉ ⴰⵏⴰⵎⵓⵔ ⵏ ⵍⵎⵖⵔⵉⴱ&nbsp;}}|italics=off|nolink=on}}<br/>{{Small|''[[Cherifian Anthem]]''}}<br /><center>[[File:National Anthem of Morocco.ogg]]</center>
-|image_map = Morocco WS-included (orthographic projection).svg
-|map_caption = Map of the Kingdom of Morocco
-|image_map2 = Morocco - Location Map (2013) - MAR - UNOCHA.svg
-|capital = [[رباط]]
-|coordinates = {{Coord|34|02|N|6|51|W|type:city}}
-|largest_city = [[کازابلانکا]]<br>{{Small|{{coord|33|32|N|7|35|W|display=inline}}}}
-|official_languages = {{Hlist|[[مدرن بربري]] |[[مدرن   بربري عرب]]}}
-|languages_type = Native languages
-|languages = {{Unbulleted list|class=nowrap |[[عربي ژبه|عربي]]|[[آمازیغي ژبه|بربري ژبه]]|[[حساني عربي]]}} 
-|languages2_type = نورې ژبې
-|languages2 = [[فرانسوي]]<ref group="Notes" name="French">[[فرانسوي]] is also used in official government documents and by the business community, although it has no official status: "French (often the language of business, government, and diplomacy)..." [https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html] – See [[فرانسوي]] for further information</ref>
-|ethnic_groups = <!--The following is sourced (see ethnic_groups_year above), so please do not change it without also replacing that source:-->{{Unbulleted list|[[بربري عرب]] ۹۹%|نور ۱%}}<ref name=CIApop/>
-|ethnic_groups_year = ۲۰۱۴{{Lower|0.2em|<ref name=CIA>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html |title=Morocco |work=World Factbook |publisher=Central Intelligence Agency}}</ref>}}
-|demonym = [[مراکشیان]]
-|government_type = [[حاکم دولت|دولت]] [[پارلماني]]<br/> {{Raise|0.25em|[[مشروطه]]<ref name="Const1">{{cite web |url=http://www.maroc.ma/NR/rdonlyres/2298ADD6-703C-471E-B924-A5E4F396FEA2/0/Texteint%C3%A9gralduprojetdenouvelleConstitution.pdf |archiveurl=https://web.archive.org/web/20120518075239/http://www.maroc.ma/NR/rdonlyres/2298ADD6-703C-471E-B924-A5E4F396FEA2/0/Texteint%C3%A9gralduprojetdenouvelleConstitution.pdf |archivedate=18 May 2012 |title=Constitution of the Kingdom of Morocco, I-1 |format=PDF |accessdate=9 January 2013}}</ref>}}
-|leader_title1 = [[پاچا]]
-|leader_name1 = [[آلتینجی محمد (مراکش)]]
-|leader_title2 = [[لومړی وزیر]]
-|leader_name2 = [[سعددین عتمانی]]
-|legislature = [[ولسي جرګه]]
-|upper_house = [[مشرانو جرګه]]
-|lower_house = {{Nowrap|[[وکیلان]]}}
-|sovereignty_type = [[تاریخ]]
-|established_event1 = {{Nowrap|[[د مراکش ایداري وېش]] {{Small|(اول)}}}}
-|established_date1 = ۷۸۸
-|established_event2 = {{Nowrap|[[Alaouite dynasty]] {{Small|(current)}}}}
-|established_date2 = ۱۶۳۱
-|established_event3 = {{Nowrap|[[History of Morocco#European influence|Protectorate established]]}}
-|established_date3 = ۳۰ مارچ ۱۹۱۲
-|established_event4 = {{Nowrap|[[History of Morocco#Independent Morocco: since ۱۹۵۶|خپلواکي]]}}
-|established_date4 = ۷ افریل ۱۹۵۶
-|area_km2 = ۷۱۰,۸۵۰
-|area_footnote = {{Nowrap|<br/>{{Raise|0.15em|or ۴۴۶,۵۵۰ km{{sup|2}}{{ref label|Territory|b|}}}}}}
-|area_rank = ۴۰th or ۵۷th <!-- Area rank should match [[ساحه اساسیندا اؤلکه‌لر]] -->
-|area_sq_mi = ۲۷۴,۴۶۰ sq mi<!--Do not remove per [[WP:MOSNUM]]-->{{Nowrap|<br/>{{Raise|0.15em|or ۱۷۲,۴۱۳ {{ref label|Territory|b|}}}}}}
-|percent_water = {{Nowrap|۰.۰۵۶ {{Small|(۲۵۰ km{{sup|2}})}}}}
-|population_census = ۳,۸۴۸,۲۴۲<ref>{{cite web |url=http://www.hcp.ma/Note-sur-les-premiers-resultats-du-Recensement-General-de-la-Population-et-de-l-Habitat-۲۰۱۴_a1۱۵۱۶.html |title=Note sur les premiers résultats du Recensement Général de la Population et de l’Habitat 2014 |year=۲۰۱۵ |publisher=[[Haut Commissariat au Plan|HCP]] |accessdate=22 December ۲۰۱۵}}</ref>
-|population_census_year = 1 September 2014
-|population_density_km2 = ۷۳.۱
-|population_density_sq_mi = ۱۸۹.۳ <!--Do not remove per [[WP:MOSNUM]]-->
-|population_density_rank = 
-|GDP_PPP = $۲۸۱.۷۹&nbsp;بیلیونه<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP-PPP-based|title=Morocco – GDP (PPP based)|work=Knoema}}</ref> <!--Do not edit!-->
-|GDP_PPP_year = ۲۰۱۶
-|GDP_PPP_rank = 
-|GDP_PPP_per_capita = $۸,۳۳۰<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP-per-capita-PPP-based|title=Morocco – GDP per capita (PPP based)|work=Knoema}}</ref> <!--Do not edit!-->
-|GDP_PPP_per_capita_rank = 
-|GDP_nominal = $۱۰۳.۶۲&nbsp;بیلیونه<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP|title=Morocco – GDP|work=Knoema}}</ref> <!--Do not edit!-->
-|GDP_nominal_year = ۲۰۱۶
-|GDP_nominal_rank = 
-|GDP_nominal_per_capita = $۳,۰۶۳<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP-per-capita|title=Morocco – GDP per capita|work=Knoema}}</ref><!--Do not edit!-->
-|GDP_nominal_per_capita_rank = 
-|Gini = ۴۰.۹ <!--number only-->
-|Gini_year = 2007
-|Gini_ref = <ref>{{cite web|url=http://data.worldbank.org/indicator/SI.POV.GINI/|title=World Bank GINI index}}</ref>
-|HDI = ۰.۶۴۷ <!--number only-->
-|HDI_year = ۲۰۱۵<!-- Please use the year to which the data refers, not the publication year-->
-|HDI_change = increase <!--increase/decrease/steady-->
-|HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_۲۰۱۶_statistical_annex.pdf |title=۲۰۱۶ Human Development Report |date=۲۰۱۶ |accessdate=4 April ۲۰۱۶ |publisher=United Nations Development Programme }}</ref>
-|HDI_rank = ۱۲۳th
-|currency = [[د مراکش درهم]]
-|currency_code = MAD
-|time_zone = [[نړیوال ساعت|ساعت]]<ref>[http://www.mmsp.gov.ma/fr/actualites.aspx?id=395 L'horaire d'été (GMT+۱) maintenu jusqu'au 27 octobre 2013], Ministère de la Fonction Publique et de la Modernisation de l'Administration. Retrieved 20 January 2017.</ref>
-|utc_offset = &#۸۲۸۸;<!--NOTE: Zero-width non-breaking space results in the infobox displaying "UTC" without a specified offset.-->
-|utc_offset_DST = +۱
-|time_zone_DST = [[نړیوال ساعت|وخت]]+۱ (DST suspended during [[رمضان]]) <ref>https://support.microsoft.com/en-us/help/4023136/2017-morocco-ramadan-dst-changes</ref>
-|drives_on = ښوی
-|calling_code = [[+۲۱۲]]
-|cctld = [[.ma]]
-<!--Unused: | footnote_? = {{note|French}} ۱۳.۵% fluent, 
-۱۹.۵% partially fluent.<ref>"[http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf La Francophonie dans le monde]." ([https://www.webcitation.org/6BRfV7Jk3?url=http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf Archive]) ''[[د دې  لا فرانکوپهوني نړیوال سازمان]]''. p. ۱۶. Retrieved ۱۵ اکتوبر 2012.</ref>-->
-|footnote_a = {{note|Official religion}} [[دین]].
-|footnote_b = {{note|Territory}} The area {{Convert|446550|km2|abbr=on}} excludes all disputed territories, while {{Convert|710850|km2|abbr=on}} includes the Moroccan-administered parts of [[ختیځه صحرا]] (claimed as the [[دیمکراتیکه ولسمشریزه]] by the [[Polisario Front]]).
-|religion = [[اسلام]]    {{ref label| رسمي دین|a|}} <small>(official)</small><ref>{{cite web|title=Morocco in CIA World Factbook |url=https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html|website=CIA.gov}}</ref>
-|area_magnitude = ۱_E۱۰
-|population_rank = 
-}}
 
-==ایداري وېش==
-مراکش هیواد د ۲۰۱۵م کال د وروستی بدلون سره په ۱۲ ولایتونو ویشل شوی دی.
 {{Infobox settlement
 | name= د مراکش ولایتونه
 | map = [[دوتنه:Morocco Regions 2015 numbered.svg|300px]]
@@ -97,6 +9,115 @@
 | government = Regional council
 | subdivision = [[Administrative divisions of Morocco|Provinces and prefectures]]
 }}
+{{Infobox country
+| conventional_long_name = Kingdom of Morocco
+| common_name = مراکش
+| native_name = {{Unbulleted list|{{native name|ar|د مراکش هیواد پاچاهي دولت/الدولته مغربي|italics=off}}|{{Native name|ber|ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ|italics=off}}}}
+| image_flag = Flag of Morocco.svg
+| image_coat = Coat of arms of Morocco.svg
+| national_motto = <div style="padding-top:0.2em;padding-bottom:0.5em;">{{Native name|ar|{{Lower|0.1em|خدای، وطن، الملك&nbsp;}}|italics=off|nolink=on}}<br/>''{{transl|ar|Allah, Al Watan, Al Malik}}''</div>{{Native name|ber|ⴰⴽⵓⵛ, ⴰⵎⵓⵔ, ⴰⴳⵍⵍⵉⴷ|italics=off|nolink=on}}</div><br/>{{Small|"God, Homeland, King"}}
+| national_anthem = <br/>{{Native name|ar|{{Lower|0.1em|النشيد الوطني المغربي&nbsp;}}|italics=off|nolink=on}}<br/>{{Native name|ber|{{Lower|0.1em|ⵉⵣⵍⵉ ⴰⵏⴰⵎⵓⵔ ⵏ ⵍⵎⵖⵔⵉⴱ&nbsp;}}|italics=off|nolink=on}}<br/>{{Small|''[[Cherifian Anthem]]''}}<br /><center>[[File:National Anthem of Morocco.ogg]]</center>
+| image_map = Morocco WS-included (orthographic projection).svg
+| map_caption = Map of the Kingdom of Morocco
+| image_map2 = Morocco - Location Map (2013) - MAR - UNOCHA.svg
+| capital = [[رباط]]
+| coordinates = {{Coord|34|02|N|6|51|W|type:city}}
+| largest_city = [[کازابلانکا]]<br>{{Small|{{coord|33|32|N|7|35|W|display=inline}}}}
+| official_languages = {{Hlist|[[مدرن بربري]] |[[مدرن   بربري عرب]]}}
+| languages_type = Native languages
+| languages = {{Unbulleted list|class=nowrap |[[عربي ژبه|عربي]]|[[آمازیغي ژبه|بربري ژبه]]|[[حساني عربي]]}}
+| languages2_type = نورې ژبې
+| languages2 = [[فرانسوي]]<ref group="Notes" name="French">[[فرانسوي]] is also used in official government documents and by the business community, although it has no official status: "French (often the language of business, government, and diplomacy)..." [https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html] – See [[فرانسوي]] for further information</ref>
+| ethnic_groups = <!--The following is sourced (see ethnic_groups_year above), so please do not change it without also replacing that source:-->{{Unbulleted list|[[بربري عرب]] ۹۹%|نور ۱%}}<ref name=CIApop/>
+| ethnic_groups_year = ۲۰۱۴{{Lower|0.2em|<ref name=CIA>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html |title=Morocco |work=World Factbook |publisher=Central Intelligence Agency}}</ref>}}
+| demonym = [[مراکشیان]]
+| government_type = [[حاکم دولت|دولت]] [[پارلماني]]<br/> {{Raise|0.25em|[[مشروطه]]<ref name="Const1">{{cite web |url=http://www.maroc.ma/NR/rdonlyres/2298ADD6-703C-471E-B924-A5E4F396FEA2/0/Texteint%C3%A9gralduprojetdenouvelleConstitution.pdf |archiveurl=https://web.archive.org/web/20120518075239/http://www.maroc.ma/NR/rdonlyres/2298ADD6-703C-471E-B924-A5E4F396FEA2/0/Texteint%C3%A9gralduprojetdenouvelleConstitution.pdf |archivedate=18 May 2012 |title=Constitution of the Kingdom of Morocco, I-1 |format=PDF |accessdate=9 January 2013}}</ref>}}
+| leader_title1 = [[پاچا]]
+| leader_name1 = [[آلتینجی محمد (مراکش)]]
+| leader_title2 = [[لومړی وزیر]]
+| leader_name2 = [[سعددین عتمانی]]
+| legislature = [[ولسي جرګه]]
+| upper_house = [[مشرانو جرګه]]
+| lower_house = {{Nowrap|[[وکیلان]]}}
+| sovereignty_type = [[تاریخ]]
+| established_event1 = {{Nowrap|[[د مراکش ایداري وېش]] {{Small|(اول)}}}}
+| established_date1 = ۷۸۸
+| established_event2 = {{Nowrap|[[Alaouite dynasty]] {{Small|(current)}}}}
+| established_date2 = ۱۶۳۱
+| established_event3 = {{Nowrap|[[History of Morocco#European influence|Protectorate established]]}}
+| established_date3 = ۳۰ مارچ ۱۹۱۲
+| established_event4 = {{Nowrap|[[History of Morocco#Independent Morocco: since ۱۹۵۶|خپلواکي]]}}
+| established_date4 = ۷ افریل ۱۹۵۶
+| area_km2 = ۷۱۰,۸۵۰
+| area_footnote = {{Nowrap|<br/>{{Raise|0.15em|or ۴۴۶,۵۵۰ km{{sup|2}}{{ref label|Territory|b|}}}}}}
+| area_rank = ۴۰th or ۵۷th <!-- Area rank should match [[ساحه اساسیندا اؤلکه‌لر]] -->
+| area_sq_mi = ۲۷۴,۴۶۰ sq mi<!--Do not remove per [[WP:MOSNUM]]-->{{Nowrap|<br/>{{Raise|0.15em|or ۱۷۲,۴۱۳ {{ref label|Territory|b|}}}}}}
+| percent_water = {{Nowrap|۰.۰۵۶ {{Small|(۲۵۰ km{{sup|2}})}}}}
+| population_census = ۳,۸۴۸,۲۴۲<ref>{{cite web |url=http://www.hcp.ma/Note-sur-les-premiers-resultats-du-Recensement-General-de-la-Population-et-de-l-Habitat-۲۰۱۴_a1۱۵۱۶.html |title=Note sur les premiers résultats du Recensement Général de la Population et de l’Habitat 2014 |year=۲۰۱۵ |publisher=[[Haut Commissariat au Plan|HCP]] |accessdate=22 December ۲۰۱۵}}</ref>
+| population_census_year = 1 September 2014
+| population_density_km2 = ۷۳.۱
+| population_density_sq_mi = ۱۸۹.۳ <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 
+| GDP_PPP = $۲۸۱.۷۹&nbsp;بیلیونه<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP-PPP-based|title=Morocco – GDP (PPP based)|work=Knoema}}</ref> <!--Do not edit!-->
+| GDP_PPP_year = ۲۰۱۶
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $۸,۳۳۰<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP-per-capita-PPP-based|title=Morocco – GDP per capita (PPP based)|work=Knoema}}</ref> <!--Do not edit!-->
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = $۱۰۳.۶۲&nbsp;بیلیونه<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP|title=Morocco – GDP|work=Knoema}}</ref> <!--Do not edit!-->
+| GDP_nominal_year = ۲۰۱۶
+| GDP_nominal_rank = 
+| GDP_nominal_per_capita = $۳,۰۶۳<ref>{{cite web|url=http://knoema.com/atlas/Morocco/GDP-per-capita|title=Morocco – GDP per capita|work=Knoema}}</ref><!--Do not edit!-->
+| GDP_nominal_per_capita_rank = 
+| Gini = ۴۰.۹ <!--number only-->
+| Gini_year = 2007
+| Gini_ref = <ref>{{cite web|url=http://data.worldbank.org/indicator/SI.POV.GINI/|title=World Bank GINI index}}</ref>
+| HDI = ۰.۶۴۷ <!--number only-->
+| HDI_year = ۲۰۱۵<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_۲۰۱۶_statistical_annex.pdf |title=۲۰۱۶ Human Development Report |date=۲۰۱۶ |accessdate=4 April ۲۰۱۶ |publisher=United Nations Development Programme }}</ref>
+| HDI_rank = ۱۲۳th
+| currency = [[د مراکش درهم]]
+| currency_code = MAD
+| time_zone = [[نړیوال ساعت|ساعت]]<ref>[http://www.mmsp.gov.ma/fr/actualites.aspx?id=395 L'horaire d'été (GMT+۱) maintenu jusqu'au 27 octobre 2013], Ministère de la Fonction Publique et de la Modernisation de l'Administration. Retrieved 20 January 2017.</ref>
+| utc_offset = &#۸۲۸۸;<!--NOTE: Zero-width non-breaking space results in the infobox displaying "UTC" without a specified offset.-->
+| utc_offset_DST = +۱
+| time_zone_DST = [[نړیوال ساعت|وخت]]+۱ (DST suspended during [[رمضان]]) <ref>https://support.microsoft.com/en-us/help/4023136/2017-morocco-ramadan-dst-changes</ref>
+| drives_on = ښوی
+| calling_code = [[+۲۱۲]]
+| cctld = [[.ma]]
+<!--Unused: | footnote_? = {{note|French}} ۱۳.۵% fluent, 
+۱۹.۵% partially fluent.<ref>"[http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf La Francophonie dans le monde]." ([https://www.webcitation.org/6BRfV7Jk3?url=http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf Archive]) ''[[د دې  لا فرانکوپهوني نړیوال سازمان]]''. p. ۱۶. Retrieved ۱۵ اکتوبر 2012.</ref>-->| footnote_a = {{note|Official religion}} [[دین]].
+| footnote_b = {{note|Territory}} The area {{Convert|446550|km2|abbr=on}} excludes all disputed territories, while {{Convert|710850|km2|abbr=on}} includes the Moroccan-administered parts of [[ختیځه صحرا]] (claimed as the [[دیمکراتیکه ولسمشریزه]] by the [[Polisario Front]]).
+| religion = [[اسلام]]    {{ref label| رسمي دین|a|}} <small>(official)</small><ref>{{cite web|title=Morocco in CIA World Factbook |url=https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html|website=CIA.gov}}</ref>
+| area_magnitude = ۱_E۱۰
+| population_rank = 
+}}
+
+
+مراکش چې رسمي نوم يې د مراکش سلطنت دی،د شمالي افريقا د مغرب سيمې په لرې شمال لويديځ کې پروت دی. شمال لور ته د مديترانې سمندر او لويديځ لور ته د اتلانتيک اقيانوس په لوړو څنډو موقعيت لري، ختيځ لور ته له الجزاير سره ځمکنۍ پوله لري، سويل لور ته يې د سويلي سهارا لانجمنه سيمه پرته ده. مراکش په سبتة، مليله، پنون دي ولز ډي لا ګومرا سيمو هم دعوه لري چې د هسپانيې تر واک لاندې دي، مراکش د هغو ګڼو ټاپوګانو د ملکيت مدعي هم دی چې د هسپانيې په ساحلونو کې د هغه هېواد تر واک لاندې دي. سيمه يې ۴۴۶،۵۵۰ کيلو متره (۱۷۲،۴۱۰ ميل مربع) يا ۷۱۰،۸۵۰ کيلو متره (۲۷۴،۴۶۰ ميل مربع) ده، د وګړو شمېر يې نږدې اووه دېرش ميليونه دی. رسمي او په هېواد کې واکمن دين اسلام دی، رسمي ژبې يې عربي او بربري دي؛ په مراکشي لهجه عربي او فرانسوي هم ډېر خلک خبرې کوي. مراکشي پېژندګلو او کلتور د بربري، عربي او اروپايي کلتورونو ګډوله او خوځنده کلتور دی. پلازمېنه يې رباط او ستر ښار يې دار البيضاء دی.<ref>{{Cite news|url=https://www.bbc.com/news/world-africa-14114627|title=Ceuta, Melilla profile|date=2018|work=BBC News|access-date=2018-11-13|language=en-GB}}</ref><ref name="Abun-Nasr1987">{{cite book|author=Jamil M. Abun-Nasr|title=A History of the Maghrib in the Islamic Period|url=https://books.google.com/books?id=jdlKbZ46YYkC|date=20 August 1987|publisher=Cambridge University Press|isbn=978-0-521-33767-0}}</ref>
+
+له ۹۰۰۰۰ کلونو نه را پدېخوا د لرغوني ډبرين پير نه په کې انسانان ژوند کوي، لومړی مراکشي دولت په ۷۸۸ ز کال کې د لومړي ادريس له خوا جوړ شوی و. له هغه وروسته پرې يو لړ خپلواکو واکمنيو حکومت وکړ، په يوولسمه او دولسمه پېړۍ کې د المرابطينو او الموحدينو د واکمنيو پر مهال د سيمه یيز ځواک په توګه خپل اوج ته ورسېد، دا هغه مهال و چې يادو واکمنيو د ايبيري ټاپووزمې او مغرب ډېرې برخې په واک کې لرلې. په پنځلسمه او شپاړسمه پېړۍ کې د مراکش خپلواکي هغه مهال له بهرنيو ګواښونو سره مخامخ شوه، کله چې پرتګال د دې هېواد ځينې سيمې ونيولې او عثماني سترواکۍ د ختيځ له خوا تېری وکړ. مريني او سعدي واکمنيو د بهرني نیواک په وړاندې مقاومت وکړ او مراکش يوازینی شمالي افريقايي هېواد و چې له عثماني واکمنۍ بچ پاتې شو. د علويانو سلسلې په ۱۶۳۱ز کال کې واک تر لاسه کړ چې تر اوسه په مراکش حکومت کوي او په دوو پېړيو کې يې له لويديځې نړۍ سره ديپلوماتيکې او سوداګريزې اړيکې پراخې کړې دي. د مديترانې له حوزې سره نږدې د مراکش ستراتيژيک موقعيت يو خل بيا اروپايي لېوالتيا راجلب کړه؛ په ۱۹۱۲ز کال کې فرانسې او هسپانيې دا هېواد په دوه تحت الحمايه برخو ووېشه او په طنجة کې يې يوه نړيواله سيمه وساتله. د نېواکګرو واکمنيو پر ضد د نړيوالو بريدونو او پاڅونونو نه وروسته، په ۱۹۵۶ز کال کې مراکش يو ځل بيا خپلواکي تر لاسه او سره متحد شو. <ref>{{Cite book|last1=Hall|first1=John G.|url=https://books.google.com/books?id=BhMuc6NacxgC&q=Since+the+foundation+of+the+first+Moroccan+state+by+Idris+I+in+788+AD,+the+country+has+been+ruled+by+a+series+of+independent+dynasties,+reaching+its+zenith+under+Almoravid+and+Almohad+rule,+when+it+spanned+parts+of+Iberia+and+northwestern+Africa.&pg=PA5|title=North Africa|last2=Publishing|first2=Chelsea House|year=2002|publisher=Infobase Publishing|isbn=978-0-7910-5746-9}}</ref>
+
+له خپلواکۍ راهيسې مراکش یو څه ارام او سوکاله پاتې شو. په افريقا کې پنځم ستر اقتصاد دی، په افريقا او عربي نړۍ د پام وړ اغېز لري، په نړيوالو چارو کې منځنی ځواک بلل کېږي، د عربي ټولنې، مديترانې اتحاديې او افريقايي اتحاديې غړيتوب لري. د مراکش اتحادي نيمه مشروطه پاچهي ده چې منتخب پارلمان لري. د اجرائيه برخې مشري يې د مراکش پاچا او لومړی وزير کوي، د قانون جوړولو اختيارات يې د پارلمان دوو خونو ته ورکړل شوي دي؛ د استازو خونه او د شوراګانو خونه. قضايي واک د اساسي قانون له محکمې سره دی، کوم چې د قوانينو د اعتبار، ټولټاکنو او ټول پوښتنې ارزونه کوي. پاچا پراخ اجرائيوي او تقنيني واکونه لري، په ځانګړي ډول پر پوځ، بهرنۍ تګلارې او مذهبي چارو، هغه د الظهير په نوم احکام صادرولای شي، چې همدا احکام د قانون بڼه لري، له لومړي وزير او اساسي قانون له محکمې سره تر مشورې وروسته پارلمان منحل کولای شي.<ref>{{Cite journal|last=Balfour|first=Rosa|date=March 2009|title=The Transformation of the Union for the Mediterranean|journal=Mediterranean Politics|volume=14|issue=1|pages=99–105|doi=10.1080/13629390902747491|issn=1362-9395|doi-access=free}}</ref><ref>[https://www.icj.org/wp-content/uploads/2018/02/Morocco-Access-Const-Ct-Advocacy-Position-paper-2018-ENG.pdf#:~:text=The%202011%20Moroccan%20Constitution%20establishes%20a%20Constitutional%20Court.1,of%20the%20members%20of%20the%20Chamber%20of%20Councillors.2 Morocco: Remove Obstacles to Access to the Constitutional Court]. ''International Commission of Jurists''.</ref>
+
+مراکش د لويديځې سهارا د ناخپلواکې سيمې د مالکيت ادعا لري او دې سيمې ته يې د خپلو سويلي ولايتونو نوم ورکړی دی. په ۱۹۷۵ز کال کې، کله چې هسپانيې موافقه وکړه چې پر دې سيمه خپل نیواک پای ته رسوي او خپل واک مراکش او موريتانيې ته ورکوي، د دې خواکونو او سيمه یيزو خلکو تر منځ چريکې جګړې پيل شوې. په ۱۹۷۹ز کال کې، موريتانيا پر ياده سیمه د خپل ملکيت له ادعا تېر شو، خو بيا هم جګړه د تېر په څېر روانه وه. په ۱۹۹۱ز کال کې، د اوربند تړون وشو، خو د خپلواکۍ مسئله ناحله پاتې شوه. اوسمهال مراکش د يادې سيمې دوه په درې برخه په واک کې لري او د دې لانجې د حل لپاره هڅې نه دي توانېدلي چې دا سياسي بندښت مات کړي.
+
+== رېښه ==
+د مراکش پوره عربي نوم «المملکة المغربية» دی، ښه ژباړه يې دا ده : «د لويديځ پاچهي»، ځکه چې په عربي کې الغرب لويديځ ته وايي. د دې نوم ژباړه داسې هم کېدای شي: «د ماشام پاچهي»؛ د منځنۍ پېړۍ عرب تاريخ پوهان او جغرافيه پوهان کله ناکله مراکش ته (المغرب الاقصی) نوم اخلي، چې معنا يې ده: «لرې لويديځ»، د ګاونډيو سيمو سره د توپير لپاره بيا ورته «المغرب الاوسط» يعنې منځنی لويديځ او (المغرب الأدنی) یعنې نژدې لویديځ نومونه اخلي.<ref>{{cite book|last=Yahya|first=Dahiru|title=Morocco in the Sixteenth Century|year=1981|publisher=Longman|page=18}}</ref>
+
+په انګليسي ژبه کې لیکل کېدونکی (Morocco) ټکی له مراکش نه اخیستل شوی دی، د المرابطينو د سلطنت او الموحدينو د خلافت پر مهال دا سيمه د دې هېواد پلازمېنه وه. د مراکش ټکي د اصليت په اړه اختلافات دي، خو دا ډېره نژدې ده چې د بربري ټکي امور او اکوش نه اخیستل شوی چې معنا يې ده «د خدای ځمکه». د مراکش اوسنی بربري نوم « Mṛṛakc» دی. په ترکي ژبه کې مراکش ته فاس ويل کېږي، فاس د دې هېواد د لرغونې پلازمېنې «فس» نه اخیستل شوی دی. خو د اسلامي نړۍ په نورو برخو کې، د بېلګې په ډول: مصري او د شلمې پېړۍ له نيمايي نه مخکې د منځني ختيځ په عربي ادبياتو کې، په عمومي توګه، مراکش ته همدا د مراکش نوم اخیستل کېده. <ref>{{cite web|url=http://www.statoids.com/uma.html|title=Regions of Morocco|access-date=7 September 2007|work=statoids.com}}</ref><ref>{{cite book|last=Shillington|first=Kevin|date=2005|title=Encyclopedia of African history|location=London/New York|publisher=Fitzroy Dearborn|page=948}}</ref><ref>{{cite book|last=Nanjira|first=Daniel Don|date=2010|title=African Foreign Policy and Diplomacy From Antiquity to the 21st Century|publisher=[[ABC-CLIO]]|page=208}}</ref><ref>{{Cite book|last=Gershovich|first=Moshe|date=2012-10-12|title=French Military Rule in Morocco|doi=10.4324/9780203044988|isbn=9780203044988}}</ref>
+
+د فارسي، اردو او پنجابي په ګډون، همدا نوم اوس هم په ځینو ژبو کې  دې هېواد ته کارول کېږي. د انګليسي Morocoo نوم د هسپانوي نوم Marruecos انګليسي شوې بڼه ده. هسپانيايي نوم هم له لرغونې توسکاني کلیمې Morrocco نه اخیستل شوی و او په ايټالوي ژبه کې د دې هېواد لپاره کارېدونکی ټکی Marocco بیا له توسکاني ژبې اخیستل شوی دی. 
+
+== تاریخچه ==
+
+=== له تاریخ مخکې او لرغونی ===
+د اوسني مراکش په سيمه کې د لرغوني ډبرين پير نه انسانان اوسېدلي دي، چې له زېږد مخکې د ۱۹۰۰۰۰ او ۹۰۰۰۰ تر منځ وختونو نه پيليږي. يوه وروستۍ خپرونه وړانديز کوي، داسې شواهد شته چې ان له دې پير مخکې هم هلته انسانانو ژوند کړی دی: د ۲۰۰۰ لسیزې په وروستيو کې د اتلانتيک اقيانوس په څنډو په جبل ارهود کې د ځيرک انسان د موندل شوو پاتې شونو تاريخ په اټکلي توګه ۳۱۵۰۰۰ کلونه پخوا ته رسېږي. د لوړ ډبرين پير پر مهال مغرب د اوس په پرتله زيات ښېرازه و، چې د اوسنو شاړو طبيعي منظرو پر خلاف ساوانا «زرغونتيا» ته ورته و. دوه وېشت زره وړاندې، له وړاندې نه شته د اتريايي کلتور ځای، ايبروماوروسي کلتور ونيو، کوم چې له ايبيریايي کلتور سره ورته والی لري. د «مچتا-افالو» ايبروماوروس د خښېدو په سيمه کې د موندل شوو انساني پاتې شونو د بدني جوړښت او اروپايي کرومګنون د پاتې شونو د اسکلټونو تر منځ د ورته والي وړانديز شوی دی. په مراکش کې د ايبروماوروسي کلتور ځای بيکر کلتور نيولی و. <ref>[http://www.eva.mpg.de/evolution/files/irhoud.htm Field Projects – Jebel Irhoud ] {{webarchive|url=https://web.archive.org/web/20170112002657/http://www.eva.mpg.de/evolution/files/irhoud.htm|date=12 January 2017}}. Department of Human Evolution. [[Max Planck]] Institute for Evolutionary Anthropology</ref><ref>[http://www.nature.com/news/oldest-homo-sapiens-fossil-claim-rewrites-our-species-history-1.22114 Oldest Homo sapiens fossil claim rewrites our species' history ] News. [[Nature Magazine]], International Weekly Journal of Science</ref><ref>{{cite book|last=Rubella|first=D.|title=From hunters to farmers the causes and consequences of food production in Africa|year=1984|publisher=University of California Press|location=Berkeley|isbn=978-0520045743|pages=41–56|editor=J.D. Clark & S.A. Brandt|chapter=Environmentalism and Pi Paleolithic economies in the Maghreb (c. 20,000 to 5000 B.P.)}}</ref>
+
+د ميتوکندريايي د ډي اين ای څېړنو کې د بربريانو او سامي سکانډينيويايانو تر منځ د نيکونو د شراکت نژدې اړیکه موندل شوې ده. دا شواهد دا نظر تايیدوي چې، ځينې هغه خلک اروپا ته کوچېدلي دي چې، د کنګلونو په وروستيو کې يې د سويل لويديځې اروپا د فرانسوي-کانتابريايي په خوندي سيمو کې ژوند کاوه او همدوی بيا د کنګل له وروستي پير وروسته د نفوسو په بيا توليد کې مرسته کړې.<ref>{{Cite journal|last1=Achilli|last8=Scozzari|pmid=15791543|year=2005|pages=883–886|issue=5|volume=76|journal=The American Journal of Human Genetics|title=Saami and Berbers—An Unexpected Mitochondrial DNA Link|doi=10.1086/430073|first9=N.|last9=Babudri|first8=R.|first7=C.|first1=A.|last7=Magri|first6=S.|last6=Fornarino|first5=A.|last5=Olivieri|first4=M.|last4=Pala|first3=V.|last3=Battaglia|first2=C.|last2=Rengo|pmc=1199377}}</ref> 
+
+==ایداري وېش==
+مراکش هیواد د ۲۰۱۵م کال د وروستی بدلون سره په ۱۲ ولایتونو ویشل شوی دی.
 {| border="۱" cellpadding="۳" style="float: right; margin: ۰ ۰ ۱em ۱em; width: ۵۸۰px; border-collapse: collapse;"
 |- 
 | colspan="۷" style="margin-left: inherit; background:#۶۰C; color:#ffffff;text-align:center;" |'''د  مراکش ولایتي وېش'''
