@@ -1,0 +1,310 @@
+برېښنايي مقناطيسي طيف د برېښنايي مقناطيسي وړانګو او د هغوی اړوند څپې اوږدوالي او فوتون انرژيو د پرله پسې پېښېدنو (طيف) لړۍ ده. 
+
+برېښنايي مقناطيسي طيف، هغه برېښنايي مقناطيسي څپې رانغاړي، چې فريکوينسي لړۍ يې له يو هرتز ښکته څخه تر ۱۰۲۵ هرتز پورې وي او همدارنګه له زرګونو کیلومترو ښکته څخه د يوې اتومې هستې د اندازې تر ماتېدنې پورې د څپې اوږدوالي ته ځواب ويونکی دی. د فريکوينسي دا لړۍ په بېلو ډلو وېشل شوې ده او په هره ډله کې يې برېښنايي مقناطيسي څپې په بېلابېلو نومونو سره يادېږي. يادې څپې چې د طيف د ټيټې فريکوينسۍ (اوږدې څپې) په پای کې پيل کېږي، بې سيم څپې، کوچنۍ څپې، انفرا ريډ، د ليدلو وړ رڼا، له بنفش پورته (ماورا بنفش) او ايکس وړانګې دي. ګاما وړانګې د لوړې فريکوينسۍ (لنډې څپې) په پای کې دي. په دې هره ډله يا کړۍ کې برېښنايي مقناطيسي څپې راز راز ځانګړتياوې لري. لکه: دوی څه ډول توليدېږي، له مادې سره څه ډول غبرګون يا تعامل کوي او عملي کاريالونه يې [څه يا څه ډول] دي. د اوږدو څپو لپاره معلوم بريد يا حد نه شته، په داسې حال کې چې فکر کېږي، د لندې څپې بريد يا حد د Planck اوږدوالي ته نږدې دی. خورا ماورا بنفش، د ايکس نرمې وړانګې، د ايکس سختې وړانګې او ګاما وړانګې په برېښنايي ذرو د بدلېدونکو وړانګو په توګه ځکه ډلبندي کېږي، چې د دوی فوتونونه د اتومونو د ايونايز کولو لپاره پوره انرژي لري، چې د کيمياوي تعامل لامل کېږي. له دې وړانګو سره مخامخ کېدل، روغتيايي ګواښ کېدلی شي، چې د وړانګې ناروغۍ، DNA زيانمنولو او سرطان سبب کېږي. د ليدلو وړ رڼا وړانګې د څپې اوږدوالي او ورڅخه ښکته ته نه ايونايز کېدونکې (چې پر چارج لرونکو ذرو باندې نه شي بدلېدلی) وړانګې ځکه وايي، چې د يادو اغېزو لامل نه شي کېدلی. <ref>{{cite book|title=Basic Electronics Engineering|author1=Bakshi, U. A.|author2=Godse, A. P.|url=https://books.google.com/books?id=n0RMHUQUUY4C|pages=8–10|year=2009|isbn=978-81-8431-580-6|publisher=Technical Publications}}</ref>
+
+د فريکوينسي په پورتنيو زياتره ډلو کې په فزيکي ډول د بېلابېلو فريکوينسيو د څپو د بېلولو په موخه، د سپېکټروسکوپي يا منظر ښودونکي (طيف نما) په نوم له يو تخنيک څخه ګټه اخيستل کېږي، چې د جوړونکو فريکوينسيو څرګندونکی يو منظر توليدوي. ياد تخنيک له مادې سره د برېښنايي مقناطيسې څپو د غبرګونونو د څېړلو په موخه کارول کېږي. نورې ټيکنالوژيکي کارونې د برېښنايي مقناطيسي وړانګې تر سرليک لاندې تشرېح شوې دي. 
+{| class="wikitable"
+| colspan="3" |'''ټولګی'''
+| 
+|'''Wavelength'''
+
+'''{\displaystyle \lambda }د څپې اوږدوالی'''
+|'''Frequency'''
+
+'''پرله پسې پېښېدنه يا  فريکوينسي{\displaystyle f}'''
+|'''Energy per'''
+
+'''photon'''
+
+'''{\displaystyle E}انرژي پر فوټون'''
+|
+|-
+| rowspan="9" |Ionizing
+
+radiation
+
+ايونايز کېدونکې وړانګه
+| rowspan="2" |γ
+| rowspan="2" |Gamma rays
+
+ګاما وړانګې
+| rowspan="39" |
+|1 pm
+|300 EHz
+|1.24 MeV
+|
+|-
+| rowspan="2" |10 pm
+| rowspan="2" |30 EHz
+| rowspan="2" |124 keV
+|
+|-
+| rowspan="2" |HX
+| rowspan="2" |Hard X-rays
+
+د ايکس سختې وړانګې
+|
+|-
+| rowspan="2" |100 pm
+| rowspan="2" |3 EHz
+| rowspan="2" |12.4 keV
+|
+|-
+| rowspan="3" |SX
+| rowspan="3" |Soft X-rays
+
+د ايکس نرمې وړانګې
+|
+|-
+|1 nm
+|300 PHz
+|1.24 keV
+|
+|-
+| rowspan="2" |10 nm
+| rowspan="2" |30 PHz
+| rowspan="2" |124 eV
+|
+|-
+| rowspan="2" |EUV
+| rowspan="2" |Extreme
+
+ultraviolet
+
+له بنفش څخه خورا  هاخوا
+|
+|-
+| rowspan="2" |100 nm
+| rowspan="2" |3 PHz
+| rowspan="2" |12.4 eV
+|
+|-
+|
+| rowspan="2" |NUV
+| rowspan="2" |Near ultraviolet,
+
+visible
+
+له بنفش څخه هاخوا ته  نږدې، د ليدلو وړ
+|
+|-
+|
+| rowspan="2" |1 μm
+| rowspan="2" |300 THz
+| rowspan="2" |1.24 eV
+|
+|-
+| rowspan="6" |
+| rowspan="2" |NIR
+| rowspan="2" |Near infrared
+
+انفرا ريډ ته نږدې
+|
+|-
+| rowspan="2" |10 μm
+| rowspan="2" |30 THz
+| rowspan="2" |124 meV
+|
+|-
+| rowspan="2" |MIR
+| rowspan="2" |Mid infrared
+
+منځنۍ انفرا ريډ
+|
+|-
+| rowspan="2" |100 μm
+| rowspan="2" |3 THz
+| rowspan="2" |12.4 meV
+|
+|-
+| rowspan="2" |FIR
+| rowspan="2" |Far infrared
+
+لرې انفرا ريډ
+|
+|-
+| rowspan="2" |1 mm
+| rowspan="2" |300 GHz
+| rowspan="2" |1.24 meV
+|
+|-
+| rowspan="22" |Micro-
+
+waves
+
+
+and
+
+
+radio
+
+waves
+
+کوچنۍ څپې 
+
+او 
+
+راډيويي يا بې سيم څپې
+| rowspan="2" |EHF
+| rowspan="2" |Extremely high
+
+frequency
+
+په بې ساري ډول لوړه فريکوينسي
+|
+|-
+| rowspan="2" |1 cm
+| rowspan="2" |30 GHz
+| rowspan="2" |124 μeV
+|
+|-
+| rowspan="2" |SHF
+| rowspan="2" |Super high
+
+frequency
+
+خورا لوړه فريکوينسي
+|
+|-
+| rowspan="2" |1 dm
+| rowspan="2" |3 GHz
+| rowspan="2" |12.4 μeV
+|
+|-
+| rowspan="2" |UHF
+| rowspan="2" |Ultra high
+
+frequency
+
+له لوړې څخه پورته  فريکوينسي
+|
+|-
+| rowspan="2" |1 m
+| rowspan="2" |300 MHz
+| rowspan="2" |1.24 μeV
+|
+|-
+| rowspan="2" |VHF
+| rowspan="2" |Very high
+
+frequency
+
+ډېره لوړه فریکوينسي
+|
+|-
+| rowspan="2" |10 m
+| rowspan="2" |30 MHz
+| rowspan="2" |124 neV
+|
+|-
+| rowspan="2" |HF
+| rowspan="2" |High
+
+frequency
+
+لوړه فریکوينسي
+|
+|-
+| rowspan="2" |100 m
+| rowspan="2" |3 MHz
+| rowspan="2" |12.4 neV
+|
+|-
+| rowspan="2" |MF
+| rowspan="2" |Medium
+
+frequency
+
+منځنۍ فريکوينسي
+|
+|-
+| rowspan="2" |1 km
+| rowspan="2" |300 kHz
+| rowspan="2" |1.24 neV
+|
+|-
+| rowspan="2" |LF
+| rowspan="2" |Low
+
+frequency
+
+ټيټه فريکوينسي
+|
+|-
+| rowspan="2" |10 km
+| rowspan="2" |30 kHz
+| rowspan="2" |124 peV
+|
+|-
+| rowspan="2" |VLF
+| rowspan="2" |Very low
+
+frequency
+
+ډېره ټيټه فريکوينسي
+|
+|-
+| rowspan="2" |100 km
+| rowspan="2" |3 kHz
+| rowspan="2" |12.4 peV
+|
+|-
+| rowspan="2" |ULF
+| rowspan="2" |Ultra low
+
+frequency
+
+له ټيټې څخه هاخوا  فریکوينسي
+|
+|-
+| rowspan="2" |1 Mm
+| rowspan="2" |300 Hz
+| rowspan="2" |1.24 peV
+|
+|-
+| rowspan="2" |SLF
+| rowspan="2" |Super low
+
+frequency
+
+خورا ټيټه فريکوينسي
+|
+|-
+| rowspan="2" |10 Mm
+| rowspan="2" |30 Hz
+| rowspan="2" |124 feV
+|
+|-
+| rowspan="2" |ELF
+| rowspan="2" |Extremely low
+
+frequency
+
+په بې ساري ډول ټيټه  فريکوينسي
+|
+|-
+|100 Mm
+|3 Hz
+|12.4 feV
+|
+|-
+| colspan="7" |<ref name="ucdavis">[http://cbst.ucdavis.edu/education/courses/winter-2006-IST8A/ist8a_2006_01_09light.pdf What is Light?] {{webarchive|url=https://web.archive.org/web/20131205005843/http://cbst.ucdavis.edu/education/courses/winter-2006-IST8A/ist8a_2006_01_09light.pdf|date=December 5, 2013}} – [[UC Davis]] lecture slides</ref><ref name="Elert">{{cite web|author=Elert, Glenn|url=https://physics.info/em-spectrum/|title=The Electromagnetic Spectrum|work=The Physics Hypertextbook|access-date=2022-01-21}}</ref>Sources: File:Light spectrum.svg
+|
+|}
+
+== تاريخچه او موندنه ==
+انسان تل د ليدلو وړ برېښنا او وړانګيزې تودوخې څخه خبر دی، مګر د تاريخ د ډېرې برخې لپاره روښانه نه وه، چې دا ښکارندې سره تړلې وې يا د يو څه پراخه اصل استازې وې. لرغونو يونانيانو درک کړه، چې رڼا په سيده ليکو کې يون کوي او د غبرګون يا انعکاس او ماتېدنې په ګډون يې د هغه ځيني ځانګړتياوې وڅېړلې. رڼا د ۱۷ پېړۍ له پيل څخه په ژور ډول وڅېړل شوه، چې همدا چاره د مهمو توکو، لکه: تيليسکوپ او مايکروسکوپ د رامنځته کېدنې لامل شوه. اسحق نيوټن لومړنی شخص و، چې د رنګونو د هغې لړۍ لپاره يې د طيف (spectrum) اصطلاح وکاروله، چې سپينه رڼا په يو منشور سره وېشل کېدلی شي. نيوټن چې په ۱۶۶۶ ز کې يې خپلې هڅې پيل کړې، ويې ښودله چې ياد رنګونه رڼا ته ذاتي يا اصلي وو او بېرته سپيني رڼا کې يو ځای کېدلی شول. د ريني ديکارت (Rene Descartes)، رابرت هوک (Robert Hook) کرېسټيان هوجينس (Christiaan Huygens) او نيوټن تر منځ په دې اړه يوه مناظره راپورته شوه، چې ايا رڼا د څپې طبيعت يا ځانګړتيا لرله او که ذروي طبيعت. لومړنيو درې پوهانو د څپې تشرېح غوره ګڼله، مګر نيوټن د ذرې تشرېح پلوي کوله. Huygens په ځانګړې ډول په ښه ډول پرمختللې نظريه درلوده، چې نوموړی ورڅخه د غبرګون يا انعکاس او ماتېدنې قوانين تر لاسه کولی شول. نږدې ۱۸۰۱ ز کال کې توماس ينګ (Thomas Young) په خپل (two-slit) [دوه ټوټې] ازمېښت سره د يوې روښانه ميلې د څپې اوږدوالی اندازه کړ، چې په دې ډول د پايلې په توګه څرګنده شوه، چې رڼا يوه څپه وه. 
+
+په ۱۸۰۰ ز کې ويليم هرشيل (William Herschel) انفرا ريډ وړانګه کشف کړه. نوموړي د يوه منشور په واسطه د رڼا د وېش له مخې د يو ترمامېتر په خوځولو سره د بېلابېلو رنګونو د تودوخې درجه څېړله. نوموړي څرګنده کړه چې: د تودوخې تر ټولو لوړه درجه له سور رنګ څخه هاخوا وه. هغه نظريه ورکړه چې د تودوخې د درجې دا بدلون د «ګرموونکو وړانګو» له امله و. يادې وړانګې د برېښنايي وړانګې يو ډول دی، چې نه شي ليدل کېدلی. راتلونکی کال چې Johann Ritter د طيف په بل پای کې کار کاوه، د نوموړي په اند «کيمياوي وړانګې» څرګندې کړې، چې دا هم د رڼا نه لېدونکې وړانګې دي، چې ځيني کيمياوي غبرګونونه هڅوي. دوی د بنفش رڼا د ليدلو وړ وړانګو برخه کې په ورته ډول عمل وکړ، مګر په طيف کې له دوی څخه هاخوا (تر شا) وې، چې وروسته له بنفش څخه د هاخوا (ماورا بنفش) وړانګې په نوم ونومول شوې. <ref>{{cite web|title=Herschel Discovers Infrared Light|url=http://coolcosmos.ipac.caltech.edu/cosmic_classroom/classroom_activities/herschel_bio.html|archive-url=https://web.archive.org/web/20120225094516/http://coolcosmos.ipac.caltech.edu/cosmic_classroom/classroom_activities/herschel_bio.html|archive-date=2012-02-25|work=Cool Cosmos Classroom activities|access-date=4 March 2013|quote=He directed sunlight through a glass prism to create a spectrum […] and then measured the temperature of each colour. […] He found that the temperatures of the colours increased from the violet to the red part of the spectrum. […] Herschel decided to measure the temperature just ''beyond'' the red of the spectrum in a region where no sunlight was visible. To his surprise, he found that this region had the highest temperature of all.}}</ref><ref>{{cite web|last=Davidson|first=Michael W.|title=Johann Wilhelm Ritter (1776–1810)|url=http://micro.magnet.fsu.edu/optics/timeline/people/ritter.html|publisher=The Florida State University|access-date=5 March 2013|quote=Ritter […] hypothesized that there must also be invisible radiation beyond the violet end of the spectrum and commenced experiments to confirm his speculation. He began working with silver chloride, a substance decomposed by light, measuring the speed at which different colours of light broke it down. […] Ritter […] demonstrated that the fastest rate of decomposition occurred with radiation that could not be seen, but that existed in a region beyond the violet. Ritter initially referred to the new type of radiation as chemical rays, but the title of ultraviolet radiation eventually became the preferred term.}}</ref>
+
+د برېښنايي مقناطيس ځانګړتيا (electromagnetism) څېړل په ۱۸۲۰ ز کې هغه مهال پيل شول، چې هينس عيسوي اورسټيډ (Hans Christian Orsted) کشف کړل، چې برېښنايي بهيرونه مقناطيسي سيمې تولیدوي (د Oersted قانون). رڼا په لومړي ځل ۱۸۴۵ ز کال کې هغه مهال په برېښنايي مقناطيسي ځانګړتيا پورې وتړل شوه، چې Michael Faraday وکتل چې د يوې رڼې مادې له لارې د يون کوونکې رڼا قطبي کېدنې يوې مقناطيسي سيمې ته خوا ورکړه. د ۱۸۶۰ لسيزې پر مهال جيمز کلرک ماکسول (James Clerk Maxwell) د برېښنايي مقناطيسي سيمې لپاره څلور يو څه توپيري مساواتونه (معادلې) رامنځته کړې، چې د ماکسول د مساواتونو په نوم يادېږي. يادو دوو مساواتو په سيمه کې د څپو شونتيا او کړه وړه اټکل کړل. د دې نظرياتي څپو د چټکتيا په تحليلولو سره ماکسول وپوهېده، چې دوی بايد په يوه داسې چټکتيا يون وکړي، چې د رڼا له معلومې چټکتيا سره نږدې وه. په ارزښت کې د دې تصادف حيرانتيا لامل شوه، چې مکسول دا پايله تر لاسه کړې چې رڼا خپله د برېښنايي مقناطيسي څپې يو ډول دی. د مکسول مساواتونو د برېښنايي مقناطيسي څپو د پرله پسې پېښېدنو (فريکوينسيو) يوه ناټاکلې لړۍ اټکل کړه، چې ټول د رڼا په چټکتيا يون کوي. دا د بشپړ برېښنايي مقناطيسي منظر يا طيف د شتون لومړنۍ نښه وه. 
+
+د مکسول له لورې اټکل شويو څپو انفرا ريډ وړانګې سره په پرتلنې، په خورا ټيټو فريکوينسيو کې څپې راونغاړلې، چې په نظريه کې د يو معلوم ډول په يوه عادي برېښنايي لاره کې ښايي د خوځنده چارجونو په واسطه رامنځته شي. د مکسول معادلو د ثابتولو او د دې ډول ټيټې فريکوينسي لرونکي برېښنايي مقناطيسي وړانګې د موندنې د هڅې په موخه په ۱۸۸۶ز کال کې فزيکپوه هينريچ هرتز (Heinrich Hertz) د هغه څه د توليدولو او موندلو په موخه يو ميکانيزم جوړ کړ، چې نن ورځ يې راډيوي څپې بولي. هرتز يادې څپې وموندلې او دا پايله يې تر لاسه کولی شوه، چې يادو څپو د رڼا په چټکتيا يون وکړ. نوموړي همدارنګه څرګنده کړه، چې نوې وړانګه د ډول ډول دوو برېښنايي رسنیو له لارې رڼا سره په ورته ډول منعکس کېدلی او ماتېدلی شي. د بېلګې په ډول: هرتز کولی شول، د ونې له کنډ څخه د جوړې شوې عدسيې په کارونې سره پر څپو باندې تمرکز وکړي. په يوه وروستي ازمېښت کې هرتز په ورته ډول د کوچنيو څپو ځانګړتياوې توليد او اندازه کړې. د څپو دې نويو ډولونو، لکه: د بېسيم ټيلګراف او راډيو اختراعاتو ته لاره هواره کړه. 
+
+په ۱۸۹۵ ز کې ويلهيم رونټجين (Wilhelm Rontgen) د وړانګې اچونې يو بل ډول ته پام شو، چې د لوړ ولټېج پر وړاندې د ايښودل شوي خالي تيوب سره د يوه ازمېښت پر مهال خپره شوه. نوموړي دا وړانګه اچونه د «ايکس وړانګه» ونوموله او ويې موندل، چې يادو وړانګو د انسان د بدن په غړو کې د حرکت کولو وړتيا درلوده، مګر د يو څه کلک يا غليظ جسم، لکه هډوکو په واسطه منعکس يا بندېدلې. له ډېر وخت څخه مخکې د دې بې سيم انځور اخيستنې (راډيوګرافي) لپاره زياتې کارونې موندل شوې وې. 
+
+د برېښنايي مقناطيسي طيف وروستۍ برخه د ګاما وړانګو په موندنې سره ډکه شوه. په ۱۹۰۰ ز کال کې هغه مهال چې پاول ويلارډ (Paul Villard) د راديم د راډيو اکټيف وړانګو توليد څېړه، د وړانګه اچونې يو بل ډول يې وموند. نوموړي يې په اړه په لومړيو کې فکر وکړ چې ياده وړانګه د الفا او بېتا ذرو ته ورته ذرې لرې، مګر د دواړو په پرتله خورا پياوړی نفوذ لري. که څه هم په ۱۹۱۰ ز کال کې بریتانوي فزیکپوه ويليم هنري برېګ (William Henry Brigg) څرګنده کړه، چې ګاما وړانګې برېښنايي مقناطيسي وړانګې دي، مګر ذرې نه دي او په ۱۹۱۴ ز کال کې ايرنسټ راترفورډ (Ernest Rutherford) او ايډوارډ انډرېډ (Edward Andrad) د دوی د څپو اوږدوالي اندازه کړل او ويې موندل، چې ګاما وړانګې د ايکس وړانګو ته ورته وې، مګر د څپو اوږدوالی يې ورڅخه يو څه لنډ و. د Rutherford په اړه د يادونې وړ ده، چې نوموړي په ۱۹۰۳ز کال کې يادې وړانګې وروسته، له هغې ګاما ونومولی، چې په بنسټيز ډول د چارج لرونکو الفا او بيتا ذرو څخه د ګاما ذرو بېلوالی يې درک کړ.  
+
+د څپې او ذرې بحث په ۱۹۰۱ ز کې هغه مهال بيا پيل شو، چې Max Planck وموندل، چې رڼا يوازې په بېله اندازه کې جذبېږي، چې نن ورځ يې فوټونونه بولي او دا معنا چې رڼا ذروي طبيعت لري. دا نظريه په ۱۹۰۵ز کال  کې د البرت انسټاين له لورې روښانه شوې وه، مګر Planck او نورو زياتو معاصرو پوهانو هيڅکله نه وه منلې. د پوهې (ساينس) معاصر دريځ دا دی، چې برېښنايي مقناطيسي وړانګه اچونه ،د څپې او ذرې دواړه طبيعتونه (wave-particle duality) لري. له دې درېځ څخه راپورته کېدونکي مخالفتونه اوس هم د پوهانو او فيلسوفانو له لورې بحث کېږي. 
+
+== سرچينې ==
