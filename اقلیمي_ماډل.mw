@@ -1,0 +1,26 @@
+عددي '''اقلیمي ماډلونه''' د اقلیم د مهمو محرکونو لکه اتومسفیر، سمندرونو، ځکمنۍ سطحې او کنګل د تعاملاتو د ښودلو لپاره کمي مېتودونه کاروي. دغه مېتودونه د اقلیمي سیستم له ډاینامیکي څېړنې نیولې د راتلونکي اقلیم تر وړاندوېینې پورې د بېلابېلو موخو لپاره کارول کېږی. اقلیمي ماډلونه کېدای شي کیفي (یعنې غیر عددي) ماډلونه او د احتمالي راتلونکي په اړه تشرېحي روایتونه وي.<ref>{{cite journal|author=IPCC|year=2014|title=AR5 Synthesis Report - Climate Change 2014. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change|page=58|url=https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full.pdf#page=74|quote=Box 2.3.   ‘Models’ are typically numerical simulations of real-world systems, calibrated and validated using observations from experiments or analogies, and then run using input data representing future climate. Models can also include largely descriptive narratives of possible futures, such as those used in scenario construction.  Quantitative and descriptive models are often used together.}}</ref>
+
+کمي ماډلونه د پېچلتیا له نظره بېلابېل دي. د بېلګې په توګه د وړانګیز حرارت د لېږد یو ساده ماډل ځمکه د یوې واحدې نقطې په توګه په پام کې نیسي او خروجي انرژي متوسطه کوي. دا ماډلونه په عمودي یا افقي ډول پراخولی شو. د اتومسفیر-سمندر-کنګل نړیوال اقلیمي ماډلونه د کتلې او انرژۍ د لېږد او تشعشعي تبادل بشپړ معادلات حلوي. پر دې سربېره د ځمکې د سیستم په ماډلونو کې د ځمکې د کارولو په څېر د ماډلونو نور ډولونه هم له یو بل سره تړل کېدای شي چې له څېړونکو سره مرسته کوي تر څو د اقلیم او ایکوسیستمونو تر منځ د تعامل وړاندوېینه وکړي.
+
+== باکس ماډلونه ==
+باکس ماډلونه د پېچلو سیستمونو ساده شوې بڼې دي چې دغه سیستمونه له جریان سره د تړلو باکسونو (یا هم مخزنونو) کچې ته راکموي. داسې فرض کېږي چې دا باکسونه په همجنس ډول مخلوط شوي دي. له دې امله په یوه مشخص باکس کې د هرې کیمیاوي نوعې غلظت یو اړخیز دی. له دې سره سره، په یوه مشخص باکس کې د یوې نوعې ډېروالی ښايي په باکس کې د دغې نوعې د تولید، مصرف یا خرابېدو له امله توپیر ولري.
+
+ساده باکس ماډلونه یعنې هغه باکس ماډلونه چې باکسونه یې کم وي او ځانګړنې یې (مثلاً حجم یې) له وخت سره بدلون نه کوي، تر ډېره د هغو تحلیلي فورمولونو د استخراج لپاره ګټور دي چې د یوې نوعې ډینامیک او د پایدار حالت ډېروالی تشرېح کوي. پېچلي باکس ماډلونه معمولاً د عددي تخنیکونو په مرسته حلېږي.
+
+باکس ماډلونه د سیستمونو یا چاپېریالي ایکوسسیتمونو د ماډل کولو لپاره او د سمندري جریان او کاربن د څرخې په څېړنو کې په پراخه کچه کارول کېږي.<ref name="Sarmiento1984">{{cite journal|author=Sarmiento, J.L.|author2=Toggweiler, J.R.|year=1984|title=A new model for the role of the oceans in determining atmospheric P CO 2|journal=Nature|volume=308|pages=621–24|doi=10.1038/308621a0|issue=5960|bibcode=1984Natur.308..621S|s2cid=4312683}}</ref>
+
+== ګڼ-اړخیز ماډلونه ==
+صفر-اړخیز ماډل ښايي په اتومسفیر کې په افقي ډول د لېږدول شوې انرژۍ د ښودلو لپاره پراخ شي. دا ډول ماډل کېدای شي ښه سیمه‌ييز اوسط وي. د دې ماډل ښېګڼه دا ده چې د ځايي البېډو د منطقي یا مدلل تړښت او تودوخې ته د خپرېدو امکان لري – قطبونه کېدای شي کنګل او استوا ګرمه وي – خو د رښتيني ډينامیک نه‌شتون په دې معنا دی چې افقي لېږد باید مشخص شي.<ref>{{cite web|url=http://www.shodor.org/master/environmental/general/energy/application.html|title=Energy Balance Models|work=shodor.org}}</ref>
+
+== څېړنې او پرمختګ ==
+درې داسې مؤسسات موجود دي چې د اقلیم ماډلونه په کې جوړېږي، اجرا کېږي او کارول کېږي:
+
+* د هواپېژندنې ملي خدمات. د هواپېژندنې ډېری ملي خدمات د اقلیم پېژندنې برخه لري.
+* پوهنتونونه. په پوهنتونونو کې اړوندې برخې اتومسفیري علوم، هواپوهنه، اقلیم پېژندنه او جغرافیه دي.
+* ملي او نړیوال څېړنیز لابراتوارونه. د بېلګې په توګه دغو مرکزونو ته اشاره کولی شو: د اتومسفیري څېړنو ملي مرکز (چې د متحدو ایالتونو د کلراډو ایالت په بولډر ښار کې دی)، د جیوفزیکي سیالاتو د ډینامیک لابراتوار (چې د متحدو ایالتونو د نیوجرسي ایالت په پرنسټون ښار کې دی)، د لاس الاموس ملي لابراتوار، د هاډلي د اقلیمي وړاندوېینو او څېړنو مرکز (چې د انګلستان په اکسټر کې دی)، د ماکس پلانک د هواپېژندنې انستېتوت (چې د جرمني په هامبورګ ښار کې دی) او یا هم د چاپېریالي اقلیمي علومو لابراتوار (چې په فرانسه کې دی).
+
+د اقلیم د نړیوالو څېړنو پروګرام (WCRP) چې د هواپېژندنې نړیوال سازمان (WMO) یې کوربه‌توب کوي، په ټوله نړۍ کې د اقلیم د ماډل جوړونې اړوند څېړنيز فعالیتونه همغږي کوي.
+
+په ۲۰۱۲ کال کې د متحدو ایالتونو د څېړنو د ملي شورا یو راپور د دې موضوع په اړه دی چې د متحدو ایالتونو د اقلیم د ماډل جوړونې لپاره یو لوی پروګرام څه ډول بشپړتیا موندلی شي چې لا ډېر متحد شي. دا راپور ښيي چې کولای شو د یوه داسې ګډ سافټویر په جوړولو سره دا اغېزناکتیا ومومو چې د متحدو ایالتونو د ټولو اقلیمي څېړونکو تر منځ مشترک وي.<ref>{{cite web|title=U.S. National Research Council Report-in-Brief, ''A National Strategy for Advancing Climate Modeling''|url=http://dels.nas.edu/Materials/Report-In-Brief/4291-Climate-Modeling|access-date=3 October 2012|archive-date=18 October 2012|archive-url=https://web.archive.org/web/20121018071324/http://dels.nas.edu/Materials/Report-In-Brief/4291-Climate-Modeling|url-status=dead}}</ref><ref>{{cite web|title=U.S. National Research Council Report, ''A National Strategy for Advancing Climate Modeling''|url=http://dels.nas.edu/Report/National-Strategy-Advancing-Climate/13430|access-date=18 January 2021|archive-date=3 October 2012|archive-url=https://web.archive.org/web/20121003043232/http://dels.nas.edu/Report/National-Strategy-Advancing-Climate/13430|url-status=dead}}</ref>
+
+== سرچينې ==
