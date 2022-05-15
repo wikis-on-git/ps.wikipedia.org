@@ -1,20 +1,18 @@
-'''ګامبیا''' په انګلیسي Republic of The Gambia) چې رسمي نوم یې '''د ګامبیا حمهوریت''' دی په [[لویدیځه افریقا|لویدیځې افریقا]] کې پروت هیواد دی. د ګامبیا پلازمینه [[بانجول]] او لوی ښار یې [[سرکوندا]] دی رسمي ژبه یې [[انګلیسي]] او ۲۹۵'۱۱ کیلومتره مساحت لری. د ګامبیا د وګړو شمیر ۰۰۰'۷۰۰'۱ میلیونه تنه دی.
-
 {{Infobox country
-| conventional_long_name                = د ګامبیا هیواد ولسمشریزه
-| common_name                = The Gambia
-| image_flag                = Flag of The Gambia.svg
-| image_coat                = Coat_of_arms_of_The_Gambia.svg
-| national_motto                = "پرمختګ, یوالی, کامیابي"
-| national_anthem                = "[[For The Gambia Our Homeland]]"<div style="padding-top:0.5em;" class="center">[[File:For The Gambia Our Homeland (instrumental).ogg]]</div>(زمونږ وطن ګامبیا لپاره)
-| image_map                = Gambia (orthographic projection with inset).svg
-| image_map2                = 
-| capital                = [[بانجول]]
-| largest_city                = [[سرکوندا]]
-| official_languages                = [[انګلیسي]]<!-- Until official sources state otherwise, this should not be changed. See the Talk page. -->
-| languages_type                = [[سیمه ییزې ژبې]]s
-| languages                = {{hlist |[[ماندیکا ژبه]] |[[فولاني ژبه]] |[[ولف ژبه]] |[[سریر ژبه]] |[[جولا ژبه]]}}
-| ethnic_groups                = {{unbulleted list
+| conventional_long_name = د ګامبیا هیواد ولسمشریزه
+| common_name = The Gambia
+| image_flag = Flag of The Gambia.svg
+| image_coat = Coat_of_arms_of_The_Gambia.svg
+| national_motto = "پرمختګ, یوالی, کامیابي"
+| national_anthem = "[[For The Gambia Our Homeland]]"<div style="padding-top:0.5em;" class="center">[[File:For The Gambia Our Homeland (instrumental).ogg]]</div>(زمونږ وطن ګامبیا لپاره)
+| image_map = Gambia (orthographic projection with inset).svg
+| image_map2 = 
+| capital = [[بانجول]]
+| largest_city = [[سرکوندا]]
+| official_languages = [[انګلیسي]]<!-- Until official sources state otherwise, this should not be changed. See the Talk page. -->
+| languages_type = [[سیمه ییزې ژبې]]s
+| languages = {{hlist |[[ماندیکا ژبه]] |[[فولاني ژبه]] |[[ولف ژبه]] |[[سریر ژبه]] |[[جولا ژبه]]}}
+| ethnic_groups = {{unbulleted list
   | ۳۴.۴% [[ماندیکا خلک]]
   | ۲۴.۱% [[پولا خلک]]
   | ۱۴.۸% [[ولف خلک]]
@@ -27,59 +25,88 @@
   | ۱.۵% نور<ref
 name="۲۰۱۳Census">{{cite web |url=https://www.gbos.gov.gm/uploads/census/2013/Spatial-distribution-report_%20Final.pdf |title=2013 Population and Housing Census: Spatial Distribution |publisher=The Republic of The Gambia |last=National Population Commission Secretariat |date=April 30, 2005 |website=Gambia Bureau of Statistics |access-date=December 29, 2017 |archive-url=https://web.archive.org/web/20180103134831/https://www.gbos.gov.gm/uploads/census/2013/Spatial-distribution-report_%20Final.pdf |archive-date=3 January 2018 |url-status=live |df=dmy-all }}</ref>
   }}
-| ethnic_groups_year                = ۲۰۱۳ Census
-| demonym                = ګامبیایان
-| government_type                =  [[ولسمشریزه]]
-| leader_title1                = [[ولسمشر]]
-| leader_name1                = [[آداما بارو]]
-| leader_title2                = [[لومړی وزیر]]
-| leader_name2                = [[یساتو تورای]]
-| legislature                = [[ولسي جرګه]]
-| sovereignty_type                = خپلواکي
-| established_event1                = له [[بریتانیا]]
-| established_date1                = ۱۸ فبروري ۱۹۶۵
-| established_event2                = dissolution of the [[Senegambia Confederation]]
-| established_date2                = ۳۰ سپټمبر ۱۹۸۹
-| area_km2                = ۱۰,۶۸۹
-| area_rank                = ۱۵۹th <!-- Area rank should match [[List of countries and dependencies by area]] -->
-| area_sq_mi                = ۴,۰۰۷ <!-- Do not remove per [[WP:MOSNUM]] -->
-| percent_water                = ۱۱.۵
-| population_estimate                = ۲,۰۵۱,۳۶۳<ref name="CIA">{{Cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ga.html|title=The World Factbook: Gambia, The|website=CIA|language=en|access-date=2018-01-02|archive-url=https://web.archive.org/web/20140702024610/https://www.cia.gov/library/publications/the-world-factbook/geos/ga.html|archive-date=2 July 2014|url-status=live|df=dmy-all}}</ref>
-| population_census                = ۱,۸۵۷,۱۸۱<ref name="2013Census" />
-| population_estimate_year                = ۲۰۱۷
-| population_estimate_rank                = ۱۴۶
-| population_census_year                = ۲۰۱۳
-| population_density_km2                = ۱۷۶.۱
-| population_density_sq_mi                = ۴۲۵.۵ <!-- Do not remove per [[WP:MOSNUM]] -->
-| population_density_rank                = ۷۴th
-| GDP_PPP                = $۳.۵۸۲ بیلیونه<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=26&pr.y=15&sy=2015&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=648&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=The Gambia |publisher=International Monetary Fund }}</ref>
-| GDP_PPP_year                = ۲۰۱۷
-| GDP_PPP_per_capita                = $۱,۶۸۶<ref name="imf2"/>
-| GDP_nominal                = ۱.۰۳۸ بیلیونه<ref name="imf2"/>
-| GDP_nominal_year                = ۲۰۱۷
-| GDP_nominal_per_capita                = $۴۸۸<ref name="imf2"/>
-| Gini                = ۳۵.۹ <!--number only-->
-| Gini_year                = ۲۰۱۵
-| Gini_change                = decrease
-| Gini_ref                = <ref name="Gini">{{cite web|url=https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&locations=GM&start=2015&view=bar|title=GINI index (World Bank estimate) - Data|website=data.worldbank.org|access-date=21 April 2018|archive-url=https://web.archive.org/web/20180421232414/https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&locations=GM&start=2015&view=bar|archive-date=21 April 2018|url-status=live|df=dmy-all}}</ref>
-| Gini_rank                = 
-| HDI                = ۰.۴۶۶ <!--number only-->
-| HDI_year                = ۲۰۱۸ <!-- Please use the year to which the data refers, not the publication year-->
-| HDI_change                = increase <!--increase/decrease/steady-->
-| HDI_ref                = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
-| HDI_rank                = ۱۷۴th
-| currency                = [[ګامبیا دالاسی|دالاسی]]
-| currency_code                = GMD
-| utc_offset                = {{sp}}
-| time_zone                = [[نړیوال ساعت]]
-| DST_note                = {{smaller|''Daylight saving time is not observed''}}
-| drives_on                = [[چپ- او ښوی-لاس ترافیک#ښوی-لاس ترافیک|ښوی]]
-| calling_code                = [[+۲۲۰]]
-| iso3166code                = GM
-| cctld                = [[.gm]]
-| coordinates                = {{Coord|13|28|N|16|36|W|type:city|display=inline,title}}
-| religion                = <!-- Do not insert "Islam", as this not has not officially changed. See below in Politics section. -->
+| ethnic_groups_year = ۲۰۱۳ Census
+| demonym = ګامبیایان
+| government_type = [[ولسمشریزه]]
+| leader_title1 = [[ولسمشر]]
+| leader_name1 = [[آداما بارو]]
+| leader_title2 = [[لومړی وزیر]]
+| leader_name2 = [[یساتو تورای]]
+| legislature = [[ولسي جرګه]]
+| sovereignty_type = خپلواکي
+| established_event1 = له [[بریتانیا]]
+| established_date1 = ۱۸ فبروري ۱۹۶۵
+| established_event2 = dissolution of the [[Senegambia Confederation]]
+| established_date2 = ۳۰ سپټمبر ۱۹۸۹
+| area_km2 = ۱۰,۶۸۹
+| area_rank = ۱۵۹th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = ۴,۰۰۷ <!-- Do not remove per [[WP:MOSNUM]] -->
+| percent_water = ۱۱.۵
+| population_estimate = ۲,۰۵۱,۳۶۳<ref name="CIA">{{Cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ga.html|title=The World Factbook: Gambia, The|website=CIA|language=en|access-date=2018-01-02|archive-url=https://web.archive.org/web/20140702024610/https://www.cia.gov/library/publications/the-world-factbook/geos/ga.html|archive-date=2 July 2014|url-status=live|df=dmy-all}}</ref>
+| population_census = ۱,۸۵۷,۱۸۱<ref name="2013Census" />
+| population_estimate_year = ۲۰۱۷
+| population_estimate_rank = ۱۴۶
+| population_census_year = ۲۰۱۳
+| population_density_km2 = ۱۷۶.۱
+| population_density_sq_mi = ۴۲۵.۵ <!-- Do not remove per [[WP:MOSNUM]] -->
+| population_density_rank = ۷۴th
+| GDP_PPP = $۳.۵۸۲ بیلیونه<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=26&pr.y=15&sy=2015&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=648&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=The Gambia |publisher=International Monetary Fund }}</ref>
+| GDP_PPP_year = ۲۰۱۷
+| GDP_PPP_per_capita = $۱,۶۸۶<ref name="imf2"/>
+| GDP_nominal = ۱.۰۳۸ بیلیونه<ref name="imf2"/>
+| GDP_nominal_year = ۲۰۱۷
+| GDP_nominal_per_capita = $۴۸۸<ref name="imf2"/>
+| Gini = ۳۵.۹ <!--number only-->
+| Gini_year = ۲۰۱۵
+| Gini_change = decrease
+| Gini_ref = <ref name="Gini">{{cite web|url=https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&locations=GM&start=2015&view=bar|title=GINI index (World Bank estimate) - Data|website=data.worldbank.org|access-date=21 April 2018|archive-url=https://web.archive.org/web/20180421232414/https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&locations=GM&start=2015&view=bar|archive-date=21 April 2018|url-status=live|df=dmy-all}}</ref>
+| Gini_rank = 
+| HDI = ۰.۴۶۶ <!--number only-->
+| HDI_year = ۲۰۱۸ <!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank = ۱۷۴th
+| currency = [[ګامبیا دالاسی|دالاسی]]
+| currency_code = GMD
+| utc_offset = {{sp}}
+| time_zone = [[نړیوال ساعت]]
+| DST_note = {{smaller|''Daylight saving time is not observed''}}
+| drives_on = [[چپ- او ښوی-لاس ترافیک#ښوی-لاس ترافیک|ښوی]]
+| calling_code = [[+۲۲۰]]
+| iso3166code = GM
+| cctld = [[.gm]]
+| coordinates = {{Coord|13|28|N|16|36|W|type:city|display=inline,title}}
+| religion = <!-- Do not insert "Islam", as this not has not officially changed. See below in Politics section. -->
 }}
+
+
+ګامبيا چې په رسمي ډول د ګامبيا جمهوريت دی، په لويديځه افريقا کې پروت هېواد دی. دا هېواد د افريقا په اصلي وچه کې تر ټولو کوچنی هېواد دی او پر اتلانتيک سمندر باندې له لويديځ ساحل څخه پرته نوره ټولو اړخونو ته يې سينګال پروت دی. ګامبيا د خپل ورته نوم (ګامبيا سيند) د ټيټو رسېدنو يا لوريو پر دواړو اړخونو باندې پروت دی. ياد سيند د ګامبيا د مرکز له لارې بهېږي او په اتلانتيک سمندر کې تويېږي. د ګامبيا جمهوريت ۱۰۶۸۹ کېلو متر مربع )۴۱۲۷ ميل مربع) پراخوالی او د ۲۰۱۳ ز کال تر اپرېل پورې د سرشمېرنې له مخې ۱۸۵۷۱۸۱ تنه نفوس لري. بېنجول (Banjul) د هېواد پلازمېنه او تر ټولو پراخه سيمه ده. <ref>[[Mandinka language|Mandinka]]: ''Kambiya'' {{lang|nqo|ߞߊߡߓߌߦߊ}}, {{lang-wo|Gámbi}}, {{lang-ff|Gammbi}}, {{lang-ar|غامبيا}}</ref><ref>{{cite web|url=http://worldpopulationreview.com/countries/gambia-population/cities/|title=Population of Cities in Gambia (2019)}}</ref><ref>{{Cite web|url=https://www.britannica.com/place/Banjul|title=Banjul &#124; national capital, The Gambia|website=Encyclopedia Britannica|access-date=7 April 2020}}</ref><ref name="Hoare">Hoare, Ben. (2002) ''The Kingfisher A-Z Encyclopedia'', Kingfisher Publications. p. 11. {{ISBN|0-7534-5569-2}}.</ref>
+
+پرتګاليان لومړني اروپايان وو چې په ۱۴۵۵ کې د ګامبيا سيمې ته ننوتل، مګر هيڅکله يې په کې مهمه سوداګري رامنځته نه کړه. په ۱۷۶۵ ز کال کې دا سيمه د ګامبيا مستعمرې او قيموميت (Gambia Colony and Protectorate) په رامنځته کولو سره د برتانوي سترواکۍ برخه جوړه شوه. ګامبيا په ۱۹۶۵ ز کال کې د داودا جوارا (Dawda Jawara) تر مشرۍ لاندې خپلواکي تر لاسه کړه. جوارا تر هغې مودې پورې حکومت وکړ، چې د ۱۹۹۴ز کال په سپينه کودتا کې يحیي جامع (Yahya Jammeh) ورځنې واک واخيست. اداما باررو 9Adama Barrow) د ۲۰۱۷ ز کال په جنوري کې د ۲۰۱۶ ز کال د ډسمبر په ټاکنو کې “Jammeh” ته له ماتې ورکولو څخه وروسته د هېواد درېيم ولسمشر شو. جامح د دندې له نه پرېښودلو څخه مخکې، په لومړيو کې د ټاکنو پايلې ومنلې، مګر د لويديځو افريقايي هېوادونو د اقتصادي ټولنې له لورې يې د اساسي قانون کړکېچ او پوځي منځګړيتوب (مداخله) پيل کړه، چې د مهالوېش له مخې له پای ته رسېدلو څخه دوه ورځې وروسته يې د ګوښه کولو لامل شو. <ref>{{Cite book|last1=Hughes|first1=Arnold|url=https://www.google.com/books/edition/Historical_Dictionary_of_The_Gambia/0C1eWHq8LZ4C?hl=en&gbpv=1&pg=PR32|title=Historical Dictionary of The Gambia|last2=Perfect|first2=David|publisher=Scarecrow Press|year=2008|isbn=9780810862609|location=United States|pages=xxxii f}}</ref><ref>Hughes, Arnold (2008) ''Historical Dictionary of the Gambia''. Scarecrow Press. p. xx. {{ISBN|0810862603}}.</ref><ref name="Wiseman">Wiseman, John A. (2004) [https://books.google.com/books?id=jj4J-AXGDaQC&lpg=PA456 Africa South of the Sahara 2004 (33rd edition): The Gambia: Recent History], Europa Publications Ltd. p. 456.</ref><ref>{{Cite news|url=https://www.theguardian.com/world/2017/jan/21/anxious-gambians-await-former-president-yahya-jammeh-departure|title=Yahya Jammeh leaves the Gambia after 22 years of rule|last=Maclean|first=Ruth|date=21 January 2017|work=The Guardian|access-date=17 May 2017|language=en-GB|issn=0261-3077|archive-url=https://web.archive.org/web/20170516194615/https://www.theguardian.com/world/2017/jan/21/anxious-gambians-await-former-president-yahya-jammeh-departure|archive-date=16 May 2017|url-status=live|df=dmy-all}}</ref><ref name="Agrees">{{Cite web|url=http://www.aljazeera.com/news/2017/01/gambia-yahya-jammeh-agrees-step-170120184330091.html|title=Gambia's Yayah Jammeh confirms he will step down|date=20 January 2017|website=Al Jazeera|access-date=21 January 2017|archive-url=https://web.archive.org/web/20170121003151/http://www.aljazeera.com/news/2017/01/gambia-yahya-jammeh-agrees-step-170120184330091.html|archive-date=21 January 2017|url-status=live|df=dmy-all}}</ref><ref>{{cite news|last=Ramsay|first=Stuart|title=Former Gambia leader Yahya Jammeh flies into political exile|language=en|publisher=Sky News|date=22 January 2017|url=https://uk.news.yahoo.com/former-gambia-leader-yahya-jammeh-preparing-leave-country-205300165.html|access-date=23 January 2017|archive-url=https://web.archive.org/web/20170123004834/https://uk.news.yahoo.com/former-gambia-leader-yahya-jammeh-preparing-leave-country-205300165.html|archive-date=23 January 2017|url-status=live|df=dmy-all}}</ref>
+
+د هېواد پر اقتصاد باندې کښت، کب نيونه او په ځانګړي ډول ګرځښت واکمن دي. په ۲۰۱۵ ز کال کې يې ٪۴۸،۶ سلنه وګړو په فقر کې ژوند کاوه. په کليوالي سيمو کې فقر زيات (ان ٪۷۰) پراخ دی. <ref name="WorldBank">{{cite web|url=http://www.worldbank.org/en/country/gambia/overview|title=The Gambia overview|publisher=World Bank|access-date=5 July 2018|archive-url=https://web.archive.org/web/20180705183902/http://www.worldbank.org/en/country/gambia/overview|archive-date=5 July 2018|url-status=live|df=dmy-all}}</ref>
+
+== رېښه ==
+د “Gambia” نوم له مانډينکا (Mandinka) اصطلاح “Kambra” يا “Kambaa” څخه اخيستل شوی دی، چې د ګامبيا سيند (Gambia River) معنا لري. يا دا چې شونې ده نوم يې د سپيڅلې سيرير ژبې له “Gamba” څخه اخيستل شوی وي، چې د کډو يو ځانګړی ډول دی چې د سيرير د يو مشر د مړينې پر مهال وهل کېږي. په ۱۹۶۵ ز کال کې د خپلواکۍ په تر لاسه کوول سره يې د “Gambia” نوم وکاروه. په ۱۹۷۰ ز کال کې د يو جمهوريت له اعلان څخه وروسته د هېواد د نوم اوږده بڼه د ګامبيا جمهوريت (Republic of the Gambia) شو. د يحیی ادارې ياد نوم د ۲۰۱۵ ز کال په ډسمبر کې د ګامبيا اسلامي جمهوريت ته بدل کړ. د ۲۰۱۷ ز کال د جنوري پر ۲۹ ولسمشر اداما باررو (Adama Barrow) د هېواد نوم بېرته د ګامبيا جمهوريت ته بدل کړ. <ref>{{Cite news|url=https://www.naij.com/1085177-adama-barrow-removes-islamic-gambias-name.html|title=Adama Barrow removes 'Islamic' title from Gambia's name|last=Adegun|first=Aanu|date=29 January 2017|newspaper=Naij|language=en-US|access-date=31 January 2017|archive-url=https://web.archive.org/web/20170129123855/https://www.naij.com/1085177-adama-barrow-removes-islamic-gambias-name.html|archive-date=29 January 2017|url-status=live|df=dmy-all}}</ref><ref>{{Cite web|url=http://www.aljazeera.com/news/2017/01/gambia-president-adama-barrow-pledges-reforms-170128194124520.html|title=The Gambia: President Adama Barrow pledges reforms|date=28 January 2017|website=Al Jazeera|access-date=31 January 2017|archive-url=https://web.archive.org/web/20170131012508/http://www.aljazeera.com/news/2017/01/gambia-president-adama-barrow-pledges-reforms-170128194124520.html|archive-date=31 January 2017|url-status=live|df=dmy-all}}</ref><ref name="E1">{{cite web|url=http://www.europe1.fr/international/la-gambie-sautoproclamme-etat-islamique-2635109|title=La Gambie s'autoproclame "État islamique"|date=13 December 2015|publisher=Europe 1|language=fr|access-date=14 December 2015|archive-url=https://web.archive.org/web/20151214051037/http://www.europe1.fr/international/la-gambie-sautoproclamme-etat-islamique-2635109|archive-date=14 December 2015|url-status=live|df=dmy-all}}</ref><ref name="cons1996">{{cite web|url=http://www.ilo.org/dyn/travail/docs/1952/GMB48490.pdf|title=Constitution of the Republic of the Gambia|date=1996|access-date=29 January 2016|archive-url=https://web.archive.org/web/20160204142049/http://www.ilo.org/dyn/travail/docs/1952/GMB48490.pdf|archive-date=4 February 2016|url-status=live|df=dmy-all}}</ref><ref>[[Godfrey Mwakikagile]], ''The Gambia and Its People: Ethnic Identities and Cultural Integration in Africa'', New Africa Press, 2010, {{ISBN|9789987160235}}, p. 141 [https://books.google.co.uk/books?id=ZL7wIvRlXSwC&pg=PA141#v=onepage&q&f=false]</ref><ref>Allen Meagher, Andrew Samuel, Baba Ceesay, National Council for the Arts and Culture (Gambia), ''Historic Sites of The Gambia: Ada Dinkiralu (Mandinka), Bereb-I-Chosan (Wolof), Tarica Tawal (Fula), Nannin (Jola), Soninke Ada (Serehuli), I-Mofan Chosan (Serer) : an Official Guide to the Monuments and Sites of the Gambia'', National Council for the Arts and Culture, 1998, pp. 1, 24.</ref>
+
+ګامبيا د خورا کوچني شمير هېوادونو له ډلې څخه دی، چې په عام ډول ورته انګليسي ژبه کې د «معلومه مقالې» نوم کارول کېږي، پرته له نورو حالتونو څخه چې نوم په کې په جمعه حالت (نيدرلېنډز، فيپينس) دی يا د حکومت بڼه لري (لکه: متحده پاچهي يا انګليستان، د چک جمهوريت). بې له اصطلاح يا مقاله په رسمي ډول د هېواد د حکومت او نړيوالو بنسټونو له لورې هم کارول کېږي. ځانګړې اصطلاح په اصل کې د دې له امله هم کارول کېږي، چې د سيمې نوم د ګامبيا (سيند) له مخې نومول شوی و. په ۱۹۶۴ ز کال کې د هېواد له خپلواکۍ څخه لږه موده مخکې د وخت لومړي وزير داودا جاوارا (Dawda Jawara) برتانوي رسمي کارونې لپاره د جغرافيوي نومونو په اړه تل پاتې کمېټې (Permanent Committee on Geographical Names for British Official Use) ته ليک واستوه چې په کې د ګامبيا د نوم لپاره د بېلې اصطلاح يا مقالې د تر لاسه کولو وړانديز وکړ؛ موخه يې له زمبيا سره د ګډوډۍ يا مغشوش کېدلو مخنيوی و، چې هغه هم په وروستيو کې خپلواکه شوې وه. په اوس وخت کې “Gmabia” او “the Gambia” دواړه نومونه په عام ډول کارول کېږي. <ref>{{cite news|last1=Alfa Shaban|first1=Abdur Rahman|title=Why Africa's 'smiling coast' is officially referred to as 'The' Gambia|url=https://www.africanews.com/2017/01/19/why-africa-s-smiling-coast-is-referred-to-as-the-gambia//|access-date=28 November 2020|work=Africa News|date=19 January 2017|archive-date=11 April 2021|archive-url=https://web.archive.org/web/20210411013024/https://www.africanews.com/2017/01/19/why-africa-s-smiling-coast-is-referred-to-as-the-gambia/|url-status=dead}}</ref>
+
+== تاريخچه ==
+
+=== له ۹ څخه تر ۱۶ پېړيو پورې: ===
+عرب سوداګرو په نهمه او لسمه پېړيو کې د ګامبيا سيمې لومړني ليکلي دلايل برابر کړل. د لسمې پېړۍ پر مهال مسلمان سوداګرو او پوهانو د لويديځې افريقا په بېلابېلو سوداګريزو مرکزونو کې ټولنې جوړې کړې. دواړو ډلو د افريقا له لويې دښتې (Sahara) څخه بلې غاړې ته سوداګريزې لارې رامنځته کړې، چې د سرو زرو او د فيل او نورو ژوو د غاښونو تر څنګ د غلامانو په توګه د سيمه ايزو خلکو د پراخه لېږد د سوداګرۍ او همدرانګه د جوړو شويو توکو د رالېږد لامل شوې. 
+
+په ۱۱ يا ۱۲ پېړۍ کې د پاچاهيو حکومتونه، لکه: ټکرور “Takrur” (پر سينيګال سيند باندې لږ شمال لور ته پرته پاچاهي)، لرغونې ګانا او Gao اسلامې ته اوښتي وو او خپلو محکمو کې يې د عربي ژبې لوستي مسلمانان ګومارلي وو. د ۱۴ پېړۍ په پيل کې د ننۍ ګامبيا ډېره برخه د مالي سترواکۍ (Mali Empire) برخه وه. پرتګال د ۱۵ پېړۍ په نيمايې کې د سيند له لارې دې سيمې ته ورسېدل او له هېواده د باندې سوداګرۍ باندې واکمني يې پيل کړه. <ref>Easton P (1999) [http://documents.worldbank.org/curated/en/581121468329358898/Education-and-Koranic-literacy-in-West-Africa "Education and Koranic Literacy in West Africa"] {{Webarchive|url=https://web.archive.org/web/20161220150050/http://documents.worldbank.org/curated/en/581121468329358898/Education-and-Koranic-literacy-in-West-Africa|date=20 December 2016}}. IK Notes on Indigenous Knowledge and Practices, n° 11, World Bank Group. pp. 1–4</ref>
+
+=== انګليسي د فرانسوي واک پر وړاندې ===
+په ۱۵۸۸ ز کال کې له کراټو “Crato” څخه مخکې د پرتګالي واکمنۍ غوښتونکي انټونيو “Antonio” پر ګامبيا سيند باندې د خپلې سوداګرۍ پراخه حقونه پر انګرېز سوداګرو باندې وپلورل. د ملکې لومړۍ اليزابت (Queen Elizabeth I) له لورې جوت يا څرګندو ليکونو ياد ورکول يا بخښل تاييد کړل. په ۱۶۱۸ ز کال کې د انګليستان پاچا لومړي جېمز (James) يو انګليسي شرکت ته له ګامبيا او د سرو زرو ساحل “Gold Coat” (ننني ګانا) سره د سوداګرۍ په اړه يو قانون وړاندې کړ. د ۱۶۵۱ او ۱۶۶۱ ز کلونو تر منځ د ګامبيا ځينې برخې لکه د Fort Jakob او St. Mary ټاپو (معاصر “Banjul” سيمه) او Fort Jillifree په ګډون په ګامبيا سيند کې د St. Andrew ټاپو د کرولېنډ او سيميګاليا تر ديوکي حکومت (Duchy of Courland and Semigallia) لاندې راغلې. يادې سيمې چې اوس په ليتويا کې دي، د شهزاده يعقوب کېټلر (Jacob Kettler) له لورې وپېرل شوې. نوموړې مستعمرې په ۱۶۶۴ ز کال کې په رسمي ډول انګليستان ته پرېښودل شوې. <ref>{{Cite journal|last=Yevstratyev|first=O|date=2018|title=Chronological Dating of the Duchy of Courland's Colonial Policy|url=https://www.lvi.lu.lv/lv/LVIZ_2018_files/3_numurs/O_Yevstratyev_Chronological_LVIZ_2018_3.pdf|journal=Latvijas Vēstures Institūta Žurnāls|volume=3|pages=34–72|doi=10.22364/lviz.108.02|access-date=22 February 2019|archive-url=https://web.archive.org/web/20190223074148/https://www.lvi.lu.lv/lv/LVIZ_2018_files/3_numurs/O_Yevstratyev_Chronological_LVIZ_2018_3.pdf|archive-date=23 February 2019|url-status=live|df=dmy-all|doi-access=free}}</ref>
+
+د ۱۷ پېړۍ د وروستيو او ټولې ۱۸ پېړۍ پر مهال برتانوي او فرانسوي سترواکيو په پرله پسې ډول د سينيګال او ګامبيا سيندونو په سيمو کې د سياسي او سوداګريز غوره والي په موخه هڅې وکړې. برتانوي سترواکۍ هغه مهال ګامبيا ونيوله، چې په ۱۷۵۸ ز کال کې د سينيګال له نيونې څخه وروسته د “Augustus Keppel” په مشرۍ سيمې ته يو جګړه ايز ټولګی يا هيئت ښکته شو. د “Versailles” د ۱۷۸۳ ز کال لومړي تړون سترې برتانيې ته د ګامبيا سيند ملکيت ورکړ، مګر فرانسې د سيند پر شمالي څنډه باندې البريدا “Albreda” کې يوه کوچنۍ کلابند سيمه تر لاسه کړه. دا سيمه په پای کې په ۱۸۵۶ز کال انګليستان ته پرېښودل شوه. 
+
+=== غلامي (له ۱۷ تر ۱۹ پېړۍ) ===
+ښايي له دې عمومي سيمې څخه د هغو درې پېړيو پر مهال تر درې ميليونه خلکو پورې د غلامانو په توګه نيول شوي وي، چې له اتلانتيک څخه د اخوا غلامۍ سوداګرۍ فعاليت وکړ. څرګنده نه ده چې له اتلانتيک څخه د اخوا غلامۍ سوداګرۍ له پيل څخه مخکې، د قبيلو تر منځ جګړو په واسطه څومره خلک د غلامانو په توګه ونيول شول. ډېری نيول شوي غلامان د نورو افريقايانو له لورې پر اروپايانو باندې وپېرل شول. ځينې يې د قبيلوي جګړو بنديان وو، ځينې يې هغه قربانيان وو چې د نا ادا شويو پورونو له امله پلورل کېدل او زيات نور يې په ساده ډول د تښتونې قربانيان وو. <ref>Park, Mungo ''Travels in the Interior of Africa'' [[gutenberg:5305|v. II, Chapter XXII – War and Slavery]] {{Webarchive|url=https://web.archive.org/web/20090924192512/http://www.gutenberg.org/etext/5305|date=24 September 2009}}.</ref>
+
+سوداګرو په لومړيو کې د کار کولو په موخه خلک د خدمت کوونکو يا مزدورانو بڼه په توګه اروپا ته ولېږل. د لېږد مودې تر هغې دوام وکړ، چې په ۱۸ پېړۍ کې په لويديځ هندوستانونو (West Indies) او شمالي امريکا کې د کار بازار پراخه شو. په ۱۸۰۷ ز کال کې انګليستان په ټوله سترواکۍ کې د غلامۍ سوداګري له منځه وېوړه. انګليستان په نابريالي ډول ګامبيا کې هم د غلامۍ سوداګرۍ د پای ته رسولو هڅه وکړه. د غلامۍ هغه کښتۍ چې په اتلانتيک کې د شاهي سمندري ځواک د لويديځې افريقا لښکر له لورۍ يې مخه ونيول شوه، ګامبيا ته ستنې شوې. د کښتۍ سپاره غلامان د ګامبيا له سيند څخه وړاندې پر MacCarthy ټاپو باندې خوښې شول، چې ورڅخه په ياده سيمه کې د نوي ژوند د رامنځته کولو تمه کېدله. برتانيې په ۱۸۱۶ ز کال کې د “Bathurst” (ننني بانجيول “Banjul” سيمه) پوځي ځای يا پوسته جوړه کړه.<ref name="xyz">{{cite journal|doi=10.2307/3060072|jstor=3060072|title=Guests of the Crown: Convicts and Liberated Slaves on Mc ''Carthy'' Island, the Gambia|journal=The Geographical Journal|volume=160|issue=2|pages=136–142|year=1994|author=Webb, Patrick|author-link=Patrick Webb (nutritionist)}}</ref>
 
 ==ایداري وېش==
 د ګامبیا هیواد په ۶ ایداري سیمو ویشل شوی دی.
