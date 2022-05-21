@@ -1,5 +1,3 @@
-'''تانزانیه''' یا '''تانزانیا''' په ختیځ [[افریقا]] کې پروت یو [[هېواد]] دۍ. د تانزانیا پلازمینه د [[دودوما]] ښار دی، مساحت یې ۲۰۳'۹۴۷ کیلومتره مربع او د وګړو شمیر یې ۷۴۷'۸۹۰'۵۵ نفره دی. په تانزانیا کې رسمی ژبي [[انګلیسي]] او [[سواحلي ژبه]] دي. د یاد هیواد د پیسو واحد  [[د تانزانیا شیلینګ]] او لوی ښار یې [[دارالسلام]] دی.
-
 {{Infobox country
 | conventional_long_name = د تانزانیا متحده ولسمشریزه
 | common_name = تانزانیا
@@ -9,7 +7,7 @@
 | national_motto = {{Native name|sw|"Uhuru na Umoja"}}{{سخ}}"[[Freedom and Unity]]"
 | national_anthem = "[[د تانزانیا ملي سرود]]"{{سخ}}(''"God Bless Africa"''){{سخ}}{{}}[[دوتنه:National Anthem of Tanzania by US Navy Band.ogg]]{{پای}}
 | image_map = Tanzania (orthographic projection).svg
-| image_map2 =
+| image_map2 = 
 | capital = [[دودوما]]
 | largest_city = [[دارالسلام (تانزانیا)|دارالسلام]]
 | languages_type = [[رسمي ژبه]]
@@ -36,7 +34,7 @@
 | established_date2 = ۱۰ ډسمبر ۱۹۶۳
 | established_event3 = Merger
 | established_date3 = ۲۶ افریل ۱۹۶۴
-| established_event4 =  اساسي قانون
+| established_event4 = اساسي قانون
 | established_date4 = ۲۵ افریل ۱۹۷۷
 | area_km2 = ۹۴۷٬۳۰۳
 | area_rank = ۳۱ام
@@ -49,7 +47,7 @@
 | population_census_year = ۲۰۱۲
 | population_density_km2 = ۴۷٫۵
 | population_density_sq_mi = ۱۲۳٫۱ <!--Do not remove per [[اقتصاد]]-->
-| population_density_rank =
+| population_density_rank = 
 | GDP_PPP = $۱۸۶٫۰۶۰ بیلیونه
 | GDP_PPP_year = ۲۰۱۹
 | GDP_PPP_per_capita = $۳٬۵۷۴<ref name="imf.org">{{Cite web | url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=44&pr.y=15&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=738&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a= |title = Report for Selected Countries and Subjects}}</ref>
@@ -59,35 +57,56 @@
 | Gini = ۳۷٫۸
 | Gini_year = ۲۰۱۲
 | Gini_change = <!--increase/decrease/steady-->
-| Gini_ref =<ref>{{cite web | url=http://data.worldbank.org/indicator/SI.POV.GINI | title=GINI Index | publisher=The World Bank | accessdate=14 October 2014}}</ref>
-| Gini_rank =
+| Gini_ref = <ref>{{cite web | url=http://data.worldbank.org/indicator/SI.POV.GINI | title=GINI Index | publisher=The World Bank | accessdate=14 October 2014}}</ref>
+| Gini_rank = 
 | HDI = ۰٫۵۲۸<!--number only, between 0 and 1-->
 | HDI_year = ۲۰۱۸<!-- Please use the year to which the data refers, not the publication year-->
 | HDI_change = increase <!--increase/decrease/steady-->
-| HDI_ref =<ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[ملګري ملتونه]]|date=10 December 2019|accessdate=10 December 2019|format=PDF|archive-date=16 مې 2020|archive-url=https://web.archive.org/web/20200516123624/http://hdr.undp.org/en/content/2019-human-development-index-ranking}}</ref>
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[ملګري ملتونه]]|date=10 December 2019|accessdate=10 December 2019|format=PDF|archive-date=16 مې 2020|archive-url=https://web.archive.org/web/20200516123624/http://hdr.undp.org/en/content/2019-human-development-index-ranking}}</ref>
 | HDI_rank = ۱۵۹ام
 | currency = [[د تانزانیا شیلینګ]]
 | currency_code = TZS
 | time_zone = [[د ختیځې افریقا وخت]]
 | utc_offset = +۳
-| utc_offset_DST =
-| time_zone_DST =
+| utc_offset_DST = 
+| time_zone_DST = 
 | drives_on = [[د موټروانې لوری]]
 | iso3166code = TZ
 | calling_code = [[+۲۵۵]]<ref name=c group=note>+007 from Kenya and Uganda.</ref>
 | cctld = [[.tz]]
 | footnote_a = Revised to $۴۱٫۳۳ بیلیون<ref>{{Cite news |url=https://af.reuters.com/article/tanzaniaNews/idAFL6N0U312N20141219?sp=true |title=UPDATE 2-Tanzania's GDP expands by 32 pct after rebasing – officials |date=19 December 2014 |agency=Reuters |accessdate=19 December 2014}}</ref>
 | footnote_b = Swahili and English are de facto official languages
-| religion_year =
-| religion_ref =
+| religion_year = 
+| religion_ref = 
 | religion = {{نوملړ|item_style=white-space:nowrap;
   | ۶۱٫۴٪ [[Christianity in Tanzania|مسیحیت]]
   | ۳۵٫۲٪ [[Islam in Tanzania|اسلام]]
   | ۲٫۰٪ [[Traditional African religions|Traditional faith]]s
   | ۱٫۴٪ [[Religion in Tanzania|Others]] / [[بی‌دینی]]<ref name="Pew Africa">{{cite web |url=https://www.pewforum.org/files/2010/04/sub-saharan-africa-full-report.pdf|archive-url=https://web.archive.org/web/20160312190819/https://www.pewforum.org/files/2010/04/sub-saharan-africa-full-report.pdf|url-status=dead|archive-date=2016-03-12| title=Tolerance and Tension: Islam and Christianity in Sub-Saharan Africa|page=20|accessdate=25 April 2018|date=April 2010| publisher=Pew Forum on Religious & Public life}}</ref>
 }}
-| today =
-}}
+| today = 
+}}'''تانزانیه''' یا '''تانزانیا''' په ختیځ [[افریقا]] کې پروت یو [[هېواد]] دۍ. د تانزانیا پلازمینه د [[دودوما]] ښار دی، مساحت یې ۲۰۳'۹۴۷ کیلومتره مربع او د وګړو شمیر یې ۷۴۷'۸۹۰'۵۵ نفره دی. په تانزانیا کې رسمی ژبي [[انګلیسي]] او [[سواحلي ژبه]] دي. د یاد هیواد د پیسو واحد  [[د تانزانیا شیلینګ]] او لوی ښار یې [[دارالسلام]] دی.
+
+تانزانيا (/ˌtænzəˈniːə/؛ سواهيلي: [tanzaˈni.a]) چې په رسمي ډول د تانزانيا جمهوريت (سواهيلي: Jamhuri ya Muungano wa Tanzania) دی، د ختيځې افريقا د افريقا د سترو جهيلونو سيمې دننه هېواد دی. شمال ته له يوګندا، ختيځ ته له کامرو ټاپوګانو او هند سمندر، شمال ختيځ ته له کينيا، سويل ته له موزمبيق او مالاوې، سوdل لويديځ ته له زمبيا او لويديځ ته له راوندا (Rwanda)، بروندي (Burundi) او د کانګو ديموکراتيک جمهوريت سره ګډه پوله لري. “Mount Kilimanjaro” چې د افريقا تر ټولو لوړ غر دی، د تانزانيا په شمال ختيځ کې دی. <ref>{{cite web|url=https://dictionary.reference.com/browse/tanzania|title=Tanzania &#124; Define Tanzania at Dictionary.com|website=Dictionary.reference.com|access-date=19 February 2014}}</ref><ref>{{cite web|url=https://en.oxforddictionaries.com/definition/tanzania|title=Tanzania|work=Oxford Dictionaries Online|access-date=28 October 2018}}</ref>
+
+تانزانيا کې د هومو لړۍ (hominid) زيات مهم فوسيلونه لکه د ۶ ميليون پخوا د “Pliocene” دورې هومينيډ فوسيلونه، موندل شوي دي. د “Australopithecus” جنس د ۴ او ۲ ميليون پخوا کالونو تر منځ په افريقا کې لړۍ شو او د هومو (Homo) جنس لرغونې پاتې شونې د “Olduvai” جهيل ته نږدې وموندل شوې. ۱،۸ ميليون کالونه پخوا د “Homo erectus” له راپورته کېدنې څخه وروسته په ټوله لرغونې نړۍ او وروسته په نوې نړۍ او اسټراليا کې د “Homo sapiens” تر نوعو لاندې انسانيت خپور شو. هومو ساپينس افريقا هم ونيوله او د انسانيت پخوانۍ نوعې يې وزغملې (جذب کړې). 
+
+وروسته د ډبرې او برونز دوره کې تانزانيا ته له ليکلي تاريخ څخه مخکې کډوالۍ د سويلي “Cushitic” ويونکو، ختيځو کوشيتيک وګړو او د “Datoog” په ګډون د سويلي “Nilotes” وګړو وي. د سويلي “Cushitic” ویونکي له نننۍ ايتوپيا څخه د هېواد سويل ته او ختيځ کيوشيتيک نږدې ۲۰۰۰ او ۴۰۰۰ کالونه پخوا د “Turkana” جهيل له شمال څخه تانزانيا ته کډوال شول. د يادونې وړ ده چې د سويلي Nilotes د “Datoog” وګړي په اصل کې د ۲۹۰۰ او ۲۴۰۰ پخوا کالونو تر منځ د نني سويلي سوډان او ايتوپيا تر منځ د پولې (سرحدي) سيمې اوسېدونکي وو. ياد خوځښتونه په ويکتوريا او تانګانيکا (Tanganyika) جهيلونو په سيمو کې د لويديځې افريقا د “Mashariki Bantu” توکم له استوګن کېدنې سره په ورته وخت کې وشول. دوی په پای کې د ۲۳۰۰ او ۱۷۰۰ پخوا کالونو تر منځ د تانزانيا پاتې ټوله برخه کې ځای پر ځای شول. <ref name="Genetics2">{{cite journal|doi=10.1126/science.1172257|title=The Genetic Structure and History of Africans and African Americans|journal=Science|volume=324|issue=5930|pages=1035–44|year=2009|pmid=19407144|pmc=2947357|last1=Tishkoff|first1=S. A.|last2=Reed|first2=F. A.|last3=Friedlaender|first3=F. R.|last4=Ehret|first4=C.|last5=Ranciaro|first5=A.|last6=Froment|first6=A.|last7=Hirbo|first7=J. B.|last8=Awomoyi|first8=A. A.|last9=Bodo|first9=J. M.|last10=Doumbo|first10=O.|last11=Ibrahim|first11=M.|last12=Juma|first12=A. T.|last13=Kotze|first13=M. J.|last14=Lema|first14=G.|last15=Moore|first15=J. H.|last16=Mortensen|first16=H.|last17=Nyambo|first17=T. B.|last18=Omar|first18=S. A.|last19=Powell|first19=K.|last20=Pretorius|first20=G. S.|last21=Smith|first21=M. W.|last22=Thera|first22=M. A.|last23=Wambebe|first23=C.|last24=Weber|first24=J. L.|last25=Williams|first25=S. M.|bibcode=2009Sci...324.1035T}}</ref><ref name="auto2">{{cite book|first=Christopher|last=Ehret|title=An African Classical Age: Eastern and Southern Africa in World History, 1000 B.C. to A.D. 400|url=https://books.google.com/books?id=1i-IBmCeNhUC|date=2001|publisher=University Press of Virginia|isbn=978-0-8139-2057-3}}</ref>
+
+د هېواد په اصلي خاوره کې د المان حکومت د ۱۹ پېړۍ په وروستيو کې هغه مهال پيل شو، چې المان «د المان ختيځه افريقا: German East Africa» جوړه کړه. له لومړۍ نړيوالې جګړې څخه وروسته په کې برتانوي حکومت واګې تر لاسه کړې. اصلي خاوره د “Tanganyika” په نوم اداره کېدله او د “Zanzibar Archipelago” سيمه د بېل استعماري واک په توګه پاتې شوه. په ۱۹۶۱ او ۱۹۶۳ کې د خپلو ځان ځاني خپلواکيو څخه وروسته، دواړه هستې د تانزانيا متحد جمهوريت (United Republic of Tanzania) د جوړولو په موخه په ۱۹۶۴ ز کال کې يو ځای شوې. ياد هېوادونه په ۱۹۶۱ ز کال کې له بریتانوي ګډو ګټو (British Commonwealth) سره يو ځای شوي وو او تانزانيا اوس هم د يو جمهوريت په توګه د ګډو ګټو غړی هېواد دی. <ref name="factbook">{{cite web|work=The World Factbook|publisher=Central Intelligence Agency|title=Tanzania|date=29 September 2021|url=https://www.cia.gov/the-world-factbook/countries/tanzania/}}</ref><ref name="auto1">{{cite web|url=https://thecommonwealth.org/our-member-countries/united-republic-tanzania|title=United Republic of Tanzania &#124; The Commonwealth|website=thecommonwealth.org|date=15 August 2013}}</ref>
+
+ملګرو ملتونو د تانزانيا نفوس ۵۶،۳۱ ميليون تنه اټکل کړ، چې د سويلي افريقا په پرتله لږ کم او د نفوس له مخې دويم ګڼ نفوسه هېواد دی، چې په بشپړ ډول د استوا په سويل کې پروت دی. ياد نفوس له نږدې ۱۲۰ توکميزو، ژبنيو او مذهبي ډلو څخه جوړ شوی دی. د تانزانيا خپلواک هېواد د اساسي قانون له مخې ولسمشريز جمهوري نظام لري او له ۱۹۹۶ راهيسې يې رسمي پلازمېنه ډوډوما (Dodoma) ده، چې د ولسمشر دفتر، ملي جرګه او ټول حکومتي وزارتونه په کې پراته دي. پخوانۍ پلازمېنه يانې «دارالسلام» خورا حکومتي دفترونه لري او د هېواد تر ټولو لوی ښار، اصلي بندر او مخکښ سوداګريز مرکز دی. دا هېواد په حقيقت کې يو ګوندې دولت دی، چې ديموکراتيک سوسياليست چاما چا ماپېندوزي “Chama Cha Mapinduzi” ګوند په کې واک لري. <ref name="East Africa Living Encyclopedia">{{cite encyclopedia|author=African Studies Center University of Pennsylvania|author-link=University of Pennsylvania|encyclopedia=East Africa Living Encyclopedia|title=Tanzania – Ethnic Groups|url=https://www.africa.upenn.edu/NEH/tethnic.htm}}</ref><ref>{{cite news|url=https://www.etsav.upc.es/personals/iphs2004/pdf/148_p.pdf|title=The planning of the new capital of Tanzania: Dodoma, an unfulfilled dream|first=Aloysius C.|last=Mosha|access-date=13 March 2013|archive-url=https://web.archive.org/web/20130712145006/http://www.etsav.upc.es/personals/iphs2004/pdf/148_p.pdf|archive-date=12 July 2013|url-status=dead|publisher=University of Botswana}}</ref><ref name="factbook2">{{cite web|work=The World Factbook|publisher=Central Intelligence Agency|title=Tanzania|date=29 September 2021|url=https://www.cia.gov/the-world-factbook/countries/tanzania/}}</ref><ref name="official_website">{{cite web|url=https://www.tanzania.go.tz/profilef.html|title=The Tanzania National Website: Country Profile|website=Tanzania.go.tz|archive-url=https://web.archive.org/web/20131125222553/http://www.tanzania.go.tz/profilef.html|archive-date=25 November 2013|url-status=dead|access-date=1 May 2010}}</ref><ref>{{cite web|url=https://www.tanzaniaports.com/index.php?option=com_content&view=article&id=100&Itemid=270|title=Dar es Salaam Port|publisher=Tanzaniaports.com|archive-url=https://web.archive.org/web/20140222180354/http://www.tanzaniaports.com/index.php?option=com_content&view=article&id=100&Itemid=270|archive-date=22 February 2014|url-status=dead|access-date=19 February 2014}}</ref>
+
+تانزانيا په شمال ختيځ کې يو غرنی او ګڼ ځنګليز هېواد دی، چې کيليمنجرو غر (Mount Kilimanjaro) هم په کې دی. د افريقا درې ستر جهيلونه د يوې برخې په توګه په دې هېواد کې دي. شمال ته يې د ويکتوريا جهيل پروت دی، چې د افريقا تر ټولو جهيل دی؛ ختيځ ته يې د “Tanganyika” جهيل دی، چې د لويې وچې تر ټولو ژور جهيل دی او د کب د بې سارې نوعو له امله پېژندل کېږي او سوېل ته يې د مالاوې جهيل (Lake Malawi) پروت دی. ختيځ ساحل تود او لوند اقليم لري، مګر “Zanzibar Archipelago” يوازې له غاړې يا ساحل څخه لرې پرته برخه ده. د مينای خليج د ساتنې سيمه (Menai Bay Conservation Area) په زانزيبار پورې اړه لري او له سمندر څخه تر ټولو پراخه خوندي سيمه ده. د کالامبو ځړوبی (Kalambo Falls) د زمبيا په پوله کې پر کالامبو سيند باندې پروت دی، چې په افريقا کې دويم تر ټولو لوړ پرله پسې يا نا پرېکړی ځړوبی دی. <ref name="Kalambo Falls">[http://www.britannica.com/EBchecked/topic/310022/Kalambo-Falls "Kalambo Falls"]. ''Encyclopædia Britannica''.</ref>
+
+عيسويت په هېواد کې تر ټولو ستر دين دی، مګر بنسټيز يا اصلي مسلمان او هم جنس پالونکي لږه کي هم په کې شته. له ۱۰۰ څخه زياتې ژبې په کې ويل کېږي، چې له امله يې دا هېواد په ختيځه افريقا کې د بېلابېلو ژبو ويونکی هېواد دی. دا هېواد تل پاتې رسمي ژبه نه لري، که څه هم ملي ژبه يې سواهيلي ده. ياده ژبه په پارلماني بحث، ټيټو محکمو او لومړنيو ښوونځيو کې د لارښوونې د وسيلې په توګه کارول کېږي. په باندنۍ سوداګرۍ، سياسي اړيکو، لوړو محکمو او دويمې او عالي زده کړو کې د چارښودنې د وسط په توګه انګليسي ژبه کارول کېږي، که څه هم د تانزانيا حکومت پلان لري چې د چارښودنې د لومړنۍ ژبې په توګه نوره انګليسي ونه کاروي او يوازې د يوې اختياري دورې په توګه يې د لاسرسي وړ کړي. د هېواد نږدې ۱۰ سلنه وګړي په سواهيلي ژبه باندې د لومړنۍ او تر ۹۰ سلنه پرې د دويمې ژبې په توګه خبرې کوي. <ref name="Pew Africa">[http://www.globalreligiousfutures.org/countries/tanzania#/?affiliations_religion_id=0&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2016 Religion in Tanzania], [[Pew Research Center]]</ref><ref name="Mugoti">{{cite book|title=Africa (a-z)|author=Godfrey Mugoti|page=152|publisher=Godfrey books|date=12 June 2009|url=https://books.google.com/books?id=Plvuddy_4NYC&pg=PA512}}</ref><ref name="expogr">{{cite web|url=https://www.expogr.com/tanzania_country_information.php|title=Tanzania Country Information – All about Tanzania|website=expogr.com|access-date=26 April 2020}}</ref><ref name="sim">{{cite book|first1=Ulrich|last1=Ammon|first2=Norbert|last2=Dittmar|first3=Klaus J.|last3=Mattheier|title=Sociolinguistics: An International Handbook of the Science of Language and Society|url=https://books.google.com/books?id=LMZm0w0k1c4C&pg=PA1967|year=2006|publisher=Walter de Gruyter|isbn=978-3-11-018418-1|page=1967}}</ref><ref name="tzgov">{{cite web|title=Tanzania Profile|url=https://tanzania.go.tz/home/pages/68|website=Tanzania.go.tz|publisher=Tanzanian Government|access-date=23 July 2017|url-status=dead|archive-url=https://web.archive.org/web/20170802124344/https://tanzania.go.tz/home/pages/68|archive-date=2 August 2017|df=dmy-all}}</ref><ref name="afkinsider.com">{{cite news|url=https://afkinsider.com/88774/tanzania-ditches-english-education-overhaul-plan/|agency=AFK Insider|title=Tanzania Ditches English In Education Overhaul Plan|date=17 February 2015|access-date=23 February 2015}}</ref><ref name="sim2">{{cite book|first1=Ulrich|last1=Ammon|first2=Norbert|last2=Dittmar|first3=Klaus J.|last3=Mattheier|title=Sociolinguistics: An International Handbook of the Science of Language and Society|url=https://books.google.com/books?id=LMZm0w0k1c4C&pg=PA1967|year=2006|publisher=Walter de Gruyter|isbn=978-3-11-018418-1|page=1967}}</ref>
+
+== ريښه (ایتمولوژي) ==
+د تانزانيا نوم (Tanzania) د هېواد د جوړولو په موخه د يو ځای شويو دوه دولتونو (Tanganyika او Zanzibar) د نومونو پرې شوی جوړښت دی. ياد نوم د دواړو هېوادونو د نومونو لومړي درې توري (Tan او Zan) او د “ia” وروستاړی لري، چې يو ځای کېدنه يې د “Tanzania” بڼه غوره کوي. <ref>{{OEtymD|tanzania}}</ref>
+
+د “Tanganika” نوم له سواهيلي ويي “tanga” او “nyika” څخه اخيستل شوی دی، چې لومړۍ برخه يې د بېړۍ چلولو او دويمه برخه د «نا استوګن شوې درې» يا «بيديا» معنا لري او په ګډه د «په دښته يا بيديا کې د بېړۍ چلول: Sail in the wilderness» نيمګړې غونډله جوړوي. ټانګانيکا ځيني وختونه په همدې نوم جهيل (Lake Tanganyika) ته د يو ماخذ په توګه درک کېږي. <ref>[http://home.frognet.net/~jaknouse/gaz-af.html John Knouse: A Political World Gazetteer: Africa] {{webarchive|url=https://web.archive.org/web/20110610213113/http://home.frognet.net/~jaknouse/gaz-af.html|date=10 June 2011}} website accessed 1 May 2007.</ref>
+
+د “Zanzibar” نوم له “Zenji” او عربي “barr” ويوکو څخه تر لاسه کېږي، چې لومړۍ برخه يې د سيمو ايزو خلکو نوم و (ويل کېږي چې د تور پوستي معنا لري) او دويمه برخه يې د ساحل يا د سيند غاړې معنا لري. <ref>{{OEtymD|zanzibar}}</ref>
 
 ==ایداري وېش==
 
@@ -100,3 +119,4 @@
 
 
 [[وېشنيزه:هېوادونه]]
+<references />
