@@ -1,19 +1,18 @@
-'''مالاوې''' په رسمي توګه '''د مالاوي هیواد ولسمشریزه''' ده چې په [[سویل ختیځه افريقا|سویل ختیځې افریقا]] کې په وچې پورې تړلی هیواد دی. پلازمینه یې د [[لیلونګوه]] ښار او رسمي ژبه یې [[انګلیسي]] ده. یاد هیواد ۴۸۴'۱۱۸ کیلومتره مربع مساحت او ۵۷۵'۰۹۱'۱۸ میلیونه وګړي لري. مالاوی په ۶ ږم د جون ۱۹۶۴م کال له [[بریتانیا]] خپله خپلواکي تر لاسه کړه.
- {{Infobox country
-| conventional_long_name =  د مالاوي هیواد ولسمشریزه 
-| common_name            = د مالاوي هیواد ولسمشریزه
-| native_name            = {{nowrap|{{lang|ny|Dziko la Malaŵi}}}} ([[Chewa language|Chichewa]])<br>{{nowrap|{{lang|ny|Charu cha Malaŵi}}}} ([[Tumbuka language|Chitumbuka]])
-| image_flag             = Flag of Malawi.svg
-| image_coat             = Coat of Arms of the Republic of Malawi.svg
-| national_motto         = "Unity and Freedom"
-| national_anthem        = {{native name|ny|[[Mulungu dalitsani Malaŵi]]|nolink=yes}}<br />({{Lang-en|"O God Bless Our Land of Malawi"}}){{lower|0.1em|<ref>{{cite web |url=http://www.lyricsondemand.com/miscellaneouslyrics/nationalanthemslyrics/malawinationalanthemlyrics.html |title=Malawi National Anthem Lyrics |work=National Anthem Lyrics |publisher=Lyrics on Demand |access-date=24 August 2008 |archive-url=https://web.archive.org/web/20110510015032/http://www.lyricsondemand.com/miscellaneouslyrics/nationalanthemslyrics/malawinationalanthemlyrics.html |archive-date=10 May 2011 |url-status=dead }}</ref>}}<br /><center>[[File:Malawian national anthem.oga]]</center>
-| image_map              = File:Malawi (orthographic projection).svg
-| map_caption            = نقشه (شین رنګه)په سویلي افریقا کې [[افریقا]] کې
-| capital                = [[لیلونګوه]]
-| coordinates            = {{coord|13|57|S|33|42|E|type:city}}
-| largest_city           = [[لیلونګوه]]
-| official_languages     = [[انګلیسي]]<br>[[چیوایي ژبه]]
-| سیمه ییزې ژبې   = {{unbulleted list
+{{Infobox country
+| conventional_long_name = د مالاوي هیواد ولسمشریزه
+| common_name = د مالاوي هیواد ولسمشریزه
+| native_name = {{nowrap|{{lang|ny|Dziko la Malaŵi}}}} ([[Chewa language|Chichewa]])<br>{{nowrap|{{lang|ny|Charu cha Malaŵi}}}} ([[Tumbuka language|Chitumbuka]])
+| image_flag = Flag of Malawi.svg
+| image_coat = Coat of Arms of the Republic of Malawi.svg
+| national_motto = "Unity and Freedom"
+| national_anthem = {{native name|ny|[[Mulungu dalitsani Malaŵi]]|nolink=yes}}<br />({{Lang-en|"O God Bless Our Land of Malawi"}}){{lower|0.1em|<ref>{{cite web |url=http://www.lyricsondemand.com/miscellaneouslyrics/nationalanthemslyrics/malawinationalanthemlyrics.html |title=Malawi National Anthem Lyrics |work=National Anthem Lyrics |publisher=Lyrics on Demand |access-date=24 August 2008 |archive-url=https://web.archive.org/web/20110510015032/http://www.lyricsondemand.com/miscellaneouslyrics/nationalanthemslyrics/malawinationalanthemlyrics.html |archive-date=10 May 2011 |url-status=dead }}</ref>}}<br /><center>[[File:Malawian national anthem.oga]]</center>
+| image_map = File:Malawi (orthographic projection).svg
+| map_caption = نقشه (شین رنګه)په سویلي افریقا کې [[افریقا]] کې
+| capital = [[لیلونګوه]]
+| coordinates = {{coord|13|57|S|33|42|E|type:city}}
+| largest_city = [[لیلونګوه]]
+| official_languages = [[انګلیسي]]<br>[[چیوایي ژبه]]
+| سیمه ییزې ژبې = {{unbulleted list
   | [[یاو ژبه]]
   | [[تومبوکا ژبه]]
   | [[تونګا ژبه]]
@@ -22,7 +21,7 @@
   | [[نیاکیوسا ژبه]]
   | [[لامبیا ژبه]]
  }}
-| ethnic_groups          = {{unbulleted list
+| ethnic_groups = {{unbulleted list
   | ۳۴.۴% [[چیوا]]
   | ۱۸.۹% [[لوموی]]
   | ۱۳.۳% [[یاو]]
@@ -37,8 +36,8 @@
   |  ۱.۵% [[سوکوا]]
   |  ۱.۰% نور
  }}
-| ethnic_groups_year     = ۲۰۱۸ شمیرنه<ref name="Census۲۰۱۸">{{cite web |url=http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf |title=2018 Population and Housing Census Main Report |publisher=Malawi National Statistical Office |access-date=25 December 2019}}</ref>
-| religion                = {{ublist |item_style=white-space:nowrap;
+| ethnic_groups_year = ۲۰۱۸ شمیرنه<ref name="Census۲۰۱۸">{{cite web |url=http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf |title=2018 Population and Housing Census Main Report |publisher=Malawi National Statistical Office |access-date=25 December 2019}}</ref>
+| religion = {{ublist |item_style=white-space:nowrap;
   |۷۷.۳% [[مسیحیت]]
   |—۳۳.۵% [[پروتستان]]
   |—۱۷.۲% [[کاتولیک]]
@@ -48,63 +47,82 @@
   |۱.۲% [[سیمه ییز افریقایي دینونه]]
   |۵.۶% نور
   }}
-| religion_year                = ۲۰۱۸ نفوس شمیرنه
-| religion_ref                =  <ref name="DHS 2016">{{cite web |url=https://dhsprogram.com/pubs/pdf/FR319/FR319.pdf |title=Demographic and Health Survey: 2015–2016 |publisher=Malawi National Statistical Office |page=36 |access-date=19 April ۲۰۱۸}}</ref>
-| demonym                = [[مالاویان]]
-| government_type        = [[ولسمشریزه]] [[پارلماني]] [[مشروطه ولسمشریزه]]
-| leader_title1          = [[ولسمشر]]
-| leader_name1           = [[لازاروس چاک ورا]]
-| leader_title2          = [[لومړی وزیر]]
-| leader_name2           = [[ساولوس چیلیما]]
-| legislature            = [[ولسي جرګه]]
-| sovereignty_type       = History
-| established_event1     = خپلواکي له  [[بریتانیا]]
-| established_date1      = ۶ جون ۱۹۶۴
-| established_event2     = ولسمشریزه
-| established_date2      = ۶ جون ۱۹۶۶
-| established_event3     =د مالاوي هیواد  اوسنی اساسي قانون
-| established_date3      = ۱۸ مې ۱۹۹۴
-| area_km2               = ۱۱۸,۴۸۴
-| area_rank              = ۹۸th<!-- Area rank should match List of countries and dependencies by area -->
-| area_sq_mi             = ۴۵,۷۴۷ <!--Do not remove per [[WP:MOSNUM]]-->
-| percent_water          = ۲۰.۶%
-| population_estimate    = {{increase}} ۱۹,۱۲۹,۹۵۲<ref>{{cite web |url=https://population.un.org/wpp/ |title=World Population Prospects – Population Division – United Nations |website=population.un.org}}</ref>
-| population_census      = ۱۷,۵۶۳,۷۴۹<ref name="Census2018"/>
+| religion_year = ۲۰۱۸ نفوس شمیرنه
+| religion_ref = <ref name="DHS 2016">{{cite web |url=https://dhsprogram.com/pubs/pdf/FR319/FR319.pdf |title=Demographic and Health Survey: 2015–2016 |publisher=Malawi National Statistical Office |page=36 |access-date=19 April ۲۰۱۸}}</ref>
+| demonym = [[مالاویان]]
+| government_type = [[ولسمشریزه]] [[پارلماني]] [[مشروطه ولسمشریزه]]
+| leader_title1 = [[ولسمشر]]
+| leader_name1 = [[لازاروس چاک ورا]]
+| leader_title2 = [[لومړی وزیر]]
+| leader_name2 = [[ساولوس چیلیما]]
+| legislature = [[ولسي جرګه]]
+| sovereignty_type = History
+| established_event1 = خپلواکي له  [[بریتانیا]]
+| established_date1 = ۶ جون ۱۹۶۴
+| established_event2 = ولسمشریزه
+| established_date2 = ۶ جون ۱۹۶۶
+| established_event3 = د مالاوي هیواد  اوسنی اساسي قانون
+| established_date3 = ۱۸ مې ۱۹۹۴
+| area_km2 = ۱۱۸,۴۸۴
+| area_rank = ۹۸th<!-- Area rank should match List of countries and dependencies by area -->
+| area_sq_mi = ۴۵,۷۴۷ <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = ۲۰.۶%
+| population_estimate = {{increase}} ۱۹,۱۲۹,۹۵۲<ref>{{cite web |url=https://population.un.org/wpp/ |title=World Population Prospects – Population Division – United Nations |website=population.un.org}}</ref>
+| population_census = ۱۷,۵۶۳,۷۴۹<ref name="Census2018"/>
 | population_estimate_year = 2020
 | population_estimate_rank = 62nd
 | population_census_year = 2018
 | population_density_km2 = ۱۵۳.۱
 | population_density_sq_mi = ۳۹۶.۵ <!--Do not remove per [[WP:MOSNUM]]-->
 | population_density_rank = ۵۶th
-| GDP_PPP                = $۲۵.۰۳۷ ترلیونه
-| GDP_PPP_year           = ۲۰۱۹
-| GDP_PPP_per_capita     = $۱,۲۳۴<ref name="auto">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=62&pr.y=7&sy=2019&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=676&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a= |title=Report for Selected Countries and Subjects |website=www.imf.org}}</ref>
-| GDP_nominal            = $۷.۴۳۶ تریلیونه
-| GDP_nominal_year       = ۲۰۱۹
+| GDP_PPP = $۲۵.۰۳۷ ترلیونه
+| GDP_PPP_year = ۲۰۱۹
+| GDP_PPP_per_capita = $۱,۲۳۴<ref name="auto">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=62&pr.y=7&sy=2019&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=676&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a= |title=Report for Selected Countries and Subjects |website=www.imf.org}}</ref>
+| GDP_nominal = $۷.۴۳۶ تریلیونه
+| GDP_nominal_year = ۲۰۱۹
 | GDP_nominal_per_capita = $۳۶۷<ref name="auto"/>
-| Gini                   = ۴۳.۹ <!--number only-->
-| Gini_year              = ۲۰۱۰
-| Gini_change            = <!--increase/decrease/steady-->
-| Gini_ref               = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |access-date=2 March 2011}}</ref>
-| Gini_rank              = 
-| HDI                    = ۰.۴۸۳ <!--number only-->
-| HDI_year               = ۲۰۱۹<!-- Please use the year to which the data refers, not the publication year-->
-| HDI_change             = decrease<!--increase/decrease/steady-->
-| HDI_ref                = <ref name="UNHDR">{{cite book |title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene |date=15 December 2020 |publisher=United Nations Development Programme |isbn=978-92-1-126442-5 |pages=343-346 |url=http://hdr.undp.org/sites/default/files/hdr2020.pdf |access-date=16 December 2020}}</ref>
-| HDI_rank               = ۱۷۴ټنه
-| currency               = [[Malawian kwacha|Kwacha]] (D)
-| currency_code          = MWK
-| time_zone              = [[د مرکزي افریقا وخت|وخت]]
-| utc_offset             = +۲
-| utc_offset_DST         = 
-| time_zone_DST          = 
-| drives_on              = [[چپ]]
-| calling_code           = [[Telephone numbers in Malawi|+۲۶۵]]<ref name="BBC">{{cite news |url=http://news.bbc.co.uk/1/hi/world/africa/country_profiles/1068913.stm |title=Country profile: Malawi |publisher=[[BBC News]] |date=13 March 2008 |access-date=17 August 2008}}</ref>
-| cctld                  = [[.mw]]<ref name="BBC" />
-| footnotes              = * Population estimates for this country explicitly take into account the effects of excess mortality due to [[HIV/AIDS|AIDS]]; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.
+| Gini = ۴۳.۹ <!--number only-->
+| Gini_year = ۲۰۱۰
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |access-date=2 March 2011}}</ref>
+| Gini_rank = 
+| HDI = ۰.۴۸۳ <!--number only-->
+| HDI_year = ۲۰۱۹<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = decrease<!--increase/decrease/steady-->
+| HDI_ref = <ref name="UNHDR">{{cite book |title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene |date=15 December 2020 |publisher=United Nations Development Programme |isbn=978-92-1-126442-5 |pages=343-346 |url=http://hdr.undp.org/sites/default/files/hdr2020.pdf |access-date=16 December 2020}}</ref>
+| HDI_rank = ۱۷۴ټنه
+| currency = [[Malawian kwacha|Kwacha]] (D)
+| currency_code = MWK
+| time_zone = [[د مرکزي افریقا وخت|وخت]]
+| utc_offset = +۲
+| utc_offset_DST = 
+| time_zone_DST = 
+| drives_on = [[چپ]]
+| calling_code = [[Telephone numbers in Malawi|+۲۶۵]]<ref name="BBC">{{cite news |url=http://news.bbc.co.uk/1/hi/world/africa/country_profiles/1068913.stm |title=Country profile: Malawi |publisher=[[BBC News]] |date=13 March 2008 |access-date=17 August 2008}}</ref>
+| cctld = [[.mw]]<ref name="BBC" />
+| footnotes = * Population estimates for this country explicitly take into account the effects of excess mortality due to [[HIV/AIDS|AIDS]]; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.
 * Information is drawn from the CIA ''[[World Factbook]]'' unless otherwise noted.
-| today                  = 
-}}
+| today = 
+}}'''مالاوې''' په رسمي توګه '''د مالاوي هیواد ولسمشریزه''' ده چې په [[سویل ختیځه افريقا|سویل ختیځې افریقا]] کې په وچې پورې تړلی هیواد دی. پلازمینه یې د [[لیلونګوه]] ښار او رسمي ژبه یې [[انګلیسي]] ده. یاد هیواد ۴۸۴'۱۱۸ کیلومتره مربع مساحت او ۵۷۵'۰۹۱'۱۸ میلیونه وګړي لري. مالاوی په ۶ ږم د جون ۱۹۶۴م کال له [[بریتانیا]] خپله خپلواکي تر لاسه کړه.
+
+مالاوې (/məˈlɔːwi, məˈlɑːwi, ˈmæləwi/؛ چيوا: [maláβi] يا [maláwi])، ټمبوکا: Malawi او په رسمي ډول د مالاوې جمهوريت؛ په سويل ختيځه افريقا کې په وچه کې را ایسار هېواد دی، چې پخوا د نيازالېنډ (Nyasaland) په نوم پېژندل کېده. دا هېواد لويديځ ته له زمبيا، شمال او شمال ختيځ ته له تانزانيا او ختيځ، سوېل او سوېل لويديځ ته له موزمبيق سره ګډه پوله لري. د هېواد پراخوالی له ۱۱۸۴۸۴ کېلو متر مربع (۴۵۷۴۷ ميل مربع) څخه زيات او نفوس يې د ۲۰۲۱ز کال  تر جنوري پورې ۱۹۴۳۱۵۶۶ تنه اټکل شوی دی. د مالاوې پلازمېنه (او تر ټولو لوی ښار) ليلونګوي “Lilongwe” ښار دی. دويم ستر ښار يې بلنټاير (Blantyre)، درېيم مزوزو (Mzuzu) او څلورم ستر ښار يې پخوانۍ پلازمېنه زومبا (Zomba) دی. د مالاوې (Malawi) نوم له “Maravi” څخه اخيستل شوی دی، چې په سيمه کې د “Chewa” په نوم د استوګن وګړو پخوانی نوم دی. دې هېواد ته د «د افريقا نرم زړه» وړ نوم (لقب) د هېواد د وګړو د ملګرتيا او صميميت له امله ورکړل شوی دی. <ref>{{cite web|title=Malawi: Maláui, Malaui, Malauí, Malavi ou Malávi?|url=http://dicionarioegramatica.com.br/2015/10/25/malawi-malaui-malaui-malaui-malavi-ou-malavi/|website=DicionarioeGramatica.com.br|access-date=25 October 2015|archive-date=17 August 2016|archive-url=https://web.archive.org/web/20160817120145/https://dicionarioegramatica.com.br/2015/10/25/malawi-malaui-malaui-malaui-malavi-ou-malavi/|url-status=dead}}</ref><ref>{{cite web|title=Malawi, The Warm Heart of Africa|url=http://www.novocmalawi.org/index.php/about/malawi-the-warm-heart-of-africa/|url-status=dead|publisher=Network of Organizations for Vulnerable & Orphan Children|access-date=26 January 2011|archive-url=https://web.archive.org/web/20110727131527/http://www.novocmalawi.org/index.php/about/malawi-the-warm-heart-of-africa/|archive-date=27 July 2011}}</ref><ref>{{cite web|title=Malawi Population (2021) – Worldometer|url=https://www.worldometers.info/world-population/malawi-population/|access-date=2021-01-31|website=www.worldometers.info|language=en}}</ref>
+
+د افريقا لويې وچې د نننۍ مالاوې په نوم برخه کې ۱۰ پېړۍ ته نږدې وختونو کې د “Bantu” ډلو د کډوالۍ په واسطه استوګنه غوره شوه. څو پېړۍ وروسته په ۱۸۹۱ ز کال کې ياده سيمه د بریتانيې له لورې مستعمره شوه او د “Nyasaland” په نوم د انګليستان تر څار او قيموميت لاندې سيمه شوه. په ۱۹۵۳ ز کال کې د روديشيا “Rhodesia” او نيازالېنډ په نيمه خپلواکه اتحاديه کې تر څار اوساتنې لاندې سيمه شوه. ياده اتحاديه يا فدراسيون په ۱۹۶۳ ز کال کې له منځه لاړ او منحل شو. په ۱۹۶۴ ز کال کې قيموميت پای ته ورسېده، نيازالېنډ د ملکې دويمې اليزابيت (Queen Elizabeth II) تر مشرۍ لاندې يو خپلواک هېواد شو او نوم يې هم مالاوې (Malawi) ته بدل شو. دوه کلونه وروسته جمهوريت شو. له انګليستان څخه يې بشپړه خپلواکي تر لاسه او تر ۱۹۷۰ ز کال پورې د هاسټنګز بېنډا (Hastings Banda) تر ولسمشرۍ لاندې يو ټولواک يو ګوندي دولت شوی و. بېنډا تر ۱۹۹۴ ز کال پورې ولسمشر پاتې شو. د مالاوې اوسنی نظام ديموکراتيک ګڼ ګوندي جمهوريت دی، چې د ټاکل شوي ولسمشر له لورې پر مخ ځي. د “Lazarus Chakwera” په نوم د مالاوې د کانګرس ګوند (Malawi Congress Party) ډله د ټانس اتحاد “Tonse Alliance” لامل شوه، چې د نهو سياسي ډلو او ګوندونو ډله کېدنه ده او د محکمې تر څار لاندې ولسمشريزې ټاکنې يې وګټلې. يادې ټاکنې د ۲۰۲۰ ز کال جون پر ۲۳ نېټه وروسته له هغې بيا تر سره شوې، چې د خورا سترو ټاکنيزو ګډوډيو له امله د ۲۰۱۹ ز کال د می مياشتې ولسمشريزې ټاکنې باطلې شوې. د مالاوې پوځ (د مالاوې دفاعي ځواک: Malawi Defense Force) يوه ځمکنۍ اردو، يو سمندري او يو هوايي ځواک لري. د هېواد باندنی سياست لويديځ پلوی دی. له زياتره هېوادونو سره مثبتې سياسي اړيکې ساتې او د ملګرو ملتونو، د ملتونو د ګډو ګټو، د سويلي افريقايي پرمختګ ټولنې، ختيځې او سويلې افريقا لپاره د عام بازار او افريقايي ټولنې په ګډون بېلابېلو نړيوالو سازمانونو کې ګډون کوي. <ref>{{cite web|title=Hastings Kamuzu Banda &#124; president of Malawi|url=https://www.britannica.com/biography/Hastings-Kamuzu-Banda|website=Encyclopedia Britannica}}</ref><ref>{{cite news|title=The cult of Hastings Banda takes hold|url=https://www.theglobeandmail.com/news/world/the-cult-of-hastings-banda-takes-hold/article4273860/|via=The Globe and Mail}}</ref><ref>{{cite journal|last=McCracken|first=John|author-link=John McCracken (historian)|title=Democracy and Nationalism in Historical Perspective: The Case of Malawi|url=https://academic.oup.com/afraf/article/97/387/231/16549|journal=African Affairs|volume=97|issue=387|pages=231–249|date=1 April 1998|doi=10.1093/oxfordjournals.afraf.a007927|via=academic.oup.com}}</ref>
+
+مالاوې د نړۍ له وروسته پاتې هېوادونو څخه دی. اقتصاد يې زياتره پر کرنه باندې تکيه دی او په پراخه ډول کليوالي او په چټکۍ سره زياتېدونکی نفوس لري. د هېواد حکومت د خپلو پرمختګ اړتياوو د بشپړولو په موخه زياتره پر باندنۍ مرسته باندې ولاړ دی، که څه هم اړينه اندازه (او وړانديز شوې مرسته) له ۲۰۰۰ ز کال راهيسې لږه شوې ده. د مالاوې حکومت د اقتصاد جوړولو او پراخولو، زده کړو ته د ودې ورکولو، روغتيا، د چاپيريال خونديتوب او د پراخه بې کارۍ تر څنګ په مالي ډول د خپلواک کېدلو هڅو کې له ګواښونو سره مخامخ کېږي. ياد هېواد له ۲۰۰۵ ز کال راهيسې د ذکر شويو مسئلو پر حل باندې د تمرکز په موخه بېلابېلې خپرونې رامنځته کړې دي او د هېواد ظاهري بڼه د پرمختګ په حال کې ښکاري. د ودې مهم شاخصونه په ۲۰۰۷ او ۲۰۰۸ ز کلونو کې د اقتصاد، زده کړې او روغتيا په برخو کې وکتل شول. 
+
+مالاوې د لږه اميندواري او د کوچنيانو لوړه مړينه لري. HIV/AIDS په کې خورا زيات خپور شوی دی، چې دواړه يې کاري ځواک کموي او د زياتو حکومتي لګښتونو غوښتنه کوي. ياد هېواد ډول ډول نفوس لري، چې د مالاوي اصلي وګړي، اسيايان او اروپايان دي. بېلابېلې ژبې په کې ويل کېږي او د مذهبي عقيدو يوه لړۍ لري. که څه هم پخوا په يوه برخه کې د توکميزو وېشنو يا ډلبنديو له امله دوره يې سيمه ییز ټکر او نښته وه، مګر په ۲۰۰۸ ز کال کې ياد کورنی ټکر د پام وړ له منځه تللی و او په يو مالاوي مليت سره د پېژندنې نظريه يو ځل بيا راڅرګنده شوې وه. 
+
+== تاريخچه ==
+د افريقا هغه سيمه چې نن ورځ د مالاوې په توګه پېژندل کېږي، نږدې لسمه پېړۍ کې له شمال څخه د “Bantu” ولسونو د کډوالۍ څپو له پيل څخه مخکې د ښکاري راټولېدونکو خورا کوچنی نفوس درلود. که څه هم زياتره Bantu ولسونو د سوېل پر لور کډوالۍ ته دوام ورکړ، مګر ځينې يې پاتې شول او د عام پښت پر بنسټ يې توکميزې ډلې جوړې کړې. يادو قبيلو تر ۱۵۰۰ زکال پورې د ماراوې پاچهي (Kingdom of Maravi) رامنځته کړې وه، چې د شمال له اوسنۍ “Nkhotakota” سيمې څخه زمبيزي سيند (Zambezi River) او له مالاوې جهيل (Lake Malawi) څخه لوانګوا سيند “Luangwa River” يا اوسنۍ زمبيا (Zambia) پورې ورسېده. <ref>{{Cite book|last=Kasuka|first=Bridgette|url=https://books.google.com/books?id=30PF_5aEfHQC&q=The+area+of+Africa+now+known+as+Malawi+had+a+very+small+population+of+hunter-gatherers+before+waves+of+Bantu+peoples+began+emigrating+from+the+north+around+the+10th+century.&pg=PA103|title=African Writers|date=May 2013|publisher=African Books|isbn=978-9987-16-028-0|language=en}}</ref><ref name="Cutter142">Cutter, ''Africa 2006'', p. 142</ref><ref name="StateDept">{{cite web|url=https://2009-2017.state.gov/r/pa/ei/bgn/7231.htm|title=Background Note: Malawi|work=Bureau of African Affairs|publisher=U.S. Department of State|date=11 January 2011|access-date=20 July 2011}}</ref>
+
+د قبيلې غړي له ۱۶۰۰ ز کال څخه لږه موده وروسته د يوه اصلي واکمن تر مشرۍ لاندې په خورا متحد سيمې سره، له پرتګالي سوداګرو او د پوځ له غړو سره مخالفت، سوداګري او د اتحاديو جوړول پيل کړل. تر ۱۷۰۰ ز کال پورې که څه هم سترواکي په سيمو وېشل شوې وه، چې د زياتو انفرادي توکمي ډلو له لورې اداره کېده. د هند سمندر د غلامۍ سوداګري د ۱۸۰۰ په نيمايي کې هغه مهال خپل لوړوالي ته ورسېده، چې نږدې ۲۰۰۰۰ تنه غلامان شول او په پام کې وه، چې په کلني ډول به له “Nkhotakota” او “Kilwa” څخه راوړل کېږي. په يادو سيمو کې غلامان پلورل کېدل. <ref>Davidson, ''Africa in History'', pp. 164–165</ref><ref>{{cite web|url=https://whc.unesco.org/en/tentativelists/5603/|title=Malawi Slave Routes and Dr. David Livingstone Trail – UNESCO World Heritage Centre|website=Whc.unesco.org|date=9 July 2015|access-date=9 February 2016}}</ref>
+
+مذهبي مبلغ او سپړونکی ډېوېډ لېونګسټون (David Livingstone) په ۱۸۵۹ ز کال کې لومړی د مالاوې جهيل او بيا د نيازا جهيل (Lake Nyasa) ته ورسېده او د جهيل سويل ته لوړې سيمې يې اروپايي استوګنې لپاره د مناسبې سيمې په توګه مشخص کړې. د نوموړي د کتنې په پايله کې په ۱۸۶۰ او ۱۸۷۰ ز لسيزو کې په ياده سيمه کې بېلابېل انګليسي او Presbyterian ماموريتونه رامنځته شول. په ۱۸۷۸ ز کال کې د افريقايي جهيلونو د شرکت لمېټډ (African Lakes Company Limited) د سوداګرۍ او لېږد رالېږد اړيکې د جوړولو په موخه رامنځته شوې، چې له ماموريتونو سره يې له نږدې کار کاوه. په ۱۸۷۹ ز کال “Balntyre” کې يوه کوچنۍ ماموريتي او سوداګريزه استوګنه وشوه او يو بریتانوي استازي په ۱۸۸۳ ز کال په کې استوګنه غوره کړه. پرتګالي حکومت هم په سيمه کې ليوالتيا درلوده، چې د پرتګالي نيونې او اشغال د مخنيوي په موخه بریتانوي حکومت په ځينو لارښوونو سره هرري جانسټن (Harry Johnston) د بریتانوي استازي په توګه سيمې ته ولېږه. يادې لارښوونې له پرتګالي د قانوني واک تر شا له سيمه ییزو واکمنانو سره د تړونونو د کولو په اړه وې. <ref>John G Pike, (1969). Malawi: A Political and Economic History, London, Pall Mall Press pp.77–9, 83–4.</ref>
+
+په ۱۸۸۹ ز کال کې د “Shire” پر لوړو ځمکو باندې بریتانوي قيموميت اعلان شو، چې په ۱۸۹۱ز کال  کې دومره پراخه شو، چې نننۍ مالاوې سيمه يې د بریتانيې د مرکزي افريقا د سرپرستې په توګه راونغاړله. په ۱۹۰۷ ز کال کې تر قيموميت لاندې ياده سيمه “Nyasaland” ونومول شوه، چې ياد نوم يې د بریتانيې تر واک لاندې خپل وخت لپاره وساته. په يوه غوره بېلګه کې چې ځيني وختونه يې په افريقا کې د استعماري واک «نرۍ سپينه کرښه : Thin White Line» بولي، د نيازالېنډ استعماري حکومت په ۱۸۹۱ ز کال کې جوړ شو. مديرانو ته ۱۰۰۰۰ يورو (د ۱۸۹۱ز کال  تش په نوم ارزښت) کلنۍ بوديجه ورکړل شوه، چې د لس اروپايي ملکي وګړو، دوو پوځي مامورينو، د پنجاب اويا سيکهانو او د “Zanzibar” پينځه اتيا پنډيانو (نوکرانو) لپاره يې بسنه کوله. له دې په شمېر کارکوونکو څځه د يو او دوه ميليونه تر منځ وګړو په لرلو سره د نږدې ۹۴۰۰۰ کېلو متر مربع سيمې د اداره کولو او څار تمه کېدله. <ref>F Axelson, (1967). Portugal and the Scramble for Africa, pp. 182–3, 198–200. Johannesburg, Witwatersrand University Press.</ref><ref name="CA">Murphy, ''Central Africa'', p. xxvii</ref><ref>Reader, ''Africa'', p. 579</ref>
+
+په ورته کال کې غلامي هغه مهال خپل بشپړ پرېکون يا پای ته ورسېده، چې د نازالېنډ لوړ رتبه مامور ښاغلي هرري جانسټن (Sir Harry Johnston) يې په پای ته رسولو کې خپله د پام وړ هڅه وکړه. 
 
 ==ایداري وېش==
 د مالاوي هیواد په درې برخو او ۲۸ ایداري برخو (ولایتونو) وېشل شوی دئ.
