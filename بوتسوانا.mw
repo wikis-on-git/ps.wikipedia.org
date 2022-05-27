@@ -1,82 +1,105 @@
-'''بوتسوانا''' په انګلیسيRepublic of Botswana)  چې رسمي نوم یې '''د بوتسوانا جمهوریت''' دی په [[سویلي افریقا]] کې پروت یو هیواد دی. یاد هیواد ۳۷۰'۶۰۰ کیلومتره مساحت او ۸۳۳'۶۳۹'۱ میلونه وګړي لری، رسمي ژبه یې انګلیسي او پلازمینه یې د [[ګابورون]] ښار دی،  بوتسوانا په ۳۰ د سپمبر ۱۹۶۶م کال له پخوانی [[بریتانیا]] نه خپله خپلواکی ترلاسه کړه.
 {{Infobox country
-| conventional_long_name                = د بوتسوانا هیواد ولسمشریزه
-| common_name                = بوتسوانا
-| native_name                = {{smaller|{{native name|tn|Lefatshe la Botswana}}}}
-| image_flag                = Flag of Botswana.svg
-| image_coat                = Coat of arms of Botswana.svg
-| national_motto                = {{Native name|tn|"Pula!"|italics=off|nolink=yes}}{{سخ}}{{small|"باران"}}
-| national_anthem                = {{Native name|tn|[[Fatshe leno la rona]]|nolink=yes}}{{سخ}}{{small|''دا سیمه دی آباده وي''}}{{سخ}}{{منځ}}[[File:United States Navy Band - Fatshe leno la rona.ogg]]{{پای}}
-| image_map                = Botswana (orthographic projection).svg 
-| map_caption                = {{Map caption|location_color=شنه |region=[[افریقایي ټولنه]] |region_color= په نړۍ کې د بوتسوانا موقیعت شین ټکی}}
-| capital                = [[ګابورون]]
-| coordinates                = {{Coord|24|39.5|S|25|54.5|E|type:city}}
-| largest_city                = پلازمینه
-| official_languages                = [[انګلیسي]] • [[تسوانایي ژبه]]
-| ethnic_groups                = ۸۰٪ [[تسوانایي خلک|تسوانایان]] |۱۰٪ [[کالانګا خلک|کالانګا]] |۳٫۱٪ [[سپین پوستان]] |۲٫۹٪ [[بوشمن]] |۴٪ نور (د شونا او کګالاګادی په ګډون)
-| religion                = ۷۳٪
- [[مسیحیت]] |۲۰٪ [[بی دیني]] |۶٪ [[افریقایي سنتي دینونه]] |۱٪ نور (شامل [[بهایت]]، [[هندوان]]، [[اسلام]]، [[راستافار خزب]])<ref name=pew/>
-| demonym                = [[تسوانایي خلک]]  |Motswana (singular)
-| government_type                = [[دولت|حاکم دولت]] [[ولسي جرګه|پارلماني نظام]] [[جمهوريت|ولسمشریزه]]<ref>{{cite web |title=Africa :: Botswana — The World Factbook - Central Intelligence Agency |url=https://www.cia.gov/library/publications/the-world-factbook/geos/bc.html |website=www.cia.gov |accessdate=17 December 2019}}</ref>
-| leader_title1                = [[ولسمشر]]
-| leader_name1                = [[موکګویتسي ماسیسي]]<ref>{{cite web|url=https://www.bloomberg.com/news/articles/2018-03-28/masisi-to-lead-botswana-as-khama-steps-down-after-decade-at-helm|title=Masisi to Lead Botswana as Khama Steps Down After a Decade|website=www.bloomberg.com|access-date=31 March 2018|archive-url=https://web.archive.org/web/20180401010006/https://www.bloomberg.com/news/articles/2018-03-28/masisi-to-lead-botswana-as-khama-steps-down-after-decade-at-helm|archive-date=1 April 2018|url-status=live}}</ref>
-| leader_title2                = [[لومړی مرستیال]]
-| leader_name2                = [[سلومبر تسوګوان]]
-| leader_title3               = [[د جرګې رئیس|د ملي جرګې مشر]]
-| leader_name3                = پاندو سکیلیماني
-| leader_title4               = بوتسوانا
-| leader_name4                = Terence Rannowane
-| legislature                = [[ولسي جرګه|د بوتسوانا ولسي جرګه]]
-| sovereignty_type                = [[خپلواکي]]
-| sovereignty_note                = له [[بریتانیا]]
-| established_event1                = جوړښت ([[اساسي قانون|د بوتسوانا اساسي قانون]])
-| established_date1                = ۳۰ سپټمبر ۱۹۶۶
-| area_km2                  = ۵۸۱٬۷۳۰
-| area_rank                 = ۴۷ام <!-- Area rank should match [[د هیوادونو نوملړ]] -->
-| area_sq_mi                = ۲۲۴٬۶۱۰ <!--Do not remove per [[تاریخ]]-->
-| area_footnote             =<ref>{{cite report|url = http://www.fao.org/3/a-az171e.pdf | publisher = United Nations Food and Agriculture Organization | website = fao.org | title = Global Forest Resources Assessment 2015 - Country Report - Botswana | page = 9 | date = 2015 | quote = Total Country Area ('000)ha / 58 173}}</ref><!-- 58,173,000 hectares is 581,730 km2 -->
-| percent_water                = ۲٫۷
-| population_estimate                = {{UN Population|Botswana}}{{UN Population|ref}}
-| population_census                = ۲٬۰۲۴٬۹۰۴
-| population_estimate_year                = {{UN Population|Year}}
-| population_estimate_rank                = ۱۴۵ام
-| population_census_year                = ۲۰۱۱
-| population_density_km2                = ۳٫۷
-| population_density_sq_mi                = ۹٫۰۷
-| population_density_rank                = ۲۳۱ام
-| GDP_PPP                = $۴۴٫۳ بیلیون<ref name="imf2019gdp">{{cite web |title=IMF Country Specific Data |url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?sy=2019&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=67&pr1.y=3&c=616&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |accessdate=10 August 2019}}</ref>
-| GDP_PPP_year                = ۲۰۱۹
-| GDP_PPP_rank                =
-| GDP_PPP_per_capita                = $۱۸٬۶۵۴<ref name=imf2019gdp/>
-| GDP_PPP_per_capita_rank                =
-| GDP_nominal                = $۱۹٫۶۵۱ بیلیون<ref name=imf2019gdp/>
-| GDP_nominal_year                = ۲۰۱۹
-| GDP_nominal_rank                =
-| GDP_nominal_per_capita                = $۸٬۲۶۳<ref name=imf2019gdp/>
-| GDP_nominal_per_capita_rank                =
-| Gini                = ۵۳٫۳
-| Gini_year                = ۲۰۱۵
-| Gini_change                = decrease <!--increase/decrease/steady-->
-| Gini_ref                =<ref name="WBgini">{{cite web |url= https://data.worldbank.org/indicator/SI.POV.GINI?locations=BW |title= GINI index (World Bank estimate) |publisher= World Bank |accessdate= 20 April 2019 |archive-url= https://web.archive.org/web/20171213083923/https://data.worldbank.org/indicator/SI.POV.GINI?locations=BW |archive-date= 13 December 2017 |url-status= live |df= dmy-all}}</ref>
-| Gini_rank                =
-| HDI                = ۰٫۷۲۸<!--number only, between 0 and 1-->
-| HDI_year                = ۲۰۱۸<!-- Please use the year to which the data refers, not the publication year-->
-| HDI_change                = increase <!--increase/decrease/steady-->
-| HDI_ref                =<ref name="HDI">{{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme |archive-url=https://web.archive.org/web/20180914203906/http://hdr.undp.org/en/2018-update |archive-date=14 September 2018 |url-status=live}}</ref>
-| HDI_rank                = ۹۴ام
-| currency                = [[د بوتسوانا پولا]]
-| currency_code                = BWP
-| time_zone                = [[د مرکزي افریقا وخت|وخت]]
-| utc_offset                = +۲
-| utc_offset_DST                =
-| time_zone_DST                =
-| date_format                = dd/mm/yyyy
-| drives_on                = [[د موټر چلولو سمت|چپ]]
-| calling_code                = [[+۲۶۷]]
-| cctld                = [[.bw]]
-| official_website                = {{ وبسایټ|http://www.gov.bw/}}
-| today                =
-}}
+| conventional_long_name = د بوتسوانا هیواد ولسمشریزه
+| common_name = بوتسوانا
+| native_name = {{smaller|{{native name|tn|Lefatshe la Botswana}}}}
+| image_flag = Flag of Botswana.svg
+| image_coat = Coat of arms of Botswana.svg
+| national_motto = {{Native name|tn|"Pula!"|italics=off|nolink=yes}}{{سخ}}{{small|"باران"}}
+| national_anthem = {{Native name|tn|[[Fatshe leno la rona]]|nolink=yes}}{{سخ}}{{small|''دا سیمه دی آباده وي''}}{{سخ}}{{منځ}}[[File:United States Navy Band - Fatshe leno la rona.ogg]]{{پای}}
+| image_map = Botswana (orthographic projection).svg
+| map_caption = {{Map caption|location_color=شنه |region=[[افریقایي ټولنه]] |region_color= په نړۍ کې د بوتسوانا موقیعت شین ټکی}}
+| capital = [[ګابورون]]
+| coordinates = {{Coord|24|39.5|S|25|54.5|E|type:city}}
+| largest_city = پلازمینه
+| official_languages = [[انګلیسي]] • [[تسوانایي ژبه]]
+| ethnic_groups = ۸۰٪ [[تسوانایي خلک|تسوانایان]]|۱۰٪ [[کالانګا خلک|کالانګا]]|۳٫۱٪ [[سپین پوستان]]|۲٫۹٪ [[بوشمن]]|۴٪ نور (د شونا او کګالاګادی په ګډون)
+| religion = ۷۳٪
+ [[مسیحیت]]|۲۰٪ [[بی دیني]]|۶٪ [[افریقایي سنتي دینونه]]|۱٪ نور (شامل [[بهایت]]، [[هندوان]]، [[اسلام]]، [[راستافار خزب]])<ref name=pew/>
+| demonym = [[تسوانایي خلک]]|Motswana (singular)
+| government_type = [[دولت|حاکم دولت]] [[ولسي جرګه|پارلماني نظام]] [[جمهوريت|ولسمشریزه]]<ref>{{cite web |title=Africa :: Botswana — The World Factbook - Central Intelligence Agency |url=https://www.cia.gov/library/publications/the-world-factbook/geos/bc.html |website=www.cia.gov |accessdate=17 December 2019}}</ref>
+| leader_title1 = [[ولسمشر]]
+| leader_name1 = [[موکګویتسي ماسیسي]]<ref>{{cite web|url=https://www.bloomberg.com/news/articles/2018-03-28/masisi-to-lead-botswana-as-khama-steps-down-after-decade-at-helm|title=Masisi to Lead Botswana as Khama Steps Down After a Decade|website=www.bloomberg.com|access-date=31 March 2018|archive-url=https://web.archive.org/web/20180401010006/https://www.bloomberg.com/news/articles/2018-03-28/masisi-to-lead-botswana-as-khama-steps-down-after-decade-at-helm|archive-date=1 April 2018|url-status=live}}</ref>
+| leader_title2 = [[لومړی مرستیال]]
+| leader_name2 = [[سلومبر تسوګوان]]
+| leader_title3 = [[د جرګې رئیس|د ملي جرګې مشر]]
+| leader_name3 = پاندو سکیلیماني
+| leader_title4 = بوتسوانا
+| leader_name4 = Terence Rannowane
+| legislature = [[ولسي جرګه|د بوتسوانا ولسي جرګه]]
+| sovereignty_type = [[خپلواکي]]
+| sovereignty_note = له [[بریتانیا]]
+| established_event1 = جوړښت ([[اساسي قانون|د بوتسوانا اساسي قانون]])
+| established_date1 = ۳۰ سپټمبر ۱۹۶۶
+| area_km2 = ۵۸۱٬۷۳۰
+| area_rank = ۴۷ام <!-- Area rank should match [[د هیوادونو نوملړ]] -->
+| area_sq_mi = ۲۲۴٬۶۱۰ <!--Do not remove per [[تاریخ]]-->
+| area_footnote = <ref>{{cite report|url = http://www.fao.org/3/a-az171e.pdf | publisher = United Nations Food and Agriculture Organization | website = fao.org | title = Global Forest Resources Assessment 2015 - Country Report - Botswana | page = 9 | date = 2015 | quote = Total Country Area ('000)ha / 58 173}}</ref><!-- 58,173,000 hectares is 581,730 km2 -->
+| percent_water = ۲٫۷
+| population_estimate = {{UN Population|Botswana}}{{UN Population|ref}}
+| population_census = ۲٬۰۲۴٬۹۰۴
+| population_estimate_year = {{UN Population|Year}}
+| population_estimate_rank = ۱۴۵ام
+| population_census_year = ۲۰۱۱
+| population_density_km2 = ۳٫۷
+| population_density_sq_mi = ۹٫۰۷
+| population_density_rank = ۲۳۱ام
+| GDP_PPP = $۴۴٫۳ بیلیون<ref name="imf2019gdp">{{cite web |title=IMF Country Specific Data |url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?sy=2019&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=67&pr1.y=3&c=616&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |accessdate=10 August 2019}}</ref>
+| GDP_PPP_year = ۲۰۱۹
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $۱۸٬۶۵۴<ref name=imf2019gdp/>
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = $۱۹٫۶۵۱ بیلیون<ref name=imf2019gdp/>
+| GDP_nominal_year = ۲۰۱۹
+| GDP_nominal_rank = 
+| GDP_nominal_per_capita = $۸٬۲۶۳<ref name=imf2019gdp/>
+| GDP_nominal_per_capita_rank = 
+| Gini = ۵۳٫۳
+| Gini_year = ۲۰۱۵
+| Gini_change = decrease <!--increase/decrease/steady-->
+| Gini_ref = <ref name="WBgini">{{cite web |url= https://data.worldbank.org/indicator/SI.POV.GINI?locations=BW |title= GINI index (World Bank estimate) |publisher= World Bank |accessdate= 20 April 2019 |archive-url= https://web.archive.org/web/20171213083923/https://data.worldbank.org/indicator/SI.POV.GINI?locations=BW |archive-date= 13 December 2017 |url-status= live |df= dmy-all}}</ref>
+| Gini_rank = 
+| HDI = ۰٫۷۲۸<!--number only, between 0 and 1-->
+| HDI_year = ۲۰۱۸<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme |archive-url=https://web.archive.org/web/20180914203906/http://hdr.undp.org/en/2018-update |archive-date=14 September 2018 |url-status=live}}</ref>
+| HDI_rank = ۹۴ام
+| currency = [[د بوتسوانا پولا]]
+| currency_code = BWP
+| time_zone = [[د مرکزي افریقا وخت|وخت]]
+| utc_offset = +۲
+| utc_offset_DST = 
+| time_zone_DST = 
+| date_format = dd/mm/yyyy
+| drives_on = [[د موټر چلولو سمت|چپ]]
+| calling_code = [[+۲۶۷]]
+| cctld = [[.bw]]
+| official_website = {{ وبسایټ|http://www.gov.bw/}}
+| today = 
+}}'''بوتسوانا''' په انګلیسيRepublic of Botswana)  چې رسمي نوم یې '''د بوتسوانا جمهوریت''' دی په [[سویلي افریقا]] کې پروت یو هیواد دی. یاد هیواد ۳۷۰'۶۰۰ کیلومتره مساحت او ۸۳۳'۶۳۹'۱ میلونه وګړي لری، رسمي ژبه یې انګلیسي او پلازمینه یې د [[ګابورون]] ښار دی،  بوتسوانا په ۳۰ د سپمبر ۱۹۶۶م کال له پخوانی [[بریتانیا]] نه خپله خپلواکی ترلاسه کړه.
+
+'''بوتسوانا''' (/bɒtˈswɑːnə/ (واورئ  )، همداراز په برتانیوۍ انګلیسي کې: /bʊt-, bʊˈtʃw-/)، په رسمي توګه د بوتسوانا جمهوریت (Setswana: Lefatshe la Botswana [lɪˈfatsʰɪ la bʊˈtswana]); په جنوبي افریقا کې په وچه کې راګیر یو هېواد دی. بوتسوانا د توپوګرافۍ له پلوه ډېر هموار دی ، چې ۷۰ سلنه خاوره یې د کالهارۍ دښته ده. دا هېواد په سويل او سويل ختیځ کې د سویلي افریقا سره په لويديځ، شمال کې له نامیبیا او شمال ختیځ ته له زمبابوی سره ګډه پوله لري. نوموړی هېواد د ''کازونګولا'' پل په واسطه د زامبيزي سیند د لنډ سرحد په اوږدو کې له زامبیا سره وصل دی. <ref name="Collins">{{cite web|url=https://www.collinsdictionary.com/dictionary/english/botswana|title=Botswana|work=[[Collins English Dictionary]]|publisher=[[HarperCollins]]|access-date=26 July 2019}}</ref><ref>{{Cite book|url=http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Multinational%20(Zambia-Bostwana)%20-%20AR%20-%20Kazungula%20Bridge%20Project.pdf|title=Kazungula Bridge Project|last=Darwa|first=P. Opoku|publisher=African Development Fund|year=2011|page=Appendix IV|access-date=4 May 2012|archive-url=https://web.archive.org/web/20121114113821/http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Multinational%20(Zambia-Bostwana)%20-%20AR%20-%20Kazungula%20Bridge%20Project.pdf|archive-date=14 November 2012|url-status=dead}}</ref>
+
+د ۳.۲ ملیونه څخه یو څه زیات نفوس په درلودلو سره، بوتسوانا په نړۍ کې یو له خورا لږ نفوس لرونکو هېوادونو څخه دی. شاوخوا ۱۱.۶ سلنه نفوس یې په پلازمینه او لوی ښار ګابورون کې ژوند کوي. پخوا د نړۍ یو له بې وزلو هېوادونو څخه ؤ چې د ۱۹۶۰مې لسیزې په وروستیو کې د سړي پر سر ناخالص تولید(GDP) شاوخوا ۷۰ امریکایي ډالره  ؤ - وروسته له هغه یې ځان د لوړ- منځني ​​​​عاید لرونکي هېواد په توګه بدل کړ چې د نړۍ یو ترټولو ګړندیو مخ پر ودې اقتصاد لرونکو هېوادونو له جملې څخه شمېرل کېږي. <ref>{{Cite web|title=Population, total - Botswana {{!}} Data|url=https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BW|access-date=2021-06-07|website=data.worldbank.org}}</ref><ref>{{Cite web|title=Consolidating Democratic Governance in Southern Africa : Botswana|url=https://www.africaportal.org/publications/consolidating-democratic-governance-in-southern-africa-botswana/|last1=Maundeni|first1=Zibani|last2=Mpabanga|first2=Dorothy|date=2007-01-01|website=Africa Portal|access-date=2020-05-28|last3=Mfundisi|first3=Adam}}</ref>
+
+انسانان یا هومو سیپینز(''Homo sapiens'') په لومړي ځل له ۲۰۰،۰۰۰ کاله دمخه په دغه هېواد کې اوسیدل. د بوتسوانا توکمیزه ډله په عمده توګه د بنتو ژبو ویونکو قومونو څخه وه چې د ۶۰۰ زیږېدیز کال په شاوخوا کې د افریقا سویل ته اوسنۍ بوتسوانا ته کډه شوې وه، چې په قبایلي سیمو کې یې د بزګرانو او څارویو پالونکو په توګه ژوند کاوه. په ۱۸۸۵ز کې، انګریزانو دا سیمه مستعمره کړه او د ''بیچوانالند'' (''Bechuanaland'') په نوم یې تحت الحمایه اعلان کړه. چې د استعمار په له منځه تلو سره، ''بیچوانالند'' د ۱۹۶۶ز کال د سپټمبر په ۳۰مه نېټه تر خپل اوسني نوم لاندې یو خپلواک مشترک المنافع جمهوریت شو.  له هغه وخت راهیسې، دا هېواد د ټاکنو پر بنسټ ولاړ یو جمهوریت دی، چې د لاسوهنو پرته ډیموکراتیکو ټاکنو، ثابت ریکارډ لري او لږترلږه د ۱۹۹۸ز کال راهیسې په افریقا کې د فساد د کچې په درجه بندۍ کې ترټولو ټیټ ځای لري. <ref>{{cite web|url=https://www.transparency.org/research/cpi/overview|title=overview of CPI indices|publisher=[[Transparency International]]|access-date=8 January 2018|archive-url=https://web.archive.org/web/20180108105128/https://www.transparency.org/research/cpi/overview|archive-date=8 January 2018|url-status=live}}</ref><ref>{{Cite web|url=http://generalknowledgefacts.com/2013/09/bechuanaland-was-former-name-of-botswana.html|title=Bechuanaland was the former name of Botswana|website=generalknowledgefacts.com|access-date=20 February 2018|archive-url=https://web.archive.org/web/20150323214332/http://www.generalknowledgefacts.com/2013/09/bechuanaland-was-former-name-of-botswana.html|archive-date=23 March 2015|url-status=dead}}</ref>
+
+په اقتصاد یې کانونه، څاروي او ګرځندویي یا ټورېزم مسلط دي. بوتسوانا د ۲۰۲۱ز کالسر شمېرنې په اساس داخلي ناخالص توليد یا GDP (د پیرودلو ځواک انډول) شاوخوا ۱۸،۱۱۳ ډالره ؤ چې په افریقا کې یو له ترټولو لوړو هېوادونو څخه دی. بوتسوانا د نړۍ ترټولو لوی الماس تولیدونکی هېواد دی. د سړي پر سر ناخالص ملي عاید یې په نسبي ډول لوړ دی (د ځینو اټکلونو له مخې په افریقا کې څلورم لوی ملی ناخالص عاید درلودونکی هېواد دی) چې نوموړي هېواد ته په پرتلیز ډول د ژوند کولو لوړ معیار او د تورې افریقا یا د صحراء د جنوبې افریقا د بشري پراختیا لوړ شاخص وربخښي. <ref>[http://www.nationsonline.org/oneworld/GNI_PPP_of_countries.htm Gross national income (GNI) – Nations Online Project] {{Webarchive|url=https://web.archive.org/web/20090219232439/http://nationsonline.org/oneworld/GNI_PPP_of_countries.htm|date=19 February 2009}}. Nationsonline.org. Retrieved on 27 October 2016.</ref><ref name="cia">{{cite web|title=Botswana|work=The World Factbook|publisher=Central Intelligence Agency|year=2014|url=https://www.cia.gov/the-world-factbook/countries/botswana/|access-date=16 April 2014}}</ref>
+
+بوتسوانا د افریقایي اتحادیې، د سویلي افریقا د ګمرکونو اتحادي، د سویلي افریقا د پرمختیایی ټولنه، د مشترک المنافع هېوادونو، او د ملګرو ملتونو غړې ده. په دغه هېواد کې د اېډز (HIV/AIDS) د ناروغۍ له امله په ناوړه توګه اغیزمن شوی دی. د درملنې لپاره د پروګرامونو د بریالیتوب، او خلکو ته د HIV/AIDS د خپریدو د مخنیوي په اړه د پوهاوي له وړاندې کېدو سره سره ، په ایډز د اخته کسانو شمیر په ۲۰۰۵ کې له ۲۹۰،۰۰۰ څخه په ۲۰۱۳ز کې ۳۲۰،۰۰۰ ته لوړ شو. <sup>: A20</sup> د ۲۰۱۴ کال د آمارو په اساس، بوتسوانا د HIV/AIDS  د خپرېدو دریم لوړ رېټ یا کچه لري، چې نږدې ۲۰٪ نفوس یې په دې ناروغۍ اخته شوی دی. <ref name="Avert">{{cite web|url=http://www.avert.org/aidsbotswana.htm|title=HIV and Aids in Botswana|publisher=Avert International Aids Charity|access-date=21 June 2016|archive-url=https://web.archive.org/web/20090228211140/http://www.avert.org/aidsbotswana.htm|archive-date=28 February 2009|url-status=live}}</ref><ref name="Gap">{{cite web|url=http://files.unaids.org/en/media/unaids/contentassets/documents/unaidspublication/2014/UNAIDS_Gap_report_en.pdf|title=The Gap Report|publisher=UN AIDS|year=2014|location=Geneva|access-date=21 June 2016|url-status=dead|archive-url=https://web.archive.org/web/20160620173755/http://files.unaids.org/en/media/unaids/contentassets/documents/unaidspublication/2014/unaids_gap_report_en.pdf|archive-date=20 June 2016}}</ref>
+
+== تاریخچه ==
+
+=== پخوانی تاریخ ===
+د لرغون پېژندنې کیندنی ښیي چې هومیني(انسانانو) په بوتسوانا کې شاوخوا دوه میلیونه کاله وړاندې ژوند کاوه. د ډبرو وسیلې او د حیواناتو پاتې شوني ښيي چې د هېواد ټولې سیمې لږ تر لږه ۴۰۰،۰۰۰ کاله پخوا د انسانانو له خوا مېشتې شوې وې.  د ۲۰۱۹ په اکتوبر کې، څیړونکو راپور ورکړ چې بوتسوانا شاوخوا ۲۰۰،۰۰۰ کاله دمخه د ټولو لومړنیو عصري انسانانو د زیږون ځای ؤ. <ref>Morton, F.; Ramsay, J. and Mgadla, T. (2008). ''Historical Dictionary of Botswana''. Scarecrow Press, p. 34. {{ISBN|9780810854673}}</ref><ref name="NAT-20191028">{{cite journal|last1=Chan|first1=Eva KF|last2=Timmermann|first2=Axel|author-link2=Axel Timmermann|last3=Baldi|first3=Benedetta F.|last4=Moore|first4=Andy E.|last5=Lyons|first5=Ruth J.|last6=Lee|first6=Sun-Seon|last7=Kalsbeek|first7=Anton MF|last8=Petersen|first8=Desiree C.|last9=Rautenbach|first9=Hannes|last10=Förtsch|first10=Hagen EA|last11=Bornman|first11=MS Riana|last12=Hayes|first12=Vanessa M.|date=28 October 2019|title=Human origins in a southern African palaeo-wetland and first migrations|url=https://www.nature.com/articles/s41586-019-1714-1|journal=[[Nature (journal)|Nature]]|publisher=[[Nature Research]]|volume=575|issue=7781|pmid=31659339|pages=185–189|doi=10.1038/s41586-019-1714-1|bibcode=2019Natur.575..185C|s2cid=204946938|access-date=23 March 2020}}</ref>
+
+د لومړنیو عصري انسانانو لخوا پاتې شوي شواهد لکه د غار نقاشي شاوخوا ۷۳،۰۰۰ کاله لرغونتوب لري. د سویلي افریقا اصلي اوسیدونکي د بوشمین (سان) او خوی خلک وو. دواړو په خویسانو ژبه خبرې کولې، ښکار یې کاوه، په اوږدو واټنونو کې یې راټولول او تجارت کاوه. کله چې مالداري په لومړي ځل شاوخوا ۲۰۰۰ کاله وړاندې سویلي افریقا ته معرفي شوه، څړځای پالنه د اقتصاد یوه لویه ځانګړتیا شوه، ځکه چې په سیمه کې یې لوی واښه لرونکې ځمکې درلودې چې د ټیسيټسې مچانو څخه پاکې وې. <ref name="SA-20191028">{{cite news|last=Woodward|first=Aylin|title=Every person alive today descended from a woman who lived in modern-day Botswana about 200,000 years ago, a new study finds|url=https://www.businessinsider.com/origin-of-modern-humans-botswana-africa-2019-10?r=US&IR=T|date=29 October 2019|work=Business Insider|access-date=11 November 2020}}</ref><ref>{{cite journal|pmid=24953669|year=2014|last1=Staurset|first1=S.|title=Sub-surface movement of stone artefacts at White Paintings Shelter, Tsodilo Hills, Botswana: Implications for the Middle Stone Age chronology of central southern Africa|journal=Journal of Human Evolution|volume=75|pages=153–65|last2=Coulson|first2=S.|doi=10.1016/j.jhevol.2014.04.006}}</ref><ref>Wilmsen, E. (1989) ''Land Filled With Flies: A Political Economy of the Kalahari''. Chicago: Chicago University Press, pp. 71–5. {{ISBN|9780226900155}}</ref> 
+
+دا څرګنده نده چې کله په بنتو ژبه خبرې کونکي خلک لومړی له شمال څخه هېواد ته لاړل، که څه هم ۶۰۰ عیسوی کال یې یو توافقي اټکل دی. په هغه دوره کې، د ننني کلنګا پلرونه هغه ځای ته لاړل چې اوس د هېواد شمال ختیځې سیمې دي. دا پخوانۍ-کلنگایۍ سیمې د زیمبابوې ایالت او همدارنګه د میپونګوبوی ایالت سره نږدې وصل شوې سیمې، له دې منځه د پام وړ د ډبرو له دیوالونو سره ډومبوشابا کنډوالې دي چې چې په اوسط ډول ۱.۸ متره لوړوالی لري او په بوتسوانا کې کلتوري او میراثي ځایونه بلل کېږي چې په اصل کې د لوی زیمبابوې دورې (۱۲۵۰-۱۴۵۰ز) په پای کې اشغال شوي وو. ) دا ځای د سیمې د اوسیدونکو لپاره د درناوي ځای دی او داسې انګيرل کېږي چې سردار یا مشر د غونډۍ په سر کې د خپلو مرستندویانو او معاونینو سره یوځای ژوند کاوه. دا ایالتونه، چې د اوسنۍ بوتسوانا له پولو څخه بهر موقعیت لري، د څارویو لویې رمې چې په ښکاره توګه د اوسنیو ساتل کېدونکو رمو شمېر ته نږدیوالی ښايي په هغه ځای کې ساتل شوې چې اوس مرکزي ولسوالۍ ده. د څارویو د پالنې دا لوی کمپلکس تر ۱۳۰۰ز کال پورې وده وکړه، او داسې بريښي چې د ماپونګوبې له سقوط وروسته بيرته له زوال سره مخ شوې. د دې دورې په بهیر کې، د سوانا ژبې لومړنۍ ډلې، ''بکګلاګادي''، د کالاهاري جنوبي سیمو ته ولاړې. دا ټول بېلابېل خلک له هغو سوداګریزو لارو سره تړلي وو چې د لیمپوپو سیند له لارې د هند بحر ته تللي، او د آسیا څخه د مریو په شان سوداګریزو توکو په لېږدولو سره او په ډېر احتمال یې په بدل کې د عاج(د فیل غاښ)، سرو زرو او د کرګدن د ښکرو په په راوړلو سره بوتسوانا ته لاره موندلې وه. 
+
+د اوسپنې په دورې کې د توتسویموګالا غونډۍ د مېشته کېدو په اړه د راډیو کاربن نيټي له اوومې څخه د ۱۹مې زیږېدیزې پیړۍ تر پایه پورې د مېشته کېدو ښودنه کوي چې د زرو کلونو څخه پکې د انسانانو زیات مېشتوالی په ګوته کوي. داغونډۍ په سویلي افریقا کې د لومړنیو دولتونو د جوړېدلو برخه وه چې د اقتصاد لویه سرچينه یې د څارویو ساتنه وه. د توتسو په استوګنځي کې د کور چتونه، د غوا - سپي ښېښه شوي کوَټې یا امبارونه او ښورې شامل دي په داسې حال کې چې د پام وړ جوړښت د تیږو دیوال دی. د سینټورس سيلیاریس، هغو وښو لویې سیمې شتون لري، چې په سویلي، مرکزي افریقا کې د څارویو ساتلو استوګنځایونو سره تړاو لري. د ۷۰۰ زیږېدیز کال په شاوخوا کی، د توتسوی خلک لویدیځ لور بوتسوانا ته ولاړل او په ترتیب سره یې د وږو لرونکو جواریو او ږدنو کرهنیز، او د اهلي شوو څارویو لپار د څړځایونو سېستم پیل کړ. دغه سیمې په ختیځه بوتسوانا کې د یوې پراخې کلتوري سیمې په مرکز کې موقعیت درلود او د دې سیمې د نورو لرغونو ساحو سره ، د سیرامیکو تولید په مېتود او همدارنګه د استوګنې وخت په چوکاټونو کې زیات شمېر مشترکات لري.  داسې لوی جوړښتونه مشاهده شوي چې د څارویو د مدفوع (خوشایو) ښېښه شوي پاتې شوني پکې شامل دي، نوموړي پاتې شوني هغه تیوري  ځواکمنوي چې دا سیمې د څارویو چاپېریالنه دي او دا چې د توتسویموګالا غونډۍ په دې توګه په سیمه کې د څارویو د پالنې لوی مرکز ؤ. په هرصورت، کرنې هم د توتسویموګالا غونډۍ د پراخ شوي اِسکان په اوږدوالي کې حیاتي رول لوبولی، ځکه چې په سیمه کې د غلو، دانو د زخیرو زیات شمېر جوړښتونه هم موندل شوي. د کور د چتونو بېلابېل پوړونه هم د سلګونو کلونو لپاره د دوامداره مېشتوالی په نښه کوي.<ref>{{cite journal|jstor=181334|doi=10.1017/S0021853700029170|title=A New Look at the Later Prehistory of the Kalahari|journal=The Journal of African History|volume=27|issue=1|pages=3–28|last1=Denbow|first1=James|year=1986|s2cid=163079138}}</ref><ref>{{Cite journal|last1=Denbow|first1=James|last2=Klehm|first2=Carla|last3=Dussubieux|first3=Laure|date=April 2015|title=The glass beads of Kaitshàa and early Indian Ocean trade into the far interior of southern Africa|url=https://www.cambridge.org/core/journals/antiquity/article/glass-beads-of-kaitshaa-and-early-indian-ocean-trade-into-the-far-interior-of-southern-africa/9BB659F4DA38A560EF64C4E8E3F49AFA|journal=Antiquity|language=en|volume=89|issue=344|pages=361–377|doi=10.15184/aqy.2014.50|s2cid=161212483|issn=0003-598X}}</ref>
+
+په سوانا ژبه د خبرو کوونکو وګړو د پلرونو د راتګ نېټه چې سیمې ته د کنټرول لپاره راغلي وو تر اوسه په دقیقه توګه معلومه نه ده. د باکوینا ټولنې غړیو، چې د کاګابو II په نوم د یوه افسانوي مشر تر مشرۍ لاندې د اشرافو یوه ټولنه وه،  د ۱۵۰۰ زیږېديز کال په وروستیو کې سویلي کالاهاري ته لاره پیدا کړه، او د نوموړي پیروانو د بکګلاګادي اوسیدونکي لویدیځ لوري دښتې ته واړول. د کلونو په اوږدو کې، د بکوینا زیات شمېر څانګې مجاورو سیمو ته تللې. بنګواکیټس لویدیځي سیمې ونیولې، په داسې حال کې چې بنګواټو شمال ختیځ ته د پخوانۍ کلنګا سیمو ته ولاړل. لږ وروسته، د بنګواټو یوې څانګې چې د باتوانا په نوم پیژندل کېږي د اوکاوانګو دِلتا ته مهاجرت وکړ، چې ښایي په ۱۷۹۰ز کال کې ؤ. <ref name="Hall2">Hall, Martin (1990), ''Farmers, Kings, and Traders: The People of Southern Africa, 200-1860'', University of Chicago Press. {{ISBN|0-226-31326-3}}.</ref>
+
 ==ایداري وېش==
 د بوتسوانا هیواد په خپل ایداري وېش کې ۹ سیمې او ۵ ښاري بزخې لري.
 [[دوتنه:Botswana districts numbered.png|چپ|تڼۍ|280px]]
