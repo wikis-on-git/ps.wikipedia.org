@@ -1,20 +1,17 @@
-'''اوګاندا''' په انګلیسي Uganda) رسمي نوم د اوګاندا جمهوریت [[د ویکتوریا سمندرګی]] په غاړه د [[افریقا]] لوی وچه مرکز په ختیځه برخه کې پروت هیواد دی. د اوګاندا پلازمینه [[کامپالا]] او ګاونګي هیوادونه یې [[سویلي سوډان]]، [[کانګو جمهوریت]]، [[راونډا]]، [[بروندي]]، [[تانزانیا]]، او [[کېنيا]] دي. اوګاندا ۰۴۰'۲۳۶ کیلومتره مساحت او ۰۰۰'۸۲۴'۳۶ وګړي لري. [[د اوګاندا شیلینګ]] د نوموړی هیواد د پیسو واحد دی.
-
-
 {{Infobox country
-|conventional_long_name =Republic of Uganda<ref name="Republic">{{Cite web|url=http://www.parliament.go.ug/new/images/stories/constitution/Constitution_of_Uganda_1995.pdf|title=Article 5, Chapter 2, Constitution of Uganda, 1995, accessed 17 January 2017}}</ref>
-|common_name = Uganda
-|native_name = {{Native name|sw|Jamhuri ya Uganda}}
-|image_flag = Flag of Uganda.svg
-|image_coat = Coat of arms of Uganda.svg
-|national_motto = {{Nowrap|"د خدای او هیواد لپاره"}}{{سخ}}{{Nowrap|"kwa mungu na nchi yangu"}}
-|national_anthem = "[[ملي سرود|ای اوګاندا، ښکلې خاورې]]" {{}}[[دوتنه:Ugandan national anthem, performed by the U.S. Navy Band.ogg]]{{پای}}
-|image_map = {{Switcher|[[دوتنه:Uganda (orthographic projection).svg|frameless]]|Show globe|[[دوتنه:Location Uganda AU Africa.svg|frameless]]|Show map of Africa|default=۱}}
-|map_caption =
-|image_map2 =
-|capital = [[کامپالا]]
-|largest_city = پلازمینه
-|official_languages = [[لوګاندایي ژبه]]{{سخ}}[[انګلیسي]]{{سخ}}[[سواحلي ژبه]]<ref>{{cite web
+| conventional_long_name = Republic of Uganda<ref name="Republic">{{Cite web|url=http://www.parliament.go.ug/new/images/stories/constitution/Constitution_of_Uganda_1995.pdf|title=Article 5, Chapter 2, Constitution of Uganda, 1995, accessed 17 January 2017}}</ref>
+| common_name = Uganda
+| native_name = {{Native name|sw|Jamhuri ya Uganda}}
+| image_flag = Flag of Uganda.svg
+| image_coat = Coat of arms of Uganda.svg
+| national_motto = {{Nowrap|"د خدای او هیواد لپاره"}}{{سخ}}{{Nowrap|"kwa mungu na nchi yangu"}}
+| national_anthem = "[[ملي سرود|ای اوګاندا، ښکلې خاورې]]" {{}}[[دوتنه:Ugandan national anthem, performed by the U.S. Navy Band.ogg]]{{پای}}
+| image_map = {{Switcher|[[دوتنه:Uganda (orthographic projection).svg|frameless]]|Show globe|[[دوتنه:Location Uganda AU Africa.svg|frameless]]|Show map of Africa|default=۱}}
+| map_caption = 
+| image_map2 = 
+| capital = [[کامپالا]]
+| largest_city = پلازمینه
+| official_languages = [[لوګاندایي ژبه]]{{سخ}}[[انګلیسي]]{{سخ}}[[سواحلي ژبه]]<ref>{{cite web
   |url=https://www.parliament.go.ug/cmis/views/87694c9d-0255-4d29-bf41-d89407bfc287;1.0
   |title=Constitutional Amendment Act 2005
   |author=Parliament of the Republic of Uganda
@@ -23,10 +20,10 @@
   |publisher=Republic of Uganda
   |access-date=2020-08-28
   |quote=§I.3:6.(2): ‘Swahili shall be the second official language in Uganda to be used in such circumstances as Parliament may by law prescribe. ’}}</ref>
-|ethnic_groups =
-|ethnic_groups_year =
-|demonym = Ugandan<ref name=cia/>
-| religion                = {{ ‌|item_style=white-space:nowrap;
+| ethnic_groups = 
+| ethnic_groups_year = 
+| demonym = Ugandan<ref name=cia/>
+| religion = {{ ‌|item_style=white-space:nowrap;
   |۸۴٫۴٪ [[مسیحیت]]
   |—۳۹٫۳٪ [[کاتولیک]]
   |—۳۲٫۰٪ [[انګلیکان]]
@@ -35,62 +32,96 @@
   |۰٫۲٪ [[بی‌ دیني]]
   |۱.۷% نور
 }}
-| religion_year                = 2014 census
-| religion_ref                =<ref name="census-2014">[http://www.ubos.org/onlinefiles/uploads/ubos/NPHC/2014%20National%20Census%20Main%20Report.pdf Census 2014 Final Results]</ref>
-|government_type = [[حکومت]] [[حاکم نظام]] [[ولسمشریز]] [[ولسمشریزه]]
-|leader_title1 = [[ولسمشر]]
-|leader_name1 = [[یووری موسوني]]
-|leader_title2 = [[مرستیال ولسمشر]]
-|leader_name2 = [[اډوارډ سکاندي]]
-|leader_title3 = [[لومړی وزیر]]
-|leader_name3 = [[روحانا روګوندا]]
-|legislature = [[ولسي جرګه]]
-|sovereignty_type = خپلواکي
-|established_event1 = له [[بریتانیا]]
-|established_date1 = ۹ اکتوبر ۱۹۶۲
-|established_event2 =  اساسي قانون
-|established_date2 = ۸ اکتوبر ۱۹۹۵
-|area_km2 = ۲۴۱٬۰۳۸
-|area_rank = ۷۹ام <!-- Area rank should match [[جغرافیه]]-->
-|area_sq_mi = ۹۳٬۰۶۵
-|percent_water = ۱۵٫۳۹
-|population_estimate = {{UN Population|Uganda}}{{UN Population|ref}}
-|population_estimate_year = {{UN Population|Year}}
-|population_census = ۳۴٬۶۳۴٬۶۵۰<ref>{{cite web |url=http://www.ubos.org/onlinefiles/uploads/ubos/NPHC/NPHC%202014%20FINAL%20RESULTS%20REPORT.pdf|title=Republic of Uganda – Census 2014 – Final Report |at=Table 2.1 page 8 |publisher=|access-date=19 September 2016|archive-url=https://web.archive.org/web/20160919151139/http://www.ubos.org/onlinefiles/uploads/ubos/NPHC/NPHC%202014%20FINAL%20RESULTS%20REPORT.pdf|archive-date=19 September 2016|url-status=dead}}</ref>
-|population_estimate_rank = ۳۵ام
-|population_census_year = ۲۰۱۴
-|population_density_km2 = ۱۵۷٫۱
-|population_density_sq_mi = ۴۰۶٫۹ <!--Do not remove per [[اقتصاد]]-->
-|population_density_rank =
-|GDP_PPP = $۱۰۲٫۶۵۹ بیلیونه<ref name=imf2>{{cite web | url=https://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=75&pr.y=5&sy=2015&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=746&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a=| title=Uganda | publisher=International Monetary Fund | accessdate=13 July 2019}}</ref>
-|GDP_PPP_year = ۲۰۱۹
-|GDP_PPP_rank =
-|GDP_PPP_per_capita = $۲٬۵۶۶<ref name=imf2/>
-|GDP_PPP_per_capita_rank =
-|GDP_nominal = $۳۰٫۷۶۵ بیلیونه<ref name=imf2/>
-|GDP_nominal_year = ۲۰۱۹
-|GDP_nominal_rank =
-|GDP_nominal_per_capita = $۷۶۹<ref name=imf2/>
-|GDP_nominal_per_capita_rank =
-|Gini = ۴۱٫۰۱ <!--number only-->
-|Gini_year = ۲۰۱۲
-|Gini_change = decrease<!--increase/decrease/steady-->
-|Gini_ref =<ref name="wb-gini">{{cite web | url=http://data.worldbank.org/indicator/SI.POV.GINI?locations=UG | title=Gini index (World Bank estimate) | publisher=World Bank | accessdate=17 January 2017}}</ref>
-|Gini_rank =
-|HDI = ۰٫۵۲۸ <!--number only-->
-|HDI_year = ۲۰۱۸<!-- Please use the year to which the data refers, not the publication year-->
-|HDI_change = increase<!--increase/decrease/steady-->
-|HDI_ref =<ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[ملګري ملتونه ]]|date=10 December 2019|accessdate=10 December 2019|format=PDF|archive-date=19 مې 2020|archive-url=https://web.archive.org/web/20200519100725/http://hdr.undp.org/en/content/2019-human-development-index-ranking}}</ref>
-|HDI_rank = 159th
-|currency = [[د اوګاندا شیلینګ]]
-|currency_code = UGX
-|time_zone = [[د ختیځې افریقا وخت]]
-|utc_offset = +۳
-|drives_on = [[د موټر چلونې لوری]]
-|calling_code = [[+256]]<sup>a</sup>
-|cctld = [[.ug]]
-|footnote_a = +۰۰۶ له [[کینیا]] او [[تانزانیا]].
-}}
+| religion_year = 2014 census
+| religion_ref = <ref name="census-2014">[http://www.ubos.org/onlinefiles/uploads/ubos/NPHC/2014%20National%20Census%20Main%20Report.pdf Census 2014 Final Results]</ref>
+| government_type = [[حکومت]] [[حاکم نظام]] [[ولسمشریز]] [[ولسمشریزه]]
+| leader_title1 = [[ولسمشر]]
+| leader_name1 = [[یووری موسوني]]
+| leader_title2 = [[مرستیال ولسمشر]]
+| leader_name2 = [[اډوارډ سکاندي]]
+| leader_title3 = [[لومړی وزیر]]
+| leader_name3 = [[روحانا روګوندا]]
+| legislature = [[ولسي جرګه]]
+| sovereignty_type = خپلواکي
+| established_event1 = له [[بریتانیا]]
+| established_date1 = ۹ اکتوبر ۱۹۶۲
+| established_event2 = اساسي قانون
+| established_date2 = ۸ اکتوبر ۱۹۹۵
+| area_km2 = ۲۴۱٬۰۳۸
+| area_rank = ۷۹ام <!-- Area rank should match [[جغرافیه]]-->
+| area_sq_mi = ۹۳٬۰۶۵
+| percent_water = ۱۵٫۳۹
+| population_estimate = {{UN Population|Uganda}}{{UN Population|ref}}
+| population_estimate_year = {{UN Population|Year}}
+| population_census = ۳۴٬۶۳۴٬۶۵۰<ref>{{cite web |url=http://www.ubos.org/onlinefiles/uploads/ubos/NPHC/NPHC%202014%20FINAL%20RESULTS%20REPORT.pdf|title=Republic of Uganda – Census 2014 – Final Report |at=Table 2.1 page 8 |publisher=|access-date=19 September 2016|archive-url=https://web.archive.org/web/20160919151139/http://www.ubos.org/onlinefiles/uploads/ubos/NPHC/NPHC%202014%20FINAL%20RESULTS%20REPORT.pdf|archive-date=19 September 2016|url-status=dead}}</ref>
+| population_estimate_rank = ۳۵ام
+| population_census_year = ۲۰۱۴
+| population_density_km2 = ۱۵۷٫۱
+| population_density_sq_mi = ۴۰۶٫۹ <!--Do not remove per [[اقتصاد]]-->
+| population_density_rank = 
+| GDP_PPP = $۱۰۲٫۶۵۹ بیلیونه<ref name=imf2>{{cite web | url=https://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=75&pr.y=5&sy=2015&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=746&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a=| title=Uganda | publisher=International Monetary Fund | accessdate=13 July 2019}}</ref>
+| GDP_PPP_year = ۲۰۱۹
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $۲٬۵۶۶<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = $۳۰٫۷۶۵ بیلیونه<ref name=imf2/>
+| GDP_nominal_year = ۲۰۱۹
+| GDP_nominal_rank = 
+| GDP_nominal_per_capita = $۷۶۹<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 
+| Gini = ۴۱٫۰۱ <!--number only-->
+| Gini_year = ۲۰۱۲
+| Gini_change = decrease<!--increase/decrease/steady-->
+| Gini_ref = <ref name="wb-gini">{{cite web | url=http://data.worldbank.org/indicator/SI.POV.GINI?locations=UG | title=Gini index (World Bank estimate) | publisher=World Bank | accessdate=17 January 2017}}</ref>
+| Gini_rank = 
+| HDI = ۰٫۵۲۸ <!--number only-->
+| HDI_year = ۲۰۱۸<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase<!--increase/decrease/steady-->
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[ملګري ملتونه ]]|date=10 December 2019|accessdate=10 December 2019|format=PDF|archive-date=19 مې 2020|archive-url=https://web.archive.org/web/20200519100725/http://hdr.undp.org/en/content/2019-human-development-index-ranking}}</ref>
+| HDI_rank = 159th
+| currency = [[د اوګاندا شیلینګ]]
+| currency_code = UGX
+| time_zone = [[د ختیځې افریقا وخت]]
+| utc_offset = +۳
+| drives_on = [[د موټر چلونې لوری]]
+| calling_code = [[+256]]<sup>a</sup>
+| cctld = [[.ug]]
+| footnote_a = +۰۰۶ له [[کینیا]] او [[تانزانیا]].
+}}'''اوګاندا''' په انګلیسي Uganda) رسمي نوم د اوګاندا جمهوریت [[د ویکتوریا سمندرګی]] په غاړه د [[افریقا]] لوی وچه مرکز په ختیځه برخه کې پروت هیواد دی. د اوګاندا پلازمینه [[کامپالا]] او ګاونګي هیوادونه یې [[سویلي سوډان]]، [[کانګو جمهوریت]]، [[راونډا]]، [[بروندي]]، [[تانزانیا]]، او [[کېنيا]] دي. اوګاندا ۰۴۰'۲۳۶ کیلومتره مساحت او ۰۰۰'۸۲۴'۳۶ وګړي لري. [[د اوګاندا شیلینګ]] د نوموړی هیواد د پیسو واحد دی.
+
+یوګاندا (په يوګاندايي ژبه «یوګاندا») په رسمي ډول د يوګاندا جمهوریت (په سواحلي ژبه: جمهوریه یوګاندا/''Jamhuri ya Uganda'') د افریقا په ختيځ کې په وچه کې پروت هېواد دی. دا هېواد له ختيځ څخه له کينیا، له شمال څخه له سویلي سودان، له لویديځ څخه د کانګو له ديموکراتیک جمهوریت، له سویل لویديځ څخه له رواندا او له سویل څخه له تانزانیا سره ګاونډی دی. د هېواد په سویلي برخه کې د پام وړ کچه د ویکتوریا سیند شاملېږي چې له کینیا او تانزانیا سره مشترک دی. یوګاندا د افریقا د لویو سیندونو په سیمه کې پرته ده. یوګاندا همدارنګه د نيل په حوزه کې هم پرته ده. اقلیم یې متنوع خو عموماً بدل شوی استوایي دی. له ۴۲ میلیونه څخه زیات نفوس لري چې له دې څخه ۸.۵ میلیونه یې په تر ټولو لوی ښار او پلازمېنه کامپالا کې ژوند کوي.  <ref>{{cite book|title=Britannica Book of the Year 2014|date=1 March 2014|publisher=Encyclopedia Britannica, Inc.|isbn=978-1-62513-171-3|page=745|url=https://books.google.com/books?id=LccRAwAAQBAJ&dq=Jamhuri+ya+Uganda+swahili&pg=PA745|access-date=2 December 2021|language=en}}</ref>
+
+د يوګاندا نوم د بوګاندا تر پاچهۍ وروسته اېښودل شوی، چې د پلازمېنې کامپالا په ګډون د هېواد لویه سویلي برخه په کې شاملېږي. د ۱۸۹۴ز کال له پيل راهیسې دا سیمه د یوه تحت الحمایه هېواد په توګه د بریتانیا له خوا اداره کېده، چې په ټول قلمرو کې يې اداري قوانین وضع کړل. یوګاندا د ۱۹۶۲ ز کال د اکتوبر په ۹ له بریتانیا څخه خپله خپلواکي ترلاسه کړه. دا دوره هغه مهال له تاوتریخوالي سره مل نښتو، لکه: د ايډي امین په مشرۍ يوې ۸ کلنه پوځي دیکتاتورۍ سره مشخصه شوې ده.  
+
+رسمي ژبې يې سواحلي او انګلیسي دي، که څه هم اساسي قانون وايي چې:«هره بله ژبه په ښوونځيو یا ګڼو نورو مؤسساتو یا د قانوني، اداري یا قضايي موخو لپاره چې ښايي د قانون په واسطه تجویز شي، د ښوونیزې وسیلې په توګه کارېدلی شي» لوګاندا د مرکزي سیمې پر بنسټ ژبه ده چې په پراخ ډول په مرکزي او سویل ختیځو سیمو کې ویل کېږي. د لانګو، اچولي، رونیور، رونیاکوله، روکیګا، لو، روتورو، سامیا، جوپاډولا او لوسګا په ګډون په څو نورو ژبو هم خبرې کېږي. <ref name="cia">{{cite web|author=Central Intelligence Agency|publisher=[[The World Factbook]]|title=Uganda|url=https://www.cia.gov/the-world-factbook/countries/uganda/|year=2009|access-date=23 January 2010}}</ref><ref name="Constitution (Amendment) Act 2005">{{cite web|url=http://www.parliament.go.ug/images/stories/constitution/Constitutional_Amendment_Act,_2005.pdf|title=The Constitution (Amendment) Act 2005|access-date=17 January 2017}}{{Dead link|date=August 2019|bot=InternetArchiveBot|fix-attempted=yes}}</ref>
+
+د یوګاندا اوسنی ولسمشر یووري کاګوتا موسویني دی چې د ۱۹۸۶ز کال په جنوري کې تر یوې شپږ کلنې چریکي جګړې وروسته یې واک تر لاسه کړ. هغه وکولی شول، د اساسي قانون تر سموونې وروسته چې د ولسمشرۍ محدودیتونه یې لرې کړل، د ۲۰۱۱، ۲۰۱۶ او ۲۰۲۱ زکال په ټاکنو کې د يوګاندا د ولسمشر په توګه وټاکل شي.  <ref>{{cite web|url=https://freedomhouse.org/report/freedom-world/2019/uganda|title=Uganda|date=30 January 2019|website=freedomhouse.org|access-date=22 May 2019|archive-date=29 September 2019|archive-url=https://web.archive.org/web/20190929074232/https://freedomhouse.org/report/freedom-world/2019/uganda|url-status=dead}}</ref>
+
+== تاريخچه ==
+
+=== تر استعمار مخکې یوګاندا ===
+مخکې له دې چې ۳۰۰۰ کاله وړاندې له میلاد څخه مخکې په ۱۰۰۰ کال کې بانټو ژبي د اوګاندا سویل او همدارنګه له میلاد څخه مخکې په ۱۰۰۰ ز کال کې د اوګاندا شمال ختیځ ته نیلوتیک ویناوال د ننه شي، د یوګاندا ډېره برخه د مرکزي سوډان او کولیاک ژبو کروندګرو او مالدارانو له خوا د اوسېدو وړ ګرځېدلې وه. له میلاد څخه وروسته په ۱۵۰۰ ز کال کې دا ټول د بانټو ژبو په کلتورونو کې د الګون غره په سویل، نیل سیند او د کیوګاه په سینګي کې جذب شول.<ref>{{Cite journal|url=https://www.jstor.org/stable/183030|jstor=183030|title=We Are What We Eat: Ancient Agriculture between the Great Lakes|last1=Schoenbrun|first1=David L.|journal=The Journal of African History|year=1993|volume=34|issue=1|pages=1–31|doi=10.1017/S0021853700032989|s2cid=162660041}}</ref>
+
+د لرغون پېژندنې د مطالعاتو او شفاهي دودونو پر بنسټ د کېتارا سترواکي د لویو جهیلونو مهمه برخه، د البېرت او کیوګا له شمالي جهیل څخه د وېکتوریا او تانګانېکا تر سویلي جهیل پورې سیمه پوښلې وه. ادعا کېږي چې بونیورو - کېتارا د تورو، انکولي او بوسوګا پاچاهیو تر ټولو لرغونې پاچهي وه.<ref>{{cite book|last=Mwakikagile|first=Godfrey|title=Ethnicity and National Identity in Uganda: The Land and Its People|date=2009|publisher=New Africa Press|page=87|isbn=9789987930876|url=https://books.google.com/books?id=uZFrWECQ-PgC&q=bachwezi+empire&pg=PA87}}</ref><ref name="Mwambutsya">{{cite journal|author=Mwambutsya, Ndebesa|url=http://www.ossrea.net/eassrr/jan91/mwambuts.htm|archive-url=https://web.archive.org/web/20080131112357/http://www.ossrea.net/eassrr/jan91/mwambuts.htm|archive-date=31 January 2008|title=Pre-capitalist Social Formation: The Case of the Banyankole of Southwestern Uganda|journal=Eastern Africa Social Science Research Review|volume=6|issue=2; 7 no. 1|date=June 1990 – January 1991|pages=78–95}}</ref>
+
+ځینې لیویانو د بونیورو پر سیمه یرغل وکړ او هلته د بانټو له ټولنې سره جذب شول او د بنیورو - کېترا د اوسني واکمن (اوکومارا) کورنۍ يې رامنځته کړه.<ref name="babito">{{cite web|url=http://www.bunyoro-kitara.com/history2.htm|title=Origins of Bunyoro-Kitara Kings|access-date=10 December 2006|url-status=dead|archive-url=https://web.archive.org/web/20061210003812/http://www.bunyoro-kitara.com/history2.htm#The%20Babiito|archive-date=10 December 2006}}, bunyoro-kitara.com.</ref>
+
+په ۱۸۳۰ ز لسیزه کې عرب سوداګر، د تجارت او سوداګرۍ لپاره د افریقا په ختیځ کې له هند سمندر څخه هېواد ته د ننه شول. د ۱۸۶۰ ز لسیزې په وروستیو کې بنیورو د اوګاندا په منځني- لویدیځ کې  ځان له شمال څخه د مصر په ملاتړ لاملونو له ګواښ سره مخامخ وليده.  دې لاملونو/ اجنټانو د عرب سوداګرو خلاف چې د افریقا له ختیځو ساحلونو څخه د سوداګرۍ په لټه کې و، د بهرني تسخیر دغو عواملو ته وده ورکوله. په ۱۸۶۹ ز کال کې د مصر پاچا خدیو اسماعیل د وېکتوریا خلیج د شمالي او البېرت خلیج د ختیځ او د ګوندوکورو د سویل قلمرونو د الحاق په لټه د سمویل بېکر  په نوم یو بریتانوی کاشف او یو پوځي لښکر لېږد د شمالي اوګاندا  پولو ته د غلامانو د سوداګرۍ د ځپلو او هلته د سوداګرۍ لپاره لار پرانیستلو او متمدن کېدلو په موخه ولېږه. بانیورو د بېکر پر وړاندې مقاومت وکړ او هغه یې دې ته اړ کړ چې د خپل خوندي شاتګ لپاره یوه ناهیلې جګړه مخته یوسي. بېکر مقاومت له خیانت سره مل اقدام وباله او د ( اسماعلیه - د غلامانو د سوداګرۍ ځپلو په موخه مرکزي افریقا ته د تللو روایت، د مصر د اسماعیل خدیو له خوا سازمان شوی) په نوم کتاب کې يې چې په ۱۸۷۴ ز کال کې خپور شو او په بریتانیا کې په پراخ ډول مطالعه کېده، دا عمل محکوم کړ.  وروسته انګرېزان د بونیورو ضد تمایل سره  له بوګاندا څخه یوګاندا ته د ننه شول چې په پای کې يې د پاچهۍ د نیمې خاورې په بیه پرېوته چې د بریتانیا له خوا یوګاندا ته د ډالۍ په توګه ورکړل شوې وه. دوه ورکې شوې ګڼ شمېره اختلافي سیمې تر خپلواکۍ وروسته بونیورو ته وروګرځول شوې. <ref>{{Cite web|title=The Uganda journal|url=https://ufdc.ufl.edu/UF00080855/00026/28j|access-date=2021-01-01|website=ufdc.ufl.edu|language=en}}</ref><ref>{{Cite web|title=The Uganda journal|url=https://ufdc.ufl.edu/UF00080855/00029/9j|access-date=2021-01-02|website=ufdc.ufl.edu|language=en}}</ref><ref name="Baker 1879">{{Cite book|last=Baker|first=Samuel White|url=http://archive.org/details/ismailianarrativ00bake|title=Ismailia; a narrative of the expedition to Central Africa for the suppression of the slave trade, organized by Ismail, Khedive of Egypt|date=1879|publisher=London, Macmillan|others=Robarts - University of Toronto}}</ref>
+
+په ۱۸۶۹ ز لسیزه کې په داسې حال کې چې عرب له شمال څخه د نفوذ په لټه کې وو، بریتانوي کاشفان د نیل د سرچینې په لټه اوګاندا ته ورسېدل. تر هغوی وروسته په ۱۸۷۷ ز کال کې بریتانوي انګرېز تبلیغیان او په ۱۸۷۹ ز کال کې فرانسوي کاتولیک تبلیغیان بوګاندا ته د ننه شول. وروسته له دې چې اول موتیسا او د هغه د دربار ډېری خلکو خپل دین بدل کړ، د هغه زوی موانګا چې د عیسویت ضد و، د هغه ځای ناستی شو. دا حالت په ۱۸۸۵ ز کال کې د یوګاندا د شهیدانو د مړینې لامل شو. <ref name="Stanley">Stanley, H. M., 1899, Through the Dark Continent, London: G. Newnes, {{ISBN|0486256677}}</ref><ref name="Background">{{cite web|url=https://2001-2009.state.gov/r/pa/ei/bgn/2963.htm|title=Background Note: Uganda|publisher=Bureau of African Affairs, United States Department of State|date=November 2008|access-date=21 January 2017}}</ref>
+
+د بریتانیا دولت په سیمه کې د سوداګرۍ په اړه د مذاکرې لپاره د بریتانیا د سترواکۍ د ختيځې افریقا شرکت (IBEAC) په ۱۸۸۸ز کال کې تصویب کړ. <ref name="Snakes">{{Cite book|title=Two Kingdoms of Uganda: Snakes and Ladders in the Scramble for Africa|last=Pulford|first=Cedric|publisher=Ituri Publications|year=2011|location=Daventry}}</ref>
+
+له ۱۸۸۶ ز کال څخه په بوګاندا کې د مذهبي جګړو لړۍ لومړی د مسلمانانو او عیسویانو او وروسته له ۱۸۹۰ ز کال څخه د با-انګلېزا (ba-Ingleza) د پروتېستانو او د با-فرانسا (ba-Fransa) د کاتولیکانو تر منځ پېښې شوې دي. د مدني ناکراریو او مالي بار له امله IBEAC ادعا وکړه چې په سیمه کې خپل اشغال نه شي ساتلی. د نیل سیند د سوداګریزو لارو د خوندیتوب لپاره د بریتانیا سوداګریزې ګټې سختې وې، چې د بریتانیا دولت یې اړ کړ، تر څو بوګاندا او شاوخوا سیمې یې سره ضیمه کړي او په ۱۸۹۴ ز کال کې د یوګاندا تحت الحمایه رامنځته کړي.   <ref>{{cite web|url=http://hansard.millbanksystems.com/commons/1893/feb/06/adjourned-debate|title=House of Commons: Address In Answer To Her Majesty's Most Gracious Speech – Adjourned Debate|date=6 February 1893|access-date=17 January 2017|author=J. H. Kennaway|publisher=Commons and Lords Hansard}}</ref><ref>{{Cite journal|title=The Arms Trade in East Africa in the Late Nineteenth Century|last=Beachey|first=R. W.|date=1962|journal=The Journal of African History|volume=3|issue=3|page=451|doi=10.1017/s0021853700003352|s2cid=162601116}}</ref><ref>Gordon Martel, "Cabinet politics and African partition: The Uganda debate reconsidered." ''Journal of Imperial and Commonwealth History'' 13.1 (1984): 5-24.</ref><ref name="Snakes2">{{Cite book|title=Two Kingdoms of Uganda: Snakes and Ladders in the Scramble for Africa|last=Pulford|first=Cedric|publisher=Ituri Publications|year=2011|location=Daventry}}</ref>
+
+=== د یوګاندا تحت الحمایه (۱۸۹۴-۱۹۶۲ز کلونه) ===
+د یوګاندا تحت الحمایه له ۱۸۹۴ څخه تر ۱۹۶۲ ز کال پورې د بریتانیا د سترواکۍ تحت الحمایه وه. په ۱۸۹۳ ز کال د بریتانیا د سترواکۍ د ختيځې افریقا شرکت د خپل قلمرو د حقوقو مدیریت چې تر ډېره د بوګاندا له پاچهي څخه جوړ و، د بریتانیا دولت ته پرېښود. IBEAC د یوګاندایي کورنیو مذهبي جګړو وروسته چې هغه يې په رسمي ډول له سقوط سره مخامخ کړی و، پر یوګاندا خپل واک پرېښود. <ref>{{Cite journal|last=Griffiths|first=Tudor|date=2001|title=Bishop Alfred Tucker and the Establishment of a British Protectorate in Uganda 1890-94|url=https://brill.com/view/journals/jra/31/1/article-p92_4.xml|journal=Journal of Religion in Africa|volume=31|issue=1|pages=92–114|doi=10.1163/157006601X00040|issn=0022-4200}}</ref>
+
+په ۱۸۹۴ ز کال کې د يوګاندا تحت الحمایه رامنځته شوه او خاوره/قلمرو له نورو پاچاهیو سره د ډېرو تړونونو د لاسیکولو له لارې (د تورو تړون په ۱۹۰۰ز کال کې، د انکوله تړون په ۱۹۰۱ او د بونیورو تړون په ۱۹۳۳ ز کال کې) د بوګاندا له پولو څخه پراختیا ومونده چې نږدې له اوسنۍ يوګاندا سره سمون لري. <ref>{{Cite journal|last=Steinhart|first=Edward I.|date=1973|title=Royal Clientage and the Beginnings of Colonial Modernization in Toro, 1891-1900|url=https://www.jstor.org/stable/216778|journal=The International Journal of African Historical Studies|volume=6|issue=2|pages=265–285|doi=10.2307/216778|jstor=216778|issn=0361-7882}}</ref><ref>{{Cite web|title=A Thousand Years of Bunyoro-Kitara Kingdom - The People and the Rulers (Fountain Publishers, 1994, 153 p.): Appendix III: The Bunyoro Agreement 1955|url=http://www.nzdl.org/gsdlmod?e=d-00000-00---off-0unescoen--00-0----0-10-0---0---0direct-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-00&cl=CL1.10&d=HASHc3697d0c37be5024d365b7.14&x=1|access-date=2021-01-02|website=www.nzdl.org}}</ref><ref>{{Cite web|last=joz|first=Jaynnielaw|date=2015-03-22|title=The Wars of Religion 1888-1892|url=https://v2040rc.wordpress.com/uganda-country-facts/education-cultural-transformation/the-wars-of-religion-1888-1892/|access-date=2021-01-02|website=DISCOVER UGANDA, TOUR UGANDA, VOLUNTEER UGANDA & SERVE UGANDA|language=en}}</ref>
+
+تر هغه چې یوګاندا خپله د خپلواکۍ درجه خوندي کوله، د تحت الحمایې وضعیت د یوګاندا لپاره د هغه په پرتله چې د ګاونډي هېواد کينیا مستعمره وې، ډېرې متفاوتې پایلې درلودې، له دې حالت پرته به په یوه بشپړه استعماري اداره محدوده وه.  <ref>{{Cite web|last1=Dietz|first1=A. J.|last2=Studiecentrum|first2=Afrika|date=2017|title=Uganda Protectorate 1895-1902|url=https://openaccess.leidenuniv.nl/handle/1887/52081|access-date=2021-01-02|website=African Postal Heritage (APH) papers}}</ref>
+
+په ۱۸۹۰ ز لسیزه کې ختیځې افریقا ته د یوګاندا د رېل پټلۍ جوړولو لپاره  ۳۲۰۰۰ کاریګر له بریتانوي هند څخه د قراردادي کار له قراردادونو سره وګومارل شول. ډېری ژغورل شوي سور پوستي بېرته خپلو کورونو ته ستانه شول، خو ۶۷۲۴ کسانو پرېکړه وکړه چې د پټلۍ تر بشپړولو ورسته د افریقا په ختیځ کې پاتې شي، چې ورپسې ځینې سوداګر شول او د پنبې حاصلات او په پرچون ډول خرڅلاو یې په لاس کې واخیست. <ref>{{cite web|url=http://news.bbc.co.uk/2/hi/africa/762515.stm|title=Kenya's Asian heritage on display|publisher=[[BBC]]|last=Evans|first=Ruth|date=24 May 2000|access-date=18 January 2017}}</ref><ref>{{cite web|url=https://www.theeagora.com/the-lunatic-express-a-photo-essay-on-the-uganda-railway/|title=THE LUNATIC EXPRESS – A PHOTO ESSAY ON THE UGANDA RAILWAY.|publisher=[[Thee Agora]]|last=Chao|date=26 October 2014|access-date=18 January 2017|archive-url=https://web.archive.org/web/20160422095958/http://www.theeagora.com/the-lunatic-express-a-photo-essay-on-the-uganda-railway/|archive-date=22 April 2016|url-status=dead|df=dmy-all}}</ref><ref>{{cite web|url=http://www.open.ac.uk/Arts/ferguson-centre/working-papers/working-paper-draft-3-stewart-west.pdf|archive-url=https://web.archive.org/web/20150930230140/http://www.open.ac.uk/Arts/ferguson-centre/working-papers/working-paper-draft-3-stewart-west.pdf|url-status=dead|archive-date=30 September 2015|title=Policing, Colonial Life and Decolonisation in Uganda, 1957–1960|publisher=The Ferguson Centre for African and Asian Studies, Working Paper No. 03|last=West|first=Stewart|date=February 2012|pages=3–4}}</ref>
 
 ==ایداري وېش==
 
