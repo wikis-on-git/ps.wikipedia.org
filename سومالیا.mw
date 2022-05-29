@@ -1,97 +1,116 @@
-'''سومالیا''' په [[انګلیسي]] Somalia) په رسمي توګه، '''د سومالیا دموکراتیک جمهوریت''' ياديږي د [[افريقا]] په ښکر کې پروت يو [[هيواد]] دی. پلازمینه یې موګادیشو او رسمي ژبي یې [[سومالیایي ژبه|سومالیایي]] او [[عربي ژبه]] دي، یاد هیواد ۶۶۱'۶۳۷ کیلومتره مساحت او ۶۶۶'۵۵۸'۹ میلیونه وګړي لري. په ۲۶ د جون او ۱ د جنوری ۱۹۶۰م کال سومالیا له [[بریتانیا]] پخواني [[یوګسلاویا]] او له [[ایټالیا]] نه خپله خپلواکی ترلاسه کړه. د یاد هیواد د پیسو واحد [[د سومالیا شیلینګ]] (SOS) دی او ولسمشر یې [[محمد عبدالله محمد]] دی.
-
-
 {{Infobox country
-| conventional_long_name     = د سومالیا فدرالي ولسمشریزه<ref name="provisional">The ''Federal Republic of Somalia'' is the country's name per Article 1 of the [http://www.somaliweyn.com/pages/news/Aug_12/Somalia_Constitution_English_FOR_WEB.pdf Provisional Constitution] {{Webarchive|url=https://web.archive.org/web/20130124010543/http://www.somaliweyn.com/pages/news/Aug_12/Somalia_Constitution_English_FOR_WEB.pdf |date=24 January 2013}},</ref>
-| common_name                = Somalia
-| native_name                = {{Native name|so|Jamhuuriyadda Federaalka Soomaaliya}}{{سخ}}{{Native name|ar|جمهوریة الصومال الاتحادیة}}
-| image_flag                 = Flag of Somalia.svg
-| image_coat                 = Coat of arms of Somalia.svg
-| national_anthem            = "{{Lang|so|[[Qolobaa Calankeed]]|italic=no}}"{{سخ}}{{}}[[دوتنه:Somalian national anthem, performed by the United States Navy Band.oga]]{{پای}}
-| image_map                  = Somalia (orthographic projection).svg
-| map_caption                = Area controlled by Somalia shown in dark green; claimed but uncontrolled [[سومالیلانډ]]⁠ (a [[Self-proclaimed|self-declared]], [[د سومالیا اقتصاد]]) shown in light green. n.b. , zones of control are approximate at this time.<!-- Parameter is earmarked for text description of location of country per [[د هیوادونو نوملړ]]. -->
-| image_map2                 =
-| capital                    = [[موګادیشو]]
-| coordinates                = {{Coord|2|2|N|45|21|E|type:city}}
-| largest_city               = capital
-| official_languages         = [[سومالیایي ژبه]] • [[عربي ژبه]]
-| languages_type             = Foreign languages
-| languages                  = {{Hlist|[[انګلیسي]]|[[ایټالیایي ژبه]]<ref name="ethnologue.com">https://www.ethnologue.com/language/ita</ref><ref>[http://www.refworld.org/cgi-bin/texis/vtx/rwmain?page=country&category=&publisher=&type=LEGISLATION&coi=SOM&rid=456d621e2&docid=4795c2d22&skip=0 Scuola media di Mogadiscio]</ref>}}
-| religion                   = [[اسلام]]
-| demonym                    = [[سومالیایان]]<ref name="factbook"/>
-| government_type            = [[فدراسیون]] [[پارلماني ولسمشریزه]]
-| leader_title1              = [[ولسمشر‌]]
-| leader_name1               = [[محمد عبدالله محمد]]
-| leader_title2              = [[لومړی وزیر]]
-| leader_name2               = [[محمد حسین روبل]]
-| legislature                =  [[فدرال پارلمان]]
-| sovereignty_type           = [[تاریخ]]
-| established_event1                = [[د افریقایي هیوادونو نوملړ]]
-| established_date1                = ۲٬۵۰۰ مخکې له میلاده
-| established_event2                = [[پروتو-سومالیا]] formation
-| established_date2                = ۱٬۲۰۰ مخکې له میلاده
-| established_event3                = [[د ماکروبیانو ټولواکمنۍ]]
-| established_date3                = ۲۴۷ مخکې له میلاده
-| established_event4                =  سومالیا ښار-ولایتونه 
-| established_date4                = لوړۍ ۱م پیړۍ
-| established_event5                = [[د موګادیشو سلطنت]]
-| established_date5                = نهمه ۹م پیړۍ
-| established_event6                = [[د ګیلیدي سلطنت]]
-| established_date6                = اوولسمه ۱۷م پیړۍ
-| established_event7                = [[د اجوران سلطنت]]
-| established_date7                = آتلسمه ۱۸م پیړۍ
-| established_event8                = [[د هوبیو سلطنت]]
-| established_date8                = نوڼسمه ۱۹م پیړۍ
-| established_event9                = [[بریتانوی سومالیلانډ]]
-| established_date9                = ۱۸۸۴
-| established_event10                = [[ایټالیایي سومالیلانډ]]
-| established_date10               = ۱۸۸۹
-| established_event11                = اتحاد له [[سومالیلانډ]] دننه [[د سومالیا ولسمشریزه]]
-| established_date11               = ۱ جون ۱۹۶۰
-| established_event12                = [[د امنیت شورا ۱۴۱ پریکړه]], [[ملګري ملتونه]]
-| established_date12               = ۲۰ سپټمبر ۱۹۶۰
-| established_event13                = [[د سومالیا اوسنی اساسي قانون]]
-| established_date13               = ۱ اګسټ ۲۰۱۲
-| area_km2                = ۶۳۷٬۶۵۷
-| area_rank                = ۴۳ام <!--should be same as listed on [[د افریقایي پلازمینو نوملړ]]-->
-| area_sq_mi                = ۲۴۶٬۲۰۰ <!--Do not remove per [[د سومالیا کورنې جګړه]]-->
-| percent_water                =
-| population_estimate                = ۱۵,۸۹۳,۲۱۹<ref>{{United Nations. "World Population Prospects 2019"}}</ref>
-| population_estimate_year                = ۲۰۲۰
-| population_estimate_rank                = {{smaller|72nd}}
-| population_density_km2                = ۱۹.۳۱<ref name="UNFPA Somali Population Survey 2014">[https://web.archive.org/web/20161003235053/http://somalia.unfpa.org/sites/arabstates/files/pub-pdf/Population-Estimation-Survey-of-Somalia-PESS-2013-2014.pdf UNFPA Somali Population Survey 2014]. Somalia.unfpa.org (6 April 2014). Retrieved 6 October 2016.</ref>
-| population_density_sq_mi                = ۴۱٫۷۳ <!--Do not remove per [[د سومالیا جغرافیه]]-->
-| population_density_rank                = {{smaller|199ام}}
-| GDP_PPP                = [[امریکایي ډالر]] ۱۳.۳۲۴ بیلیونه
-| GDP_PPP_year                = ۲۰۱۹
-| GDP_PPP_rank                = N/A
-| GDP_PPP_per_capita                = [[امریکایي ډالر]]۸۸۸<ref name="IMFWEOSO">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=68&pr.y=11&sy=2016&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=726&s=NGDP_RPCH,NGDPD,PPPGDP&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[د پیسو نړیوال صندق]] |website=IMF.org |access-date=16 November 2019}}</ref>
-| GDP_PPP_per_capita_rank                = N/A
-| GDP_nominal                = [[امریکایي ډالر]]۵.۲۱۸ بیلیونه<ref name="IMFWEOSO">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=68&pr.y=11&sy=2016&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=726&s=NGDP_RPCH,NGDPD,PPPGDP&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[د پیسو نړیوال صندوق]] |website=IMF.org |access-date=16 November 2019}}</ref>
-| GDP_nominal_year                = ۲۰۱۹
-| GDP_nominal_rank                = {{smaller|184ام}}
-| GDP_nominal_per_capita                = [[امریکایي ډالر]]۳۴۸<ref name="IMFWEOSO">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=68&pr.y=11&sy=2016&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=726&s=NGDP_RPCH,NGDPD,PPPGDP&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[د پیسو نړیوال صندوق]] |website=IMF.org |access-date=16 November 2019}}</ref>
-| GDP_nominal_per_capita_rank                = {{smaller|193ام}}
-| Gini                = <!--number only-->
-| Gini_year                =
-| Gini_change                = <!--increase/decrease/steady-->
-| Gini_ref                =
-| Gini_rank                =
-| HDI                = ۰٫۳۵۱ <!--number only-->
-| HDI_year                = ۲۰۱۷<!-- Please use the year to which the data refers, not the publication year-->
-| HDI_change                = increase <!--increase/decrease/steady-->
-| currency                = [[د سومالیا شیلینګ]]
-| currency_code                = SOS
-| time_zone                = [[د ختیځې افریقا وخت]]
-| utc_offset                = +۳
-| utc_offset_DST                =
-| time_zone_DST                =
-| date_format                = dd/mm/yyyy
-| drives_on                = ښوی
-| calling_code                = [[د تلفون کوډ|+۲۵۲]]
-| cctld                = [[.so]]
-| today                =
-}}
+| conventional_long_name = د سومالیا فدرالي ولسمشریزه<ref name="provisional">The ''Federal Republic of Somalia'' is the country's name per Article 1 of the [http://www.somaliweyn.com/pages/news/Aug_12/Somalia_Constitution_English_FOR_WEB.pdf Provisional Constitution] {{Webarchive|url=https://web.archive.org/web/20130124010543/http://www.somaliweyn.com/pages/news/Aug_12/Somalia_Constitution_English_FOR_WEB.pdf |date=24 January 2013}},</ref>
+| common_name = Somalia
+| native_name = {{Native name|so|Jamhuuriyadda Federaalka Soomaaliya}}{{سخ}}{{Native name|ar|جمهوریة الصومال الاتحادیة}}
+| image_flag = Flag of Somalia.svg
+| image_coat = Coat of arms of Somalia.svg
+| national_anthem = "{{Lang|so|[[Qolobaa Calankeed]]|italic=no}}"{{سخ}}{{}}[[دوتنه:Somalian national anthem, performed by the United States Navy Band.oga]]{{پای}}
+| image_map = Somalia (orthographic projection).svg
+| map_caption = Area controlled by Somalia shown in dark green; claimed but uncontrolled [[سومالیلانډ]]⁠ (a [[Self-proclaimed|self-declared]], [[د سومالیا اقتصاد]]) shown in light green. n.b. , zones of control are approximate at this time.<!-- Parameter is earmarked for text description of location of country per [[د هیوادونو نوملړ]]. -->
+| image_map2 = 
+| capital = [[موګادیشو]]
+| coordinates = {{Coord|2|2|N|45|21|E|type:city}}
+| largest_city = capital
+| official_languages = [[سومالیایي ژبه]] • [[عربي ژبه]]
+| languages_type = Foreign languages
+| languages = {{Hlist|[[انګلیسي]]|[[ایټالیایي ژبه]]<ref name="ethnologue.com">https://www.ethnologue.com/language/ita</ref><ref>[http://www.refworld.org/cgi-bin/texis/vtx/rwmain?page=country&category=&publisher=&type=LEGISLATION&coi=SOM&rid=456d621e2&docid=4795c2d22&skip=0 Scuola media di Mogadiscio]</ref>}}
+| religion = [[اسلام]]
+| demonym = [[سومالیایان]]<ref name="factbook"/>
+| government_type = [[فدراسیون]] [[پارلماني ولسمشریزه]]
+| leader_title1 = [[ولسمشر‌]]
+| leader_name1 = [[محمد عبدالله محمد]]
+| leader_title2 = [[لومړی وزیر]]
+| leader_name2 = [[محمد حسین روبل]]
+| legislature = [[فدرال پارلمان]]
+| sovereignty_type = [[تاریخ]]
+| established_event1 = [[د افریقایي هیوادونو نوملړ]]
+| established_date1 = ۲٬۵۰۰ مخکې له میلاده
+| established_event2 = [[پروتو-سومالیا]] formation
+| established_date2 = ۱٬۲۰۰ مخکې له میلاده
+| established_event3 = [[د ماکروبیانو ټولواکمنۍ]]
+| established_date3 = ۲۴۷ مخکې له میلاده
+| established_event4 = سومالیا ښار-ولایتونه
+| established_date4 = لوړۍ ۱م پیړۍ
+| established_event5 = [[د موګادیشو سلطنت]]
+| established_date5 = نهمه ۹م پیړۍ
+| established_event6 = [[د ګیلیدي سلطنت]]
+| established_date6 = اوولسمه ۱۷م پیړۍ
+| established_event7 = [[د اجوران سلطنت]]
+| established_date7 = آتلسمه ۱۸م پیړۍ
+| established_event8 = [[د هوبیو سلطنت]]
+| established_date8 = نوڼسمه ۱۹م پیړۍ
+| established_event9 = [[بریتانوی سومالیلانډ]]
+| established_date9 = ۱۸۸۴
+| established_event10 = [[ایټالیایي سومالیلانډ]]
+| established_date10 = ۱۸۸۹
+| established_event11 = اتحاد له [[سومالیلانډ]] دننه [[د سومالیا ولسمشریزه]]
+| established_date11 = ۱ جون ۱۹۶۰
+| established_event12 = [[د امنیت شورا ۱۴۱ پریکړه]], [[ملګري ملتونه]]
+| established_date12 = ۲۰ سپټمبر ۱۹۶۰
+| established_event13 = [[د سومالیا اوسنی اساسي قانون]]
+| established_date13 = ۱ اګسټ ۲۰۱۲
+| area_km2 = ۶۳۷٬۶۵۷
+| area_rank = ۴۳ام <!--should be same as listed on [[د افریقایي پلازمینو نوملړ]]-->
+| area_sq_mi = ۲۴۶٬۲۰۰ <!--Do not remove per [[د سومالیا کورنې جګړه]]-->
+| percent_water = 
+| population_estimate = ۱۵,۸۹۳,۲۱۹<ref>{{United Nations. "World Population Prospects 2019"}}</ref>
+| population_estimate_year = ۲۰۲۰
+| population_estimate_rank = {{smaller|72nd}}
+| population_density_km2 = ۱۹.۳۱<ref name="UNFPA Somali Population Survey 2014">[https://web.archive.org/web/20161003235053/http://somalia.unfpa.org/sites/arabstates/files/pub-pdf/Population-Estimation-Survey-of-Somalia-PESS-2013-2014.pdf UNFPA Somali Population Survey 2014]. Somalia.unfpa.org (6 April 2014). Retrieved 6 October 2016.</ref>
+| population_density_sq_mi = ۴۱٫۷۳ <!--Do not remove per [[د سومالیا جغرافیه]]-->
+| population_density_rank = {{smaller|199ام}}
+| GDP_PPP = [[امریکایي ډالر]] ۱۳.۳۲۴ بیلیونه
+| GDP_PPP_year = ۲۰۱۹
+| GDP_PPP_rank = N/A
+| GDP_PPP_per_capita = [[امریکایي ډالر]]۸۸۸<ref name="IMFWEOSO">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=68&pr.y=11&sy=2016&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=726&s=NGDP_RPCH,NGDPD,PPPGDP&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[د پیسو نړیوال صندق]] |website=IMF.org |access-date=16 November 2019}}</ref>
+| GDP_PPP_per_capita_rank = N/A
+| GDP_nominal = [[امریکایي ډالر]]۵.۲۱۸ بیلیونه<ref name="IMFWEOSO">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=68&pr.y=11&sy=2016&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=726&s=NGDP_RPCH,NGDPD,PPPGDP&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[د پیسو نړیوال صندوق]] |website=IMF.org |access-date=16 November 2019}}</ref>
+| GDP_nominal_year = ۲۰۱۹
+| GDP_nominal_rank = {{smaller|184ام}}
+| GDP_nominal_per_capita = [[امریکایي ډالر]]۳۴۸<ref name="IMFWEOSO">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=68&pr.y=11&sy=2016&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=726&s=NGDP_RPCH,NGDPD,PPPGDP&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[د پیسو نړیوال صندوق]] |website=IMF.org |access-date=16 November 2019}}</ref>
+| GDP_nominal_per_capita_rank = {{smaller|193ام}}
+| Gini = <!--number only-->
+| Gini_year = 
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = 
+| Gini_rank = 
+| HDI = ۰٫۳۵۱ <!--number only-->
+| HDI_year = ۲۰۱۷<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| currency = [[د سومالیا شیلینګ]]
+| currency_code = SOS
+| time_zone = [[د ختیځې افریقا وخت]]
+| utc_offset = +۳
+| utc_offset_DST = 
+| time_zone_DST = 
+| date_format = dd/mm/yyyy
+| drives_on = ښوی
+| calling_code = [[د تلفون کوډ|+۲۵۲]]
+| cctld = [[.so]]
+| today = 
+}}'''سومالیا''' په [[انګلیسي]] Somalia) په رسمي توګه، '''د سومالیا دموکراتیک جمهوریت''' ياديږي د [[افريقا]] په ښکر کې پروت يو [[هيواد]] دی. پلازمینه یې موګادیشو او رسمي ژبي یې [[سومالیایي ژبه|سومالیایي]] او [[عربي ژبه]] دي، یاد هیواد ۶۶۱'۶۳۷ کیلومتره مساحت او ۶۶۶'۵۵۸'۹ میلیونه وګړي لري. په ۲۶ د جون او ۱ د جنوری ۱۹۶۰م کال سومالیا له [[بریتانیا]] پخواني [[یوګسلاویا]] او له [[ایټالیا]] نه خپله خپلواکی ترلاسه کړه. د یاد هیواد د پیسو واحد [[د سومالیا شیلینګ]] (SOS) دی او ولسمشر یې [[محمد عبدالله محمد]] دی.
+
+سومالیا په رسمي ډول د سومالیا فېدرال جمهوریت (جمهوریادا فېدرالکا سومالیا؛ په عربي ژبه: جمهورية الصومال الفيدرالية) د افریقا په ښاخ کې پروت هېواد دی. دا هېواد په لویدیځ کې له اېتوپیا، له شمال لویدیځ څخه له جیبوتي، له شمال څخه له عدن خلیج، له شرق څخه د هند سمندر او له سویل لویدیځ څخه له کینیا سره پوله لري. سومالیا د افریقا په اصلي خاوره کې تر ټولو اوږده ساحلي کرښه لري. دا خاوره تر ډېره له لوړو سطحو، بېدیاوو او ارتفاعاتو څخه جوړه ده. د ټول کال په بهیر کې ګرم شرایط له دوره‌ یي موسمي بادونو او نامنظمو وورښتونه سره په یاده خاوره حاکم دي. د سومالیا نفوس نږدې ۱۵ میلیونه اټکل شوی، چې له دوه میلیون څخه زیات یې په پلازمېنه او تر ټولو لوی ښار موګادېشو کې ژوند کوي چې له فرهنګي پلوه د افریقا تر ټولو سره ورته/ هیموجنېز هېواد دی. نږدې ۸۵ سلنه اوسېدونکي یې له سومالیایي نژاد څخه دي، چې له تاریخي پلوه د هېواد په شمال کې مېشت وو. قومي اقلیتونه په پراخ ډول په سویل کې متمرکز دي. د سومالیا رسمي ژبې سوماليایي او عربي دي. د دې هېواد ډېری اوسېدونکي مسلمانان او تر ډېره سوني مذهبه دي.<ref name="provisional">The ''Federal Republic of Somalia'' is the country's name per Article 1 of the [http://www.somaliweyn.com/pages/news/Aug_12/Somalia_Constitution_English_FOR_WEB.pdf Provisional Constitution] {{webarchive|url=https://web.archive.org/web/20130124010543/http://www.somaliweyn.com/pages/news/Aug_12/Somalia_Constitution_English_FOR_WEB.pdf|date=24 January 2013}},</ref><ref>{{cite web|url=https://www.britannica.com/place/Somalia|title=Somalia|publisher=Britannica|access-date=11 January 2021}}</ref><ref name="FactbookCoastline">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2060.html|title=Coastline|access-date=3 August 2013|work=[[The World Factbook]]|publisher=[[Central Intelligence Agency]]|archive-date=16 July 2017|archive-url=https://web.archive.org/web/20170716042040/https://www.cia.gov/library/publications/the-world-factbook/fields/2060.html|url-status=dead}}</ref><ref name="ClimateSom">{{cite news|url=http://countrystudies.us/somalia/34.htm|publisher=countrystudies.us|title=Somalia – Climate|date=14 May 2009}}</ref><ref>{{cite book|last1=Ismail|first1=AA|title=Somali state failure: Players, incentives and institutions|date=2010|quote=What is more puzzling is how this could happen in a country like Somalia, the most homogeneous country in Africa both ethnically, religiously, culturally, and linguistically}}</ref><ref>{{cite book|last1=Woldemichael|first1=B|title=Decentralisation amidst poverty and disunity: The Sudan, 1969–1983.|date=1993|quote=Somalia,  the only homogeneous country in Africa – all its people being ethnic Somalis speaking the same language and professing the same religion}}</ref><ref name="Abdullahi 2001 8_11">{{Harvnb|Abdullahi|2001|pp=8–11}}.</ref><ref>{{cite web|url=http://www.mepc.org/workshops/popstat.asp|archive-url=https://web.archive.org/web/20061214023655/http://www.mepc.org/workshops/popstat.asp|archive-date=14 December 2006|title=Middle East Policy Council – Muslim Populations Worldwide|publisher=Mepc.org|date=1 December 2005|access-date=27 June 2010}}</ref><ref name="Abdullahi 2001 1">{{Harvnb|Abdullahi|2001|p=1}}.</ref>
+
+سومالیا په لرغونې دوره کې یو مهم سوداګریز مرکز و، دا د پونت د لرغونې خاورې له تر ټولو ممکنو افسانوي ځایونو څخه ده. د منځنیو پېړیو په بهیر کې د سومالیا څو ځواکمنو امپراتوریو پر سیمه ییزو سوداګریو واک درلود چې له ډلې يې د اجوران، د ادال سلطنت او د ګلدي سلطنت یادولی شو.<ref>John Kenrick 1855) ''Phoenicia'', B. Fellowes, p. 199.</ref><ref>{{cite book|last1=Casson|first1=Lionel|title=Ancient Trade and Society|date=1984|publisher=Mich.|isbn=0-8143-1740-5|page=235|url=https://www.google.com/books?id=9iu6AAAAIAAJ|access-date=25 May 2015}}</ref><ref>{{cite book|author=Charnan Simon|title=Explorers of the Ancient World|year=1990|publisher=Childrens Press|isbn=0-516-03053-1|page=[https://archive.org/details/explorersofancie00simo/page/26 26]|url=https://archive.org/details/explorersofancie00simo|url-access=registration}}</ref><ref>Christine El Mahdy (2005) ''Egypt : 3000 Years of Civilization Brought to Life'', Raincoast Books, p. 297, {{ISBN|1-55192-879-5}}.</ref><ref>Stefan Goodwin (2006) ''Africa's Legacies of Urbanization: Unfolding Saga of a Continent'', Lexington Books, p. 48, {{ISBN|0-7391-0731-3}}.</ref>
+
+د نولسمې پېړۍ په وروستیو کې د سومالیا سلطنتونه لکه اسحاق سلطنت او مجیرتین سلطنت د بریتانیا، ایټالیا او ایتوپیا له خوا مستعمره شول. اروپایي استعمارګرانو قبیله یي سیمې په دوه مستعمرو کې سره یوځای کړې چې د ایټالیایي سومالیا او بریتانوي سومالیا تحت الحمایې وې. په دې ترڅ کې په کور دننه دروېشان د محمد عبدالله حسن په مشرۍ له حبشې، ایټالیایي سومالیا او بریتانوي سومالیا سره د دوو لسیزو لپاره په مخامخ جګړه کې ښکېل شول او په پای کې يې په ۱۹۲۰ ز کال کې د سومالیا په کمپاین کې ماته وخوړه. ایتالیا د سیمې د شمال ختیځو، مرکزي او سویلي برخو بشپړ کنترول د مجریتین او هوبیو د سلطنتونو پر وړاندې د سلطانانو ضد کمپاین تر بشپړولو وروسته ترلاسه کړ. دا دواړه سیمې په ۱۹۶۰ ز کال کې سره متحدې شوې، تر څو د یو ملکي حکومت په چوکاټ کې د سومالیا خپلواک جمهوریت رامنځته کړي.<ref>Encyclopædia Britannica, inc, Encyclopædia Britannica, Volume 1, (Encyclopædia Britannica: 2005), p.163</ref><ref>{{Harvnb|Laitin|1977|p=8}}</ref><ref name="Issa-Salwe2">{{cite book|author=Abdisalam M. Issa-Salwe|title=The Collapse of the Somali State: The Impact of the Colonial Legacy|publisher=Haan Associates|year=1996|isbn=1-874209-91-X|location=London|pages=34–35}}</ref><ref name="diiwaanka2">Diiwaanka gabayadii, 1856–1921, Maxamad Cabdulle Xasan · 1999, PAGE 219</ref><ref>Kevin Shillington (2005) ''Encyclopedia of African history'', CRC Press, p. 1406, {{ISBN|1-57958-245-1}}.</ref><ref>{{Harvnb|Samatar|1982|pp=131, 135}}.</ref><ref name="Illustrated Library 1967 338.2">''The Illustrated Library of The World and Its Peoples: Africa, North and East'', Greystone Press: 1967, p. 338.</ref>
+
+په ۱۹۶۹ ز کال کې د انقلاب عالي شورا واک ترلاسه کړ او د سومالیا دیموکراتیک جمهوریت یې رامنځته کړ او په ظالمانه ډول یې هڅه وکړه، تر څو د سومالي لنډ د خپلواکۍ غوښتنې جګړه په شمال کې وځپي. په دوام یې ۲۲ کاله وروسته په ۱۹۹۱ کال کې د سومالیا د کورنۍ جګړې له پیل سره  SRC (انقلابي عالي شورا) سقوط شوه او سومالي لنډ ډېر ژر خپله خپلواکي اعلام کړه. لا هم د سومالیا په  شمال لویدیځه برخه کې سومالي لنډ خپل کنترول لري چې له ۲۷ سلنه څخه زیاته خاوره یې په کې شاملېږي. له دغې دورې راهیسې ګڼ شمېر سیمې د سومالیا دودیزو او مذهبي قوانینو ته وروګرځېدې د ۲۰۰۰ز لسیزې په لومړیو کې یو شمېر لنډمهاله فېدرالي ادارې رامنځته شوې. په ۲۰۰۰ ز کال کې ملي انتقالي دولت (TNG) رامنځته شو, ورپسې په ۲۰۰۴ ز کال کې انتقالي فېدرالي دولت (TFG) رامنځته شو چې د سومالیا وسله وال پوځ یې بیا په پښو ودراوه.<ref>{{Cite book|last=Kapteijns|first=Lidwien|url=https://books.google.com/books?id=PBvfTmzsZ-0C&q=declared+economic+warfare+on+somalis+from+the+northwestern&pg=PA84|title=Clan Cleansing in Somalia: The Ruinous Legacy of 1991|date=18 December 2012|publisher=University of Pennsylvania Press|isbn=978-0-8122-0758-3}}</ref><ref name="Nytsnnpm">{{cite news|author=Jeffrey Gettleman|date=23 June 2011|title=Harvard-Educated Technocrat Chosen as Somalia Premier|newspaper=The New York Times|url=https://www.nytimes.com/2011/06/24/world/africa/24somalia.html?partner=rssnyt&emc=rss|access-date=23 June 2011}}</ref><ref>{{Cite web|title=|url=https://www.cfr.org/backgrounder/Somaliland_Parade}}</ref>
+
+ TFG (فېدرال انتقالي دولت) د متحده ایالاتو په ملاتړ له ایتوپیایي لاس وهنې سره د نویو رامنځته شویو اسلامي محکمو له اتحادیې (ICU) څخه د هېواد د ښکېلو سویلي زونونو د ډېرو سیمو کنترول پر غاړه واخیست. وروسته ICU د الشباب په څېر په سخت دریځو ډلو ووېشل شو چې له TFG او AMISOM متحدانو سره یې یو ځای د سیمې د کنترول لپاره جګړه کوله.
+
+یاغیانو د ۲۰۱۲ ز کال په منځنۍ برخه کې ډېری هغه سیمې له لاسه ورکړې چې ولکه کړې یې وې. له دې سره سره یاغیان لاهم د سومالیا د مرکزي او سویلي برخو ډېر کنترول په لاس کې لري او د حکومت تر کنترول لاندې سیمو کې پراخ نفوذ لري او د جلېب ښار د یاغیانو د پلازمېنې په توګه عمل کوي. نوی لنډمهالی اساسي قانون د ۲۰۱۲ ز کال په اګست کې تصویب شو چې د یو فېدارسیون په توګه د سومالیا اصلاحات/ سمونې په کې شاملې وې. د سومالیا فېدرال دولت په هم هغه میاشت کې رامنځته شو او په موګادیشو کې د بیا رغونې دوره پیل شوه. سومالیا په یو غیر رسمي اقتصاد کې پاتې شوه چې تر ډېره په مالدارۍ، له سومالیا څخه کارکوونکو پر تعرفو او ټېلي کمونيکېشن (له لرې لارې اړیکې) تکیه و. یاد هېواد د ملګرو ملتونو، عربي ژبو، افریقایي اتحادیې، د غیرمتحدو غورځنګ او د اسلامي همکاریو د سازمان غړی دی.<ref name="Aasratdocwau2">{{cite news|author=Muddassar Ahmed|date=8 August 2012|title=Somalia rising after two decades of civil war and unrest|publisher=Al Arabiya|url=http://english.alarabiya.net/views/2012/08/08/231008.html|url-status=dead|access-date=9 August 2012|archive-url=http://archive.wikiwix.com/cache/20120810180135/http://english.alarabiya.net/views/2012/08/08/231008.html|archive-date=10 August 2012}}</ref><ref name=":1">{{Cite web|title=Al-Shabab|url=https://www.cfr.org/backgrounder/al-shabab|access-date=2022-02-13|website=Council on Foreign Relations|language=en}}</ref><ref name=":2">{{Cite news|date=2020-10-26|title=Somalia conflict: Al-Shabab 'collects more revenue than government'|language=en-GB|work=BBC News|url=https://www.bbc.com/news/world-africa-54690561|access-date=2022-02-13}}</ref><ref>{{Cite web|title=Kenyan troops seize al-Shabaab base in Somalia|url=https://www.aa.com.tr/en/world/kenyan-troops-seize-al-shabaab-base-in-somalia/455875|access-date=2022-02-13|website=www.aa.com.tr}}</ref><ref>{{cite web|title=Somalia: Somali Leaders Adopt Draft Constitution|url=http://gulfnews.com/news/region/somalia/somali-leaders-adopt-draft-constitution-1.1039429|access-date=23 June 2012|publisher=ANP/AFP}}</ref><ref>{{cite news|date=1 August 2012|title=Somali leaders back new constitution|work=[[BBC News]]|url=https://www.bbc.co.uk/news/world-africa-19075685|access-date=2 August 2012}}</ref><ref>{{cite news|title=Somalia's newly-endorsed constitution widely hailed|agency=Xinhua News Agency|url=http://news.xinhuanet.com/english/indepth/2012-08/02/c_131757152.htm|url-status=dead|access-date=2 August 2012|archive-url=https://web.archive.org/web/20131007224547/http://news.xinhuanet.com/english/indepth/2012-08/02/c_131757152.htm|archive-date=7 October 2013}}</ref><ref name="Fcacsunesinpshm2">{{cite news|date=21 August 2012|title=Somalia: UN Envoy Says Inauguration of New Parliament in Somalia 'Historic Moment'|newspaper=Forum on China-Africa Cooperation|url=http://allafrica.com/stories/201208220474.html|access-date=24 August 2012}}</ref><ref>{{cite web|author=Dinfin Mulupi|date=21 June 2012|title=Mogadishu: East Africa's newest business destination?|url=http://www.howwemadeitinafrica.com/mogadishu-east-africas-newest-business-destination/17661/|access-date=26 June 2012}}</ref><ref name="Cbsef2">{{cite web|title=Central Bank of Somalia – Economy and Finance|url=http://www.somalbanca.org/economy-and-finance.html|url-status=dead|archive-url=https://web.archive.org/web/20090124192809/http://somalbanca.org/economy-and-finance.html|archive-date=24 January 2009|access-date=30 December 2010|publisher=Somalbanca.org}}</ref><ref>{{cite web|title=Member States|url=https://www.un.org/en/about-us/member-states|access-date=27 August 2021|website=United Nations|ref=gotoS}}</ref><ref>{{cite web|title=Member States|url=http://www.lasportal.org/ar/aboutlas/Pages/CountryData.aspx|access-date=27 August 2021|website=League of Arab States|language=ar}}</ref><ref>{{cite web|title=Member State Profiles|url=https://au.int/en/memberstates|access-date=27 August 2021|website=African Union}}</ref><ref>{{cite web|title=Non-Aligned Movement (NAM) &#124; What is the Non-Aligned Movement?|url=https://www.nti.org/learn/treaties-and-regimes/non-aligned-movement-nam/|access-date=27 August 2021|website=Nuclear Threat Initiative}}</ref><ref>{{cite web|title=Member States|url=https://www.oic-oci.org/states/?lan=en|access-date=27 August 2021|website=Organisation of Islamic Cooperation}}</ref>
+
+== تاریخچه ==
+
+=== له تاریخ څخه مخکې ===
+سومالیا په احتمالي ډول یو له هغو هېوادونو څخه و چې د خپل موقعیت له امله د لومړنیو انسانانو له خوا د مېشتېدو وړ شو. هغه ښکاریان چې وروسته له افریقا څخه بهر کډوال شول په احتمالي ډول له خپل مهاجرت څخه مخکې دلته مېشت شوي دي. په دې سیمه کې له ډبرمهال راهیسې د ډویېن او هارجیسان کلتورونه دلته سپړېدلي. د افریقا په ښاخ کې د سومالیا له هدیرو څخه د دودونو او کلتورونو د خښولو شواهد تر لاسه شوي چې لرغونتوب یې له میلاد څخه مخکې څلورمې زریزې ته ورګرځي. په شمال کې د جللو په سایټ کې ډبریز تجهیزات هم په ۱۹۰۹ ز کال کې د مهمو مصنوعي توکو په توګه مشخص شوي چې په پلیولیتیک دوره کې د ختیځ او لویدیځ تر منځ د لرغون پېژندنې نړیوال‌توب ښیي.<ref name=":0">{{Cite book|last=Phillipson|first=D. W.|url=https://books.google.com/books?id=lRDYAW4wXOYC&q=Eburran+industry&pg=PA125|title=African Archaeology|date=2005-05-05|publisher=Cambridge University Press|isbn=978-0-521-54002-5|language=en}}</ref><ref>{{cite book|author=Peter Robertshaw|title=A History of African Archaeology|url=https://archive.org/details/historyofafrican0000unse_j3c5/page/105|year=1990|publisher=J. Currey|isbn=978-0-435-08041-9|page=[https://archive.org/details/historyofafrican0000unse_j3c5/page/105 105]}}</ref><ref>{{Cite journal|last1=Gutherz|first1=Xavier|last2=Diaz|first2=Amélie|last3=Ménard|first3=Clément|last4=Bon|first4=François|last5=Douze|first5=Katja|last6=Léa|first6=Vanessa|last7=Lesur|first7=Joséphine|last8=Sordoillet|first8=Dominique|date=Sep 2014|title=The Hargeisan revisited: Lithic industries from shelter 7 of Laas Geel, Somaliland and the transition between the Middle and Late Stone Age in the Horn of Africa|journal=Quaternary International|language=en|volume=343|pages=69–84|doi=10.1016/j.quaint.2014.04.038|bibcode=2014QuInt.343...69G}}</ref><ref>{{Cite book|last=Clark|first=J. D.|url=https://books.google.com/books?id=hCb6xzeydigC&q=somalia+stillbay+culture&pg=PA201|title=The Prehistoric Cultures of the Horn of Africa: An Analysis of the Stone Age Cultural and Climatic Succession in the Somalilands and Eastern Parts of Abyssinia|date=2013-03-21|publisher=Cambridge University Press|isbn=978-1-107-63536-4|language=en}}</ref><ref name=":02">{{Cite book|last=Phillipson|first=D. W.|url=https://books.google.com/books?id=lRDYAW4wXOYC&q=Eburran+industry&pg=PA125|title=African Archaeology|date=2005-05-05|publisher=Cambridge University Press|isbn=978-0-521-54002-5|language=en}}</ref><ref>{{Cite book|last1=Delson|first1=Eric|url=https://books.google.com/books?id=6GFGsswTIO8C|title=Encyclopedia of Human Evolution and Prehistory: Second Edition|last2=Tattersall|first2=Ian|last3=Couvering|first3=John Van|last4=Brooks|first4=Alison S.|date=2004-11-23|publisher=Routledge|isbn=978-1-135-58228-9|language=en}}</ref><ref>{{Cite book|last1=Petraglia|first1=Michael D.|url=https://books.google.com/books?id=x6o4XLIKN0UC&q=hargesian+culture&pg=PA199|title=The Evolution of Human Populations in Arabia: Paleoenvironments, Prehistory and Genetics|last2=Rose|first2=Jeffrey I.|date=2009-11-27|publisher=Springer Science & Business Media|isbn=978-90-481-2719-1|language=en}}</ref><ref>{{cite journal|title=Early Holocene Mortuary Practices and Hunter-Gatherer Adaptations in Southern Somalia|jstor=124524|pmid=16470993|pages=40–56|last=Brandt|first=S. A.|volume=20|issue=1|journal=World Archaeology|year=1988|doi=10.1080/00438243.1988.9980055}}</ref><ref>{{cite journal|url=https://archive.org/stream/mananth9a10royauoft/mananth9a10royauoft_djvu.txt|title=Prehistoric Implements From Somaliland|author=H. W. Seton-Karr|journal=[[Man (journal)|Man]]|access-date=30 January 2011|volume=9|issue=106|pages=182–183|year=1909|author-link=Henry Seton-Karr|doi=10.2307/2840281|jstor=2840281}}</ref>
+
+د ژبپوهانو په وینا:  د افریقايي ژبو لومړنی نفوس په نیلیوتیک دوره کې سیمې ته رسېدلی او ورپسې د دې کورنۍ وړاندیز شوی اورهایمات («اصلي ټاټوبی») د نيل په دره یا نږدې ختيځ کې سیمې ته د ننه شوي. <ref>Zarins, Juris (1990), "Early Pastoral Nomadism and the Settlement of Lower Mesopotamia", (Bulletin of the American Schools of Oriental Research)</ref><ref>{{cite journal|last1=Diamond|first1=J|last2=Bellwood|first2=P|year=2003|title=Farmers and Their Languages: The First Expansions|journal=Science|volume=300|issue=5619|pages=597–603|doi=10.1126/science.1078208|pmid=12714734|bibcode=2003Sci...300..597D|s2cid=13350469}}</ref>
+
+د سومالیا په شمال لویدیځ کې د هارجیسا په څنډه کې د [[سومالیا#%20ftn1|[1]]]لاس جیل (Laas Geel) ټولګه نږدې ۵۰۰۰ کاله لرغونتوب لري او د ډبریز هنر لرونکې ده چې وحشي حیوانات او سینګار شوې غواګانې انځوروي. د نقاشۍ نورې نښې د دامبالین سیمې په شمال کې له غارونو څخه تر لاسه شوې چې پر اس سپور د یو ښکارکوونکي لومړنۍ نقاشي ده. د کاڼو/ډبرو د هنر تاریخ له میلاد څخه مخکې له ۱۰۰۰ څخه تر ۳۰۰۰ کال ته ورګرځي. پر دې سربېره د سومالیا د کارېنهېګان په شمال کې د لاس‌خوري او اېل‌ایو ښار تر منځ د غار بېلابېلې نقاشۍ له حقیقي حیواناتو څخه نیولې تر افسانوي شته دي. هره نقاشي په‌خپل پای کې یوه لیکنه لري چې په ټوله کې یې لرغونتوب ۲۵۰۰ کاله اټکل کېږي.  <ref>{{cite news|last=Bakano|first=Otto|url=https://www.google.com/hostednews/afp/article/ALeqM5jMNd90UAafsRNEDPyelL7Hee1ydw?docId=CNG.82196a5b15ef45a2d4e744675740cd6a.6e1|archive-url=https://web.archive.org/web/20130921061703/https://www.google.com/hostednews/afp/article/ALeqM5jMNd90UAafsRNEDPyelL7Hee1ydw?docId=CNG.82196a5b15ef45a2d4e744675740cd6a.6e1|archive-date=21 September 2013|title=Grotto galleries show early Somali life|agency=Agence France-Presse|date=24 April 2011|access-date=11 May 2013}}</ref><ref>{{cite journal|last=Mire|first=Sada|title=The Discovery of Dhambalin Rock Art Site, Somaliland|journal=African Archaeological Review|year=2008|volume=25|issue=3–4|pages=153–168|url=http://www.mbali.info/doc494.htm|access-date=22 June 2013|doi=10.1007/s10437-008-9032-2|s2cid=162960112|url-status=dead|archive-url=https://web.archive.org/web/20130627100400/http://www.mbali.info/doc494.htm|archive-date=27 June 2013}}</ref><ref>{{cite news|last=Alberge|first=Dalya|title=UK archaeologist finds cave paintings at 100 new African sites|url=https://www.theguardian.com/world/2010/sep/17/cave-paintings-found-in-somaliland|access-date=25 June 2013|newspaper=The Guardian|date=17 September 2010}}</ref><ref>{{cite book|last=Hodd|first=Michael|title=East African Handbook|year=1994|publisher=Trade & Travel Publications|isbn=0-8442-8983-3|page=640|url=https://books.google.com/books?id=bL8tAQAAIAAJ}}</ref><ref>{{cite book|last=Ali|first=Ismail Mohamed|title=Somalia Today: General Information|year=1970|publisher=Ministry of Information and National Guidance, Somali Democratic Republic|page=295|url=https://books.google.com/books?id=tMVAAAAAYAAJ}}</ref>
+----
 
 ==ایداري وېش==
 د سومالیا هیواد په ټوله کې په ۱۸ ایداري سیمو ویشل شوی دی.
