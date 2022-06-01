@@ -1,4 +1,3 @@
-'''کیپ ورډ''' په [[پرتګالي ژبه|پرتګالي]] República de Cabo Verde) په [[انګلیسي]] Cape Verde) رسمي نوم [[کیپ ورډ|د کیپ ورډ ولسمشریزه]] د لس اورشیندو ټاپوګانو جوړ هیواد په [[آرام سمندر]] کې موقیعت لري. یاده سیمه د [[افریقا]] لویدیځ لورته په ۵۷۰ کیلومتری کې پرته ده چې ۴۰۰۰ کیلومتره مربع مساحت لرې. پلازمینه د [[پرایا]] ښار رسمی ژبه [[پرتګالي ژبه|پرتګالي]] او د وګړو شمیر یې ۰۰'۵۰۳ تنه دي، نوموړی هیواد  ۵ د جون ۱۹۷۵م کال له [[پرتګال]] نه خپله خپلواکی ترلاسه کړی.
 {{Infobox country
 | conventional_long_name = د کیپ ورډ هیواد ولسمشریزه
 | native_name = ''República de Cabo Verde'' {{تغییر|۷۰٪|([[پرتګالي ژبه]])}}
@@ -7,7 +6,7 @@
 | image_flag = Flag of Cape Verde.svg
 | image_coat = Coat of arms of Cape Verde.svg
 | symbol_type = Emblem
-| image_map = Cape Verde (orthographic projection).svg 
+| image_map = Cape Verde (orthographic projection).svg
 | map_caption = {{Map caption|countryprefix= |location_color= |region=افریقا |region_color=خاورین|subregion=[[افریقا]] |subregion_color=اسماني}}
 | national_motto = {{نوملړ|{{native phrase|pt|Unidade, Trabalho, Progresso|italics=on|nolink=off}} |{{small|({{Lang-en|"یوالی، کار، وطن"}})}}}}
 | national_anthem = {{Native name|pt|[[Cântico da Liberdade|د خپلواکې ترانه]]|nolink=yes}}{{سخ}}({{Lang-en|"Chant of Freedom"}})<div style="padding-top:0.5em;" class="center">[[دوتنه:Cântico da Liberdade (instrumental).ogg]]</div>
@@ -22,7 +21,7 @@
 | leader_title1 = [[ولسمشر]]
 | leader_name1 = [[خورخه کارلوس فونسکا]]
 | leader_title2 = [[لومړی مرستیال|لومړی ‌وزیر]]
-| leader_name2  = [[یولیسز کوریا ای سیلوا]]
+| leader_name2 = [[یولیسز کوریا ای سیلوا]]
 | legislature = [[ولسي جرګه]]
 | area_rank = ۱۶۶ام <!-- Area rank should match [[د هیوادونو نوملړ]] -->
 | area_km2 = ۴۰۳۳
@@ -41,19 +40,19 @@
 | GDP_nominal_year = ۲۰۱۹
 | GDP_nominal_per_capita = $۳٬۶۵۱<ref name="imf.org"/>
 | sovereignty_type = جوړښت
-| established_event1  = خپلواکي له [[پرتګال]]نه 
+| established_event1 = خپلواکي له [[پرتګال]]نه
 | established_date1 = ۵ جوم ۱۹۷۵
 | established_event2 = [[څوګوندیزه حکومت]]
 | established_date2 = ۱۳ جنوري ۱۹۹۰
 | Gini_year = ۲۰۰۸
 | Gini_change = <!--increase/decrease/steady-->
 | Gini = ۴۷٫۲
-| Gini_ref =<ref name="gini-index">{{cite web |title = GINI index |url = http://data.worldbank.org/indicator/SI.POV.GINI?order=wbapi_data_value_2002+wbapi_data_value+wbapi_data_value-last&sort=asc&page=2 |publisher = World Bank |accessdate = 26 July 2013 |archive-url = https://web.archive.org/web/20131220051710/http://data.worldbank.org/indicator/SI.POV.GINI?order=wbapi_data_value_2002+wbapi_data_value+wbapi_data_value-last&sort=asc&page=2 |archive-date = 20 December 2013 |url-status=live |df = dmy-all}}</ref>
-| Gini_rank =
+| Gini_ref = <ref name="gini-index">{{cite web |title = GINI index |url = http://data.worldbank.org/indicator/SI.POV.GINI?order=wbapi_data_value_2002+wbapi_data_value+wbapi_data_value-last&sort=asc&page=2 |publisher = World Bank |accessdate = 26 July 2013 |archive-url = https://web.archive.org/web/20131220051710/http://data.worldbank.org/indicator/SI.POV.GINI?order=wbapi_data_value_2002+wbapi_data_value+wbapi_data_value-last&sort=asc&page=2 |archive-date = 20 December 2013 |url-status=live |df = dmy-all}}</ref>
+| Gini_rank = 
 | HDI_year = ۲۰۱۸<!-- Please use the year to which the data refers, not the publication year -->
 | HDI_change = increase<!--increase/decrease/steady-->
 | HDI = ۰٫۶۵۱ <!-- number only -->
-| HDI_ref =<ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[ملګري ملتونه]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[ملګري ملتونه]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
 | HDI_rank = ۱۲۶ام
 | currency = [[د کیپ ورډ اسکودو]]
 | currency_code = CVE
@@ -64,8 +63,21 @@
 | drives_on = ښوی
 | calling_code = [[+۲۳۸]]
 | cctld = [[.cv]]
-| today =
-}}
+| today = 
+}}'''کیپ ورډ''' په [[پرتګالي ژبه|پرتګالي]] República de Cabo Verde) په [[انګلیسي]] Cape Verde) رسمي نوم [[کیپ ورډ|د کیپ ورډ ولسمشریزه]] د لس اورشیندو ټاپوګانو جوړ هیواد په [[آرام سمندر]] کې موقیعت لري. یاده سیمه د [[افریقا]] لویدیځ لورته په ۵۷۰ کیلومتری کې پرته ده چې ۴۰۰۰ کیلومتره مربع مساحت لرې. پلازمینه د [[پرایا]] ښار رسمی ژبه [[پرتګالي ژبه|پرتګالي]] او د وګړو شمیر یې ۰۰'۵۰۳ تنه دي، نوموړی هیواد  ۵ د جون ۱۹۷۵م کال له [[پرتګال]] نه خپله خپلواکی ترلاسه کړی.
+
+د کېپ واردې یا کابو واردې، په رسمي ډول د کابو واردې جمهوریت، د منځني اتلانیتک په سمندر کې له کوچنیو ټاپوګانو څخه جوړ شوی ټاپو هېواد دی چې لس اور غورځوونکي ټاپوګان لري او ټول مساحت یې نږدې ۴،۰۳۳ کیلومتره مربع (۱،۵۵۷ مایل مربع) دی. دا ټاپوګان د کېپ-ورټ لویدیځ ته، چې د افریقا لویدیځه نقطه ده، له ۶۰۰ څخه تر ۸۵۰  کیلومترو (۳۲۰ څخه تر  ۴۶۰ سمندري مایل) پورې موقعیت لري. د کېپ واردې ټاپوګان له ازورس، کانري ټاپوګانو، مادیرا او ساوېچ ټاپوګانو سره یوځای د میکارونیزیا د حیاتي سیمې برخه دي. <ref name="NameNatGeo">{{cite magazine|url=http://news.nationalgeographic.com/news/2013/12/131212-maps-cabo-verde-cartography-science-cape-verde-africa/|title=Cape Verde Gets New Name: 5 Things to Know About How Maps Change|author=Tanya Basu|magazine=National Geographic|date=12 December 2013|access-date=12 December 2013|archive-url=https://web.archive.org/web/20131213044150/http://news.nationalgeographic.com/news/2013/12/131212-maps-cabo-verde-cartography-science-cape-verde-africa/|archive-date=13 December 2013|url-status=live|df=dmy-all}}</ref>
+
+د کېپ واردې ټاپوګان تر ۱۵ پېړۍ پورې، کله چې پرتګالي سپړونکو ټاپوګان کشف او مستعمره کړل، بې استوګنې وو، چې په دې توګه په استوایي سیمو کې لومړۍ اروپایي استوګنه رامنځ ته شوه. له هغه ځایه چې د کېپ واردې ټاپوګان د اتلانتیک غلامانو په سوداګرۍ کې د ونډې لپاره په غوره ځای کې موقعیت درلود، کېپ واردې د ۱۶ او ۱۷ پېړیو په اوږدو کې له اقتصادي پلوه سوکاله شو، چې سوداګر، شخصي جنګي بېړۍ او سمندري غله یې راجلب کړل. دا سیمه په ۱۹ پېړۍ کې د اتلانتیک غلامانو سوداګرۍ د رکود له امله له اقتصادي رکود سره مخ شوه، او په دې وخت کې یې زیاتره اوسېدونکي کډه شول. خو کېپ واردې په تدریجي ډول د یو مهم سوداګریز مرکز او د لوی بار وړلو لارو په اوږدو کې د غوره تمځای په توګه له اقتصادي اړخه بېرته ورغېد. په ۱۹۵۱ کال کې، کېپ واردې د پرتګال د بهرنۍ څانګې په توګه مدغم شو، خو اوسېدونکو د خپلواکۍ لپاره مبارزو ته دوام ورکړ، چې په ۱۹۷۵ کال کې ترلاسه کړه. 
+
+کېپ واردې د ۱۹۹۰ لسیزې له پیل راهیسې، یو باثباته پارلماني ډیموکراتیک نظام دی او په افریقا کې یو له ډېرو پرمختللو او دیموکراتیکو هېوادونو څخه پاتې شوی. د طبیعي زیرمو د نشتوالي له امله، د دې هېواد پراختیا په حال کې اقتصاد تر ډېره د خدماتو پر بنسټ ولاړ دی، چې په ګرځندوی او بهرنۍ پانګونې تمرکز کوي. د دې هېواد ۴۸۳، ۶۲۸ نفوس (د ۲۰۲۱ کال سرشمېرنې پر بنسټ) زیاتره د ګډ افریقایي او اروپایی میراث پاتې شوني دي او په عمده ډول د رومي کاتولیک مذهب لارویان دي چې د پرتګالي واکمنۍ میراث په ګوته کوي. په ټوله نړۍ کې، په ځانګړي توګه په متحده ایالاتو او پرتګال کې، د کېپ واردې تیت وګړو پراخې ټولنه شته، چې د ټاپوګانو له اوسېدونکو څخه یې شمېر لوړ دی. کېپ واردې د افریقایي ټولنې غړی هېواد دی. 
+
+د کېپ واردې رسمي ژبه پرتګالي ده او دا یې د زدکړې او حکومت ژبه ده. دا ژپه په ورځپاڼو، تلویزیون او راډیو کې هم کارول کېږي. رسمي ملي ژبه یې کېپ وادري کریو یا Cape Verdean Creole  ده، چې د نفوس د لوی اکثریت له خوا پرې خبرې کېږي. <ref name=":02">{{cite web|title=Constituição da República de Cabo Verde|url=https://ihl-databases.icrc.org/applic/ihl/ihl-nat.nsf/0/1437105f604ce363c1257082003ea54a/$FILE/Constitution%20Cape%20Verde%20-%20POR.pdf|url-status=live|archive-url=https://web.archive.org/web/20170312062840/https://ihl-databases.icrc.org/applic/ihl/ihl-nat.nsf/0/1437105f604ce363c1257082003ea54a/$FILE/Constitution%20Cape%20Verde%20-%20POR.pdf|archive-date=12 March 2017|access-date=11 March 2017|website=[[International Committee of the Red Cross|ICRC]] databases on international humanitarian law|at=Article 9}}</ref>
+
+== د لغت ریښه ==
+دا هېواد د سینیګال په ساحل کې د کېپ-ورټ (Cap-Vert) ټاپو د نوم پر بنسټ نومول شوی دی. د Cap-Vert نوم په خپل وار سره، د پرتګالي ژبې Cabo Verde څخه اخیستل شوی چې د شنې څوکې په معنی دی. دا نوم پرتګالي سپېړونکو په ۱۴۴۴ کال کې، څو کاله د ټاپوګانو له کشف وړاندې، کېپ ته ورکړ.  <ref>Lobban, [https://books.google.com/books?id=K8KA40g7vnQC&pg=PA4 p. 4] {{Webarchive|url=https://web.archive.org/web/20160125001356/https://books.google.com/books?id=K8KA40g7vnQC&pg=PA4|date=25 January 2016}}</ref>
+
+د ۲۰۱۳ کال د اکتوبر په ۲۴ نېټه، ملګرو ملتونو ته د دې هېواد پلاوي په ډاګه کړه چې نور هېوادونه باید نور د کېپ واردې یا د کابو واردې کومه بله ژباړه د دې هېواد د رسمي نوم د برخې په توګه ونه کاروي: ټول هېوادونه باید د کابو واردې جمهوریت د هېواد د رسمي نوم په توګه وکاروي. د انګلیسي ژبې تکلم کوونکو د کېپ واردې نوم د ټاپوګانو د ټولګې لپاره کارولی او په ۱۹۷۵ کال کې د دې هېواد له خپلواکې راهیسې یې دې هېواد ته کارولی. په ۲۰۱۳ کال کې، د کېپ واردې حکومت پرېکړه وکړه چې له دې وروسته به پرتګالي نوم Cabo Verde د رسمي موخو لپاره، د ملګرو ملتونو په ګډون، وکاروي حتی کله چې په انګلیسي ژبه کې تلکم یا لیکل کېږي. <ref>{{cite web|title=Cabo Verde põe fim à tradução da sua designação oficial|url=http://www.panapress.com/Cabo-Verde-poe-fim-a-traducao-da-sua-designacao-oficial--3-885656-47-lang4-index.html|date=31 October 2013|access-date=17 December 2013|publisher=Panapress|language=pt|trans-title=Cabo Verde puts an end to translation of its official designation|archive-url=https://web.archive.org/web/20131217224228/http://www.panapress.com/Cabo-Verde-poe-fim-a-traducao-da-sua-designacao-oficial--3-885656-47-lang4-index.html|archive-date=17 December 2013|url-status=live|df=dmy-all}}</ref> 
 
 ==ایداري وېش==
 
