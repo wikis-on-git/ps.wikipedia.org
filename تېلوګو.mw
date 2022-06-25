@@ -24,7 +24,7 @@
 |glotto=telu1262
 |glottoname=Telugu
 |glotto2=oldt1249
-|glottoname2=Old Telugu
+|glottoname2=پخوانۍ تېلوګو
 |map=Teluguspeakers.png
 |mapcaption=Distribution of native Telugu speakers in India (as of 1961)
 |notice=IPA
@@ -177,14 +177,14 @@ The table below illustrates the articulation of the consonants.<ref>Krishnamurti
 
 <nowiki>*</nowiki>The aspirated and breathy-voiced consonants occur mostly in loan words, as do the fricatives apart from native {{IPA|/s̪/}}.
 
-==Grammar==
-{{Main|Telugu grammar}}
+==ګرامر==
+{{اصلي|تېلوګو ګرامر}}
 
-The Telugu Grammar is called ''vyākaranam'' (వ్యాకరణం).
+تېلوګو ګرامر ته  ''vyākaranam'' (వ్యాకరణం)وايي.
 
 The first treatise on Telugu grammar, the ''Andhra Sabda Chintamani'' was written in Sanskrit by [[Nannayya]], considered the first Telugu poet and translator, in the 11th century A.D. This grammar followed the patterns which existed in grammatical treatises like [[Aṣṭādhyāyī]] and [[Pāṇini|Vālmīkivyākaranam]] but unlike [[Pāṇini]], Nannayya divided his work into five chapters, covering ''samjnā'', ''[[sandhi]]'', ''[[ajanta]]'', ''[[halanta]]'' and ''[[kriya]]''. Every Telugu grammatical rule is derived from [[Pāṇini]]an concepts.
 
-In the 19th century, Chinnaya Suri wrote a simplified work on Telugu grammar called ''Bāla Vyākaranam'' by borrowing concepts and ideas from Nannayya's grammar.
+په 19مه پېړۍ کې چينای سوريد تانايا له نظرياتو او ګرامر نه په ګټې اخيستنې په تېلوګو ژبه کې يو ساده ګرامر چې د بالا واکرنم''Bāla Vyākaranam'' په نوم ياديږي. 
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -200,13 +200,13 @@ In the 19th century, Chinnaya Suri wrote a simplified work on Telugu grammar cal
 ! [[Interlinear gloss|Gloss]]
 | Ramu || to school || goes.
 |-
-! Parts
-| Subject
-| Object
-| Verb
+! برخې
+| کړن
+| کړی
+| کړ
 |-
-! Translation
-| colspan="3" style="text-align:left" | Ramu goes to school.
+! ژباړه
+| colspan="3" style="text-align:left" | رامو ښوونځي ته ځي.
 |}
 
 ==Vocabulary==
@@ -218,8 +218,8 @@ The vocabulary of Telugu, especially in [[Telangana]] state, has a trove of Pers
 Modern Telugu vocabulary can be said to constitute a [[diglossia]], because the formal, standardized version of the language is [[lexical]]ly Sanskrit or is heavily influenced by Sanskrit, is taught in schools and used by the government and Hindu religious institutions. However, everyday Telugu varies depending upon region and social status.
 
 ==لیکنې سېسټم==
-[[Image:Telugu.svg|left|150px|thumb|The name ''Telugu'' written in the Telugu script]]
-{{Main|Telugu script|Telugu Braille}}
+[[Image:Telugu.svg|left|150px|thumb|The name ''تېلوګو ژبه'' په تېلوګو ليکدود ليکل کيږي]]
+{{اصلي|تېلوګو ليکدود|تېلوګو برېل ليکدود}}
 تېلوگو ژبه له کیڼ څخه ښي اړخ ته لیکل کېږي.
 
 ===د شمېرو سېسټم===
@@ -253,10 +253,10 @@ Modern Telugu vocabulary can be said to constitute a [[diglossia]], because the 
 {{Portal|Telangana|Languages|Andhra Pradesh}}
 * [[تېلوگو وگړي]]
 * [[تېلوگو گرامر]]
-* [[List of Indian languages by total speakers]]
-* [[List of Telugu-language television channels]]
-* [[States of India by Telugu speakers]]
-* [[Telugu language policy]]
+* [[د هندي ژبو لېست د وويونکو د شمېر له مخې ]]
+* [[د تېلوګو تلويزيونونو لېست]]
+* [[په هند کې تېلوګو مېشت ايالاتونه]]
+* [[د تېلوګو ژبې کړنلاره]]
 
 ==سرچینې==
 {{Reflist|colwidth=30em}}
@@ -299,20 +299,20 @@ Modern Telugu vocabulary can be said to constitute a [[diglossia]], because the 
 
 ==سرچینې==
 
-{{Dravidian languages}}
-{{Languages of India}}
-{{Telangana}}
-{{Andhra Pradesh}}
+{{دراويدي ژبې}}
+{{د هند ژبې}}
+{{تېلنګانا}}
+{{اندرا پردېش}}
 
-{{DEFAULTSORT:Telugu Language}}
+{{DEFAULTSORT:تېلوګو ژبه}}
 [[وېشنيزه:تېلوگو ژبه| ]]
 [[وېشنيزه:مرکبې ژبې]]
-[[وېشنيزه:Classical Language in India]]
-[[وېشنيزه:Dravidian languages]]
-[[وېشنيزه:Languages of Andhra Pradesh]]
-[[وېشنيزه:Languages of Puducherry]]
-[[وېشنيزه:Languages of Tamil Nadu]]
-[[وېشنيزه:Languages of Telangana]]
-[[وېشنيزه:Official languages of India]]
+[[وېشنيزه:د هند ساده ژبې ]]
+[[وېشنيزه:دراويدي ژبې]]
+[[وېشنيزه:د اندرا پردېش ژبې ]]
+[[وېشنيزه:د پوداچري ژبې]]
+[[وېشنيزه:د تاميل ناډو ژبې]]
+[[وېشنيزه:د تېلنګانا ژبې]]
+[[وېشنيزه:د هندي رسمي ژبې]]
 [[وېشنيزه:Subject–object–verb languages]]
 [[وېشنيزه:Vowel-harmony languages]]
