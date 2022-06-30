@@ -1,0 +1,40 @@
+د '''عامه معلوماتو شبکه''' (PDN) یوه شبکه ده چې د [[مخابرات|مخابراتو]] ادارې یا د یوې پېژندل شوې خصوصي عملیاتي ادارې له خوا  د خلکو  د [[د معلوماتو لیږد|معلوماتو لېږد]] او د خدماتو چمتو کولو ځانګړې موخې لپاره رامنځته شوې . لومړۍ شبکه په 1972 کې په اسپانیا کې د RETD په نوم ځای رامنځته شوه. د عامه معلوماتو شبکه یو عام نوم و چې د [[X.25]] چمتو کوونکو نړیوالې ټولګې ته ورکړل شوی و چې ګډې شبکې د 1980يمو او 1990 يمو کونو په اوږدو کې يې لوی نړیوال پوښښ درلود ،  چې د لومړني [[انټرنېټ|انټرنیټ]] لپاره يې د زېربنا چمتو کولو دنده پرمخ وړله. <ref>{{Cite book|last=Council|first1=National Research|url=https://books.google.com/books?id=Jh1pORpfvrQC&pg=PA148|title=The Unpredictable Certainty: White Papers|last2=Sciences|first2=Division on Engineering and Physical|last3=Board|first3=Computer Science and Telecommunications|last4=Applications|first4=Commission on Physical Sciences, Mathematics, and|last5=Committee|first5=NII 2000 Steering|date=1998-02-05|publisher=National Academies Press|isbn=978-0-309-17414-5|language=en}}</ref> <ref name="Schatt 1991 200">{{harv|Schatt|1991|p=200}}.{{harv|Schatt|1991|p=200}}.</ref>
+
+== څرګندونه ==
+په مخابراتو کې، PDN یو سرکیټ یا د پیکټ سویچ شوی شبکه ده چې عام وګړي يې د هغې په مرسته کولی شي په ډیجیټل بڼه ډیټا ولېږدوي. د PDN چمتو کوونکی یو شرکت دی چې PDN ته لاسرسی چمتو کوي او ترڅنګ يې د X.25 ، چوکاټ ریلی ، یا سیل ریلی ( ATM ) خدمات هم چمتو کوي. <ref>{{harv|Schatt|1991|p=207}}.</ref> PDN ته لاسرسی عموما یو تد يو ژمنه شوي پراخه بانډ په لاس کې دی  چې د ژمن معلوماتو نرخ (CIR) په نوم پېژندل کیږي. د لاسرسي لګښت په تضمین شوي نرخ پورې اړه لري. د PDN چمتو کوونکي په دې کې توپیر لري چې دوی څنګه د اړتیا وړ بینډ ویت کې د لنډمهاله زیاتوالي لپاره چارج کوي (د سرجونو په نوم پیژندل کیږي). ځینې یې د زیاتې اندازې څخه کار اخلي؛ نور د زیاتوالي موده کاروي. <ref>{{Cite book|url=https://books.google.com/books?id=3EaeBQAAQBAJ|title=Communications Standards: State of the Art Report 14:3|last=Stokes|first1=A. V.|date=2014-05-23|publisher=Elsevier|isbn=978-1-4831-6093-1|language=en}}</ref>
+
+== تاریخ ==
+تجربوي پیکټ سویچنګ شبکې د لومړي عامه ډیټا شبکې څخه مخکې وې چې په 1970يمو کلونو کې يې فعالیت پیل شوی و. په لومړنیو بېلګو کې شامل دي: RETD / Iberpac په هسپانیه کې، کوم چې په 1972 کې لومړی PDN و؛ <ref>{{cite conference|last=Alarcia|first=G.|author2=Herrera, S.|year=1974|title=C.T.N.E.'s PACKET SWITCHING NETWORK. ITS APPLICATIONS|url=http://rogerdmoore.ca/PS/CTNEA/CTA.html|pages=163–170|book-title=Proceedings of 2nd ICCC 74}}{{cite conference|last=Alarcia|first=G.|author2=Herrera, S.|year=1974|title=C.T.N.E.'s PACKET SWITCHING NETWORK. ITS APPLICATIONS|url=http://rogerdmoore.ca/PS/CTNEA/CTA.html|pages=163–170|book-title=Proceedings of 2nd ICCC 74}}</ref> <ref>{{cite conference|last=Cuenca|first=L.|year=1980|title=A PUBLIC PACKET SWITCHING DATA COMMUNICATIONS NETWORK: EIGHT YEARS OF OPERATING EXPERIENCE|url=http://rogerdmoore.ca/PS/CTNEC1.html|publisher=IEEE|pages=39.3.1–39.3.5|book-title=Conference Record of ICC 80}}</ref> <ref>{{cite conference|last=Lavandera|first=Luis|year=1980|title=ARCHITECTURE, PROTOCOLS AND PERFORMANCE OF RETD|url=http://rogerdmoore.ca/PS/RETDB.html|publisher=IEEE|pages=28.4.1–28.4.5|book-title=Conference Record of ICC 80}}</ref> په فرانسه کې RCP / Transpac ؛ په متحده ایالاتو کې Telenet ، Tymnet او CompuServe ؛ EPSS / د پیکټ سویچ جریان، په انګلستان کې؛ EIN / Euronet په EEC کې ; DATAPAC په کاناډا کې؛ او AUSTPAC په استرالیا کې.
+
+نړیوال پیکټ سویچ شوی خدمت لومړنی سوداګریز او نړیوال پیکټ سویچ شوې شبکه وه. دا د برتانوي او امریکايي مخابراتي شرکتونو ترمنځ همکاري وه چې په 1978 کال کې فعاله شوه <ref>{{Cite journal|last=Roberts|first=L.G.|date=1978|title=The evolution of packet switching|journal=Proceedings of the IEEE|volume=66|issue=11|pages=1307–1313|doi=10.1109/PROC.1978.11141|issn=1558-2256}}</ref> <ref>{{Cite journal|last=Rybczynski|first=Tony|date=2009|title=Commercialization of packet switching (1975-1985): A Canadian perspective [History of Communications]|journal=IEEE Communications Magazine|volume=47|issue=12|pages=26–31|doi=10.1109/MCOM.2009.5350364|issn=1558-1896}}</ref> <ref>{{Cite journal|last=Schwartz|first=Mischa|date=2010|title=X.25 Virtual Circuits - TRANSPAC IN France - Pre-Internet Data Networking [History of communications]|journal=IEEE Communications Magazine|volume=48|issue=11|pages=40–46|doi=10.1109/MCOM.2010.5621965|issn=1558-1896}}</ref>
+
+== د عامه سویچ ډیټا شبکه ==
+د '''عامه سویچ شوي ډیټا شبکه''' ( '''PSDN''' ) د ډیری پراخه ساحې شبکې سیسټم له لارې د ډیټا خدماتو چمتو کولو شبکه ده ،چې  د عامه سویچ شوي تلیفون شبکې (PSTN) ته ورته مانا ور کوي. <ref name="bagad">{{Cite book|last=Bagad|title=Telecommunication Switching Systems and Networks|date=2009|publisher=Technical Publications|isbn=9788184315905|pages=344|url=https://books.google.com/books?id=VfPST6NEggEC&q=psdn&pg=SA6-PA4|access-date=25 November 2016}}</ref> A PSDN ممکن د سویچ کولو بېلابېلې ټیکنالوژۍ وکاروي ، لکه د پیکټ سویچنګ ، سرکټ سویچنګ ، او د پیغام سویچنګ ټيکنالوژي. <ref name="bagad" /> د پیکټ سویچ شوی PSDN ته د پیکټ سویچ شوي ډیټا شبکه هم ویل کیږي. <ref>{{Cite book|last=Hura and Singal|title=Data and Computer Communications: Networking and Internetworking|date=2001|publisher=CRC Press|isbn=9780849309281|pages=1168|url=https://books.google.com/books?id=BViV0PoH_voC&q=psdn&pg=PA529|access-date=25 November 2016}}</ref> <ref>{{Cite book|last=Mazda|first1=Fraidoon|title=Focal Illustrated Dictionary of Telecommunications|date=2013|publisher=Taylor & Francis|isbn=9781136121029|pages=704|url=https://books.google.com/books?id=i5ZNAGQOX18C&q=psdn&pg=PA497|access-date=25 November 2016}}</ref>
+
+په اصل کې د PSDN اصطلاح یوازې د پیکټ سویچ سټریم (PSS) ته راجع کیږي، د X.25 -based پاکټ سویچ شبکه، چې ډیری یې د دایمي مجازي سرکیټونو (PVCs) په کارولو سره د سیمه ایزو شبکو او انټرنیټ ترمنځ د اجارې کرښې اتصال چمتو کولو لپاره کارول کیږي.  اصول نه یوازې د فریم ریلي او [[د غیر متناسب لیږد حالت|د غیر متناسب لېږد حالت]] (ATM) ته راجع شي، دواړه PVCs چمتو کوي، بلکې د انټرنیټ پروتوکول (IP)، GPRS ، او د کڅوړې بدلولو نور تخنیکونو ته هم اشاره کوي.
+
+په داسې حال کې چې ډیری ټیکنالوژي شته چې په سطحي ډول د PSDN سره ورته دي، لکه د مدغم خدماتو ډیجیټل شبکه (ISDN) او د ډیجیټل پیرودونکي لاین (DSL) ټیکنالوژي، دوی د دې مثالونه ندي.{{سرچینه}}ISDN د PSTN  شبکه کاروي، او DSL د PSTN محلي لوپ (د مسو تارونو) باندې پوښل شوي ټکي په ټکي سرکټ سویچنگ مخابرات کاروي، معمولا د پیکټ سویچ شوي براډبنډ IP شبکې ته د لاسرسي لپاره کارول کیږي.
+
+== د عامه معلوماتو لېږد خدمت ==
+د '''عامه ډیټا لېږد خدمت''' د ډیټا لېږد خدمت دی چې د [[مخابرات|مخابراتوادارې]]  ، یا د پېژندل شوي خصوصي عملیاتي ادارې لخوا رامینځته شوی او پرمخ وړل کیږي ، او د ''عامه ډیټا شبکه'' کاروي. د عامه معلوماتو لېږد خدمت کې ممکن د سرکټ سویچ شوي ډیټا پیکټ سویچ شوی ، او د اجاره شوي لاین ډیټا لېږد شامل وي.
+
+== دا هم وګوره ==
+
+* [[د انټرنټ تاریخ|د انټرنیټ تاریخ]]
+* ملي څېړنیزه او تعلیمي شبکه
+* د X.25 § تاریخ
+
+== سرچينې ==
+ <templatestyles src="Module:Citation/CS1/styles.css"></templatestyles><span class="citation 1037C"><cite class="citation web cs1">[https://web.archive.org/web/20220122224547/https://www.its.bldrdoc.gov/fs-1037/fs-1037c.htm "Federal Standard 1037C"].</cite></span>
+{{لړسرچينې}}
+
+== نور لوستل ==
+ 
+[[وېشنيزه:عامه م]]
+[[وېشنيزه:پوسته خانه]]
+[[وېشنيزه:تليفون]]
+[[وېشنيزه:موبا]]
+[[وېشنيزه:ويکي پي]]
+[[وېشنيزه:پښتو ليکنې]]
+[[وېشنيزه:عراق]]
+[[وېشنيزه:عامه خد]]
